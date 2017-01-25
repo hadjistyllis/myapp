@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 24/1/17
+#EXTINF:-1 ,Updated 25/1/17
 http://.....
 
 
@@ -33,9 +33,9 @@ http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 http://188.165.119.235:65116
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA 
+#EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/777485.png ,EXTRA 
 http://188.165.119.235:65119 
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/89/TV_PLUS_Logo.gif ,PLUS 
+#EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/201.png ,PLUS 
 http://188.165.119.235:65120 
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
@@ -295,14 +295,9 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 #EXTINF:3 group-title=”USA”, 
 #EXTINF:-1 ,NOTE:LIMITED
 http://.....
-#EXTINF:-1 ,CONNECTIONS
+#EXTINF:-1 ,CONNECTIONS.
 http://.....
-#EXTINF:-1 ,Retry each channel
-http://.....
-#EXTINF:-1 ,about 5 times
-http://.....
-#EXTINF:-1 ,it may work
-http://.....
+
 
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
@@ -486,12 +481,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
 http://.....
 #EXTINF:-1 ,CONNECTIONS
 http://.....
-#EXTINF:-1 ,Retry each channel
-http://.....
-#EXTINF:-1 ,about 5 times
-http://.....
-#EXTINF:-1 ,it may work
-http://.....
+
 
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.m3u8
@@ -730,7 +720,30 @@ http://visiosoftltd.com:8080/streamflare/bt1/playlist.m3u8
 #EXTINF:-1, BT SPORT 2
 http://visiosoftltd.com:8080/streamflare/bt2/playlist.m3u8
 
-
+#EXTINF:-1,Pick
+http://82.69.11.30:4022/udp/239.255.1.11:5004
+#EXTINF:-1,Dave
+http://82.69.11.30:4022/udp/239.255.1.12:5004
+#EXTINF:-1,E4+1
+http://82.69.11.30:4022/udp/239.255.1.29:5004
+#EXTINF:-1,Sony Movie Ch
+http://82.69.11.30:4022/udp/239.255.1.32:5004
+#EXTINF:-1,Create & Craft
+http://82.69.11.30:4022/udp/239.255.1.36:5004
+#EXTINF:-1,Food Network
+http://82.69.11.30:4022/udp/239.255.1.41:5004
+#EXTINF:-1,Challenge
+http://82.69.11.30:4022/udp/239.255.1.46:5004
+#EXTINF:-1,movies4men
+http://82.69.11.30:4022/udp/239.255.1.48:5004
+#EXTINF:-1,TBN UK
+http://82.69.11.30:4022/udp/239.255.1.65:5004
+#EXTINF:-1,truTV
+http://82.69.11.30:4022/udp/239.255.1.68:5004
+#EXTINF:-1,Tiny Pop
+http://82.69.11.30:4022/udp/239.255.1.126:5004
+#EXTINF:-1,Sky News
+http://82.69.11.30:4022/udp/239.255.1.132:5004
 
 
 
@@ -834,6 +847,49 @@ http://31.13.223.103:1935/vtv/vtv.stream/playlist.m3u8?hash=?
 #EXTINF:0,vvv
 rtmp://vvv.bg:1935/live/vvv.flv
 
+#EXTINF:-1,Ring 
+http://185.53.163.216:3115 
+#EXTINF:-1,B Comedy 
+http://185.53.163.216:3111 
+#EXTINF:-1,B cinema 
+http://185.53.163.216:3110 
+#EXTINF:-1,FOX CRIME 
+http://185.53.163.216:3109 
+#EXTINF:-1,СКАТ 
+http://185.53.163.216:3107 
+#EXTINF:-1,AXN 
+http://185.53.163.216:3106 
+#EXTINF:-1,Fox Life 
+http://185.53.163.216:3108 
+#EXTINF:-1,BiT 
+http://185.53.163.216:3105 
+#EXTINF:-1,Eurosport 2 
+http://185.53.163.216:3104 
+#EXTINF:-1,18 
+http://185.53.163.216:3103 
+#EXTINF:-1,БНТ 2 
+http://185.53.163.216:3102 
+#EXTINF:-1,National Geographic 
+http://185.53.163.216:3101 
+#EXTINF:-1,Diema Famely 
+http://185.53.163.216:3100 
+#EXTINF:-1,Kinonova 
+http://185.53.163.216:3010 
+#EXTINF:-1,VH1 European 
+http://185.53.163.216:3007 
+#EXTINF:-1,Nova 
+http://185.53.163.216:3006 
+#EXTINF:-1,F+ 
+http://185.53.163.216:3005 
+#EXTINF:-1,TV+ 
+http://185.53.163.216:3004 
+#EXTINF:-1,БНТ HD 
+http://185.53.163.216:3003 
+#EXTINF:-1,bTV 
+http://185.53.163.216:3002 
+#EXTINF:-1,БНТ1 
+http://185.53.163.216:3001
+
 #EXTINF:-1, balkanika
 http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=balkanika
 #EXTINF:-1, bnt-1
@@ -889,113 +945,7 @@ http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=pla
 #EXTINF:-1, ring-tv
 http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=ring-tv
 
-#EXTINF:-1,Ring 
-http://185.53.163.216:3115 
-#EXTINF:-1,B Comedy 
-http://185.53.163.216:3111 
-#EXTINF:-1,B cinema 
-http://185.53.163.216:3110 
-#EXTINF:-1,FOX CRIME 
-http://185.53.163.216:3109 
-#EXTINF:-1,СКАТ 
-http://185.53.163.216:3107 
-#EXTINF:-1,AXN 
-http://185.53.163.216:3106 
-#EXTINF:-1,Fox Life 
-http://185.53.163.216:3108 
-#EXTINF:-1,BiT 
-http://185.53.163.216:3105 
-#EXTINF:-1,Eurosport 2 
-http://185.53.163.216:3104 
-#EXTINF:-1,18 
-http://185.53.163.216:3103 
-#EXTINF:-1,БНТ 2 
-http://185.53.163.216:3102 
-#EXTINF:-1,National Geographic 
-http://185.53.163.216:3101 
-#EXTINF:-1,Diema Famely 
-http://185.53.163.216:3100 
-#EXTINF:-1,Kinonova 
-http://185.53.163.216:3010 
-#EXTINF:-1,VH1 European 
-http://185.53.163.216:3007 
-#EXTINF:-1,Nova 
-http://185.53.163.216:3006 
-#EXTINF:-1,F+ 
-http://185.53.163.216:3005 
-#EXTINF:-1,TV+ 
-http://185.53.163.216:3004 
-#EXTINF:-1,БНТ HD 
-http://185.53.163.216:3003 
-#EXTINF:-1,bTV 
-http://185.53.163.216:3002 
-#EXTINF:-1,БНТ1 
-http://185.53.163.216:3001
 
-#EXTINF:-1,БНТ 1
-http://37.48.106.90/hlsedge/bnt-1/playlist.m3u8
-#EXTINF:-1,БНТ 2
-http://37.48.106.90/hlsedge/bnt-2/playlist.m3u8
-#EXTINF:-1,БНТ HD
-http://37.48.106.90/hlsedge/bnt-hd/playlist.m3u8
-#EXTINF:-1,БНТ Action
-http://37.48.106.90/hlsedge/btv-action/index.m3u8
-#EXTINF:-1,БНТ Cinema
-http://37.48.106.90/hlsedge/btv-cinema/index.m3u8
-#EXTINF:-1,БНТ Comedy
-http://37.48.106.90/hlsedge/btv-comedy/index.m3u8
-#EXTINF:-1,БНТ Lady
-http://37.48.106.90/hlsedge/btv-lady/index.m3u8
-#EXTINF:-1,БНТ
-http://37.48.106.90/hlsedge/btv/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://37.48.106.90/hlsedge/cartoon-network/playlist.m3u8
-#EXTINF:-1,Diema Family
-http://37.48.106.90/hlsedge/diema-family/index.m3u8
-#EXTINF:-1,Diema Sport 2
-http://37.48.106.90/hlsedge/diema-sport-2/index.m3u8
-#EXTINF:-1,Diema Sport
-http://37.48.106.90/hlsedge/diema-sport/index.m3u8
-#EXTINF:-1,Diema
-http://37.48.106.90/hlsedge/diema/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://37.48.106.90/hlsedge/discovery-channel/index.m3u8
-#EXTINF:-1,Disney channel
-http://37.48.106.90/hlsedge/disney-channel/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://37.48.106.90/hlsedge/eurosport-1/playlist.m3u8
-#EXTINF:-1,Eurosport 2
-http://37.48.106.90/hlsedge/eurosport-2/playlist.m3u8
-#EXTINF:-1,Fen TV HD
-http://37.48.106.90/hlsedge/fen-tv-hd/playlist.m3u8
-#EXTINF:-1,Fen TV
-http://37.48.106.90/hlsedge/fen-tv/playlist.m3u8
-#EXTINF:-1,Fox Crime
-http://37.48.106.90/hlsedge/fox-crime/playlist.m3u8
-#EXTINF:-1,Fox Life
-http://37.48.106.90/hlsedge/fox-life/playlist.m3u8
-#EXTINF:-1,Fox
-http://37.48.106.90/hlsedge/fox/playlist.m3u8
-#EXTINF:-1,ID Extra
-http://37.48.106.90/hlsedge/id-extra/playlist.m3u8
-#EXTINF:-1,Kanal 3
-http://37.48.106.90/hlsedge/kanal-3/playlist.m3u8
-#EXTINF:-1,Kino Nova
-http://37.48.106.90/hlsedge/kino-nova/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://37.48.106.90/hlsedge/nat-geo-wild/index.m3u8
-#EXTINF:-1,National Geographic
-http://37.48.106.90/hlsedge/national-geographic/index.m3u8
-#EXTINF:-1,Nova Sport
-http://37.48.106.90/hlsedge/nova-sport/index.m3u8
-#EXTINF:-1,Nova TV
-http://37.48.106.90/hlsedge/nova-tv/index.m3u8
-#EXTINF:-1,Planeta TV
-http://37.48.106.90/hlsedge/planeta-tv/playlist.m3u8
-#EXTINF:-1,Ring TV
-http://37.48.106.90/hlsedge/ring-tv/playlist.m3u8
-#EXTINF:-1,TV Evropa
-http://37.48.106.90/hlsedge/tv-evropa/playlist.m3u8
 
 
 
@@ -1081,32 +1031,7 @@ http://185.59.222.39:9000/play/a001
 http://185.59.222.39:9000/play/a00a
 #EXTINF:-1,Shant TV Armenia
 http://185.59.222.39:9000/play/a004
-#EXTINF:-1,Armenia TV
-http://95.140.197.69:8000/channel-201
-#EXTINF:-1,H1
-http://95.140.197.69:8000/channel-202
-#EXTINF:-1,Shant TV
-http://95.140.197.69:8000/channel-203
-#EXTINF:-1,Канал Disney
-http://95.140.197.69:8000/channel-204
-#EXTINF:-1,Erkir Media
-http://95.140.197.69:8000/channel-209
-#EXTINF:-1,Armnews
-http://95.140.197.69:8000/channel-210
-#EXTINF:-1,H2
-http://95.140.197.69:8000/channel-211
-#EXTINF:-1,Kentron
-http://95.140.197.69:8000/channel-212
-#EXTINF:-1,Ararat Tv
-http://95.140.197.69:8000/channel-213
-#EXTINF:-1,Ar TV
-http://95.140.197.69:8000/channel-214
-#EXTINF:-1,ATV
-http://95.140.197.69:8000/channel-215
-#EXTINF:-1,H3
-http://95.140.197.69:8000/channel-216
-#EXTINF:-1,Dar 21
-http://95.140.197.69:8000/channel-232
+
 
 
 
@@ -1407,80 +1332,32 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chun
 #EXTINF:0,WDR
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
+#EXTINF:-1,3sat
+http://188.60.0.80:9981/stream/channelid/2
+#EXTINF:-1,ard
+http://188.60.0.80:9981/stream/channelid/1
+#EXTINF:-1,deluxe music
+http://188.60.0.80:9981/stream/channelid/12
+#EXTINF:-1,fine living
+http://188.60.0.80:9981/stream/channelid/3
+#EXTINF:-1,itv 1 uk
+http://188.60.0.80:9981/stream/channelid/4
+#EXTINF:-1,mtv ch hd
+http://188.60.0.80:9981/stream/channelid/7
+#EXTINF:-1,pro 7 maxx
+http://188.60.0.80:9981/stream/channelid/5
+#EXTINF:-1,sport1
+http://188.60.0.80:9981/stream/channelid/6
+#EXTINF:-1,the box
+http://188.60.0.80:9981/stream/channelid/8
+#EXTINF:-1,trace tropical
+http://188.60.0.80:9981/stream/channelid/11
+#EXTINF:-1,trace urban
+http://188.60.0.80:9981/stream/channelid/10
+#EXTINF:-1,viva ch
+http://188.60.0.80:9981/stream/channelid/9
 
 
-#EXTINF:1,Sport Italia
-http://83.79.183.53:1145
-EXTINF:1,AXN SCI-FI
-http://83.79.183.53:1170
-#EXTINF:1,RTL Crime
-http://83.79.183.53:6001
-#EXTINF:1,SKY CINEMA 24
-http://83.79.183.53:6002
-#EXTINF:1,MGM
-http://83.79.183.53:6003
-#EXTINF:1,Nat Geo
-http://83.79.183.53:6004
-#EXTINF:1,RTL Passion
-http://83.79.183.53:6005
-#EXTINF:1,SKY Hits
-http://83.79.183.53:6006
-#EXTINF:1,Sky Sports
-http://83.79.183.53:6007
-#EXTINF:1,SKY Cinema
-http://83.79.183.53:6008
-#EXTINF:1,SKY Krimi
-http://83.79.183.53:6009
-#EXTINF:1,SKY Cinema
-http://83.79.183.53:6010
-#EXTINF:1,SKY Sports 1
-http://83.79.183.53:6011
-#EXTINF:1,SKY Sport News
-http://83.79.183.53:6012
-#EXTINF:1,Classica
-http://83.79.183.53:6013
-#EXTINF:1,Disney Junior
-http://83.79.183.53:6014
-#EXTINF:1,Disney
-http://83.79.183.53:6015
-#EXTINF:1,Disney Junior
-http://83.79.183.53:6016
-#EXTINF:1,KinoWelt TV
-http://83.79.183.53:6017
-#EXTINF:1,SKY Select
-http://83.79.183.53:6018
-#EXTINF:1,TNT Comedy
-http://83.79.183.53:6021
-#EXTINF:1,SKY SELECT
-http://83.79.183.53:6022
-#EXTINF:1,SKY SELECT
-http://83.79.183.53:6023
-#EXTINF:1,13TH Street
-http://83.79.183.53:6024
-#EXTINF:1,TNT Series
-http://83.79.183.53:6025
-#EXTINF:1,SYFY
-http://83.79.183.53:6026
-#EXTINF:1,Spiegel Gechichte
-http://83.79.183.53:6027
-#EXTINF:1,Nat Geo Wild
-http://83.79.183.53:6029
-#EXTINF:1,SKY Sport Austria
-http://83.79.183.53:6030
-#EXTINF:1,Heimat Kanal
-http://83.79.183.53:6031
-#EXTINF:1,Gold Star TV
-http://83.79.183.53:6032
-#EXTINF:1,Disney Cinemagic
-http://83.79.183.53:6033
-#EXTINF:1,FOX
-http://83.79.183.53:6034
-#EXTINF:1,SKY Cinema
-http://83.79.183.53:6035
-#EXTINF:1,SKY Sport 2
-http://83.79.183.53:6037
-#EXTINF:1,Discovery
-http://83.79.183.53:6200
 
 
 
@@ -1585,7 +1462,6 @@ http://tinyurl.com/hmcbkod
 http://tinyurl.com/hohop93
 #EXTINF:0,CASTILLA LA MANCHA
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTM3U
 #EXTINF:0,Alfa TV (Spain)
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 #EXTINF:0,C5n
@@ -1598,7 +1474,8 @@ mms://streaming.uanl.mx/canal53bandaancha/
 rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live
 #EXTINF:0,Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
-#EXTINF:0,Canal Rural HD rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:0,Canal Rural HD 
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
 #EXTINF:0,Canal Rural movil
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
 #EXTINF:0,CanalDelConocimiento
@@ -1636,172 +1513,6 @@ rtmp://streamspub.manasat.com/tvar/tvmanaar1
 #EXTINF:0,Willax TV (Peru)
 rtmp://willax.mediastream.pe/vv_willax/livestream
 
-#EXTINF:1,Amc
-http://iptv.iptvmanagerpro.com/streams/55/stream.m3u8
-#EXTINF:1,Fox Cinema
-http://iptv.iptvmanagerpro.com/streams/53/stream.m3u8
-#EXTINF:1,Golden HD
-http://iptv.iptvmanagerpro.com/streams/54/stream.m3u8
-#EXTINF:1,Fox Life
-http://iptv.iptvmanagerpro.com/streams/44/stream.m3u8
-#EXTINF:1,Mtv
-http://iptv.iptvmanagerpro.com/streams/10/stream.m3u8
-#EXTINF:1,Sony
-http://iptv.iptvmanagerpro.com/streams/11/stream.m3u8
-#EXTINF:1,Tnt
-http://iptv.iptvmanagerpro.com/streams/15/stream.m3u8
-#EXTINF:1,Cartoon Network
-http://iptv.iptvmanagerpro.com/streams/16/stream.m3u8
-#EXTINF:1,Canal once
-http://iptv.iptvmanagerpro.com/streams/18/stream.m3u8
-#EXTINF:1,Discovery channel
-http://iptv.iptvmanagerpro.com/streams/19/stream.m3u8
-#EXTINF:1,Disney Channel
-http://iptv.iptvmanagerpro.com/streams/20/stream.m3u8
-#EXTINF:1,Nick
-http://iptv.iptvmanagerpro.com/streams/21/stream.m3u8
-#EXTINF:1,Discovery kids
-http://iptv.iptvmanagerpro.com/streams/22/stream.m3u8
-#EXTINF:1,Nat Geo
-http://iptv.iptvmanagerpro.com/streams/23/stream.m3u8
-#EXTINF:1,Bloomberg
-http://iptv.iptvmanagerpro.com/streams/24/stream.m3u8
-#EXTINF:1,Disney jr
-http://iptv.iptvmanagerpro.com/streams/25/stream.m3u8
-#EXTINF:1,Fx
-http://iptv.iptvmanagerpro.com/streams/29/stream.m3u8
-#EXTINF:1,Disney Xd
-http://iptv.iptvmanagerpro.com/streams/30/stream.m3u8
-#EXTINF:1,Tooncast
-http://iptv.iptvmanagerpro.com/streams/31/stream.m3u8
-#EXTINF:1,Universal Channel
-http://iptv.iptvmanagerpro.com/streams/33/stream.m3u8
-#EXTINF:1,Life Time
-http://iptv.iptvmanagerpro.com/streams/34/stream.m3u8
-#EXTINF:1,ESPN 2
-http://iptv.iptvmanagerpro.com/streams/35/stream.m3u8
-#EXTINF:1,Espn 3
-http://iptv.iptvmanagerpro.com/streams/36/stream.m3u8
-#EXTINF:1,Golden Edge
-http://iptv.iptvmanagerpro.com/streams/37/stream.m3u8
-#EXTINF:1,Tiin
-http://iptv.iptvmanagerpro.com/streams/40/stream.m3u8
-#EXTINF:1,Syfy
-http://iptv.iptvmanagerpro.com/streams/42/stream.m3u8
-#EXTINF:1,Unicable
-http://iptv.iptvmanagerpro.com/streams/43/stream.m3u8
-#EXTINF:1,E!
-http://iptv.iptvmanagerpro.com/streams/45/stream.m3u8
-#EXTINF:1,Aym sports
-http://iptv.iptvmanagerpro.com/streams/47/stream.m3u8
-#EXTINF:1,A&e
-http://iptv.iptvmanagerpro.com/streams/48/stream.m3u8
-#EXTINF:1,Nick Jr
-http://iptv.iptvmanagerpro.com/streams/49/stream.m3u8
-#EXTINF:1,Cbeebies
-http://iptv.iptvmanagerpro.com/streams/50/stream.m3u8
-#EXTINF:1,Boomerang
-http://iptv.iptvmanagerpro.com/streams/51/stream.m3u8
-#EXTINF:1,Fox Classic
-http://iptv.iptvmanagerpro.com/streams/52/stream.m3u8
-#EXTINF:1,n
-http://iptv.iptvmanagerpro.com/streams/55/stream.m3u8
-#EXTINF:1,Studio universal
-http://iptv.iptvmanagerpro.com/streams/56/stream.m3u8
-#EXTINF:1,Tcm
-http://iptv.iptvmanagerpro.com/streams/57/stream.m3u8
-#EXTINF:1,Bbc
-http://iptv.iptvmanagerpro.com/streams/58/stream.m3u8
-#EXTINF:1,Comedy Central
-http://iptv.iptvmanagerpro.com/streams/59/stream.m3u8
-#EXTINF:1,Discovery Civilizatión
-http://iptv.iptvmanagerpro.com/streams/61/stream.m3u8
-#EXTINF:1,Discovery sciense
-http://iptv.iptvmanagerpro.com/streams/62/stream.m3u8
-#EXTINF:1,Discovery turbo
-http://iptv.iptvmanagerpro.com/streams/63/stream.m3u8
-#EXTINF:1,Discovery theater
-http://iptv.iptvmanagerpro.com/streams/64/stream.m3u8
-#EXTINF:1,Investigatión discovery
-http://iptv.iptvmanagerpro.com/streams/65/stream.m3u8
-#EXTINF:1,Home and healt
-http://iptv.iptvmanagerpro.com/streams/66/stream.m3u8
-#EXTINF:1,I sat
-http://iptv.iptvmanagerpro.com/streams/69/stream.m3u8
-#EXTINF:1,Nicktoons
-http://iptv.iptvmanagerpro.com/streams/70/stream.m3u8
-#EXTINF:1,El gourmet
-http://iptv.iptvmanagerpro.com/streams/71/stream.m3u8
-#EXTINF:1,n
-http://iptv.iptvmanagerpro.com/streams/72/stream.m3u8
-#EXTINF:1,Trutv
-http://iptv.iptvmanagerpro.com/streams/73/stream.m3u8
-#EXTINF:1,Axn
-http://iptv.iptvmanagerpro.com/streams/74/stream.m3u8
-#EXTINF:1,Fox
-http://iptv.iptvmanagerpro.com/streams/8/stream.m3u8
-#EXTINF:1,Las Estrellas
-http://iptv.iptvmanagerpro.com/streams/7/stream.m3u8
-#EXTINF:1,Tlnovelas
-http://iptv.iptvmanagerpro.com/streams/9/stream.m3u8
-#EXTINF:1,Fox Action
-http://proxy.iptvmanagerpro.com/streams/88/stream.m3u8
-#EXTINF:1,Fox1
-http://proxy.iptvmanagerpro.com/streams/89/stream.m3u8
-#EXTINF:1,Az Corazón
-http://proxy.iptvmanagerpro.com/streams/90/stream.m3u8
-#EXTINF:1,Espn
-http://proxy.iptvmanagerpro.com/streams/95/stream.m3u8
-#EXTINF:1,Telefórmula
-http://proxy.iptvmanagerpro.com/streams/99/stream.m3u8
-#EXTINF:1,Telehit
-http://proxy.iptvmanagerpro.com/streams/100/stream.m3u8
-#EXTINF:1,Foro tv
-http://proxy.iptvmanagerpro.com/streams/101/stream.m3u8
-#EXTINF:1,Fox sports
-http://proxy.iptvmanagerpro.com/streams/102/stream.m3u8
-#EXTINF:1,Espn+
-http://proxy.iptvmanagerpro.com/streams/103/stream.m3u8
-#EXTINF:1,Motors
-http://proxy.iptvmanagerpro.com/streams/104/stream.m3u8
-#EXTINF:1,Tlc
-http://proxy.iptvmanagerpro.com/streams/105/stream.m3u8
-#EXTINF:1,Wobi
-http://proxy.iptvmanagerpro.com/streams/107/stream.m3u8
-#EXTINF:1,Proyecto 40
-http://proxy.iptvmanagerpro.com/streams/109/stream.m3u8
-#EXTINF:1,Hola Tv
-http://proxy.iptvmanagerpro.com/streams/110/stream.m3u8
-#EXTINF:1,Milenio
-http://proxy.iptvmanagerpro.com/streams/111/stream.m3u8
-#EXTINF:1,Fashion
-http://proxy.iptvmanagerpro.com/streams/112/stream.m3u8
-#EXTINF:1,Az mundo
-http://proxy.iptvmanagerpro.com/streams/113/stream.m3u8
-#EXTINF:1,Az Cinemá
-http://proxy.iptvmanagerpro.com/streams/114/stream.m3u8
-#EXTINF:1,Cinemax
-http://proxy.iptvmanagerpro.com/streams/115/stream.m3u8
-#EXTINF:1,Nick2
-http://proxy.iptvmanagerpro.com/streams/80/stream.m3u8
-#EXTINF:1,Bandamax
-http://proxy.iptvmanagerpro.com/streams/84/stream.m3u8
-#EXTINF:1,De Película
-http://proxy.iptvmanagerpro.com/streams/85/stream.m3u8
-#EXTINF:1,Az clic
-http://proxy.iptvmanagerpro.com/streams/116/stream.m3u8
-#EXTINF:1,n
-http://s5.tvplayerlatino.com/stk/H2/index.m3u8
-#EXTINF:-1,SONY
-http://iptv.iptvmanagerpro.com/streams/11/stream.m3u8
-#EXTINF:-1,TNT
-http://iptv.iptvmanagerpro.com/streams/15/stream.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://iptv.iptvmanagerpro.com/streams/16/stream.m3u8
-#EXTINF:-1,ONCE HD
-http://iptv.iptvmanagerpro.com/streams/18/stream.m3u8
-#EXTINF:-1,DISCOVERY
-http://iptv.iptvmanagerpro.com/streams/19/stream.m3u8
 
 #EXTINF:0,Univision 23
 http://170.55.15.122:8000/play/a01u
@@ -1873,73 +1584,6 @@ http://198.255.76.34:8080/tvcine3/index.m3u8
 #EXTINF:-1,TVC4HD
 http://198.255.76.34:8080/tvcine4/index.m3u8
 
-#EXTINF:0,Biggs 
-http://213.188.51.185:9981/play/a00x 
-#EXTINF:0,MOV 
-http://213.188.51.185:9981/play/a00d 
-#EXTINF:0,Disney Junior 
-http://213.188.51.185:9981/play/a00n 
-#EXTINF:0,TLC 
-http://213.188.51.185:9981/play/a00m 
-#EXTINF:0,TVE Internacional 
-http://213.188.51.185:9981/play/a00y 
-#EXTINF:0,FOX Movies 
-http://213.188.51.185:9981/play/a00p 
-#EXTINF:0,Eurosport 2 Xtra HD 
-http://213.188.51.185:9981/play/a013 
-#EXTINF:0,Motorvision 
-http://213.188.51.185:9981/play/a00j 
-#EXTINF:0,VH1 Classic 
-http://213.188.51.185:9981/play/a011 
-#EXTINF:0,Ca 
-http://213.188.51.185:9981/play/a00c 
-#EXTINF:0,TVI Internacional 
-http://213.188.51.185:9981/play/a016 
-#EXTINF:0,24 Kitchen HD 
-http://213.188.51.185:9981/play/a00l 
-#EXTINF:0,TVI Reality 
-http://213.188.51.185:9981/play/a007 
-#EXTINF:0,SIC Not 
-http://213.188.51.185:9981/play/a00k 
-#EXTINF:0,Fuel TV 
-http://213.188.51.185:9981/play/a012 
-#EXTINF:0,A&E 
-http://213.188.51.185:9981/play/a00f 
-#EXTINF:0,Sporting TV 
-http://213.188.51.185:9981/play/a009 
-#EXTINF:0,VH1 
-http://213.188.51.185:9981/play/a00o 
-#EXTINF:0,VH1 Classic 
-http://213.188.51.185:9981/play/a018 
-#EXTINF:0,PFC 
-http://213.188.51.185:9981/play/a00s 
-#EXTINF:0,Hot 
-http://213.188.51.185:9981/play/a00i 
-#EXTINF:0,Sport TV + 
-http://213.188.51.185:9981/play/a00g 
-#EXTINF:0,Can 
-http://213.188.51.185:9981/play/a00w 
-#EXTINF:0,SIC Mulher 
-http://213.188.51.185:9981/play/a00e 
-#EXTINF:0,FOX Crime HD 
-http://213.188.51.185:9981/play/a010 
-#EXTINF:0,Nickelodeon 
-http://213.188.51.185:9981/play/a00b 
-#EXTINF:0,FOX Life HD 
-http://213.188.51.185:9981/play/a00z 
-#EXTINF:0,Sport TV 5 
-http://213.188.51.185:9981/play/a008
-
-
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/Biggs_logo.png/200px-Biggs_logo.png" ,Biggs
-http://tinyurl.com/goj46ke
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/zECIhAIYlXw/hqdefault.jpg" ,NICKELODEON
-http://tinyurl.com/hr6j9vq
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/zECIhAIYlXw/hqdefault.jpg" ,DISNEY JUNIOR
-http://tinyurl.com/zfe8kws
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/zECIhAIYlXw/hqdefault.jpg" ,MOV
-http://tinyurl.com/j5zwxtx
 
 
 
@@ -2120,7 +1764,26 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.ism
 #EXTINF:0,AXN WHITE
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
 
-
+#EXTINF:-1,RT Doc
+http://193.32.36.27:8087/play/a00l
+#EXTINF:-1,BBC World News
+http://193.32.36.27:8087/play/a00h
+#EXTINF:-1,CNNi
+http://193.32.36.27:8087/play/a00j
+#EXTINF:-1,Euronews
+http://193.32.36.27:8087/play/a00k
+#EXTINF:-1,TVP Polonia
+http://193.32.36.27:8087/play/a00a
+#EXTINF:-1,TVP Polonia
+http://193.32.36.27:8005
+#EXTINF:-1,BBC English (Europe)
+http://193.32.36.27:8087/play/a00i
+#EXTINF:-1,Nowa
+http://193.32.36.27:15731
+#EXTINF:-1,...
+http://193.32.36.27:14931
+#EXTINF:-1,HGTV
+http://193.32.36.27:15846
 
 
 
@@ -2190,7 +1853,7 @@ http://iptv.ac.cn/twtv/zshd.m3u8
 http://iptv.ac.cn/twtv/hshd.m3u8
 #EXTINF:-1,民視HD
 http://iptv.ac.cn/twtv/mshd.m3u8
-more stream
+
 
 
 
@@ -2714,7 +2377,26 @@ rtmp://91.82.85.44/liverelay/jasztriotv.sdp
 #EXTINF:-1,Supra-Balaton 
 rtmp://91.82.85.44/liverelay/supratv.sdp
 
-
+#EXTINF:-1,Rtl Klub 
+http://openlist.sytes.net:5022/stream/1h01ue/playlist.m3u8 
+#EXTINF:-1,Tv2 
+http://openlist.sytes.net:5022/stream/1h02ue/playlist.m3u8 
+#EXTINF:-1,Cool 
+http://openlist.sytes.net:5022/stream/3h12uh/playlist.m3u8 
+#EXTINF:-1,Film+ 
+http://openlist.sytes.net:5022/stream/3h10uh/playlist.m3u8 
+#EXTINF:-1,Axn 
+http://openlist.sytes.net:5022/stream/3h13uh/playlist.m3u8 
+#EXTINF:-1,m4 
+http://openlist.sytes.net:5022/stream/2h01uk/playlist.m3u8 
+#EXTINF:-1,Sport 1 
+http://openlist.sytes.net:5022/stream/3h14uh/playlist.m3u8 
+#EXTINF:-1,Minimax 
+http://openlist.sytes.net:5022/stream/3h06uh/playlist.m3u8 
+#EXTINF:-1,Discovery channel 
+http://openlist.sytes.net:5022/stream/1h03ue/playlist.m3u8 
+#EXTINF:-1,National Geographic Channel 
+http://openlist.sytes.net:5022/stream/3h09uh/playlist.m3u8
 
 
 
