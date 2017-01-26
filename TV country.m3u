@@ -745,7 +745,12 @@ http://82.69.11.30:4022/udp/239.255.1.126:5004
 #EXTINF:-1,Sky News
 http://82.69.11.30:4022/udp/239.255.1.132:5004
 
-
+#EXTINF:-1,Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
+#EXTINF:-1,Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:-1,Zing 
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
 
 
@@ -772,32 +777,7 @@ rtmp://traditii1.arya.ro/live/traditiitv1
 #EXTINF:-1,Rapsodia
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 
-#EXTINF:-1,Moldova 1
-http://109.185.159.215:4011/udp/239.100.0.2:5656
-#EXTINF:-1,Moldova 2
-http://109.185.159.215:4011/udp/239.100.0.10:5656
-#EXTINF:-1,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:-1,Jurnal TV
-http://109.185.159.215:4011/udp/239.100.0.4:5656
-#EXTINF:-1,N4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:-1,Первый
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:-1,Pro TV
-http://109.185.159.215:4011/udp/239.100.0.7:5656
-#EXTINF:-1,Publika TV
-http://109.185.159.215:4011/udp/239.100.0.8:5656
-#EXTINF:-1,TVC 21
-http://109.185.159.215:4011/udp/239.100.0.9:5656
-#EXTINF:-1,TV 5
-http://109.185.159.215:4011/udp/239.100.0.11:5656
-#EXTINF:-1,CTC Dixi
-http://109.185.159.215:4011/udp/239.100.0.12:5656
-#EXTINF:-1,SET
-http://109.185.159.215:4011/udp/239.100.0.13:5656
-#EXTINF:-1,Canal 3
-http://109.185.159.215:4011/udp/239.100.0.14:5656
+
 
 
 
@@ -997,7 +977,32 @@ http://95.65.10.167:8080/play/id46
 #EXTINF:0,TV1000 Action 
 http://95.65.10.167:8080/play/id34
 
-
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,Первый
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,Publika TV
+http://109.185.159.215:4011/udp/239.100.0.8:5656
+#EXTINF:-1,TVC 21
+http://109.185.159.215:4011/udp/239.100.0.9:5656
+#EXTINF:-1,TV 5
+http://109.185.159.215:4011/udp/239.100.0.11:5656
+#EXTINF:-1,CTC Dixi
+http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:-1,SET
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:-1,Canal 3
+http://109.185.159.215:4011/udp/239.100.0.14:5656
 
 
 
@@ -1913,6 +1918,10 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be08
 
 #EXTINF:9 group-title=”United.Arab.Emirates”,
 
+#EXTINF:-1,Hurra tv 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8 
+#EXTINF:-1,bbc arabic 
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,Abu Dabi Sport 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1,Abu Dabi Sport 2
@@ -1934,10 +1943,6 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1,Abu Dabi Sport 5 HD
 http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
-#EXTINF:0,Bein Sports La Liga
-http://tinyurl.com/hmcbkod
-#EXTINF:0,Bein Sports La Liga (SERVER 2)
-http://tinyurl.com/hohop93
 #EXTINF:-1,BEIN SPORT 1
 http://visiosoftltd.com:8080/Bein/beinsports1/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 2 
