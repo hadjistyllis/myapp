@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 25/1/17
+#EXTINF:-1 ,Updated 26/1/17
 http://.....
 
 
@@ -30,6 +30,8 @@ http://37.192.131.119:81/udp/239.1.5.3:1234
 http://109.226.65.197:4022/udp/232.0.1.48:1234
 #EXTINF:-1,Animal Planet
 http://31.28.41.44:4022/udp/232.0.1.48:1234
+#EXTINF:0,Animal Planet
+http://545-tv.com/PREMIUM/NO/KANAL/YW5pbWFsLXBsYW5ldF8xX1lIVUxE
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:0,National Geographic
@@ -38,10 +40,14 @@ http://82.200.127.58:8080/udp/233.12.144.10:5050
 http://37.20.239.130:1234/udp/233.7.70.43:5000
 #EXTINF:-1,National Geographic
 http://92.125.142.91:1234/udp/233.7.70.43:5000
+#EXTINF:0,National Geographic
+http://176.106.66.156:8086/udp/239.71.92.31:1234
 #EXTINF:0,Nat Geo WILD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/wild?krasview.ru
 #EXTINF:-1,NAT GEO WILD
 http://82.200.127.58:8080/udp/233.12.144.9:5050
+#EXTINF:0,Nat Geo Wild
+http://176.106.66.156:8086/udp/239.71.92.48:1234
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Discovery Channel
@@ -50,14 +56,24 @@ http://37.194.121.4:1234/udp/239.1.5.1:1234
 http://37.20.239.130:1234/udp/233.7.70.75:5000
 #EXTINF:0,Discovery Channel 
 http://187.49.86.238:10000/bysid/120 
+#EXTINF:0,Discovery channel
+http://176.106.66.156:8086/udp/239.71.92.24:1234
+#EXTINF:0,Discovery channel
+http://176.106.66.156:8086/udp/239.71.92.24:1234
 #EXTINF:0,Discovery HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/discoveryhd
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
+#EXTINF:0,Discovery Science
+http://176.106.66.156:8086/udp/239.71.92.22:1234
+#EXTINF:0,Discovery Science
+http://176.106.66.156:8086/udp/239.71.92.22:1234
 #EXTINF:0,History
 http://82.200.127.58:8080/udp/233.12.144.108:5050
+#EXTINF:0,History
+http://94.158.80.101:8081/udp/239.0.1.160:4000
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,Fox Life
@@ -66,14 +82,24 @@ http://37.194.121.4:1234/udp/239.1.3.11:1234
 http://5.28.27.39:4022/udp/232.0.2.47:1234
 #EXTINF:-1,FOX Life
 http://31.28.41.44:4022/udp/232.0.2.47:1234
+#EXTINF:0,FOX Life
+http://176.106.66.156:8086/udp/239.71.92.94:1234
+#EXTINF:0,Fox Life
+http://94.158.80.101:8081/udp/239.0.0.144:4000
 #EXTINF:-1,Food Network
 http://37.20.239.130:1234/udp/233.7.70.73:5000
 #EXTINF:-1,Food Network
 http://92.125.141.87:1234/udp/233.7.70.73:5000
+#EXTINF:0,Food Network
+http://94.158.80.101:8081/udp/239.0.1.34:4000
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,TLC
 http://31.28.41.44:4022/udp/232.0.2.52:1234
+#EXTINF:0,TLC
+http://94.158.80.101:8081/udp/239.0.0.32:4000
+#EXTINF:0,TLC
+http://176.106.66.156:8086/udp/239.71.92.23:1234
 #EXTINF:-1,Viasat Explorer
 http://31.200.228.57:4022/udp/239.239.1.37:1234
 #EXTINF:-1,Viasat Explore
@@ -110,6 +136,8 @@ http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:42
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
 #EXTINF:-1,Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234 
+#EXTINF:0,Fashion TV
+http://545-tv.com/PREMIUMUA/NO/KANAL/ZmFzaGlvbi10dl8xX1dSSVRS
 #EXTINF:-1,world-fashion 
 http://89.223.46.189:8080/world-fashion/playlist.m3u8 
 #EXTINF:-1,world-fashion 
@@ -137,6 +165,10 @@ http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:0,JimJam
+http://94.158.80.101:8081/udp/239.0.0.192:4000
+#EXTINF:0,JomJam
+http://176.106.66.156:8086/udp/239.71.92.166:1234
 #EXTINF:0,Boomerang
 http://185.24.34.190:8000/play/a04u
 #EXTINF:0,Cartoon Network
@@ -145,6 +177,10 @@ http://37.194.121.4:1234/udp/239.1.3.3:1234
 http://5.28.27.39:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://31.28.41.44:4022/udp/232.0.1.49:1234
+#EXTINF:0,Cartoon Network
+http://176.106.66.156:8086/udp/239.71.92.52:1234
+#EXTINF:0,Cartoon Network
+http://94.158.80.101:8081/udp/239.0.0.46:4000
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:0,Nickelodeon
@@ -155,12 +191,18 @@ http://37.20.239.130:1234/udp/233.7.70.52:5000
 http://5.28.27.39:4022/udp/232.0.1.39:1234
 #EXTINF:-1,Nickelodeon
 http://31.28.41.44:4022/udp/232.0.1.39:1234
+#EXTINF:0,Nickelodeon
+http://176.106.66.156:8086/udp/239.71.92.21:1234
+#EXTINF:0,Nickelodeon
+http://94.158.80.101:8081/udp/239.0.0.86:4000
 #EXTINF:-1,Nickelodeon (GR)
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 #EXTINF:0,Nick Jr
 http://5.189.66.71:4022//udp/239.255.2.218:1234
 #EXTINF:0,Nick Jr
 http://82.200.127.58:8080/udp/233.12.144.85:5050
+#EXTINF:0,Nick.Jr
+http://94.158.80.101:8081/udp/239.0.1.57:4000
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -267,12 +309,30 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
 #EXTINF:0,MTV Live HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
-#EXTINF:-1,MTV Hits
-http://193.23.58.156:4025/udp/234.1.20.36:1234 
+#EXTINF:0,MTV Live HD
+http://176.106.66.156:8086/udp/239.71.92.144:1234
+#EXTINF:0,MTV
+http://94.158.80.101:8081/udp/239.0.0.170:4000
+#EXTINF:0,MTV HD
+http://94.158.80.101:8081/udp/239.0.0.196:4000
 #EXTINF:-1,MTV Music
 http://tinyurl.com/hb678sq
+#EXTINF:0,MTV Dance
+http://176.106.66.156:8086/udp/239.71.92.46:1234
+#EXTINF:0,MTV Dance
+http://94.158.80.101:8081/udp/239.0.0.80:4000
 #EXTINF:-1,MTV Dance
 http://193.23.58.156:4025/udp/234.1.20.37:1234 
+#EXTINF:0,MTV Dance
+http://82.146.36.98:4545/MTVDance815
+#EXTINF:-1,MTV Hits
+http://193.23.58.156:4025/udp/234.1.20.36:1234 
+#EXTINF:0,MTV Hits
+http://94.158.80.101:8081/udp/239.0.0.205:4000
+#EXTINF:0,MTVHits
+http://82.146.36.98:4545/MTVHits815
+#EXTINF:0,MTV Rocks
+http://94.158.80.101:8081/udp/239.0.0.143:4000
 #EXTINF:-1,MTV Rock
 http://193.23.58.156:4025/udp/234.1.20.38:1234 
 #EXTINF:-1,CAPITAL TV
@@ -374,10 +434,6 @@ http://visiosoftltd.com:8080/streamflare/bt1/playlist.m3u8
 #EXTINF:-1, BT SPORT 2
 http://visiosoftltd.com:8080/streamflare/bt2/playlist.m3u8
 
-#EXTINF:0,Bein Sports La Liga
-http://tinyurl.com/hmcbkod
-#EXTINF:0,Bein Sports La Liga (SERVER 2)
-http://tinyurl.com/hohop93
 #EXTINF:-1,BEIN SPORT 1
 http://visiosoftltd.com:8080/Bein/beinsports1/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 2 
