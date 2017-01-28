@@ -17,7 +17,7 @@ http://radio.dialogos.com.cy:8000/stream
 #EXTINF:0 tvg-logo=http://www.e-radio.gr/player/player.asp?sid=146 ,DEEJAY RADIO 93.5
 http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=http://cdn.e-radio.gr/logos/cy/promo/pafosfm.png ,RADIO PAPHOS 93.7
-
+http://213.207.162.62:88/broadwave.mp3
 #EXTINF:0 tvg-logo=http://www.e-radio.gr/player/player.asp?sid=191 ,STAR FM 93.7
 http://eco.onestreaming.com:8538/;stream.nsv
 #EXTINF:0 tvg-logo=http://cdn.e-radio.gr/logos/cy/promo/riktrito.png ,Rik3 94.8
@@ -1276,3 +1276,127 @@ http://188.165.64.41:8620/;stream
 http://s2.free-shoutcast.com:18248/;stream
 #EXTINF:-1,Radio ATA 
 http://s23.myradiostream.com:6042/;stream
+
+
+
+
+
+
+
+
+
+
+#EXTINF:6 group-title="Bulgaria",
+
+#EXTINF:-1,BNR1 Program Horizont
+http://stream.bnr.bg:8002/horizont.mp3.m3u
+#EXTINF:-1,BNR1 Program Horizont
+http://stream.bnr.bg:8003/botev.mp3.m3u
+#EXTINF:-1,Radio Blagoevgrad
+http://195.24.37.210/stream.m3u
+#EXTINF:-1,Radio Burgas
+http://212.95.175.63:8000/listen.pls
+#EXTINF:-1,Radio Plovdiv
+http://62.204.136.202:28/live128.m3u
+#EXTINF:-1,Radio Shumen
+http://87.246.38.170:8001/listen.pls
+#EXTINF:-1,Radio Stara Zagora
+http://82.103.99.99:8000/radiosz.m3u
+#EXTINF:-1,Radio Varna
+http://broadcast.masters.bg:8000/live.m3u
+#EXTINF:-1,Radio Sofia
+http://stream.bnr.bg:8005/sofia.mp3.m3u
+#EXTINF:-1,Radio Vidin
+http://89.106.110.85:8000/listen.pls
+#EXTINF:-1,Alpha Radio
+http://www.alpharadio.bg/mp3high.m3u
+#EXTINF:-1,BG Radio
+http://149.13.0.80/bgradio128.m3u
+#EXTINF:-1,BTV Radio
+http://live.btvradio.bg/btv-radio.mp3.m3u
+#EXTINF:-1,Bumerang FM
+http://185.20.88.1:8010/listen.pls
+#EXTINF:-1,Classic FM
+http://live.btvradio.bg/classic-fm.mp3.m3u
+#EXTINF:-1,Darik Radio
+http://darikradio.by.host.bg:8000/S2-128.m3u
+#EXTINF:-1,Darik Nostalgie
+http://darikradio.by.host.bg:8000/Nostalgie.m3u
+#EXTINF:-1,FM Plus
+http://fmplus-stream.atlantis.bg:8000/fmplus.ogg.m3u
+#EXTINF:-1,Jazz FM
+http://live.btvradio.bg/jazz-fm.mp3.m3u
+#EXTINF:-1,Jazz FM Lounge
+http://live.btvradio.bg/jazz-fm-lounge.mp3.m3u
+#EXTINF:-1,Katra FM
+http://www.katrafm.net:8000/live.m3u
+#EXTINF:-1,Melody Radio
+http://live.btvradio.bg/melody.mp3.m3u
+#EXTINF:-1,NRJ
+http://149.13.0.80/nrj128.m3u
+#EXTINF:-1,Power FM
+http://a1.virtualradio.eu:8000/powerfm.mp3.m3u
+#EXTINF:-1,Radio 1
+http://149.13.0.80/radio1128.m3u
+#EXTINF:-1,Radio 1 Rock
+http://149.13.0.80/radio1rock64.m3u
+#EXTINF:-1,Radio 999
+http://62.204.158.5:8081/live.m3u
+#EXTINF:-1,Radio Antena
+http://188.126.1.25:8000/antena.m3u
+#EXTINF:-1,Radio Aurea
+http://93.123.123.7:8000/listen.pls
+#EXTINF:-1,Radio Bella
+http://194.146.235.35:9999/listen.pls
+#EXTINF:-1,Radio Berkk M
+http://www.radioberk.com/on-air/radioberkk.ogg.m3u
+#EXTINF:-1,Radio City
+http://149.13.0.80/city64.m3u
+#EXTINF:-1,Radio Focus Sofia
+http://online.focus-radio.net:8100/sofia.m3u
+#EXTINF:-1,Radio Focus Kustendil
+http://online.focus-radio.net:8100/kn.m3u
+#EXTINF:-1,Radio Focus Pirin
+http://online.focus-radio.net:8100/pirin.m3u
+#EXTINF:-1,Radio Focus Pazardjik
+http://online.focus-radio.net:8100/pazardjik.m3u
+#EXTINF:-1,Radio Focus Smolian
+http://online.focus-radio.net:8100/smolian.m3u
+#EXTINF:-1,Radio Focus Bourgas
+http://online.focus-radio.net:8100/bs.m3u
+#EXTINF:-1,Radio Focus Varna
+http://online.focus-radio.net:8100/varna.m3u
+#EXTINF:-1,Radio Focus Shumen
+http://online.focus-radio.net:8100/shumen.m3u
+#EXTINF:-1,Radio Focus Veliko Turnovo
+http://online.focus-radio.net:8100/vt.m3u
+#EXTINF:-1,Radio Focus Vidin
+http://online.focus-radio.net:8100/vidin.m3u
+#EXTINF:-1,Radio Focus Sliven
+http://online.focus-radio.net:8100/sliven.m3u
+#EXTINF:-1,Radio Fresh
+http://193.108.24.21:8000/fresh.m3u
+#EXTINF:-1,Radio K2
+http://radiok2.bg/radiok2.m3u
+#EXTINF:-1,Radio N-Joy
+http://live.btvradio.bg/njoy.mp3.m3u
+#EXTINF:-1,Radio Nova
+http://149.13.0.80/nova128.m3u
+#EXTINF:-1,Radio Ultra Petrich
+http://www.ultranet.biz/ultra.m3u
+#EXTINF:-1,Radio Ultra Pernik
+http://www.ultranet.biz/ultrapernik.m3u
+#EXTINF:-1,Radio Ultra Blagoevgrad
+http://www.ultranet.biz/ultrablagoevgrad.m3u
+#EXTINF:-1,Radio Vega+
+http://www.ultranet.biz/vegablagoevgrad.m3u
+#EXTINF:-1,Radio Vega+
+http://www.ultranet.biz/vegasandanski.m3u
+#EXTINF:-1,Radio Veronika
+http://149.13.0.80/veronika64.m3u
+#EXTINF:-1,Radio Z-Rock
+http://live.btvradio.bg/z-rock.mp3.m3u
+#EXTINF:-1,Radio Zorana
+http://streaming.gesbg.com/radio128_zorana.mp3.m3u
+#EXTINF:-1,Star FM
+http://pulsar.atlantis.bg:8000/starfm.m3u
