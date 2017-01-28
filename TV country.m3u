@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 27/1/17
+#EXTINF:-1 ,Updated 28/1/17
 http://.....
 
 
@@ -1817,169 +1817,104 @@ http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
 #EXTINF:9 group-title=”Serbia”,
 
-#EXTINF:-1,RTRS
-http://89.111.247.10:99/hls/rtrs.m3u8
-#EXTINF:-1,RTRS PLUS
-http://89.111.247.10:99/hls/rtrsplus.m3u8
-#EXTINF:-1,PINK PREMIUM
-http://89.111.247.10:99/hls/pinkpremium.m3u8
-#EXTINF:-1,PINK MOVIES
-http://89.111.247.10:99/hls/pinkmovies.m3u8
-#EXTINF:-1,PINK BIH
-http://89.111.247.10:99/hls/pinkbh.m3u8
-#EXTINF:-1,RTV 7
-http://89.111.247.10:99/hls/rtv7.m3u8
-#EXTINF:-1,PINK FAMLY
-http://89.111.247.10:99/hls/pinkfamily.m3u8
-#EXTINF:-1,EURO SPORT 1
-http://89.111.247.10:99/hls/eurosport1.m3u8
-#EXTINF:-1,EURO SPORT 2
-http://89.111.247.10:99/hls/eurosport2.m3u8
-#EXTINF:-1,TVTK
-http://89.111.247.10:99/hls/tvtk.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://89.111.247.10:99/hls/viasathistory.m3u8
-#EXTINF:-1,BEL
-http://89.111.247.10:99/hls/bel.m3u8
-#EXTINF:-1,RTL KOCKICA
-http://89.111.247.10:99/hls/rtlkockica.m3u8
-#EXTINF:-1,KANAL 6
-http://89.111.247.10:99/hls/kanal6.m3u8
-#EXTINF:-1,BN
-http://89.111.247.10:99/hls/bntvbh.m3u8
-#EXTINF:-1,RTV HIT
-http://89.111.247.10:99/hls/rtvhit.m3u8
-#EXTINF:-1,HRT 1
-http://89.111.247.10:99/hls/hrt1.m3u8
-#EXTINF:-1,HRT 2
-http://89.111.247.10:99/hls/hrt2.m3u8
-#EXTINF:-1,HRT 3
-http://89.111.247.10:99/hls/hrt3.m3u8
-#EXTINF:-1,BDC LIVE
-http://89.111.247.10:99/hls/bdclive.m3u8
-#EXTINF:-1,PINK KIDS
-http://89.111.247.10:99/hls/pinkkids.m3u8
-#EXTINF:-1,TLC
-http://89.111.247.10:99/hls/tlc.m3u8
+#EXTINF:-1,Pink Fashion
+http://87.255.53.72:9002
 #EXTINF:-1,OBN
-http://89.111.247.10:99/hls/obn.m3u8
-#EXTINF:-1,TV ZIVINICE
-http://89.111.247.10:99/hls/tvzivinice.m3u8
-#EXTINF:-1,BHT 1
-http://89.111.247.10:99/hls/bht1.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://89.111.247.10:99/hls/arenasport1.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://89.111.247.10:99/hls/arenasport2.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://89.111.247.10:99/hls/arenasport3.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://89.111.247.10:99/hls/arenasport4.m3u8
-#EXTINF:-1,BHT 1 HD
-http://89.111.247.10:99/hls/bht1hd.m3u8
-#EXTINF:-1,NTV JATA
-http://89.111.247.10:99/hls/ntvjata.m3u8
-#EXTINF:-1,BN MUSIC
-http://89.111.247.10:99/hls/bnmusic.m3u8
-#EXTINF:-1,HAYAT FOLK
-http://89.111.247.10:99/hls/hayatfolk.m3u8
-#EXTINF:-1,FTV
-http://89.111.247.10:99/hls/ftv.m3u8
-#EXTINF:-1,OTV
-http://89.111.247.10:99/hls/otvvalentino.m3u8
-#EXTINF:-1,PINK FOLK 2
-http://89.111.247.10:99/hls/pinkfolk2.m3u8
-#EXTINF:-1,EURO CHANNEL 1
-http://89.111.247.10:99/hls/eurochannel.m3u8
-#EXTINF:-1,IZVORNA TV
-http://89.111.247.10:99/hls/izvornatv.m3u8
-#EXTINF:-1,FACE TV
-http://89.111.247.10:99/hls/facetv.m3u8
-#EXTINF:-1,MINIMAX
-http://89.111.247.10:99/hls/minimax.m3u8
-#EXTINF:-1,DISCOVERY
-http://89.111.247.10:99/hls/discovery.m3u8
-#EXTINF:-1,PINK KUVAR
-http://89.111.247.10:99/hls/pinkkuvar.m3u8
-#EXTINF:-1,PINK WORLD CINEMA
-http://89.111.247.10:99/hls/pinkworldcinema.m3u8
-#EXTINF:-1,HAYATOVCI
-http://89.111.247.10:99/hls/hayatovci.m3u8
-#EXTINF:-1,TV 1
-http://89.111.247.10:99/hls/tv1.m3u8
-#EXTINF:-1,HISTORY
-http://89.111.247.10:99/hls/historychannel.m3u8
-#EXTINF:-1,DIVA
-http://89.111.247.10:99/hls/diva.m3u8
-#EXTINF:-1,OBN
-http://89.111.247.10:99/hls/obn_s.m3u8
-#EXTINF:-1,ALJAZEERA BALKAN
-http://89.111.247.10:99/hls/aljazeerabalkan.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://89.111.247.10:99/hls/natgeowild.m3u8
-#EXTINF:-1,RTL
-http://89.111.247.10:99/hls/rtltv.m3u8
-#EXTINF:-1,DOCU BOX
-http://89.111.247.10:99/hls/docubox.m3u8
-#EXTINF:-1,ID EUROPE
-http://89.111.247.10:99/hls/ideurope.m3u8
-#EXTINF:-1,PINK FOLK
-http://89.111.247.10:99/hls/pinkfolk.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://89.111.247.10:99/hls/animalplanet.m3u8
-#EXTINF:-1,RTV USK
-http://89.111.247.10:99/hls/rtvusk.m3u8
-#EXTINF:-1,ATV
-http://89.111.247.10:99/hls/atv.m3u8
-#EXTINF:-1,PINK PEDIA
-http://89.111.247.10:99/hls/pinkpedia.m3u8
-#EXTINF:-1,DM SAT
-http://89.111.247.10:99/hls/dmsat.m3u8
-#EXTINF:-1,HAYAT
-http://89.111.247.10:99/hls/hayat.m3u8
-#EXTINF:-1,NEON TV
-http://89.111.247.10:99/hls/neontv.m3u8
-#EXTINF:-1,HAYAT PLUS
-http://89.111.247.10:99/hls/hayatplus.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://89.111.247.10:99/hls/cartoonnetwork.m3u8
-#EXTINF:-1,RTL 2
-http://89.111.247.10:99/hls/rtl2.m3u8
-#EXTINF:-1,HAPPY TV
-http://89.111.247.10:99/hls/happytv2.m3u8
-#EXTINF:-1,TRAVEL
-http://89.111.247.10:99/hls/travel.m3u8
-#EXTINF:-1,PINK WESTERN
-http://89.111.247.10:99/hls/pinkwestern.m3u8
-#EXTINF:-1,PINK ACTION
-http://89.111.247.10:99/hls/pinkaction.m3u8
-#EXTINF:-1,CINESTAR
-http://89.111.247.10:99/hls/cinestartv.m3u8
-#EXTINF:-1,HAYAT MUSIC
-http://89.111.247.10:99/hls/hayatmusic.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://89.111.247.10:99/hls/cinestaraction.m3u8
-#EXTINF:-1,TV SLON
-http://89.111.247.10:99/hls/tvslon.m3u8
-#EXTINF:-1,BOMMERANG
-http://89.111.247.10:99/hls/bommerang.m3u8
-#EXTINF:-1,PINK COMEDY
-http://89.111.247.10:99/hls/pinkcomedy.m3u8
-#EXTINF:-1,PINK MUSIC
-http://89.111.247.10:99/hls/pinkmusic2.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://89.111.247.10:99/hls/viasatnature.m3u8
-#EXTINF:-1,RTS SAT
-http://89.111.247.10:99/hls/rtssat.m3u8
-#EXTINF:-1,BRAVO MUSIC
-http://89.111.247.10:99/hls/bravomusic.m3u8
-#EXTINF:-1,CBS REALTY
-http://89.111.247.10:99/hls/cbsreality.m3u8
-#EXTINF:-1,PINK FILM
-http://89.111.247.10:99/hls/pinkfilm.m3u8
-#EXTINF:-1,PINK SERIJE
-http://89.111.247.10:99/hls/pinkserije.m3u8
-
+http://87.255.53.67:9038
+#EXTINF:-1,PINK2
+http://87.255.53.72:9009
+#EXTINF:-1,PINK Music
+http://87.255.53.72:9010
+#EXTINF:-1,Pink music2
+http://87.255.53.72:9009
+#EXTINF:-1,PINK Folk 1
+http://87.255.53.72:9012
+#EXTINF:-1,Pink Family
+http://87.255.53.72:9017
+#EXTINF:-1,PINK Classic
+http://87.255.53.72:9025
+#EXTINF:-1,BRAVO
+http://87.255.53.72:9026
+#EXTINF:-1,PINK Style
+http://87.255.53.72:9027
+#EXTINF:-1,PINK Folk 2
+http://87.255.53.72:9039
+#EXTINF:-1,PINK Zabava
+http://87.255.53.72:9040
+#EXTINF:-1,RTRS plus
+http://87.255.53.67:9041
+#EXTINF:-1,Pink SOAR
+http://87.255.53.72:9043
+#EXTINF:-1,Pink Premium
+http://87.255.53.72:9044
+#EXTINF:-1,Pink Reality
+http://87.255.53.72:9045
+#EXTINF:-1,PinkPedia
+http://87.255.53.72:9047
+#EXTINF:-1,Pink HOROR
+http://87.255.53.72:9048
+#EXTINF:-1,Pink COMEDY
+http://87.255.53.72:9049
+#EXTINF:-1,Pink
+http://87.255.53.72:9054
+#EXTINF:-1,Pink 2
+http://87.255.53.72:9055
+#EXTINF:-1,Pink World
+http://87.255.53.72:9057
+#EXTINF:-1,Pink M
+http://87.255.53.72:9058
+#EXTINF:-1,Pink Movies
+http://87.255.53.72:9059
+#EXTINF:-1,Pink Plus
+http://87.255.53.72:9060
+#EXTINF:-1,Pink Extra
+http://87.255.53.72:9061
+#EXTINF:-1,Pink Film
+http://87.255.53.72:9062
+#EXTINF:-1,Pink Kids
+http://87.255.53.72:9063
+#EXTINF:-1,Pink Action
+http://87.255.53.72:9065
+#EXTINF:-1,Pink Serije
+http://87.255.53.72:9066
+#EXTINF:-1,Pink Western
+http://87.255.53.72:9070
+#EXTINF:-1,Pink BH
+http://87.255.53.72:9071
+#EXTINF:-1,Pink Thriller
+http://87.255.53.72:9077
+#EXTINF:-1,Pink Koncert
+http://87.255.53.72:9078
+#EXTINF:-1,Pink Romance
+http://87.255.53.72:9079
+#EXTINF:-1,Pink Sci Fi
+http://87.255.53.72:9080
+#EXTINF:-1,Pink Hits 2
+http://87.255.53.72:9081
+#EXTINF:-1,Pink Hits
+http://87.255.53.72:9082
+#EXTINF:-1,Pink Parada
+http://87.255.53.72:9083
+#EXTINF:-1,Fight Network
+http://87.255.53.72:9084
+#EXTINF:-1,Pink Crime Mistery
+http://87.255.53.72:9085
+#EXTINF:-1,Pink World Cinema
+http://87.255.53.72:9086
+#EXTINF:-1,Pink Show
+http://87.255.53.72:9087
+#EXTINF:-1,Pink Kuvar
+http://87.255.53.72:9088
+#EXTINF:-1,Super Kids
+http://87.255.53.72:9089
+#EXTINF:-1,Pink info 3
+http://87.255.53.72:9094
+#EXTINF:-1,TNT KIDS
+http://87.255.53.72:9112
+#EXTINF:-1,101 HD
+http://87.255.53.72:9100
+#EXTINF:-1,6 HD
+http://87.255.53.72:9103
 
 
 
@@ -2073,6 +2008,36 @@ http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 #EXTINF:-1,Vasanth Tv
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1&autoPlay=true
 
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8024
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8027
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8004
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8003
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8014
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8006
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8017
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8023
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8013
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8012
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8017
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8025
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8011
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8010
+#EXTINF:-1,New
+http://103.240.232.14:8000/udp/232.12.12.1:8009
 
 
 
@@ -2085,6 +2050,30 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,bbc arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+#EXTINF:-1 ,BEIN SPORT 1
+http://149.202.207.8:8080/tinKk00JuTTbhensp-1/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 2
+http://149.202.207.8:8080/tinKk00JuTTbhensp-2/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 3
+http://149.202.207.8:8080/tinKk00JuTTbhensp-3/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 4
+http://149.202.207.8:8080/tinKk00JuTTbhensp-4/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 5
+http://149.202.207.8:8080/tinKk00JuTTbhensp-5/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 6
+http://149.202.207.8:8080/tinKk00JuTTbhensp-6/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 7
+http://149.202.207.8:8080/tinKk00JuTTbhensp-7/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 8
+http://149.202.207.8:8080/tinKk00JuTTbhensp-8/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 9
+http://149.202.207.8:8080/tinKk00JuTTbhensp-9/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 10
+http://149.202.207.8:8080/tinKk00JuTTbhensp-10/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 11
+http://149.202.207.8:8080/tinKk00JuTTbhensp-11/Strm/index.m3u8
+#EXTINF:-1 ,BEIN SPORT 12
+http://149.202.207.8:8080/tinKk00JuTTbhensp-12/Strm/index.m3u8
 
 #EXTINF:0,Mehwer
 http://195.35.85.100:8000/play/a09u
@@ -2869,7 +2858,96 @@ http://92.62.234.209:2222/udp/239.9.1.102:1234
 #EXTINF: -1, Service01
 http://92.62.234.209:2222/udp/239.9.1.101:1234
 
-
+#EXTINF:-1,CT1
+http://217.75.209.74:8083/rel/pc/504/1009/0.k.m3u8
+#EXTINF:-1,CT2
+http://217.75.209.74:8083/rel/pc/504/1019/0.k.m3u8
+#EXTINF:-1,Nova
+http://217.75.209.74:8083/rel/pc/504/1029/0.k.m3u8
+#EXTINF:-1,Prima Comedy Central
+http://217.75.209.74:8083/rel/pc/504/1032/0.k.m3u8
+#EXTINF:-1,Fanda
+http://217.75.209.74:8083/rel/pc/504/1035/0.k.m3u8
+#EXTINF:-1,Smichov
+http://217.75.209.74:8083/rel/pc/504/1037/0.k.m3u8
+#EXTINF:-1,Prima
+http://217.75.209.74:8083/rel/pc/504/1039/0.k.m3u8
+#EXTINF:-1,Prima MAX
+http://217.75.209.74:8083/rel/pc/504/1046/0.k.m3u8
+#EXTINF:-1,CS Mini / CS Film
+http://217.75.209.74:8083/rel/pc/504/1095/0.k.m3u8
+#EXTINF:-1,Prima Love
+http://217.75.209.74:8083/rel/pc/504/1165/0.km3u8
+#EXTINF:-1,Praha TV
+http://217.75.209.74:8083/rel/pc/504/1233/0.k.m3u8
+#EXTINF:-1,Mnau TV
+http://217.75.209.74:8083/rel/pc/504/1237/0.k.m3u8
+#EXTINF:-1,JOJ
+http://217.75.209.74:8083/rel/pc/504/1272/0.k.m3u8
+#EXTINF:-1,WAU
+http://217.75.209.74:8083/rel/pc/504/1277/0.k.m3u8
+#EXTINF:-1,TV Lux
+http://217.75.209.74:8083/rel/pc/504/1290/0.k.m3u8
+#EXTINF:-1,CT D
+http://217.75.209.74:8083/rel/pc/504/1297/0.k.m3u8
+#EXTINF:-1,ZDF neo
+http://217.75.209.74:8083/rel/pc/504/1311/0.k.m3u8
+#EXTINF:-1,Plus
+http://217.75.209.74:8083/rel/pc/504/1375/0.k.m3u8
+#EXTINF:-1,Ócko Expres
+http://217.75.209.74:8083/rel/pc/504/1406/0.k.m3u8
+#EXTINF:-1,Relax
+http://217.75.209.74:8083/rel/pc/504/1412/0.k.m3u8
+#EXTINF:-1,Rebel
+http://217.75.209.74:8083/rel/pc/504/1414/0.k.m3u8
+#EXTINF:-1,Mnam TV
+http://217.75.209.74:8083/rel/pc/504/1462/0.k.m3u8
+#EXTINF:-1,360Tune Box
+http://217.75.209.74:8083/rel/pc/504/1465/0.k.m3u8
+#EXTINF:-1,Šlágr TV
+http://217.75.209.74:8083/rel/pc/504/1480/0.k.m3u8
+#EXTINF:-1,France 24 Francais
+http://217.75.209.74:8083/rel/pc/504/1510/0.k.m3u8
+#EXTINF:-1,Sky News
+http://217.75.209.74:8083/rel/pc/504/1530/0.k.m3u8
+#EXTINF:-1,BBC World News
+http://217.75.209.74:8083/rel/pc/504/1540/0.k.m3u8
+#EXTINF:-1,Russia Today
+http://217.75.209.74:8083/rel/pc/504/1542/0.k.m3u8
+#EXTINF:-1,TLC
+http://217.75.209.74:8083/rel/pc/504/1725/0.k.m3u8
+#EXTINF:-1,Russia Today Documentary
+http://217.75.209.74:8083/rel/pc/504/1750/0.k.m3u8
+#EXTINF:-1,Regionální televize_cz
+http://217.75.209.74:8083/rel/pc/504/1810/0.k.m3u8
+#EXTINF:-1,TV OK Plus Zatec HD
+http://217.75.209.74:8083/rel/pc/504/1817/0.k.m3u8
+#EXTINF:-1,ORF Eins
+http://217.75.209.74:8083/rel/pc/504/1820/0.k.m3u8
+#EXTINF:-1,ORF 2
+http://217.75.209.74:8083/rel/pc/504/1831/0.k.m3u8
+#EXTINF:-1,TVP Info HD
+http://217.75.209.74:8083/rel/pc/504/1844/0.k.m3u8
+#EXTINF:-1,TVP3 Wroclaw
+http://217.75.209.74:8083/rel/pc/504/1850/0.k.m3u8
+#EXTINF:-1,TVP Kultura
+http://217.75.209.74:8083/rel/pc/504/1852/0.k.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://217.75.209.74:8083/rel/pc/504/1858/0.k.m3u8
+#EXTINF:-1,ZDF
+http://217.75.209.74:8083/rel/pc/504/1870/0.k.m3u8
+#EXTINF:-1,Das Erste
+http://217.75.209.74:8083/rel/pc/504/1880/0.k.m3u8
+#EXTINF:-1,FightBox
+http://217.75.209.74:8083/rel/pc/504/1915/0.k.m3u8
+#EXTINF:-1,KiKA
+http://217.75.209.74:8083/rel/pc/504/1935/0.k.m3u8
+#EXTINF:-1,Fast & Fun Box
+http://217.75.209.74:8083/rel/pc/504/1947/0.k.m3u8
+#EXTINF:-1,ZDF info
+http://217.75.209.74:8083/rel/pc/504/1963/0.k.m3u8
+#EXTINF:-1,TV Noe
+http://217.75.209.74:8083/rel/pc/504/2200/0.k.m3u8
 
 
 
