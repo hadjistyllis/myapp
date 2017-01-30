@@ -964,6 +964,10 @@ http://s10.gledai.org/hlstvstream/diemasport/index.m3u8?e=1485802962&hash=GvBNO5
 #EXTVLCOPT:http-referrer=http://bg-gledai.org/videoplayer/jwplayer.flash.swf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
 http://s10.gledai.org/hlstvstream/diemasport2/index.m3u8?e=1485803247&hash=C5QtIfSMrobcmyyQlMIxGA
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:http-referrer=http://bg-gledai.org/videoplayer/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://s10.gledai.org/hlstvstream/cartoon/index.m3u8?e=1485868396&hash=kd1Z3xU9vTJT-NZZv6CMDA
 
 
 #EXTINF:-1,Ring 
