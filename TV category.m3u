@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 28/1/17
+#EXTINF:-1 ,Updated 30/1/17
 http://.....
 
 
@@ -171,6 +171,8 @@ http://94.158.80.101:8081/udp/239.0.0.192:4000
 http://176.106.66.156:8086/udp/239.71.92.166:1234
 #EXTINF:0,Boomerang
 http://185.24.34.190:8000/play/a04u
+#EXTINF:0,Boomerang
+http://212.130.177.46:9981/stream/channelid/1955836824?ticket=473871E7EDD6ED2A9350E27563CD5AD66B22D515&profile=pass
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -183,6 +185,8 @@ http://176.106.66.156:8086/udp/239.71.92.52:1234
 http://94.158.80.101:8081/udp/239.0.0.46:4000
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
+#EXTINF:0, Disney Junior
+http://212.130.177.46:9981/stream/channelid/1365404243?ticket=83562FFE3562B235F82E3D538F09EA9D9CD043AE&profile=pass
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
