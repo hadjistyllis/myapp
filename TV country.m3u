@@ -23,48 +23,29 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png ,RIK1
 http://188.165.119.235:65113
-#EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png ,Rik1
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/rik1gjk34395/oe69e.m3u8?h=v7GUrS_lkUhdyqn0OF_8XA
+
 #EXTINF:-1 tvg-name="Rik2" epg-id=Rik2 tvg-logo=https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_%CE%A1%CE%99%CE%9A2_2015.svg/240px-Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png ,RIK2
 http://188.165.119.235:65114 
-#EXTINF:0 tvg-name="Rik2" epg-id=Rik2 tvg-logo=https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_%CE%A1%CE%99%CE%9A2_2015.svg/240px-Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png ,Rik2
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/rik2as6630/oe69e.m3u8?h=0J8cFQmInuyXjyJQcl42IQ
+
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/SIGMA%20CY.png ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://i.imgur.com/IgnDjOU.png ,ALPHA
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ANT1.PNG ,ANT1
 http://188.165.119.235:65116
-#EXTINF:0 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ANT1.PNG ,ANT1
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/ant1b641/oe69e.m3u8?h=b7GvLnY3VW-GBCYelAYs_Q
+
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
-#EXTINF:0 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/mega987/oe69e.m3u8?h=v2TgcXsS_T4hCJT9XlfYTw
+
 #EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/777485.png ,EXTRA 
 http://188.165.119.235:65119 
-#EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/777485.png ,EXTRA 
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/extraj500/oe69e.m3u8?h=vfcwERg5I2w9EhbDnKGPdw
+
 #EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/201.png ,PLUS 
 http://188.165.119.235:65120 
-#EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/201.png ,PLUS
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/plusj843/oe69e.m3u8?h=kzSb9xarijYJ8GCVhA6iKw
+
 #EXTINF:0 tvg-logo=http://primetel.com.cy/wp-content/uploads/2015/12/Capital_70x70.png ,Capital
-#EXTVLCOPT:http-referrer=http://ssl.p.jwpcdn.com/player/v/7.7.6/jwplayer.js
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://hls.megadash.xyz/s/capf888/oe69e.m3u8?h=ktPVK14xuzFs9y1opYKPoQ
+http://188.165.119.235:65118
+
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
