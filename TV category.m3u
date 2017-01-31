@@ -171,6 +171,8 @@ http://94.158.80.101:8081/udp/239.0.0.192:4000
 http://176.106.66.156:8086/udp/239.71.92.166:1234
 #EXTINF:0,Boomerang
 http://185.24.34.190:8000/play/a04u
+#EXTINF:0,Boomerang
+http://37.187.24.7:8000/uplink/uplink123123/330.ch
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -181,10 +183,20 @@ http://31.28.41.44:4022/udp/232.0.1.49:1234
 http://176.106.66.156:8086/udp/239.71.92.52:1234
 #EXTINF:0,Cartoon Network
 http://94.158.80.101:8081/udp/239.0.0.46:4000
+#EXTINF:-1,Cartoon Network
+http://37.187.24.7:8000/uplink/uplink123123/331.ch
+#EXTINF:-1,Nickonite
+http://37.187.24.7:8000/uplink/uplink123123/335.ch
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
+#EXTINF:-1, Disney XD
+http://37.187.24.7:8000/uplink/uplink123123/334.ch
 #EXTINF:0, Disney Junior
 http://213.167.0.231:10000/play/a007
+#EXTINF:-1,Disney Junior
+http://37.187.24.7:8000/uplink/uplink123123/333.ch
+#EXTINF:-1,Disney Channel
+http://37.187.24.7:8000/uplink/uplink123123/332.ch
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
@@ -432,6 +444,33 @@ http://89.111.247.10:99/hls/arenasport3.m3u8
 http://109.175.6.67:4936/udp/239.0.1.4:1234
 #EXTINF:-1,ARENASPORT4
 http://89.111.247.10:99/hls/arenasport4.m3u8
+
+#EXTINF:-1,Bt sports 3
+http://37.187.24.7:8000/uplink/uplink123123/380.ch
+#EXTINF:-1,Bt sports 1
+http://37.187.24.7:8000/uplink/uplink123123/376.ch
+#EXTINF:-1,Sky Sports news
+http://37.187.24.7:8000/uplink/uplink123123/382.ch
+#EXTINF:-1,Bt sports ESPN HD
+http://37.187.24.7:8000/uplink/uplink123123/379.ch
+#EXTINF:-1,Sky sports 1
+http://37.187.24.7:8000/uplink/uplink123123/381.ch
+#EXTINF:-1,Sky sports 4
+http://37.187.24.7:8000/uplink/uplink123123/384.ch
+#EXTINF:-1,Sky sports 5
+http://37.187.24.7:8000/uplink/uplink123123/385.ch
+#EXTINF:-1,Sky sports f1
+http://37.187.24.7:8000/uplink/uplink123123/387.ch
+#EXTINF:-1,Sky Sports2 HD
+http://37.187.24.7:8000/uplink/uplink123123/178.ch
+#EXTINF:-1,Sky Sports1 HD
+http://37.187.24.7:8000/uplink/uplink123123/177.ch
+#EXTINF:-1,Fox Sports 1
+http://37.187.24.7:8000/uplink/uplink123123/204.ch
+#EXTINF:-1,Fox Sports 2
+http://37.187.24.7:8000/uplink/uplink123123/205.ch
+#EXTINF:-1,Fox Sports 3
+http://37.187.24.7:8000/uplink/uplink123123/206.ch
 
 #EXTINF:-1,bein Sports 1
 http://51.255.86.55:8333/BeinSport1/index.m3u8
