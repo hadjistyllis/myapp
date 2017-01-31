@@ -171,8 +171,6 @@ http://94.158.80.101:8081/udp/239.0.0.192:4000
 http://176.106.66.156:8086/udp/239.71.92.166:1234
 #EXTINF:0,Boomerang
 http://185.24.34.190:8000/play/a04u
-#EXTINF:0,Boomerang
-http://212.130.177.46:9981/stream/channelid/1955836824?ticket=473871E7EDD6ED2A9350E27563CD5AD66B22D515&profile=pass
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -186,7 +184,7 @@ http://94.158.80.101:8081/udp/239.0.0.46:4000
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:0, Disney Junior
-http://212.130.177.46:9981/stream/channelid/1365404243?ticket=83562FFE3562B235F82E3D538F09EA9D9CD043AE&profile=pass
+http://213.167.0.231:10000/play/a007
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
@@ -435,90 +433,30 @@ http://109.175.6.67:4936/udp/239.0.1.4:1234
 #EXTINF:-1,ARENASPORT4
 http://89.111.247.10:99/hls/arenasport4.m3u8
 
-#EXTINF:-1,Arena Sport 1
-http://149.202.207.8:8080/tinKk00JuTTairoona-1/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 2
-http://149.202.207.8:8080/tinKk00JuTTairoona-2/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 3
-http://149.202.207.8:8080/tinKk00JuTTairoona-3/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://149.202.207.8:8080/tinKk00JuTTairoona-4/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 5
-http://149.202.207.8:8080/tinKk00JuTTairoona-5/Strm/index.m3u8
-#EXTINF:-1,BT Sport 1
-http://149.202.207.8:8080/tinKk00JuTTbeETy-1/Strm/index.m3u8
-#EXTINF:-1,BT Sport 2
-http://149.202.207.8:8080/tinKk00JuTTbeETy-2/Strm/index.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://149.202.207.8:8080/tinKk00JuTTbteiSsepn/Strm/index.m3u8
-#EXTINF:-1,TSN 1
-http://149.202.207.8:8080/tinKk00JuTT/teesn1/index.m3u8
-#EXTINF:-1,TSN 2
-http://149.202.207.8:8080/tinKk00JuTT/teesn2/index.m3u8
-#EXTINF:-1,TSN 3
-http://149.202.207.8:8080/tinKk00JuTT/teesn3/index.m3u8
-#EXTINF:-1,TSN 4
-http://149.202.207.8:8080/tinKk00JuTT/teesn4/index.m3u8
-#EXTINF:-1,TSN 5
-http://149.202.207.8:8080/tinKk00JuTT/teesn5/index.m3u8
-#EXTINF:1,Sky Sports 1
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-1/Strm/index.m3u8
-#EXTINF:1,Sky Sports 2
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-2/Strm/index.m3u8
-#EXTINF:1,Sky Sports 3
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-3/Strm/index.m3u8
-#EXTINF:1,Sky Sports 4
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-4/Strm/index.m3u8
-#EXTINF:1,Sky Sports 5
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-5/Strm/index.m3u8
-#EXTINF:-1,Sky Sports f1
-http://149.202.207.8:8080/tinKk00JuTTsyjkiyf00ne/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 1
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 2
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 3
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 4
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 5
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:-1 ,NL: FOX SPORT 6
-http://149.202.207.8:8080/tinKk00JuTTf00cs-sp-6nl/Strm/index.m3u8
-#EXTINF:-1 ,US:FOX SPORT 1
-http://149.202.207.8:8080/tinKk00JuTT/f00cssp1/index.m3u8
-#EXTINF:-1 ,US:FOX SPORT 2
-http://149.202.207.8:8080/tinKk00JuTT/f00cssp2/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 1
-http://149.202.207.8:8080/tinKk00JuTTbhensp-1/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 2
-http://149.202.207.8:8080/tinKk00JuTTbhensp-2/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3
-http://149.202.207.8:8080/tinKk00JuTTbhensp-3/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 4
-http://149.202.207.8:8080/tinKk00JuTTbhensp-4/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 5
-http://149.202.207.8:8080/tinKk00JuTTbhensp-5/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 6
-http://149.202.207.8:8080/tinKk00JuTTbhensp-6/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 7
-http://149.202.207.8:8080/tinKk00JuTTbhensp-7/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 8
-http://149.202.207.8:8080/tinKk00JuTTbhensp-8/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 9
-http://149.202.207.8:8080/tinKk00JuTTbhensp-9/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 10
-http://149.202.207.8:8080/tinKk00JuTTbhensp-10/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 11
-http://149.202.207.8:8080/tinKk00JuTTbhensp-11/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 12
-http://149.202.207.8:8080/tinKk00JuTTbhensp-12/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT FRANCE 1
-http://149.202.207.8:8080/tinKk00JuTTbhensfn-1/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT FRANCE 2
-http://149.202.207.8:8080/tinKk00JuTTbhensfn-2/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT FRANCE 3
-http://149.202.207.8:8080/tinKk00JuTTbhensfn-3/Strm/index.m3u8
+#EXTINF:-1,bein Sports 1
+http://51.255.86.55:8333/BeinSport1/index.m3u8
+#EXTINF:-1,bein Sports 2
+http://51.255.86.55:8333/BeinSport2/index.m3u8
+#EXTINF:-1,bein Sports 3
+http://51.255.86.55:8333/BeinSport3/index.m3u8
+#EXTINF:-1,bein Sports 4
+http://51.255.86.55:8333/BeinSport4/index.m3u8
+#EXTINF:-1,bein Sports 5
+http://51.255.86.55:8333/BeinSport5/index.m3u8
+#EXTINF:-1,bein Sports 6
+http://51.255.86.55:8333/BeinSport6/index.m3u8
+#EXTINF:-1,bein Sports 7
+http://51.255.86.55:8333/BeinSport7/index.m3u8
+#EXTINF:-1,bein Sports 8
+http://51.255.86.55:8333/BeinSport8/index.m3u8
+#EXTINF:-1,bein Sports 9
+http://51.255.86.55:8333/BeinSport9/index.m3u8
+#EXTINF:-1,bein Sports 10
+http://51.255.86.55:8333/BeinSport10/index.m3u8
+#EXTINF:-1,bein Sports 11
+http://51.255.86.55:8333/BeinSport11/index.m3u8
+#EXTINF:-1,bein Sports 12
+http://51.255.86.55:8333/BeinSport12/index.m3u8
 
 #EXTINF:-1,Bein 1
 rtmp://151.80.21.128/myapp//927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
