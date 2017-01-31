@@ -678,26 +678,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/85.m3u8
 
 #EXTINF:3 group-title=”UK”, 
 
-#EXTINF:-1,BBC 1
-http://149.202.207.8:8080/tinKk00JuTTbeebyc-1/Strm/index.m3u8
-#EXTINF:-1,BBC 2
-http://149.202.207.8:8080/tinKk00JuTTbeebyc-2/Strm/index.m3u8
-#EXTINF:-1,BBC 3
-http://149.202.207.8:8080/tinKk00JuTTbeebyc-3/Strm/index.m3u8
-#EXTINF:-1,BBC 4
-http://149.202.207.8:8080/tinKk00JuTTbeebyc-4/Strm/index.m3u8
-#EXTINF:-1,ITV 1
-http://149.202.207.8:8080/tinKk00JuTTeyeTeV-1/Strm/index.m3u8
-#EXTINF:-1,ITV 2
-http://149.202.207.8:8080/tinKk00JuTTeyeTeV-2/Strm/index.m3u8
-#EXTINF:-1,ITV 3
-http://149.202.207.8:8080/tinKk00JuTTeyeTeV-3/Strm/index.m3u8
-#EXTINF:-1,ITV 4
-http://149.202.207.8:8080/tinKk00JuTTeyeTeV-4/Strm/index.m3u8
-#EXTINF:-1,Channel 4 UK
-http://149.202.207.8:8080/tinKk00JuTTkchenl-4/Strm/index.m3u8
-#EXTINF:-1,Channel 5 UK
-http://149.202.207.8:8080/tinKk00JuTTkchenl-5/Strm/index.m3u8
+
 #EXTINF:-1, VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
 #EXTINF:-1, BBC World News 
@@ -712,45 +693,27 @@ http://streamer01.infoview.tv:8080/RT/index.m3u8
 http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8 
 #EXTINF:-1, RTE News 
 http://streamer01.infoview.tv:8080/RTE_News/index.m3u8
-#EXTINF:-1,Arena Sport 1
-http://149.202.207.8:8080/tinKk00JuTTairoona-1/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 2
-http://149.202.207.8:8080/tinKk00JuTTairoona-2/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 3
-http://149.202.207.8:8080/tinKk00JuTTairoona-3/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://149.202.207.8:8080/tinKk00JuTTairoona-4/Strm/index.m3u8
-#EXTINF:-1,Arena Sport 5
-http://149.202.207.8:8080/tinKk00JuTTairoona-5/Strm/index.m3u8
-#EXTINF:-1,BT Sport 1
-http://149.202.207.8:8080/tinKk00JuTTbeETy-1/Strm/index.m3u8
-#EXTINF:-1,BT Sport 2
-http://149.202.207.8:8080/tinKk00JuTTbeETy-2/Strm/index.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://149.202.207.8:8080/tinKk00JuTTbteiSsepn/Strm/index.m3u8
-#EXTINF:-1,TSN 1
-http://149.202.207.8:8080/tinKk00JuTT/teesn1/index.m3u8
-#EXTINF:-1,TSN 2
-http://149.202.207.8:8080/tinKk00JuTT/teesn2/index.m3u8
-#EXTINF:-1,TSN 3
-http://149.202.207.8:8080/tinKk00JuTT/teesn3/index.m3u8
-#EXTINF:-1,TSN 4
-http://149.202.207.8:8080/tinKk00JuTT/teesn4/index.m3u8
-#EXTINF:-1,TSN 5
-http://149.202.207.8:8080/tinKk00JuTT/teesn5/index.m3u8
-#EXTINF:1,Sky Sports 1
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-1/Strm/index.m3u8
-#EXTINF:1,Sky Sports 2
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-2/Strm/index.m3u8
-#EXTINF:1,Sky Sports 3
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-3/Strm/index.m3u8
-#EXTINF:1,Sky Sports 4
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-4/Strm/index.m3u8
-#EXTINF:1,Sky Sports 5
-http://149.202.207.8:8080/tinKk00JuTTsyjkiy-5/Strm/index.m3u8
-#EXTINF:-1,Sky Sports f1
-http://149.202.207.8:8080/tinKk00JuTTsyjkiyf00ne/Strm/index.m3u8
 
+#EXTINF:-1,Sky Sports2 HD
+http://37.187.24.7:8000/uplink/uplink123123/178.ch
+#EXTINF:-1,Sky Sports1 HD
+http://37.187.24.7:8000/uplink/uplink123123/177.ch
+#EXTINF:-1,Bt sports 3
+http://37.187.24.7:8000/uplink/uplink123123/380.ch
+#EXTINF:-1,Bt sports 1
+http://37.187.24.7:8000/uplink/uplink123123/376.ch
+#EXTINF:-1,Sky Sports news
+http://37.187.24.7:8000/uplink/uplink123123/382.ch
+#EXTINF:-1,Bt sports ESPN HD
+http://37.187.24.7:8000/uplink/uplink123123/379.ch
+#EXTINF:-1,Sky sports 1
+http://37.187.24.7:8000/uplink/uplink123123/381.ch
+#EXTINF:-1,Sky sports 4
+http://37.187.24.7:8000/uplink/uplink123123/384.ch
+#EXTINF:-1,Sky sports 5
+http://37.187.24.7:8000/uplink/uplink123123/385.ch
+#EXTINF:-1,Sky sports f1
+http://37.187.24.7:8000/uplink/uplink123123/387.ch
 
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
@@ -759,110 +722,7 @@ http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8
 #EXTINF:-1,Zing 
 http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
-#EXTINF:-1,sky sports 1
-http://163.172.5.115:8080/skysp1/playlist.m3u8
-#EXTINF:-1,sky sport 2
-http://163.172.5.115:8080/skysp2/playlist.m3u8
-#EXTINF:-1,sky sport 3
-http://163.172.5.115:8080/skysp3/playlist.m3u8
-#EXTINF:-1,sky sport 4
-http://163.172.5.115:8080/skysp4/playlist.m3u8
-#EXTINF:-1,sky sport 5
-http://163.172.5.115:8080/skysp5/playlist.m3u8
-#EXTINF:-1,sky sport f1
-http://163.172.5.115:8080/skyspf1/playlist.m3u8
-#EXTINF:-1,bt sport 1
-http://163.172.5.115:8080/bt1/playlist.m3u8
-#EXTINF:-1,bt sport 2
-http://163.172.5.115:8080/bt2/playlist.m3u8
-#EXTINF:-1,Sky Movies Action & Adventure
-http://163.172.5.115:8080/movaction/playlist.m3u8
-#EXTINF:-1,drama
-http://163.172.5.115:8080/drama/playlist.m3u8
-#EXTINF:-1,gold
-http://163.172.5.115:8080/gold/playlist.m3u8
-#EXTINF:-1,atlantic
-http://163.172.5.115:8080/atlantic/playlist.m3u8
-#EXTINF:-1,living
-http://163.172.5.115:8080/living/playlist.m3u8
-#EXTINF:-1,yesterday
-http://163.172.5.115:8080/yesterday/playlist.m3u8
-#EXTINF:-1,id
-http://163.172.5.115:8080/id/playlist.m3u8
-#EXTINF:-1,tv3
-http://163.172.5.115:8080/tv3/playlist.m3u8
-#EXTINF:-1,bbc1hd
-http://163.172.5.115:8080/bbc1hd/playlist.m3u8
-#EXTINF:-1,bbc2hd
-http://163.172.5.115:8080/bbc2hd/playlist.m3u8
-#EXTINF:-1,espn
-http://163.172.5.115:8080/espn/playlist.m3u8
-#EXTINF:-1,bbc1ni
-http://163.172.5.115:8080/bbc1ni/playlist.m3u8
-#EXTINF:-1,bbc2
-http://163.172.5.115:8080/bbc2/playlist.m3u8
-#EXTINF:-1,bbc2hd
-http://163.172.5.115:8080/bbc2hd/playlist.m3u8
-#EXTINF:-1,bbc4
-http://163.172.5.115:8080/bbc4/playlist.m3u8
-#EXTINF:-1,eden
-http://163.172.5.115:8080/eden/playlist.m3u8
-#EXTINF:-1,itv1hd
-http://163.172.5.115:8080/itv1hd/playlist.m3u8
-#EXTINF:-1,itv2
-http://163.172.5.115:8080/itv2/playlist.m3u8
-#EXTINF:-1,itv3
-http://163.172.5.115:8080/itv3/playlist.m3u8
-#EXTINF:-1,itv4
-http://163.172.5.115:8080/itv4/playlist.m3u8
-#EXTINF:-1,rte1
-http://163.172.5.115:8080/rte1/playlist.m3u8
-#EXTINF:-1,rte2
-http://163.172.5.115:8080/rte2/playlist.m3u8
-#EXTINF:-1,sky1
-http://163.172.5.115:8080/sky1/playlist.m3u8
-#EXTINF:-1,syfy
-http://163.172.5.115:8080/syfy/playlist.m3u8
-#EXTINF:-1,film4
-http://163.172.5.115:8080/film4/playlist.m3u8
-#EXTINF:-1,more4
-http://163.172.5.115:8080/more4/playlist.m3u8
-#EXTINF:-1,itvencore
-http://163.172.5.115:8080/itvencore/playlist.m3u8
-#EXTINF:-1,5star
-http://163.172.5.115:8080/5star/playlist.m3u8
-#EXTINF:-1,dave
-http://163.172.5.115:8080/dave/playlist.m3u8
-#EXTINF:-1,gold
-http://163.172.5.115:8080/gold/playlist.m3u8
-#EXTINF:-1,watch
-http://163.172.5.115:8080/watch/playlist.m3u8
-#EXTINF:-1,amc
-http://163.172.5.115:8080/amc/playlist.m3u8
-#EXTINF:-1,fox
-http://163.172.5.115:8080/fox/playlist.m3u8
-#EXTINF:-1,natgeowild
-http://163.172.5.115:8080/natgeowild/playlist.m3u8
-#EXTINF:-1,History
-http://163.172.5.115:8080/history/playlist.m3u8
-#EXTINF:-1,disney
-http://163.172.5.115:8080/disney/playlist.m3u8
-#EXTINF:-1,dmax
-http://163.172.5.115:8080/dmax/playlist.m3u8
-#EXTINF:-1,goodfood
-http://163.172.5.115:8080/goodfood/playlist.m3u8
-#EXTINF:-1,lifetime
-http://163.172.5.115:8080/lifetime/playlist.m3u8
-#EXTINF:-1,espn
-http://163.172.5.115:8080/espn/playlist.m3u8
-#EXTINF:-1,really
-http://163.172.5.115:8080/really/playlist.m3u8
-#EXTINF:-1,spike
-http://163.172.5.115:8080/spike/playlist.m3u8
-#EXTINF:-1,id
-http://163.172.5.115:8080/id/playlist.m3u8
-#EXTINF:-1,itvbe
-http://163.172.5.115:8080/itvbe/playlist.m3u8
+
 
 
 
@@ -937,19 +797,6 @@ http://31.13.223.103:1935/vtv/vtv.stream/playlist.m3u8?hash=?
 #EXTINF:0,vvv
 rtmp://vvv.bg:1935/live/vvv.flv
 
-#EXTINF:0,Deima Sports
-#EXTVLCOPT:http-referrer=http://bg-gledai.org/videoplayer/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://s10.gledai.org/hlstvstream/diemasport/index.m3u8?e=1485802962&hash=GvBNO5BAhaTuPOiqsivkWg
-#EXTINF:0,Deima Sports 2
-#EXTVLCOPT:http-referrer=http://bg-gledai.org/videoplayer/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://s10.gledai.org/hlstvstream/diemasport2/index.m3u8?e=1485803247&hash=C5QtIfSMrobcmyyQlMIxGA
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:http-referrer=http://bg-gledai.org/videoplayer/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://s10.gledai.org/hlstvstream/cartoon/index.m3u8?e=1485868396&hash=kd1Z3xU9vTJT-NZZv6CMDA
-
 
 #EXTINF:-1,Ring 
 http://185.53.163.216:3115 
@@ -994,7 +841,64 @@ http://185.53.163.216:3002
 #EXTINF:-1,БНТ1 
 http://185.53.163.216:3001
 
-
+#EXTINF:0,Balkanika 
+http://cdn.iptvbulgaria.online/live/balkanika/.m3u8 
+#EXTINF:0,BNT1 
+http://cdn.iptvbulgaria.online/live/bnt-1/.m3u8 
+#EXTINF:0,BNT2 
+http://cdn.iptvbulgaria.online/live/bnt-2/.m3u8 
+#EXTINF:0,BNT HD 
+http://cdn.iptvbulgaria.online/live/bnt-hd/.m3u8 
+#EXTINF:0,bTV 
+http://cdn.iptvbulgaria.online/live/btv/.m3u8 
+#EXTINF:0,bTV Action 
+http://cdn.iptvbulgaria.online/live/btv-action/.m3u8 
+#EXTINF:0,bTV Cinema 
+http://cdn.iptvbulgaria.online/live/btv-cinema/.m3u8 
+#EXTINF:0,bTV Comedy 
+http://cdn.iptvbulgaria.online/live/btv-comedy/.m3u8 
+#EXTINF:0,bTV Lady 
+http://cdn.iptvbulgaria.online/live/btv-lady/.m3u8 
+#EXTINF:0,Cartoon Network 
+http://cdn.iptvbulgaria.online/live/cartoon-network/.m3u8 
+#EXTINF:0,Diema 
+http://cdn.iptvbulgaria.online/live/diema/.m3u8 
+#EXTINF:0,Diema Family 
+http://cdn.iptvbulgaria.online/live/diema-family/.m3u8 
+#EXTINF:0,Discovery 
+http://cdn.iptvbulgaria.online/live/discovery-channel/.m3u8 
+#EXTINF:0,Disney Channel 
+http://cdn.iptvbulgaria.online/live/disney-channel/.m3u8 
+#EXTINF:0,Eurosport1 
+http://cdn.iptvbulgaria.online/live/eurosport-1/.m3u8 
+#EXTINF:0,Eurosport2 
+http://cdn.iptvbulgaria.online/live/eurosport-2/.m3u8 
+#EXTINF:0,FEN TV 
+http://cdn.iptvbulgaria.online/live/fen-tv/.m3u8 
+#EXTINF:0,FOX 
+http://cdn.iptvbulgaria.online/live/fox/.m3u8 
+#EXTINF:0,FOX Crime 
+http://cdn.iptvbulgaria.online/live/fox-crime/.m3u8 
+#EXTINF:0,FOX Life 
+http://cdn.iptvbulgaria.online/live/fox-life/.m3u8 
+#EXTINF:0,Kanal3 
+http://cdn.iptvbulgaria.online/live/kanal-3/.m3u8 
+#EXTINF:0,Kino NOVA 
+http://cdn.iptvbulgaria.online/live/kino-nova/.m3u8 
+#EXTINF:0,NatGeo Wild 
+http://cdn.iptvbulgaria.online/live/nat-geo-wild/.m3u8 
+#EXTINF:0,National Geographic 
+http://cdn.iptvbulgaria.online/live/national-geographic/.m3u8 
+#EXTINF:0,NOVA Sport 
+http://cdn.iptvbulgaria.online/live/nova-sport/.m3u8 
+#EXTINF:0,NOVA TV 
+http://cdn.iptvbulgaria.online/live/nova-tv/.m3u8 
+#EXTINF:0,Planeta TV 
+http://cdn.iptvbulgaria.online/live/planeta-tv/.m3u8 
+#EXTINF:0,RING TV 
+http://cdn.iptvbulgaria.online/live/ring-tv/.m3u8 
+#EXTINF:0,TV Evropa 
+http://cdn.iptvbulgaria.online/live/tv-evropa/.m3u8
 
 
 
@@ -1914,30 +1818,30 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,bbc arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1 ,BEIN SPORT 1
-http://149.202.207.8:8080/tinKk00JuTTbhensp-1/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 2
-http://149.202.207.8:8080/tinKk00JuTTbhensp-2/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3
-http://149.202.207.8:8080/tinKk00JuTTbhensp-3/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 4
-http://149.202.207.8:8080/tinKk00JuTTbhensp-4/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 5
-http://149.202.207.8:8080/tinKk00JuTTbhensp-5/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 6
-http://149.202.207.8:8080/tinKk00JuTTbhensp-6/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 7
-http://149.202.207.8:8080/tinKk00JuTTbhensp-7/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 8
-http://149.202.207.8:8080/tinKk00JuTTbhensp-8/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 9
-http://149.202.207.8:8080/tinKk00JuTTbhensp-9/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 10
-http://149.202.207.8:8080/tinKk00JuTTbhensp-10/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 11
-http://149.202.207.8:8080/tinKk00JuTTbhensp-11/Strm/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 12
-http://149.202.207.8:8080/tinKk00JuTTbhensp-12/Strm/index.m3u8
+#EXTINF:-1,bein Sports 1
+http://51.255.86.55:8333/BeinSport1/index.m3u8
+#EXTINF:-1,bein Sports 2
+http://51.255.86.55:8333/BeinSport2/index.m3u8
+#EXTINF:-1,bein Sports 3
+http://51.255.86.55:8333/BeinSport3/index.m3u8
+#EXTINF:-1,bein Sports 4
+http://51.255.86.55:8333/BeinSport4/index.m3u8
+#EXTINF:-1,bein Sports 5
+http://51.255.86.55:8333/BeinSport5/index.m3u8
+#EXTINF:-1,bein Sports 6
+http://51.255.86.55:8333/BeinSport6/index.m3u8
+#EXTINF:-1,bein Sports 7
+http://51.255.86.55:8333/BeinSport7/index.m3u8
+#EXTINF:-1,bein Sports 8
+http://51.255.86.55:8333/BeinSport8/index.m3u8
+#EXTINF:-1,bein Sports 9
+http://51.255.86.55:8333/BeinSport9/index.m3u8
+#EXTINF:-1,bein Sports 10
+http://51.255.86.55:8333/BeinSport10/index.m3u8
+#EXTINF:-1,bein Sports 11
+http://51.255.86.55:8333/BeinSport11/index.m3u8
+#EXTINF:-1,bein Sports 12
+http://51.255.86.55:8333/BeinSport12/index.m3u8
 
 #EXTINF:0,Mehwer
 http://195.35.85.100:8000/play/a09u
@@ -2652,7 +2556,10 @@ http://http-stream.joj.sk/joj/wau/index-hq.m3u8
 http://109.69.210.13:3000/ngcwild
 #EXTINF:-1,FANDA
 http://109.69.210.13:3000/fanda
-
+#EXTINF:-1,CT1 
+http://109.69.210.13:3000/ct1 
+#EXTINF:-1,STV2 
+http://109.69.210.13:3000/stv2
 
 #EXTINF:-1,France 24 En
 http://88.212.15.9:5000/live/france24eng/playlist.m3u8
@@ -2943,6 +2850,8 @@ http://217.75.209.74:8083/rel/pc/504/1947/0.k.m3u8
 http://217.75.209.74:8083/rel/pc/504/1963/0.k.m3u8
 #EXTINF:-1,TV Noe
 http://217.75.209.74:8083/rel/pc/504/2200/0.k.m3u8
+
+
 
 
 
