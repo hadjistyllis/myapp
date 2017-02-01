@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 30/1/17
+#EXTINF:-1 ,Updated 1/2/17
 http://.....
 
 
@@ -23,29 +23,22 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png ,RIK1
 http://188.165.119.235:65113
-
 #EXTINF:-1 tvg-name="Rik2" epg-id=Rik2 tvg-logo=https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_%CE%A1%CE%99%CE%9A2_2015.svg/240px-Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png ,RIK2
 http://188.165.119.235:65114 
-
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/SIGMA%20CY.png ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://i.imgur.com/IgnDjOU.png ,ALPHA
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ANT1.PNG ,ANT1
 http://188.165.119.235:65116
-
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/777485.png ,EXTRA 
 http://188.165.119.235:65119 
-
 #EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/201.png ,PLUS 
 http://188.165.119.235:65120 
-
 #EXTINF:0 tvg-logo=http://primetel.com.cy/wp-content/uploads/2015/12/Capital_70x70.png ,Capital
 http://188.165.119.235:65118
-
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
@@ -681,8 +674,6 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/85.m3u8
 
 #EXTINF:-1, VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
-#EXTINF:-1, BBC World News 
-http://streamer01.infoview.tv:8080/BBC_News/index.m3u8 
 #EXTINF:-1, Trace TV 
 http://streamer01.infoview.tv:8080/Trace_TV/index.m3u8 
 #EXTINF:-1, Afro Music 
@@ -693,27 +684,6 @@ http://streamer01.infoview.tv:8080/RT/index.m3u8
 http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8 
 #EXTINF:-1, RTE News 
 http://streamer01.infoview.tv:8080/RTE_News/index.m3u8
-
-#EXTINF:-1,Sky Sports2 HD
-http://37.187.24.7:8000/uplink/uplink123123/178.ch
-#EXTINF:-1,Sky Sports1 HD
-http://37.187.24.7:8000/uplink/uplink123123/177.ch
-#EXTINF:-1,Bt sports 3
-http://37.187.24.7:8000/uplink/uplink123123/380.ch
-#EXTINF:-1,Bt sports 1
-http://37.187.24.7:8000/uplink/uplink123123/376.ch
-#EXTINF:-1,Sky Sports news
-http://37.187.24.7:8000/uplink/uplink123123/382.ch
-#EXTINF:-1,Bt sports ESPN HD
-http://37.187.24.7:8000/uplink/uplink123123/379.ch
-#EXTINF:-1,Sky sports 1
-http://37.187.24.7:8000/uplink/uplink123123/381.ch
-#EXTINF:-1,Sky sports 4
-http://37.187.24.7:8000/uplink/uplink123123/384.ch
-#EXTINF:-1,Sky sports 5
-http://37.187.24.7:8000/uplink/uplink123123/385.ch
-#EXTINF:-1,Sky sports f1
-http://37.187.24.7:8000/uplink/uplink123123/387.ch
 
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
@@ -906,6 +876,34 @@ http://cdn.iptvbulgaria.online/live/tv-evropa/.m3u8
 
 #EXTINF:5 group-title=”Moldova”,
 
+
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,Первый
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,Publika TV
+http://109.185.159.215:4011/udp/239.100.0.8:5656
+#EXTINF:-1,TVC 21
+http://109.185.159.215:4011/udp/239.100.0.9:5656
+#EXTINF:-1,TV 5
+http://109.185.159.215:4011/udp/239.100.0.11:5656
+#EXTINF:-1,CTC Dixi
+http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:-1,SET
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:-1,Canal 3
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+
 #EXTINF:0,ProTV Chisinau 
 http://95.65.10.167:8080/play/id14 
 #EXTINF:0,NTV Moldova 
@@ -951,32 +949,6 @@ http://95.65.10.167:8080/play/id46
 #EXTINF:0,TV1000 Action 
 http://95.65.10.167:8080/play/id34
 
-#EXTINF:-1,Moldova 1
-http://109.185.159.215:4011/udp/239.100.0.2:5656
-#EXTINF:-1,Moldova 2
-http://109.185.159.215:4011/udp/239.100.0.10:5656
-#EXTINF:-1,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:-1,Jurnal TV
-http://109.185.159.215:4011/udp/239.100.0.4:5656
-#EXTINF:-1,N4
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:-1,Первый
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:-1,Pro TV
-http://109.185.159.215:4011/udp/239.100.0.7:5656
-#EXTINF:-1,Publika TV
-http://109.185.159.215:4011/udp/239.100.0.8:5656
-#EXTINF:-1,TVC 21
-http://109.185.159.215:4011/udp/239.100.0.9:5656
-#EXTINF:-1,TV 5
-http://109.185.159.215:4011/udp/239.100.0.11:5656
-#EXTINF:-1,CTC Dixi
-http://109.185.159.215:4011/udp/239.100.0.12:5656
-#EXTINF:-1,SET
-http://109.185.159.215:4011/udp/239.100.0.13:5656
-#EXTINF:-1,Canal 3
-http://109.185.159.215:4011/udp/239.100.0.14:5656
 
 
 
@@ -1241,6 +1213,376 @@ http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chun
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
 #EXTINF:0,WDR
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title="Latino-Brazil/Spain"
+
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3700.png" , Azteca 7
+http://latino-webtv.ml/rvdurlst/13433/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3701.png" , MC
+http://latino-webtv.ml/rvdurlst/13434/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3702.png" , Ingenio TV
+http://latino-webtv.ml/rvdurlst/13435/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3703.png" , TVC
+http://latino-webtv.ml/rvdurlst/13436/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3704.png" , Foro TV
+http://latino-webtv.ml/rvdurlst/13437/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3705.png" , Teleformula
+http://latino-webtv.ml/rvdurlst/13438/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3706.png" , Canal 22 Mexico
+http://latino-webtv.ml/rvdurlst/13439/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/865.png" , Televisa Canal 5
+http://latino-webtv.ml/rvdurlst/5509/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/633.png" , Las Estrellas
+http://latino-webtv.ml/rvdurlst/13336/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2737.png" , Estrella TV
+http://latino-webtv.ml/rvdurlst/12133/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/98.png" , Univision HD
+http://latino-webtv.ml/rvdurlst/13216/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/88.png" , UniMAS HD
+http://latino-webtv.ml/rvdurlst/13217/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3641.png" , Mega TV
+http://latino-webtv.ml/rvdurlst/13376/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1805.png" , NBC Universo HD
+http://latino-webtv.ml/rvdurlst/4825/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3614.png" , AZ Corazon
+http://latino-webtv.ml/rvdurlst/13101/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/847.png" , Tlnovelas America
+http://latino-webtv.ml/rvdurlst/1461/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/881.png" , RCN Novelas
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/RCNnovelasLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3285.png" , Telemundo Internacional
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TelemundoSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/815.png" , Telemundo
+http://latino-webtv.ml/rvdurlst/10963/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/623.png" , Galicia TV
+http://latino-webtv.ml/rvdurlst/1499/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3707.png" , TV Chile
+http://latino-webtv.ml/rvdurlst/13506/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1119.png" , Caracol Internacional
+http://latino-webtv.ml/rvdurlst/2051/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1333.png" , Discovery en Español
+http://latino-webtv.ml/rvdurlst/3531/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/29.png" , Discovery Theater HD
+http://latino-webtv.ml/rvdurlst/3798/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1493.png" , Discovery World HD
+http://latino-webtv.ml/rvdurlst/3529/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/44.png" , Discovery Home & Health Latinoamerica
+http://latino-webtv.ml/rvdurlst/252/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/119.png" , H2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/297/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/219.png" , History en Español
+http://latino-webtv.ml/rvdurlst/3704/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/217.png" , National Geographic Latinoamerica
+http://latino-webtv.ml/rvdurlst/395/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/35.png" , Nat Geo Wild Latino America
+http://latino-webtv.ml/rvdurlst/254/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/121.png" , Animal Planet Latinoamerica
+http://latino-webtv.ml/rvdurlst/441/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/819.png" , ESPN Latinoamerica
+http://latino-webtv.ml/rvdurlst/2487/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/123.png" , ESPN 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/301/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/125.png" , ESPN 3 Latinoamerica
+http://latino-webtv.ml/rvdurlst/3806/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/831.png" , Fox Sports Latinoamerica
+http://latino-webtv.ml/rvdurlst/2505/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/215.png" , Fox Sports 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/475/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/127.png" , Fox Sports 3 Latinoamerica
+http://latino-webtv.ml/rvdurlst/445/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/969.png" , F1 Latinoamerica
+http://latino-webtv.ml/rvdurlst/1695/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/625.png" , UFC Network Latinoamerica HD
+http://latino-webtv.ml/rvdurlst/13726/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1239.png" , Bein Sports en Español HD
+http://latino-webtv.ml/rvdurlst/13113/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3695.png" , Claro Sports
+http://latino-webtv.ml/rvdurlst/13441/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/635.png" , TDN Mexico
+http://latino-webtv.ml/rvdurlst/1059/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/869.png" , Univision TDN
+http://latino-webtv.ml/rvdurlst/1483/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3529.png" , GolTV
+http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b1396000.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2854.png" , DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/877.png" , Golf Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/1489/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3207.png" , Univision Deportes HD
+http://latino-webtv.ml/rvdurlst/11293/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/863.png" , Trace Sport Stars
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TraceSportsHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/42.png" , Disney Channel Norte
+http://latino-webtv.ml/rvdurlst/256/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/255.png" , Disney XD Norte
+http://latino-webtv.ml/rvdurlst/499/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/843.png" , Disney Junior Norte
+http://latino-webtv.ml/rvdurlst/1455/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/817.png" , Nickelodeon Latinoamerica
+http://latino-webtv.ml/rvdurlst/1423/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3337.png" , Nick Jr Latinoamerica
+http://latino-webtv.ml/rvdurlst/10482/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/131.png" , Discovery Kids America Latina
+http://latino-webtv.ml/rvdurlst/309/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3699.png" , Once Niños
+http://latino-webtv.ml/rvdurlst/13432/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3332.png" , Boomerang Latinoamerica
+http://latino-webtv.ml/rvdurlst/10477/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/133.png" , Cartoon Network Latinoamerica
+http://latino-webtv.ml/rvdurlst/421/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/137.png" , ZooMoo
+http://latino-webtv.ml/rvdurlst/13428/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/139.png" , Baby TV Latinoamerica
+http://latino-webtv.ml/rvdurlst/317/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/609.png" , CBeebies Latinoamerica
+http://latino-webtv.ml/rvdurlst/1029/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/837.png" , Canal Sony
+http://latino-webtv.ml/rvdurlst/2501/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/805.png" , BBC Entertainment Latinoamerica
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/BBCEntLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1393.png" , Unicable
+http://latino-webtv.ml/rvdurlst/3804/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/839.png" , Warner Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/2499/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/141.png" , E! Latinoamerica
+http://latino-webtv.ml/rvdurlst/427/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/143.png" , FX Latino
+http://latino-webtv.ml/rvdurlst/431/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/209.png" , Universal Channel America Latina
+http://latino-webtv.ml/rvdurlst/387/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/821.png" , Fox Latinoamerica
+http://latino-webtv.ml/rvdurlst/3947/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/145.png" , Syfy Latinoamerica
+http://latino-webtv.ml/rvdurlst/447/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/43.png" , A&E Latinoamerica
+http://latino-webtv.ml/rvdurlst/258/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/147.png" , Investigation Discovery Latinoamerica
+http://latino-webtv.ml/rvdurlst/455/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/149.png" , TLC Latinoamerica
+http://latino-webtv.ml/rvdurlst/327/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/833.png" , AXN Latinoamerica
+http://latino-webtv.ml/rvdurlst/2493/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/939.png" , Eurochannel
+http://latino-webtv.ml/rvdurlst/4912/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/151.png" , MundoFox
+http://latino-webtv.ml/rvdurlst/429/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/153.png" , TNT Series Latinoamerica
+http://latino-webtv.ml/rvdurlst/331/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/613.png" , Elgourmet
+http://latino-webtv.ml/rvdurlst/1033/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/861.png" , Casa Club TV
+http://latino-webtv.ml/rvdurlst/1475/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3696.png" , Mas Chic
+http://latino-webtv.ml/rvdurlst/13442/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/155.png" , TBS America Latina
+http://latino-webtv.ml/rvdurlst/333/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/859.png" , Glitz Latinoamerica
+http://latino-webtv.ml/rvdurlst/1473/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/157.png" , FOX Life
+http://latino-webtv.ml/rvdurlst/425/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/879.png" , Distrito Comedia
+http://latino-webtv.ml/rvdurlst/1491/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/617.png" , Comedy Central Latinoamerica
+http://latino-webtv.ml/rvdurlst/1037/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/159.png" , Tru TV America Latina
+http://latino-webtv.ml/rvdurlst/337/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/619.png" , Efekto TV
+http://latino-webtv.ml/rvdurlst/1039/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/845.png" , Multimedios Plus
+http://latino-webtv.ml/rvdurlst/1459/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/161.png" , Lifetime Latinoamerica
+http://latino-webtv.ml/rvdurlst/423/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3692.png" , WOBI
+http://latino-webtv.ml/rvdurlst/13431/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/213.png" , CNN en Español
+http://latino-webtv.ml/rvdurlst/1855/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1391.png" , El Financiero Bloomberg
+http://latino-webtv.ml/rvdurlst/2823/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3694.png" , Excelsior TV
+http://latino-webtv.ml/rvdurlst/13427/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/945.png" , NTN 24
+http://latino-webtv.ml/rvdurlst/1601/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1595.png" , CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png" , RT en Español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png" , Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3563.png" , El Tiempo Television
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/361.png" , Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/829.png" , MTV Latinoamerica
+http://latino-webtv.ml/rvdurlst/2491/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/883.png" , MTV Hits Latinoamerica
+http://latino-webtv.ml/rvdurlst/1495/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/237.png" , VH1 Classic Europe
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/227.png" , VH1 Latino Norte
+http://latino-webtv.ml/rvdurlst/483/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/855.png" , Claro Musica
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3647.png" , Concert channel
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/163.png" , HTV
+http://latino-webtv.ml/rvdurlst/341/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3697.png" , Exa TV
+http://latino-webtv.ml/rvdurlst/13443/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/853.png" , Bandamax
+http://latino-webtv.ml/rvdurlst/1467/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3698.png" , Video Rola
+http://latino-webtv.ml/rvdurlst/13444/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3687.png" , De Pelicula
+http://latino-webtv.ml/rvdurlst/13429/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3688.png" , De Pelicula Multiplex
+http://latino-webtv.ml/rvdurlst/13430/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/873.png" , Cinema Dinamita
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineDinamitaLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/293.png" , MultiPremier
+http://latino-webtv.ml/rvdurlst/3293/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/221.png" , CineLatino
+http://latino-webtv.ml/rvdurlst/477/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/36.png" , Golden
+http://latino-webtv.ml/rvdurlst/264/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/851.png" , Golden Edge
+http://latino-webtv.ml/rvdurlst/1465/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/615.png" , Golden Multiplex
+http://latino-webtv.ml/rvdurlst/1035/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/18.png" , Paramount Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/260/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/621.png" , Sundance Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/1041/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/37.png" , TNT America Latina
+http://latino-webtv.ml/rvdurlst/9042/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/841.png" , CineCanal
+http://latino-webtv.ml/rvdurlst/2495/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3693.png" , CineCanal Prime
+http://latino-webtv.ml/rvdurlst/13424/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/165.png" , Cinemax Latinoamerica
+http://latino-webtv.ml/rvdurlst/343/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/835.png" , SPACE
+http://latino-webtv.ml/rvdurlst/2489/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/229.png" , AMC
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/167.png" , Studio Universal
+http://latino-webtv.ml/rvdurlst/345/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png" , TCM America Latina
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCMSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/947.png" , I-Sat
+http://latino-webtv.ml/rvdurlst/1703/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/941.png" , Europa Europa
+http://latino-webtv.ml/rvdurlst/1597/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/943.png" , Film & Arts Latinoamerica
+http://latino-webtv.ml/rvdurlst/1599/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/169.png" , Film Zone
+http://latino-webtv.ml/rvdurlst/1055/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/171.png" , Fox 1 Este
+http://latino-webtv.ml/rvdurlst/433/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/211.png" , Fox 1 Oeste
+http://latino-webtv.ml/rvdurlst/439/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/173.png" , Fox Family
+http://latino-webtv.ml/rvdurlst/467/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/175.png" , Fox Comedy
+http://latino-webtv.ml/rvdurlst/461/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/177.png" , Fox Cinema
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxCinemaSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/179.png" , Fox Action Este
+http://latino-webtv.ml/rvdurlst/435/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/181.png" , Fox Action Oeste
+http://latino-webtv.ml/rvdurlst/437/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/183.png" , Fox Movies Latinoamerica
+http://latino-webtv.ml/rvdurlst/463/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/185.png" , Fox Classics Latinoamerica
+http://latino-webtv.ml/rvdurlst/465/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/207.png" , HBO Latinoamerica
+http://latino-webtv.ml/rvdurlst/385/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/187.png" , HBO 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/365/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/189.png" , HBO Plus Este
+http://latino-webtv.ml/rvdurlst/453/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/191.png" , HBO Plus Oeste
+http://latino-webtv.ml/rvdurlst/369/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/193.png" , HBO Family Latinoamerica
+http://latino-webtv.ml/rvdurlst/449/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/195.png" , HBO Signature Latinoamerica
+http://latino-webtv.ml/rvdurlst/451/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/197.png" , Max UP Latinoamerica
+http://latino-webtv.ml/rvdurlst/469/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/199.png" , Max Prime Este
+http://latino-webtv.ml/rvdurlst/377/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/201.png" , Max Prime Oeste
+http://latino-webtv.ml/rvdurlst/379/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/203.png" , MAX
+http://latino-webtv.ml/rvdurlst/381/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1787.png" , Golden Premier 1
+http://latino-webtv.ml/rvdurlst/4777/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1782.png" , Golden Premier 2
+http://latino-webtv.ml/rvdurlst/4772/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2991.png" , Wapa2
+http://latino-webtv.ml/rvdurlst/8471/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2989.png" , Telemundo Puerto Rico
+http://latino-webtv.ml/rvdurlst/8469/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2996.png" , Wapa
+http://latino-webtv.ml/rvdurlst/8476/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/2994.png" , Univision Puerto Rico
+http://latino-webtv.ml/rvdurlst/8474/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3725.png" , Mega TV Puerto Rico
+http://latino-webtv.ml/rvdurlst/13508/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/90.png" , ABC Puerto Rico
+http://latino-webtv.ml/rvdurlst/13702/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3676.png" , NBC Puerto Rico
+http://latino-webtv.ml/rvdurlst/13377/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3086.png" , Punto 2
+http://latino-webtv.ml/rvdurlst/8656/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3677.png" , Teleisla Puerto Rico
+http://latino-webtv.ml/rvdurlst/13378/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3523.png" , Univision Los Angeles
+http://latino-webtv.ml/rvdurlst/12163/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3767.png" , Telemundo Los Angeles
+http://latino-webtv.ml/rvdurlst/13681/playlist.m3u8
+
+
+
+#EXTINF:1,TDTV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:1,DEPORTE TV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
+#EXTINF:1,ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:1,CANAL ANTIGUA
+http://uploads.streann.com/upload/1484926053567.m4v
+#EXTINF:1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8
+#EXTINF:1,CANAL 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream3.m3u8
+#EXTINF:1,TVE AMERICA
+http://media3.crtvg.es/live/tvga/chunklist_w1640745482.m3u8
+#EXTINF:1,RT NOTICIAS
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:1,TYC sport
+http://vennegas.jl.serv.net.mx/tycsport.m3u8
+#EXTINF:1,ESPN 3
+http://vennegas.jl.serv.net.mx/espn3.m3u8
+#EXTINF:1,FOX SPORT 3
+http://vennegas.jl.serv.net.mx/foxspor3.m3u8
+#EXTINF:1,FOX
+http://vennegas.jl.serv.net.mx/fox.m3u8
+#EXTINF:1,FOX SPORT
+http://vennegas.jl.serv.net.mx/foxsport.m3u8
+#EXTINF:-1,Univision23
+http://170.55.15.122:8000/play/a024
+#EXTINF:-1,Unimas
+http://170.55.15.122:8000/play/a01v
 
 
 
@@ -1600,22 +1942,9 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/
 http://n-1-4.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_cafe/live.livx/playlist.m3u8
 #EXTINF:-1,Polsat Super
 http://n-1-19.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_sport_news/live.livx/playlist.m3u8
-#EXTINF:-1,Polsat SPort
-http://r.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_sport/live.livx/playlist.m3u8
-#EXTINF:-1,Polsat SPort Extra
-http://r.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_sport_extra/live.livx/playlist.m3u8
 #EXTINF:-1,Amazing
 http://n-1-36.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
-#EXTINF:-1,Polsat Play
-http://r.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_play/live.livx/playlist.m3u8
-#EXTINF:-1,AXN HD
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
-#EXTINF:-1,AXN Black
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
-#EXTINF:-1,AXN Spin HD
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
-#EXTINF:-1,AXN White
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
+
 
 #EXTINF:-1,RT Doc
 http://193.32.36.27:8087/play/a00l
@@ -1776,36 +2105,7 @@ http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 #EXTINF:-1,Vasanth Tv
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1&autoPlay=true
 
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8024
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8027
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8004
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8003
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8014
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8006
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8017
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8023
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8013
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8012
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8017
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8025
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8011
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8010
-#EXTINF:-1,New
-http://103.240.232.14:8000/udp/232.12.12.1:8009
+
 
 
 
@@ -2257,63 +2557,8 @@ rtmp://91.82.85.44/liverelay/jasztriotv.sdp
 #EXTINF:-1,Supra-Balaton 
 rtmp://91.82.85.44/liverelay/supratv.sdp
 
-#EXTINF:-1,Rtl Klub 
-http://openlist.sytes.net:5022/stream/1h01ue/playlist.m3u8 
-#EXTINF:-1,Tv2 
-http://openlist.sytes.net:5022/stream/1h02ue/playlist.m3u8 
-#EXTINF:-1,Cool 
-http://openlist.sytes.net:5022/stream/3h12uh/playlist.m3u8 
-#EXTINF:-1,Film+ 
-http://openlist.sytes.net:5022/stream/3h10uh/playlist.m3u8 
-#EXTINF:-1,Axn 
-http://openlist.sytes.net:5022/stream/3h13uh/playlist.m3u8 
-#EXTINF:-1,m4 
-http://openlist.sytes.net:5022/stream/2h01uk/playlist.m3u8 
-#EXTINF:-1,Sport 1 
-http://openlist.sytes.net:5022/stream/3h14uh/playlist.m3u8 
-#EXTINF:-1,Minimax 
-http://openlist.sytes.net:5022/stream/3h06uh/playlist.m3u8 
-#EXTINF:-1,Discovery channel 
-http://openlist.sytes.net:5022/stream/1h03ue/playlist.m3u8 
-#EXTINF:-1,National Geographic Channel 
-http://openlist.sytes.net:5022/stream/3h09uh/playlist.m3u8
 
-#EXTINF:-1,RTL Klub-digi
-http://178.164.222.177:9981/stream/channelid/2019628608
-#EXTINF:-1,TV2-digi
-http://178.164.222.177:9981/stream/channelid/230611843
-#EXTINF:-1,Film+2
-http://178.164.222.177:9981/stream/channelid/1380110363
-#EXTINF:-1,Super TV2
-http://178.164.222.177:9981/stream/channelid/8766504
-#EXTINF:-1,RTLII
-http://178.164.222.177:9981/stream/channelid/798775533
-#EXTINF:-1,Sorozat+
-http://178.164.222.177:9981/stream/channelid/1519049980
-#EXTINF:-1,Paramount Channel
-http://178.164.222.177:9981/stream/channelid/1992350948
-#EXTINF:-1,AXN
-http://178.164.222.177:9981/stream/channelid/73469675
-#EXTINF:-1,STORY4
-http://178.164.222.177:9981/stream/channelid/1406778162
-#EXTINF:-1,Sport 1
-http://178.164.222.177:9981/stream/channelid/944716848
-#EXTINF:-1,Sport 2
-http://178.164.222.177:9981/stream/channelid/349724540
-#EXTINF:-1,Nickelodeon
-http://178.164.222.177:9981/stream/channelid/596931044
-#EXTINF:-1,Muzsika TV
-http://178.164.222.177:9981/stream/channelid/985254150
-#EXTINF:-1,RTL Klub HD-digi
-http://178.164.222.177:9981/stream/channelid/11455530
-#EXTINF:-1,Eurosport HD
-http://178.164.222.177:9981/stream/channelid/1997181319
-#EXTINF:-1,Eurosport 2 HD
-http://178.164.222.177:9981/stream/channelid/2088603465
-#EXTINF:-1,Sport 1 HD
-http://178.164.222.177:9981/stream/channelid/818357220
-#EXTINF:-1,Mezzo
-http://178.164.222.177:9981/stream/channelid/1631177247
+
 
 
 
