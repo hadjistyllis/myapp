@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 1/2/17
+#EXTINF:-1 ,Updated 2/2/17
 http://.....
 
 
@@ -685,6 +685,85 @@ http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8
 #EXTINF:-1, RTE News 
 http://streamer01.infoview.tv:8080/RTE_News/index.m3u8
 
+#EXTINF:-1,FOX News
+http://185.53.162.157:8009/play/a004
+#EXTINF:-1,be3
+http://185.53.162.157:8009/play/a00e
+#EXTINF:-1,H2
+http://185.53.162.157:8009/play/a00b
+#EXTINF:-1,MUTV
+http://185.53.162.157:8009/play/a008
+#EXTINF:-1,Nat Geo Wild
+http://185.53.162.157:8009/play/a009
+#EXTINF:-1,At The Races
+http://185.53.162.157:8009/play/a003
+#EXTINF:-1,Crime+Inv
+http://185.53.162.157:8009/play/a005
+#EXTINF:-1,History
+http://185.53.162.157:8009/play/a00a
+#EXTINF:-1,Nat Geo
+http://185.53.162.157:8009/play/a006
+#EXTINF:-1,Real Lives
+http://185.53.162.157:8009/play/a00d
+#EXTINF:-1,SkySpBoxOff
+http://185.53.162.157:8008/play/a002
+#EXTINF:-1,Eurosport 2
+http://185.53.162.157:8008/play/a00i
+#EXTINF:-1,Sky Sp NewsHQ
+http://185.53.162.157:8008/play/a00a
+#EXTINF:-1,Sky Sports 4
+http://185.53.162.157:8008/play/a00b
+#EXTINF:-1,Sky Sports 1
+http://185.53.162.157:8008/play/a004
+#EXTINF:-1,TCM
+http://185.53.162.157:8008/play/a00k
+#EXTINF:-1,ComedyXtra
+http://185.53.162.157:8008/play/a00h
+#EXTINF:-1,Eurosport 1
+http://185.53.162.157:8008/play/a00f
+#EXTINF:-1,Sky Atlantic
+http://185.53.162.157:8008/play/a00d
+#EXTINF:-1,BabyTV
+http://185.53.162.157:8006/play/a00h
+#EXTINF:-1,SkyNws Arabia
+http://185.53.162.157:8006/play/a00l
+#EXTINF:-1,RT.2
+http://185.53.162.157:8006/play/a003
+#EXTINF:-1,RT. One
+http://185.53.162.157:8006/play/a002
+#EXTINF:-1,RT. jnr
+http://185.53.162.157:8006/play/a005
+#EXTINF:-1,RT. News Now
+http://185.53.162.157:8006/play/a00f
+#EXTINF:-1,Oireachtas TV
+http://185.53.162.157:8006/play/a006
+#EXTINF:-1,Sky Living+1
+http://185.53.162.157:8006/play/a00k
+#EXTINF:-1,TG4
+http://185.53.162.157:8006/play/a004
+#EXTINF:-1,Sky Disney
+http://185.53.162.157:8004/play/a00d
+#EXTINF:-1,Sky Family
+http://185.53.162.157:8004/play/a006
+#EXTINF:-1,Sky Action
+http://185.53.162.157:8004/play/a002
+#EXTINF:-1,Sky Superhero
+http://185.53.162.157:8004/play/a009
+#EXTINF:-1,Sky ScFi/Horror
+http://185.53.162.157:8004/play/a005
+#EXTINF:-1,Sky DramaRom
+http://185.53.162.157:8004/play/a00a
+#EXTINF:-1,Sky Select
+http://185.53.162.157:8004/play/a008
+#EXTINF:-1,Sky Premiere
+http://185.53.162.157:8004/play/a004
+#EXTINF:-1,Sky Comedy
+http://185.53.162.157:8004/play/a003
+#EXTINF:-1,Sky
+http://185.53.162.157:8004/play/a007
+#EXTINF:-1,Sky Thriller
+http://185.53.162.157:8004/play/a00b
+
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
 #EXTINF:-1,Clubbing TV 
@@ -904,57 +983,76 @@ http://109.185.159.215:4011/udp/239.100.0.13:5656
 #EXTINF:-1,Canal 3
 http://109.185.159.215:4011/udp/239.100.0.14:5656
 
-#EXTINF:0,ProTV Chisinau 
-http://95.65.10.167:8080/play/id14 
-#EXTINF:0,NTV Moldova 
-http://95.65.10.167:8080/play/id10 
-#EXTINF:0,TV7 
-http://95.65.10.167:8080/play/id13 
-#EXTINF:0,Discovery Channel 
-http://95.65.10.167:8080/play/id50 
-#EXTINF:0,RenTV Moldova 
-http://95.65.10.167:8080/play/id15 
-#EXTINF:0,National Geographic HD 
-http://95.65.10.167:8080/play/id48 
-#EXTINF:0,TV1000 MegaHit HD 
-http://95.65.10.167:8080/play/id44 
-#EXTINF:0,RTR Moldova 
-http://95.65.10.167:8080/play/id9 
-#EXTINF:0,THT Bravo 
-http://95.65.10.167:8080/play/id12 
-#EXTINF:0,Eurosport HD 
-http://95.65.10.167:8080/play/id49 
-#EXTINF:0,CTC Mega 
-http://95.65.10.167:8080/play/id17 
-#EXTINF:0,TV1000 
-http://95.65.10.167:8080/play/id33 
-#EXTINF:0,TV1000 Ruskoe Kino 
-http://95.65.10.167:8080/play/id35 
-#EXTINF:0,N4 
-http://95.65.10.167:8080/play/id11 
-#EXTINF:0,Acasa Moldova 
-http://95.65.10.167:8080/play/id18 
-#EXTINF:0,TV1000 Comedy HD 
-http://95.65.10.167:8080/play/id43 
-#EXTINF:0,1TV HD 
-http://95.65.10.167:8080/play/id52 
-#EXTINF:0,Discovery Showcase HD 
-http://95.65.10.167:8080/play/id47 
-#EXTINF:0,TVC21 
-http://95.65.10.167:8080/play/id19 
-#EXTINF:0,TV1000 Premium HD 
-http://95.65.10.167:8080/play/id45 
-#EXTINF:0,Discovery Science HD 
-http://95.65.10.167:8080/play/id46 
-#EXTINF:0,TV1000 Action 
-http://95.65.10.167:8080/play/id34
 
 
 
 
 
 
-#EXTINF:5 group-title=”Armenia”,
+
+#EXTINF:5 group-title=”Latvia”,
+
+#EXTINF:-1,Первый канал (Baltic Латвия)
+http://89.201.43.188/play.php?freq=147.25
+#EXTINF:-1,3+ (Латвия)
+http://89.201.43.188/play.php?freq=126.25
+#EXTINF:-1,Рен ТВ (Baltic)
+http://89.201.43.188/play.php?freq=133.25
+#EXTINF:-1,LTV 1 (Латвия)
+http://89.201.43.188/play.php?freq=140.25
+#EXTINF:-1,LNT (Латвия)
+http://89.201.43.188/play.php?freq=154.25
+#EXTINF:-1,TV3 (Латвия)
+http://89.201.43.188/play.php?freq=161.25
+#EXTINF:-1,LTV 7 (Латвия)
+http://89.201.43.188/play.php?freq=168.25
+#EXTINF:-1,Riga TV24 (Латвия)
+http://89.201.43.188/play.php?freq=175.25
+#EXTINF:-1,TV6 (Латвия)
+http://89.201.43.188/play.php?freq=189.25
+#EXTINF:-1,Россия РТР (Латвия)
+http://89.201.43.188/play.php?freq=471.25
+#EXTINF:-1,СТС (Baltic)
+http://89.201.43.188/play.php?freq=487.25
+#EXTINF:-1,НТВ Мир (Baltic)
+http://89.201.43.188/play.php?freq=495.25
+#EXTINF:-1,ТНТ (Baltic)
+http://89.201.43.188/play.php?freq=182.25
+#EXTINF:-1,RTVi (Латвия)
+http://89.201.43.188/play.php?freq=479.25
+#EXTINF:-1,Kanals 2
+http://89.201.43.188/play.php?freq=503.25
+#EXTINF:-1,Latvijas Slagerkanals
+http://89.201.43.188/play.php?freq=511.25
+#EXTINF:-1,Наше любимое кино
+http://89.201.43.188/play.php?freq=519.25
+#EXTINF:-1,Kidzone TV
+http://89.201.43.188/play.php?freq=527.25
+#EXTINF:-1,Sporta Centrs
+http://89.201.43.188/play.php?freq=535.25
+#EXTINF:-1,Дождь
+http://89.201.43.188/play.php?freq=543.25
+#EXTINF:-1,Animal Planet
+http://89.201.43.188/play.php?freq=551.25
+#EXTINF:-1,National Geographic
+http://89.201.43.188/play.php?freq=559.25
+#EXTINF:-1,Fox
+http://89.201.43.188/play.php?freq=567.25
+#EXTINF:-1,Fox Life
+http://89.201.43.188/play.php?freq=575.25
+#EXTINF:-1,Первый балтийский музыкальный
+http://89.201.43.188/play.php?freq=583.25
+#EXTINF:-1,RE:TV
+http://89.201.43.188/play.php?freq=591.25
+#EXTINF:-1,Discovery Channel
+http://89.201.43.188/play.php?freq=599.25
+#EXTINF:-1,Eurosport 1
+http://89.201.43.188/play.php?freq=607.25
+#EXTINF:-1,.
+http://89.201.43.188/play.php?freq=615.25
+#EXTINF:-1,КХЛ
+http://89.201.43.188/play.php?freq=623.25
+
 
 
 
@@ -1944,21 +2042,8 @@ http://n-1-19.dcs.redcdn.pl/hls/mm/multimedia/live/polsat_sport_news/live.livx/p
 #EXTINF:-1,Amazing
 http://n-1-36.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
 
-
-#EXTINF:-1,RT Doc
-http://193.32.36.27:8087/play/a00l
-#EXTINF:-1,BBC World News
-http://193.32.36.27:8087/play/a00h
-#EXTINF:-1,CNNi
-http://193.32.36.27:8087/play/a00j
-#EXTINF:-1,Euronews
-http://193.32.36.27:8087/play/a00k
-#EXTINF:-1,TVP Polonia
-http://193.32.36.27:8087/play/a00a
 #EXTINF:-1,TVP Polonia
 http://193.32.36.27:8005
-#EXTINF:-1,BBC English (Europe)
-http://193.32.36.27:8087/play/a00i
 #EXTINF:-1,Nowa
 http://193.32.36.27:15731
 #EXTINF:-1,8tv
@@ -2877,6 +2962,99 @@ http://88.212.15.9:5000/live/severka/playlist.m3u8
 http://88.212.15.9:5000/live/spartak/playlist.m3u8
 
 
+
+
+#EXTINF:-1,CT1
+http://217.75.209.74:8083/rel/pc/504/1009/0.k.m3u8
+#EXTINF:-1,CT2
+http://217.75.209.74:8083/rel/pc/504/1019/0.k.m3u8
+#EXTINF:-1,Nova
+http://217.75.209.74:8083/rel/pc/504/1029/0.k.m3u8
+#EXTINF:-1,Prima Comedy Central
+http://217.75.209.74:8083/rel/pc/504/1032/0.k.m3u8
+#EXTINF:-1,Fanda
+http://217.75.209.74:8083/rel/pc/504/1035/0.k.m3u8
+#EXTINF:-1,Smichov
+http://217.75.209.74:8083/rel/pc/504/1037/0.k.m3u8
+#EXTINF:-1,Prima
+http://217.75.209.74:8083/rel/pc/504/1039/0.k.m3u8
+#EXTINF:-1,Prima MAX
+http://217.75.209.74:8083/rel/pc/504/1046/0.k.m3u8
+#EXTINF:-1,CS Mini / CS Film
+http://217.75.209.74:8083/rel/pc/504/1095/0.k.m3u8
+#EXTINF:-1,Prima Love
+http://217.75.209.74:8083/rel/pc/504/1165/0.km3u8
+#EXTINF:-1,Praha TV
+http://217.75.209.74:8083/rel/pc/504/1233/0.k.m3u8
+#EXTINF:-1,Mnau TV
+http://217.75.209.74:8083/rel/pc/504/1237/0.k.m3u8
+#EXTINF:-1,JOJ
+http://217.75.209.74:8083/rel/pc/504/1272/0.k.m3u8
+#EXTINF:-1,WAU
+http://217.75.209.74:8083/rel/pc/504/1277/0.k.m3u8
+#EXTINF:-1,TV Lux
+http://217.75.209.74:8083/rel/pc/504/1290/0.k.m3u8
+#EXTINF:-1,CT D
+http://217.75.209.74:8083/rel/pc/504/1297/0.k.m3u8
+#EXTINF:-1,ZDF neo
+http://217.75.209.74:8083/rel/pc/504/1311/0.k.m3u8
+#EXTINF:-1,Plus
+http://217.75.209.74:8083/rel/pc/504/1375/0.k.m3u8
+#EXTINF:-1,Ócko Expres
+http://217.75.209.74:8083/rel/pc/504/1406/0.k.m3u8
+#EXTINF:-1,Relax
+http://217.75.209.74:8083/rel/pc/504/1412/0.k.m3u8
+#EXTINF:-1,Rebel
+http://217.75.209.74:8083/rel/pc/504/1414/0.k.m3u8
+#EXTINF:-1,Mnam TV
+http://217.75.209.74:8083/rel/pc/504/1462/0.k.m3u8
+#EXTINF:-1,360Tune Box
+http://217.75.209.74:8083/rel/pc/504/1465/0.k.m3u8
+#EXTINF:-1,Šlágr TV
+http://217.75.209.74:8083/rel/pc/504/1480/0.k.m3u8
+#EXTINF:-1,France 24 Francais
+http://217.75.209.74:8083/rel/pc/504/1510/0.k.m3u8
+#EXTINF:-1,Sky News
+http://217.75.209.74:8083/rel/pc/504/1530/0.k.m3u8
+#EXTINF:-1,BBC World News
+http://217.75.209.74:8083/rel/pc/504/1540/0.k.m3u8
+#EXTINF:-1,Russia Today
+http://217.75.209.74:8083/rel/pc/504/1542/0.k.m3u8
+#EXTINF:-1,TLC
+http://217.75.209.74:8083/rel/pc/504/1725/0.k.m3u8
+#EXTINF:-1,Russia Today Documentary
+http://217.75.209.74:8083/rel/pc/504/1750/0.k.m3u8
+#EXTINF:-1,Regionální televize_cz
+http://217.75.209.74:8083/rel/pc/504/1810/0.k.m3u8
+#EXTINF:-1,TV OK Plus Zatec HD
+http://217.75.209.74:8083/rel/pc/504/1817/0.k.m3u8
+#EXTINF:-1,ORF Eins
+http://217.75.209.74:8083/rel/pc/504/1820/0.k.m3u8
+#EXTINF:-1,ORF 2
+http://217.75.209.74:8083/rel/pc/504/1831/0.k.m3u8
+#EXTINF:-1,TVP Info HD
+http://217.75.209.74:8083/rel/pc/504/1844/0.k.m3u8
+#EXTINF:-1,TVP3 Wroclaw
+http://217.75.209.74:8083/rel/pc/504/1850/0.k.m3u8
+#EXTINF:-1,TVP Kultura
+http://217.75.209.74:8083/rel/pc/504/1852/0.k.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://217.75.209.74:8083/rel/pc/504/1858/0.k.m3u8
+#EXTINF:-1,ZDF
+http://217.75.209.74:8083/rel/pc/504/1870/0.k.m3u8
+#EXTINF:-1,Das Erste
+http://217.75.209.74:8083/rel/pc/504/1880/0.k.m3u8
+#EXTINF:-1,FightBox
+http://217.75.209.74:8083/rel/pc/504/1915/0.k.m3u8
+#EXTINF:-1,KiKA
+http://217.75.209.74:8083/rel/pc/504/1935/0.k.m3u8
+#EXTINF:-1,Fast & Fun Box
+http://217.75.209.74:8083/rel/pc/504/1947/0.k.m3u8
+#EXTINF:-1,ZDF info
+http://217.75.209.74:8083/rel/pc/504/1963/0.k.m3u8
+#EXTINF:-1,TV Noe
+http://217.75.209.74:8083/rel/pc/504/2200/0.k.m3u8
+
 #EXTINF:0,Joj HD
 http://92.62.234.222:2222/udp/239.22.1.102:1234
 #EXTINF:0,Stv2
@@ -3003,99 +3181,6 @@ http://92.62.234.210:2222/udp/239.10.1.101:1234
 http://92.62.234.209:2222/udp/239.9.1.102:1234
 #EXTINF: -1, Service01
 http://92.62.234.209:2222/udp/239.9.1.101:1234
-
-#EXTINF:-1,CT1
-http://217.75.209.74:8083/rel/pc/504/1009/0.k.m3u8
-#EXTINF:-1,CT2
-http://217.75.209.74:8083/rel/pc/504/1019/0.k.m3u8
-#EXTINF:-1,Nova
-http://217.75.209.74:8083/rel/pc/504/1029/0.k.m3u8
-#EXTINF:-1,Prima Comedy Central
-http://217.75.209.74:8083/rel/pc/504/1032/0.k.m3u8
-#EXTINF:-1,Fanda
-http://217.75.209.74:8083/rel/pc/504/1035/0.k.m3u8
-#EXTINF:-1,Smichov
-http://217.75.209.74:8083/rel/pc/504/1037/0.k.m3u8
-#EXTINF:-1,Prima
-http://217.75.209.74:8083/rel/pc/504/1039/0.k.m3u8
-#EXTINF:-1,Prima MAX
-http://217.75.209.74:8083/rel/pc/504/1046/0.k.m3u8
-#EXTINF:-1,CS Mini / CS Film
-http://217.75.209.74:8083/rel/pc/504/1095/0.k.m3u8
-#EXTINF:-1,Prima Love
-http://217.75.209.74:8083/rel/pc/504/1165/0.km3u8
-#EXTINF:-1,Praha TV
-http://217.75.209.74:8083/rel/pc/504/1233/0.k.m3u8
-#EXTINF:-1,Mnau TV
-http://217.75.209.74:8083/rel/pc/504/1237/0.k.m3u8
-#EXTINF:-1,JOJ
-http://217.75.209.74:8083/rel/pc/504/1272/0.k.m3u8
-#EXTINF:-1,WAU
-http://217.75.209.74:8083/rel/pc/504/1277/0.k.m3u8
-#EXTINF:-1,TV Lux
-http://217.75.209.74:8083/rel/pc/504/1290/0.k.m3u8
-#EXTINF:-1,CT D
-http://217.75.209.74:8083/rel/pc/504/1297/0.k.m3u8
-#EXTINF:-1,ZDF neo
-http://217.75.209.74:8083/rel/pc/504/1311/0.k.m3u8
-#EXTINF:-1,Plus
-http://217.75.209.74:8083/rel/pc/504/1375/0.k.m3u8
-#EXTINF:-1,Ócko Expres
-http://217.75.209.74:8083/rel/pc/504/1406/0.k.m3u8
-#EXTINF:-1,Relax
-http://217.75.209.74:8083/rel/pc/504/1412/0.k.m3u8
-#EXTINF:-1,Rebel
-http://217.75.209.74:8083/rel/pc/504/1414/0.k.m3u8
-#EXTINF:-1,Mnam TV
-http://217.75.209.74:8083/rel/pc/504/1462/0.k.m3u8
-#EXTINF:-1,360Tune Box
-http://217.75.209.74:8083/rel/pc/504/1465/0.k.m3u8
-#EXTINF:-1,Šlágr TV
-http://217.75.209.74:8083/rel/pc/504/1480/0.k.m3u8
-#EXTINF:-1,France 24 Francais
-http://217.75.209.74:8083/rel/pc/504/1510/0.k.m3u8
-#EXTINF:-1,Sky News
-http://217.75.209.74:8083/rel/pc/504/1530/0.k.m3u8
-#EXTINF:-1,BBC World News
-http://217.75.209.74:8083/rel/pc/504/1540/0.k.m3u8
-#EXTINF:-1,Russia Today
-http://217.75.209.74:8083/rel/pc/504/1542/0.k.m3u8
-#EXTINF:-1,TLC
-http://217.75.209.74:8083/rel/pc/504/1725/0.k.m3u8
-#EXTINF:-1,Russia Today Documentary
-http://217.75.209.74:8083/rel/pc/504/1750/0.k.m3u8
-#EXTINF:-1,Regionální televize_cz
-http://217.75.209.74:8083/rel/pc/504/1810/0.k.m3u8
-#EXTINF:-1,TV OK Plus Zatec HD
-http://217.75.209.74:8083/rel/pc/504/1817/0.k.m3u8
-#EXTINF:-1,ORF Eins
-http://217.75.209.74:8083/rel/pc/504/1820/0.k.m3u8
-#EXTINF:-1,ORF 2
-http://217.75.209.74:8083/rel/pc/504/1831/0.k.m3u8
-#EXTINF:-1,TVP Info HD
-http://217.75.209.74:8083/rel/pc/504/1844/0.k.m3u8
-#EXTINF:-1,TVP3 Wroclaw
-http://217.75.209.74:8083/rel/pc/504/1850/0.k.m3u8
-#EXTINF:-1,TVP Kultura
-http://217.75.209.74:8083/rel/pc/504/1852/0.k.m3u8
-#EXTINF:-1,TVP Rozrywka
-http://217.75.209.74:8083/rel/pc/504/1858/0.k.m3u8
-#EXTINF:-1,ZDF
-http://217.75.209.74:8083/rel/pc/504/1870/0.k.m3u8
-#EXTINF:-1,Das Erste
-http://217.75.209.74:8083/rel/pc/504/1880/0.k.m3u8
-#EXTINF:-1,FightBox
-http://217.75.209.74:8083/rel/pc/504/1915/0.k.m3u8
-#EXTINF:-1,KiKA
-http://217.75.209.74:8083/rel/pc/504/1935/0.k.m3u8
-#EXTINF:-1,Fast & Fun Box
-http://217.75.209.74:8083/rel/pc/504/1947/0.k.m3u8
-#EXTINF:-1,ZDF info
-http://217.75.209.74:8083/rel/pc/504/1963/0.k.m3u8
-#EXTINF:-1,TV Noe
-http://217.75.209.74:8083/rel/pc/504/2200/0.k.m3u8
-
-
 
 
 
