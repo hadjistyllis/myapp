@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 1/2/17
+#EXTINF:-1 ,Updated 2/2/17
 http://.....
 
 
@@ -20,14 +20,11 @@ http://.....
 #EXTINF:1 group-title=”Documentary/Entertainment”, 
 
 
-#EXTINF:-1,Animal Planet
-http://5.28.27.39:4022/udp/232.0.1.48:1234
+
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
 http://37.192.131.119:81/udp/239.1.5.3:1234
-#EXTINF:-1,Animal Planet
-http://109.226.65.197:4022/udp/232.0.1.48:1234
 #EXTINF:-1,Animal Planet
 http://31.28.41.44:4022/udp/232.0.1.48:1234
 #EXTINF:0,Animal Planet
@@ -165,46 +162,38 @@ http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
-#EXTINF:0,JimJam
-http://94.158.80.101:8081/udp/239.0.0.192:4000
-#EXTINF:0,JomJam
+#EXTINF:0,Jim Jam
 http://176.106.66.156:8086/udp/239.71.92.166:1234
-#EXTINF:0,Boomerang
-http://185.24.34.190:8000/play/a04u
+#EXTINF:-1,BabyTV
+http://185.53.162.157:8006/play/a00h
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,Cartoon Network
-http://5.28.27.39:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://31.28.41.44:4022/udp/232.0.1.49:1234
 #EXTINF:0,Cartoon Network
 http://176.106.66.156:8086/udp/239.71.92.52:1234
-#EXTINF:0,Cartoon Network
-http://94.158.80.101:8081/udp/239.0.0.46:4000
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:0, Disney Junior
 http://213.167.0.231:10000/play/a007
+#EXTINF:-1,Sky Disney
+http://185.53.162.157:8004/play/a00d
+#EXTINF:-1,RT. jnr
+http://185.53.162.157:8006/play/a005
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
 http://37.20.239.130:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
-http://5.28.27.39:4022/udp/232.0.1.39:1234
-#EXTINF:-1,Nickelodeon
 http://31.28.41.44:4022/udp/232.0.1.39:1234
 #EXTINF:0,Nickelodeon
 http://176.106.66.156:8086/udp/239.71.92.21:1234
-#EXTINF:0,Nickelodeon
-http://94.158.80.101:8081/udp/239.0.0.86:4000
 #EXTINF:-1,Nickelodeon (GR)
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 #EXTINF:0,Nick Jr
 http://5.189.66.71:4022//udp/239.255.2.218:1234
 #EXTINF:0,Nick Jr
 http://82.200.127.58:8080/udp/233.12.144.85:5050
-#EXTINF:0,Nick.Jr
-http://94.158.80.101:8081/udp/239.0.1.57:4000
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -425,6 +414,12 @@ http://109.175.6.67:4936/udp/239.0.1.3:1234
 #EXTINF:-1,Arena sport 4
 http://109.175.6.67:4936/udp/239.0.1.4:1234
 
+#EXTINF:-1,Sky Sp NewsHQ
+http://185.53.162.157:8008/play/a00a
+#EXTINF:-1,Sky Sports 4
+http://185.53.162.157:8008/play/a00b
+#EXTINF:-1,Sky Sports 1
+http://185.53.162.157:8008/play/a004
 
 #EXTINF:-1,bein Sports 1
 http://51.255.86.55:8333/BeinSport1/index.m3u8
