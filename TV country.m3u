@@ -295,6 +295,12 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 
 
 #EXTINF:3 group-title=”USA”, 
+#EXTINF:-1 ,NOTE:NEW SERVER
+http://.....
+#EXTINF:-1 ,More channels
+http://.....
+#EXTINF:-1 ,Coming very soon
+http://.....
 
 #EXTINF:-1 ,ESPN
 http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn1yous/index.m3u8?time=1486041932106
