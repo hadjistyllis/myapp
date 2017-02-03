@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 2/2/17
+#EXTINF:-1 ,Updated 3/2/17
 http://.....
 
 
@@ -21,24 +21,12 @@ http://.....
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/eq473601t9w8.m3u8
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/RIKSAT%20CY.png ,RIKSAT
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png ,RIK1
-http://188.165.119.235:65113
-#EXTINF:-1 tvg-name="Rik2" epg-id=Rik2 tvg-logo=https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_%CE%A1%CE%99%CE%9A2_2015.svg/240px-Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png ,RIK2
-http://188.165.119.235:65114 
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/SIGMA%20CY.png ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://i.imgur.com/IgnDjOU.png ,ALPHA
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ANT1.PNG ,ANT1
-http://188.165.119.235:65116
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/777485.png ,EXTRA 
-http://188.165.119.235:65119 
-#EXTINF:-1 tvg-logo=http://primetel.com.cy/tvg/logos/201.png ,PLUS 
-http://188.165.119.235:65120 
-#EXTINF:0 tvg-logo=http://primetel.com.cy/wp-content/uploads/2015/12/Capital_70x70.png ,Capital
-http://188.165.119.235:65118
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/MAD%20CY.png ,MAD CY
@@ -497,30 +485,32 @@ http://.....
 #EXTINF:-1 ,Coming very soon
 http://.....
 
+#EXTINF:-1 ,A&E
+http://premium.exabytetv.info/HLSST/995/995-OVLAX-1011000101001000001110101100011-ExabyteTV.m3u8
 #EXTINF:-1 ,AMC
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=R0VLWVV0RzgxaHFyTm9JQ2o0MVkxUXdZYzhvc0M0c3YrU0htTktZUTcycTEweDN5VU9lNi9EZmsyZnhudURLcUpXMURmOXZJc2QybXArSGVkMEs3YmM0Uzl6UnJsYjNZQ1pCanhnQ3VFVUlySFgweTUwUHRTWmV6LzJCYWNmU09TcW0vSHZxaHp6T3RNTEhPQnJLVkxEMDNReFR5eHU5Y2V3UTFlR2xoRWpTb1RFWndvaitDMnpxTGZWQ2wxRkd5TkVDVXh2aUNYZjU3eW43QVcxaGg3R0o2dFppRlBXZFdyS3lETjZERDZ1bkxySkc1OFIwZU5OVlNTM2tOcWVqY0p2dStqOE96c3h3OS9STWIwcWNjWWxlSStUaHJVNXIrRGhzR3Q4RnU3Y24wUUE4d1RtVnBGdUVseE10aVhEcTFybk51emNJeXZib2UvaFJ2L2dzNHJSRURzZ0pwR1dZdUkzUDNmVGozRTd6azBseUZ2eEpleGI0LzBwemtMMzQxa09qVFBRdXVKMHpOb0h1a1pZY0p1LzFxMWxxQWlTSnpyZ1NHSGtPNHhzd0pqUGpienJ0TVVEN1pScE5ObVdPaXBOYXBGdktwSllvMk5uRlNRUnNjNjBKUVRWaHdhTHUvNWxKV1I5Y3dvOXROWERseUhHdUJSWm54eThvN0s1VXloUGdacGRMMzQ4U0E3MGRhMEp5ck5RPT0
+http://213.171.204.52/live/usa/chunklist/8773bf5ed654a70f960630bacd20bbc5.m3u8
 #EXTINF:-1 ,ABC 27
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=YjRHclRxcXNZWXVvbjRFcW9YaFppbUwyUEpMRWVPZkVxaDdHSXNjNXhndW9GdklOVGsrbjNwWmRBbWFwM2tsd3BtNGZuQlZkYVUzWno1d2FIcTY2SnhZTlo0Nmt5VFAxMDRYS01IQUxEQmRZRHg0cEg3RVFoMG5RNG1HaUJvc1JwUFBrZjNiVnY4QXMxcHVkYmpFOHRDOUxTME1KdEVGTWtKRWFBWFhnVUVXZ0VlTkdpRVJhRnY5Zi9WSGhFWVcvQXcxcWxvRUtFblFVN0wrMTkwMXplODV1b3lVejdrVkNrVmpYc0FXQi9DRGtHZGVrMktVay96emhiWmRVTGJXSkFSYndkaXhsanJGUGhjb08rQjNOWi9sTWF1UThZSitLU0ltcFowUmxTVm1OZzh1N2g2UUFqUmdLMVZhUVpsNGdUcml1Q0ZKTDY1YWpKay9UclYveDhIUW5sMzc2WE10Mm5SWmlTWS9FRUR2QlQvQUJYU2hoR3FVeGJnVXVHVkQ2QnpMQ2p1c1BpeXJkeWtWMURRbnluczBnWDNyWmN0K3ZzaHhqd1AyTENnaU1Tc3k5TkxjemZURk5CU1N0S3V6WXFNN1YydEd0ZkZhUG9aekljWk4vclVTenNybWh4ZGkxTDhlRXRaWHd3Mk01WjViaGpUSVppNVI0WGh6cEw0MUhvdVlQK1Y2V0ZjZTBjV2djZG5xd2lnPT0
+http://213.171.204.52/live/usa/chunklist/fac778698338eca2974ab47236f55fab.m3u8
 #EXTINF:-1 ,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 ,Bloomberg
 http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M24K.m3u8
 #EXTINF:-1 ,Bravo
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=YnBJeXJDcC9FR0RiMUVTOWJ0NlNzK1AwanhxOVhFbTBrYXgralZnK2F5U0pwM3lvamUxVW01dk84SXJ5d2plL0d4cko1SlMxTGg0T2swTkRNcXVwbUZkZmtkaHR0dEdJK29KSm0xNUhjM2pKZElYWFQxcHI4aGpQeU9lUmZJYmU2TUFDV2xYdy9WdllLTjdzeUZJcjBPTk10eXByZ0d0R2VaeWgrV0g3SEM1NlNqYkVDVE1oWGFTSmEzUGxMOFNJRk4vTHZIdmtwTGFwVmdJOTYvdGRHSjI0QlZpU1ZrMWw0d0F1dGFzQWlIMXF5WStwcTZac3ltcFhpOWIyd3h2WmVCN3BkbHhrQzlmMDZPb2NndUdVWTFIQ3RvTVoweGZ5VDFocWtmYTBlNUpFbTA0Zkc2M2x6N01OTXRGVGIyRUh1WjdEWSt2VE5CbllNdlg2VzlXeHZGMEkvd1RwSkgyelZSZUdXbytpZHRnRWdVYlk5dFY4UlBidnRlL3QvS0NVY0E0enNUVTlXeHpMOE9iVU1SQ25weFl1dVdrZFlDaElBcEc3NVZkUHlTOHBiT2JOMi9jTlk5eTlYbEZOZElmOTl2LzZqWVM5UmRpSTVDWDkreFRpbUF0VnlzMDMxZEYxMnhnNStPSmI2SCtwS0hEYXdtR29YNU9CL1c5YWZ1S3JtdXNWTk5BMlNGbDhzNFRSSDVCZ3dnPT0
+http://213.171.204.52/live/usa/chunklist/264a797820f9be7d2e5d56d029658fe9.m3u8
 #EXTINF:-1 ,Cartoon Network
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=N2syZ2R2M0VRamNFRUI2V0xNbUNHNTROejkrTVkyTWY5OFNVeExXUXpIeWh0TWU1WGVCY2RPTzQyL3pmdUpialFxZy8xLzh5d2ZtNitzU2wvNGxHb1Buc3NmL212UjNma2lYZnc2Ly83WXpIVXN1R2F6blA1ZlduSE5CNUNxT1NBUmdZTmwvTDBOM0R2NTAyL2NTK0tiNUsraFRxOXNKYzhoMnNLMGY4dTlPUnhKLzQ1SVNlVDJoVlNGTFZ5YVRrckNpQUFjK1oybjVqdmdOU05kb2pLb09HZ0pRTUZqUFhuYnI5ejZydFFRdVlDaXl5MVhFNHl5MHpZdzZHR0MvVTFtZlhFc1R3dDc0VENDanhqR3VxYkxOR20zR0dheFAvUncvTVpiRTRld2hudzJpMzM2ZjE3dVljK1kyR25hcG9wTkh6Z0V2dHd3OVE1ZTVIR2Q3ZE95YTdrdEd4R0JOK29xN20wc2tNdnZXcUw3T05CZjV2aVhqRmx2YjNxeTZyNTBLZU5VN2VhSCtHVFZSMTgrTjNRSWtFQTMxMEk4cHNTRGpMdzlsa2lLVHg5K2gwMFRGWUV3VXZGdDR5dGo3eS91TzFXSzF1YmRTWElkSi9RV2RreWVhT0hpMDJMZytLYVpwMjQ3dGNtaWwxQTJZMGsweHd5SG90MmlrZGhPTmQ
+
 #EXTINF:-1 ,CBS East
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=aXpnZkp1Z0tZcDB4VEhTZVYvV0FZQXRSNFNmbE85T0VwQUlxZWwrVk0xMklabE43YVNMOGlhSndYQVBiMXBtOXpTdmswS0wwdGc1ckM1SHB2THJFWExTN2tjSVU3ZlhXSmttdHJuNzhML2J5emZRUS9lblNWdnpIZ2ZldE1XSEtuOWYxSmhEWG1DQldyekF2eFg3QTVpaDJrai9ielhIQ29DRFVqbkhMTGxZUUNhMHZtZEdyVXlDT25pWUpkUlZXaG5PTWIzcjcySloxWlA2YXQ2SU1qcXhaMzR6RWMzVWl5ci85aW9UZGZjc1F1L2lObGg5VitoTXJpV3ZuRVRSZzlFdlhtSUs4bG44Q3d5M3krWjdxKzZuWTVSOWwrMnFyQ0VtSk81V2htblpGVFZybFBxQ3F6YXU3VHk5bHpXbGR1OXFFdlZLRExlczVVMGFrZm80ekxqak1MWHR0SldTTjYrL01ub2xYTnROUmdFSnA2YmVTMEdCeUlEdzVYNmRoa3VHSTBQSGtkMGxiSUNmazYyL2ZET2tQT3R6Ylp0c1EwbEFQSWZ2Z2ppdTRSVm9hWTZoYzl2ZFhwRDR0VHJMWFUrSWROYTNOcTF3bjd5ZTNvdzl6OEY4dExXTUN3NEs5dVZhYUFGaE9zNWJrcFJFSzF5Um5zL04rdnh6dm9iL09YQ0JLUHREVTIrcjlFSVpzZE1BVTJBPT0
+http://213.171.204.52/live/usa/chunklist/71431b20c8e99d896fdbbb6b820364ec.m3u8
 #EXTINF:-1 ,CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-b.m3u8
 #EXTINF:-1 ,CNN International
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b700000.m3u8
 #EXTINF:-1 ,CNN USA
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=aXpnZkp1Z0tZcDB4VEhTZVYvV0FZQXRSNFNmbE85T0VwQUlxZWwrVk0xMGJHZ0hXQUFoK0E0K1paYWJvSVJITUVFdThuTUpTK05BbHZLZitVV2RibVdhSWZ4aUVjc1hJcGMzbVNxZmwrYk82RmExcno0aE9qOHowY3FHcmt3RzJJUGVOL0JYK1FXTjMvenFNOU5JWEsrY1Y3cUt0c3FwR3JmaGhCN0VVVkJjUWc0SENpT0w1MHA1ZlJlSXlDcmROYndSZkR3NWNVTmJXcHdKY3d0RFZMSVNSR1BYbkZvQ1VIUll6YTlBN1VxbmlDdUJDN0Q0Zm5ieDBuc2VKaTFYUFdDZGszalVtaUUvdUNQeWpJWUI4UjNURXJFRjBwSk5FYjYwbEVsOHNzM0NwdWUrckRZdHJZQitaWFk0emxGcW8zWGgxNkpmbG1PUU8rZVdOQi8wWmxsNmF2d0ZTUFljcmI4YXdlLzdPRjE3U083clpjVmh1dGhWWTd6clBWVnYrcmV2WEYwKzZNRVJseVF6SHBSNUdxTksydHk2aFg2U0V2Y3BQUTUxSllxSDVrWkVSNUxUSW56OTFXRTBJZGpzeXg5THYwVm9EVEFiZG45WVhEbTZpTUxzcE1QTU9rZU91U2FLaUNsZm1PLzlPcGwrYk9ocVhPVnRBNzRrczdER0t4NmYxTTNPQStMT3NRcmFEd0Vrb2hnPT0
+http://213.171.204.52/live/usa/chunklist/35692fd22ef9de9949bb8dbb4b71be10.m3u8
 #EXTINF:-1 ,Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/04.m3u8
 #EXTINF:-1 ,The CW
-http://213.171.204.52/live/usa/chunklist.m3u8.php?q=h&type=m3u8&ip=111.111.111&key=Z1lZd2o1Q3JiemNuWGF3UVJuQk5TRFF4UHhTcDZuUzJlMCtzUXRzMHd5U3E0RU82VG92TWZHL1c0a3Z6ZURCSEFjM08wcnU2RzF2UXR3VkdxN3cweDFyMmtOa2xRbjN3ZW04TjVndWRkWXp3dnp6MSs1bHVzVmxvdXJaSE9OM1dHWlpkYTNlTFA2TVRYTUhkdzIrT1BUeUNqY01pUFhIUVNPdHpZdk1wUlROYmJ6L0JIUHNLc1FDVVF6RkVRSHQxRHJDMkszcXRoL2FnbVVIVUg1U0hPTlRuZjRWMEYxWTZHcHFpSkwyVWlBRmFZSW93ZFlieDRtUVVubFoyTmM4RGRwWFNqNzdOdWExN0lEM1pKOE52SlQ2M0g0dVkxTDJsVWxmalo2Wks5WURVZVdMdzBSQjZFQ2YyeGxobVVhVXE2cTY4MGk1endKOGZyOWdRV3JjZk5OODRrWG1ibmpTTXorNSt5TStaN2hhSUIwYnF0WGJ5a2pLNForVWY3YzRMLy9SME5oblJHU2JIRVZiTXZBS0dydERJczcyTWRvYjJlK2g3cGxZSGY2ejZNc0tvWlBDckhadnZPZjJNZHo1QVgrMnVUNEVnS3VzT2plbUIrWnlkVmQycjZzdm1wajYwZUJuUmI3MkI2Qm89
+http://213.171.204.52/live/usa/chunklist/9413ff2fd13eb20df9f0feec9eef57d4.m3u8
 #EXTINF:-1 ,ESPN
 http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn1yous/index.m3u8
 #EXTINF:-1 ,ESPN 2
@@ -529,7 +519,8 @@ http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn2yous/index.m3u8
 http://149.202.207.8:8080/chINNkkeeyPanduuu/f8itenetUS/index.m3u8
 #EXTINF:-1 ,Golf Channel
 http://149.202.207.8:8080/chINNkkeeyPanduuu/enbeecYglf/index.m3u8
-
+#EXTINF:-1 ,Hallmark Channel
+http://premium.exabytetv.info/HLSST/1005/1005-OVLAX-1011000101001000001110101100011-ExabyteTV.m3u8
 
 
 
@@ -555,85 +546,6 @@ http://streamer01.infoview.tv:8080/RT/index.m3u8
 http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8 
 #EXTINF:-1, RTE News 
 http://streamer01.infoview.tv:8080/RTE_News/index.m3u8
-
-#EXTINF:-1,FOX News
-http://185.53.162.157:8009/play/a004
-#EXTINF:-1,be3
-http://185.53.162.157:8009/play/a00e
-#EXTINF:-1,H2
-http://185.53.162.157:8009/play/a00b
-#EXTINF:-1,MUTV
-http://185.53.162.157:8009/play/a008
-#EXTINF:-1,Nat Geo Wild
-http://185.53.162.157:8009/play/a009
-#EXTINF:-1,At The Races
-http://185.53.162.157:8009/play/a003
-#EXTINF:-1,Crime+Inv
-http://185.53.162.157:8009/play/a005
-#EXTINF:-1,History
-http://185.53.162.157:8009/play/a00a
-#EXTINF:-1,Nat Geo
-http://185.53.162.157:8009/play/a006
-#EXTINF:-1,Real Lives
-http://185.53.162.157:8009/play/a00d
-#EXTINF:-1,SkySpBoxOff
-http://185.53.162.157:8008/play/a002
-#EXTINF:-1,Eurosport 2
-http://185.53.162.157:8008/play/a00i
-#EXTINF:-1,Sky Sp NewsHQ
-http://185.53.162.157:8008/play/a00a
-#EXTINF:-1,Sky Sports 4
-http://185.53.162.157:8008/play/a00b
-#EXTINF:-1,Sky Sports 1
-http://185.53.162.157:8008/play/a004
-#EXTINF:-1,TCM
-http://185.53.162.157:8008/play/a00k
-#EXTINF:-1,ComedyXtra
-http://185.53.162.157:8008/play/a00h
-#EXTINF:-1,Eurosport 1
-http://185.53.162.157:8008/play/a00f
-#EXTINF:-1,Sky Atlantic
-http://185.53.162.157:8008/play/a00d
-#EXTINF:-1,BabyTV
-http://185.53.162.157:8006/play/a00h
-#EXTINF:-1,SkyNws Arabia
-http://185.53.162.157:8006/play/a00l
-#EXTINF:-1,RT.2
-http://185.53.162.157:8006/play/a003
-#EXTINF:-1,RT. One
-http://185.53.162.157:8006/play/a002
-#EXTINF:-1,RT. jnr
-http://185.53.162.157:8006/play/a005
-#EXTINF:-1,RT. News Now
-http://185.53.162.157:8006/play/a00f
-#EXTINF:-1,Oireachtas TV
-http://185.53.162.157:8006/play/a006
-#EXTINF:-1,Sky Living+1
-http://185.53.162.157:8006/play/a00k
-#EXTINF:-1,TG4
-http://185.53.162.157:8006/play/a004
-#EXTINF:-1,Sky Disney
-http://185.53.162.157:8004/play/a00d
-#EXTINF:-1,Sky Family
-http://185.53.162.157:8004/play/a006
-#EXTINF:-1,Sky Action
-http://185.53.162.157:8004/play/a002
-#EXTINF:-1,Sky Superhero
-http://185.53.162.157:8004/play/a009
-#EXTINF:-1,Sky ScFi/Horror
-http://185.53.162.157:8004/play/a005
-#EXTINF:-1,Sky DramaRom
-http://185.53.162.157:8004/play/a00a
-#EXTINF:-1,Sky Select
-http://185.53.162.157:8004/play/a008
-#EXTINF:-1,Sky Premiere
-http://185.53.162.157:8004/play/a004
-#EXTINF:-1,Sky Comedy
-http://185.53.162.157:8004/play/a003
-#EXTINF:-1,Sky
-http://185.53.162.157:8004/play/a007
-#EXTINF:-1,Sky Thriller
-http://185.53.162.157:8004/play/a00b
 
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
@@ -761,64 +673,6 @@ http://185.53.163.216:3002
 #EXTINF:-1,БНТ1 
 http://185.53.163.216:3001
 
-#EXTINF:0,Balkanika 
-http://cdn.iptvbulgaria.online/live/balkanika/.m3u8 
-#EXTINF:0,BNT1 
-http://cdn.iptvbulgaria.online/live/bnt-1/.m3u8 
-#EXTINF:0,BNT2 
-http://cdn.iptvbulgaria.online/live/bnt-2/.m3u8 
-#EXTINF:0,BNT HD 
-http://cdn.iptvbulgaria.online/live/bnt-hd/.m3u8 
-#EXTINF:0,bTV 
-http://cdn.iptvbulgaria.online/live/btv/.m3u8 
-#EXTINF:0,bTV Action 
-http://cdn.iptvbulgaria.online/live/btv-action/.m3u8 
-#EXTINF:0,bTV Cinema 
-http://cdn.iptvbulgaria.online/live/btv-cinema/.m3u8 
-#EXTINF:0,bTV Comedy 
-http://cdn.iptvbulgaria.online/live/btv-comedy/.m3u8 
-#EXTINF:0,bTV Lady 
-http://cdn.iptvbulgaria.online/live/btv-lady/.m3u8 
-#EXTINF:0,Cartoon Network 
-http://cdn.iptvbulgaria.online/live/cartoon-network/.m3u8 
-#EXTINF:0,Diema 
-http://cdn.iptvbulgaria.online/live/diema/.m3u8 
-#EXTINF:0,Diema Family 
-http://cdn.iptvbulgaria.online/live/diema-family/.m3u8 
-#EXTINF:0,Discovery 
-http://cdn.iptvbulgaria.online/live/discovery-channel/.m3u8 
-#EXTINF:0,Disney Channel 
-http://cdn.iptvbulgaria.online/live/disney-channel/.m3u8 
-#EXTINF:0,Eurosport1 
-http://cdn.iptvbulgaria.online/live/eurosport-1/.m3u8 
-#EXTINF:0,Eurosport2 
-http://cdn.iptvbulgaria.online/live/eurosport-2/.m3u8 
-#EXTINF:0,FEN TV 
-http://cdn.iptvbulgaria.online/live/fen-tv/.m3u8 
-#EXTINF:0,FOX 
-http://cdn.iptvbulgaria.online/live/fox/.m3u8 
-#EXTINF:0,FOX Crime 
-http://cdn.iptvbulgaria.online/live/fox-crime/.m3u8 
-#EXTINF:0,FOX Life 
-http://cdn.iptvbulgaria.online/live/fox-life/.m3u8 
-#EXTINF:0,Kanal3 
-http://cdn.iptvbulgaria.online/live/kanal-3/.m3u8 
-#EXTINF:0,Kino NOVA 
-http://cdn.iptvbulgaria.online/live/kino-nova/.m3u8 
-#EXTINF:0,NatGeo Wild 
-http://cdn.iptvbulgaria.online/live/nat-geo-wild/.m3u8 
-#EXTINF:0,National Geographic 
-http://cdn.iptvbulgaria.online/live/national-geographic/.m3u8 
-#EXTINF:0,NOVA Sport 
-http://cdn.iptvbulgaria.online/live/nova-sport/.m3u8 
-#EXTINF:0,NOVA TV 
-http://cdn.iptvbulgaria.online/live/nova-tv/.m3u8 
-#EXTINF:0,Planeta TV 
-http://cdn.iptvbulgaria.online/live/planeta-tv/.m3u8 
-#EXTINF:0,RING TV 
-http://cdn.iptvbulgaria.online/live/ring-tv/.m3u8 
-#EXTINF:0,TV Evropa 
-http://cdn.iptvbulgaria.online/live/tv-evropa/.m3u8
 
 
 
@@ -1767,6 +1621,292 @@ http://187.49.86.238:10000/bysid/111
 http://187.49.86.238:10000/bysid/63 
 #EXTINF:0,Gloob 
 http://187.49.86.238:10000/bysid/94
+
+
+
+
+
+
+
+
+
+#EXTINF:4 group-title=”Portugal-XMTVplayer”,
+#EXTINF:-1 ,NOTE:USE
+http://.....
+#EXTINF:-1 ,XMTV player
+http://.....
+#EXTINF:-1 ,SEARCH it AT 
+http://.....
+#EXTINF:-1 ,GOOGLE
+http://.....
+#EXTINF:-1 ,or it will stop
+http://.....
+#EXTINF:-1 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,RTP 1 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1405.ts
+#EXTINF:-1,RTP 1
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1790.ts
+#EXTINF:-1,RTP 2 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1406.ts
+#EXTINF:-1,RTP 2
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1407.ts
+#EXTINF:-1,RTP 3
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1408.ts
+#EXTINF:-1,SIC HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1409.ts
+#EXTINF:-1,SIC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1410.ts
+#EXTINF:-1,TVI ( sd )
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1416.ts
+#EXTINF:-1,TVI HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1413.ts
+#EXTINF:-1,SIC NOTICIAS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1417.ts
+#EXTINF:-1,TVI 24
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1418.ts
+#EXTINF:-1,CMTV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1419.ts
+#EXTINF:-1,PORTO CANAL
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1420.ts
+#EXTINF:-1,CNN
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1421.ts
+#EXTINF:-1,SIC RADICAL
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1422.ts
+#EXTINF:-1,SIC MULHER
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1423.ts
+#EXTINF:-1,SIC CARAS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1424.ts
+#EXTINF:-1,TVI FICCAO
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1425.ts
+#EXTINF:-1,TVI REALITY
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1426.ts
+#EXTINF:-1,24 KITCHEN HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1427.ts
+#EXTINF:-1,CANAL Q
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1428.ts
+#EXTINF:-1,SPORT TV +
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1430.ts
+#EXTINF:-1,SPORT TV + HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1668.ts
+#EXTINF:-1,SPORT TV 1
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1944.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1431.ts
+#EXTINF:-1,Sport TV 1 HD (ALT1)
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1933.ts
+#EXTINF:-1,SPORT TV 1 FULL HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1669.ts
+#EXTINF:-1,SPORT TV 2 FULL HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1670.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1436.ts
+#EXTINF:-1,SPORT TV 2
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1437.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1439.ts
+#EXTINF:-1,SPORT TV 3 FULL HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1671.ts
+#EXTINF:-1,SPORT TV 3
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1440.ts
+#EXTINF:-1,SPORT TV 4
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1441.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1672.ts
+#EXTINF:-1,SPORT TV 5
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1442.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1673.ts
+#EXTINF:-1,BTV 1 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1443.ts
+#EXTINF:-1,BTV 1 FULL HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1675.ts
+#EXTINF:-1,BTV 1
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1674.ts
+#EXTINF:-1,SPORTING TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1448.ts
+#EXTINF:-1,A BOLA TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1449.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1450.ts
+#EXTINF:-1,EUROSPORT
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1451.ts
+#EXTINF:-1,EUROSPORT 2
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1452.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1453.ts
+#EXTINF:-1,CACAVISION
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1454.ts
+#EXTINF:-1,CACA E PESCA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1455.ts
+#EXTINF:-1,TOROS TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1456.ts
+#EXTINF:-1,KOMBAT SPORT
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1457.ts
+#EXTINF:-1,REAL MADRID TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1458.ts
+#EXTINF:-1,CHELSEA TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1459.ts
+#EXTINF:-1,MOTORVISION
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1460.ts
+#EXTINF:-1,MOTORS TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1461.ts
+#EXTINF:-1,FUEL TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1462.ts
+#EXTINF:-1,FIGHT NETWORK
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1463.ts
+#EXTINF:-1,PFC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1464.ts
+#EXTINF:-1,TVCINE 1 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1465.ts
+#EXTINF:-1,TVCINE 2 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1467.ts
+#EXTINF:-1,TVCINE 3 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1469.ts
+#EXTINF:-1,TVCINE 4 HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1471.ts
+#EXTINF:-1,TVCINE 1
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1466.ts
+#EXTINF:-1,TVCINE 2
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1468.ts
+#EXTINF:-1,TVCINE 3
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1470.ts
+#EXTINF:-1,TVCINE 4
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1472.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1473.ts
+#EXTINF:-1,HOLLYWOOD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1474.ts
+#EXTINF:-1,FOX MOVIES
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1475.ts
+#EXTINF:-1,MOV HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1476.ts
+#EXTINF:-1,AMC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1477.ts
+#EXTINF:-1,CINEMUNDO
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1478.ts
+#EXTINF:-1,TV SERIES HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1479.ts
+#EXTINF:-1,TV SERIES
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1480.ts
+#EXTINF:-1,AXN HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1481.ts
+#EXTINF:-1,AXN WHITE HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1482.ts
+#EXTINF:-1,AXN BLACK HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1483.ts
+#EXTINF:-1,FOX LIVE HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1485.ts
+#EXTINF:-1,FOX LIFE
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1487.ts
+#EXTINF:-1,FOX HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1484.ts
+#EXTINF:-1,FOX CRIME HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1486.ts
+#EXTINF:-1,FOX COMEDY
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1488.ts
+#EXTINF:-1,SYFY
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1489.ts
+#EXTINF:-1,SUNDANCE HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1490.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1491.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1492.ts
+#EXTINF:-1,SIC K
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1493.ts
+#EXTINF:-1,CANAL PANDA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1494.ts
+#EXTINF:-1,BABY TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1495.ts
+#EXTINF:-1,BABY FIRST
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1496.ts
+#EXTINF:-1,BIGGS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1497.ts
+#EXTINF:-1,CARTOON NETWORK
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1498.ts
+#EXTINF:-1,JIM JAM
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1499.ts
+#EXTINF:-1,NICKELODEON
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1500.ts
+#EXTINF:-1,VH1 CLASSIC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1502.ts
+#EXTINF:-1,VH1
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1501.ts
+#EXTINF:-1,TRACE TV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1503.ts
+#EXTINF:-1,MTV PORTUGAL
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1504.ts
+#EXTINF:-1,MTV DANCE
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1505.ts
+#EXTINF:-1,MCM POP
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1507.ts
+#EXTINF:-1,C-MUSIC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1508.ts
+#EXTINF:-1,AFRO MUSIC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1509.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1510.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1511.ts
+#EXTINF:-1,MCS EXTREME
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1512.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1513.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1514.ts
+#EXTINF:-1,NAT GEO WILD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1515.ts
+#EXTINF:-1,ODISSEIA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1516.ts
+#EXTINF:-1,HISTORIA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1517.ts
+#EXTINF:-1,SKY NEWS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1518.ts
+#EXTINF:-1,FRANCE 24
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1519.ts
+#EXTINF:-1,EURONEWS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1520.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1521.ts
+#EXTINF:-1,BBC WORLD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1522.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1523.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1524.ts
+#EXTINF:-1,CBS REALITY
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1525.ts
+#EXTINF:-1,MCS LIFESTYLE
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1526.ts
+#EXTINF:-1,TLC
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1527.ts
+#EXTINF:-1,GLOBO PREMIUM
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1528.ts
+#EXTINF:-1,GLOBO
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1529.ts
+#EXTINF:-1,TV RECORD
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1530.ts
+#EXTINF:-1,RTP MEMORIA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1531.ts
+#EXTINF:-1,RTP MADEIRA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1532.ts
+#EXTINF:-1,RTP AFRICA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1533.ts
+#EXTINF:-1,RTP ACORES
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1534.ts
+#EXTINF:-1,TV GALICIA
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1535.ts
+#EXTINF:-1,FTV
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1538.ts
+#EXTINF:-1,A.E
+http://masteriptv.dnsfor.me:8000/live/ines/ines/1539.ts
+
 
 
 
@@ -3238,72 +3378,7 @@ http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D
 
 #EXTINF:0,Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,Первый канал
-http://5.19.143.199:81/udp/235.10.10.1:1234
-#EXTINF:-1,Первый канал 
-http://5.19.222.107:81/udp/235.10.10.1:1234
-#EXTINF:-1,Россия 1
-http://5.19.143.199:81/udp/235.10.10.14:1234
-#EXTINF:-1,Россия 1 
-http://5.19.222.107:81/udp/235.10.10.14:1234
-#EXTINF:-1,ТВ Центр
-http://5.19.143.199:81/udp/235.10.10.18:1234
-#EXTINF:-1,ТВ Центр 
-http://5.19.222.107:81/udp/235.10.10.18:1234 
-#EXTINF:-1,НТВ
-http://5.19.143.199:81/udp/235.10.10.11:1234
-#EXTINF:-1,НТВ 
-http://5.19.222.107:81/udp/235.10.10.11:1234
-#EXTINF:-1,Пятый канал
-http://5.19.143.199:81/udp/235.10.10.12:1234
-#EXTINF:-1,Пятый канал 
-http://5.19.222.107:81/udp/235.10.10.12:1234
-#EXTINF:-1,Россия 24
-http://5.19.143.199:81/udp/235.10.10.8:1234
-#EXTINF:-1,Россия 24 
-http://5.19.222.107:81/udp/235.10.10.8:1234
-#EXTINF:-1,Life78
-http://5.19.143.199:81/udp/235.10.10.179:1234
-#EXTINF:-1,ТНТ
-http://5.19.143.199:81/udp/235.10.10.19:1234
-#EXTINF:-1,ТНТ 
-http://5.19.222.107:81/udp/235.10.10.19:1234  
-#EXTINF:-1,Россия К
-http://5.19.143.199:81/udp/235.10.10.9:1234
-#EXTINF:-1,Россия К 
-http://5.19.222.107:81/udp/235.10.10.9:1234 
-#EXTINF:-1,СТС
-http://5.19.143.199:81/udp/235.10.10.16:1234
-#EXTINF:-1,СТС 
-http://5.19.222.107:81/udp/235.10.10.16:1234
-#EXTINF:-1,ТВ 3
-http://5.19.143.199:81/udp/235.10.10.156:1234
-#EXTINF:-1,ТВ 3 
-http://5.19.222.107:81/udp/235.10.10.156:1234
-#EXTINF:-1,Домашний
-http://5.19.143.199:81/udp/235.10.10.6:1234
-#EXTINF:-1,Домашний 
-http://5.19.222.107:81/udp/235.10.10.6:1234
-#EXTINF:-1,Пятница!
-http://5.19.143.199:81/udp/235.10.10.5:1234
-#EXTINF:-1,Пятница! 
-http://5.19.222.107:81/udp/235.10.10.5:1234 
-#EXTINF:-1,Ю
-http://5.19.143.199:81/udp/235.10.10.10:1234
-#EXTINF:-1,Ю 
-http://5.19.222.107:81/udp/235.10.10.10:1234 
-#EXTINF:-1,Че
-http://5.19.143.199:81/udp/235.10.10.7:1234 
-#EXTINF:-1,Че
-http://5.19.222.107:81/udp/235.10.10.7:1234 
-#EXTINF:-1,Матч
-http://5.19.143.199:81/udp/235.10.10.15:1234
-#EXTINF:-1,Матч 
-http://5.19.222.107:81/udp/235.10.10.15:1234 
-#EXTINF:-1,Карусель
-http://5.19.143.199:81/udp/235.10.10.64:1234
-#EXTINF:-1,Карусель 
-http://5.19.222.107:81/udp/235.10.10.64:1234
+
 #EXTINF:0,1 Kanal
 rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/210_110.sdp
 #EXTINF:0,8 kanal
