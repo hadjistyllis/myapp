@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=ECbJrjrcCUE
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ERT.png ,ERT WORLD WebTV
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ERT.png ,ERT WORLD
-http://stream.ssh101.com:1935/live/upgertworld/playlist.m3u8
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=942oejp0aab18editv470uao46
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id="ΔΤ HD" tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ERTHD.png ,Ert HD
 http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ANT1.PNG ,ANT1
