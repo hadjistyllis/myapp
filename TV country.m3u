@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 4/2/17
+#EXTINF:-1 ,Updated 5/2/17
 http://.....
 
 
@@ -301,172 +301,256 @@ http://.....
 
 
 #EXTINF:-1,NBC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.m3u8
 #EXTINF:-1,A&E
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/2.m3u8
 #EXTINF:-1,AMC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/3.m3u8
 #EXTINF:-1,ABC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/4.m3u8
 #EXTINF:-1,E!
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/5.m3u8
 #EXTINF:-1,FOX
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/6.m3u8
 #EXTINF:-1,SYFY
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/7.m3u8
 #EXTINF:-1,SPIKE
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/8.m3u8
 #EXTINF:-1,TBS
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/9.m3u8
 #EXTINF:-1,TNT
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/10.m3u8
 #EXTINF:-1,LMN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/12.m3u8
 #EXTINF:-1,HallMark Channel
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/13.m3u8
 #EXTINF:-1,TruTV
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/14.m3u8
 #EXTINF:-1,OWN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/15.m3u8
 #EXTINF:-1,BBC AMERICA
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/16.m3u8
 #EXTINF:-1,CITY TV
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/17.m3u8
 #EXTINF:-1,CTV
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/18.m3u8
 #EXTINF:-1,Comedy Central
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/19.m3u8
 #EXTINF:-1,Lifetime
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/20.m3u8
 #EXTINF:-1,CBC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/21.m3u8
 #EXTINF:-1,HBO
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/22.m3u8
 #EXTINF:-1,HBO 2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/23.m3u8
 #EXTINF:-1,HBO COMEDY
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/24.m3u8
 #EXTINF:-1,HBO ZONE
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/25.m3u8
-#EXTINF:-1,HBO SIGNATURE
+#EXTINF:-1,HBO SIGNATURE\
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/26.m3u8
 #EXTINF:-1,HBO FAMILY
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/27.m3u8
 #EXTINF:-1,SHOWTIME
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/28.m3u8
 #EXTINF:-1,SHOWTIME 2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/29.m3u8
 #EXTINF:-1,SHOWTIME SHOWCASE
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/30.m3u8
 #EXTINF:-1,Starz East
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/31.m3u8
 #EXTINF:-1,Starz West
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/32.m3u8
 #EXTINF:-1,Startz Edge
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/33.m3u8
 #EXTINF:-1,Starz Cinema
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/34.m3u8
 #EXTINF:-1,Starz Encore
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/35.m3u8
 #EXTINF:-1,Starz Comedy
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/36.m3u8
 #EXTINF:-1,Starz N Black
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/37.m3u8
 #EXTINF:-1,Starz Encode Western
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/38.m3u8
 #EXTINF:-1,Cinemax East
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/39.m3u8
 #EXTINF:-1,Cinemax 5 StarMax
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/40.m3u8
 #EXTINF:-1,Cinemax ActionMax
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/41.m3u8
 #EXTINF:-1,Cinemax Moremax
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/42.m3u8
 #EXTINF:-1,Space
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/43.m3u8
 #EXTINF:-1,The Movie Channel
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/44.m3u8
 #EXTINF:-1,ESPN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/45.m3u8
 #EXTINF:-1,ESPN 2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/46.m3u8
 #EXTINF:-1,ESPN NU
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/47.m3u8
 #EXTINF:-1,NBC SN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/48.m3u8
 #EXTINF:-1,CBS SN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/49.m3u8
 #EXTINF:-1,Fox Sports 1
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/50.m3u8
 #EXTINF:-1,Fox Sports 2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/51.m3u8
 #EXTINF:-1,NBA TV
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/52.m3u8
 #EXTINF:-1,MLB Network
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/53.m3u8
 #EXTINF:-1,NFL Network
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/54.m3u8
 #EXTINF:-1,NFL Now
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/55.m3u8
 #EXTINF:-1,NHL
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/56.m3u8
 #EXTINF:-1,WWE Network
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/57.m3u8
 #EXTINF:-1,TSN1
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/58.m3u8
 #EXTINF:-1,TSN 2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/59.m3u8
 #EXTINF:-1,TSN 3
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/60.m3u8
 #EXTINF:-1,TSN4
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/61.m3u8
 #EXTINF:-1,TSN5
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/62.m3u8
 #EXTINF:-1,SPORTSNET ONE
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/63.m3u8
 #EXTINF:-1,SPORTSNET ONTARIO
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/64.m3u8
 #EXTINF:-1,SPORTS WORLD
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/65.m3u8
 #EXTINF:-1,SPORTSNET 360
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/66.m3u8
 #EXTINF:-1,SPORTSNET PACIFIC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/67.m3u8
 #EXTINF:-1,CNN
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/68.m3u8
 #EXTINF:-1,CBC News
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/69.m3u8
 #EXTINF:-1,CNBC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/70.m3u8
 #EXTINF:-1,MSNBC
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/71.m3u8
 #EXTINF:-1,FOX NEWS
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/72.m3u8
 #EXTINF:-1,ABC NEWS
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/73.m3u8
 #EXTINF:-1,Fox Business
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/74.m3u8
 #EXTINF:-1,History
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/75.m3u8
 #EXTINF:-1,H2
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/76.m3u8
 #EXTINF:-1,National Geographic
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/77.m3u8
 #EXTINF:-1,Nat Geo Wild
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/78.m3u8
 #EXTINF:-1,Animal Planet
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/79.m3u8
 #EXTINF:-1,Investigation Discovery
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/80.m3u8
 #EXTINF:-1,Velocity
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/81.m3u8
 #EXTINF:-1,Love Nature
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/82.m3u8
 #EXTINF:-1,Food Network
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/83.m3u8
 #EXTINF:-1,HGTV
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/84.m3u8
 #EXTINF:-1,DYI Network
+#EXTVLCOPT:network-caching=2000
 http://free-premium-iptv.ddns.net:9090/load/freestreams/85.m3u8
 
 
@@ -759,8 +843,6 @@ rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF:4 group-title=”Bulgaria”,
 
 
-#EXTINF:0,BG DNES
-http://80.72.95.40:8088v
 #EXTINF:0,Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:0,Cherno More
@@ -787,54 +869,233 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
 http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
 #EXTINF:0,TV7
 http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
-#EXTINF:0,VTV
-http://31.13.223.103:1935/vtv/vtv.stream/playlist.m3u8?hash=?
+#EXTINF:-1,bTV
+http://5.32.183.177:4080/udp/224.0.0.110:1234
+#EXTINF:-1,NOVA
+http://5.32.183.177:4080/udp/224.0.0.110:1235
+#EXTINF:-1,Hobby TV
+http://5.32.183.177:4080/udp/224.0.0.110:1239
+#EXTINF:-1,Film Plus – Sport Plus
+http://5.32.183.177:4080/udp/224.0.0.110:1237
+#EXTINF:-1,Planeta TV
+http://5.32.183.177:4080/udp/224.0.0.110:1236
+#EXTINF:-1,Discovery Channel
+http://5.32.183.177:4080/udp/224.0.0.110:1241
+#EXTINF:-1,The Voice
+http://5.32.183.177:4080/udp/224.0.0.110:1240
+#EXTINF:-1,Viasat Explorer
+http://5.32.183.177:4080/udp/224.0.0.120:1234
+#EXTINF:-1,Disney Channel
+http://5.32.183.177:4080/udp/224.0.0.120:1235
+#EXTINF:-1,NG WILD
+http://5.32.183.177:4080/udp/224.0.0.120:1237
+#EXTINF:-1,FAN TV
+http://5.32.183.177:4080/udp/224.0.0.120:1236
+#EXTINF:-1,Balkanika
+http://5.32.183.177:4080/udp/224.0.0.120:1238
+#EXTINF:-1,Nick
+http://5.32.183.177:4080/udp/224.0.0.120:1240
+#EXTINF:-1,Folklor TV
+http://5.32.183.177:4080/udp/224.0.0.120:1239
+#EXTINF:-1,DM Sat
+http://5.32.183.177:4080/udp/224.0.0.120:1246
+#EXTINF:-1,Planeta Folk TV
+http://5.32.183.177:4080/udp/224.0.0.120:1242
+#EXTINF:-1,TV Leskovac
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1,AL JAZEERA Balcan
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
+#EXTINF:-1,DOT Dance
+#EXTVLCOPT:network-caching=1000
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
+#EXTINF:-1,4 music
+#EXTVLCOPT:network-caching=1000
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:-1,Hit tv
+#EXTVLCOPT:network-caching=1000
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live 
+#EXTINF:-1,ELECTROSOUND TV
+#EXTVLCOPT:network-caching=1000
+rtmp://www.electrosound.tv:1935/public/stream 
+#EXTINF:0,NRJ Hits
+#EXTVLCOPT:network-caching=1000
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+#EXTINF:-1,Heart TV
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,CAPITAL TV
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Clubland TV
+#EXTVLCOPT:network-caching=1000
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,DJING IBIZA
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,electro sound
+#EXTVLCOPT:network-caching=1000
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1,24 Vesti
+mms://62.162.58.55/24vesti
+#EXTINF:0,NOVA TV
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
+#EXTINF:0,TV+ Kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1,Balkanika
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,FEN
+rtsp://stream.teracomm.bg/fen
+#EXTINF:-1,Planeta
+rtsp://stream.teracomm.bg/planeta
+#EXTINF:-1,Roma TV HD
+http://77.78.130.123/hls/hd.m3u8
+#EXTINF:-1,Roma TV
+http://77.78.130.123/hls/sd.m3u8
+#EXTINF:-1,TV Evropa ?
+http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
+#EXTINF:-1,BTK
+http://46.249.95.180/vtk/high.m3u8
+#EXTINF:-1,TV Zagora
+http://95.87.0.78:8080/test.m3u8
+#EXTINF:-1,Kanal 3
+http://ios.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
+#EXTINF:-1,BloombergTV Bulgaria
+http://ios.cdn.bg:2091/fls/bloomberg.stream/playlist.m3u8
+#EXTINF:-1,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1,ТВ 7
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
+#EXTINF:-1,Евроком
+http://live.eurocom.bg:8080/hls/stream.m3u8
+#EXTINF:-1,BNP TV
+http://bnptv.info:10801
+#EXTINF:-1,MU-VI tv
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:-1,Спортал ТВ
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1,Спортал ТВ HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1,ТВ Черно Море Варна
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:-1,Стойчев ТВ Стара Загора
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:-1,ТВ Стара Загора
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:-1,Делта Русе
+http://deltacatv.com/delta.m3u
+#EXTINF:-1,City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:-1,БГ Днес
+http://80.72.95.40:8088
+#EXTINF:-1,Национално-патриотична телевизия
+mms://bnptv.tv:10801
+#EXTINF:-1,ТВ Медицински Университет Варна
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:-1,BULGAR TRAVEL BG 
+http://stream.bulgartravel.tv/hhq.m3u8
+#EXTINF:0,BG DNES
+http://80.72.95.40:8088
+#EXTINF:0,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0,Cherno More
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:0,Community TV
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
+#EXTINF:0,DSTV
+rtmp://46.249.95.140/live/livestream
+#EXTINF:0,PPTV
+rtmp://31.13.218.108/live/mpegts.stream
+#EXTINF:0,TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
 #EXTINF:0,vvv
 rtmp://vvv.bg:1935/live/vvv.flv
+#EXTINF:0,TV Shumen 3
+https://www.youtube.com/watch?v=HiEl8qRfuH0
+#EXTINF:0,alfa ataka
+http://ataka.tv:1935/live/live/playlist.m3u8
+#EXTINF:0,ntv 1
+http://lb.blb.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u
+#EXTINF:0,ntv1
+http://hls.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u8
+#EXTINF:0,ntv 2
+http://hls.cdn.bg:2010/fls/ntv_2.stream/playlist.m3u8
+#EXTINF:0,BG-Dnes HD
+http://80.72.95.40:8088i
+#EXTINF:0,Btv
+http://46.10.150.111/alpha/alpha/playlist.m3u8
+#EXTINF:0,Btv
+http://hls.btv.bg.sof.cmestatic.com/alpha/alpha/playlist.m3u8
+#EXTINF:-1,bTV
+http://5.32.183.177:4080/udp/224.0.0.110:1234
+#EXTINF:0,Bloomberg bulgaria
+http://lb.blb.cdn.bg:2091/fls/bloomberg.stream/playlist.m3u8
+#EXTINF:0,Sportal.bg
+http://lb.blb.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:0,Sportal.Bg FHD
+http://lb.blb.cdn.bg:2001/fls/sportal_tv_fullhd.stream/playlist.m3u8
+#EXTINF:0,TV
+rtmp://79.98.109.134:1935/big/live 
+#EXTINF:0,DELTA
+http://195.34.117.125:8090/live.flv
+#EXTINF:0,DELTA
+http://deltacatv.com/delta.m3u
+#EXTINF:0,pomo
+http://80.80.158.158:8080/stream.flv
+#EXTINF:0,htv bg live
+http://stream2.htv.bg:1935/securestreaming/hd.sdp/playlist.m3u8
+#EXTINF:0,TV Zagora
+http://95.87.0.78:8080/live/tv_zagora_576p.m3u8
+#EXTINF:0,TV Stoichev
+http://lb.blb.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:0,ch more
+http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0,Roma TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0,TV Evropa
+http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
+#EXTINF:0,Kanal 3
+http://lb.blb.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
+#EXTINF:0,2EK
+http://live.eurocom.bg:8080/hls/stream.m3u8
+#EXTINF:0,TV Bapha
+http://78.129.184.15:28119/streaming/stream/playlist.m3u8
+#EXTINF:0,Travel TV HD
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:0,BTK
+http://46.249.95.180/video/vtk_high/playlist.m3u8
+#EXTINF:0,Bnptv
+mms://bnptv.tv:10801A3
+#EXTINF:0,MU-Vi tv
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:0,City
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:0,TV.eurofolk.com
+rtsp://live.cdn2.streamago.tv/streamago/53827/45262/?idcanale=45262
+#EXTINF:0,etv
+http://195.24.89.20/tvs/etv.m3u8
+#EXTINF:0,Auto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0, 100 gaz
+mms://100automoto.tv/100gaz
+#EXTINF:0,bmw
+mms://100automoto.tv/bmw
+#EXTINF:0,channel electric
+mms://100automoto.tv/channel_electric
+#EXTINF:0,channel italy
+mms://100automoto.tv/channel_italy
+#EXTINF:0,channel mercendes
+mms://100automoto.tv/channel_mercedes
+#EXTINF:0,channel porsche
+mms://100automoto.tv/channel_porsche
 
 
-#EXTINF:-1,Ring 
-http://185.53.163.216:3115 
-#EXTINF:-1,B Comedy 
-http://185.53.163.216:3111 
-#EXTINF:-1,B cinema 
-http://185.53.163.216:3110 
-#EXTINF:-1,FOX CRIME 
-http://185.53.163.216:3109 
-#EXTINF:-1,СКАТ 
-http://185.53.163.216:3107 
-#EXTINF:-1,AXN 
-http://185.53.163.216:3106 
-#EXTINF:-1,Fox Life 
-http://185.53.163.216:3108 
-#EXTINF:-1,BiT 
-http://185.53.163.216:3105 
-#EXTINF:-1,Eurosport 2 
-http://185.53.163.216:3104 
-#EXTINF:-1,18 
-http://185.53.163.216:3103 
-#EXTINF:-1,БНТ 2 
-http://185.53.163.216:3102 
-#EXTINF:-1,National Geographic 
-http://185.53.163.216:3101 
-#EXTINF:-1,Diema Famely 
-http://185.53.163.216:3100 
-#EXTINF:-1,Kinonova 
-http://185.53.163.216:3010 
-#EXTINF:-1,VH1 European 
-http://185.53.163.216:3007 
-#EXTINF:-1,Nova 
-http://185.53.163.216:3006 
-#EXTINF:-1,F+ 
-http://185.53.163.216:3005 
-#EXTINF:-1,TV+ 
-http://185.53.163.216:3004 
-#EXTINF:-1,БНТ HD 
-http://185.53.163.216:3003 
-#EXTINF:-1,bTV 
-http://185.53.163.216:3002 
-#EXTINF:-1,БНТ1 
-http://185.53.163.216:3001
+
+
+
 
 
 
