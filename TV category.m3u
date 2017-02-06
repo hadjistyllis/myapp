@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 4/2/17
+#EXTINF:-1 ,Updated 6/2/17
 http://.....
 
 
@@ -51,12 +51,16 @@ http://82.200.127.58:8080/udp/233.12.144.9:5050
 http://185.63.196.22:8004/play/a044
 #EXTINF:0,Nat Geo Wild 
 http://213.110.151.59:8889/udp/239.10.0.132:1234 
+#EXTINF:-1,Nat Geo Wild 
+http://5.32.183.177:4080/udp/224.0.0.120:1237
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery Channel
 http://37.20.239.130:1234/udp/233.7.70.75:5000
+#EXTINF:-1,Discovery Channel
+http://5.32.183.177:4080/udp/224.0.0.110:1241
 #EXTINF:0,Discovery Channel 
 http://187.49.86.238:10000/bysid/120 
 #EXTINF:0,Discovery HD
@@ -178,6 +182,8 @@ http://185.63.196.22:8004/play/a03t
 http://193.8.246.110:8880/play/10090
 #EXTINF:0, Disney Junior
 http://213.167.0.231:10000/play/a007
+#EXTINF:-1,Disney Channel
+http://5.32.183.177:4080/udp/224.0.0.120:1235
 #EXTINF:0,Sky Disney 
 http://5.255.90.223:2082/play/a0d1 
 #EXTINF:0,Nickelodeon
