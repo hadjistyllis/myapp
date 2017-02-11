@@ -434,7 +434,10 @@ http://212.79.96.134:8014/
 
 #EXTINF:6 group-title=”Cinema”,
 
-
+#EXTINF:-1 ,Movies TV
+rtmp://live.streams.ovh/MoviesTv/MoviesTv
+#EXTINF:-1 ,Movies TV
+rtsp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:0,HBO 
 http://187.49.86.238:10000/bysid/69 
 #EXTINF:0,Paramount 
