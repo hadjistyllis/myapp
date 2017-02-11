@@ -276,6 +276,10 @@ mmsh://wpso.com:200/kids?MSWMExt=.asf
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" ,Nickelodeon (GR)
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+#EXTINF:-1 ,Movies TV
+rtmp://live.streams.ovh/MoviesTv/MoviesTv
+#EXTINF:-1 ,Movies TV
+rtsp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 ,MIX
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 
