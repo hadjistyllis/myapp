@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 8/2/17
+#EXTINF:-1 ,Updated 11/2/17
 http://.....
 
 
@@ -25,30 +25,18 @@ http://.....
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
 http://37.192.131.119:81/udp/239.1.5.3:1234
-#EXTINF:-1,Animal Planet
-http://31.28.41.44:4022/udp/232.0.1.48:1234
-#EXTINF:0,Animal Planet
-http://545-tv.com/PREMIUM/NO/KANAL/YW5pbWFsLXBsYW5ldF8xX1lIVUxE
 #EXTINF:0,AnimalPlanet 
 http://213.110.151.59:8889/udp/239.10.0.109:1234 
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:0,National Geographic
 http://82.200.127.58:8080/udp/233.12.144.10:5050
-#EXTINF:-1,National Geographic
-http://37.20.239.130:1234/udp/233.7.70.43:5000
-#EXTINF:-1,National Geographic
-http://92.125.142.91:1234/udp/233.7.70.43:5000
-#EXTINF:-1,National Geographic
-http://185.63.196.22:8004/play/a046
 #EXTINF:0,NationalGeographic 
 http://213.110.151.59:8889/udp/239.10.0.130:1234 
 #EXTINF:0,Nat Geo WILD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/wild?krasview.ru
 #EXTINF:-1,NAT GEO WILD
 http://82.200.127.58:8080/udp/233.12.144.9:5050
-#EXTINF:-1,Nat Geo Wild
-http://185.63.196.22:8004/play/a044
 #EXTINF:0,Nat Geo Wild 
 http://213.110.151.59:8889/udp/239.10.0.132:1234 
 #EXTINF:-1,Nat Geo Wild 
@@ -57,8 +45,6 @@ http://5.32.183.177:4080/udp/224.0.0.120:1237
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
-#EXTINF:-1,Discovery Channel
-http://37.20.239.130:1234/udp/233.7.70.75:5000
 #EXTINF:-1,Discovery Channel
 http://5.32.183.177:4080/udp/224.0.0.110:1241
 #EXTINF:0,Discovery Channel 
@@ -73,8 +59,6 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 http://213.110.151.59:8889/udp/239.10.0.146:1234 
 #EXTINF:0,History
 http://82.200.127.58:8080/udp/233.12.144.108:5050
-#EXTINF:0,History
-http://94.158.80.101:8081/udp/239.0.1.160:4000
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:0,Fox 
@@ -83,44 +67,16 @@ http://213.110.151.59:8889/udp/239.10.0.160:1234
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:0,FoxLife 
 http://213.110.151.59:8889/udp/239.10.0.161:1234 
-#EXTINF:-1,FOX Life
-http://5.28.27.39:4022/udp/232.0.2.47:1234
-#EXTINF:-1,FOX Life
-http://31.28.41.44:4022/udp/232.0.2.47:1234
-#EXTINF:0,Fox Life
-http://94.158.80.101:8081/udp/239.0.0.144:4000
-#EXTINF:-1,Food Network
-http://37.20.239.130:1234/udp/233.7.70.73:5000
-#EXTINF:-1,Food Network
-http://92.125.141.87:1234/udp/233.7.70.73:5000
-#EXTINF:0,Food Network
-http://94.158.80.101:8081/udp/239.0.1.34:4000
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
-#EXTINF:-1,TLC
-http://31.28.41.44:4022/udp/232.0.2.52:1234
-#EXTINF:0,TLC
-http://94.158.80.101:8081/udp/239.0.0.32:4000
-#EXTINF:-1,Viasat Explorer
-http://31.200.228.57:4022/udp/239.239.1.37:1234
-#EXTINF:-1,Viasat Explore
-http://37.20.239.130:1234/udp/233.7.70.80:5000
 #EXTINF:-1,TV1000 Action
 http://31.200.228.57:4022/udp/239.239.1.34:1234
 #EXTINF:-1,Viasat TV1000
 http://31.200.228.57:4022/udp/239.239.1.36:1234
 #EXTINF:-1,Viasat History
 http://31.200.228.57:4022/udp/239.239.1.35:1234
-#EXTINF:-1,Viasat History
-http://92.125.141.87:1234/udp/233.7.70.81:5000
-#EXTINF:-1,Viasat History
-http://37.20.239.130:1234/udp/233.7.70.81:5000
 #EXTINF:-1,Viasat Sport
 http://31.200.228.57:4022/udp/239.239.1.38:1234
-#EXTINF:-1,Viasat Sport
-http://37.20.239.130:1234/udp/233.7.70.78:5000
-#EXTINF:-1,Viasat Sport
-http://92.125.141.87:1234/udp/233.7.70.78:5000
 #EXTINF:-1,Viasat Nature
 http://31.200.228.57:4022/udp/239.239.1.39:1234
 #EXTINF:-1,Amazing Facts TV
@@ -137,8 +93,6 @@ http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:42
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
 #EXTINF:-1,Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234 
-#EXTINF:0,Fashion TV
-http://545-tv.com/PREMIUMUA/NO/KANAL/ZmFzaGlvbi10dl8xX1dSSVRS
 #EXTINF:-1,world-fashion 
 http://89.223.46.189:8080/world-fashion/playlist.m3u8 
 #EXTINF:-1,world-fashion 
@@ -168,54 +122,26 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:-1,JimJam
 http://185.63.196.22:8004/play/a042
-#EXTINF:-1,BabyTV
-http://185.53.162.157:8006/play/a00h
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,Cartoon Network
-http://31.28.41.44:4022/udp/232.0.1.49:1234
 #EXTINF:0,CartoonNetwork 
 http://213.110.151.59:8889/udp/239.10.0.112:1234 
-#EXTINF:-1,Cartoon Network
-http://185.63.196.22:8004/play/a03t
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:0, Disney Junior
 http://213.167.0.231:10000/play/a007
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:0,Sky Disney 
-http://5.255.90.223:2082/play/a0d1 
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1,Nickelodeon
-http://37.20.239.130:1234/udp/233.7.70.52:5000
-#EXTINF:-1,Nickelodeon
-http://31.28.41.44:4022/udp/232.0.1.39:1234
 #EXTINF:0,Nickelodeon 
 http://213.110.151.59:8889/udp/239.10.0.113:1234 
-#EXTINF:0,Nickelodeon 
-http://5.255.90.223:2082/play/a0an 
-#EXTINF:0,Nickelodeon+1 
-http://5.255.90.223:2082/play/a0am 
 #EXTINF:-1,Nickelodeon (GR)
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 #EXTINF:0,Nick Jr
 http://5.189.66.71:4022//udp/239.255.2.218:1234
 #EXTINF:0,Nick Jr
 http://82.200.127.58:8080/udp/233.12.144.85:5050
-#EXTINF:0,Nick Jr. 
-http://5.255.90.223:2082/play/a0ap 
-#EXTINF:0,Nick Jr+1 
-http://5.255.90.223:2082/play/a0b8
-#EXTINF:0,Nick Jr Too 
-http://5.255.90.223:2082/play/a0b7 
-#EXTINF:0,Nick Jr Peppa 
-http://5.255.90.223:2082/play/a0ba 
-#EXTINF:0,RT.jr 
-http://5.255.90.223:2082/play/a0ag 
-#EXTINF:0,Nicktoons 
-http://5.255.90.223:2082/play/a0b0 
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -324,30 +250,10 @@ http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
 #EXTINF:0,MTV Live HD
 http://176.106.66.156:8086/udp/239.71.92.144:1234
-#EXTINF:0,MTV
-http://94.158.80.101:8081/udp/239.0.0.170:4000
-#EXTINF:0,MTV HD
-http://94.158.80.101:8081/udp/239.0.0.196:4000
 #EXTINF:-1,MTV Music
 http://tinyurl.com/hb678sq
 #EXTINF:0,MTV Dance
 http://176.106.66.156:8086/udp/239.71.92.46:1234
-#EXTINF:0,MTV Dance
-http://94.158.80.101:8081/udp/239.0.0.80:4000
-#EXTINF:-1,MTV Dance
-http://193.23.58.156:4025/udp/234.1.20.37:1234 
-#EXTINF:0,MTV Dance
-http://82.146.36.98:4545/MTVDance815
-#EXTINF:-1,MTV Hits
-http://193.23.58.156:4025/udp/234.1.20.36:1234 
-#EXTINF:0,MTV Hits
-http://94.158.80.101:8081/udp/239.0.0.205:4000
-#EXTINF:0,MTVHits
-http://82.146.36.98:4545/MTVHits815
-#EXTINF:0,MTV Rocks
-http://94.158.80.101:8081/udp/239.0.0.143:4000
-#EXTINF:-1,MTV Rock
-http://193.23.58.156:4025/udp/234.1.20.38:1234 
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1,Capital TV
@@ -425,72 +331,20 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 #EXTINF:-1,Sports Stream HD (Stream Switches Channels)
 http://46.105.161.243:8085/lighd
 
-#EXTINF:Sky Sports Mix 
-http://5.255.90.223:2082/play/a0at 
-#EXTINF:0,BT Sport//ESPN 
-http://5.255.90.223:2082/play/a0g4 
-#EXTINF:0,BT Sport Extra 5 
-http://5.255.90.223:2082/play/a0gj 
-#EXTINF:0,Sky Sports Active 7 
-http://5.255.90.223:2082/play/a0i9 
-#EXTINF:0,Sky Sports Active 3 
-http://5.255.90.223:2082/play/a0i0 
-#EXTINF:0,Sky Sports Active 15 
-http://5.255.90.223:2082/play/a0i7 
-#EXTINF:0,BT Sport Extra 2 
-http://5.255.90.223:2082/play/a0gg 
-#EXTINF:0,Sky Sports Active 13 
-http://5.255.90.223:2082/play/a0hz 
-#EXTINF:0,BT Sport Extra 3 
-http://5.255.90.223:2082/play/a0gh 
-#EXTINF:0,Sky Sports Active 18 
-http://5.255.90.223:2082/play/a0i1 
-#EXTINF:0,Sky Sports Active 17 
-http://5.255.90.223:2082/play/a0ib 
-#EXTINF:0,BT Sport Extra 4 
-http://5.255.90.223:2082/play/a0gi 
-#EXTINF:0,Sky Sports Active 14 
-http://5.255.90.223:2082/play/a0ie 
-#EXTINF:0,Sky Sports Active 2 
-http://5.255.90.223:2082/play/a0if 
-#EXTINF:0,Sky Sp NewsHQ ireland 
-http://5.255.90.223:2082/play/a0db 
-#EXTINF:0,SkySpBoxOff 
-http://5.255.90.223:2082/play/a0d8 
-#EXTINF:0,Sky Sports 4 ireland 
-http://5.255.90.223:2082/play/a0d7 
-#EXTINF:0,Sky Sports Active 12 
-http://5.255.90.223:2082/play/a0i6 
-#EXTINF:0,Sky Sports Active 16 
-http://5.255.90.223:2082/play/a0i8 
-#EXTINF:0,Sky Sports Active 8 
-http://5.255.90.223:2082/play/a0hy 
-#EXTINF:0,Sky Sports Active 5 
-http://5.255.90.223:2082/play/a0id 
-#EXTINF:0,Sky Sports Active 11 
-http://5.255.90.223:2082/play/a0ic 
-#EXTINF:0,Sky Sports Active 10 
-http://5.255.90.223:2082/play/a0i3 
-#EXTINF:0,Sky Sports Active 6 
-http://5.255.90.223:2082/play/a0i4 
-#EXTINF:0,Sky Sports Active 4 
-http://5.255.90.223:2082/play/a0i2 
-#EXTINF:0,BT Sport 2 
-http://5.255.90.223:2082/play/a0ga 
-#EXTINF:0,BT Sport Mosaic 2 
-http://5.255.90.223:2082/play/a0gf 
-#EXTINF:0,Sky Sports 1 ireland 
-http://5.255.90.223:2082/play/a0d9 
-#EXTINF:0,BT Sport Extra 6 
-http://5.255.90.223:2082/play/a0gk 
-#EXTINF:0,Sky Sports Active 1 
-http://5.255.90.223:2082/play/a0ig 
+#EXTINF:0,Bt Sports1
+#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://194.67.216.49/swf/265.m3u8?sf=NTcwZDNkMDAyMWQxOQ==&token=B3pz7A8J1UVrvHmTd6r-rQ
 
-#EXTINF:0,KSport2
-http://185.24.34.190:8000/play/a04v
+#EXTINF:0,Sport tv3
+#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://193.124.184.40/swf/2044.m3u8?sf=d2l6aGQwMTk=&token=B3pz7A8J1UVrvHmTd6r-rQ
 
-#EXTINF:-1,Ring
-http://185.53.163.216:3115
+#EXTINF:0,Sport tv1
+#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://193.124.176.40/swf/2045.m3u8?sf=d2l6aGQwMjA=&token=B3pz7A8J1UVrvHmTd6r-rQ
 
 #EXTINF:-1,IDMAN
 http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
