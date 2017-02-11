@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,Updated 8/2/17
+#EXTINF:-1 ,Updated 11/2/17
 http://.....
 
 
@@ -486,7 +486,7 @@ http://.....
 
 
 
-#EXTINF:3 group-title=”USA1”, 
+#EXTINF:3 group-title=”USA1-OFFLINE”, 
 #EXTINF:-1 ,NOTE:Limited
 http://.....
 #EXTINF:-1 ,Connections
@@ -785,32 +785,17 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://streaming.cityofboston.gov/live/cable/playlist.m3u8
 #EXTINF:0,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 ,A&E
-http://premium.exabytetv.info/HLSST/995/995-OVLAX-1011000101001000001110101100011-ExabyteTV.m3u8
-#EXTINF:-1 ,AMC
-http://213.171.204.52/live/usa/chunklist/e6068122d3be90cede92106090ee9471.m3u8
-#EXTINF:-1 ,ABC 27
-http://213.171.204.52/live/usa/chunklist/9481f3d8952cd5c683521e54c6062542.m3u8
+
 #EXTINF:-1 ,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 ,Bloomberg
 http://btv-i.akamaihd.net/hls/live/202760-b/btvusa_ios/P1/M24K.m3u8
-#EXTINF:-1 ,Bravo
-http://213.171.204.52/live/usa/chunklist/847864ae9c79e52976564c27efc444ce.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://213.171.204.52/live/usa/chunklist/e5323372c2c48110817c70106160e3e5.m3u8
-#EXTINF:-1 ,CBS East
-http://213.171.204.52/live/usa/chunklist/ffd6b6230fc12925fcce0af55dc15e86.m3u8
 #EXTINF:-1 ,CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-b.m3u8
 #EXTINF:-1 ,CNN International
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b700000.m3u8
-#EXTINF:-1 ,CNN USA
-http://213.171.204.52/live/usa/chunklist/a4a6ad1d6e9005a653c27b1fb9fbcc39.m3u8
 #EXTINF:-1 ,Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/04.m3u8
-#EXTINF:-1 ,The CW
-http://213.171.204.52/live/usa/chunklist/02a480a0f4c4d1669877ba228a387612.m3u8
 #EXTINF:-1 ,ESPN
 http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn1yous/index.m3u8
 #EXTINF:-1 ,ESPN 2
@@ -819,8 +804,7 @@ http://149.202.207.8:8080/chINNkkeeyPanduuu/eiisapn2yous/index.m3u8
 http://149.202.207.8:8080/chINNkkeeyPanduuu/f8itenetUS/index.m3u8
 #EXTINF:-1 ,Golf Channel
 http://149.202.207.8:8080/chINNkkeeyPanduuu/enbeecYglf/index.m3u8
-#EXTINF:-1 ,Hallmark Channel
-http://premium.exabytetv.info/HLSST/1005/1005-OVLAX-1011000101001000001110101100011-ExabyteTV.m3u8
+
 
 
 
@@ -833,6 +817,10 @@ http://premium.exabytetv.info/HLSST/1005/1005-OVLAX-1011000101001000001110101100
 
 #EXTINF:3 group-title=”UK”, 
 
+#EXTINF:0,Bt Sports1
+#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://194.67.216.49/swf/265.m3u8?sf=NTcwZDNkMDAyMWQxOQ==&token=B3pz7A8J1UVrvHmTd6r-rQ
 
 #EXTINF:-1, VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
@@ -853,174 +841,6 @@ http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
 #EXTINF:-1,Zing 
 http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
-
-#EXTINF:0,Bt Sports1
-#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://194.67.216.49/swf/265.m3u8?sf=NTcwZDNkMDAyMWQxOQ==&token=B3pz7A8J1UVrvHmTd6r-rQ
-
-#EXTINF:-1,Eurosport 2
-http://5.255.90.223:2082/play/a0dj
-#EXTINF:-1,Nick Jr.
-http://5.255.90.223:2082/play/a0ap
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.223:2082/play/a0b8
-#EXTINF:-1,Sky Living+1
-http://5.255.90.223:2082/play/a0dk
-#EXTINF:-1,BT Sport Extra 3
-http://5.255.90.223:2082/play/a0gh
-#EXTINF:-1,Sky Star Wars
-http://5.255.90.223:2082/play/a0g0
-#EXTINF:-1,Disc.History
-http://5.255.90.223:2082/play/a0du
-#EXTINF:-1,Sky Sports Active 7
-http://5.255.90.223:2082/play/a0i9
-#EXTINF:-1,Discovery+1
-http://5.255.90.223:2082/play/a0dr
-#EXTINF:-1,Sky Sports Active 15
-http://5.255.90.223:2082/play/a0i7
-#EXTINF:-1,Sky Disney
-http://5.255.90.223:2082/play/a0d1
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.223:2082/play/a0b5
-#EXTINF:-1,Sky Sports Mix
-http://5.255.90.223:2082/play/a0at
-#EXTINF:-1,Sky Sports Active 12
-http://5.255.90.223:2082/play/a0i6
-#EXTINF:-1,TLC
-http://5.255.90.223:2082/play/a0e0
-#EXTINF:-1,BT Sport 2
-http://5.255.90.223:2082/play/a0ga
-#EXTINF:-1,Sky Sports Active 3
-http://5.255.90.223:2082/play/a0i0
-#EXTINF:-1,Sky Sports Active 16
-http://5.255.90.223:2082/play/a0i8
-#EXTINF:-1,TCM
-http://5.255.90.223:2082/play/a0dl
-#EXTINF:-1,Sky Sp NewsHQ ireland
-http://5.255.90.223:2082/play/a0db
-#EXTINF:-1,Animal Planet
-http://5.255.90.223:2082/play/a0dq
-#EXTINF:-1,Sky Superhero
-http://5.255.90.223:2082/play/a0g2
-#EXTINF:-1,Discovery
-http://5.255.90.223:2082/play/a0dp
-#EXTINF:-1,BT Sport//ESPN
-http://5.255.90.223:2082/play/a0g4
-#EXTINF:-1,Disc.Turbo
-http://5.255.90.223:2082/play/a0dw
-#EXTINF:-1,Sky Greats
-http://5.255.90.223:2082/play/a0cq
-#EXTINF:-1,BT Sport Mosaic 2
-http://5.255.90.223:2082/play/a0gf
-#EXTINF:-1,Sky Action
-http://5.255.90.223:2082/play/a0cv
-#EXTINF:-1,Eurosport 1
-http://5.255.90.223:2082/play/a0di
-#EXTINF:-1,BT Sport Extra 2
-http://5.255.90.223:2082/play/a0gg
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.223:2082/play/a0bb
-#EXTINF:-1,Home & Health
-http://5.255.90.223:2082/play/a0dv
-#EXTINF:-1,RT. News Now
-http://5.255.90.223:2082/play/a0aq
-#EXTINF:-1,RT.jr
-http://5.255.90.223:2082/play/a0ag
-#EXTINF:-1,Sky Sports Active 8
-http://5.255.90.223:2082/play/a0i5
-#EXTINF:-1,Sky Sports Active 10
-http://5.255.90.223:2082/play/a0i3
-#EXTINF:-1,Sky Family
-http://5.255.90.223:2082/play/a0cz
-#EXTINF:-1,ID
-http://5.255.90.223:2082/play/a0dz
-#EXTINF:-1,Showcase 3
-http://5.255.90.223:2082/play/a0g6
-#EXTINF:-1,RT.2
-http://5.255.90.223:2082/play/a0ae
-#EXTINF:-1,BT Sport Extra 6
-http://5.255.90.223:2082/play/a0gk
-#EXTINF:-1,Sky Sports 1 ireland
-http://5.255.90.223:2082/play/a0d9
-#EXTINF:-1,Sky Sports Active 14
-http://5.255.90.223:2082/play/a0ie
-#EXTINF:-1,Oireachtas TV
-http://5.255.90.223:2082/play/a0ah
-#EXTINF:-1,Sky Sports Active 17
-http://5.255.90.223:2082/play/a0ib
-#EXTINF:-1,Sky ScFi/Horror
-http://5.255.90.223:2082/play/a0cy
-#EXTINF:-1,Nick Jr Too
-http://5.255.90.223:2082/play/a0b7
-#EXTINF:-1,Sky Sports Active 8
-http://5.255.90.223:2082/play/a0hy
-#EXTINF:-1,Sky Sports Active 9
-http://5.255.90.223:2082/play/a0ia
-#EXTINF:-1,RT. 2FM
-http://5.255.90.223:2082/play/a0aj
-#EXTINF:-1,Sky Sports Active 1
-http://5.255.90.223:2082/play/a0ig
-#EXTINF:-1,BT Sport Extra 4
-http://5.255.90.223:2082/play/a0gi
-#EXTINF:-1,Sky Sports Active 13
-http://5.255.90.223:2082/play/a0hz
-#EXTINF:-1,Sky Premiere
-http://5.255.90.223:2082/play/a0cm
-#EXTINF:-1,Sky Sports Active 6
-http://5.255.90.223:2082/play/a0i4
-#EXTINF:-1,Sky Sports Active 18
-http://5.255.90.223:2082/play/a0i1
-#EXTINF:-1,RT. One +1
-http://5.255.90.223:2082/play/a0ar
-#EXTINF:-1,FOX+
-http://5.255.90.223:2082/play/a0d4
-#EXTINF:-1,Sky Sports Active 11
-http://5.255.90.223:2082/play/a0ic
-#EXTINF:-1,Sky Atlantic
-http://5.255.90.223:2082/play/a0dg
-#EXTINF:-1,Sky Sports 4 ireland
-http://5.255.90.223:2082/play/a0d7
-#EXTINF:-1,Sky Prem+1
-http://5.255.90.223:2082/play/a0cn
-#EXTINF:-1,Sky Sports Active 2
-http://5.255.90.223:2082/play/a0if
-#EXTINF:-1,TLC
-http://5.255.90.223:2082/play/a0ds
-#EXTINF:-1,QUEST
-http://5.255.90.223:2082/play/a0dy
-#EXTINF:-1,ComedyXtra
-http://5.255.90.223:2082/play/a0d6
-#EXTINF:-1,Sky Comedy
-http://5.255.90.223:2082/play/a0cw
-#EXTINF:-1,Nickelodeon+1
-http://5.255.90.223:2082/play/a0am
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.223:2082/play/a0b1
-#EXTINF:-1,SP News
-http://5.255.90.223:2082/play/a0df
-#EXTINF:-1,Disc.Science
-http://5.255.90.223:2082/play/a0dt
-#EXTINF:-1,Sky Atlantic
-http://5.255.90.223:2082/play/a0dh
-#EXTINF:-1,Sky Sports Active 4
-http://5.255.90.223:2082/play/a0i2
-#EXTINF:-1,Sky Select
-http://5.255.90.223:2082/play/a0d0
-#EXTINF:-1,BT Sport Extra 5
-http://5.255.90.223:2082/play/a0gj
-#EXTINF:-1,Nick Jr Peppa
-http://5.255.90.223:2082/play/a0ba
-#EXTINF:-1,Nickelodeon
-http://5.255.90.223:2082/play/a0an
-#EXTINF:-1,Sky Christmas
-http://5.255.90.223:2082/play/a0cp
-#EXTINF:-1,Sky Thriller
-http://5.255.90.223:2082/play/a0co
-#EXTINF:-1,Sky Sports Active 5
-http://5.255.90.223:2082/play/a0id
-#EXTINF:-1,Nicktoons
-http://5.255.90.223:2082/play/a0b0
 
 #EXTINF:-1,BBC One Lon
 http://80.25.87.6:9981/stream/channelid/1936535934
@@ -1078,8 +898,262 @@ rtmp://traditii1.arya.ro/live/traditiitv1
 #EXTINF:-1,Rapsodia
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 
+#EXTINF:-1,N/A
+http://89.38.8.130:39410
+#EXTINF:-1,N/A
+http://89.38.8.130:39411
+#EXTINF:-1,N/A
+http://89.38.8.130:39412
+#EXTINF:-1,N/A
+http://89.38.8.130:39413
+#EXTINF:-1,N/A
+http://89.38.8.130:39414
+#EXTINF:-1,N/A
+http://89.38.8.130:39415
+#EXTINF:-1,N/A
+http://89.38.8.130:39416
+#EXTINF:-1,N/A
+http://89.38.8.130:39417
+#EXTINF:-1,N/A
+http://89.38.8.130:39419
+#EXTINF:-1,N/A
+http://89.38.8.130:39418
+#EXTINF:-1,N/A
+http://89.38.8.130:39420
+#EXTINF:-1,N/A
+http://89.38.8.130:39421
+#EXTINF:-1,N/A
+http://89.38.8.130:39422
+#EXTINF:-1,N/A
+http://89.38.8.130:39423
+#EXTINF:-1,N/A
+http://89.38.8.130:39424
+#EXTINF:-1,N/A
+http://89.38.8.130:39425
+#EXTINF:-1,N/A
+http://89.38.8.130:39426
+#EXTINF:-1,N/A
+http://89.38.8.130:39429
+#EXTINF:-1,N/A
+http://89.38.8.130:39431
+#EXTINF:-1,N/A
+http://89.38.8.130:39430
+#EXTINF:-1,N/A
+http://89.38.8.130:39432
+#EXTINF:-1,N/A
+http://89.38.8.130:39433
+#EXTINF:-1,N/A
+http://89.38.8.130:39436
+#EXTINF:-1,N/A
+http://89.38.8.130:39437
+#EXTINF:-1,N/A
+http://89.38.8.130:39438
+#EXTINF:-1,N/A
+http://89.38.8.130:39439
+#EXTINF:-1,N/A
+http://89.38.8.130:39440
+#EXTINF:-1,N/A
+http://89.38.8.130:39441
+#EXTINF:-1,N/A
+http://89.38.8.130:39442
+#EXTINF:-1,N/A
+http://89.38.8.130:39443
+#EXTINF:-1,N/A
+http://89.38.8.130:39444
+#EXTINF:-1,N/A
+http://89.38.8.130:39445
+#EXTINF:-1,N/A
+http://89.38.8.130:39446
+#EXTINF:-1,N/A
+http://89.38.8.130:39447
+#EXTINF:-1,N/A
+http://89.38.8.130:39450
+#EXTINF:-1,N/A
+http://89.38.8.130:39451
+#EXTINF:-1,N/A
+http://89.38.8.130:39452
+#EXTINF:-1,N/A
+http://89.38.8.130:39454
+#EXTINF:-1,N/A
+http://89.38.8.130:39455
+#EXTINF:-1,N/A
+http://89.38.8.130:39456
+#EXTINF:-1,N/A
+http://89.38.8.130:39458
+#EXTINF:-1,N/A
+http://89.38.8.130:39460
+#EXTINF:-1,N/A
+http://89.38.8.130:39463
+#EXTINF:-1,N/A
+http://89.38.8.130:39462
+#EXTINF:-1,N/A
+http://89.38.8.130:39465
+#EXTINF:-1,N/A
+http://89.38.8.130:39464
+#EXTINF:-1,N/A
+http://89.38.8.130:39468
+#EXTINF:-1,N/A
+http://89.38.8.130:39469
+#EXTINF:-1,N/A
+http://89.38.8.130:39470
+#EXTINF:-1,N/A
+http://89.38.8.130:39472
+#EXTINF:-1,N/A
+http://89.38.8.130:39471
+#EXTINF:-1,N/A
+http://89.38.8.130:39473
+#EXTINF:-1,N/A
+http://89.38.8.130:39474
+#EXTINF:-1,N/A
+http://89.38.8.130:39475
+#EXTINF:-1,N/A
+http://89.38.8.130:39476
+#EXTINF:-1,N/A
+http://89.38.8.130:39478
+#EXTINF:-1,N/A
+http://89.38.8.130:39477
+#EXTINF:-1,N/A
+http://89.38.8.130:39479
+#EXTINF:-1,N/A
+http://89.38.8.130:39481
+#EXTINF:-1,N/A HD
+http://89.38.8.130:39482
+#EXTINF:-1,N/A
+http://89.38.8.130:39483
+#EXTINF:-1,N/A
+http://89.38.8.130:39484
+#EXTINF:-1,N/A HD
+http://89.38.8.130:39485
 
-
+#EXTM3U
+#EXTINF:-1,Canal 3
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:-1,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,SET
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:-1,TV 5
+http://109.185.159.215:4011/udp/239.100.0.11:5656
+#EXTINF:-1,TVC 21
+http://109.185.159.215:4011/udp/239.100.0.9:5656
+#EXTINF:-1,ÐŸÐµÑ€Ð²Ñ‹Ð¹
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,CTC Dixi
+http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:-1,TV Radauti
+http://46.214.146.86:8080
+#EXTINF:-1,RO:Tele M
+http://webmobile.xdev.ro:81/tv5/playlist.m3u8?time=1466676040924
+#EXTINF:-1,mediatv Ro
+http://mediatv.novanet.ro/mediatv/mediatv.m3u8
+#EXTINF:-1,Casa Mia TV
+rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia
+#EXTINF:-1,Accenttv Romania
+http://188.173.22.231:8080/video/emisie.m3u8
+#EXTINF:-1,Banat Rum
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1,Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:-1,ATV
+http://46.214.146.46:81/tv4/playlist.m3u8
+#EXTINF:-1,Ploiesti Tv
+http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
+#EXTINF:-1,digi24 brasov
+http://81.196.0.126:80/digi24edge/digi24brasovlive/mono.m3u8
+#EXTINF:-1,TV Cromtel HD
+http://188.210.224.6:81/tv7/playlist.m3u8
+#EXTINF:-1,TV Hit
+http://188.210.224.6:81/tv9/playlist.m3u8
+#EXTINF:-1,Botosani Tele Reluare
+http://188.210.224.6:81/tv11/playlist.m3u8
+#EXTINF:-1,SOMAX
+http://188.210.224.6:81/tv12/playlist.m3u8
+#EXTINF:-1,NExT TV
+http://188.210.224.6:81/tv13/playlist.m3u8
+#EXTINF:-1,TELE reluare
+http://188.210.224.6:81/tv16/playlist.m3u8
+#EXTINF:-1,NTV Neptun
+http://188.210.224.6:81/tv30/playlist.m3u8
+#EXTINF:-1,Gagiu tv
+rtmp://gtv1.arya.ro/live/gtv1
+#EXTINF:-1,Columna tv
+rtmp://v1.arya.ro/live/columnatv1
+#EXTINF:-1,Traditii tv
+rtmp://v1.arya.ro/live/traditiitv1
+#EXTINF:-1,Apollonia Tv
+http://193.239.212.6:50000/apollonia
+#EXTINF:-1,Antena 1 Arad.
+http://86.106.82.47:8134/hls-live/a1ar_lp_live/_definst_/a1arevent/a1arstream.m3u8
+#EXTINF:-1,TV SUDEST Romania
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,Alfaomega Romania
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1,IPTV.ZONE
+http://89.45.164.235:8034
+#EXTINF:-1,IPTV.ZONE
+http://89.45.164.235:8040
+#EXTINF:-1,Actualitatea tv
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:-1,TeleMoldova+
+http://webmobile.xdev.ro:81/tv5/playlist.m3u8
+#EXTINF:-1,Cromtel tv
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:-1,KIT Tv
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1,NEst tv
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,Alfaomega TV2
+rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+#EXTINF:-1,http://iptv.zone
+http://95.77.16.72:81/tv15/playlist.m3u8
+#EXTINF:-1,Atomic TV
+rtmp://5.154.185.153/live/live
+#EXTINF:-1,Banat Rum
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1,TV Cromtel HD
+http://188.210.224.6:81/tv7/playlist.m3u8
+#EXTINF:-1,Columna tv
+rtmp://v1.arya.ro/live/columnatv1
+#EXTINF:-1,Cromtel tv
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:-1,Accenttv Romania
+http://188.173.22.231:8080/video/emisie.m3u8
+#EXTINF:-1,Ploiesti Tv
+http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
+#EXTINF:-1,Prahova Tv
+http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
+#EXTINF:-1,Antena 1 Arad.
+http://86.106.82.47:8134/hls-live/a1ar_lp_live/_definst_/a1arevent/a1arstream.m3u8
+#EXTINF:-1,TV SUDEST Romania
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,http://iptv.zone
+http://95.77.16.72:81/tv15/playlist.m3u8
+#EXTINF:-1,M2
+rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
+#EXTINF:-1,M1
+rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,ProTV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,ÐÐºÐ°Ð´ÐµÐ¼Ð¸Ñ (ÐžÐ´ÐµÑÑÐ°)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
 
 
 
@@ -1476,21 +1550,6 @@ http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
 
 
-#EXTINF:0,Canal3 HD 
-http://95.65.10.166:8080/play/id4 
-#EXTINF:0,Canal2 HD 
-http://95.65.10.166:8080/play/id3 
-#EXTINF:0,Moldova 1 
-http://95.65.10.166:8080/play/id6 
-#EXTINF:0,JurnalTV HD 
-http://95.65.10.166:8080/play/id1 
-#EXTINF:0,Publika HD 
-http://95.65.10.166:8080/play/id5 
-#EXTINF:0,Axial TV 
-http://95.65.10.166:8080/play/id51 
-#EXTINF:0,Prime HD 
-http://95.65.10.166:8080/play/id2
-
 
 
 
@@ -1858,8 +1917,6 @@ http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1, [B][COLOR darkturquoise]Orbe-21[/COLOR][/B]
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
-
-
 #EXTINF:1,TDTV
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:1,DEPORTE TV
@@ -1899,134 +1956,6 @@ http://170.55.15.122:8000/play/a01v
 
 
 
-
-
-#EXTINF:8 group-title=”Latino-MIX”,
-
-#EXTINF:-1, Much Music PNR
-http://23.91.244.162:10001/bysid/4
-#EXTINF:-1, SPACE PNR ENG
-http://23.91.244.162:10001/bysid/97
-#EXTINF:-1, GLITZ SUR NTSC
-http://23.91.244.162:10001/bysid/91
-#EXTINF:-1, TRU TV D9225
-http://23.91.244.162:10001/bysid/8
-#EXTINF:-1, I-Sat
-http://23.91.244.162:10001/bysid/9
-#EXTINF:-1, Space
-http://23.91.244.162:10001/bysid/10
-#EXTINF:-1, HTV eol
-http://23.91.244.162:10001/bysid/14
-#EXTINF:-1, GLITZ PNR
-http://23.91.244.162:10001/bysid/93
-#EXTINF:-1, GLITZ SUR PAL
-http://23.91.244.162:10001/bysid/87
-#EXTINF:-1, SPACE MEXICO
-http://23.91.244.162:10001/bysid/99
-#EXTINF:-1, TCM ARG
-http://23.91.244.162:10001/bysid/192
-#EXTINF:-1, Tooncast MPEG
-http://23.91.244.162:10001/bysid/254
-#EXTINF:-1, ISAT PNR
-http://23.91.244.162:10001/bysid/85
-#EXTINF:-1, TCM LA
-http://23.91.244.162:10001/bysid/190
-#EXTINF:-1, BOOM PNR eol
-http://23.91.244.162:10001/bysid/31
-#EXTINF:-1, BOOM MEX eol
-http://23.91.244.162:10001/bysid/42
-#EXTINF:-1, Telemundo
-http://23.91.244.162:10002/bysid/1
-#EXTINF:-1, TV5MONDE BRESIL
-http://23.91.244.162:10002/bysid/6
-#EXTINF:-1, TV5 Monde
-http://23.91.244.162:10002/bysid/7
-#EXTINF:-1, RT Esp
-http://23.91.244.162:10002/bysid/10
-#EXTINF:-1, Duna World
-http://23.91.244.162:10002/bysid/19
-#EXTINF:-1, MPT
-http://23.91.244.162:10002/bysid/25
-#EXTINF:-1, Eurochannel Spanish VC36
-http://23.91.244.162:10002/bysid/36
-#EXTINF:-1, ART
-http://23.91.244.162:10002/bysid/170
-#EXTINF:-1, HispanTV Service 1
-http://23.91.244.162:10002/bysid/180
-#EXTINF:-1, TLC Latin (SPA)
-http://23.91.244.162:10004/bysid/115
-#EXTINF:-1, Civilization SPA
-http://23.91.244.162:10004/bysid/185
-#EXTINF:-1, Science SPA
-http://23.91.244.162:10004/bysid/195
-#EXTINF:-1, Turbo SPA
-http://23.91.244.162:10004/bysid/205
-#EXTINF:-1, Discovery Brazil HD PRH
-http://23.91.244.162:10004/bysid/211
-#EXTINF:-1, Turbo Brazil HD
-http://23.91.244.162:10004/bysid/221
-#EXTINF:-1, Kids Brazil HD
-http://23.91.244.162:10004/bysid/231
-#EXTINF:-1, Home & Health Brazil HD PRH
-http://23.91.244.162:10004/bysid/241
-#EXTINF:-1, TLC BR HD
-http://23.91.244.162:10004/bysid/251
-#EXTINF:-1, ID Brazil HD
-http://23.91.244.162:10004/bysid/261
-#EXTINF:-1, Animal Planet Brazil HD
-http://23.91.244.162:10004/bysid/271
-#EXTINF:-1, VH-1 LATINO [PANREGIONAL. M
-http://23.91.244.162:10005/bysid/95
-#EXTINF:-1, MTV NORTH (MEXICO)
-http://23.91.244.162:10005/bysid/100
-#EXTINF:-1, MTV CENTRAL
-http://23.91.244.162:10005/bysid/105
-#EXTINF:-1, MTV SOUTH - COPY OF 135
-http://23.91.244.162:10005/bysid/110
-#EXTINF:-1, MTV SOUTH [ARGENTINA, URUGA
-http://23.91.244.162:10005/bysid/120
-#EXTINF:-1, NICK NORTH [MEXICO]
-http://23.91.244.162:10005/bysid/150
-#EXTINF:-1, NICK C - COPY OF 155 [ANDE
-http://23.91.244.162:10005/bysid/165
-#EXTINF:-1, NICK SOUTH [ARGENTINA, URUG
-http://23.91.244.162:10005/bysid/170
-#EXTINF:-1, NICK [BRAZIL]
-http://23.91.244.162:10005/bysid/180
-#EXTINF:-1, PMCLA-SD-AC3
-http://23.91.244.162:10005/bysid/200
-#EXTINF:-1, MTV DANCE
-http://23.91.244.162:10005/bysid/210
-#EXTINF:-1, CCLN-SD
-http://23.91.244.162:10005/bysid/220
-#EXTINF:-1, MTV H
-http://23.91.244.162:10005/bysid/230
-#EXTINF:-1, VH1 LAT SOUTH [PAL]
-http://23.91.244.162:10005/bysid/240
-#EXTINF:-1, NICK JR LAT
-http://23.91.244.162:10005/bysid/251
-#EXTINF:-1, VH1CLPE
-http://23.91.244.162:10005/bysid/252
-#EXTINF:-1, VH1 MEGAHITS
-http://23.91.244.162:10005/bysid/253
-#EXTINF:-1, NKTOONS GLOBAL
-http://23.91.244.162:10005/bysid/255
-#EXTINF:-1, BBC Latin America SD
-http://23.91.244.162:10006/bysid/1
-#EXTINF:-1, France 24 English
-http://23.91.244.162:10006/bysid/40
-#EXTINF:-1, EWTN Spanish International
-http://23.91.244.162:10006/bysid/4
-#EXTINF:-1, DW Latinoamerica
-http://23.91.244.162:10006/bysid/5
-#EXTINF:-1, RT Esp USA HD
-http://23.91.244.162:10006/bysid/16
-#EXTINF:-1, CCTV
-http://23.91.244.162:10006/bysid/8
-#EXTINF:-1, DW Amerika
-http://23.91.244.162:10006/bysid/15
-#EXTINF:-1, Euronews AC3
-http://23.91.244.162:10006/bysid/34
 
 
 
@@ -2102,6 +2031,7 @@ http://wse5.player.tv.br:1935/9157/9157/playlist.m3u8
 http://187.49.86.238:10000/bysid/120
 
 #EXTINF:0,HBO
+#EXTVLCOPT:network-caching=2000
 http://187.49.86.238:10000/bysid/69
 #EXTINF:0,Discovery Channel
 http://187.49.86.238:10000/bysid/120
@@ -3997,6 +3927,171 @@ http://37.142.91.201:9981/stream/channelid/1661470442?ticket=0E6E1AEBB5A81641701
 http://37.142.91.201:9981/stream/channelid/1068320573?ticket=AE6D47F8BF48917214184926227E3E49531C846A&profile=pass
 #EXTINF:0,2ערוץ
 http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
+
+
+
+
+
+
+
+
+
+#EXTINF:11 group-title=”Thailand”,
+
+#EXTINF:8100,RAMA
+http://14.207.96.178:9000/play/a03a
+#EXTINF:0,TSP7
+http://14.207.96.178:9000/play/a04c
+#EXTINF:0,TTCH
+http://14.207.96.178:9000/play/a02k
+#EXTINF:0,PLOOK
+http://14.207.96.178:9000/play/a035
+#EXTINF:0,ONE
+http://14.207.96.178:9000/play/a02z
+#EXTINF:0,KNOW:CCTV
+http://14.207.96.178:9000/play/a043
+#EXTINF:0,CELEST
+http://14.207.96.178:9000/play/a04a
+#EXTINF:0,EXPLIFE
+http://14.207.96.178:9000/play/a045
+#EXTINF:0,MCOT HD
+http://14.207.96.178:9000/play/a02y
+#EXTINF:0,FOX
+http://14.207.96.178:9000/play/a02o
+#EXTINF:0,NOW
+http://14.207.96.178:9000/play/a02u
+#EXTINF:0,NEW TV
+http://14.207.96.178:9000/play/a03p
+#EXTINF:0,TPBS
+http://14.207.96.178:9000/play/a03i
+#EXTINF:0,PPTV
+http://14.207.96.178:9000/play/a034
+#EXTINF:0,KNOW:CHIC
+http://14.207.96.178:9000/play/a02a
+#EXTINF:0,GMM25
+http://14.207.96.178:9000/play/a02t
+#EXTINF:0,TSP6
+http://14.207.96.178:9000/play/a02r
+#EXTINF:0,KNOW:SRES
+http://14.207.96.178:9000/play/a02g
+#EXTINF:0,TRUE4U
+http://14.207.96.178:9000/play/a038
+#EXTINF:0,TGN
+http://14.207.96.178:9000/play/a01k
+#EXTINF:0,ETV
+http://14.207.96.178:9000/play/a01l
+#EXTINF:0,TNN2
+http://14.207.96.178:9000/play/a042
+#EXTINF:0,TGN2
+http://14.207.96.178:9000/play/a01j
+#EXTINF:0,GOLDA:TLC
+http://14.207.96.178:9000/play/a044
+#EXTINF:0,TRUE4U
+http://14.207.96.178:9000/play/a03v
+#EXTINF:0,AMARIN
+http://14.207.96.178:9000/play/a032
+#EXTINF:0,TH RATH
+http://14.207.96.178:9000/play/a030
+#EXTINF:0,REAL
+http://14.207.96.178:9000/play/a02j
+#EXTINF:0,EXPSCI
+http://14.207.96.178:9000/play/a046
+#EXTINF:0,KBS
+http://14.207.96.178:9000/play/a02h
+#EXTINF:0,ASER
+http://14.207.96.178:9000/play/a02f
+#EXTINF:0,MRCL
+http://14.207.96.178:9000/play/a02b
+#EXTINF:0,3 SD
+http://14.207.96.178:9000/play/a02w
+#EXTINF:0,FL A
+http://14.207.96.178:9000/play/a02d
+#EXTINF:0,3 HD
+http://14.207.96.178:9000/play/a031
+#EXTINF:0,C Club
+http://14.207.96.178:9000/play/a049
+#EXTINF:0,INSE
+http://14.207.96.178:9000/play/a036
+#EXTINF:0,SPK PLAY
+http://14.207.96.178:9000/play/a048
+#EXTINF:0,S BT
+http://14.207.96.178:9000/play/a028
+#EXTINF:0,TNN24
+http://14.207.96.178:9000/play/a03b
+#EXTINF:0,VERY
+http://14.207.96.178:9000/play/a02m
+#EXTINF:0,KNOW:TSP2
+http://14.207.96.178:9000/play/a03d
+#EXTINF:0,SPCH
+http://14.207.96.178:9000/play/a041
+#EXTINF:0,ASIAN F
+http://14.207.96.178:9000/play/a02p
+#EXTINF:0,SSF
+http://14.207.96.178:9000/play/a03z
+#EXTINF:0,SSN
+http://14.207.96.178:9000/play/a03y
+#EXTINF:0,KNOW:XZYT
+http://14.207.96.178:9000/play/a02l
+#EXTINF:0,NATION
+http://14.207.96.178:9000/play/a03t
+#EXTINF:0,VOICE
+http://14.207.96.178:9000/play/a03s
+#EXTINF:0,EXPWILD
+http://14.207.96.178:9000/play/a037
+#EXTINF:0,BBTV CH7
+http://14.207.96.178:9000/play/a033
+#EXTINF:0,BRIGHT
+http://14.207.96.178:9000/play/a03r
+#EXTINF:0,CH8
+http://14.207.96.178:9000/play/a02v
+#EXTINF:0,TPTV
+http://14.207.96.178:9000/play/a03j
+#EXTINF:0,MONO
+http://14.207.96.178:9000/play/a02x
+#EXTINF:0,TNN24
+http://14.207.96.178:9000/play/a03n
+#EXTINF:0,Disn
+http://14.207.96.178:9000/play/a047
+#EXTINF:0,MCOT F
+http://14.207.96.178:9000/play/a03l
+#EXTINF:0,3FAM
+http://14.207.96.178:9000/play/a03k
+#EXTINF:0,SP NEWS
+http://14.207.96.178:9000/play/a03q
+#EXTINF:0,MOVH
+http://14.207.96.178:9000/play/a03e
+#EXTINF:0,NBT
+http://14.207.96.178:9000/play/a03h
+#EXTINF:0,TFLM
+http://14.207.96.178:9000/play/a02c
+#EXTINF:0,T SPORT
+http://14.207.96.178:9000/play/a040
+#EXTINF:0,THV
+http://14.207.96.178:9000/play/a03o
+#EXTINF:0,SME
+http://14.207.96.178:9000/play/a029
+#EXTINF:0,TRAV
+http://14.207.96.178:9000/play/a02n
+#EXTINF:0,RED
+http://14.207.96.178:9000/play/a02e
+#EXTINF:0,LOCA
+http://14.207.96.178:9000/play/a03m
+#EXTINF:0,SPK JUMP
+http://14.207.96.178:9000/play/a039
+#EXTINF:0,MONEY
+http://14.207.96.178:9000/play/a027
+#EXTINF:0,WP TV
+http://14.207.96.178:9000/play/a03u
+#EXTINF:0,TV5HD1
+http://14.207.96.178:9000/play/a03g
+#EXTINF:0,TSP5
+http://14.207.96.178:9000/play/a02q
+
+
+
+
+
+
 
 
 
