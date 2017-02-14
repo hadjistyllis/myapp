@@ -1633,7 +1633,46 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chun
 #EXTINF:0,WDR
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
-
+#EXTINF:-1,Das Erste
+http://178.5.211.102:9981/stream/channelid/1929004558
+#EXTINF:-1,ZDF
+http://178.5.211.102:9981/stream/channelid/1788756737
+#EXTINF:-1,SAT.1
+http://178.5.211.102:9981/stream/channelid/1344903802
+#EXTINF:-1,ProSieben
+http://178.5.211.102:9981/stream/channelid/376173137
+#EXTINF:-1,RTL Television
+http://178.5.211.102:9981/stream/channelid/1369289793
+#EXTINF:-1,RTL2
+http://178.5.211.102:9981/stream/channelid/135154709
+#EXTINF:-1,VOX
+http://178.5.211.102:9981/stream/channelid/56992432
+#EXTINF:-1,kabel eins
+http://178.5.211.102:9981/stream/channelid/1363880252
+#EXTINF:-1,Super RTL
+http://178.5.211.102:9981/stream/channelid/1498563426
+#EXTINF:-1,RTLNITRO
+http://178.5.211.102:9981/stream/channelid/463323343
+#EXTINF:-1,Pro7 MAXX
+http://178.5.211.102:9981/stream/channelid/1766874400
+#EXTINF:-1,SIXX
+http://178.5.211.102:9981/stream/channelid/1436687696
+#EXTINF:-1,TELE 5
+http://178.5.211.102:9981/stream/channelid/725921960
+#EXTINF:-1,neo/KiKA
+http://178.5.211.102:9981/stream/channelid/254833541
+#EXTINF:-1,Disney Channel
+http://178.5.211.102:9981/stream/channelid/394966268
+#EXTINF:-1,arte
+http://178.5.211.102:9981/stream/channelid/771246571
+#EXTINF:-1,rbb Berlin
+http://178.5.211.102:9981/stream/channelid/1040257511
+#EXTINF:-1,N24
+http://178.5.211.102:9981/stream/channelid/826326703
+#EXTINF:-1,n-tv
+http://178.5.211.102:9981/stream/channelid/658492990
+#EXTINF:-1,Eurosport
+http://178.5.211.102:9981/stream/channelid/1846203552
 
 
 
