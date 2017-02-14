@@ -1810,7 +1810,7 @@ http://premium.exabytetv.info/HLSST/3804/3804-FZHJW-1011000101110110010011110010
 http://premium.exabytetv.info/gc/FZHJW-1011000101110110010011110010111-ExabyteTV/545/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/98.png" ,Univision HD                    
 http://premium.exabytetv.info/HLSST/13216/13216-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="INFANTILES",Anime TV                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" ,Anime TV                    
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV Baby TV" tvg-name="Baby TV" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/139.png" ,Baby TV                    
 http://premium.exabytetv.info/HLSST/317/317-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
@@ -1864,7 +1864,7 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 http://premium.exabytetv.info/totalpleix/325/3/FZHJW-1011000101110110010011110010111-ExabyteTV/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" ,Tooncast (Op1)(solo se ve en MX)                    
 http://premium.exabytetv.info/totalpleix/328/3/FZHJW-1011000101110110010011110010111-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÃCULAS Y SERIES",AMC (Op1)(solo se ve en MX)                    
+#EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif",AMC (Op1)(solo se ve en MX)                    
 http://premium.exabytetv.info/totalpleix/444/3/FZHJW-1011000101110110010011110010111-ExabyteTV/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" ,AMC (Op2)                    
 http://premium.exabytetv.info/HLSST/485/485-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
@@ -1966,7 +1966,7 @@ http://premium.exabytetv.info/totalpleix/207/3/FZHJW-101100010111011001001111001
 http://premium.exabytetv.info/HLSST/2499/2499-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" ,Warner HD (Op1)(solo se ve en MX)                    
 http://premium.exabytetv.info/totalpleix/205/3/FZHJW-1011000101110110010011110010111-ExabyteTV/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/exakids.png" group-title="PREMIUM",Exabyte Kids                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/exakids.png" ,Exabyte Kids                    
 http://ultra.exabytetv.info:7001/HLSVAUG/mega_kids/exabytetv-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://premium.exabytetv.info/logos/examovies1.png",Exabyte Movies 1 (Drama-Comedia-Romance)                    
 http://ultra.exabytetv.info:7001/HLSVAUG/megamovieshd/exabytetv-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
@@ -2228,7 +2228,7 @@ http://premium.exabytetv.info/HLSST/13266/13266-FZHJW-10110001011101100100111100
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.mrlucha.com/wp-content/uploads/2016/04/WWE-Logo.jpg" ,WWE Network HD                    
 http://premium.exabytetv.info/liveno/FZHJW-1011000101110110010011110010111-ExabyteTV/wwe-hq/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="MÃšSICA - MUSIC",Atomic                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" ,Atomic                    
 rtmp://5.154.185.153/live/live.flv
 
 #EXTINF:-1 tvg-id="Exabyte TV Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" ,Bandamax (Op1)(solo se ve en MX)                    
@@ -2438,7 +2438,7 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" ,WOBI TV (Op1)(solo se ve en MX)                    
 http://premium.exabytetv.info/totalpleix/387/3/FZHJW-1011000101110110010011110010111-ExabyteTV/exabytetv.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="NOTICIAS - NEWS",Al Jazeera UK                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png",Al Jazeera UK                    
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" ,Az Noticias (Op1)(solo se ve en MX)                    
@@ -2516,7 +2516,7 @@ http://premium.exabytetv.info/totalpleix/161/3/FZHJW-101100010111011001001111001
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" ,TRT World                    
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="RELIGIÃ“N",3ABN Kidz                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" ,3ABN Kidz                    
 http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" ,3ABN Latino                    
@@ -2576,7 +2576,7 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" ,TabernÃ¡culo Bautista                    
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://assets.fanart.tv/fanart/tv/80379/clearart/the-big-bang-theory-4f77ea23c63c7.png" group-title="24-7",Big Bang Theory                    
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://assets.fanart.tv/fanart/tv/80379/clearart/the-big-bang-theory-4f77ea23c63c7.png",Big Bang Theory                    
 http://ultra.exabytetv.info:7001/HLSVAUG/mega_bigbang/exabytetv-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://orig03.deviantart.net/a5d0/f/2013/302/4/b/folder_icon___dragon_ball__2_by_eeveekawaiichan-d6s996a.png" ,Dragon Ball                    
 http://ultra.exabytetv.info:7001/HLSVAUG/mega_animes/exabytetv-FZHJW-1011000101110110010011110010111-ExabyteTV.m3u8
