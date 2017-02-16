@@ -237,9 +237,11 @@ https://www.youtube.com/watch?v=y60wDzZt8yg
 https://www.youtube.com/watch?v=Msgo-R3zZuM
 
 
+
+
+
+
 #EXTINF:4 group-title=”MUSIC”, 
-
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV GR
 http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
@@ -332,7 +334,47 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 #EXTINF:-1,Sports Stream HD (Stream Switches Channels)
 http://46.105.161.243:8085/lighd
 
+#EXTINF:-1,Premium Sport HD
+http://37.46.192.238:10000/play/a007/index.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://37.46.192.238:10000/play/a006/index.m3u8
 
+#EXTINF:-1,501. SKY SPORTS NEWS
+http://178.33.239.54:8080/sky_sport_news/index.m3u8
+#EXTINF:-1,502. SKY SPORT 1
+http://178.33.239.54:8080/sky_sport_1/index.m3u8
+#EXTINF:-1,503. SKY SPORT 2
+http://178.33.239.54:8080/sky_sport_2/index.m3u8
+#EXTINF:-1,504. SKY SPORT 3
+http://178.33.239.54:8080/sky_sport_3/index.m3u8
+#EXTINF:-1,505. SKY SPORT 4
+http://178.33.239.54:8080/sky_sport_4/index.m3u8
+#EXTINF:-1,506. SKY SPORT 5
+http://178.33.239.54:8080/sky_sport_5/index.m3u8
+#EXTINF:-1,507. BT SPORTS 1
+http://178.33.239.54:8080/bt_sports_1/index.m3u8
+#EXTINF:-1,508. BT SPORTS 2
+http://178.33.239.54:8080/bt_sports_2/index.m3u8
+#EXTINF:-1,509. BT SPORT 3
+http://178.33.239.54:8080/BT_Sport_EuropeHD/index.m3u8
+#EXTINF:-1,510. CANAL+ SPORT
+http://178.33.239.54:8080/canal_plus_sport/index.m3u8
+#EXTINF:-1,512. beIN SPORT 1
+http://178.33.239.54:8080/beinsport_1_hd/index.m3u8
+#EXTINF:-1,513. beIN SPORT 2
+http://178.33.239.54:8080/beinsport_2_hd/index.m3u8
+#EXTINF:-1,517. SUPER SPORTS 1
+http://178.33.239.54:8080/Supersports1/index.m3u8
+#EXTINF:-1,518. SUPER SPORTS 2
+http://178.33.239.54:8080/Supersports2/index.m3u8
+#EXTINF:-1,521. SUPER SPORTS 3
+http://178.33.239.54:8080/Supersports3/index.m3u8
+#EXTINF:-1,525. SUPER SPORTS 4
+http://178.33.239.54:8080/Supersports4/index.m3u8
+#EXTINF:-1,533. BOX NATION
+http://178.33.239.54:8080/Box_Nation/index.m3u8
+#EXTINF:-1,534. EURO SPORT 2
+http://178.33.239.54:8080/Euro_Sport2/index.m3u8
 
 #EXTINF:0,Sport tv3
 #EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
