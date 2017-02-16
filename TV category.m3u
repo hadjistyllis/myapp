@@ -8,9 +8,10 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 
-#EXTINF:-1 ,Updated 14/2/17
+#EXTINF:-1 ,UPDATED
 http://.....
-
+#EXTINF:-1 ,16/2/17
+http://.....
 
 
 
@@ -25,22 +26,32 @@ http://.....
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
 http://37.192.131.119:81/udp/239.1.5.3:1234
+#EXTINF:-1,Animal Planet 
+http://188.122.249.233:4022/udp/232.0.1.48:1234 
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:0,National Geographic
 http://82.200.127.58:8080/udp/233.12.144.10:5050
+#EXTINF:-1,National Geographic 
+http://37.21.248.183:1234/udp/233.7.70.43:5000 
 #EXTINF:0,Nat Geo WILD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/wild?krasview.ru
 #EXTINF:-1,NAT GEO WILD
 http://82.200.127.58:8080/udp/233.12.144.9:5050
 #EXTINF:-1,Nat Geo Wild 
 http://5.32.183.177:4080/udp/224.0.0.120:1237
+#EXTINF:-1,NAT GEO WILD
+http://109.69.210.13:3000/ngcwild
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:-1,Discovery Channel 
+http://37.21.248.183:1234/udp/233.7.70.75:5000 
 #EXTINF:-1,Discovery Channel
 http://5.32.183.177:4080/udp/224.0.0.110:1241
+#EXTINF:-1,Discovery Channel 
+http://188.122.249.233:4022/udp/232.0.1.64:1235 
 #EXTINF:0,Discovery Channel 
 http://187.49.86.238:10000/bysid/120 
 #EXTINF:0,Discovery HD
@@ -59,6 +70,10 @@ http://37.194.121.4:1234/udp/239.1.4.5:1234
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
+#EXTINF:-1,TLC 
+http://188.122.249.233:4022/udp/232.0.2.52:1234 
+#EXTINF:-1,Food Network 
+http://37.21.248.183:1234/udp/233.7.70.73:5000 
 #EXTINF:-1,TV1000 Action
 http://31.200.228.57:4022/udp/239.239.1.34:1234
 #EXTINF:-1,Viasat TV1000
@@ -112,18 +127,16 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
+#EXTINF:-1,Cartoon Network 
+http://188.122.249.233:4022/udp/232.0.1.49:1234 
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
-#EXTINF:0,Disney XD
-http://185.53.163.73:9981/stream/channelid/1694728179
-#EXTINF:0,Disney Junior
-http://185.53.163.73:9981/stream/channelid/415265989
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:0,Disney Channel
-http://185.53.163.73:9981/stream/channelid/1010595777
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
+#EXTINF:-1,Nickelodeon 
+http://37.21.248.183:1234/udp/233.7.70.52:5000 
 #EXTINF:-1,Nickelodeon (GR)
 http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 #EXTINF:0,Nick Jr
@@ -319,54 +332,7 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 #EXTINF:-1,Sports Stream HD (Stream Switches Channels)
 http://46.105.161.243:8085/lighd
 
-#EXTINF:-1,ARENA SPORT 1
-http://149.202.207.8:8080/cHeekNe3Yyyairoona-1/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://149.202.207.8:8080/cHeekNe3Yyyairoona-2/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://149.202.207.8:8080/cHeekNe3Yyyairoona-3/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://149.202.207.8:8080/cHeekNe3Yyyairoona-4/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://149.202.207.8:8080/cHeekNe3Yyyairoona-5/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 1
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 2
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 3
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 4
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 5
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 6
-http://149.202.207.8:8080/cHeekNe3Yyyf00cs-sp-6nl/Strm/index.m3u8
-#EXTINF:-1,US:FOX SPORT 1
-http://149.202.207.8:8080/cHeekNe3Yyy/f00cssp1/index.m3u8
-#EXTINF:-1,US:FOX SPORT 2
-http://149.202.207.8:8080/cHeekNe3Yyy/f00cssp2/index.m3u8
-#EXTINF:-1,BEIN SPORT FRANCE 1
-http://149.202.207.8:8080/cHeekNe3Yyybhensfn-1/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT FRANCE 2
-http://149.202.207.8:8080/cHeekNe3Yyybhensfn-2/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT FRANCE 3
-http://149.202.207.8:8080/cHeekNe3Yyybhensfn-3/Strm/index.m3u8
 
-#EXTINF:0,Sky Sports 1
-http://185.53.163.73:9981/stream/channelid/559337302
-#EXTINF:0,Sky Sports 3
-http://185.53.163.73:9981/stream/channelid/1010891870
-#EXTINF:0,Sky Sports 4
-http://185.53.163.73:9981/stream/channelid/1804322985
-#EXTINF:0,Sky Sports 5
-http://185.53.163.73:9981/stream/channelid/1515011870
-#EXTINF:0,Sky Sports F1
-http://185.53.163.73:9981/stream/channelid/1175922723
-
-#EXTINF:0,Bt Sports1
-#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://194.67.216.49/swf/265.m3u8?sf=NTcwZDNkMDAyMWQxOQ==&token=B3pz7A8J1UVrvHmTd6r-rQ
 
 #EXTINF:0,Sport tv3
 #EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
@@ -470,6 +436,12 @@ http://212.79.96.134:8014/
 rtmp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 ,Movies TV
 rtsp://live.streams.ovh/MoviesTv/MoviesTv
+#EXTINF:0,HBO 
+http://195.228.11.91:1935/tv/hbo.stream/.m3u8 
+#EXTINF:0,HBO 2
+http://195.228.11.91:1935/tv/hbo2.stream/.m3u8 
+#EXTINF:0,HBO 3
+http://195.228.11.91:1935/tv/hbo3.stream/.m3u8
 #EXTINF:0,HBO 
 http://187.49.86.238:10000/bysid/69 
 #EXTINF:0,Paramount 
