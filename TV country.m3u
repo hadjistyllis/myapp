@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 ,UPDATED
 http://.....
 
-#EXTINF:-1 ,17/2/17
+#EXTINF:-1 ,19/2/17
 http://.....
 
 
@@ -305,10 +305,6 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 http://.....
 #EXTINF:-1 ,XMTV player
 http://.....
-#EXTINF:-1 ,SEARCH it AT 
-http://.....
-#EXTINF:-1 ,GOOGLE
-http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
 #EXTINF:-1 ,every few seconds
@@ -479,8 +475,266 @@ http://.....
 
 
 
+#EXTINF:3 group-title=”USA1”, 
+
+#EXTINF:-1 ,NOTE:Limited
+http://.....
+#EXTINF:-1 ,Connections
+http://.....
 
 
+#EXTINF:-1,NBC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/1.m3u8
+#EXTINF:-1,A&E
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/2.m3u8
+#EXTINF:-1,AMC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/3.m3u8
+#EXTINF:-1,ABC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/4.m3u8
+#EXTINF:-1,E!
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/5.m3u8
+#EXTINF:-1,FOX
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/6.m3u8
+#EXTINF:-1,SYFY
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/7.m3u8
+#EXTINF:-1,SPIKE
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/8.m3u8
+#EXTINF:-1,TBS
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/9.m3u8
+#EXTINF:-1,TNT
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/10.m3u8
+#EXTINF:-1,LMN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/12.m3u8
+#EXTINF:-1,HallMark Channel
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/13.m3u8
+#EXTINF:-1,TruTV
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/14.m3u8
+#EXTINF:-1,OWN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/15.m3u8
+#EXTINF:-1,BBC AMERICA
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/16.m3u8
+#EXTINF:-1,CITY TV
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/17.m3u8
+#EXTINF:-1,CTV
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/18.m3u8
+#EXTINF:-1,Comedy Central
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/19.m3u8
+#EXTINF:-1,Lifetime
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/20.m3u8
+#EXTINF:-1,CBC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/21.m3u8
+#EXTINF:-1,HBO
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/22.m3u8
+#EXTINF:-1,HBO 2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/23.m3u8
+#EXTINF:-1,HBO COMEDY
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/24.m3u8
+#EXTINF:-1,HBO ZONE
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/25.m3u8
+#EXTINF:-1,HBO SIGNATURE\
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/26.m3u8
+#EXTINF:-1,HBO FAMILY
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/27.m3u8
+#EXTINF:-1,SHOWTIME
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/28.m3u8
+#EXTINF:-1,SHOWTIME 2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/29.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/30.m3u8
+#EXTINF:-1,Starz East
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/31.m3u8
+#EXTINF:-1,Starz West
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/32.m3u8
+#EXTINF:-1,Startz Edge
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/33.m3u8
+#EXTINF:-1,Starz Cinema
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/34.m3u8
+#EXTINF:-1,Starz Encore
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/35.m3u8
+#EXTINF:-1,Starz Comedy
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/36.m3u8
+#EXTINF:-1,Starz N Black
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/37.m3u8
+#EXTINF:-1,Starz Encode Western
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/38.m3u8
+#EXTINF:-1,Cinemax East
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/39.m3u8
+#EXTINF:-1,Cinemax 5 StarMax
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/40.m3u8
+#EXTINF:-1,Cinemax ActionMax
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/41.m3u8
+#EXTINF:-1,Cinemax Moremax
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/42.m3u8
+#EXTINF:-1,Space
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/43.m3u8
+#EXTINF:-1,The Movie Channel
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/44.m3u8
+#EXTINF:-1,ESPN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/45.m3u8
+#EXTINF:-1,ESPN 2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/46.m3u8
+#EXTINF:-1,ESPN NU
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/47.m3u8
+#EXTINF:-1,NBC SN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/48.m3u8
+#EXTINF:-1,CBS SN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/49.m3u8
+#EXTINF:-1,Fox Sports 1
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/50.m3u8
+#EXTINF:-1,Fox Sports 2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/51.m3u8
+#EXTINF:-1,NBA TV
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/52.m3u8
+#EXTINF:-1,MLB Network
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/53.m3u8
+#EXTINF:-1,NFL Network
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/54.m3u8
+#EXTINF:-1,NFL Now
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/55.m3u8
+#EXTINF:-1,NHL
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/56.m3u8
+#EXTINF:-1,WWE Network
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/57.m3u8
+#EXTINF:-1,TSN1
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/58.m3u8
+#EXTINF:-1,TSN 2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/59.m3u8
+#EXTINF:-1,TSN 3
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/60.m3u8
+#EXTINF:-1,TSN4
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/61.m3u8
+#EXTINF:-1,TSN5
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/62.m3u8
+#EXTINF:-1,SPORTSNET ONE
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/63.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/64.m3u8
+#EXTINF:-1,SPORTS WORLD
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/65.m3u8
+#EXTINF:-1,SPORTSNET 360
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/66.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/67.m3u8
+#EXTINF:-1,CNN
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/68.m3u8
+#EXTINF:-1,CBC News
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/69.m3u8
+#EXTINF:-1,CNBC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/70.m3u8
+#EXTINF:-1,MSNBC
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/71.m3u8
+#EXTINF:-1,FOX NEWS
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/72.m3u8
+#EXTINF:-1,ABC NEWS
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/73.m3u8
+#EXTINF:-1,Fox Business
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/74.m3u8
+#EXTINF:-1,History
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/75.m3u8
+#EXTINF:-1,H2
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/76.m3u8
+#EXTINF:-1,National Geographic
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/77.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/78.m3u8
+#EXTINF:-1,Animal Planet
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/79.m3u8
+#EXTINF:-1,Investigation Discovery
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/80.m3u8
+#EXTINF:-1,Velocity
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/81.m3u8
+#EXTINF:-1,Love Nature
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/82.m3u8
+#EXTINF:-1,Food Network
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/83.m3u8
+#EXTINF:-1,HGTV
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/84.m3u8
+#EXTINF:-1,DYI Network
+#EXTVLCOPT:network-caching=2000
+http://free-premium-iptv.ddns.net:9090/load/freestreams/85.m3u8
 
 
 
@@ -826,7 +1080,7 @@ rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 
 #EXTINF:-1,TV1
 http://89.38.8.130:39410
-#EXTINF:-1,N/A
+#EXTINF:-1,TVR2
 http://89.38.8.130:39411
 #EXTINF:-1,N/A
 http://89.38.8.130:39412
@@ -1738,7 +1992,192 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chun
 #EXTINF:0,WDR
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
-
+#EXTINF:-1,Discovery Channel 
+http://188.62.41.163:7777/play/a01e 
+#EXTINF:-1,SUPER RTL 
+http://188.62.41.163:7777/play/a058 
+#EXTINF:-1,SAT.1 Gold 
+http://188.62.41.163:7777/play/a00e 
+#EXTINF:-1,N24 
+http://188.62.41.163:7777/play/a00d 
+#EXTINF:-1,RTL2 
+http://188.62.41.163:7777/play/a056 
+#EXTINF:-1,Disney Cinemagic 
+http://188.62.41.163:7777/play/a00v 
+#EXTINF:-1,Svet Plus 
+http://188.62.41.163:7777/play/a05g 
+#EXTINF:-1,Sky Sport 4 
+http://188.62.41.163:7777/play/a02m 
+#EXTINF:-1,RTL Crime 
+http://188.62.41.163:7777/play/a01i 
+#EXTINF:-1,RTL Passion 
+http://188.62.41.163:7777/play/a01j 
+#EXTINF:-1,Junior 
+http://188.62.41.163:7777/play/a02d 
+#EXTINF:-1,Sky Sport Bundesliga 6 
+http://188.62.41.163:7777/play/a02r 
+#EXTINF:-1,Comedy Central/VIVA 
+http://188.62.41.163:7777/play/a00n 
+#EXTINF:-1,Sky Sport 10 
+http://188.62.41.163:7777/play/a017 
+#EXTINF:-1,n-tv 
+http://188.62.41.163:7777/play/a05c 
+#EXTINF:-1,RTL Living 
+http://188.62.41.163:7777/play/a02u 
+#EXTINF:-1,SAT.1 CH 
+http://188.62.41.163:7777/play/a023 
+#EXTINF:-1,Sky Sport Bundesliga 3 
+http://188.62.41.163:7777/play/a02l 
+#EXTINF:-1,PHOENIX 
+http://188.62.41.163:7777/play/a00l 
+#EXTINF:-1,Sky Sport Bundesliga 9 
+http://188.62.41.163:7777/play/a016 
+#EXTINF:-1,TNT Serie 
+http://188.62.41.163:7777/play/a00z 
+#EXTINF:-1,Sky Sport 1 
+http://188.62.41.163:7777/play/a01l 
+#EXTINF:-1,EuroNews 
+http://188.62.41.163:7777/play/a028 
+#EXTINF:-1,Kabel 1 Schweiz 
+http://188.62.41.163:7777/play/a022 
+#EXTINF:-1,3sat 
+http://188.62.41.163:7777/play/a05p 
+#EXTINF:-1,ZDFinfo 
+http://188.62.41.163:7777/play/a05r 
+#EXTINF:-1,RTLNITRO 
+http://188.62.41.163:7777/play/a05a 
+#EXTINF:-1,13th Street 
+http://188.62.41.163:7777/play/a00y 
+#EXTINF:-1,Disney 😆 
+http://188.62.41.163:7777/play/a02f 
+#EXTINF:-1,zdf_neo 
+http://188.62.41.163:7777/play/a05t 
+#EXTINF:-1,Disney Junior 
+http://188.62.41.163:7777/play/a02e 
+#EXTINF:-1,Sky Sport Bundesliga 10 
+http://188.62.41.163:7777/play/a02h 
+#EXTINF:-1,Sky Sport Bundesliga 8 
+http://188.62.41.163:7777/play/a014 
+#EXTINF:-1,Sky Sport Bundesliga 7 
+http://188.62.41.163:7777/play/a012 
+#EXTINF:-1,Sky Sport Bundesliga 5 
+http://188.62.41.163:7777/play/a02p 
+#EXTINF:-1,Sky Sport Bundesliga 4 
+http://188.62.41.163:7777/play/a02n 
+#EXTINF:-1,VOX CH 
+http://188.62.41.163:7777/play/a025 
+#EXTINF:-1,Sky Sport 8 
+http://188.62.41.163:7777/play/a013 
+#EXTINF:-1,Romance TV 
+http://188.62.41.163:7777/play/a01v 
+#EXTINF:-1,KiKA 
+http://188.62.41.163:7777/play/a05q 
+#EXTINF:-1,ProSieben 
+http://188.62.41.163:7777/play/a00b 
+#EXTINF:-1,NatGeo Wild 
+http://188.62.41.163:7777/play/a00t 
+#EXTINF:-1,Sky Cinema Hits 
+http://188.62.41.163:7777/play/a00x 
+#EXTINF:-1,Pro7 MAXX 
+http://188.62.41.163:7777/play/a00f 
+#EXTINF:-1,Sky Atlantic 
+http://188.62.41.163:7777/play/a01k 
+#EXTINF:-1,DKULTUR 
+http://188.62.41.163:7777/play/a05s 
+#EXTINF:-1,AXN SPIN 
+http://188.62.41.163:7777/play/a05j 
+#EXTINF:-1,Sky Sport Bundesliga 1 
+http://188.62.41.163:7777/play/a01m 
+#EXTINF:-1,WDR Köln 
+http://188.62.41.163:7777/play/a05w 
+#EXTINF:-1,Sky Sport Bundesliga 2 
+http://188.62.41.163:7777/play/a02j 
+#EXTINF:-1,Sky Cinema Emotion 
+http://188.62.41.163:7777/play/a01g 
+#EXTINF:-1,arte 
+http://188.62.41.163:7777/play/a00k 
+#EXTINF:-1,VOX 
+http://188.62.41.163:7777/play/a059 
+#EXTINF:-1,KCN 
+http://188.62.41.163:7777/play/a05h 
+#EXTINF:-1,TOGGO plus 
+http://188.62.41.163:7777/play/a057 
+#EXTINF:-1,tagesschau24 
+http://188.62.41.163:7777/play/a00i 
+#EXTINF:-1,ONE 
+http://188.62.41.163:7777/play/a00j 
+#EXTINF:-1,kabel eins Doku 
+http://188.62.41.163:7777/play/a00g 
+#EXTINF:-1,SAT.1 
+http://188.62.41.163:7777/play/a00a 
+#EXTINF:-1,Syfy 
+http://188.62.41.163:7777/play/a00w 
+#EXTINF:-1,Spiegel Geschichte 
+http://188.62.41.163:7777/play/a010 
+#EXTINF:-1,Sky Sport News 
+http://188.62.41.163:7777/play/a01u 
+#EXTINF:-1,Sky Sport 9 
+http://188.62.41.163:7777/play/a015 
+#EXTINF:-1,Nickelodeon 
+http://188.62.41.163:7777/play/a00p 
+#EXTINF:-1,Sky Sport 11 
+http://188.62.41.163:7777/play/a02i 
+#EXTINF:-1,Sky Sport 7 
+http://188.62.41.163:7777/play/a02s 
+#EXTINF:-1,Eurosport 1 Deutschland 
+http://188.62.41.163:7777/play/a027 
+#EXTINF:-1,Sky Sport 6 
+http://188.62.41.163:7777/play/a02q 
+#EXTINF:-1,Sky Cinema 
+http://188.62.41.163:7777/play/a01c 
+#EXTINF:-1,Sky Sport 5 
+http://188.62.41.163:7777/play/a02o 
+#EXTINF:-1,Sky Cinema +24 
+http://188.62.41.163:7777/play/a02g 
+#EXTINF:-1,MGM 
+http://188.62.41.163:7777/play/a01p 
+#EXTINF:-1,Sky Sport 3 
+http://188.62.41.163:7777/play/a02k 
+#EXTINF:-1,A&E 
+http://188.62.41.163:7777/play/a01w 
+#EXTINF:-1,kabel eins 
+http://188.62.41.163:7777/play/a00c 
+#EXTINF:-1,RTL Television 
+http://188.62.41.163:7777/play/a055 
+#EXTINF:-1,Sky Cinema Nostalgie 
+http://188.62.41.163:7777/play/a01q 
+#EXTINF:-1,Das Erste 
+http://188.62.41.163:7777/play/a05v 
+#EXTINF:-1,RTLplus 
+http://188.62.41.163:7777/play/a05b 
+#EXTINF:-1,Sky Krimi 
+http://188.62.41.163:7777/play/a01h 
+#EXTINF:-1,Fox Serie 
+http://188.62.41.163:7777/play/a00u 
+#EXTINF:-1,Sky Sport 2 
+http://188.62.41.163:7777/play/a011 
+#EXTINF:-1,National Geographic 
+http://188.62.41.163:7777/play/a01d 
+#EXTINF:-1,Sky Cinema Family 
+http://188.62.41.163:7777/play/a01n 
+#EXTINF:-1,RTL 2 CH 
+http://188.62.41.163:7777/play/a02w 
+#EXTINF:-1,Sky Cinema Comedy 
+http://188.62.41.163:7777/play/a02a 
+#EXTINF:-1,RTL CH 
+http://188.62.41.163:7777/play/a026 
+#EXTINF:-1,Sky Cinema Action 
+http://188.62.41.163:7777/play/a02b 
+#EXTINF:-1,ZDF 
+http://188.62.41.163:7777/play/a05o 
+#EXTINF:-1,Family TV 
+http://188.62.41.163:7777/play/a01s 
+#EXTINF:-1,Kanali 7 
+http://188.62.41.163:7777/play/SSKANALI7SS 
+#EXTINF:-1,ProSieben Schweiz 
+http://188.62.41.163:7777/play/a021 
+#EXTINF:-1,Sky Cinema +1 
+http://188.62.41.163:7777/play/a02c
 
 
 
@@ -1914,78 +2353,6 @@ http://s1.finoip.com:20000/live/mark/mark/4978.m3u8
 http://s1.finoip.com:20000/live/mark/mark/4979.m3u8
 
 
-
-
-#EXTINF:-1 , EUROSPORT (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/3611.m3u8
-#EXTINF:-1 , EUROSPORT 2 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/3610.m3u8
-#EXTINF:-1 ,Es-Anime (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2566.m3u8
-#EXTINF:-1 ,es-Antenna 3 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2007.m3u8
-#EXTINF:-1 ,AXN HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2597.m3u8
-#EXTINF:-1 ,Es-BEIN SPORTS (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2579.m3u8
-#EXTINF:-1 ,CALLE 13 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2595.m3u8
-#EXTINF:-1 ,Canal.Costa (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2601.m3u8
-#EXTINF:-1 ,Canal Acction (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2606.m3u8
-#EXTINF:-1 ,Canal Toros (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2591.m3u8
-#EXTINF:-1 ,Es-C  DCINE HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2574.m3u8
-#EXTINF:-1 ,Es-C  DEPORTES1 HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2572.m3u8
-#EXTINF:-1 ,Es-C  ESTRENOS HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2571.m3u8
-#EXTINF:-1 ,Es-C  FUTBOL HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2570.m3u8
-#EXTINF:-1 ,Es-C  LIGA HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2567.m3u8
-#EXTINF:-1 ,Es-COSMO (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2573.m3u8
-#EXTINF:-1 ,Es-C  XTRA HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2563.m3u8
-#EXTINF:-1 ,es-Discovery (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2003.m3u8
-#EXTINF:-1 ,Disney.Channel (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2592.m3u8
-#EXTINF:-1 ,DISNEY JUNIOR (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2594.m3u8
-#EXTINF:-1 ,DISNEY XD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2593.m3u8
-#EXTINF:-1 ,Es-EiTB (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2565.m3u8
-#EXTINF:-1 ,Es-EuroNews (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2569.m3u8
-#EXTINF:-1 ,es-Europe News (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2011.m3u8
-#EXTINF:-1 ,FOX HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2590.m3u8
-#EXTINF:-1 ,Es-LA 1 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2558.m3u8
-#EXTINF:-1 ,LA2 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2599.m3u8
-#EXTINF:-1 ,Es-La Sexta (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2576.m3u8
-#EXTINF:-1 ,moviestar.Comedia (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2596.m3u8
-#EXTINF:-1 ,MOVISTAR FORMULA 1 HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2598.m3u8
-#EXTINF:-1 ,Es-Nat.Geo (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2557.m3u8
-#EXTINF:-1 ,REAL MADRID TV (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2589.m3u8
-#EXTINF:-1 ,Es-RT es (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2564.m3u8
-#EXTINF:-1 ,Es-TELECINCO HD (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/2556.m3u8
-#EXTINF:-1 ,TV3 (s-5)
-http://ultime-iptv.net:8000/live/chaaben151/chaaben151/1558.m3u8
 
 
 
@@ -2367,62 +2734,524 @@ http://170.55.15.122:8000/play/a020
 #EXTINF:0,PNR: 4 [ATSC0]
 http://170.55.15.122:8000/play/a01x
 
-#EXTINF:-1,Los40
-http://185.22.78.83:8803/play/a00v
-#EXTINF:-1,VIAJAR
-http://185.22.78.83:8803/play/a00y
+
+#EXTINF:0,001 La 1 HD.
+http://212.231.9.89:9981/stream/channelid/131158789?ticket=204C78443E6C814B45DA364C16F99D225B73DDB0&profile=pass
+#EXTINF:0,002 La 2
+http://212.231.9.89:9981/stream/channelid/1601409556?ticket=770ECF2B3D2EA459F087611E086B8066A259143E&profile=pass
+#EXTINF:0,003 ANTENA 3 HD
+http://212.231.9.89:9981/stream/channelid/435658255?ticket=812F565B575E9ADD0EE830E292F2C2D04F76E4F3&profile=pass
+#EXTINF:0,004 Cuatro HD
+http://212.231.9.89:9981/stream/channelid/1213270695?ticket=DED532331D9DC10201BC27DF178290B177A29420&profile=pass
+#EXTINF:0,005 Telecinco HD
+http://212.231.9.89:9981/stream/channelid/1098584080?ticket=8266A5BABEF490359710E721F5915B36D793B329&profile=pass
+#EXTINF:0,006 LASEXTA HD
+http://212.231.9.89:9981/stream/channelid/829685035?ticket=949EF32954827864FC711C437E43D912E82632C5&profile=pass
+#EXTINF:0,007 7RM HD
+http://212.231.9.89:9981/stream/channelid/1801361863?ticket=96D7C835123EAF0B8B677F325F969817F4DC7C93&profile=pass
+#EXTINF:0,008 CANAL SUR A.
+http://212.231.9.89:9981/stream/channelid/283524685?ticket=90B5E39E7D16CA00E9838207765D06AC6BDF393B&profile=pass
+#EXTINF:0,011 Hollywood
+http://212.231.9.89:9981/stream/channelid/572390040?ticket=2AB110F5D37F73EDBA58EC9F176840E60D2927B5&profile=pass
+#EXTINF:0,012 XTRM
+http://212.231.9.89:9981/stream/channelid/1643517416?ticket=7FA20BA0D4279E7AF5ADB2C2FA4FDF907A13DB29&profile=pass
+#EXTINF:0,013 TNT
+http://212.231.9.89:9981/stream/channelid/1985055078?ticket=65DB7E48394AB9826CCED4F62533DF47968FA1A5&profile=pass
+#EXTINF:0,014 AMC
+http://212.231.9.89:9981/stream/channelid/167960836?ticket=B781E57BDEB67AFE50E028D0BFE5177CE7D5EEFB&profile=pass
+#EXTINF:0,015 BUZZ-R/18
+http://212.231.9.89:9981/stream/channelid/1596325705?ticket=88748F7C0B0E3A5C83613A085179E313FC4C89B2&profile=pass
+#EXTINF:0,016 TCM
+http://212.231.9.89:9981/stream/channelid/1150241336?ticket=E883873B3BC7DC03302043799145875912DF498C&profile=pass
+#EXTINF:0,017 SOMOS
+http://212.231.9.89:9981/stream/channelid/5564095?ticket=186E5FA9F7435D5D1D70E2BA4380A3BAAB5EA03D&profile=pass
+#EXTINF:0,022 HISTORIA
+http://212.231.9.89:9981/stream/channelid/1957516540?ticket=E629B59B1BD181F6C5D18E1292C9A6CC00DBB5F8&profile=pass
+#EXTINF:0,023 ODISEA
+http://212.231.9.89:9981/stream/channelid/886797688?ticket=AF64029F610AB956225FCD60CC6C0DEA82FCA8A2&profile=pass
+#EXTINF:0,025 AE
+http://212.231.9.89:9981/stream/channelid/1406204565?ticket=93AE7E9AF58952BAD76E0E0A615CB2820F52F5D0&profile=pass
+#EXTINF:0,026 DeCASA
+http://212.231.9.89:9981/stream/channelid/1742095582?ticket=BFE43DCF0563A2209CC5C6291A759DA3EF199E5E&profile=pass
+#EXTINF:0,027 COCINA
+http://212.231.9.89:9981/stream/channelid/1844504413?ticket=0EE44CD41A537264CA505CEB42401612405C515F&profile=pass
+#EXTINF:0,028 VIAJAR
+http://212.231.9.89:9981/stream/channelid/1124724291?ticket=24FFC9E71DF1F5BE98EDF1501218406A192CC8BD&profile=pass
+#EXTINF:0,029 CI
+http://212.231.9.89:9981/stream/channelid/915888351?ticket=18B1BC35804C3143785557999FEA343F19B0375A&profile=pass
+#EXTINF:0,030 F1
+http://212.231.9.89:9981/stream/channelid/1090811375?ticket=3468B833D258B4ED7A376A97ACF6D2BB5D4DD457&profile=pass
+#EXTINF:0,032 R. MADRID TV
+http://212.231.9.89:9981/stream/channelid/1002694183?ticket=F0EE98A152A4817D238D7266C750D14F9D475C1F&profile=pass
+#EXTINF:0,033 tdp HD
+http://212.231.9.89:9981/stream/channelid/1694019522?ticket=58D2A2DFDA850E76007125EECE8FA26360E8B67F&profile=pass
+#EXTINF:0,034 EUROSPORT 1
+http://212.231.9.89:9981/stream/channelid/1081089301?ticket=B256CFA4D0E0DF4C72423A42C75B8EE801A19942&profile=pass
+#EXTINF:0,035 Realmadrid TV HD
+http://212.231.9.89:9981/stream/channelid/322726917?ticket=C4525EF6EFE1761D9259F1554BD159B81729532D&profile=pass
+#EXTINF:0,036 Eurosport 1 Deutschland
+http://212.231.9.89:9981/stream/channelid/715272413?ticket=D900E720F7C539C6B0340ABF8E344D3862511C94&profile=pass
+#EXTINF:0,037 BeIn Sports1 HD
+http://212.231.9.89:9981/stream/channelid/181607297?ticket=53EF7857AC652119CEB0ABAE9BD3A92407BEF03D&profile=pass
+#EXTINF:0,038 BeIn Sports2 HD
+http://212.231.9.89:9981/stream/channelid/557819093?ticket=3079D277BFE0D68A069D53ADDAF380D1B9F34DD5&profile=pass
+#EXTINF:0,039 GOL
+http://212.231.9.89:9981/stream/channelid/537403383?ticket=49855DA2381834C62A30786806D704AB0D5E707E&profile=pass
+#EXTINF:0,040CANAL INFO
+http://212.231.9.89:9981/stream/channelid/1973228265?ticket=25C5C89408582CF2C1AEE2C2F9B3F7B5C1792E78&profile=pass
+#EXTINF:0,041 neox
+http://212.231.9.89:9981/stream/channelid/249470795?ticket=642342EC3708ABF9E30538467100756D9E7F2A78&profile=pass
+#EXTINF:0,042 nova
+http://212.231.9.89:9981/stream/channelid/1506726661?ticket=EB71C27DB0BBB553894308277AE675917B01B96E&profile=pass
+#EXTINF:0,044 FDF
+http://212.231.9.89:9981/stream/channelid/412061965?ticket=32E52D825DF10FF988255E28BF4C83C25566F9EC&profile=pass
+#EXTINF:0,045 Energy
+http://212.231.9.89:9981/stream/channelid/264710245?ticket=B472D2E07602B48C34BEE1B309F51AAD6EB4B377&profile=pass
+#EXTINF:0,046 atreseries HD
+http://212.231.9.89:9981/stream/channelid/938017100?ticket=32C010C3E29689855416DAC98615DE41D6C4402E&profile=pass
+#EXTINF:0,047 BeMad tv HD
+http://212.231.9.89:9981/stream/channelid/1876155491?ticket=EF51F4EE78B579CF3FBBE641CAB1F557EF94BDE2&profile=pass
+#EXTINF:0,052 BABY TV
+http://212.231.9.89:9981/stream/channelid/4525895?ticket=D8602D15C1076B0F287286EED4198A4EAAF95F5F&profile=pass
+#EXTINF:0,053 PANDA
+http://212.231.9.89:9981/stream/channelid/258850653?ticket=DCD0914C4F7DBF5B5FFF7C1C7AA3436BB80F47B8&profile=pass
+#EXTINF:0,054 Clan
+http://212.231.9.89:9981/stream/channelid/333208792?ticket=F9B28A8C60588AF119D64AF161DD36DB3E5E83DB&profile=pass
+#EXTINF:0,055 Boing
+http://212.231.9.89:9981/stream/channelid/1037983070?ticket=A3F4F0543746353B0D9868A58496E20BCC12AA72&profile=pass
+#EXTINF:0,066 PopularTV
+http://212.231.9.89:9981/stream/channelid/1200432856?ticket=19F5DFC551A420B1DD27C2EB3A4CE842E2987840&profile=pass
+#EXTINF:0,071 SOL
+http://212.231.9.89:9981/stream/channelid/1287009832?ticket=9FBB7A9A0811CADED3DB45CE159C3B9EC597E486&profile=pass
+#EXTINF:0,081 TVE Internecional
+http://212.231.9.89:9981/stream/channelid/702556481?ticket=4D9476B94C8CBCA852079248386A23D769029C88&profile=pass
+#EXTINF:0,082 24h
+http://212.231.9.89:9981/stream/channelid/1130276380?ticket=3D2022EC74ACBB6753519C180D25097A31B1CE27&profile=pass
+#EXTINF:0,083 EuroNews
+http://212.231.9.89:9981/stream/channelid/748653280?ticket=906796368E20DD030A1F718BAA920E67F8A87F03&profile=pass
+#EXTINF:0,091 BBC World
+http://212.231.9.89:9981/stream/channelid/494378907?ticket=43C96ECCE133C8BE22B321824794C7DA88314449&profile=pass
+#EXTINF:0,092 CNN Int.
+http://212.231.9.89:9981/stream/channelid/885226315?ticket=8AA13250F8BACC3F5439DFC22F3BCCE80EB14EE3&profile=pass
+#EXTINF:0,093 CNBC Europe
+http://212.231.9.89:9981/stream/channelid/1014096106?ticket=197CC967EB76C5AFBA721CB5C591851F97300589&profile=pass
+#EXTINF:0,098 Discovery Channel HD
+http://212.231.9.89:9981/stream/channelid/1437026833?ticket=E8FF92F64FAE13F64C21BEC45BA908CFD015276D&profile=pass
+
+#EXTINF:-1,Movistar+
+http://79.145.55.159:8181/udp/239.0.0.77:8208
+#EXTINF:-1,Movistar+ HD
+http://79.145.55.159:8181/udp/239.0.5.185:8208
+#EXTINF:-1,TVE 1
+http://79.145.55.159:8181/udp/239.0.0.76:8208
+#EXTINF:-1,TVE 1 HD
+http://79.145.55.159:8181/udp/239.0.0.185:8208
+#EXTINF:-1,TVE 2
+http://79.145.55.159:8181/udp/239.0.0.2:8208
+#EXTINF:-1,Antena 3
+http://79.145.55.159:8181/udp/239.0.0.3:8208
+#EXTINF:-1,Antena 3 HD
+http://79.145.55.159:8181/udp/239.0.0.186:8208
+#EXTINF:-1,Cuatro
+http://79.145.55.159:8181/udp/239.0.0.4:8208
+#EXTINF:-1,Cuatro HD
+http://79.145.55.159:8181/udp/239.0.0.177:8208
+#EXTINF:-1,Telecinco
+http://79.145.55.159:8181/udp/239.0.0.5:8208
+#EXTINF:-1,Telecinco HD
+http://79.145.55.159:8181/udp/239.0.0.176:8208
+#EXTINF:-1,La Sexta
+http://79.145.55.159:8181/udp/239.0.0.58:8208
+#EXTINF:-1,La Sexta HD
+http://79.145.55.159:8181/udp/239.0.0.187:8208
+#EXTINF:-1,#0
+http://79.145.55.159:8181/udp/239.0.0.108:8208
+#EXTINF:-1,#0 HD
+http://79.145.55.159:8181/udp/239.0.5.187:8208
+#EXTINF:-1,7 Region de Murcia
+http://79.145.55.159:8181/udp/239.0.0.87:8208
+#EXTINF:-1,Aragon TV
+http://79.145.55.159:8181/udp/239.0.0.88:8208
+#EXTINF:-1,Canal Sur
+http://79.145.55.159:8181/udp/239.0.0.49:8208
+#EXTINF:-1,Castilla y Leon 7
+http://79.145.55.159:8181/udp/239.0.0.109:8208
+#EXTINF:-1,CMT
+http://79.145.55.159:8181/udp/239.0.0.55:8208
+#EXTINF:-1,ETB 1
+http://79.145.55.159:8181/udp/239.0.0.35:8208
+#EXTINF:-1,Extremadura TV
+http://79.145.55.159:8181/udp/239.0.0.73:8208
+#EXTINF:-1,IB3
+http://79.145.55.159:8181/udp/239.0.0.56:8208
+#EXTINF:-1,Telemadrid
+http://79.145.55.159:8181/udp/239.0.0.25:8208
+#EXTINF:-1,TV Canaria
+http://79.145.55.159:8181/udp/239.0.0.54:8208
+#EXTINF:-1,TV Galicia
+http://79.145.55.159:8181/udp/239.0.0.53:8208
+#EXTINF:-1,TV Mediterraneo
+http://79.145.55.159:8181/udp/239.0.3.34:8208
+#EXTINF:-1,TV Princ de Asturias
+http://79.145.55.159:8181/udp/239.0.0.86:8208
+#EXTINF:-1,TV3
+http://79.145.55.159:8181/udp/239.0.0.23:8208
+#EXTINF:-1,TV3 HD
+http://79.145.55.159:8181/udp/239.0.5.186:8208
+#EXTINF:-1,8 TV
+http://79.145.55.159:8181/udp/239.0.0.82:8208
+#EXTINF:-1,Canal Sur 2
+http://79.145.55.159:8181/udp/239.0.0.50:8208
+#EXTINF:-1,ETB 2
+http://79.145.55.159:8181/udp/239.0.0.36:8208
+#EXTINF:-1,La Otra
+http://79.145.55.159:8181/udp/239.0.0.26:8208
+#EXTINF:-1,Series
+http://79.145.55.159:8181/udp/239.0.3.32:8208
+#EXTINF:-1,Series HD
+http://79.145.55.159:8181/udp/239.0.0.184:8208
+#EXTINF:-1,Movistar Series
+http://79.145.55.159:8181/udp/239.0.5.4:8208
+#EXTINF:-1,Movistar Series HD
+http://79.145.55.159:8181/udp/239.0.5.250:8208
+#EXTINF:-1,Movistar Series Xtra
+http://79.145.55.159:8181/udp/239.0.3.20:8208
+#EXTINF:-1,Movistar Series Xtra HD
+http://79.145.55.159:8181/udp/239.0.5.83:8208
+#EXTINF:-1,FOX
+http://79.145.55.159:8181/udp/239.0.0.74:8208
+#EXTINF:-1,FOX HD
+http://79.145.55.159:8181/udp/239.0.9.134:8208
+#EXTINF:-1,AXN
+http://79.145.55.159:8181/udp/239.0.0.14:8208
+#EXTINF:-1,AXN HD
+http://79.145.55.159:8181/udp/239.0.9.131:8208
+#EXTINF:-1,TNT
+http://79.145.55.159:8181/udp/239.0.0.44:8208
+#EXTINF:-1,TNT HD
+http://79.145.55.159:8181/udp/239.0.5.87:8208
+#EXTINF:-1,Comedy Central
+http://79.145.55.159:8181/udp/239.0.0.68:8208
+#EXTINF:-1,Comedy Central HD
+http://79.145.55.159:8181/udp/239.0.0.174:8208
+#EXTINF:-1,Calle 13
+http://79.145.55.159:8181/udp/239.0.0.13:8208
+#EXTINF:-1,Calle 13 HD
+http://79.145.55.159:8181/udp/239.0.5.74:8208
+#EXTINF:-1,Cosmo
+http://79.145.55.159:8181/udp/239.0.0.15:8208
+#EXTINF:-1,Cosmo HD
+http://79.145.55.159:8181/udp/239.0.5.71:8208
 #EXTINF:-1,AMC
-http://185.22.78.83:8803/play/a011
-#EXTINF:-1,TCM
-http://185.22.78.83:8803/play/a00w
-#EXTINF:-1,TELEDEPORTE
-http://185.22.78.83:8803/play/a00z
-#EXTINF:-1,CANAL COCINA
-http://185.22.78.83:8803/play/a010
-#EXTINF:-1,COMEDY CENTRAL
-http://185.22.78.83:8803/play/a00x
-#EXTINF:-1,DISNEY CH.
-http://185.22.78.83:8803/play/a00u
-#EXTINF:-1,DISNEY XD
-http://185.22.78.83:8804/play/a014
-#EXTINF:-1,DISCOVERY
-http://185.22.78.83:8804/play/a018
-#EXTINF:-1,CANAL SUR A.
-http://185.22.78.83:8804/play/a013
-#EXTINF:-1,CRIMEN+INVES
-http://185.22.78.83:8804/play/a01b
-#EXTINF:-1,24 HORAS
-http://185.22.78.83:8804/play/a01d
-#EXTINF:-1,M. MOTOGP
-http://185.22.78.83:8804/play/a01e
-#EXTINF:-1,COSMO
-http://185.22.78.83:8804/play/a019
-#EXTINF:-1,CAZA Y PESCA
-http://185.22.78.83:8804/play/a015
-#EXTINF:-1,NONSTOPEOPLE
-http://185.22.78.83:8804/play/a017
-#EXTINF:-1,M. Cine Espaæol
-http://185.22.78.83:8804/play/a01c
-#EXTINF:-1,HISTORIA
-http://185.22.78.83:8804/play/a01a
-#EXTINF:-1,A&E
-http://185.22.78.83:8804/play/a016
-#EXTINF:-1,CLAN TVE
-http://185.22.78.83:8802/play/a00o
-#EXTINF:-1,LA 2
-http://185.22.78.83:8802/play/a00r
+http://79.145.55.159:8181/udp/239.0.0.8:8208
+#EXTINF:-1,AMC HD
+http://79.145.55.159:8181/udp/239.0.9.132:8208
+#EXTINF:-1,FOX Life
+http://79.145.55.159:8181/udp/239.0.0.112:8208
+#EXTINF:-1,FOX Life HD
+http://79.145.55.159:8181/udp/239.0.5.86:8208
+#EXTINF:-1,AXN White
+http://79.145.55.159:8181/udp/239.0.0.62:8208
+#EXTINF:-1,AXN White HD
+http://79.145.55.159:8181/udp/239.0.5.79:8208
+#EXTINF:-1,SyFy
+http://79.145.55.159:8181/udp/239.0.0.111:8208
+#EXTINF:-1,SyFy HD
+http://79.145.55.159:8181/udp/239.0.5.75:8208
+#EXTINF:-1,Non Stop People
+http://79.145.55.159:8181/udp/239.0.0.212:8208
+#EXTINF:-1,Non Stop People HD
+http://79.145.55.159:8181/udp/239.0.5.170:8208
+#EXTINF:-1,MTV
+http://79.145.55.159:8181/udp/239.0.0.211:8208
 #EXTINF:-1,FDF
-http://185.22.78.83:8802/play/a00n
-#EXTINF:-1,LA SEXTA
-http://185.22.78.83:8802/play/a00p
-#EXTINF:-1,M. XTRA
-http://185.22.78.83:8802/play/a00s
-#EXTINF:-1,LA 1
-http://185.22.78.83:8802/play/a00q
-
-
-
-
+http://79.145.55.159:8181/udp/239.0.0.84:8208
+#EXTINF:-1,Neox
+http://79.145.55.159:8181/udp/239.0.0.107:8208
+#EXTINF:-1,Atreseries
+http://79.145.55.159:8181/udp/239.0.3.29:8208
+#EXTINF:-1,Atreseries HD
+http://79.145.55.159:8181/udp/239.0.0.181:8208
+#EXTINF:-1,Cine
+http://79.145.55.159:8181/udp/239.0.3.30:8208
+#EXTINF:-1,Cine HD
+http://79.145.55.159:8181/udp/239.0.0.178:8208
+#EXTINF:-1,Movistar Estrenos
+http://79.145.55.159:8181/udp/239.0.3.40:8208
+#EXTINF:-1,Movistar Estrenos HD
+http://79.145.55.159:8181/udp/239.0.5.111:8208
+#EXTINF:-1,Movistar Xtra
+http://79.145.55.159:8181/udp/239.0.3.41:8208
+#EXTINF:-1,Movistar Xtra HD
+http://79.145.55.159:8181/udp/239.0.5.112:8208
+#EXTINF:-1,Movistar Accion
+http://79.145.55.159:8181/udp/239.0.3.42:8208
+#EXTINF:-1,Movistar Accion HD
+http://79.145.55.159:8181/udp/239.0.5.113:8208
+#EXTINF:-1,Movistar Comedia
+http://79.145.55.159:8181/udp/239.0.3.43:8208
+#EXTINF:-1,Movistar Comedia HD
+http://79.145.55.159:8181/udp/239.0.5.114:8208
+#EXTINF:-1,Movistar DCine
+http://79.145.55.159:8181/udp/239.0.3.44:8208
+#EXTINF:-1,Movistar DCine HD
+http://79.145.55.159:8181/udp/239.0.5.115:8208
+#EXTINF:-1,DCine Espanol
+http://79.145.55.159:8181/udp/239.0.3.45:8208
+#EXTINF:-1,TCM
+http://79.145.55.159:8181/udp/239.0.6.5:8208
+#EXTINF:-1,TCM HD
+http://79.145.55.159:8181/udp/239.0.5.89:8208
+#EXTINF:-1,Hollywood
+http://79.145.55.159:8181/udp/239.0.0.16:8208
+#EXTINF:-1,Hollywood HD
+http://79.145.55.159:8181/udp/239.0.5.76:8208
+#EXTINF:-1,Sundance
+http://79.145.55.159:8181/udp/239.0.0.102:8208
+#EXTINF:-1,Sundance HD
+http://79.145.55.159:8181/udp/239.0.5.72:8208
+#EXTINF:-1,Paramount
+http://79.145.55.159:8181/udp/239.0.0.90:8208
+#EXTINF:-1,DARK
+http://79.145.55.159:8181/udp/239.0.0.39:8208
+#EXTINF:-1,13 TV
+http://79.145.55.159:8181/udp/239.0.0.91:8208
+#EXTINF:-1,Ten
+http://79.145.55.159:8181/udp/239.0.0.34:8208
+#EXTINF:-1,Deportes
+http://79.145.55.159:8181/udp/239.0.3.33:8208
+#EXTINF:-1,Deportes HD
+http://79.145.55.159:8181/udp/239.0.0.180:8208
+#EXTINF:-1,Movistar Futbol
+http://79.145.55.159:8181/udp/239.0.6.8:8208
+#EXTINF:-1,Movistar Futbol HD
+http://79.145.55.159:8181/udp/239.0.6.14:8208
+#EXTINF:-1,Movistar Partidazo
+http://79.145.55.159:8181/udp/239.0.4.129:8208
+#EXTINF:-1,Movistar Partidazo HD
+http://79.145.55.159:8181/udp/239.0.5.84:8208
+#EXTINF:-1,beIN La Liga
+http://79.145.55.159:8181/udp/239.0.0.46:8208
+#EXTINF:-1,beIN La Liga HD
+http://79.145.55.159:8181/udp/239.0.5.106:8208
+#EXTINF:-1,beIN La Liga 1
+http://79.145.55.159:8181/udp/239.0.0.47:8208
+#EXTINF:-1,beIN La Liga 1 HD
+http://79.145.55.159:8181/udp/239.0.5.179:8208
+#EXTINF:-1,beIN La Liga 2
+http://79.145.55.159:8181/udp/239.0.0.67:8208
+#EXTINF:-1,beIN La Liga 2 HD
+http://79.145.55.159:8181/udp/239.0.5.180:8208
+#EXTINF:-1,beIN SPORTS
+http://79.145.55.159:8181/udp/239.0.3.100:8208
+#EXTINF:-1,beIN SPORTS HD
+http://79.145.55.159:8181/udp/239.0.9.80:8208
+#EXTINF:-1,Futbol Replay
+http://79.145.55.159:8181/udp/239.0.0.97:8208
+#EXTINF:-1,beIN MAX 1
+http://79.145.55.159:8181/udp/239.0.6.7:8208
+#EXTINF:-1,beIN MAX 1 HD
+http://79.145.55.159:8181/udp/239.0.5.177:8208
+#EXTINF:-1,beIN MAX 2
+http://79.145.55.159:8181/udp/239.0.6.13:8208
+#EXTINF:-1,Movistar Deportes 1
+http://79.145.55.159:8181/udp/239.0.4.193:8208
+#EXTINF:-1,Movistar Deportes 1 HD
+http://79.145.55.159:8181/udp/239.0.5.248:8208
+#EXTINF:-1,Movistar Deportes 2
+http://79.145.55.159:8181/udp/239.0.5.5:8208
+#EXTINF:-1,Movistar Deportes 2 HD
+http://79.145.55.159:8181/udp/239.0.5.245:8208
+#EXTINF:-1,Movistar F1
+http://79.145.55.159:8181/udp/239.0.0.210:8208
+#EXTINF:-1,Movistar F1 HD
+http://79.145.55.159:8181/udp/239.0.5.246:8208
+#EXTINF:-1,Movistar MotoGP
+http://79.145.55.159:8181/udp/239.0.3.38:8208
+#EXTINF:-1,Movistar MotoGP HD
+http://79.145.55.159:8181/udp/239.0.5.107:8208
+#EXTINF:-1,Movistar Golf
+http://79.145.55.159:8181/udp/239.0.5.2:8208
+#EXTINF:-1,Movistar Golf HD
+http://79.145.55.159:8181/udp/239.0.5.249:8208
+#EXTINF:-1,EuroSport
+http://79.145.55.159:8181/udp/239.0.0.18:8208
+#EXTINF:-1,EuroSport HD New
+http://79.145.55.159:8181/udp/239.0.9.144:8208
+#EXTINF:-1,EuroSport HD Old
+http://79.145.55.159:8181/udp/239.0.9.135:8208
+#EXTINF:-1,EuroSport 2
+http://79.145.55.159:8181/udp/239.0.0.37:8208
+#EXTINF:-1,EuroSport 2 HD
+http://79.145.55.159:8181/udp/239.0.5.105:8208
+#EXTINF:-1,GOL
+http://79.145.55.159:8181/udp/239.0.0.7:8208
+#EXTINF:-1,GOL HD
+http://79.145.55.159:8181/udp/239.0.5.189:8208
+#EXTINF:-1,Teledeporte
+http://79.145.55.159:8181/udp/239.0.0.79:8208
+#EXTINF:-1,Teledeporte HD
+http://79.145.55.159:8181/udp/239.0.0.188:8208
+#EXTINF:-1,Iberalia
+http://79.145.55.159:8181/udp/239.0.5.6:8208
+#EXTINF:-1,Multideporte 1
+http://79.145.55.159:8181/udp/239.0.7.1:8208
+#EXTINF:-1,National Geographic
+http://79.145.55.159:8181/udp/239.0.0.103:8208
+#EXTINF:-1,National Geographic HD
+http://79.145.55.159:8181/udp/239.0.5.78:8208
+#EXTINF:-1,Nat Geo Wild
+http://79.145.55.159:8181/udp/239.0.0.89:8208
+#EXTINF:-1,Nat Geo Wild HD
+http://79.145.55.159:8181/udp/239.0.9.136:8208
+#EXTINF:-1,Historia
+http://79.145.55.159:8181/udp/239.0.0.19:8208
+#EXTINF:-1,Discovery Channel
+http://79.145.55.159:8181/udp/239.0.0.21:8208
+#EXTINF:-1,Discovery Channel HD
+http://79.145.55.159:8181/udp/239.0.5.77:8208
+#EXTINF:-1,Odisea
+http://79.145.55.159:8181/udp/239.0.0.22:8208
+#EXTINF:-1,Odisea HD
+http://79.145.55.159:8181/udp/239.0.5.82:8208
+#EXTINF:-1,A&ampampampE
+http://79.145.55.159:8181/udp/239.0.0.38:8208
+#EXTINF:-1,Viajar
+http://79.145.55.159:8181/udp/239.0.0.20:8208
+#EXTINF:-1,Viajar HD
+http://79.145.55.159:8181/udp/239.0.5.73:8208
+#EXTINF:-1,Discovery MAX
+http://79.145.55.159:8181/udp/239.0.0.32:8208
+#EXTINF:-1,CCTV-E
+http://79.145.55.159:8181/udp/239.0.0.65:8208
+#EXTINF:-1,Cocina
+http://79.145.55.159:8181/udp/239.0.0.27:8208
+#EXTINF:-1,Decasa
+http://79.145.55.159:8181/udp/239.0.0.71:8208
+#EXTINF:-1,DKISS
+http://79.145.55.159:8181/udp/239.0.0.6:8208
+#EXTINF:-1,Crimen e Investigacion
+http://79.145.55.159:8181/udp/239.0.0.57:8208
+#EXTINF:-1,Divinity
+http://79.145.55.159:8181/udp/239.0.0.48:8208
+#EXTINF:-1,Nova
+http://79.145.55.159:8181/udp/239.0.0.106:8208
+#EXTINF:-1,MEGA
+http://79.145.55.159:8181/udp/239.0.3.31:8208
+#EXTINF:-1,BeMad
+http://79.145.55.159:8181/udp/239.0.0.17:8208
+#EXTINF:-1,BeMad HD
+http://79.145.55.159:8181/udp/239.0.0.182:8208
+#EXTINF:-1,Energy
+http://79.145.55.159:8181/udp/239.0.0.59:8208
+#EXTINF:-1,Garage TV
+http://79.145.55.159:8181/udp/239.0.0.99:8208
+#EXTINF:-1,Baby TV
+http://79.145.55.159:8181/udp/239.0.0.113:8208
+#EXTINF:-1,Disney Junior
+http://79.145.55.159:8181/udp/239.0.0.10:8208
+#EXTINF:-1,Canal Panda
+http://79.145.55.159:8181/udp/239.0.0.117:8208
+#EXTINF:-1,Nick Jr
+http://79.145.55.159:8181/udp/239.0.0.115:8208
+#EXTINF:-1,Nickelodeon
+http://79.145.55.159:8181/udp/239.0.0.69:8208
+#EXTINF:-1,Disney XD
+http://79.145.55.159:8181/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel
+http://79.145.55.159:8181/udp/239.0.0.64:8208
+#EXTINF:-1,Disney Channel HD
+http://79.145.55.159:8181/udp/239.0.0.173:8208
+#EXTINF:-1,Boing
+http://79.145.55.159:8181/udp/239.0.0.66:8208
+#EXTINF:-1,Clan TVE
+http://79.145.55.159:8181/udp/239.0.0.80:8208
+#EXTINF:-1,40 TV
+http://79.145.55.159:8181/udp/239.0.0.12:8208
+#EXTINF:-1,VH1
+http://79.145.55.159:8181/udp/239.0.0.75:8208
+#EXTINF:-1,Canal 24 Horas
+http://79.145.55.159:8181/udp/239.0.0.78:8208
+#EXTINF:-1,BBC world
+http://79.145.55.159:8181/udp/239.0.0.30:8208
+#EXTINF:-1,CNN International
+http://79.145.55.159:8181/udp/239.0.0.40:8208
+#EXTINF:-1,Fox News
+http://79.145.55.159:8181/udp/239.0.7.65:8208
+#EXTINF:-1,Euronews
+http://79.145.55.159:8181/udp/239.0.0.28:8208
+#EXTINF:-1,Al Jazeera
+http://79.145.55.159:8181/udp/239.0.7.66:8208
+#EXTINF:-1,France 24
+http://79.145.55.159:8181/udp/239.0.7.67:8208
+#EXTINF:-1,Russia Today
+http://79.145.55.159:8181/udp/239.0.7.68:8208
+#EXTINF:-1,CNBC Europe
+http://79.145.55.159:8181/udp/239.0.7.69:8208
+#EXTINF:-1,TV5 Monde Europe
+http://79.145.55.159:8181/udp/239.0.0.31:8208
+#EXTINF:-1,Bloomberg
+http://79.145.55.159:8181/udp/239.0.0.29:8208
+#EXTINF:-1,Intereconomia TV
+http://79.145.55.159:8181/udp/239.0.0.63:8208
+#EXTINF:-1,I24 News
+http://79.145.55.159:8181/udp/239.0.0.220:8208
+#EXTINF:-1,CNC World
+http://79.145.55.159:8181/udp/239.0.0.221:8208
+#EXTINF:-1,Canal Orbe 21
+http://79.145.55.159:8181/udp/239.0.0.45:8208
+#EXTINF:-1,Andalucia TV
+http://79.145.55.159:8181/udp/239.0.0.1:8208
+#EXTINF:-1,Galicia TV Europa
+http://79.145.55.159:8181/udp/239.0.3.37:8208
+#EXTINF:-1,TV3CAT
+http://79.145.55.159:8181/udp/239.0.3.36:8208
+#EXTINF:-1,ETB Sat
+http://79.145.55.159:8181/udp/239.0.0.60:8208
+#EXTINF:-1,Aragon TV Int
+http://79.145.55.159:8181/udp/239.0.0.81:8208
+#EXTINF:-1,Super 3/33
+http://79.145.55.159:8181/udp/239.0.0.24:8208
+#EXTINF:-1,Esport3
+http://79.145.55.159:8181/udp/239.0.0.51:8208
+#EXTINF:-1,3/24
+http://79.145.55.159:8181/udp/239.0.0.61:8208
+#EXTINF:-1,Xarxa Televisions
+http://79.145.55.159:8181/udp/239.0.0.9:8208
+#EXTINF:-1,Multifutbol 1
+http://79.145.55.159:8181/udp/239.0.0.92:8208
+#EXTINF:-1,Multifutbol 2
+http://79.145.55.159:8181/udp/239.0.0.93:8208
+#EXTINF:-1,Multifutbol 3
+http://79.145.55.159:8181/udp/239.0.0.94:8208
+#EXTINF:-1,Multifutbol 4
+http://79.145.55.159:8181/udp/239.0.0.95:8208
+#EXTINF:-1,Multifutbol 5
+http://79.145.55.159:8181/udp/239.0.0.96:8208
+#EXTINF:-1,beIN La Liga 3
+http://79.145.55.159:8181/udp/239.0.0.70:8208
+#EXTINF:-1,beIN La Liga 3 HD
+http://79.145.55.159:8181/udp/239.0.5.181:8208
+#EXTINF:-1,beIN La Liga 4
+http://79.145.55.159:8181/udp/239.0.0.72:8208
+#EXTINF:-1,beIN MAX 3
+http://79.145.55.159:8181/udp/239.0.0.216:8208
+#EXTINF:-1,beIN MAX 4
+http://79.145.55.159:8181/udp/239.0.0.217:8208
+#EXTINF:-1,Multideporte 2
+http://79.145.55.159:8181/udp/239.0.7.2:8208
+#EXTINF:-1,Multideporte 3
+http://79.145.55.159:8181/udp/239.0.7.3:8208
+#EXTINF:-1,Multideporte 4
+http://79.145.55.159:8181/udp/239.0.7.4:8208
+#EXTINF:-1,Multideporte 5
+http://79.145.55.159:8181/udp/239.0.7.5:8208
+#EXTINF:-1,Multideporte 6
+http://79.145.55.159:8181/udp/239.0.7.132:8208
+#EXTINF:-1,Multideporte 7
+http://79.145.55.159:8181/udp/239.0.7.133:8208
+#EXTINF:-1,La Tienda en Casa
+http://79.145.55.159:8181/udp/239.0.0.98:8208
 
 
 
