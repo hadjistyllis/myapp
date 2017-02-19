@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz"
 
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,OFFICIAL e-Doctor
+https://www.youtube.com/watch?v=GA0N0Bu5JiE
+
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,IPTV LIST
+https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,Powered by e-doctor
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
@@ -7,10 +12,12 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 ,UPDATED
+#EXTINF:1 group-title=”UPDATED DATE”,
+
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,UPDATED
 http://.....
 
-#EXTINF:-1 ,19/2/17
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,19/2/17
 http://.....
 
 
