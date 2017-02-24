@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,19/2/17
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,24/2/17
 http://.....
 
 
@@ -38,7 +38,8 @@ http://.....
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
 http://37.192.131.119:81/udp/239.1.5.3:1234
-
+#EXTINF:-1,Animal Plnt+1
+http://5.255.90.223:5000/play/a00w
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:0,National Geographic
@@ -71,6 +72,10 @@ http://188.122.249.233:4022/udp/232.0.1.64:1235
 http://185.63.196.22:8000/play/a01l 
 #EXTINF:0,Discovery Channel 
 http://187.49.86.238:10000/bysid/120 
+#EXTINF:-1,Discovery
+http://5.255.90.223:5000/play/a01g
+#EXTINF:-1,Discovery+1
+http://5.255.90.223:5000/play/a01a
 #EXTINF:0,Discovery HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/discoveryhd
 #EXTINF:0,Discovery World
@@ -81,6 +86,10 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 http://213.110.151.59:8889/udp/239.10.0.146:1234 
 #EXTINF:-1,Discovery Science
 http://185.63.196.22:8000/play/a00p 
+#EXTINF:-1,Disc.Science
+http://5.255.90.223:5000/play/a01c
+#EXTINF:-1,Disc.Sci+1
+http://5.255.90.223:5000/play/a00x
 #EXTINF:0,History
 http://82.200.127.58:8080/udp/233.12.144.108:5050
 #EXTINF:0,FOX
@@ -170,6 +179,8 @@ http://185.63.196.22:8000/play/a046
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 #EXTINF:-1,Nick Jr.
 http://5.255.90.223:5000/play/a008
+#EXTINF:-1,Nick Jr+1
+http://5.255.90.223:5000/play/a00a
 #EXTINF:-1,Nicktoons
 http://5.255.90.223:5000/play/a002
 #EXTINF:-1,Nick Jr Too
@@ -408,6 +419,77 @@ http://178.33.239.54:8080/Supersports4/index.m3u8
 http://178.33.239.54:8080/Box_Nation/index.m3u8
 #EXTINF:-1,534. EURO SPORT 2
 http://178.33.239.54:8080/Euro_Sport2/index.m3u8
+
+#EXTINF:-1,CANAL+SPORT 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT FRANCE 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-1/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT FRANCE 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-2/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT FRANCE 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-3/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 5 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 5 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 6 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8 
+#EXTINF:-1,US:FOX SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8 
+#EXTINF:-1,US:FOX SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8 
+#EXTINF:-1,BEIN SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-1/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-2/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-3/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-4/Strm/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1,TSN SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+#EXTINF:-1,TSN SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+#EXTINF:-1,TSN SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+#EXTINF:-1,TSN SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+#EXTINF:-1,TSN SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-7/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-8/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-9/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-10/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-11/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 12
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-12/Strm/index.m3u8
 
 #EXTINF:0,Sport tv3
 #EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
