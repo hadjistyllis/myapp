@@ -2,28 +2,28 @@
 
 #EXTINF:1 group-title=”UPDATED DATE”,
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,OFFICIAL e-Doctor
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,IPTV LIST
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,IPTV LIST
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,Powered by e-Doctor
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,http://edoctorcy.xyz
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,Download Official
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download Official
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,app from Google Play
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,UPDATED
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/e-doctor.jpg ,24/2/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/2/17
 http://.....
 
 
@@ -149,7 +149,7 @@ http://92.125.141.87:1234/udp/233.7.70.48:5000
 
 
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/WZRA%20KID'S.png ,WZRA KID'S (GR)
+#EXTINF:-1 tvg-logo=https://goo.gl/ablVkW ,WZRA KID'S (GR)
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
@@ -169,8 +169,8 @@ http://5.32.183.177:4080/udp/224.0.0.120:1235
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
 http://5.255.90.223:5000/play/a00b
-#EXTINF:-1,Nickelodeon (GR)
-http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+#EXTINF:-1,Nickelodeon (EN/GR)
+http://bit.ly/2lJYAdB
 #EXTINF:0,Nick Jr
 http://5.189.66.71:4022//udp/239.255.2.218:1234
 #EXTINF:-1,Nick.Jnr 
@@ -607,14 +607,14 @@ http://187.49.86.238:10000/bysid/49
 http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-p.m3u8
 #EXTINF:0,TELECINE PREMIUM 
 http://187.49.86.238:10000/bysid/61 
-#EXTINF:-1 tvg-logo="http://reloadplay.com/wp-content/uploads/2015/11/Cool-Text-199183501564938.png",RELOAD TV
-http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Qq0ZXCu.png",SPICY TV
-http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
+#EXTINF:-1 ,RELoad
+http://bit.ly/2msHzVg
+#EXTINF:-1 ,SPICY
+http://bit.ly/2lKaVOW
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kvjeCxR.png",FUN TV
 rtmp://live.streams.ovh/Ellastv/Ellastv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
-http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6i8Q7U2.png",RELOAD BIZZ
-http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
+#EXTINF:-1 ,PALMOS
+http://bit.ly/2lJzwVs
+#EXTINF:-1 ,RELOAD Play
+http://bit.ly/2l0o6Os
 
