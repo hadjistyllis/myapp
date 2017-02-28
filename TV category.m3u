@@ -172,7 +172,7 @@ http://37.194.121.4:1234/udp/239.1.3.4:1234
 #EXTINF:-1,Nickelodeon
 http://5.255.90.223:5000/play/a00b
 #EXTINF:-1,Nickelodeon (EN/GR)
-http://bit.ly/2lJYAdB
+http://bit.ly/1lJYAdB
 #EXTINF:0, Nick Jr
 http://149.202.63.35:8080/nickjr/playlist.m3u8
 #EXTINF:0,Nick Jr
@@ -567,9 +567,9 @@ http://212.79.96.134:8014/
 
 #EXTINF:6 group-title=”Cinema”,
 
-#EXTINF:-1 ,Movies TV
+#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
 rtmp://live.streams.ovh/MoviesTv/MoviesTv
-#EXTINF:-1 ,Movies TV
+#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
 rtsp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:0,HBO 
 http://195.228.11.91:1935/tv/hbo.stream/.m3u8 
@@ -586,13 +586,13 @@ http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-p.m
 #EXTINF:0,TELECINE PREMIUM 
 http://187.49.86.238:10000/bysid/61 
 #EXTINF:-1 ,RELoad
-http://bit.ly/2msHzVg
+http://bit.ly/1msHzVg
 #EXTINF:-1 ,SPICY
-http://bit.ly/2lKaVOW
+http://bit.ly/1lKaVOW
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kvjeCxR.png",FUN TV
 rtmp://live.streams.ovh/Ellastv/Ellastv
 #EXTINF:-1 ,PALMOS
-http://bit.ly/2lJzwVs
+http://bit.ly/1lJzwVs
 #EXTINF:-1 ,RELOAD Play
-http://bit.ly/2l0o6Os
+http://bit.ly/1l0o6Os
 
