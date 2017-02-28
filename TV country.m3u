@@ -4692,84 +4692,173 @@ http://195.35.85.100:8000/play/a09n
 #EXTINF:0,EL-DJAZAIRIA
 http://195.35.85.100:8000/play/a0ac
 
-#EXTINF:-1,MBC DRAMA
-http://37.75.209.66:9000/play/a03a
-#EXTINF:-1,CBS Europa HD
-http://37.75.209.66:9000/play/a00n
-#EXTINF:-1,CANAL+ SPORT 2 HD
-http://37.75.209.66:9000/play/a010
-#EXTINF:-1,Disney Junior
-http://37.75.209.66:9000/play/a00v
-#EXTINF:-1,Abu Dhabi TV
-http://37.75.209.66:9000/play/a03b
-#EXTINF:-1,Nat Geo People HD
-http://37.75.209.66:9000/play/a00l
-#EXTINF:-1,ZEE AFLAM
-http://37.75.209.66:9000/play/a03c
-#EXTINF:-1,OSN YaHala SD!
-http://37.75.209.66:9000/play/a003
-#EXTINF:-1,Eurosport 2 HD
-http://37.75.209.66:9000/play/a00o
-#EXTINF:-1,CITRUSS TV
-http://37.75.209.66:9000/play/a039
-#EXTINF:-1,Eurosport 2 HD PL-HU-RO
-http://37.75.209.66:9000/play/a013
-#EXTINF:-1,Nat Geo Wild HD PL
-http://37.75.209.66:9000/play/a014
-#EXTINF:-1,BEIN SPORT HD2
-http://37.75.209.66:9000/play/a004
+
 #EXTINF:-1,MBC 1
-http://37.75.209.66:9000/play/a035
-#EXTINF:-1,MBC Bollywood
-http://37.75.209.66:9000/play/a03e
-#EXTINF:-1,Eurosport 2 HD
-http://37.75.209.66:9000/play/a00s
-#EXTINF:-1,BEIN SPORT HD1
-http://37.75.209.66:9000/play/a002
-#EXTINF:-1,Cinemax HD
-http://37.75.209.66:9000/play/a011
-#EXTINF:-1,MBC Action
-http://37.75.209.66:9000/play/a03d
-#EXTINF:-1,Polsat Sport Fight HD
-http://37.75.209.66:9000/play/a00t
-#EXTINF:-1,Discovery Science HD
-http://37.75.209.66:9000/play/a00p
-#EXTINF:-1,MBC 2
-http://37.75.209.66:9000/play/a037
-#EXTINF:-1,Animal Planet HD
-http://37.75.209.66:9000/play/a00y
-#EXTINF:-1,CANAL+ SPORT 2 HD
-http://37.75.209.66:9000/play/a012
-#EXTINF:-1,BEIN SPORT HD5
-http://37.75.209.66:9000/play/a007
-#EXTINF:-1,Polsat Sport News HD
-http://37.75.209.66:9000/play/a00u
-#EXTINF:-1,HBO HD
-http://37.75.209.66:9000/play/a00q
-#EXTINF:-1,Nat Geo Wild HD
-http://37.75.209.66:9000/play/a00x
-#EXTINF:-1,Cartoon Network HD
-http://37.75.209.66:9000/play/a00k
-#EXTINF:-1,OSN MOVIES HD
-http://37.75.209.66:9000/play/a008
-#EXTINF:-1,MBC 3
-http://37.75.209.66:9000/play/a038
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+#EXTINF:-1,MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
+#EXTINF:-1,MBC Masr
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+#EXTINF:-1,MBC Masr +2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
 #EXTINF:-1,MBC 4
-http://37.75.209.66:9000/play/a036
-#EXTINF:-1,HBO HD
-http://37.75.209.66:9000/play/a00r
-#EXTINF:-1,BEIN SPORT HD3
-http://37.75.209.66:9000/play/a005
-#EXTINF:-1,BEIN SPORT HD4
-http://37.75.209.66:9000/play/a006
-#EXTINF:-1,TNT HD
-http://37.75.209.66:9000/play/a00j
-#EXTINF:-1,Extreme Sports HD
-http://37.75.209.66:9000/play/a00m
-#EXTINF:-1,MBC MAX
-http://37.75.209.66:9000/play/a03f
-#EXTINF:-1,Cinemax HD
-http://37.75.209.66:9000/play/a00z
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_4
+#EXTINF:0,MBC2
+http://51.255.81.190:8080/MBC-2/playlist.m3u8
+#EXTINF:0,MBC Max
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_max
+#EXTINF:0,MBC Action
+http://51.255.81.190:8080/MBC-Action/playlist.m3u8
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1,Dhabi Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:0,Funoon
+http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
+#EXTINF:-1,Abu Dabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1,Abu Dabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+#EXTINF:-1,Abu Dabi Emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:-1,FATAFEAT
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/fatafeat
+#EXTINF:-1,CBC SOFRA
+http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8
+#EXTINF:-1,Panorama Food
+http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
+#EXTINF:-1,Al-Nahar TV
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+#EXTINF:-1,Al-Nahar Drama
+http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
+#EXTINF:-1,Al Nahar Alyom
+http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/index.m3u8
+#EXTINF:-1,AlKahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,Sada AL Balad Drama
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+#EXTINF:-1,CBC
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+#EXTINF:-1,CBC Drama
+http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+#EXTINF:-1,CBC Extra
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/2.m3u8
+#EXTINF:-1,Musalsalat HD
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
+#EXTINF:-1,AL-HAYAT TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat
+#EXTINF:-1,AL-HAYAT Series
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat_musalsalat
+#EXTINF:-1,AL-HAYAT 2
+http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
+#EXTINF:-1,Dream TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dream_1
+#EXTINF:-1,Moga Comedy
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/moga_comedy
+#EXTINF:-1,Syria      
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1,MTV Lebanon
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:-1,AL Jaded
+http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
+#EXTINF:-1,OTV Lebanon
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/otv_lebanon
+#EXTINF:-1,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,LDC
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1,Future TV
+http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
+#EXTINF:-1,Al-Baghdadia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_baghdadia
+#EXTINF:-1,Al-Baghdadia 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_baghdadia_2
+#EXTINF:-1,Al-Sharqiah
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Al-Sharqiah News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,Houna Baghdad
+http://livestreaming.itworkscdn.net:1935/hounabaghdadlive/hounabaghdad/chunklist.m3u8
+#EXTINF:-1,NRT arabic
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1,Aliraqia
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_iraqiya
+#EXTINF:-1, AL-Arabiya
+http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8
+#EXTINF:-1, AL-Arabiya AL-Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,AlJazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Al-Jazeera Document
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,National Geographic
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:-1,RT Today Arabic
+http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,Quest Arabia
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+#EXTINF:-1,AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,NOORSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
+#EXTINF:-1,Al Fady TV
+http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
+#EXTINF:-1,AGHANI Tv
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-1,ZEE ALWAN
+http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
+#EXTINF:-1,Mazzika
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mazzika
+#EXTINF:-1,ART Aflam 1
+http://www.teledunet.tv:8888/art_aflam_1.m3u8?idu=future_82354624560
+#EXTINF:-1,ART Aflam 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_aflam_2
+#EXTINF:-1,ROTANA Cinema
+http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
+#EXTINF:-1,ROTANA AFLAM
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:-1,Nile Cinema
+http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
+#EXTINF:-1,Cairo Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cairo_cinema
+#EXTINF:-1,Cima
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cima
+#EXTINF:-1,Cinema 1
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:-1,Cima Habisha TV
+http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
+#EXTINF:-1,Tok Tok Cinema
+http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
+#EXTINF:-1,Al Nahar Cinema
+http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/index.m3u8
+#EXTINF:-1,Seevii 1
+http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
+#EXTINF:-1,Iraqiya Sport
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/iraqia_sport
+#EXTINF:-1,Abu Dhabi Sport 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_1
+#EXTINF:-1,Abu Dhabi Sport 2
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_2
+#EXTINF:-1,Dubai Sport 1
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_1
+#EXTINF:-1,Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Sport 4
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_4
+#EXTINF:-1,AL Kass TV
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alkass_tv
+
+
+
+
+
+
 
 
 
