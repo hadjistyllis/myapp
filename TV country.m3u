@@ -223,7 +223,7 @@ http://136.243.200.184:1935/live/tvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/W6G798P.png ,ALERT TV
 https://www.youtube.com/watch?v=4TxS3Je89Iw
 #EXTINF:-1 ,RELoad
-http://bit.ly/2msHzVg
+http://bit.ly/1msHzVg
 #EXTINF:-1 tvg-logo=https://goo.gl/qciDFY ,Patra
 mmsh://wm1.gmlogic.com/ch-patra?ovpsv=2.3.1.0&MSWMExt=.asf
 #EXTINF:-1 tvg-logo=https://goo.gl/qciDFY ,Patra
@@ -235,11 +235,11 @@ rtmp://204.77.214.15:80/mogulus-stream-edge/channel9gr/rtmp://212-47.livestream.
 #EXTINF:-1 tvg-logo=http://i.imgur.com/gCki3IN.png ,GREEK CINEMA 
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8 
 #EXTINF:-1 ,SPICY
-http://bit.ly/2lKaVOW
+http://bit.ly/1lKaVOW
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kvjeCxR.png",FUN TV
 rtmp://live.streams.ovh/Ellastv/Ellastv
 #EXTINF:-1 ,Movie Play
-http://bit.ly/2l0o6Os
+http://bit.ly/1l0o6Os
 #EXTINF:-1 tvg-logo=http://i.imgur.com/ulePitj.png ,DIAVATA TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/cF6mgTb.png ,MPAXALO TV
@@ -247,7 +247,7 @@ http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/aSbiRC1.png,BERGINA
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
 #EXTINF:-1 ,PALMOS
-http://bit.ly/2lJzwVs
+http://bit.ly/1lJzwVs
 #EXTINF:-1 tvg-logo=https://goo.gl/RmY1lD ,MESSINIA WEB TV
 rtmp://176.9.123.140:1935/messinia/messinia
 #EXTINF:-1 tvg-logo=https://goo.gl/7tKqOl ,THLE MOUSIKH
@@ -257,7 +257,7 @@ http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/njCyV7W.jpg ,JAYZEE HD
 rtmp://77.92.76.135:1935/jayzee/livestream
 #EXTINF:-1 ,ROCK TV
-http://bit.ly/2mk3eSs
+http://bit.ly/1mk3eSs
 #EXTINF:-1 tvg-logo=https://goo.gl/NckoRD ,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/0lhA7g ,KLIK FM WEB TV
@@ -287,7 +287,7 @@ mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 tvg-logo=http://www.vipoland.com/wp-content/uploads/Smile.jpg,SMILE 
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" ,Nick
-http://bit.ly/2lJYAdB
+http://bit.ly/1lJYAdB
 #EXTINF:-1 ,Movies TV
 rtmp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 ,Movies TV
