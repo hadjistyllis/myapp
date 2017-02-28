@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/2/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/2/17
 http://.....
 
 
@@ -165,16 +165,18 @@ http://185.63.196.22:8000/play/a080
 http://193.8.246.110:8880/play/10090
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
+#EXTINF:-1,Disney Channel 
+http://149.202.63.35:8080/disney/playlist.m3u8
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
 http://5.255.90.223:5000/play/a00b
 #EXTINF:-1,Nickelodeon (EN/GR)
 http://bit.ly/2lJYAdB
+#EXTINF:0, Nick Jr
+http://149.202.63.35:8080/nickjr/playlist.m3u8
 #EXTINF:0,Nick Jr
 http://5.189.66.71:4022//udp/239.255.2.218:1234
-#EXTINF:-1,Nick.Jnr 
-http://185.63.196.22:8000/play/a046 
 #EXTINF:0,Nick Jr
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 #EXTINF:-1,Nick Jr.
@@ -293,6 +295,16 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1, VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
+#EXTINF:-1,MTV 
+http://95.213.150.98:8889/MTV 
+#EXTINF:-1,MTV Dance 
+http://95.213.150.98:8889/MTVDance 
+#EXTINF:-1,MTV Hits 
+http://95.213.150.98:8889/MTVHits 
+#EXTINF:-1,MTV Rocks 
+http://95.213.150.98:8889/MTVRocks 
+#EXTINF:-1,MCM Top 
+http://95.213.150.98:8889/MCMTop
 #EXTINF:0,MTV Live HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
 #EXTINF:0,MTV Live HD
@@ -383,42 +395,8 @@ http://37.46.192.238:10000/play/a007/index.m3u8
 #EXTINF:-1,Premium Sport 2 HD
 http://37.46.192.238:10000/play/a006/index.m3u8
 
-#EXTINF:-1,501. SKY SPORTS NEWS
-http://178.33.239.54:8080/sky_sport_news/index.m3u8
-#EXTINF:-1,502. SKY SPORT 1
-http://178.33.239.54:8080/sky_sport_1/index.m3u8
-#EXTINF:-1,503. SKY SPORT 2
-http://178.33.239.54:8080/sky_sport_2/index.m3u8
-#EXTINF:-1,504. SKY SPORT 3
-http://178.33.239.54:8080/sky_sport_3/index.m3u8
-#EXTINF:-1,505. SKY SPORT 4
-http://178.33.239.54:8080/sky_sport_4/index.m3u8
-#EXTINF:-1,506. SKY SPORT 5
-http://178.33.239.54:8080/sky_sport_5/index.m3u8
-#EXTINF:-1,507. BT SPORTS 1
-http://178.33.239.54:8080/bt_sports_1/index.m3u8
-#EXTINF:-1,508. BT SPORTS 2
-http://178.33.239.54:8080/bt_sports_2/index.m3u8
-#EXTINF:-1,509. BT SPORT 3
-http://178.33.239.54:8080/BT_Sport_EuropeHD/index.m3u8
-#EXTINF:-1,510. CANAL+ SPORT
-http://178.33.239.54:8080/canal_plus_sport/index.m3u8
-#EXTINF:-1,512. beIN SPORT 1
-http://178.33.239.54:8080/beinsport_1_hd/index.m3u8
-#EXTINF:-1,513. beIN SPORT 2
-http://178.33.239.54:8080/beinsport_2_hd/index.m3u8
-#EXTINF:-1,517. SUPER SPORTS 1
-http://178.33.239.54:8080/Supersports1/index.m3u8
-#EXTINF:-1,518. SUPER SPORTS 2
-http://178.33.239.54:8080/Supersports2/index.m3u8
-#EXTINF:-1,521. SUPER SPORTS 3
-http://178.33.239.54:8080/Supersports3/index.m3u8
-#EXTINF:-1,525. SUPER SPORTS 4
-http://178.33.239.54:8080/Supersports4/index.m3u8
-#EXTINF:-1,533. BOX NATION
-http://178.33.239.54:8080/Box_Nation/index.m3u8
-#EXTINF:-1,534. EURO SPORT 2
-http://178.33.239.54:8080/Euro_Sport2/index.m3u8
+Diema Sport 2 
+http://87.121.2.186:9002/2 
 
 #EXTINF:-1,CANAL+SPORT 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
