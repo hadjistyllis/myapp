@@ -777,24 +777,7 @@ http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8
 #EXTINF:-1,Zing 
 http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
-#EXTINF:-1,501. SKY SPORTS NEWS
-http://178.33.239.54:8080/sky_sport_news/index.m3u8
-#EXTINF:-1,502. SKY SPORT 1
-http://178.33.239.54:8080/sky_sport_1/index.m3u8
-#EXTINF:-1,503. SKY SPORT 2
-http://178.33.239.54:8080/sky_sport_2/index.m3u8
-#EXTINF:-1,504. SKY SPORT 3
-http://178.33.239.54:8080/sky_sport_3/index.m3u8
-#EXTINF:-1,505. SKY SPORT 4
-http://178.33.239.54:8080/sky_sport_4/index.m3u8
-#EXTINF:-1,506. SKY SPORT 5
-http://178.33.239.54:8080/sky_sport_5/index.m3u8
-#EXTINF:-1,507. BT SPORTS 1
-http://178.33.239.54:8080/bt_sports_1/index.m3u8
-#EXTINF:-1,508. BT SPORTS 2
-http://178.33.239.54:8080/bt_sports_2/index.m3u8
-#EXTINF:-1,509. BT SPORT 3
-http://178.33.239.54:8080/BT_Sport_EuropeHD/index.m3u8
+
 
 #EXTINF:-1,BBC One Lon
 http://80.25.87.6:9981/stream/channelid/1936535934
@@ -929,7 +912,24 @@ http://51.255.71.41:8080/Eurosport1/index.m3u8
 #EXTINF:0,Eurosport2
 http://51.255.71.41:8080/Eurosport2/index.m3u8
 
-
+#EXTINF:-1,501. SKY SPORTS NEWS
+http://178.33.239.54:8080/sky_sport_news/index.m3u8
+#EXTINF:-1,502. SKY SPORT 1
+http://178.33.239.54:8080/sky_sport_1/index.m3u8
+#EXTINF:-1,503. SKY SPORT 2
+http://178.33.239.54:8080/sky_sport_2/index.m3u8
+#EXTINF:-1,504. SKY SPORT 3
+http://178.33.239.54:8080/sky_sport_3/index.m3u8
+#EXTINF:-1,505. SKY SPORT 4
+http://178.33.239.54:8080/sky_sport_4/index.m3u8
+#EXTINF:-1,506. SKY SPORT 5
+http://178.33.239.54:8080/sky_sport_5/index.m3u8
+#EXTINF:-1,507. BT SPORTS 1
+http://178.33.239.54:8080/bt_sports_1/index.m3u8
+#EXTINF:-1,508. BT SPORTS 2
+http://178.33.239.54:8080/bt_sports_2/index.m3u8
+#EXTINF:-1,509. BT SPORT 3
+http://178.33.239.54:8080/BT_Sport_EuropeHD/index.m3u8
 
 
 
@@ -1773,6 +1773,65 @@ mms://100automoto.tv/channel_mercedes
 #EXTINF:0,channel porsche
 mms://100automoto.tv/channel_porsche
 
+Diema Sport 2 
+http://87.121.2.186:9002/2 
+
+#EXTINF:-1, balkanika 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=balkanika 
+#EXTINF:-1, bnt-1 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=bnt-1 
+#EXTINF:-1, bnt-2 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=bnt-2 
+#EXTINF:-1, btv 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=btv 
+#EXTINF:-1, btv-action 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=btv-action 
+#EXTINF:-1, btv-cinema 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=btv-cinema 
+#EXTINF:-1, btv-comedy 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=btv-comedy 
+#EXTINF:-1, btv-lady 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=btv-lady 
+#EXTINF:-1, diema 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=diema 
+#EXTINF:-1, diema-sport 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=diema-sport 
+#EXTINF:-1, diema-sport-2 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=diema-sport-2 
+#EXTINF:-1, discovery-channel 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=discovery-channel 
+#EXTINF:-1, disney-channel 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=disney-channel 
+#EXTINF:-1, eurosport-1 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=eurosport-1 
+#EXTINF:-1, eurosport-2 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=eurosport-2 
+#EXTINF:-1, fen-tv 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=fen-tv 
+#EXTINF:-1, fox 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=fox 
+#EXTINF:-1, fox-crime 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=fox-crime 
+#EXTINF:-1, fox-life 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=fox-life 
+#EXTINF:-1, id-extra 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=id-extra 
+#EXTINF:-1, kanal-3 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=kanal-3 
+#EXTINF:-1, nat-geo-wild 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=nat-geo-wild 
+#EXTINF:-1, national-geographic 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=national-geographic 
+#EXTINF:-1, nova-sport 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=nova-sport 
+#EXTINF:-1, nova-tv 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=nova-tv 
+#EXTINF:-1, planeta-tv 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=planeta-tv 
+#EXTINF:-1, ring-tv 
+http://62.210.143.43/tv/seirsanduk.com.php?url=http://www.seirsanduk.com/?id=ring-tv
+
+
 #EXTINF:-1,24Kitchen
 http://130.185.232.87:1234/24Kitchen.m3u8
 #EXTINF:-1,bTV
@@ -2042,6 +2101,241 @@ http://37.46.192.238:10000/play/a004/index.m3u8
 #EXTINF:0,PADRE PIO TV
 http://37.46.192.238:10000/play/a00g/index.m3u8
 
+
+#EXTINF:-1, Premium Action HD
+http://beta.skystreaming.co:80/tv/l9CJzxxbPL/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWw5Q0p6eHhiUEwtMTQ4ODI4OTMyMzEzMDEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1CRUU1ZUhuaFc3ME9jSjQ1WXh3cTJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Action HD +24
+http://beta.skystreaming.co:80/tv/wppWMBdZBr/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXdwcFdNQmRaQnItMTQ4ODI4OTMyMzEzMDEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT11Y0tUZ3d5WmVNT0RtMjJUdExVTDFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema 2 HD
+http://beta.skystreaming.co:80/tv/pgJN3baeYt/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXBnSk4zYmFlWXQtMTQ4ODI4OTMyMzEzMDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT01ejRXM2s5OGZ3aEF6Ums1MSs2T2FnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema 2 HD +24
+http://beta.skystreaming.co:80/tv/X4d5o27DMA/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVg0ZDVvMjdETUEtMTQ4ODI4OTMyMzEzMDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1QYTJKVlE0MkcrQXovWTZFV1ZOZUVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema 24 HD
+http://beta.skystreaming.co:80/tv/3Zp2MlMWlr/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTNacDJNbE1XbHItMTQ4ODI4OTMyMzEzMDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1HT3h0ZklMNkt5bDhkR2ZjQm5YRmhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema Emotion
+http://beta.skystreaming.co:80/tv/JliIhHsz1P/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUpsaUloSHN6MVAtMTQ4ODI4OTMyMzEzMDMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT13enZWNWE5cXFpL3I0TE9uU1JnUC9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema Energy
+http://beta.skystreaming.co:80/tv/DkHLzA7fyh/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LURrSEx6QTdmeWgtMTQ4ODI4OTMyMzEzMDMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1sSHJiVUNHSW1EMzdJU2JQWStYWit3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Cinema HD 
+http://beta.skystreaming.co:80/tv/D2sJgZ3Eo7/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUQyc0pnWjNFbzctMTQ4ODI4OTMyMzEzMDQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1iSDlrUUdXdlhOQm5WeFRmSmRFeWlBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Comedy
+http://beta.skystreaming.co:80/tv/jZSs1f6Asn/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWpaU3MxZjZBc24tMTQ4ODI4OTMyMzEzMDQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1MS1J6K05tOGJMU2tWUHRIWmFTUXRRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Crime 24 HD 
+http://beta.skystreaming.co:80/tv/pCzH8qdpAX/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXBDekg4cWRwQVgtMTQ4ODI4OTMyMzEzMDQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT02VmI3VDJqYkJFR3pvSTZTci9INXF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Crime HD
+http://beta.skystreaming.co:80/tv/qmlPdSz6A5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXFtbFBkU3o2QTUtMTQ4ODI4OTMyMzEzMDUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1VU2VSVHdCa1VQaWF5VWVGQ3RWSWhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Studio Universal 
+http://beta.skystreaming.co:80/tv/Ri7SmfgKKG/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVJpN1NtZmdLS0ctMTQ4ODI4OTMyMzEzMDUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1YOW5SdjRoMVByaGdKZTdLZHNyU09RPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema + 24 HD in Streaming
+http://beta.skystreaming.co:80/tv/ppITn8R24I/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXBwSVRuOFIyNEktMTQ4ODI4OTMyMzEzMDUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1JaGRGMkVRWmdwUnp2Q2YyZzYwOStBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema 1 HD Streaming
+http://beta.skystreaming.co:80/tv/12bb2404a5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTEyYmIyNDA0YTUtMTQ4ODI4OTMyMzEzMDYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1jSHFGemZ5TXlwQzY0WEZYMjNtaGd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Classics HD in Streaming
+http://beta.skystreaming.co:80/tv/8NUl8TwgwM/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LThOVWw4VHdnd00tMTQ4ODI4OTMyMzEzMDYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT11d1dVcFJXNmRuc3BrclprUmY3d0NBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Comedy HD streaming
+http://beta.skystreaming.co:80/tv/c918af9013/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWM5MThhZjkwMTMtMTQ4ODI4OTMyMzEzMDYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1xSzRCeHhkQWp0ZTRodEFGUmlrMlJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Cult HD Streaming
+http://beta.skystreaming.co:80/tv/df9d387f38/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWRmOWQzODdmMzgtMTQ4ODI4OTMyMzEzMDctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT04eHB6QVBqYUNzZUtreTNoQzJhUW9BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Family HD streaming
+http://beta.skystreaming.co:80/tv/a1f28cf783/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWExZjI4Y2Y3ODMtMTQ4ODI4OTMyMzEzMDctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT05MGlBZUptQmQvR3VmSlgzSm1XMURRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Hits HD streaming
+http://beta.skystreaming.co:80/tv/e8d6d38b58/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWU4ZDZkMzhiNTgtMTQ4ODI4OTMyMzEzMDctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1LRVJDanRyd1lpZUNHKy9udENzSFZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Max HD Streaming
+http://beta.skystreaming.co:80/tv/44f509abb6/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTQ0ZjUwOWFiYjYtMTQ4ODI4OTMyMzEzMDgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1xVW1VUEVGeUlXVy83QmF2TXoraVpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Cinema Passion HD streaming
+http://beta.skystreaming.co:80/tv/dd43db022c/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWRkNDNkYjAyMmMtMTQ4ODI4OTMyMzEzMDgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1WenF5WWlGUVlBVWprSTMrVnFXWERBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Eurosport 2 HD Streaming
+http://beta.skystreaming.co:80/tv/f4f8509e5b/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY0Zjg1MDllNWItMTQ4ODI4OTMyMzEzMDgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT11WVlHMXBOQ0liaVA2MGlhUkVaL3hBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Eurosport HD in streaming
+http://beta.skystreaming.co:80/tv/e10025a864/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWUxMDAyNWE4NjQtMTQ4ODI4OTMyMzEzMDktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1PVkMwek5mZHpNMFVlcDlxbEt4Y3VBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Fox Sports HD streaming
+http://beta.skystreaming.co:80/tv/c532f07679/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWM1MzJmMDc2NzktMTQ4ODI4OTMyMzEzMDktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1FZklJeE4zdGlwWm5ZbUZ3QTlMZkhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Guarda Sport italia in Streaming
+http://beta.skystreaming.co:80/tv/zdB73MNozP/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXpkQjczTU5velAtMTQ4ODI4OTMyMzEzMDktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1XWVIra1A2cWNIdE9iZnQwUlh2RnpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Inter Channel
+http://beta.skystreaming.co:80/tv/k32S1BEhp5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWszMlMxQkVocDUtMTQ4ODI4OTMyMzEzMTAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0xcWVYTWhka3M1Y0dDd2FBV3hrNGVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Juventus TV
+http://beta.skystreaming.co:80/tv/I8LoY7b2av/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUk4TG9ZN2IyYXYtMTQ4ODI4OTMyMzEzMTAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0xZFRDZ2FMMnpKM3JYVHJvcUUyYXZRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Lazio Style Channel
+http://beta.skystreaming.co:80/tv/rqHpp5Ud3L/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXJxSHBwNVVkM0wtMTQ4ODI4OTMyMzEzMTEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1YaFptS2hVRm9ac2ZqRmRnOUE5d21BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Milan Channel Streaming
+http://beta.skystreaming.co:80/tv/Gus66hMEU5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUd1czY2aE1FVTUtMTQ4ODI4OTMyMzEzMTEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1ha1lhREx3YVVVN213MGF3bDdZWlZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 1 Streaming
+http://beta.skystreaming.co:80/tv/85077f92b0/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTg1MDc3ZjkyYjAtMTQ4ODI4OTMyMzEzMTEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1FRjhGbkVlVWkvd2E4UEtVWWdLUlJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 2 Streaming Diretta
+http://beta.skystreaming.co:80/tv/1276b953e5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTEyNzZiOTUzZTUtMTQ4ODI4OTMyMzEzMTItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1JREFGejErL3gvM0F1Ym50RjkvOEFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 3 Diretta Streaming
+http://beta.skystreaming.co:80/tv/2839e5769c/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTI4MzllNTc2OWMtMTQ4ODI4OTMyMzEzMTItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT10L2t4cG9FZzdGZWtoRDNLS0wrZ1l3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 4 Streaming Diretta
+http://beta.skystreaming.co:80/tv/d17f601bf5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWQxN2Y2MDFiZjUtMTQ4ODI4OTMyMzEzMTItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1GMXRRRWlmNExLOG5jbmNwRlpIb2RnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 5 Diretta Streaming
+http://beta.skystreaming.co:80/tv/16f7e937ae/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTE2ZjdlOTM3YWUtMTQ4ODI4OTMyMzEzMTMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT14blVoTm5oYnk1eDdyNDR3dkNwQkxBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 6 Streaming Diretta
+http://beta.skystreaming.co:80/tv/b1cbbd83e4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWIxY2JiZDgzZTQtMTQ4ODI4OTMyMzEzMTMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT15WHNqMmV6SVBoL1RQL2RwRGFDWU5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio 7 Diretta Streaming
+http://beta.skystreaming.co:80/tv/52c36837c2/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTUyYzM2ODM3YzItMTQ4ODI4OTMyMzEzMTMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1GdUpncUkyd0pJZUkxbXFIRTRUT0hBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio HD Diretta Streaming
+http://beta.skystreaming.co:80/tv/ad45193fb3/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWFkNDUxOTNmYjMtMTQ4ODI4OTMyMzEzMTQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1tRjF4K1ZFZ0NsbXJiMG55L2ZpcXZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Calcio Streaming Diretta
+http://beta.skystreaming.co:80/tv/bdf9756770/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWJkZjk3NTY3NzAtMTQ4ODI4OTMyMzEzMTQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT10ME9wdWtoUUdNOEp5SFg5WUxDVFBRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium SPORT 2 Streaming Online
+http://beta.skystreaming.co:80/tv/OVbOcw64Cr/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LU9WYk9jdzY0Q3ItMTQ4ODI4OTMyMzEzMTQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1KWUxsbEhGOU5EREJsN0JZalM3ZlVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Sport HD Diretta Streaming
+http://beta.skystreaming.co:80/tv/6be5cdb271/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTZiZTVjZGIyNzEtMTQ4ODI4OTMyMzEzMTUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1mOHd5QnVMSVR3c0dXMjNnUWhFd3ZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Roma TV
+http://beta.skystreaming.co:80/tv/xccA6nBFh0/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXhjY0E2bkJGaDAtMTQ4ODI4OTMyMzEzMTUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1SbHNaeW84Z2ZlelBiOUdPcHpwVlh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 1 HD Diretta Streaming
+http://beta.skystreaming.co:80/tv/9ad41aeda2/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTlhZDQxYWVkYTItMTQ4ODI4OTMyMzEzMTUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1UUU9uOW9hZkRmNXcrMGVSYVdKNGR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 2 HD Streaming Diretta
+http://beta.skystreaming.co:80/tv/f7d50fc521/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY3ZDUwZmM1MjEtMTQ4ODI4OTMyMzEzMTYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1rTUJ4VTZ3V0xiQ2N6OXpZWkluNVpBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 3 HD Streaming
+http://beta.skystreaming.co:80/tv/c7272e8029/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWM3MjcyZTgwMjktMTQ4ODI4OTMyMzEzMTYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1UbVNtSysvOTNmbkpQVkxJWE0rRml3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 4 HD Streaming
+http://beta.skystreaming.co:80/tv/d43f8d6eb4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWQ0M2Y4ZDZlYjQtMTQ4ODI4OTMyMzEzMTYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1IR1E1eFA2d3J4QmVoMUlkTm1iU3B3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 5 HD Streaming Live
+http://beta.skystreaming.co:80/tv/s9T3693YYV/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXM5VDM2OTNZWVYtMTQ4ODI4OTMyMzEzMTctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1JNkVjTTQ5eUpYdnMwSE5FMkxOQkxRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 6 HD in Streaming
+http://beta.skystreaming.co:80/tv/koTRkzE4hY/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWtvVFJrekU0aFktMTQ4ODI4OTMyMzEzMTctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1HLzBMYXlhSmVta2kzN0N2T2p6N0ZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 7 HD streaming live
+http://beta.skystreaming.co:80/tv/ZIflesGMwO/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVpJZmxlc0dNd08tMTQ4ODI4OTMyMzEzMTgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1qVXprbGtLV3N5L1R1eTdrZnpEMWVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Calcio 8 HD Streaming Live 
+http://beta.skystreaming.co:80/tv/de5jtYSx5w/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWRlNWp0WVN4NXctMTQ4ODI4OTMyMzEzMTgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1NM0t2YU5ZZW5LYzZMTmVtUG5mcnJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport 1 HD Streaming
+http://beta.skystreaming.co:80/tv/f8c5e4d4f7/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY4YzVlNGQ0ZjctMTQ4ODI4OTMyMzEzMTgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT05ZXE3Vzd2aUlDT2dDTFJKQktYdEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport 2 HD in Streaming Diretta
+http://beta.skystreaming.co:80/tv/5572c74ae4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTU1NzJjNzRhZTQtMTQ4ODI4OTMyMzEzMTktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1ZYTU4RThxRmNrZTE2d0ZRdWZwRi9BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport 3 HD in Streaming
+http://beta.skystreaming.co:80/tv/27f7a53e70/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTI3ZjdhNTNlNzAtMTQ4ODI4OTMyMzEzMTktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1ZQ0JZM3lITnZ0N2ZCbWo0VFhpNklnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport F1 HD Streaming
+http://beta.skystreaming.co:80/tv/078f53a17d/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTA3OGY1M2ExN2QtMTQ4ODI4OTMyMzEzMTktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1rVHhLZDM0UTBZaVB3R0VGUjNtOUF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport MotoGP HD Streaming
+http://beta.skystreaming.co:80/tv/f91ca0fc49/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY5MWNhMGZjNDktMTQ4ODI4OTMyMzEzMjAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1raWI3S1Jsd1ZwcUc3Um5RYklKdHp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport Plus HD Streaming
+http://beta.skystreaming.co:80/tv/4c675c0b2c/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTRjNjc1YzBiMmMtMTQ4ODI4OTMyMzEzMjAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1PdUd4YjYra0w0YXhUNVRvZG5YNDZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Sport24 HD Streaming
+http://beta.skystreaming.co:80/tv/e47dff851b/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWU0N2RmZjg1MWItMTQ4ODI4OTMyMzEzMjAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1QYUZ1ZFZFSERQQ1pwOTdsS3hJY2tBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Supercalcio HD in Streaming Diretta
+http://beta.skystreaming.co:80/tv/x4MUqPPBCh/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXg0TVVxUFBCQ2gtMTQ4ODI4OTMyMzEzMjEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1BblVWam45SzN1K1dNUU5tM1l4M3pnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, SuperTennis HD Streaming
+http://beta.skystreaming.co:80/tv/BVKjMOLGJb/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUJWS2pNT0xHSmItMTQ4ODI4OTMyMzEzMjEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1GdEJST1lXOEd5VUQwOEpmcnJnZDF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, AXN HD Streaming
+http://beta.skystreaming.co:80/tv/6defdcd0a5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTZkZWZkY2QwYTUtMTQ4ODI4OTMyMzEzMjEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT13WFI5aTlSM3UxcVc1L0tscVpXN1hnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, AXN Sci-Fi
+http://beta.skystreaming.co:80/tv/bEZEfV8AEK/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWJFWkVmVjhBRUstMTQ4ODI4OTMyMzEzMjItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1aYzJablZQb3BPRkY0azRpWEJuT3VnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Canale 5 Streaming
+http://beta.skystreaming.co:80/tv/m2tQs6FakH/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LW0ydFFzNkZha0gtMTQ4ODI4OTMyMzEzMjItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT13NERIMjZJOXEra1FaYU1IZ3VwMGVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, CI Crime+Investigation HD
+http://beta.skystreaming.co:80/tv/gmsdoVj857/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWdtc2RvVmo4NTctMTQ4ODI4OTMyMzEzMjItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT03eUtoUDl0a09XYWRTck1PUXpUMEhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Cielo HD in Streaming
+http://beta.skystreaming.co:80/tv/9cRnTfccPq/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTljUm5UZmNjUHEtMTQ4ODI4OTMyMzEzMjMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1WVkRObVdCSksyOXdMM05nU1VOVnFBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Comedy Central
+http://beta.skystreaming.co:80/tv/J30gyezwcr/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUozMGd5ZXp3Y3ItMTQ4ODI4OTMyMzEzMjMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT03NkJkdHM3RjhlNXkzdDNla2tpbU1BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Deejay TV Streaming
+http://beta.skystreaming.co:80/tv/GHcjzvyWXG/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUdIY2p6dnlXWEctMTQ4ODI4OTMyMzEzMjMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1PYS9RSGwwOHlYb2JWTU1uRVdDZnBRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, DMAX HD in Streaming
+http://beta.skystreaming.co:80/tv/lxtCHnFaPR/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWx4dENIbkZhUFItMTQ4ODI4OTMyMzEzMjQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT10YW40OTJMU2FLVWMraEpiZnRZQ1RnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Fox Comedy HD Streaming
+http://beta.skystreaming.co:80/tv/9250423363/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTkyNTA0MjMzNjMtMTQ4ODI4OTMyMzEzMjQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT12NVFSdkdFc3hWZzZhc3UrQVNvWFh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Fox Crime HD Streaming
+http://beta.skystreaming.co:80/tv/ab0a603839/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWFiMGE2MDM4MzktMTQ4ODI4OTMyMzEzMjQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1FdkExVEZ3MzRxeU4yRXRpTGlNQXJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, FOX HD Streaming
+http://beta.skystreaming.co:80/tv/cad3eb3bfb/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWNhZDNlYjNiZmItMTQ4ODI4OTMyMzEzMjUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT04VVBpR25aUy9HazRVczR1S2ZpUXpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Fox Life HD Streaming
+http://beta.skystreaming.co:80/tv/fe6103de50/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWZlNjEwM2RlNTAtMTQ4ODI4OTMyMzEzMjUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1HK015TGZPU3BMS0RMSTdIMkY5Z2lRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Guarda Canale Giallo in Streaming
+http://beta.skystreaming.co:80/tv/DBwJbgvSsF/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LURCd0piZ3ZTc0YtMTQ4ODI4OTMyMzEzMjUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1pbTllbi9vYU9rTlFGSmpHS1Q4OFBnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Guarda Premium Extra 1 HD in Streaming
+http://beta.skystreaming.co:80/tv/YFf0J0tLry/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVlGZjBKMHRMcnktMTQ4ODI4OTMyMzEzMjYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT02dFBObmtFR2wyUTJDTFRRSHpHQzJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Guarda Premium Extra 2 HD in Streaming
+http://beta.skystreaming.co:80/tv/4YeiH95Eh5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTRZZWlIOTVFaDUtMTQ4ODI4OTMyMzEzMjYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1FajdDc251L2hHaTBubkd5dnBHVzdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Italia 1 in Streaming Diretta
+http://beta.skystreaming.co:80/tv/BdYIxxMads/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUJkWUl4eE1hZHMtMTQ4ODI4OTMyMzEzMjctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1LQ2dCM0hDaUtZZnZKTUxTcDBVdTR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Italia 2 in Streaming
+http://beta.skystreaming.co:80/tv/Goh7MDo96d/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUdvaDdNRG85NmQtMTQ4ODI4OTMyMzEzMjctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT13aGhpTGh6NGFNdk45eVlrWS9qNkdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, La7 in Streaming
+http://beta.skystreaming.co:80/tv/8jcHiqfXa4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LThqY0hpcWZYYTQtMTQ4ODI4OTMyMzEzMjctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT12d0JlczNxNzZDdkFUWmNWazhmTkpBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Lei Streaming
+http://beta.skystreaming.co:80/tv/0701186d80/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTA3MDExODZkODAtMTQ4ODI4OTMyMzEzMjgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1KZXltSnZwYXJiWWJIS244TVRZajNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, MAN-GA
+http://beta.skystreaming.co:80/tv/7nCnbLSYo5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTduQ25iTFNZbzUtMTQ4ODI4OTMyMzEzMjgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1DVFdUK0xBb0I0VSsxdEJUT0dUODRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, MTV HD Streaming
+http://beta.skystreaming.co:80/tv/TbANU3pzHW/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVRiQU5VM3B6SFctMTQ4ODI4OTMyMzEzMjgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0rYXBrNkdNUHo3Z2lMTEtvRHJBUmxnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Joi
+http://beta.skystreaming.co:80/tv/MXOSPJPvC3/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LU1YT1NQSlB2QzMtMTQ4ODI4OTMyMzEzMjktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1saDk3Rm90clAxaGs1RHZyV0RKNE93PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Premium Stories
+http://beta.skystreaming.co:80/tv/ggJu0lTcAj/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWdnSnUwbFRjQWotMTQ4ODI4OTMyMzEzMjktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT14MFlNbzFva0VVamQ4OHJjNTZxcEtBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Rai Due Streaming
+http://beta.skystreaming.co:80/tv/fAToab4m1j/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWZBVG9hYjRtMWotMTQ4ODI4OTMyMzEzMzAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1QQm5McDA1V1ZJcVdIZEZaSlV1dnF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Rai Tre Streaming
+http://beta.skystreaming.co:80/tv/p2D5fsnEvQ/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXAyRDVmc25FdlEtMTQ4ODI4OTMyMzEzMzAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1JYThwaG1pK2ZWWExmeDdjdElIa29RPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Rai Uno
+http://beta.skystreaming.co:80/tv/XPUuvlPDMV/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVhQVXV2bFBETVYtMTQ4ODI4OTMyMzEzMzAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1iNFo5bnF4Y0d0QUNXZm02Q1NxbVdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Real Time HD Streaming
+http://beta.skystreaming.co:80/tv/tU9v4C37jJ/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXRVOXY0QzM3akotMTQ4ODI4OTMyMzEzMzEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1XaVk4Q21zbTc2TjVQeEZnSnpmL0l3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Rete 4 in Streaming
+http://beta.skystreaming.co:80/tv/OMTplkFDAA/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LU9NVHBsa0ZEQUEtMTQ4ODI4OTMyMzEzMzEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1rZHM2ckg3TDlVNC9MUHRkUTJXK1F3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Arte HD Streaming
+http://beta.skystreaming.co:80/tv/902586730c/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTkwMjU4NjczMGMtMTQ4ODI4OTMyMzEzMzEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1ZUFRoMmpYQlE0RERPYXY0cTVzdG1BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Atlantic HD Streaming
+http://beta.skystreaming.co:80/tv/6744816d95/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTY3NDQ4MTZkOTUtMTQ4ODI4OTMyMzEzMzItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1CZFFoYkt3QllyeVF0c0lnbzdUVmJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Sky Uno HD Streaming
+http://beta.skystreaming.co:80/tv/337a208917/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTMzN2EyMDg5MTctMTQ4ODI4OTMyMzEzMzItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1OZkl4aEs0VFhaVlhqcXBkNFJRVEtRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Animal Planet in Streaming Italia
+http://beta.skystreaming.co:80/tv/RRWO8P41LT/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVJSV084UDQxTFQtMTQ4ODI4OTMyMzEzMzItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT05MFJpUitpVHRreGdwTk15UlFidHlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Caccia Canale SKY
+http://beta.skystreaming.co:80/tv/Z1CMTLHMiB/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LVoxQ01UTEhNaUItMTQ4ODI4OTMyMzEzMzMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0zZm11dnVBc2hNbXpoUVZXTVFEZzJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Discovery Channel HD Streaming
+http://beta.skystreaming.co:80/tv/872f73b3a4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTg3MmY3M2IzYTQtMTQ4ODI4OTMyMzEzMzMtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1OQzFpYjVQOGhEenFuRnZ5UXN4QkFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Discovery Investigation
+http://beta.skystreaming.co:80/tv/F1zt44Lz31/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUYxenQ0NEx6MzEtMTQ4ODI4OTMyMzEzMzQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1QbmxhWHY0R1BJbEEwaDdKVmhJRWdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Discovery Science HD Streaming
+http://beta.skystreaming.co:80/tv/5d70a2f089/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTVkNzBhMmYwODktMTQ4ODI4OTMyMzEzMzQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1kQkN4ZUx5bE9Demd3eUN3TEFVSGVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Discovery Travel & Living HD 
+http://beta.skystreaming.co:80/tv/Fa72lgDBFq/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUZhNzJsZ0RCRnEtMTQ4ODI4OTMyMzEzMzQtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0vREp5Rm5tTktqZVUvRXpQaUJhTnJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, eXplora HD Streaming
+http://beta.skystreaming.co:80/tv/5cd84f3bcc/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTVjZDg0ZjNiY2MtMTQ4ODI4OTMyMzEzMzUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1zTzNLNUtsUVNNdnFWSEkzcG1iOTJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Focus Tv in Streaming
+http://beta.skystreaming.co:80/tv/CKL6VB0fUZ/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUNLTDZWQjBmVVotMTQ4ODI4OTMyMzEzMzUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT16UTF2eXk5U3c0VEJac0FNWTBSU0N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Gambero Rosso HD in Streaming LIVE
+http://beta.skystreaming.co:80/tv/MId2jX1AKI/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LU1JZDJqWDFBS0ktMTQ4ODI4OTMyMzEzMzUtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1Ydm5KMU42SnlxZjRtdVRKcWE0OGZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, History Channel HD Streaming
+http://beta.skystreaming.co:80/tv/d99bf5a566/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWQ5OWJmNWE1NjYtMTQ4ODI4OTMyMzEzMzYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1lQkJxS1JCYWJwNXRpaWZDYldmcEpnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Nat Geo People HD Streaming
+http://beta.skystreaming.co:80/tv/487a978f53/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTQ4N2E5NzhmNTMtMTQ4ODI4OTMyMzEzMzYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT0yeXdYRmlJQ0hoaVR4K2tIZE9sVGhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Nat Geo Wild HD Streaming
+http://beta.skystreaming.co:80/tv/878a4e87e0/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTg3OGE0ZTg3ZTAtMTQ4ODI4OTMyMzEzMzYtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1na1RjWGNDM0R5azlzaWxnbVlOeTd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, National Geo HD in Streaming Gratis
+http://beta.skystreaming.co:80/tv/f5d6f75d2a/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY1ZDZmNzVkMmEtMTQ4ODI4OTMyMzEzMzctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1hNFZicGpiUlNkWkF6N1QxbkZmYStBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Pesca Canale SKY
+http://beta.skystreaming.co:80/tv/2REtSOnDbh/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTJSRXRTT25EYmgtMTQ4ODI4OTMyMzEzMzctODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1wVGtRWkVtSlBWT252OW5SQWVBOXh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Cartoon Network Streaming
+http://beta.skystreaming.co:80/tv/1f9600c1e4/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTFmOTYwMGMxZTQtMTQ4ODI4OTMyMzEzMzgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT00bENzaEZuUkY5eWxaaGlzOEZRZ2xBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Disney Channel +1 in Streaming
+http://beta.skystreaming.co:80/tv/ARlgF5r5Wg/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUFSbGdGNXI1V2ctMTQ4ODI4OTMyMzEzMzgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT16dERqZjhuYUZaU2E3dXlZemRSWm93PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Disney Channel HD streaming
+http://beta.skystreaming.co:80/tv/f7337e6b5e/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWY3MzM3ZTZiNWUtMTQ4ODI4OTMyMzEzMzgtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT03cUphblZtK0lzQ2g5VlBvN2NVK2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Disney Junior in Streaming
+http://beta.skystreaming.co:80/tv/dsHSqtOtvH/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWRzSFNxdE90dkgtMTQ4ODI4OTMyMzEzMzktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1oVUdnc0s4NDBXM1NBMlpHS0oySHFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Disney XD HD in Streaming
+http://beta.skystreaming.co:80/tv/GUfgxdQdt3/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LUdVZmd4ZFFkdDMtMTQ4ODI4OTMyMzEzMzktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1EQkxVbjhVZDlWV01rMWxROENHNDhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Fox Animation HD Streaming
+http://beta.skystreaming.co:80/tv/4c77bce0f5/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTRjNzdiY2UwZjUtMTQ4ODI4OTMyMzEzMzktODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT16WG5qbDJSTHZlNTgzTC9ya1FncUR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Frisbee Streaming
+http://beta.skystreaming.co:80/tv/f381266414/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWYzODEyNjY0MTQtMTQ4ODI4OTMyMzEzNDAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1mdEtjK3lZeG82bW1QUWJucmc3bHlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, K2 Streaming
+http://beta.skystreaming.co:80/tv/2d330b748f/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTJkMzMwYjc0OGYtMTQ4ODI4OTMyMzEzNDAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1KZ1pUbTRNdG5DL2c2OTJQZ0txRStnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Nick Junior
+http://beta.skystreaming.co:80/tv/odcic7pJDl/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LW9kY2ljN3BKRGwtMTQ4ODI4OTMyMzEzNDAtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1EbFMzL0FzN3RqZFRkVFdIY09TWVFBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Nickelodeon in Streaming
+http://beta.skystreaming.co:80/tv/rbxOkDAyL2/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXJieE9rREF5TDItMTQ4ODI4OTMyMzEzNDEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT15VHFGTzA1cDVVWGNsRVE0b1RsZW9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Rai Scuola Streaming 
+http://beta.skystreaming.co:80/tv/8t7ssUUTnE/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LTh0N3NzVVVUbkUtMTQ4ODI4OTMyMzEzNDEtODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1DWXZrQmRyYmdjTk5JTW9BZzR0WFhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Super! in Streaming
+http://beta.skystreaming.co:80/tv/j2KKvZgCgN/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWoyS0t2WmdDZ04tMTQ4ODI4OTMyMzEzNDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1malVXM1hZSUQrSDF0ZFUwa1psT3dnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, M2O TV in Streaming
+http://beta.skystreaming.co:80/tv/qYZKK7FEfu/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LXFZWktLN0ZFZnUtMTQ4ODI4OTMyMzEzNDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1mR1hQNi9tdlBPeE1leEMrL3FJaStRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Radio Italia Tv in Streaming
+http://beta.skystreaming.co:80/tv/gJThnZSgMz/playlist.m3u8?wmsAuthSign=aWQ9NTk3NjU0LWdKVGhuWlNnTXotMTQ4ODI4OTMyMzEzNDItODcuMTQ5LjE2NS4xMDUmc2VydmVyX3RpbWU9Mi8yOC8yMDE3IDE6NDI6MDMgUE0maGFzaF92YWx1ZT1qVTliOG4rQk5NRks3V2pLQjR3OVF3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 
