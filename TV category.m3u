@@ -171,12 +171,22 @@ http://188.122.232.187:4022/udp/232.0.1.49:1234
 http://31.28.33.150:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:8181/udp/226.0.3.2:12345
+#EXTINF:-1,Cartoon Network
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/226.m3u8
+#EXTINF:-1,Boomerang
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/227.m3u8
+#EXTINF:-1,Disney XD
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/230.m3u8
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
 #EXTINF:-1,Disney Channel 
 http://149.202.63.35:8080/disney/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/231.m3u8
+#EXTINF:-1,Disney Junior
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/232.m3u8
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
@@ -189,6 +199,10 @@ http://31.28.33.150:4022/udp/232.0.1.39:1234
 http://5.255.90.223:5000/play/a00b
 #EXTINF:-1,Nickelodeon (EN/GR)
 http://bit.ly/1lJYAdB
+#EXTINF:-1,Nick
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/228.m3u8
+#EXTINF:-1,Nicktoons
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/229.m3u8
 #EXTINF:0, Nick Jr
 http://149.202.63.35:8080/nickjr/playlist.m3u8
 #EXTINF:0,Nick Jr
@@ -197,6 +211,8 @@ http://5.189.66.71:4022//udp/239.255.2.218:1234
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
+#EXTINF:-1,Nick Jr
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/237.m3u8
 #EXTINF:-1,Nick Jr.
 http://5.255.90.223:5000/play/a008
 #EXTINF:-1,Nick Jr+1
@@ -207,6 +223,11 @@ http://5.255.90.223:5000/play/a002
 http://5.255.90.223:5000/play/a009
 #EXTINF:-1,Nick Jr Peppa
 http://5.255.90.223:5000/play/a00c
+#EXTINF:-1,CBeebies HD
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/235.m3u8
+#EXTINF:-1,CBeebies
+http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/236.m3u8
+
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
