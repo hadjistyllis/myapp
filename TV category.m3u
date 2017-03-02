@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/2/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/2/17
 http://.....
 
 
@@ -408,9 +408,12 @@ http://stream.smcloud.net/live/eskatv/playlist.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:5 group-title=”Sports”,
-
-
 
 
 #EXTINF:0,Auto Plus
@@ -434,9 +437,6 @@ http://37.46.192.238:10000/play/a007/index.m3u8
 #EXTINF:-1,Premium Sport 2 HD
 http://37.46.192.238:10000/play/a006/index.m3u8
 
-Diema Sport 2 
-http://87.121.2.186:9002/2 
-
 #EXTINF:-1,SPORTS
 http://188.68.234.150/live//ch1/index.m3u8
 #EXTINF:-1,SPORTS 
@@ -445,29 +445,6 @@ http://188.68.234.150/live//ch2/index.m3u8
 http://188.68.234.150/live//ch3/index.m3u8
 #EXTINF:-1,SPORTS
 http://188.68.234.150/live//ch4/index.m3u8
-
-#EXTINF:-1,bein1
-http://149.202.63.35:8080/bein1/playlist.m3u8
-#EXTINF:-1,bein2 HD
-http://149.202.63.35:8080/bein2/playlist.m3u8
-#EXTINF:-1,bein3 HD
-http://149.202.63.35:8080/bein3/playlist.m3u8
-#EXTINF:-1,bein4 HD
-http://149.202.63.35:8080/bein4/playlist.m3u8
-#EXTINF:-1,bein5 HD
-http://149.202.63.35:8080/bein5/playlist.m3u8
-#EXTINF:-1,bein7
-http://149.202.63.35:8080/bein7/playlist.m3u8
-#EXTINF:-1,bein8
-http://149.202.63.35:8080/bein8/playlist.m3u8
-#EXTINF:-1,bein9
-http://149.202.63.35:8080/bein9/playlist.m3u8
-#EXTINF:-1,bein10 HD
-http://149.202.63.35:8080/bein10/playlist.m3u8
-#EXTINF:-1,bein11
-http://149.202.63.35:8080/bein11/playlist.m3u8
-#EXTINF:-1,bein12 HD
-http://149.202.63.35:8080/bein12/playlist.m3u8
 
 #EXTINF:-1,Sky Sports 1
 http://109.167.51.2:1935/pil/skysp1/playlist.m3u8
@@ -479,6 +456,15 @@ http://109.167.51.2:1935/pil/skysp3/playlist.m3u8
 http://109.167.51.2:1935/pil/skysp4/playlist.m3u8
 #EXTINF:-1,Sky Sports  5
 http://109.167.51.2:1935/pil/skysp5/playlist.m3u8
+
+#EXTINF:-1,BT Sports Extra 1
+http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 2
+http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 3
+http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
+#EXTINF:-1,BT Sports Extra 4
+http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 
 #EXTINF:-1,IDMAN
 http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
