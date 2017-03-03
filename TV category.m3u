@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/2/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/3/17
 http://.....
 
 
@@ -161,6 +161,10 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
 http://80.77.52.6:8181/udp/226.0.3.8:12345
+#EXTINF:-1,Boomerang USA
+http://live.iptvcanales.com/hls/543/playlist.m3u8?ragnar=lodbrok
+#EXTINF:-1,Cartoon Network USA
+http://live.iptvcanales.com/hls/550/playlist.m3u8?ragnar=lodbrok
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -171,22 +175,16 @@ http://188.122.232.187:4022/udp/232.0.1.49:1234
 http://31.28.33.150:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:8181/udp/226.0.3.2:12345
-#EXTINF:-1,Cartoon Network
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/226.m3u8
-#EXTINF:-1,Boomerang
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/227.m3u8
-#EXTINF:-1,Disney XD
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/230.m3u8
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
+#EXTINF:-1,Disney XD USA
+http://live.iptvcanales.com/hls/549/playlist.m3u8?ragnar=lodbrok
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
 #EXTINF:-1,Disney Channel 
 http://149.202.63.35:8080/disney/playlist.m3u8
-#EXTINF:-1,Disney Channel
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/231.m3u8
-#EXTINF:-1,Disney Junior
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/232.m3u8
+#EXTINF:-1,Disney Jr
+http://live.iptvcanales.com/hls/542/playlist.m3u8?ragnar=lodbrok
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
@@ -199,10 +197,10 @@ http://31.28.33.150:4022/udp/232.0.1.39:1234
 http://5.255.90.223:5000/play/a00b
 #EXTINF:-1,Nickelodeon (EN/GR)
 http://bit.ly/1lJYAdB
-#EXTINF:-1,Nick
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/228.m3u8
-#EXTINF:-1,Nicktoons
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/229.m3u8
+#EXTINF:-1,Nickelodeon East
+http://live.iptvcanales.com/hls/544/playlist.m3u8?ragnar=lodbrok
+#EXTINF:-1,SKY Disney
+http://live.iptvcanales.com/hls/548/playlist.m3u8?ragnar=lodbrok
 #EXTINF:0, Nick Jr
 http://149.202.63.35:8080/nickjr/playlist.m3u8
 #EXTINF:0,Nick Jr
@@ -211,22 +209,18 @@ http://5.189.66.71:4022//udp/239.255.2.218:1234
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
-#EXTINF:-1,Nick Jr
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/237.m3u8
 #EXTINF:-1,Nick Jr.
 http://5.255.90.223:5000/play/a008
 #EXTINF:-1,Nick Jr+1
 http://5.255.90.223:5000/play/a00a
 #EXTINF:-1,Nicktoons
 http://5.255.90.223:5000/play/a002
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1,Nick Jr Too
 http://5.255.90.223:5000/play/a009
 #EXTINF:-1,Nick Jr Peppa
 http://5.255.90.223:5000/play/a00c
-#EXTINF:-1,CBeebies HD
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/235.m3u8
-#EXTINF:-1,CBeebies
-http://watch.fluxtv.online:25461/live/stevie_mayniac@hotmail.com/1X70Dr9wxz/236.m3u8
 
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
@@ -334,6 +328,20 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1, VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
+#EXTINF:-1,MTV Rocks 
+http://37.46.192.226:9000/play/a002/index.m3u8 
+#EXTINF:-1,MTV Hits 
+http://37.46.192.226:9000/play/a003/index.m3u8 
+#EXTINF:-1,MTV Classic 
+http://37.46.192.226:9000/play/a005/index.m3u8 
+#EXTINF:-1,MTV One 
+http://37.46.192.226:9000/play/a008/index.m3u8 
+#EXTINF:-1,MTV Music 
+http://37.46.192.226:9000/play/a006/index.m3u8 
+#EXTINF:-1,MTV Base 
+http://37.46.192.226:9000/play/a004/index.m3u8 
+#EXTINF:-1,MTV Dance 
+http://37.46.192.226:9000/play/a007/index.m3u8
 #EXTINF:-1,MTV 
 http://95.213.150.98:8889/MTV 
 #EXTINF:-1,MTV Dance 
@@ -446,16 +454,32 @@ http://188.68.234.150/live//ch3/index.m3u8
 #EXTINF:-1,SPORTS
 http://188.68.234.150/live//ch4/index.m3u8
 
-#EXTINF:-1,Sky Sports 1
-http://109.167.51.2:1935/pil/skysp1/playlist.m3u8
-#EXTINF:-1,Sky Sports 2
-http://109.167.51.2:1935/pil/skysp2/playlist.m3u8
-#EXTINF:-1,Sky Sports 3
-http://109.167.51.2:1935/pil/skysp3/playlist.m3u8
-#EXTINF:-1,Sky Sports  4
-http://109.167.51.2:1935/pil/skysp4/playlist.m3u8
-#EXTINF:-1,Sky Sports  5
-http://109.167.51.2:1935/pil/skysp5/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,АРЕНА СПОРТ 5
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX sports 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 6
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
+#EXTINF:0,#EXTINF:-1,США:FOX SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
+#EXTINF:0,#EXTINF:-1,США:FOX sports 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
 
 #EXTINF:-1,BT Sports Extra 1
 http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
