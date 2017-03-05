@@ -55,6 +55,8 @@ http://bit.ly/2mskYL9
 http://bit.ly/2m7JW00
 #EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus
 http://bit.ly/2lsBlrE
+#EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
+http://bit.ly/2mpLp3F
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
