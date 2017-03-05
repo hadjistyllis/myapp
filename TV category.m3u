@@ -195,10 +195,14 @@ http://188.122.232.187:4022/udp/232.0.1.39:1234
 http://31.28.33.150:4022/udp/232.0.1.39:1234
 #EXTINF:-1,Nickelodeon
 http://5.255.90.223:5000/play/a00b
+#EXTINF:0,nickelodeon (GR)
+http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8
 #EXTINF:-1,Nickelodeon (EN/GR)
 http://bit.ly/1lJYAdB
 #EXTINF:-1,Nickelodeon East
 http://live.iptvcanales.com/hls/544/playlist.m3u8?ragnar=lodbrok
+#EXTINF:-1,CITV
+http://80.25.87.6:9981/stream/channelid/407885248
 #EXTINF:-1,SKY Disney
 http://live.iptvcanales.com/hls/548/playlist.m3u8?ragnar=lodbrok
 #EXTINF:0, Nick Jr
