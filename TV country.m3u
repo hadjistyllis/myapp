@@ -36,25 +36,25 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=https://goo.gl/7X3mcE ,RIKSAT
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 #EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png/revision/latest?cb=20161008211537 ,RIK1
-http://38.99.163.117/nimble_live/rik1_low/playlist.m3u8
+http://bit.ly/2lsCEqq
 #EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo= http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png/revision/latest?cb=20161008211644 ,RIK2
-http://38.99.163.117/nimble_live/rik2_low/playlist.m3u8
+http://bit.ly/2mrZ5vq
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-http://38.99.163.117/nimble_live/sigma/playlist.m3u8
+http://bit.ly/2lL7u8Z
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=https://pbs.twimg.com/profile_images/710450524873576449/fr3E0Hc4.jpg ,ALPHA CY
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
-http://38.99.163.117/nimble_live/megaCY_low/playlist.m3u8
+http://bit.ly/2maGWBj
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1
-http://38.99.163.117/nimble_live/ant1CY_low/playlist.m3u8
+http://bit.ly/2mskYL9
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
-http://38.99.163.117/nimble_live/capital_low/playlist.m3u8
+http://bit.ly/2m7JW00
 #EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus
-http://38.99.163.117/nimble_live/plus_low/playlist.m3u8
+http://bit.ly/2lsBlrE
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
@@ -62,9 +62,9 @@ rtmp://144.76.2.213/live/livestream
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
 rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0,EuroSport 2
-http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8
+http://bit.ly/2msf2Sm
 #EXTINF:0,EuroSport 1
-http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8
+http://bit.ly/2maCH8Q
 
 
 
@@ -316,7 +316,7 @@ mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 tvg-logo=http://www.vipoland.com/wp-content/uploads/Smile.jpg,SMILE 
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:0,nickelodeon (EN/GR)
-http://38.99.163.117/nickelodeon/nickelodeon/playlist.m3u8
+http://bit.ly/2lLgg6P
 #EXTINF:-1 tvg-name="Nick" ,Nick
 http://bit.ly/1lJYAdB
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
@@ -326,9 +326,9 @@ rtsp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo TV
 http://138.201.25.26:1935/yolo/yolo/playlist.m3u8
 #EXTINF:0,EuroSport 2
-http://38.99.163.117/nimble_live/EUROSPORT2/playlist.m3u8
+http://bit.ly/2msf2Sm
 #EXTINF:0,EuroSport 1
-http://38.99.163.117/nimble_live/EUROSPORT1/playlist.m3u8
+http://bit.ly/2maCH8Q
 #EXTINF:-1 ,MIX
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 
