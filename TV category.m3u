@@ -161,6 +161,8 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
 http://80.77.52.6:8181/udp/226.0.3.8:12345
+#EXTINF:-1,BOOMERANG
+http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
 #EXTINF:-1,Boomerang USA
 http://live.iptvcanales.com/hls/543/playlist.m3u8?ragnar=lodbrok
 #EXTINF:-1,Cartoon Network USA
