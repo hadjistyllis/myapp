@@ -33,26 +33,33 @@ http://.....
 #EXTINF:1 group-title=”Documentary/Entertainment”, 
 
 
-#EXTINF:-1, ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1,Animal Planet
-http://37.192.131.119:81/udp/239.1.5.3:1234
+
 #EXTINF:-1,Animal Planet
 http://5.255.90.223:5000/play/a019
 #EXTINF:-1,Animal Planet +1
 http://5.255.90.223:5000/play/a00w
+#EXTINF:-1,Animal Planet
+http://37.194.121.4:1234/udp/239.1.5.3:1234 
+#EXTINF:-1,Animal Planet
+http://37.192.131.119:81/udp/239.1.5.3:1234
+#EXTINF:-1, ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,Animal Planet HD
+http://185.162.141.69:9065/animal
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic
 http://90.229.173.167:9000/ch26
+#EXTINF:0,#EXTINF:-1,National Geographic HD
+http://185.162.141.69:9001/natgeo
 #EXTINF:0,Nat Geo WILD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/wild?krasview.ru
 #EXTINF:-1,Nat Geo Wild 
 http://5.32.183.177:4080/udp/224.0.0.120:1237
 #EXTINF:-1,NAT GEO WILD
 http://109.69.210.13:3000/ngcwild
+#EXTINF:0,#EXTINF:-1,Nat Geo Wild HD
+http://185.162.141.69:9007/natgeowild
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,ID Investigation Discovery (S)
@@ -67,6 +74,8 @@ http://185.53.162.157:8029/play/a014
 http://5.255.90.223:5000/play/a01g
 #EXTINF:-1,Discovery+1
 http://5.255.90.223:5000/play/a01a
+#EXTINF:0,#EXTINF:-1,Discovery Channel HD
+http://185.162.141.69:9013/discovery
 #EXTINF:0,Discovery HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/discoveryhd
 #EXTINF:0,Discovery World
@@ -79,6 +88,8 @@ http://5.255.90.223:5000/play/a01c
 http://5.255.90.223:5000/play/a00x
 #EXTINF:-1,HISTORY
 http://50.7.69.42:8899/GB/UK/HISTORY/index.m3u8
+#EXTINF:0,#EXTINF:-1,History HD
+http://185.162.141.69:9001/{history}
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,Fox Life
@@ -138,16 +149,16 @@ http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,Cartoon Network
-http://31.28.33.150:4022/udp/232.0.1.49:1234
+#EXTINF:0,#EXTINF:-1,Cartoon Network
+http://185.162.141.69:9014/cartoon
 #EXTINF:0, Disney XD
 http://193.8.246.110:8880/play/10090
 #EXTINF:-1,Disney Channel
 http://5.32.183.177:4080/udp/224.0.0.120:1235
+#EXTINF:0,#EXTINF:-1,Disney Junior
+http://185.162.141.69:9022/disney
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1,Nickelodeon
-http://31.28.33.150:4022/udp/232.0.1.39:1234
 #EXTINF:-1,Nickelodeon
 http://5.255.90.223:5000/play/a00b
 #EXTINF:0,nickelodeon (GR)
