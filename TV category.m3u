@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,12/3/17
 http://.....
 
 
@@ -40,7 +40,7 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 #EXTINF:-1,Animal Planet
 http://37.192.131.119:81/udp/239.1.5.3:1234
 #EXTINF:-1,Animal Planet
-http://31.28.33.150:4022/udp/232.0.1.48:1234
+http://5.255.90.223:5000/play/a019
 #EXTINF:-1,Animal Planet +1
 http://5.255.90.223:5000/play/a00w
 #EXTINF:0,National Geographic
@@ -77,6 +77,8 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 http://5.255.90.223:5000/play/a01c
 #EXTINF:-1,Discovery Science +1
 http://5.255.90.223:5000/play/a00x
+#EXTINF:-1,HISTORY
+http://50.7.69.42:8899/GB/UK/HISTORY/index.m3u8
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,Fox Life
@@ -130,6 +132,8 @@ http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:-1,BabyTV
+http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 #EXTINF:-1,BOOMERANG
 http://50.7.69.42:8899/GB/UK/BOOMERANG/index.m3u8
 #EXTINF:0,Cartoon Network
@@ -395,6 +399,46 @@ http://37.46.192.238:10000/play/a006/index.m3u8
 
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=o10-vQokBuI
+
+FOX SPORT1 
+http://164.132.160.221:8888/play/a00d/index.m3u8 
+Astro SUPERSPORT 
+http://164.132.160.221:8888/play/a00i/index.m3u8 
+Astro SUPERSPORT2 
+http://164.132.160.221:8888/play/a00j/index.m3u8
+
+#EXTINF:-1,USA_FOX_SPORT_1
+http://164.132.160.221:8888/play/a00d/index.m3u8
+#EXTINF:-1,se_C_More_Live
+http://164.132.160.221:8888/play/a003/index.m3u8
+#EXTINF:-1,USA_Astro_SUPERSPORT_01
+http://164.132.160.221:8888/play/a00i/index.m3u8
+#EXTINF:-1,USA_Astro_SUPERSPORT_02
+http://164.132.160.221:8888/play/a00j/index.m3u8
+#EXTINF:-1,SE: C More Hockey
+http://164.132.160.221:8888/play/a006/index.m3u8
+#EXTINF:-1,USA_NBA_TV
+http://164.132.160.221:8888/play/a00e/index.m3u8
+#EXTINF:-1,USA_Astro_SUPERSPORT_03
+http://164.132.160.221:8888/play/a00k/index.m3u8
+#EXTINF:-1,no_VIASAT_FOTBOLL
+http://164.132.160.221:8888/play/a004/index.m3u8
+#EXTINF:-1,se_C_More_Fotboll
+http://164.132.160.221:8888/play/a002/index.m3u8
+#EXTINF:-1,SE: Viasat Hockey
+http://164.132.160.221:8888/play/a009/index.m3u8
+#EXTINF:-1,USA_CNN
+http://164.132.160.221:8888/play/a00m/index.m3u8
+#EXTINF:-1,USA_Bein_Sports_HD
+http://164.132.160.221:8888/play/a00h/index.m3u8
+#EXTINF:-1,USA_Astro_SUPERSPORT_04
+http://164.132.160.221:8888/play/a00l/index.m3u8
+#EXTINF:-1,SE: C More Live 2
+http://164.132.160.221:8888/play/a007/index.m3u8
+#EXTINF:-1,USA_ESPN_2
+http://164.132.160.221:8888/play/a00g/index.m3u8
+#EXTINF:-1,C More Golf
+http://164.132.160.221:8888/play/a001/index.m3u8
 
 #EXTINF:0,#EXTINF:-1,ARENA SPORT 1
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
