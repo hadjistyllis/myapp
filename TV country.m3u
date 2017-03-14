@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,12/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/3/17
 http://.....
 
 
@@ -35,9 +35,9 @@ http://.....
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/eq473601t9w8.m3u8
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=https://goo.gl/7X3mcE ,RIKSAT
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
-#EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://bit.ly/2mpuJcA ,RIK1
+#EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.lakatamia.tv/media/images/articles/article190_thumb.jpg ,RIK1
 http://bit.ly/2lsCEqq
-#EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://bit.ly/2msj4dp ,RIK2
+#EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2
 http://bit.ly/2mrZ5vq
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
@@ -864,7 +864,26 @@ http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
-
+#EXTINF:-1,UK:BBC 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-1/Strm/index.m3u8
+#EXTINF:-1,UK:BBC 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-2/Strm/index.m3u8
+#EXTINF:-1,UK:BBC 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-3/Strm/index.m3u8
+#EXTINF:-1,UK:BBC 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Nebeebyc-4/Strm/index.m3u8
+#EXTINF:-1,ITV 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeeyeTeV-1/Strm/index.m3u8
+#EXTINF:-1,ITV 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeeyeTeV-2/Strm/index.m3u8
+#EXTINF:-1,ITV 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeeyeTeV-3/Strm/index.m3u8
+#EXTINF:-1,ITV 4
+http://149.202.207.8:8080/kuLlieenuBEerr0NeeyeTeV-4/Strm/index.m3u8
+#EXTINF:-1,Channel 4 UK
+http://149.202.207.8:8080/kuLlieenuBEerr0Nekchenl-4/Strm/index.m3u8
+#EXTINF:-1,Channel 5 UK
+http://149.202.207.8:8080/kuLlieenuBEerr0Nekchenl-5/Strm/index.m3u8
 
 
 
@@ -1910,7 +1929,22 @@ http://89.201.43.188/play.php?freq=615.25
 #EXTINF:-1,КХЛ
 http://89.201.43.188/play.php?freq=623.25
 
-
+#EXTINF:-1,Viasat Sport Baltic 
+http://hop.02.lv/2NE 
+#EXTINF:-1,Viasat Nature 
+http://hop.02.lv/2NF 
+#EXTINF:-1,Viasat History 
+http://hop.02.lv/2NG 
+#EXTINF:-1,Kanals 2 
+http://hop.02.lv/2NH 
+#EXTINF:-1,LNT Latvia 
+http://hop.02.lv/2NI 
+#EXTINF:-1,LTV1 
+http://hop.02.lv/2NJ 
+#EXTINF:-1,TV3 Latvia 
+http://hop.02.lv/2NK 
+#EXTINF:-1,TV6 Latvia 
+http://hop.02.lv/2NL
 
 
 
@@ -1936,40 +1970,7 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&r
 #EXTINF:-1,Rai YoYo (404p) 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0,Rai GrParlamento
-http://87.10.221.178:9981/stream/channelid/1267840607
-#EXTINF:0,Rai Isoradio
-http://87.10.221.178:9981/stream/channelid/1775152520
-#EXTINF:0,Rai Radio 5 Classica
-http://87.10.221.178:9981/stream/channelid/1037122616
-#EXTINF:0,Rai 5
-http://87.10.221.178:9981/stream/channelid/1802197451
-#EXTINF:0,TV2000
-http://87.10.221.178:9981/stream/channelid/273282599
-#EXTINF:0,K2
-http://87.10.221.178:9981/stream/channelid/1248514383
-#EXTINF:0,frisbee
-http://87.10.221.178:9981/stream/channelid/648584340
-#EXTINF:0,Rai Storia
-http://87.10.221.178:9981/stream/channelid/1319896635
-#EXTINF:0,Rai Sport
-http://87.10.221.178:9981/stream/channelid/1192142162
-#EXTINF:0,SUPERTENNIS
-http://87.10.221.178:9981/stream/channelid/51506960
-#EXTINF:0,RadioItaliaTV
-http://87.10.221.178:9981/stream/channelid/253076584
-#EXTINF:0,Rai Scuola
-http://87.10.221.178:9981/stream/channelid/1372100588
-#EXTINF:0,VH1
-http://87.10.221.178:9981/stream/channelid/1462017198
-#EXTINF:0,TV8
-http://87.10.221.178:9981/stream/channelid/2051549345
-#EXTINF:0,TV8 On Demand
-http://87.10.221.178:9981/stream/channelid/51687481
-#EXTINF:0,TV8 News On Demand
-http://87.10.221.178:9981/stream/channelid/1406880739
-#EXTINF:0,VH1 On Demand
-http://87.10.221.178:9981/stream/channelid/625485119
+
 
 
 
@@ -1983,6 +1984,19 @@ http://87.10.221.178:9981/stream/channelid/625485119
 
 
 #EXTINF:5 group-title=”Italy-XMTVPLAYER”,
+
+#EXTINF:-1 ,NOTE:USE
+http://.....
+#EXTINF:-1 ,XMTV player
+http://.....
+#EXTINF:-1 ,or it will stop
+http://.....
+#EXTINF:-1 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
 
 #EXTINF:-1,IT_RAI_1_HD
 http://www.t12v.com:8000/live/moroco/moroco/274.ts
@@ -4001,7 +4015,12 @@ http://170.55.15.122:8000/play/a020
 #EXTINF:0,PNR: 4 [ATSC0]
 http://170.55.15.122:8000/play/a01x
 
-
+#EXTINF:-1,AMC 
+http://37.187.169.80:8080/ES-AMC/tracks-v1a1/index.m3u8 
+#EXTINF:-1,AXN 
+http://37.187.169.80:8080/ES-AXN/tracks-v1a1/index.m3u8 
+#EXTINF:-1,TNT 
+http://37.187.169.80:8080/ES-TNT/tracks-v1a1/index.m3u8
 
 
 
@@ -4709,254 +4728,6 @@ http://37.46.128.192:88/play/a003
 #EXTINF:-1,StreamTest
 http://37.46.128.192:88/play/a001
 
-#EXTINF:-1,FashionTV
-http://84.22.33.24:8000/play/a06z
-#EXTINF:-1,HAYAT BOSNA
-http://84.22.33.24:8000/play/a037
-#EXTINF:-1,TURBO-CHANNEL_MPEG2
-http://84.22.33.24:8000/play/a05d
-#EXTINF:-1,ALJAZEERA_ENGLISH(9010)
-http://84.22.33.24:8000/play/a05b
-#EXTINF:-1,SUPER_RTL_MOTAMA2
-http://84.22.33.24:8000/play/a060
-#EXTINF:-1,XXX-Bizarre MPEG2
-http://84.22.33.24:8000/play/a03v
-#EXTINF:-1,RAI 3 @ MOTAMA2
-http://84.22.33.24:8000/play/a010
-#EXTINF:-1,klanhd
-http://84.22.33.24:8000/play/a07z
-#EXTINF:-1,MUSIQ1 @ MOTAMA2
-http://84.22.33.24:8000/play/a011
-#EXTINF:-1,HRT1 @ MOTAMA2
-http://84.22.33.24:8000/play/a016
-#EXTINF:-1,INPUT_DESIRE XXX
-http://84.22.33.24:8000/play/a06q
-#EXTINF:-1,FOLK+ mpeg4
-http://84.22.33.24:8000/play/a081
-#EXTINF:-1,FOLK+ mpeg2
-http://84.22.33.24:8000/play/a07d
-#EXTINF:-1,TV5 HD
-http://84.22.33.24:8000/play/a07s
-#EXTINF:-1,TV5 SD
-http://84.22.33.24:8000/play/a07r
-#EXTINF:-1,DOCUBOX H264
-http://84.22.33.24:8000/play/a073
-#EXTINF:-1,KANAL6 HD
-http://84.22.33.24:8000/play/a080
-#EXTINF:-1,TIPTV (6026)
-http://84.22.33.24:8000/play/a02w
-#EXTINF:-1,BESA TV (6025)
-http://84.22.33.24:8000/play/a02v
-#EXTINF:-1,ZICOTV
-http://84.22.33.24:8000/play/a039
-#EXTINF:-1,TiranaTV SD
-http://84.22.33.24:8000/play/a054
-#EXTINF:-1,Motors_PER_SHTV
-http://84.22.33.24:8000/play/a07o
-#EXTINF:-1,XXX BUNGA BUNGA HD
-http://84.22.33.24:8000/play/a07v
-#EXTINF:-1,1ST Channel
-http://84.22.33.24:8000/play/a06d
-#EXTINF:-1,STARTV DRENAS
-http://84.22.33.24:8000/play/a009
-#EXTINF:-1,ARTA News SD
-http://84.22.33.24:8000/play/a02h
-#EXTINF:-1,FILMBOX PLUS H264
-http://84.22.33.24:8000/play/a03p
-#EXTINF:-1,TV OPINION
-http://84.22.33.24:8000/play/a00b
-#EXTINF:-1,DUCKTV
-http://84.22.33.24:8000/play/a033
-#EXTINF:-1,AL JAZEERA BALKANS
-http://84.22.33.24:8000/play/a00e
-#EXTINF:-1,TRAVEL CHANNEL
-http://84.22.33.24:8000/play/a03a
-#EXTINF:-1,TVSH SD
-http://84.22.33.24:8000/play/a03l
-#EXTINF:-1,HAYAT MUSIC @ MOTAMA2
-http://84.22.33.24:8000/play/a01e
-#EXTINF:-1,SLOVENIA 3 @ MOTAMA2
-http://84.22.33.24:8000/play/a019
-#EXTINF:-1,RTV21-MK-per_SD-TRASNCOD
-http://84.22.33.24:8000/play/a05f
-#EXTINF:-1,HRT 3 @ MOTAMA2
-http://84.22.33.24:8000/play/a01a
-#EXTINF:-1,JOLLYHD REDUNDANT
-http://84.22.33.24:8000/play/a04a
-#EXTINF:-1,ChannelONE SD
-http://84.22.33.24:8000/play/a05o
-#EXTINF:-1,MotorsTV
-http://84.22.33.24:8000/play/a04w
-#EXTINF:-1,TVPULS
-http://84.22.33.24:8000/play/a003
-#EXTINF:-1,XXX-BungaBunga MPEG2
-http://84.22.33.24:8000/play/a03w
-#EXTINF:-1,CLICKTV-FKS
-http://84.22.33.24:8000/play/a007
-#EXTINF:-1,H265-test
-http://84.22.33.24:8000/play/a06t
-#EXTINF:-1,TV OPOJA HD
-http://84.22.33.24:8000/play/a082
-#EXTINF:-1,KIS_TV
-http://84.22.33.24:8000/play/a07p
-#EXTINF:-1,TRING 3PLUS
-http://84.22.33.24:8000/play/a03g
-#EXTINF:-1,TiranaTV
-http://84.22.33.24:8000/play/a04z
-#EXTINF:-1,RAI 1 @ MOTAMA2
-http://84.22.33.24:8000/play/a017
-#EXTINF:-1,DUKAGJINI_LIVE_MAG
-http://84.22.33.24:8000/play/a03u
-#EXTINF:-1,test
-http://84.22.33.24:8000/play/a07i
-#EXTINF:-1,FILMBOX ARTHOUSE_H264
-http://84.22.33.24:8000/play/a07b
-#EXTINF:-1,RT HD
-http://84.22.33.24:8000/play/a06m
-#EXTINF:-1,3PLUS | REDUNDANT
-http://84.22.33.24:8000/play/a046
-#EXTINF:-1,Kanali7
-http://84.22.33.24:8000/play/a06l
-#EXTINF:-1,Kanali7 -MPEG4
-http://84.22.33.24:8000/play/a083
-#EXTINF:-1,KutiaTV
-http://84.22.33.24:8000/play/a03j
-#EXTINF:-1,FILMBOX EXTRA HD H264
-http://84.22.33.24:8000/play/a072
-#EXTINF:-1,TELESPORT
-http://84.22.33.24:8000/play/a058
-#EXTINF:-1,XXX BIZARRE HD
-http://84.22.33.24:8000/play/a07u
-#EXTINF:-1,RT-DOC
-http://84.22.33.24:8000/play/a06n
-#EXTINF:-1,KTV_SD | REDUNDANT
-http://84.22.33.24:8000/play/a02b
-#EXTINF:-1,KUTIATV_SD
-http://84.22.33.24:8000/play/a00k
-#EXTINF:-1,TV LIRIA
-http://84.22.33.24:8000/play/a00c
-#EXTINF:-1,TV_MITROVICA_STREAM_PER_CERNUSHE
-http://84.22.33.24:8000/play/a04k
-#EXTINF:-1,XXX-Desire
-http://84.22.33.24:8000/play/a068
-#EXTINF:-1,EuroSport2-input
-http://84.22.33.24:8000/play/a04m
-#EXTINF:-1,KLAN HD
-http://84.22.33.24:8000/play/a051
-#EXTINF:-1,SOFIA@INPUT
-http://84.22.33.24:8000/play/a05i
-#EXTINF:-1,FENTV @ MOTAMA2
-http://84.22.33.24:8000/play/a012
-#EXTINF:-1,EuroSport1-HD
-http://84.22.33.24:8000/play/a05g
-#EXTINF:-1,Fast&FunBox H264
-http://84.22.33.24:8000/play/a071
-#EXTINF:-1,TV_TEMA-INPUT-PER-TRANSCODER
-http://84.22.33.24:8000/play/a06r
-#EXTINF:-1,CLUBTV
-http://84.22.33.24:8000/play/a057
-#EXTINF:-1,atv
-http://84.22.33.24:8000/play/a03r
-#EXTINF:-1,Tring Tring
-http://84.22.33.24:8000/play/a052
-#EXTINF:-1,TV Mitrovica (6024)
-http://84.22.33.24:8000/play/a02u
-#EXTINF:-1,DASMATV
-http://84.22.33.24:8000/play/a01s
-#EXTINF:-1,TRING Life
-http://84.22.33.24:8000/play/267
-#EXTINF:-1,TRING FANTASY REDUNDANT
-http://84.22.33.24:8000/play/a04b
-#EXTINF:-1,SOFIA @ MPEG2
-http://84.22.33.24:8000/play/a01x
-#EXTINF:-1,RROKUMTV
-http://84.22.33.24:8000/play/a00j
-#EXTINF:-1,BBF | REDUNDANT
-http://84.22.33.24:8000/play/a047
-#EXTINF:-1,ApollonTV
-http://84.22.33.24:8000/play/a03e
-#EXTINF:-1,TRING COMEDY
-http://84.22.33.24:8000/play/5
-#EXTINF:-1,Infochannel
-http://84.22.33.24:8000/play/a03z
-#EXTINF:-1,TV TEMA
-http://84.22.33.24:8000/play/a02z
-#EXTINF:-1,Super RTL- 2.2Mbps
-http://84.22.33.24:8000/play/a03s
-#EXTINF:-1,INFO_CHANNEL_PROBLEM
-http://84.22.33.24:8000/play/a07t
-#EXTINF:-1,TURBO_CHANNEL_MPEG4
-http://84.22.33.24:8000/play/a05t
-#EXTINF:-1,atv-folk
-http://84.22.33.24:8000/play/a03q
-#EXTINF:-1,Tring Living
-http://84.22.33.24:8000/play/a06y
-#EXTINF:-1,EUROSPORT1_MOTAMA2
-http://84.22.33.24:8000/play/a05x
-#EXTINF:-1,MUSIC BOX HD
-http://84.22.33.24:8000/play/a07q
-#EXTINF:-1,FIGHTBOX HD H264
-http://84.22.33.24:8000/play/a076
-#EXTINF:-1,THEVOICE @ MOTAMA2
-http://84.22.33.24:8000/play/a01c
-#EXTINF:-1,TOP
-http://84.22.33.24:8000/play/a03t
-#EXTINF:-1,VOX FROM MOTAMA2
-http://84.22.33.24:8000/play/a05z
-#EXTINF:-1,SYRIVIZION (6031)
-http://84.22.33.24:8000/play/a008
-#EXTINF:-1,FashionBox
-http://84.22.33.24:8000/play/a079
-#EXTINF:-1,ABC News MPEG4
-http://84.22.33.24:8000/play/a07k
-#EXTINF:-1,AAB
-http://84.22.33.24:8000/play/a002
-#EXTINF:-1,testdocubox
-http://84.22.33.24:8000/play/a06v
-#EXTINF:-1,360 TUNEBOX H264
-http://84.22.33.24:8000/play/a074
-#EXTINF:-1,BALKANIKA@MOTAMA2
-http://84.22.33.24:8000/play/a00z
-#EXTINF:-1,EuroNews_MOTAMA2
-http://84.22.33.24:8000/play/a05v
-#EXTINF:-1,RTL2_MOTAMA2
-http://84.22.33.24:8000/play/a061
-#EXTINF:-1,TV VALI
-http://84.22.33.24:8000/play/a00d
-#EXTINF:-1,ONTV
-http://84.22.33.24:8000/play/a00h
-#EXTINF:-1,SMILE OF CHILD @ MOTAMA2
-http://84.22.33.24:8000/play/a014
-#EXTINF:-1,PRO7@MOTAMA2
-http://84.22.33.24:8000/play/a00y
-#EXTINF:-1,Living HD
-http://84.22.33.24:8000/play/a06k
-#EXTINF:-1,XXX EROX HD H264
-http://84.22.33.24:8000/play/ab43
-#EXTINF:-1,MUSE | REDUNDANT
-http://84.22.33.24:8000/play/a04d
-#EXTINF:-1,RAI 2 @ MOTAMA2
-http://84.22.33.24:8000/play/a015
-#EXTINF:-1,FilmBox Plus EPG
-http://84.22.33.24:8000/play/a07n
-#EXTINF:-1,MUSE HD
-http://84.22.33.24:8000/play/a07x
-#EXTINF:-1,BBF HD
-http://84.22.33.24:8000/play/a07w
-#EXTINF:-1,KIM (6016)
-http://84.22.33.24:8000/play/a02n
-#EXTINF:-1,EROXXX HD H264
-http://84.22.33.24:8000/play/a07a
-#EXTINF:-1,HRT4 @ MOTAMA2
-http://84.22.33.24:8000/play/a01b
-#EXTINF:-1,Tring History MPEG4
-http://84.22.33.24:8000/play/a07j
-#EXTINF:-1,RTL_MOTAMA2
-http://84.22.33.24:8000/play/a05w
-#EXTINF:-1,SMILE | REDUNDANT
-http://84.22.33.24:8000/play/a048
-#EXTINF:-1,RAINEWS @ MOTAMA2
-http://84.22.33.24:8000/play/a013
 
 
 
