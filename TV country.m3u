@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,15/3/17
 http://.....
 
 
@@ -1968,7 +1968,24 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&r
 #EXTINF:-1,Rai YoYo (404p) 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&rebase=on
 
-
+#EXTINF:0,Rai Scuola
+http://87.255.53.70:8006/play/s434
+#EXTINF:0,Rai Sport
+http://87.255.53.70:8006/play/s430
+#EXTINF:0,Rai Gulp
+http://87.255.53.70:8006/play/s432
+#EXTINF:0,Rai Premium
+http://87.255.53.70:8006/play/s436
+#EXTINF:0,Rai Storia
+http://87.255.53.70:8006/play/s431
+#EXTINF:0,UNINETTUNO UNIVERSITY TV
+http://87.255.53.70:8006/play/s435
+#EXTINF:0,Camera Deputati
+http://87.255.53.70:8006/play/s429
+#EXTINF:0,Rai 5
+http://87.255.53.70:8006/play/s437
+#EXTINF:0,Rai YoYo
+http://87.255.53.70:8006/play/s433
 
 
 
