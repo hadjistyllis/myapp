@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,16/3/17
 http://.....
 
 
@@ -426,13 +426,11 @@ http://37.46.192.238:10000/play/a006/index.m3u8
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=o10-vQokBuI
 
-FOX SPORT1 
-http://164.132.160.221:8888/play/a00d/index.m3u8 
+
 Astro SUPERSPORT 
 http://164.132.160.221:8888/play/a00i/index.m3u8 
 Astro SUPERSPORT2 
 http://164.132.160.221:8888/play/a00j/index.m3u8
-
 #EXTINF:-1,USA_FOX_SPORT_1
 http://164.132.160.221:8888/play/a00d/index.m3u8
 #EXTINF:-1,se_C_More_Live
@@ -466,32 +464,67 @@ http://164.132.160.221:8888/play/a00g/index.m3u8
 #EXTINF:-1,C More Golf
 http://164.132.160.221:8888/play/a001/index.m3u8
 
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,АРЕНА СПОРТ 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX sports 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,RU: FOX SPORT 6
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
-#EXTINF:0,#EXTINF:-1,США:FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
-#EXTINF:0,#EXTINF:-1,США:FOX sports 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",UK:SKY SPORT 1  
+http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",UK:SKY SPORT 2  
+http://199.21.149.125:8888/UK_SKY_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",UK:SKY SPORT 3  
+http://199.21.149.125:8888/UK_SKY_SPORTS_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",UK:SKY SPORT 4  
+http://199.21.149.125:8888/UK_SKY_SPORTS_4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png",UK:SKY SPORT 5  
+http://199.21.149.125:8888/UK_SKY_SPORTS_5/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 2
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-2/Strm/index.m3u8
+#EXTINF:-1  tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 3
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-3/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 4
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 5
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 1
+http://149.202.207.8:8080/je3nNaM00tAa/f00cssp1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/5ndrqs41x/foxsport.jpg",US:FOX SPORT 2
+http://149.202.207.8:8080/je3nNaM00tAa/f00cssp2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT 1
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT 2
+http://149.202.208.85:8080/mystreambhenssp-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT 3
+http://149.202.208.85:8080/mystreambhenssp-3/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",BEIN SPORT 4
+http://149.202.208.85:8080/mystreambhenssp-4/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",BEIN SPORT 5
+http://149.202.208.85:8080/mystreambhenssp-5/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",BEIN SPORT 6
+http://149.202.208.85:8080/mystreambhenssp-6/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORT FRANCE 1
+http://149.202.208.85:8080/mystreambhenssfn-1/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORT FRANCE 2
+http://149.202.208.85:8080/mystreambhenssfn-2/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORT FRANCE 3
+http://149.202.208.85:8080/mystreambhenssfn-3/Strm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 1
+http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 2
+http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 3
+http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-3/index.m3u8
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/d17t3vtrp/astrosupersport.jpg",ASTRO SUPERSPORT 4
+http://149.202.207.8:8080/je3nNaM00tAa/aesrtreo-3/index.m3u8
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 1
+http://149.202.207.8:8080/je3nNaM00tAa/Tseennna1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 2
+http://149.202.207.8:8080/je3nNaM00tAa/Tseennna2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 3
+http://149.202.207.8:8080/je3nNaM00tAa/Tseennna3/index.m3u8
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 4
+http://149.202.207.8:8080/je3nNaM00tAa/Tseennna4/index.m3u8
+#EXTINF:-1 tvg-logo="https://s15.postimg.org/qocdxxwy3/tsn.png",TSN SPORT 5
+http://149.202.207.8:8080/je3nNaM00tAa/Tseennna5/index.m3u8
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
@@ -540,6 +573,44 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1, ADSPORT 5 HD
 http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
+#EXTINF:-1,SPORT TV +
+http://178.199.55.109:9000/play/a07g
+#EXTINF:-1,SPORT TV 1 HD
+http://178.39.64.103:9000/play/a045
+#EXTINF:-1,SPORT TV 1
+http://178.199.55.109:9000/play/a063
+#EXTINF:-1,SPORT TV 2 HD
+http://178.39.64.103:9000/play/a03o
+#EXTINF:-1,SPORT TV 3 HD
+http://178.39.64.103:9000/play/a03p
+#EXTINF:-1,SPORT TV 4
+http://178.39.64.103:9000/play/a00l
+#EXTINF:-1,Sport TV 5
+http://178.199.55.109:9000/play/a02l
+#EXTINF:-1,BTV 1 HD
+http://178.39.64.103:9000/play/a03t
+#EXTINF:-1,Sporting TV
+http://178.199.55.109:9000/play/a02o
+#EXTINF:-1,PFC
+http://178.39.64.103:9000/play/a02z
+#EXTINF:-1,Kombat Sport
+http://178.39.64.103:9000/play/a03d
+#EXTINF:-1,Toros TV
+http://178.199.55.109:9000/play/a02m
+#EXTINF:-1,Motors TV
+http://178.39.64.103:9000/play/a00x
+#EXTINF:-1,Eurosport 2 Xtra
+http://178.39.64.103:9000/play/a00c
+#EXTINF:-1,A Bola TV
+http://178.39.64.103:9000/play/a01c
+#EXTINF:-1,Eurosport 1
+http://178.39.64.103:9000/play/a008
+#EXTINF:-1,Eurosport 2
+http://178.39.64.103:9000/play/a032
+#EXTINF:-1,Eurosport HD
+http://178.199.55.109:9000/play/a00p
+#EXTINF:-1,Eurosport 2
+http://178.199.55.109:9000/play/a079
 
 #EXTINF:-1,SUPERSPORTS
 http://46.105.161.243:8085/lighd
