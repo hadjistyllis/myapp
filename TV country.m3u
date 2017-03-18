@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,16/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/3/17
 http://.....
 
 
@@ -286,7 +286,7 @@ http://bit.ly/2mk3eSs
 #EXTINF:-1 tvg-logo=https://goo.gl/NckoRD ,ELLINIKOS FM WEB TV
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/0lhA7g ,KLIK FM WEB TV
-http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
+https://www.youtube.com/watch?v=R-Cnr1cm6E4
 #EXTINF:-1 tvg-logo=http://i.imgur.com/7TFlXBi.png ,CANNALI
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:-1 tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
@@ -891,20 +891,7 @@ http://50.7.69.42:8899/GB/UK/GOLD/index.m3u8
 #EXTINF:-1,DRAMA
 http://50.7.69.42:8899/GB/UK/DRAMA/index.m3u8
 
-#EXTINF:-1,MTV Rocks 
-http://37.46.192.226:9000/play/a002/index.m3u8 
-#EXTINF:-1,MTV Hits 
-http://37.46.192.226:9000/play/a003/index.m3u8 
-#EXTINF:-1,MTV Classic 
-http://37.46.192.226:9000/play/a005/index.m3u8 
-#EXTINF:-1,MTV One 
-http://37.46.192.226:9000/play/a008/index.m3u8 
-#EXTINF:-1,MTV Music 
-http://37.46.192.226:9000/play/a006/index.m3u8 
-#EXTINF:-1,MTV Base 
-http://37.46.192.226:9000/play/a004/index.m3u8 
-#EXTINF:-1,MTV Dance 
-http://37.46.192.226:9000/play/a007/index.m3u8
+
 
 #EXTINF:-1,QUEST+1
 http://5.255.90.223:5000/play/a011
@@ -2213,224 +2200,246 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,IT_RAI_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/274.ts
-#EXTINF:-1,IT_RAI_2_HD
-http://www.t12v.com:8000/live/moroco/moroco/275.ts
-#EXTINF:-1,IT_RAI_3_HD
-http://www.t12v.com:8000/live/moroco/moroco/276.ts
-#EXTINF:-1,IT_RAI_4_HD
-http://www.t12v.com:8000/live/moroco/moroco/1292.ts
-#EXTINF:-1,IT_ RAI _5
-http://www.t12v.com:8000/live/moroco/moroco/1308.ts
-#EXTINF:-1,IT_RAI_SCUOLA
-http://www.t12v.com:8000/live/moroco/moroco/1809.ts
-#EXTINF:-1,IT_RAI_MOVIE
-http://www.t12v.com:8000/live/moroco/moroco/1807.ts
-#EXTINF:-1,IT_RAI_PREMIUM
-http://www.t12v.com:8000/live/moroco/moroco/1297.ts
-#EXTINF:-1,IT_RAI_NEW_24
-http://www.t12v.com:8000/live/moroco/moroco/296.ts
-#EXTINF:-1,IT_SKY_UNO_HD
-http://www.t12v.com:8000/live/moroco/moroco/303.ts
-#EXTINF:-1,IT_ITALIA_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/241.ts
-#EXTINF:-1,IT_LA_5
-http://www.t12v.com:8000/live/moroco/moroco/1301.ts
-#EXTINF:-1,IT_LA_7
-http://www.t12v.com:8000/live/moroco/moroco/1018.ts
-#EXTINF:-1,IT_CANALE_5
-http://www.t12v.com:8000/live/moroco/moroco/242.ts
-#EXTINF:-1,IT_CANALE_7
-http://www.t12v.com:8000/live/moroco/moroco/1810.ts
-#EXTINF:-1,IT_SKY_CINEMA_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/286.ts
-#EXTINF:-1,IT_SKY _CINEMA _FAMILY
-http://www.t12v.com:8000/live/moroco/moroco/290.ts
-#EXTINF:-1,IT_SKY_CINEMA_PASSION_HD
-http://www.t12v.com:8000/live/moroco/moroco/293.ts
-#EXTINF:-1,IT_SKY_CINEMA_CULT_HD
-http://www.t12v.com:8000/live/moroco/moroco/288.ts
-#EXTINF:-1,IT_SKY_CINEMA_COMEDY_HD
-http://www.t12v.com:8000/live/moroco/moroco/289.ts
-#EXTINF:-1,IT_SKY_CINEMA_MAX_HD
-http://www.t12v.com:8000/live/moroco/moroco/292.ts
-#EXTINF:-1,IT_SKY_CINEMA_HITS_HD
-http://www.t12v.com:8000/live/moroco/moroco/291.ts
-#EXTINF:-1,IT_SKY_FOX_COMEDY_HD
-http://www.t12v.com:8000/live/moroco/moroco/283.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA+_24_HD
-http://www.t12v.com:8000/live/moroco/moroco/285.ts
-#EXTINF:-1,IT_PREMIUM_ACTION_+24
-http://www.t12v.com:8000/live/moroco/moroco/1804.ts
-#EXTINF:-1,IT_PREMIUM_CRIME_HD
-http://www.t12v.com:8000/live/moroco/moroco/249.ts
-#EXTINF:-1,IT_PREMIUM_CRIME_ 24
-http://www.t12v.com:8000/live/moroco/moroco/1806.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_HD
-http://www.t12v.com:8000/live/moroco/moroco/247.ts
-#EXTINF:-1,IT_PREMIUM_COMEDY_HD
-http://www.t12v.com:8000/live/moroco/moroco/248.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_ENERGY_HD
-http://www.t12v.com:8000/live/moroco/moroco/254.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_EMOTION_HD
-http://www.t12v.com:8000/live/moroco/moroco/253.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_2
-http://www.t12v.com:8000/live/moroco/moroco/1293.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_24
-http://www.t12v.com:8000/live/moroco/moroco/1343.ts
-#EXTINF:-1,IT_PREMIUM_CINEMA_2_+24
-http://www.t12v.com:8000/live/moroco/moroco/1328.ts
-#EXTINF:-1,IT_PREMIUM_ACTION_HD
-http://www.t12v.com:8000/live/moroco/moroco/243.ts
-#EXTINF:-1,IT_MEDIASET_EXTRA
-http://www.t12v.com:8000/live/moroco/moroco/1017.ts
-#EXTINF:-1,IT_RSI_LA_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/920.ts
-#EXTINF:-1,IT_RSI_LA_2_HD
-http://www.t12v.com:8000/live/moroco/moroco/921.ts
-#EXTINF:-1,IT_RAI_SPORT_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/277.ts
-#EXTINF:-1,IT_RAI_SPORT_2
-http://www.t12v.com:8000/live/moroco/moroco/295.ts
-#EXTINF:-1,IT_SKY_SPORT_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/298.ts
-#EXTINF:-1,IT_SKY_SPORT_2_HD
-http://www.t12v.com:8000/live/moroco/moroco/299.ts
-#EXTINF:-1,IT_ SKY_ SPORT_ 3 _HD
-http://www.t12v.com:8000/live/moroco/moroco/264.ts
-#EXTINF:-1,IT_SKY_SPORT_24_HD
-http://www.t12v.com:8000/live/moroco/moroco/278.ts
-#EXTINF:-1,IT_SKY_SPORT_MOTO_HD
-http://www.t12v.com:8000/live/moroco/moroco/284.ts
-#EXTINF:-1,IT_SKY_SPORTS_F1_HD
-http://www.t12v.com:8000/live/moroco/moroco/294.ts
-#EXTINF:-1,IT_FOX_SPORTS_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/1312.ts
-#EXTINF:-1,IT_SPORT_ITALIA
-http://www.t12v.com:8000/live/moroco/moroco/1016.ts
-#EXTINF:-1,IT_EUROSPORT_HD
-http://www.t12v.com:8000/live/moroco/moroco/300.ts
-#EXTINF:-1,IT_EUROSPORT_2
-http://www.t12v.com:8000/live/moroco/moroco/1311.ts
-#EXTINF:-1,IT_STUDIO_UNIVERSAL
-http://www.t12v.com:8000/live/moroco/moroco/1327.ts
-#EXTINF:-1,IT_SKY_CALCIO_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/956.ts
-#EXTINF:-1,IT_SKY_CALCIO_2_HD
-http://www.t12v.com:8000/live/moroco/moroco/1811.ts
-#EXTINF:-1,IT_SKY_CALCIO_3_HD
-http://www.t12v.com:8000/live/moroco/moroco/954.ts
-#EXTINF:-1,IT_PREMIUM_SPORT_HD
-http://www.t12v.com:8000/live/moroco/moroco/933.ts
-#EXTINF:-1,IT_PREMIUM_CALCIO_HD
-http://www.t12v.com:8000/live/moroco/moroco/1332.ts
-#EXTINF:-1,IT_PREMIUM_CALCIO_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/301.ts
-#EXTINF:-1,IT_PREMIUM_CALCIO_3
-http://www.t12v.com:8000/live/moroco/moroco/932.ts
-#EXTINF:-1,IT_SKY_CIELO
-http://www.t12v.com:8000/live/moroco/moroco/929.ts
-#EXTINF:-1,IT_SUPER!
-http://www.t12v.com:8000/live/moroco/moroco/1314.ts
-#EXTINF:-1,IT_SUPER_TENNIS_HD
-http://www.t12v.com:8000/live/moroco/moroco/1313.ts
-#EXTINF:-1,IT_FOX_HD
-http://www.t12v.com:8000/live/moroco/moroco/263.ts
-#EXTINF:-1,IT_FOX_LIFE_HD
-http://www.t12v.com:8000/live/moroco/moroco/935.ts
-#EXTINF:-1,IT_FOX_CRIME_HD
-http://www.t12v.com:8000/live/moroco/moroco/940.ts
-#EXTINF:-1,IT_EURONEWS
-http://www.t12v.com:8000/live/moroco/moroco/1302.ts
-#EXTINF:-1,IT_TG_COM_24
-http://www.t12v.com:8000/live/moroco/moroco/240.ts
-#EXTINF:-1,IT_SKY_TG_24_HD
-http://www.t12v.com:8000/live/moroco/moroco/1002.ts
-#EXTINF:-1,IT_RAI_GULP
-http://www.t12v.com:8000/live/moroco/moroco/1298.ts
-#EXTINF:-1,IT_RAI_YOYO
-http://www.t12v.com:8000/live/moroco/moroco/1329.ts
-#EXTINF:-1,IT_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/moroco/moroco/960.ts
-#EXTINF:-1,IT_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/moroco/moroco/1808.ts
-#EXTINF:-1,IT_PREMIUM_JOY
-http://www.t12v.com:8000/live/moroco/moroco/256.ts
-#EXTINF:-1,IT_PREMIUM_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/moroco/moroco/1337.ts
-#EXTINF:-1,IT_PREMIUM_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/moroco/moroco/1805.ts
-#EXTINF:-1,IT_CARTOONITO
-http://www.t12v.com:8000/live/moroco/moroco/1323.ts
-#EXTINF:-1,IT_DISNEY_XD
-http://www.t12v.com:8000/live/moroco/moroco/1342.ts
-#EXTINF:-1,IT_PREMIUM_CARTOON_NETWORK
-http://www.t12v.com:8000/live/moroco/moroco/1336.ts
-#EXTINF:-1,IT_SKY_AXN_HD
-http://www.t12v.com:8000/live/moroco/moroco/261.ts
-#EXTINF:-1,IT_SKY_ATLANTIC_HD
-http://www.t12v.com:8000/live/moroco/moroco/280.ts
-#EXTINF:-1,IT_IRIS
-http://www.t12v.com:8000/live/moroco/moroco/1015.ts
-#EXTINF:-1,IT_DMAX_HD
-http://www.t12v.com:8000/live/moroco/moroco/1318.ts
-#EXTINF:-1,IT_TV_2000
-http://www.t12v.com:8000/live/moroco/moroco/257.ts
-#EXTINF:-1,IT_JUVENTUS_TV
-http://www.t12v.com:8000/live/moroco/moroco/1321.ts
-#EXTINF:-1,IT_PREMIUM_STORIES
-http://www.t12v.com:8000/live/moroco/moroco/1319.ts
-#EXTINF:-1,IT_NATIONALGEO_HD
-http://www.t12v.com:8000/live/moroco/moroco/297.ts
-#EXTINF:-1,IT_SKY_HISTORY_HD
-http://www.t12v.com:8000/live/moroco/moroco/1322.ts
-#EXTINF:-1,IT_DISCOVERY_TRAVEL
-http://www.t12v.com:8000/live/moroco/moroco/958.ts
-#EXTINF:-1,IT_DISCOVERY_SCI
-http://www.t12v.com:8000/live/moroco/moroco/955.ts
-#EXTINF:-1,IT_PREMIUM_DISCOVERY_WORLD_HD
-http://www.t12v.com:8000/live/moroco/moroco/1344.ts
-#EXTINF:-1,IT_DISCOVERY_HD
-http://www.t12v.com:8000/live/moroco/moroco/957.ts
-#EXTINF:-1,IT_PESCA_E_CACCIA
-http://www.t12v.com:8000/live/moroco/moroco/1326.ts
-#EXTINF:-1,IT_NATIONALGEO_WILD_HD
-http://www.t12v.com:8000/live/moroco/moroco/1317.ts
-#EXTINF:-1,IT_NATIONALGEO_PEOPLE_HD
-http://www.t12v.com:8000/live/moroco/moroco/1316.ts
-#EXTINF:-1,IT_ANIMAL_PLANET
-http://www.t12v.com:8000/live/moroco/moroco/941.ts
-#EXTINF:-1,IT_PRIMAFILA_1_HD
-http://www.t12v.com:8000/live/moroco/moroco/259.ts
-#EXTINF:-1,IT_PRIMAFILA_2_HD
-http://www.t12v.com:8000/live/moroco/moroco/266.ts
-#EXTINF:-1,IT_PRIMAFILA_3_HD
-http://www.t12v.com:8000/live/moroco/moroco/267.ts
-#EXTINF:-1,IT_PRIMAFILA_4_HD
-http://www.t12v.com:8000/live/moroco/moroco/268.ts
-#EXTINF:-1,IT_PRIMAFILA_5_HD
-http://www.t12v.com:8000/live/moroco/moroco/269.ts
-#EXTINF:-1,IT_PRIMAFILA_6_HD
-http://www.t12v.com:8000/live/moroco/moroco/270.ts
-#EXTINF:-1,IT_PRIMAFILA_7_HD
-http://www.t12v.com:8000/live/moroco/moroco/271.ts
-#EXTINF:-1,IT_PRIMAFILA_8_HD
-http://www.t12v.com:8000/live/moroco/moroco/272.ts
-#EXTINF:-1,IT_PRIMAFILA_9_HD
-http://www.t12v.com:8000/live/moroco/moroco/273.ts
-#EXTINF:-1,IT_PRIMAFILA_10_HD
-http://www.t12v.com:8000/live/moroco/moroco/260.ts
-#EXTINF:-1,IT_PRIMAFILA_11
-http://www.t12v.com:8000/live/moroco/moroco/1010.ts
-#EXTINF:-1,IT_PRIMAFILA_12
-http://www.t12v.com:8000/live/moroco/moroco/1011.ts
-#EXTINF:-1,IT_PRIMAFILA_13_HD
-http://www.t12v.com:8000/live/moroco/moroco/1012.ts
-#EXTINF:-1,IT_PRIMAFILA_14
-http://www.t12v.com:8000/live/moroco/moroco/1013.ts
-#EXTINF:-1,IT_PRIMAFILA_15
-http://www.t12v.com:8000/live/moroco/moroco/1014.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://193.70.12.239:8080/live/ster/ster/155.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://193.70.12.239:8080/live/ster/ster/154.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://193.70.12.239:8080/live/ster/ster/153.ts
+#EXTINF:-1,IT: Rai 4
+http://193.70.12.239:8080/live/ster/ster/152.ts
+#EXTINF:-1,IT: Rai 5
+http://193.70.12.239:8080/live/ster/ster/151.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://193.70.12.239:8080/live/ster/ster/158.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://193.70.12.239:8080/live/ster/ster/149.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://193.70.12.239:8080/live/ster/ster/7220.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://193.70.12.239:8080/live/ster/ster/150.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://193.70.12.239:8080/live/ster/ster/1743.ts
+#EXTINF:-1,---------- Cinema ----------
+http://193.70.12.239:8080/live/ster/ster/11380.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://193.70.12.239:8080/live/ster/ster/133.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://193.70.12.239:8080/live/ster/ster/173.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://193.70.12.239:8080/live/ster/ster/168.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://193.70.12.239:8080/live/ster/ster/4550.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://193.70.12.239:8080/live/ster/ster/325.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://193.70.12.239:8080/live/ster/ster/171.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://193.70.12.239:8080/live/ster/ster/169.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://193.70.12.239:8080/live/ster/ster/327.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://193.70.12.239:8080/live/ster/ster/170.ts
+#EXTINF:-1,IT: Rai Premium
+http://193.70.12.239:8080/live/ster/ster/17574.ts
+#EXTINF:-1,IT: Rai Movie
+http://193.70.12.239:8080/live/ster/ster/346.ts
+#EXTINF:-1,---------- Intrattenimento ----------
+http://193.70.12.239:8080/live/ster/ster/11375.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://193.70.12.239:8080/live/ster/ster/147.ts
+#EXTINF:-1,IT: Fox HD
+http://193.70.12.239:8080/live/ster/ster/142.ts
+#EXTINF:-1,IT: Fox Life HD
+http://193.70.12.239:8080/live/ster/ster/328.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://193.70.12.239:8080/live/ster/ster/181.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://193.70.12.239:8080/live/ster/ster/182.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://193.70.12.239:8080/live/ster/ster/183.ts
+#EXTINF:-1,IT: Alice
+http://193.70.12.239:8080/live/ster/ster/7229.ts
+#EXTINF:-1,IT: Crime Investigation HD
+http://193.70.12.239:8080/live/ster/ster/331.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://193.70.12.239:8080/live/ster/ster/160.ts
+#EXTINF:-1,IT: Sky TG 24
+http://193.70.12.239:8080/live/ster/ster/378.ts
+#EXTINF:-1,IT: AXN HD
+http://193.70.12.239:8080/live/ster/ster/389.ts
+#EXTINF:-1,IT: TOP crime
+http://193.70.12.239:8080/live/ster/ster/318.ts
+#EXTINF:-1,IT: La7 HD
+http://193.70.12.239:8080/live/ster/ster/156.ts
+#EXTINF:-1,IT: E!
+http://193.70.12.239:8080/live/ster/ster/384.ts
+#EXTINF:-1,IT: Dmax HD
+http://193.70.12.239:8080/live/ster/ster/382.ts
+#EXTINF:-1,---------- Cultura ----------
+http://193.70.12.239:8080/live/ster/ster/11376.ts
+#EXTINF:-1,IT: NatGeo HD
+http://193.70.12.239:8080/live/ster/ster/326.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://193.70.12.239:8080/live/ster/ster/179.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://193.70.12.239:8080/live/ster/ster/139.ts
+#EXTINF:-1,IT: Discovery Channel
+http://193.70.12.239:8080/live/ster/ster/357.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://193.70.12.239:8080/live/ster/ster/144.ts
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://193.70.12.239:8080/live/ster/ster/387.ts
+#EXTINF:-1,IT:  History HD
+http://193.70.12.239:8080/live/ster/ster/159.ts
+#EXTINF:-1,IT: Animal Planet
+http://193.70.12.239:8080/live/ster/ster/390.ts
+#EXTINF:-1,IT: ITV Italia
+http://193.70.12.239:8080/live/ster/ster/1744.ts
+#EXTINF:-1,IT: Sky Arte HD
+http://193.70.12.239:8080/live/ster/ster/134.ts
+#EXTINF:-1,---------- Bambini -----------
+http://193.70.12.239:8080/live/ster/ster/11390.ts
+#EXTINF:-1,IT: Disney channel
+http://193.70.12.239:8080/live/ster/ster/385.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://193.70.12.239:8080/live/ster/ster/365.ts
+#EXTINF:-1,IT: Disney XD
+http://193.70.12.239:8080/live/ster/ster/329.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://193.70.12.239:8080/live/ster/ster/355.ts
+#EXTINF:-1,IT: Super
+http://193.70.12.239:8080/live/ster/ster/319.ts
+#EXTINF:-1,IT: Rai Gulp
+http://193.70.12.239:8080/live/ster/ster/347.ts
+#EXTINF:-1,---------- Sports ----------
+http://193.70.12.239:8080/live/ster/ster/11377.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://193.70.12.239:8080/live/ster/ster/4554.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://193.70.12.239:8080/live/ster/ster/4555.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://193.70.12.239:8080/live/ster/ster/164.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://193.70.12.239:8080/live/ster/ster/17578.ts
+#EXTINF:-1,IT:  Sky Sport F1 HD
+http://193.70.12.239:8080/live/ster/ster/162.ts
+#EXTINF:-1,IT: Sky Sport motogp HD
+http://193.70.12.239:8080/live/ster/ster/126.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://193.70.12.239:8080/live/ster/ster/185.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://193.70.12.239:8080/live/ster/ster/140.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://193.70.12.239:8080/live/ster/ster/125.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://193.70.12.239:8080/live/ster/ster/344.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://193.70.12.239:8080/live/ster/ster/11385.ts
+#EXTINF:-1,---------- Calcio ----------
+http://193.70.12.239:8080/live/ster/ster/11378.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://193.70.12.239:8080/live/ster/ster/342.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://193.70.12.239:8080/live/ster/ster/340.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://193.70.12.239:8080/live/ster/ster/3090.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://193.70.12.239:8080/live/ster/ster/3091.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://193.70.12.239:8080/live/ster/ster/3122.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://193.70.12.239:8080/live/ster/ster/3123.ts
+#EXTINF:-1,IT: Supercalcio HD.
+http://193.70.12.239:8080/live/ster/ster/322.ts
+#EXTINF:-1,IT: Premium Calcio
+http://193.70.12.239:8080/live/ster/ster/366.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://193.70.12.239:8080/live/ster/ster/374.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://193.70.12.239:8080/live/ster/ster/373.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://193.70.12.239:8080/live/ster/ster/372.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://193.70.12.239:8080/live/ster/ster/371.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://193.70.12.239:8080/live/ster/ster/370.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://193.70.12.239:8080/live/ster/ster/369.ts
+#EXTINF:-1,IT: Premium Calcio 7
+http://193.70.12.239:8080/live/ster/ster/368.ts
+#EXTINF:-1,---------- Primafilla ----------
+http://193.70.12.239:8080/live/ster/ster/11379.ts
+#EXTINF:-1,IT: Prima Fila 1 HD
+http://193.70.12.239:8080/live/ster/ster/1767.ts
+#EXTINF:-1,IT: Prima Fila 2 HD
+http://193.70.12.239:8080/live/ster/ster/602.ts
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://193.70.12.239:8080/live/ster/ster/589.ts
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://193.70.12.239:8080/live/ster/ster/590.ts
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://193.70.12.239:8080/live/ster/ster/591.ts
+#EXTINF:-1,IT: Prima Fila 6 HD
+http://193.70.12.239:8080/live/ster/ster/592.ts
+#EXTINF:-1,IT: Prima Fila 7 HD
+http://193.70.12.239:8080/live/ster/ster/593.ts
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://193.70.12.239:8080/live/ster/ster/594.ts
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://193.70.12.239:8080/live/ster/ster/595.ts
+#EXTINF:-1,IT: Prima Fila 11 HD
+http://193.70.12.239:8080/live/ster/ster/597.ts
+#EXTINF:-1,IT: Prima Fila 10 HD
+http://193.70.12.239:8080/live/ster/ster/596.ts
+#EXTINF:-1,IT: Prima Fila 12 HD
+http://193.70.12.239:8080/live/ster/ster/598.ts
+#EXTINF:-1,IT: Prima Fila 13 HD
+http://193.70.12.239:8080/live/ster/ster/599.ts
+#EXTINF:-1,IT: Prima Fila 14 HD
+http://193.70.12.239:8080/live/ster/ster/600.ts
+#EXTINF:-1,IT: Prima Fila 15 HD
+http://193.70.12.239:8080/live/ster/ster/4551.ts
+#EXTINF:-1,IT: Prima Fila 16 HD
+http://193.70.12.239:8080/live/ster/ster/4552.ts
+#EXTINF:-1,IT: Prima Fila 17 HD
+http://193.70.12.239:8080/live/ster/ster/4553.ts
+#EXTINF:-1,---------- Mediaset Premium -----------
+http://193.70.12.239:8080/live/ster/ster/11391.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://193.70.12.239:8080/live/ster/ster/381.ts
+#EXTINF:-1,IT: Mediaset italia 2
+http://193.70.12.239:8080/live/ster/ster/1751.ts
+#EXTINF:-1,IT: Premium Action HD
+http://193.70.12.239:8080/live/ster/ster/1752.ts
+#EXTINF:-1,IT: Premium Action 24 HD
+http://193.70.12.239:8080/live/ster/ster/377.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://193.70.12.239:8080/live/ster/ster/361.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://193.70.12.239:8080/live/ster/ster/362.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://193.70.12.239:8080/live/ster/ster/359.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://193.70.12.239:8080/live/ster/ster/364.ts
+#EXTINF:-1,IT: Premium Cinema 2 24
+http://193.70.12.239:8080/live/ster/ster/363.ts
+#EXTINF:-1,IT: Premium Comedy
+http://193.70.12.239:8080/live/ster/ster/360.ts
+#EXTINF:-1,IT: Premium Emotion
+http://193.70.12.239:8080/live/ster/ster/354.ts
+#EXTINF:-1,IT: Premium Energy
+http://193.70.12.239:8080/live/ster/ster/353.ts
+#EXTINF:-1,IT: Premium Stories
+http://193.70.12.239:8080/live/ster/ster/348.ts
+#EXTINF:-1,IT: Premium Joi
+http://193.70.12.239:8080/live/ster/ster/350.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://193.70.12.239:8080/live/ster/ster/320.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://193.70.12.239:8080/live/ster/ster/330.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://193.70.12.239:8080/live/ster/ster/17583.ts
 
 
 
@@ -3207,227 +3216,6 @@ http://193.70.12.239:8080/live/ster/ster/187.ts
 
 #EXTINF:8 group-title=”Latino-Brazil/Spain1”,
 
-#EXTINF:-1,CTV
-http://90.229.173.167:9000/ch22
-#EXTINF:-1,SUNDANCE TV
-http://90.229.173.167:9000/ch23
-#EXTINF:-1,m Series
-http://90.229.173.167:9000/ch13
-#EXTINF:-1,mezzo
-http://90.229.173.167:9000/ch14
-#EXTINF:-1,ODISEA
-http://90.229.173.167:9000/ch25
-#EXTINF:-1,National Geographic
-http://90.229.173.167:9000/ch26
-#EXTINF:-1,CALLE13
-http://90.229.173.167:9000/ch29
-#EXTINF:-1,SuFy
-http://90.229.173.167:9000/ch32
-#EXTINF:-1,M+
-http://90.229.173.167:9000/ch33
-#EXTINF:-1,F.
-http://90.229.173.167:9000/ch34
-#EXTINF:-1,TP clan
-http://90.229.173.167:9000/ch35
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch36
-#EXTINF:-1,TP 1
-http://90.229.173.167:9000/ch37
-#EXTINF:-1,HOLYWOOD
-http://90.229.173.167:9000/ch38
-#EXTINF:-1,TP 2
-http://90.229.173.167:9000/ch39
-#EXTINF:-1,5
-http://90.229.173.167:9000/ch40
-#EXTINF:-1,M Extra
-http://90.229.173.167:9000/ch41
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch42
-#EXTINF:-1,TNT
-http://90.229.173.167:9000/ch43
-#EXTINF:-1,Nat Geo WILD
-http://90.229.173.167:9000/ch44
-#EXTINF:-1,M Estrenos
-http://90.229.173.167:9000/ch45
-#EXTINF:-1,Disney Channel
-http://90.229.173.167:9000/ch46
-#EXTINF:-1,M eSports
-http://90.229.173.167:9000/ch47
-#EXTINF:-1,TCM
-http://90.229.173.167:9000/ch48
-#EXTINF:-1,Comedy Central
-http://90.229.173.167:9000/ch49
-#EXTINF:-1,VIAJAR
-http://90.229.173.167:9000/ch50
-#EXTINF:-1,M Series Extra
-http://90.229.173.167:9000/ch51
-#EXTINF:-1,tdp
-http://90.229.173.167:9000/ch52
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch53
-#EXTINF:-1,amc
-http://90.229.173.167:9000/ch54
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch55
-#EXTINF:-1,Telesur
-http://90.229.173.167:9000/ch56
-#EXTINF:-1,TBN ESPANA
-http://90.229.173.167:9000/ch57
-#EXTINF:-1,GALICIA
-http://90.229.173.167:9000/ch58
-#EXTINF:-1,i24 News
-http://90.229.173.167:9000/ch59
-
-#EXTINF:-1,24 HORAS
-http://62.167.57.5:8000/play/ay03
-#EXTINF:-1,BEIN LALIGA
-http://62.167.57.5:8000/play/ay48
-#EXTINF:-1,TMC HD RAW
-http://62.167.57.5:8000/play/a015
-#EXTINF:-1,CUATRO HD
-http://62.167.57.5:8000/play/ay14
-#EXTINF:-1,M. HD
-http://62.167.57.5:8000/play/ay33
-#EXTINF:-1,BEIN MAX 1
-http://62.167.57.5:8000/play/ay71
-#EXTINF:-1,DISNEY XD
-http://62.167.57.5:8000/play/ay36
-#EXTINF:-1,LA SEXTA HD
-http://62.167.57.5:8000/play/ay28
-#EXTINF:-1,OSHD
-http://62.167.57.5:8000/play/ay24
-#EXTINF:-1,A&E
-http://62.167.57.5:8000/play/ay02
-#EXTINF:-1,VIAJAR HD
-http://62.167.57.5:8000/play/ay06
-#EXTINF:-1,CANAL SUR A.
-http://62.167.57.5:8000/play/ay01
-#EXTINF:-1,M. MOTOGP
-http://62.167.57.5:8000/play/ay56
-#EXTINF:-1,LA 1 HD
-http://62.167.57.5:8000/play/ay16
-#EXTINF:-1,azoHD
-http://62.167.57.5:8000/play/ay27
-#EXTINF:-1,M. SeriesXtraHD
-http://62.167.57.5:8000/play/ay21
-#EXTINF:-1,NRJ12 HD RAW
-http://62.167.57.5:8000/play/a018
-#EXTINF:-1,CRIMEN+INVES
-http://62.167.57.5:8000/play/ay11
-#EXTINF:-1,HOLLYWOODHD
-http://62.167.57.5:8000/play/ay47
-#EXTINF:-1,TF1 HD RAW
-http://62.167.57.5:8000/play/a017
-#EXTINF:-1,FRANCE 2 HD RAW
-http://62.167.57.5:8000/play/a01b
-#EXTINF:-1,NICKELODEONHD
-http://62.167.57.5:8000/play/ay34
-#EXTINF:-1,M. SERIES HD
-http://62.167.57.5:8000/play/ay19
-#EXTINF:-1,DISNEY CH HD
-http://62.167.57.5:8000/play/ay08
-#EXTINF:-1,#0 HD
-http://62.167.57.5:8000/play/ay04
-#EXTINF:-1,TOROS TV HD
-http://62.167.57.5:8000/play/ay29
-#EXTINF:-1,AMC HD
-http://62.167.57.5:8000/play/ay05
-#EXTINF:-1,AXN HD
-http://62.167.57.5:8000/play/ay45
-#EXTINF:-1,M. DEP 1 HD
-http://62.167.57.5:8000/play/ay26
-#EXTINF:-1,M. ACCI?N HD
-http://62.167.57.5:8000/play/ay18
-#EXTINF:-1,FOX LIFE HD
-http://62.167.57.5:8000/play/ay17
-#EXTINF:-1,BEINLALIGA1
-http://62.167.57.5:8000/play/ay69
-#EXTINF:-1,FRANCE 4 HD RAW
-http://62.167.57.5:8000/play/a01d
-#EXTINF:-1,NG WILD HD
-http://62.167.57.5:8000/play/ay32
-#EXTINF:-1,FRANCE 5 HD RAW
-http://62.167.57.5:8000/play/a01e
-#EXTINF:-1,FRANCE 3 HD RAW
-http://62.167.57.5:8000/play/a01c
-#EXTINF:-1,TCM HD
-http://62.167.57.5:8000/play/ay25
-#EXTINF:-1,M. DCINE HD
-http://62.167.57.5:8000/play/ay46
-#EXTINF:-1,TNT HD
-http://62.167.57.5:8000/play/ay09
-#EXTINF:-1,LALIGATV BAR
-http://62.167.57.5:8000/play/ay42
-#EXTINF:-1,ANTENA 3 HD
-http://62.167.57.5:8000/play/ay38
-#EXTINF:-1,BEIN MAX 2
-http://62.167.57.5:8000/play/ay68
-#EXTINF:-1,CSTAR HD RAW
-http://62.167.57.5:8000/play/a01a
-#EXTINF:-1,NT1 HD RAW
-http://62.167.57.5:8000/play/a016
-#EXTINF:-1,CAZAyPESCA HD
-http://62.167.57.5:8000/play/ay31
-#EXTINF:-1,M. Cine Espa?ol
-http://62.167.57.5:8000/play/ay49
-#EXTINF:-1,NONSTOPEOPLE
-http://62.167.57.5:8000/play/ay51
-#EXTINF:-1,W9 HD RAW
-http://62.167.57.5:8000/play/a014
-#EXTINF:-1,RTS DEUX HD RAW
-http://62.167.57.5:8000/play/a013
-#EXTINF:-1,RTL9 HD RAW HD
-http://62.167.57.5:8000/play/a00l
-#EXTINF:-1,RTS UN HD RAW
-http://62.167.57.5:8000/play/a012
-#EXTINF:-1,M6 HD RAW
-http://62.167.57.5:8000/play/a011
-#EXTINF:-1,NAT GEO HD
-http://62.167.57.5:8000/play/ay30
-#EXTINF:-1,MEZZO LIVE HD
-http://62.167.57.5:8000/play/ay50
-#EXTINF:-1,A1HD
-http://62.167.57.5:8000/play/ay00
-#EXTINF:-1,AXN WHITE HD
-http://62.167.57.5:8000/play/ay44
-#EXTINF:-1,HISTORIA
-http://62.167.57.5:8000/play/ay43
-#EXTINF:-1,HD
-http://62.167.57.5:8000/play/ay35
-#EXTINF:-1,M. XTRA HD
-http://62.167.57.5:8000/play/ay22
-#EXTINF:-1,M. GOLF HD
-http://62.167.57.5:8000/play/ay20
-#EXTINF:-1,A HD
-http://62.167.57.5:8000/play/ay23
-#EXTINF:-1,DISCOVERY
-http://62.167.57.5:8000/play/ay53
-#EXTINF:-1,M. DEP 2 HD
-http://62.167.57.5:8000/play/ay39
-#EXTINF:-1,COMEDYCENTRALHD
-http://62.167.57.5:8000/play/ay07
-#EXTINF:-1,TELECINCO HD
-http://62.167.57.5:8000/play/ay40
-#EXTINF:-1,COSMO
-http://62.167.57.5:8000/play/ay54
-#EXTINF:-1,COSMO HD
-http://62.167.57.5:8000/play/ay10
-#EXTINF:-1,CAZA Y PESCA
-http://62.167.57.5:8000/play/ay52
-#EXTINF:-1,C8 HD RAW
-http://62.167.57.5:8000/play/a019
-#EXTINF:-1,EUROSPORT1HD
-http://62.167.57.5:8000/play/ay13
-#EXTINF:-1,SYFY HD
-http://62.167.57.5:8000/play/ay15
-#EXTINF:-1,BEIN SPORTS
-http://62.167.57.5:8000/play/ay37
-#EXTINF:-1,FOX HD
-http://62.167.57.5:8000/play/ay12
-#EXTINF:-1,BEINLALIGA2
-http://62.167.57.5:8000/play/ay70
-#EXTINF:-1,CALLE 13 HD
-http://62.167.57.5:8000/play/ay41
 
 
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" ,Antena 3
@@ -4230,12 +4018,6 @@ http://170.55.15.122:8000/play/a020
 #EXTINF:0,PNR: 4 [ATSC0]
 http://170.55.15.122:8000/play/a01x
 
-#EXTINF:-1,AMC 
-http://37.187.169.80:8080/ES-AMC/tracks-v1a1/index.m3u8 
-#EXTINF:-1,AXN 
-http://37.187.169.80:8080/ES-AXN/tracks-v1a1/index.m3u8 
-#EXTINF:-1,TNT 
-http://37.187.169.80:8080/ES-TNT/tracks-v1a1/index.m3u8
 
 
 
@@ -4503,7 +4285,7 @@ http://193.70.12.239:8080/live/ster/ster/18361.ts
 
 
 
-#EXTINF:8 group-title=”Albania/Macedonian”,
+#EXTINF:8 group-title=”Albania/Republic_of_Macedonia”,
 
 #EXTINF:-1,Rrokum TV
 rtmp://82.114.65.202/live/rrokumtv
