@@ -584,7 +584,6 @@ http://.....
 http://.....
 
 EXTINF:-1,ABC. NEWS HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
 http://dns.theplayersklub.us:2095/live/playersklub/playersklub/107.ts
 #EXTINF:-1,ABC NEWS HD 
 http://dns.theplayersklub.us:2095/live/playersklub/playersklub/108.ts
