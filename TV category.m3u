@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/3/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/3/17
 http://.....
 
 
@@ -418,16 +418,6 @@ http://164.132.160.221:8888/play/a00g/index.m3u8
 #EXTINF:-1,C More Golf
 http://164.132.160.221:8888/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png",UK:SKY SPORT 1  
-http://199.21.149.125:8888/UK_SKY_SPORTS_1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png",UK:SKY SPORT 2  
-http://199.21.149.125:8888/UK_SKY_SPORTS_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png",UK:SKY SPORT 3  
-http://199.21.149.125:8888/UK_SKY_SPORTS_3/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png",UK:SKY SPORT 4  
-http://199.21.149.125:8888/UK_SKY_SPORTS_4/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png",UK:SKY SPORT 5  
-http://199.21.149.125:8888/UK_SKY_SPORTS_5/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://s27.postimg.org/7horwy8yr/erenasport.jpg",ARENA SPORT 1
 http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
@@ -509,45 +499,14 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,Dubai Sports 4 HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 
-
-#EXTINF:-1,SPORT TV +
-http://178.199.55.109:9000/play/a07g
-#EXTINF:-1,SPORT TV 1 HD
-http://178.39.64.103:9000/play/a045
-#EXTINF:-1,SPORT TV 1
-http://178.199.55.109:9000/play/a063
-#EXTINF:-1,SPORT TV 2 HD
-http://178.39.64.103:9000/play/a03o
-#EXTINF:-1,SPORT TV 3 HD
-http://178.39.64.103:9000/play/a03p
-#EXTINF:-1,SPORT TV 4
-http://178.39.64.103:9000/play/a00l
-#EXTINF:-1,Sport TV 5
-http://178.199.55.109:9000/play/a02l
-#EXTINF:-1,BTV 1 HD
-http://178.39.64.103:9000/play/a03t
-#EXTINF:-1,Sporting TV
-http://178.199.55.109:9000/play/a02o
-#EXTINF:-1,PFC
-http://178.39.64.103:9000/play/a02z
-#EXTINF:-1,Kombat Sport
-http://178.39.64.103:9000/play/a03d
-#EXTINF:-1,Toros TV
-http://178.199.55.109:9000/play/a02m
-#EXTINF:-1,Motors TV
-http://178.39.64.103:9000/play/a00x
-#EXTINF:-1,Eurosport 2 Xtra
-http://178.39.64.103:9000/play/a00c
-#EXTINF:-1,A Bola TV
-http://178.39.64.103:9000/play/a01c
-#EXTINF:-1,Eurosport 1
-http://178.39.64.103:9000/play/a008
-#EXTINF:-1,Eurosport 2
-http://178.39.64.103:9000/play/a032
-#EXTINF:-1,Eurosport HD
-http://178.199.55.109:9000/play/a00p
-#EXTINF:-1,Eurosport 2
-http://178.199.55.109:9000/play/a079
+#EXTINF:0 , SuperSport 1 
+http://81.7.13.162/hls/ss1/index.m3u8 
+#EXTINF:0 , SuperSport 2 
+http://81.7.13.162/hls/ss2/index.m3u8 
+#EXTINF:0 , SuperSport 3 
+http://81.7.13.162/hls/ss3/index.m3u8 
+#EXTINF:-1,Superport 4 
+http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1,SUPERSPORTS
 http://46.105.161.243:8085/lighd
@@ -609,7 +568,10 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,POLSKI:Sport Poland
 http://212.79.96.134:8014/
-
+#EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART Sportzone
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
+rtmp://78.47.151.114/tilesport/movie1
 
 
 
@@ -621,20 +583,8 @@ http://212.79.96.134:8014/
 rtmp://live.streams.ovh/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
 rtsp://live.streams.ovh/MoviesTv/MoviesTv
-#EXTINF:0,HBO 
-http://195.228.11.91:1935/tv/hbo.stream/.m3u8 
-#EXTINF:0,HBO 2
-http://195.228.11.91:1935/tv/hbo2.stream/.m3u8 
-#EXTINF:0,HBO 3
-http://195.228.11.91:1935/tv/hbo3.stream/.m3u8
-#EXTINF:0,HBO 
-http://187.49.86.238:10000/bysid/69 
-#EXTINF:0,Paramount 
-http://187.49.86.238:10000/bysid/49 
 #EXTINF:-1,PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-p.m3u8
-#EXTINF:0,TELECINE PREMIUM 
-http://187.49.86.238:10000/bysid/61 
 #EXTINF:-1 ,RELoad
 http://bit.ly/2msHzVg
 #EXTINF:-1 ,SPICY
