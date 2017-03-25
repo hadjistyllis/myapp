@@ -2,6 +2,12 @@
 
 #EXTINF:1 group-title=”UPDATED DATE”,
 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
+http://.....
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/3/17
+http://.....
+
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
@@ -20,11 +26,6 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
 https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
-http://.....
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/3/17
-http://.....
 
 
 
@@ -1003,138 +1004,158 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,==== Sky-Uk-Sport ====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1066.ts
-#EXTINF:-1,UK:SKY_SPORT.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/938.ts
-#EXTINF:-1,UK:SKY_SPORT.2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/939.ts
-#EXTINF:-1,UK:SKY_SPORT.3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/940.ts
-#EXTINF:-1,UK:SKY_SPORT.4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/941.ts
-#EXTINF:-1,UK:SKY_SPORT.5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/942.ts
-#EXTINF:-1,BT_Sport1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1052.ts
-#EXTINF:-1,BT_Sport2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1048.ts
-#EXTINF:-1,BT_Sport3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1049.ts
-#EXTINF:-1,BT_Sport_espn
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1058.ts
-#EXTINF:-1,Sky-Sport-F1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1043.ts
-#EXTINF:-1,Eurosport_Uk
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1051.ts
-#EXTINF:-1,SetantaSports_Ireland
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1039.ts
-#EXTINF:-1,Premier_Sports
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1338.ts
-#EXTINF:-1,Racing
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1336.ts
-#EXTINF:-1,UK:Fightbox
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1124.ts
-#EXTINF:-1,==== Sky-Uk-Movies ====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1067.ts
-#EXTINF:-1,5STAR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1861.ts
-#EXTINF:-1,UK:SKY_PREMIERE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1028.ts
-#EXTINF:-1,UK:SKY_Family HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1104.ts
-#EXTINF:-1,UK:SKY_Action
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1105.ts
-#EXTINF:-1,UK:SKY_Drama
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1108.ts
-#EXTINF:-1,UK:SKY_THRILLER
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/993.ts
-#EXTINF:-1,UK:SKY_SciFi&Hor
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/667.ts
-#EXTINF:-1,UK:SKY_Select
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1107.ts
-#EXTINF:-1,UK:SKY_Comedy
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1106.ts
-#EXTINF:-1,UK:SKY_showcast
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1109.ts
-#EXTINF:-1,Film4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1860.ts
-#EXTINF:-1,Sony Movie Ch
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1859.ts
-#EXTINF:-1,Movies4Men
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1343.ts
-#EXTINF:-1,RealLives
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1335.ts
-#EXTINF:-1,==== Sky-Uk-Kids ====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1069.ts
-#EXTINF:-1,UK:Disney_Channel
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1119.ts
-#EXTINF:-1,UK:Disney_Junior
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1120.ts
-#EXTINF:-1,UK:Disney_XD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1121.ts
-#EXTINF:-1,UK:Nickelodeon
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1122.ts
-#EXTINF:-1,UK:Nickelodeon_JR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1123.ts
-#EXTINF:-1,Nick_Jr.2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1341.ts
-#EXTINF:-1,Nick_Jr.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1340.ts
-#EXTINF:-1,Nicktoon_Ireland
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1339.ts
-#EXTINF:-1,==== Sky-Uk-Entertainment ====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1070.ts
-#EXTINF:-1,SKY_ONE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1073.ts
-#EXTINF:-1,SKY_TWO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1072.ts
-#EXTINF:-1,BBC-World-News
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1858.ts
-#EXTINF:-1,BBC.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1071.ts
-#EXTINF:-1,UK:ITV1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1114.ts
-#EXTINF:-1,UK:ITV2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1115.ts
-#EXTINF:-1,UK:ITV3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1116.ts
-#EXTINF:-1,UK:ITV4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1117.ts
-#EXTINF:-1,ID
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1345.ts
-#EXTINF:-1,FOXNews
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1351.ts
-#EXTINF:-1,FOX-UK
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1349.ts
-#EXTINF:-1,UK:ComedyCentral
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1118.ts
-#EXTINF:-1,ALJAZEERA_ENG
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/80.ts
-#EXTINF:-1,QUEST
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1337.ts
-#EXTINF:-1,==== Sky-Uk-Culture ====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1068.ts
-#EXTINF:-1,UK:Nat_Geo
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1110.ts
-#EXTINF:-1,UK:Nat_GeoWild
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/813.ts
-#EXTINF:-1,UK:Discovery
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1111.ts
-#EXTINF:-1,UK:Travel_Channel
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1126.ts
-#EXTINF:-1,UK:ID_Xtra
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1125.ts
-#EXTINF:-1,UK:Discovery.History
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1112.ts
-#EXTINF:-1,NatGeoWild
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1342.ts
-#EXTINF:-1,History.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1346.ts
-#EXTINF:-1,History2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1347.ts
-#EXTINF:-1,GoodFood.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1348.ts
+#EXTINF:-1,UK: Yesterday
+http://pro213.com/live/abdulrhman340/1okbd9/3745.ts
+#EXTINF:-1,UK: Viva
+http://pro213.com/live/abdulrhman340/1okbd9/3743.ts
+#EXTINF:-1,UK: VH1
+http://pro213.com/live/abdulrhman340/1okbd9/3742.ts
+#EXTINF:-1,UK: TLC
+http://pro213.com/live/abdulrhman340/1okbd9/3725.ts
+#EXTINF:-1,UK: STV
+http://pro213.com/live/abdulrhman340/1okbd9/3714.ts
+#EXTINF:-1,UK: Sky Sport News
+http://pro213.com/live/abdulrhman340/1okbd9/3711.ts
+#EXTINF:-1,UK: Sky Movies Christmas
+http://pro213.com/live/abdulrhman340/1okbd9/3751.ts
+#EXTINF:-1,UK: Sky Living
+http://pro213.com/live/abdulrhman340/1okbd9/3752.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://pro213.com/live/abdulrhman340/1okbd9/3728.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://pro213.com/live/abdulrhman340/1okbd9/3733.ts
+#EXTINF:-1,UK: Press TV
+http://pro213.com/live/abdulrhman340/1okbd9/3722.ts
+#EXTINF:-1,UK: Nickelodeon
+http://pro213.com/live/abdulrhman340/1okbd9/3736.ts
+#EXTINF:-1,UK: MTV Hits
+http://pro213.com/live/abdulrhman340/1okbd9/3741.ts
+#EXTINF:-1,UK: MTV
+http://pro213.com/live/abdulrhman340/1okbd9/3740.ts
+#EXTINF:-1,UK: Love World
+http://pro213.com/live/abdulrhman340/1okbd9/3750.ts
+#EXTINF:-1,UK: ITV Be
+http://pro213.com/live/abdulrhman340/1okbd9/3713.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://pro213.com/live/abdulrhman340/1okbd9/3712.ts
+#EXTINF:-1,UK: Fox News
+http://pro213.com/live/abdulrhman340/1okbd9/3717.ts
+#EXTINF:-1,UK: FOX
+http://pro213.com/live/abdulrhman340/1okbd9/3724.ts
+#EXTINF:-1,UK: Food Network
+http://pro213.com/live/abdulrhman340/1okbd9/3739.ts
+#EXTINF:-1,UK: Film 4
+http://pro213.com/live/abdulrhman340/1okbd9/3727.ts
+#EXTINF:-1,UK: E Entertainment
+http://pro213.com/live/abdulrhman340/1okbd9/3726.ts
+#EXTINF:-1,UK: Discovery Science
+http://pro213.com/live/abdulrhman340/1okbd9/3729.ts
+#EXTINF:-1,UK: Chelsea TV
+http://pro213.com/live/abdulrhman340/1okbd9/3731.ts
+#EXTINF:-1,UK: Channel Aka
+http://pro213.com/live/abdulrhman340/1okbd9/3749.ts
+#EXTINF:-1,UK: Channel 5
+http://pro213.com/live/abdulrhman340/1okbd9/3721.ts
+#EXTINF:-1,UK: Channel 4
+http://pro213.com/live/abdulrhman340/1okbd9/3720.ts
+#EXTINF:-1,UK: CCTV News
+http://pro213.com/live/abdulrhman340/1okbd9/3723.ts
+#EXTINF:-1,UK: CCTV 9 Documentary
+http://pro213.com/live/abdulrhman340/1okbd9/3730.ts
+#EXTINF:-1,UK: CBC Reality
+http://pro213.com/live/abdulrhman340/1okbd9/3747.ts
+#EXTINF:-1,UK: Cartoon Network
+http://pro213.com/live/abdulrhman340/1okbd9/3737.ts
+#EXTINF:-1,UK: BT Sport Europa
+http://pro213.com/live/abdulrhman340/1okbd9/3734.ts
+#EXTINF:-1,UK: Boomrang
+http://pro213.com/live/abdulrhman340/1okbd9/3738.ts
+#EXTINF:-1,UK: BBC Parliament
+http://pro213.com/live/abdulrhman340/1okbd9/3716.ts
+#EXTINF:-1,UK: BBC News
+http://pro213.com/live/abdulrhman340/1okbd9/3715.ts
+#EXTINF:-1,UK: Baby TV
+http://pro213.com/live/abdulrhman340/1okbd9/3735.ts
+#EXTINF:-1,UK: Arise News
+http://pro213.com/live/abdulrhman340/1okbd9/3748.ts
+#EXTINF:-1,UK: Alibi
+http://pro213.com/live/abdulrhman340/1okbd9/3746.ts
+#EXTINF:-1,UK: 5 USA
+http://pro213.com/live/abdulrhman340/1okbd9/3719.ts
+#EXTINF:-1,UK: 5 Star
+http://pro213.com/live/abdulrhman340/1okbd9/3718.ts
+#EXTINF:-1,UK: SKY Movies ShowCase
+http://pro213.com/live/abdulrhman340/1okbd9/2829.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://pro213.com/live/abdulrhman340/1okbd9/2830.ts
+#EXTINF:-1,Sky Movies Modern Great
+http://pro213.com/live/abdulrhman340/1okbd9/2535.ts
+#EXTINF:-1,UK: Sky Movies Drama
+http://pro213.com/live/abdulrhman340/1okbd9/2833.ts
+#EXTINF:-1,UK: SKY Movies Disney
+http://pro213.com/live/abdulrhman340/1okbd9/2832.ts
+#EXTINF:-1,UK: True Movies 2
+http://pro213.com/live/abdulrhman340/1okbd9/2828.ts
+#EXTINF:-1,UK: True Movies 1
+http://pro213.com/live/abdulrhman340/1okbd9/2827.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://pro213.com/live/abdulrhman340/1okbd9/2831.ts
+#EXTINF:-1,UK: ESPN
+http://pro213.com/live/abdulrhman340/1okbd9/2782.ts
+#EXTINF:-1,UK: Disney XD
+http://pro213.com/live/abdulrhman340/1okbd9/2826.ts
+#EXTINF:-1,UK: Disney Junior
+http://pro213.com/live/abdulrhman340/1okbd9/2834.ts
+#EXTINF:-1,UK: Disney Channel
+http://pro213.com/live/abdulrhman340/1okbd9/2835.ts
+#EXTINF:-1,UK: Animal Planet
+http://pro213.com/live/abdulrhman340/1okbd9/1800.ts
+#EXTINF:-1,UK: ITV
+http://pro213.com/live/abdulrhman340/1okbd9/2620.ts
+#EXTINF:-1,UK: ITV 3
+http://pro213.com/live/abdulrhman340/1okbd9/2622.ts
+#EXTINF:-1,UK: ITV 4
+http://pro213.com/live/abdulrhman340/1okbd9/2623.ts
+#EXTINF:-1,CNN UK
+http://pro213.com/live/abdulrhman340/1okbd9/2605.ts
+#EXTINF:-1,BBC One
+http://pro213.com/live/abdulrhman340/1okbd9/2533.ts
+#EXTINF:-1,BBC Two
+http://pro213.com/live/abdulrhman340/1okbd9/2534.ts
+#EXTINF:-1,I Film English
+http://pro213.com/live/abdulrhman340/1okbd9/2604.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://pro213.com/live/abdulrhman340/1okbd9/2374.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://pro213.com/live/abdulrhman340/1okbd9/1799.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://pro213.com/live/abdulrhman340/1okbd9/1798.ts
+#EXTINF:-1,Sky Action UK
+http://pro213.com/live/abdulrhman340/1okbd9/2009.ts
+#EXTINF:-1,UK: Discovery
+http://pro213.com/live/abdulrhman340/1okbd9/2376.ts
+#EXTINF:-1,UK: History
+http://pro213.com/live/abdulrhman340/1okbd9/2375.ts
+#EXTINF:-1,UK: National Geographic
+http://pro213.com/live/abdulrhman340/1okbd9/2010.ts
+#EXTINF:-1,UK: National Geographic wild
+http://pro213.com/live/abdulrhman340/1okbd9/2373.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3193.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3194.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3195.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3196.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3197.ts
+#EXTINF:-1,USA: Vevo1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/600.ts
+#EXTINF:-1,USA: Vevo2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/601.ts
+#EXTINF:-1,USA: Vevo3 HD
+http://pro213.com/live/abdulrhman340/1okbd9/602.ts
 
 
 
@@ -1880,242 +1901,159 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,---------Cinema_ita----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/433.ts
-#EXTINF:-1,Sky_Cinema_Uno
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/280.ts
-#EXTINF:-1,SKY_CINEMA_PASSION_ HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/507.ts
-#EXTINF:-1,Sky_ComedyHD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/523.ts
-#EXTINF:-1,Sky-CinemaMax-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/373.ts
-#EXTINF:-1,Sky_Cinema_Family_IT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1383.ts
-#EXTINF:-1,SKY-CINEMA+24.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1616.ts
-#EXTINF:-1,Sky-Cinema-Classic.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1617.ts
-#EXTINF:-1,SKY-CINEMA-HITS.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1615.ts
-#EXTINF:-1,Sky_Cinema_Cult_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/508.ts
-#EXTINF:-1,---------- Intrattenimento ----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1570.ts
-#EXTINF:-1,Sky_Uno
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1571.ts
-#EXTINF:-1,Sky_Fox_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/529.ts
-#EXTINF:-1,FOX_IT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1380.ts
-#EXTINF:-1,Fox-Comedy.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1575.ts
-#EXTINF:-1,Sky_Fox_Crime.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/530.ts
-#EXTINF:-1,Real-Time
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1577.ts
-#EXTINF:-1,Cielo
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1574.ts
-#EXTINF:-1,SKYTG-24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/598.ts
-#EXTINF:-1,---------Sport----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/434.ts
-#EXTINF:-1,Sky_Sport24_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/510.ts
-#EXTINF:-1,SKYIT_SUPERCALCIO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/396.ts
-#EXTINF:-1,Sky_Sport_1-IT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/522.ts
-#EXTINF:-1,Sky_Sport_2IT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/528.ts
-#EXTINF:-1,Sky_F1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/531.ts
-#EXTINF:-1,Eurosport-it_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/584.ts
-#EXTINF:-1,Eurosport2-it_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/585.ts
-#EXTINF:-1,SUPERTENNIS.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1578.ts
-#EXTINF:-1,JUVENTUS-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1866.ts
-#EXTINF:-1,ROMA-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1867.ts
-#EXTINF:-1,++++Calcio++++
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/524.ts
-#EXTINF:-1,SKY_CALCIO_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/30.ts
-#EXTINF:-1,SKY_CALCIO_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/31.ts
-#EXTINF:-1,SKY_CALCIO-3-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/391.ts
-#EXTINF:-1,SKY_CALCIO-4-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/392.ts
-#EXTINF:-1,Sky_Calcio-5-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/393.ts
-#EXTINF:-1,Sky_Calcio-6-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/394.ts
-#EXTINF:-1,Sky_Calcio-7-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/395.ts
-#EXTINF:-1,++++Cultura++++
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/525.ts
-#EXTINF:-1,ANIMAL_PLANETE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1.ts
-#EXTINF:-1,SKY_Discovery_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/509.ts
-#EXTINF:-1,Sky_Discovery_Travel
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/527.ts
-#EXTINF:-1,NAT-GEO-WILD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/4.ts
-#EXTINF:-1,NAT_GEO_PEOPLE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/511.ts
-#EXTINF:-1,RAI_STORIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1448.ts
-#EXTINF:-1,SKY_ARTE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/28.ts
-#EXTINF:-1,Sky-Discovery-Science.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1579.ts
-#EXTINF:-1,SKY-HISTORY.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1580.ts
-#EXTINF:-1,---------- Bambini ----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1573.ts
-#EXTINF:-1,Sky_Disney_Channel.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1131.ts
-#EXTINF:-1,CARTOONITO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/77.ts
-#EXTINF:-1,---------- Generalisti ----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1572.ts
-#EXTINF:-1,Mediaset-Extra
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1576.ts
-#EXTINF:-1,ITALIA.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/789.ts
-#EXTINF:-1,RETE_4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/787.ts
-#EXTINF:-1,CANALE_5.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/788.ts
-#EXTINF:-1,CANALE_5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/78.ts
-#EXTINF:-1,LA7_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1127.ts
-#EXTINF:-1,TV8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1128.ts
-#EXTINF:-1,RSI_la1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1129.ts
-#EXTINF:-1,RSI_la2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1130.ts
-#EXTINF:-1,=====PRIMAFILA=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/407.ts
-#EXTINF:-1,PRIMAFILA_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/19.ts
-#EXTINF:-1,PRIMAFILA_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/20.ts
-#EXTINF:-1,PRIMAFILA_3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/21.ts
-#EXTINF:-1,PRIMAFILA_4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/22.ts
-#EXTINF:-1,PRIMAFILA_5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/23.ts
-#EXTINF:-1,PRIMAFILA_6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/24.ts
-#EXTINF:-1,PRIMAFILA_7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/25.ts
-#EXTINF:-1,PRIMAFILA_8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/26.ts
-#EXTINF:-1,PRIMAFILA_9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/27.ts
-#EXTINF:-1,PRIMAFILA_10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/400.ts
-#EXTINF:-1,PRIMAFILA_11
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/401.ts
-#EXTINF:-1,PRIMAFILA_12
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/402.ts
-#EXTINF:-1,PRIMAFILA_13
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/403.ts
-#EXTINF:-1,PRIMAFILA_14
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/404.ts
-#EXTINF:-1,PRIMAFILA_15
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/405.ts
-#EXTINF:-1,PRIMAFILA_16
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/406.ts
-#EXTINF:-1,=====PREMIUM=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/408.ts
-#EXTINF:-1,Premium-Cinema.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1582.ts
-#EXTINF:-1,Premium-Crime+24.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1586.ts
-#EXTINF:-1,PREMIUM_ACTION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/2.ts
-#EXTINF:-1,PREMIUM-ACTION+24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/5.ts
-#EXTINF:-1,PREMIUM_CINEMA+24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/11.ts
-#EXTINF:-1,Premium-Cinema-Action+24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1585.ts
-#EXTINF:-1,Premium-Cinema-Comedy
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1584.ts
-#EXTINF:-1,Premium-Cinema-Emotion
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1583.ts
-#EXTINF:-1,PREMIUM_STUDIO_UNIVERSAL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/18.ts
-#EXTINF:-1,PREMIUM_STORIES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/17.ts
-#EXTINF:-1,PREMIUM_JOY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/16.ts
-#EXTINF:-1,PREMIUM_CARTOON_NETWORK
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/10.ts
-#EXTINF:-1,PREMIUM_DISNEY_JUNIOR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/12.ts
-#EXTINF:-1,Premium-Sport.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1587.ts
-#EXTINF:-1,PREMIUM_FOX_SPORT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/15.ts
-#EXTINF:-1,PREMIUM_EUROSPORT-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/13.ts
-#EXTINF:-1,PREMIUM_EUROSPORT-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/14.ts
-#EXTINF:-1,PREMIUM-CALCIO-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/6.ts
-#EXTINF:-1,PREMIUM-CALCIO-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/7.ts
-#EXTINF:-1,PREMIUM-CALCIO-3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/8.ts
-#EXTINF:-1,PREMIUM-CALCIO-4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/9.ts
-#EXTINF:-1,PREMIUM-CINEMA_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/3.ts
-#EXTINF:-1,PREMIUM_CALCIO-5-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/397.ts
-#EXTINF:-1,PREMIUM_CALCIO-6-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/398.ts
-#EXTINF:-1,PREMIUM_CALCIO-7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/399.ts
-#EXTINF:-1,---------- RAI-IT ----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1588.ts
-#EXTINF:-1,RAI_PREMIUM
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/149.ts
-#EXTINF:-1,RAI-News.24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1581.ts
-#EXTINF:-1,RAI_NEWS_24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/150.ts
-#EXTINF:-1,RAI_GULP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/151.ts
-#EXTINF:-1,RAI_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/144.ts
-#EXTINF:-1,RAI_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/145.ts
-#EXTINF:-1,RAI_3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/146.ts
-#EXTINF:-1,RAI_4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/147.ts
-#EXTINF:-1,RAI_5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/148.ts
-#EXTINF:-1,RAI_SPORT+
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1449.ts
-#EXTINF:-1,RAI_YOYO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/597.ts
-#EXTINF:-1,RADIO_MONTECARLO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/601.ts
-#EXTINF:-1,RADIO.105
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/600.ts
+#EXTINF:-1,IT: Rsi La1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3458.ts
+#EXTINF:-1,IT: Rsi La2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3459.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1233.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1234.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1235.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://pro213.com/live/abdulrhman340/1okbd9/3440.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://pro213.com/live/abdulrhman340/1okbd9/3441.ts
+#EXTINF:-1,IT: Rete 4
+http://pro213.com/live/abdulrhman340/1okbd9/3452.ts
+#EXTINF:-1,IT: LA 9
+http://pro213.com/live/abdulrhman340/1okbd9/3450.ts
+#EXTINF:-1,IT: LA 8
+http://pro213.com/live/abdulrhman340/1okbd9/3449.ts
+#EXTINF:-1,IT: La 5
+http://pro213.com/live/abdulrhman340/1okbd9/3454.ts
+#EXTINF:-1,IT: Canale 5
+http://pro213.com/live/abdulrhman340/1okbd9/3453.ts
+#EXTINF:-1,IT: Italia 1
+http://pro213.com/live/abdulrhman340/1okbd9/3451.ts
+#EXTINF:-1,IT: Rai YoYo
+http://pro213.com/live/abdulrhman340/1okbd9/2501.ts
+#EXTINF:-1,IT: Music TV
+http://pro213.com/live/abdulrhman340/1okbd9/3447.ts
+#EXTINF:-1,IT: Cartoon Network
+http://pro213.com/live/abdulrhman340/1okbd9/2556.ts
+#EXTINF:-1,IT: Disney XD
+http://pro213.com/live/abdulrhman340/1okbd9/2554.ts
+#EXTINF:-1,IT: Tele Uno
+http://pro213.com/live/abdulrhman340/1okbd9/3456.ts
+#EXTINF:-1,IT: Fishing TV
+http://pro213.com/live/abdulrhman340/1okbd9/3448.ts
+#EXTINF:-1,IT: Mediasat Extra
+http://pro213.com/live/abdulrhman340/1okbd9/3455.ts
+#EXTINF:-1,IT: Premium Calcio
+http://pro213.com/live/abdulrhman340/1okbd9/2543.ts
+#EXTINF:-1,IT: Premium Cinema
+http://pro213.com/live/abdulrhman340/1okbd9/1266.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1263.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://pro213.com/live/abdulrhman340/1okbd9/1264.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://pro213.com/live/abdulrhman340/1okbd9/2536.ts
+#EXTINF:-1,IT: Premium Cinema Comedy
+http://pro213.com/live/abdulrhman340/1okbd9/2542.ts
+#EXTINF:-1,IT: PREMIUM CINEMA  ENERGY
+http://pro213.com/live/abdulrhman340/1okbd9/1261.ts
+#EXTINF:-1,IT: Premium Action HD
+http://pro213.com/live/abdulrhman340/1okbd9/2544.ts
+#EXTINF:-1,IT: Premium Emotion
+http://pro213.com/live/abdulrhman340/1okbd9/2541.ts
+#EXTINF:-1,IT: Premium Joy
+http://pro213.com/live/abdulrhman340/1okbd9/2539.ts
+#EXTINF:-1,IT: Premium Sport
+http://pro213.com/live/abdulrhman340/1okbd9/2538.ts
+#EXTINF:-1,IT: Premium Stories
+http://pro213.com/live/abdulrhman340/1okbd9/2537.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://pro213.com/live/abdulrhman340/1okbd9/1267.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://pro213.com/live/abdulrhman340/1okbd9/2546.ts
+#EXTINF:-1,IT: Premium DIscovery World
+http://pro213.com/live/abdulrhman340/1okbd9/2545.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://pro213.com/live/abdulrhman340/1okbd9/1260.ts
+#EXTINF:-1,IT: SKY CINEMA IT HD
+http://pro213.com/live/abdulrhman340/1okbd9/1229.ts
+#EXTINF:-1,IT: Cinema Max
+http://pro213.com/live/abdulrhman340/1okbd9/3462.ts
+#EXTINF:-1,IT: Sky Cinema  24
+http://pro213.com/live/abdulrhman340/1okbd9/3460.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://pro213.com/live/abdulrhman340/1okbd9/1228.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://pro213.com/live/abdulrhman340/1okbd9/1227.ts
+#EXTINF:-1,IT: Sky Cinema Comedy
+http://pro213.com/live/abdulrhman340/1okbd9/1268.ts
+#EXTINF:-1,IT: Sky Cinema Family
+http://pro213.com/live/abdulrhman340/1okbd9/2364.ts
+#EXTINF:-1,IT: Sky Cinema Classsic
+http://pro213.com/live/abdulrhman340/1okbd9/3461.ts
+#EXTINF:-1,IT: Sky Atlantic HD IT
+http://pro213.com/live/abdulrhman340/1okbd9/1230.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://pro213.com/live/abdulrhman340/1okbd9/1259.ts
+#EXTINF:-1,IT: Sport Italia
+http://pro213.com/live/abdulrhman340/1okbd9/3446.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://pro213.com/live/abdulrhman340/1okbd9/2547.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://pro213.com/live/abdulrhman340/1okbd9/2549.ts
+#EXTINF:-1,IT: Fox Comedy
+http://pro213.com/live/abdulrhman340/1okbd9/2550.ts
+#EXTINF:-1,IT: Fox Crime
+http://pro213.com/live/abdulrhman340/1okbd9/2500.ts
+#EXTINF:-1,IT: Fox Life HD
+http://pro213.com/live/abdulrhman340/1okbd9/2548.ts
+#EXTINF:-1,IT: Fox
+http://pro213.com/live/abdulrhman340/1okbd9/2365.ts
+#EXTINF:-1,IT: Sky Moto Gp
+http://pro213.com/live/abdulrhman340/1okbd9/2362.ts
+#EXTINF:-1,IT: Sky Sport F1
+http://pro213.com/live/abdulrhman340/1okbd9/2363.ts
+#EXTINF:-1,IT: Sky Sport 24 IT
+http://pro213.com/live/abdulrhman340/1okbd9/2369.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://pro213.com/live/abdulrhman340/1okbd9/2368.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://pro213.com/live/abdulrhman340/1okbd9/2367.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://pro213.com/live/abdulrhman340/1okbd9/2366.ts
+#EXTINF:-1,IT: Sky Sport 2
+http://pro213.com/live/abdulrhman340/1okbd9/26.ts
+#EXTINF:-1,IT: Sky Sport 1
+http://pro213.com/live/abdulrhman340/1okbd9/25.ts
+#EXTINF:-1,IT: Sky TG24
+http://pro213.com/live/abdulrhman340/1okbd9/3457.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://pro213.com/live/abdulrhman340/1okbd9/2557.ts
+#EXTINF:-1,IT: SuperTennis HD
+http://pro213.com/live/abdulrhman340/1okbd9/2558.ts
+#EXTINF:-1,IT: Sky Sport  3
+http://pro213.com/live/abdulrhman340/1okbd9/27.ts
+#EXTINF:-1,IT:PrimaFila 1
+http://pro213.com/live/abdulrhman340/1okbd9/400.ts
+#EXTINF:-1,IT: PrimaFila 2
+http://pro213.com/live/abdulrhman340/1okbd9/401.ts
+#EXTINF:-1,IT: PrimaFila 3
+http://pro213.com/live/abdulrhman340/1okbd9/402.ts
+#EXTINF:-1,IT: PrimaFila 4
+http://pro213.com/live/abdulrhman340/1okbd9/404.ts
+#EXTINF:-1,IT: PrimaFila 5
+http://pro213.com/live/abdulrhman340/1okbd9/405.ts
+#EXTINF:-1,IT: PrimaFila 6
+http://pro213.com/live/abdulrhman340/1okbd9/406.ts
+#EXTINF:-1,IT: PrimaFila 7
+http://pro213.com/live/abdulrhman340/1okbd9/407.ts
+#EXTINF:-1,IT: PrimaFila 8
+http://pro213.com/live/abdulrhman340/1okbd9/408.ts
+#EXTINF:-1,IT: PrimaFila 9
+http://pro213.com/live/abdulrhman340/1okbd9/409.ts
+#EXTINF:-1,IT: PrimaFila 10
+http://pro213.com/live/abdulrhman340/1okbd9/410.ts
+
+
+
 
 
 
@@ -2256,561 +2194,162 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,TF1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1501.ts
-#EXTINF:-1,TF1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/84.ts
-#EXTINF:-1,FRANCE.2-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1502.ts
-#EXTINF:-1,FRANCE.3-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1503.ts
-#EXTINF:-1,FRANCE.4-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1504.ts
-#EXTINF:-1,FRANCE.5-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1505.ts
-#EXTINF:-1,FRANCE_O_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/161.ts
-#EXTINF:-1,FRANCE_O
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/89.ts
-#EXTINF:-1,France_2.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1007.ts
-#EXTINF:-1,France_3.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1008.ts
-#EXTINF:-1,France_4.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1009.ts
-#EXTINF:-1,France_5.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1013.ts
-#EXTINF:-1,France_Ô.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1021.ts
-#EXTINF:-1,M6-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1500.ts
-#EXTINF:-1,M6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/90.ts
-#EXTINF:-1,PARIS_PREMIERE.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/243.ts
-#EXTINF:-1,Paris_premiere.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1030.ts
-#EXTINF:-1,TMC-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1506.ts
-#EXTINF:-1,TMC_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1014.ts
-#EXTINF:-1,TV_BREIZH
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/244.ts
-#EXTINF:-1,6ter-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1509.ts
-#EXTINF:-1,6ter_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1024.ts
-#EXTINF:-1,ARTE-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1513.ts
-#EXTINF:-1,ARTE_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/426.ts
-#EXTINF:-1,<<<<<< Cinema France>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/111.ts
-#EXTINF:-1,CANAL+HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/154.ts
-#EXTINF:-1,CANAL+
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/112.ts
-#EXTINF:-1,CANAL+DECALE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/153.ts
-#EXTINF:-1,CANAL-DECALE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1624.ts
-#EXTINF:-1,CANAL+FAMILY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/163.ts
-#EXTINF:-1,CANAL+FAMILY_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/115.ts
-#EXTINF:-1,CANAL+CINEMA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/113.ts
-#EXTINF:-1,CANAL+CINEMA_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/164.ts
-#EXTINF:-1,OCS_MAX
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/409.ts
-#EXTINF:-1,OCS.GEANTS-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1397.ts
-#EXTINF:-1,OCS_GEANTS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/313.ts
-#EXTINF:-1,OCS_CITY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/410.ts
-#EXTINF:-1,CANVAS.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1620.ts
-#EXTINF:-1,OCS_CHOC_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/239.ts
-#EXTINF:-1,OCS_CHOC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/68.ts
-#EXTINF:-1,CINE+PREMIER-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/312.ts
-#EXTINF:-1,CINE+PREMIER
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1895.ts
-#EXTINF:-1,CINE+FRISSON
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/196.ts
-#EXTINF:-1,CINE+FAMIZ-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/660.ts
-#EXTINF:-1,CINE+FAMIZ
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/238.ts
-#EXTINF:-1,CINE+EMOTION-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/195.ts
-#EXTINF:-1,CINE-EMOTION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1627.ts
-#EXTINF:-1,ACTION-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1886.ts
-#EXTINF:-1,ACTION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/270.ts
-#EXTINF:-1,CINE-POLAR.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1893.ts
-#EXTINF:-1,CINE_POLAR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/311.ts
-#EXTINF:-1,TCM-CINEMA-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1626.ts
-#EXTINF:-1,TCM.Cinema
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1414.ts
-#EXTINF:-1,CINE+CLASSIC-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1887.ts
-#EXTINF:-1,Cine-Classic
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/307.ts
-#EXTINF:-1,CINE+FX.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1889.ts
-#EXTINF:-1,CINE_FX
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/305.ts
-#EXTINF:-1,PARAMOUNT-CHANNEL-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1884.ts
-#EXTINF:-1,PARAMOUNT_CHANNEL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/62.ts
-#EXTINF:-1,CANALPLAY-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/165.ts
-#EXTINF:-1,CANALPLAY-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/166.ts
-#EXTINF:-1,CANALPLAY-3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/167.ts
-#EXTINF:-1,CANALPLAY-4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/168.ts
-#EXTINF:-1,CANALPLAY-5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/169.ts
-#EXTINF:-1,CANALPLAY-6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/170.ts
-#EXTINF:-1,CANALPLAY-7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/171.ts
-#EXTINF:-1,CANALPLAY-8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/172.ts
-#EXTINF:-1,CANALPLAY-9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/173.ts
-#EXTINF:-1,CANALPLAY-10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/174.ts
-#EXTINF:-1,CANALPLAY-11
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/175.ts
-#EXTINF:-1,CANALPLAY-12
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/176.ts
-#EXTINF:-1,CANALPLAY-13
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/177.ts
-#EXTINF:-1,CANALPLAY-14
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/178.ts
-#EXTINF:-1,CANALPLAY-15
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/179.ts
-#EXTINF:-1,CANALPLAY-16
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/352.ts
-#EXTINF:-1,=====Orange=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/786.ts
-#EXTINF:-1,Disney-Orange_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/344.ts
-#EXTINF:-1,Disney-Orange_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1638.ts
-#EXTINF:-1,Disney-Orange_3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1639.ts
-#EXTINF:-1,Orange_Cine
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/782.ts
-#EXTINF:-1,Orange_Cine+1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/730.ts
-#EXTINF:-1,Orange_Cine+2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/729.ts
-#EXTINF:-1,Orange_Cine+3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/67.ts
-#EXTINF:-1,Orange_Cine+4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/693.ts
-#EXTINF:-1,Orange_Cine+5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/732.ts
-#EXTINF:-1,Orange_Cine+6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/99.ts
-#EXTINF:-1,Orange_Cine+7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/98.ts
-#EXTINF:-1,Orange_Cine+8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/388.ts
-#EXTINF:-1,ALACARTE-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/185.ts
-#EXTINF:-1,ALACARTE-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/184.ts
-#EXTINF:-1,ALACARTE-3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/183.ts
-#EXTINF:-1,ALACARTE-4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/199.ts
-#EXTINF:-1,ALACARTE_5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/200.ts
-#EXTINF:-1,ALACARTE_6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/209.ts
-#EXTINF:-1,ALACARTE_7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/210.ts
-#EXTINF:-1,ALACARTE_8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/211.ts
-#EXTINF:-1,ALACARTE_9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/212.ts
-#EXTINF:-1,ALACARTE-10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/213.ts
-#EXTINF:-1,<<<<<< Sport France>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/91.ts
-#EXTINF:-1,SFR_SPORT.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/985.ts
-#EXTINF:-1,SFR_SPORT2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/420.ts
-#EXTINF:-1,SFR_SPORT3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1012.ts
-#EXTINF:-1,SFR_SPORT5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1065.ts
-#EXTINF:-1,CANAL+SPORT.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/100.ts
-#EXTINF:-1,FOOT-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1628.ts
-#EXTINF:-1,FOOT+24_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/425.ts
-#EXTINF:-1,FR:BEINSPORT.1HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/886.ts
-#EXTINF:-1,FR:BEINSPORT.2HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/887.ts
-#EXTINF:-1,FR:BEINSPORT.3HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/888.ts
-#EXTINF:-1,FR:beINSPORT-1-SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/92.ts
-#EXTINF:-1,FR:beINSPORT-2-SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/93.ts
-#EXTINF:-1,FR:beINSPORT-3-SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/94.ts
-#EXTINF:-1,BEINSPORT-MAX-4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/95.ts
-#EXTINF:-1,BEINSPORT-MAX-5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1088.ts
-#EXTINF:-1,BEINSPORT-MAX-6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1089.ts
-#EXTINF:-1,BEINSPORT-MAX-7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1113.ts
-#EXTINF:-1,BEINSPORT-MAX-8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1468.ts
-#EXTINF:-1,BEINSPORT-MAX-9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1469.ts
-#EXTINF:-1,BEINSPORT-MAX-10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1470.ts
-#EXTINF:-1,BFM-Sport
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1185.ts
-#EXTINF:-1,INFOSPORT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/245.ts
-#EXTINF:-1,L'EQUIPE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/152.ts
-#EXTINF:-1,L'Equipe.21-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1511.ts
-#EXTINF:-1,EQUIPE_21.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1023.ts
-#EXTINF:-1,AB_Moteur
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/781.ts
-#EXTINF:-1,AB.Moteur_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1035.ts
-#EXTINF:-1,EUROSPORT.1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1892.ts
-#EXTINF:-1,EUROSPORT1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/142.ts
-#EXTINF:-1,EUROSPORT2_FR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/87.ts
-#EXTINF:-1,EQUIDIA_LIVE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1036.ts
-#EXTINF:-1,EQUIDIA-LIFE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/85.ts
-#EXTINF:-1,=====SPORT_GOLF=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/854.ts
-#EXTINF:-1,FR:Golf+
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/859.ts
-#EXTINF:-1,GOLF-CHANNELS.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/853.ts
-#EXTINF:-1,<<<<<< Divertissement>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/138.ts
-#EXTINF:-1,SERIE-CLUB-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1888.ts
-#EXTINF:-1,SERIE_CLUB
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/193.ts
-#EXTINF:-1,CANAL+SERIES-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1885.ts
-#EXTINF:-1,CANAL+SERIES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/69.ts
-#EXTINF:-1,13EME-RUE-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/242.ts
-#EXTINF:-1,13Eme-Rue.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1758.ts
-#EXTINF:-1,SYFY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/194.ts
-#EXTINF:-1,SYFY_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/240.ts
-#EXTINF:-1,Nautical_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/749.ts
-#EXTINF:-1,TEVA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/189.ts
-#EXTINF:-1,Téva_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1031.ts
-#EXTINF:-1,BRAVAHD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/314.ts
-#EXTINF:-1,NOLIFE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1098.ts
-#EXTINF:-1,RTS_UN-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/259.ts
-#EXTINF:-1,RTS-DEUX-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/260.ts
-#EXTINF:-1,COMEDIE+HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1890.ts
-#EXTINF:-1,COMEDIE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/192.ts
-#EXTINF:-1,E!_ENTERTAINEMENT-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1891.ts
-#EXTINF:-1,E!_ENTERTAINEMENT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/289.ts
-#EXTINF:-1,MCS-BIEN-ETRE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1865.ts
-#EXTINF:-1,Elle_Girl
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/699.ts
-#EXTINF:-1,BET
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/449.ts
-#EXTINF:-1,HD1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1512.ts
-#EXTINF:-1,HD1_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1022.ts
-#EXTINF:-1,AB1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/390.ts
-#EXTINF:-1,AB3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/785.ts
-#EXTINF:-1,C8-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1330.ts
-#EXTINF:-1,C8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/188.ts
-#EXTINF:-1,DIRECTSTAR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1090.ts
-#EXTINF:-1,DIRECT8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1091.ts
-#EXTINF:-1,Cstar
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/187.ts
-#EXTINF:-1,WEO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/503.ts
-#EXTINF:-1,TVA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/613.ts
-#EXTINF:-1,TV7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/455.ts
-#EXTINF:-1,MIRABELLE_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/722.ts
-#EXTINF:-1,RTL9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/197.ts
-#EXTINF:-1,RTL.9_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1029.ts
-#EXTINF:-1,NUMERO-23
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/308.ts
-#EXTINF:-1,Numero.23_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1025.ts
-#EXTINF:-1,NT1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1508.ts
-#EXTINF:-1,NT1.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1015.ts
-#EXTINF:-1,W9-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1507.ts
-#EXTINF:-1,W9_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/421.ts
-#EXTINF:-1,Ofive.tv
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1038.ts
-#EXTINF:-1,Luxe.Tv
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1054.ts
-#EXTINF:-1,VOSGES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1102.ts
-#EXTINF:-1,M6_BOUTIQUE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1097.ts
-#EXTINF:-1,FASHIONTV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1064.ts
-#EXTINF:-1,BESTOFSHOP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/81.ts
-#EXTINF:-1,LUCKYJACK
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1062.ts
-#EXTINF:-1,<<<<<< Enfants>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/139.ts
-#EXTINF:-1,DISNY.CHANNEL-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1621.ts
-#EXTINF:-1,DISNEY_CHANNEL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/198.ts
-#EXTINF:-1,Disney_Channel-SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1040.ts
-#EXTINF:-1,Disney-Channel+1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1041.ts
-#EXTINF:-1,DISNEY_CHANNEL+1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/88.ts
-#EXTINF:-1,Disney_XD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/532.ts
-#EXTINF:-1,DISNEY-JUNIOR-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1883.ts
-#EXTINF:-1,DISNEY_JUNIOR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/64.ts
-#EXTINF:-1,Disney_cinema
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/453.ts
-#EXTINF:-1,NICKELODEON
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/181.ts
-#EXTINF:-1,NICKELODEON_JUNIOR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/182.ts
-#EXTINF:-1,TELETOON
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/994.ts
-#EXTINF:-1,PIWI-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1625.ts
-#EXTINF:-1,PIWI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/249.ts
-#EXTINF:-1,Baby_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/748.ts
-#EXTINF:-1,zouzous
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/777.ts
-#EXTINF:-1,Canal_J
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/454.ts
-#EXTINF:-1,TIJI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1622.ts
-#EXTINF:-1,TIJI-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/456.ts
-#EXTINF:-1,BOOMERANG
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/63.ts
-#EXTINF:-1,BOiNg
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/794.ts
-#EXTINF:-1,CARTOON_NETWORK
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/65.ts
-#EXTINF:-1,Game-One
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1034.ts
-#EXTINF:-1,J-ONE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/284.ts
-#EXTINF:-1,GULLI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/297.ts
-#EXTINF:-1,Gulli_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1020.ts
-#EXTINF:-1,GONG
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/248.ts
-#EXTINF:-1,MANGAS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/66.ts
-#EXTINF:-1,GinX
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1060.ts
-#EXTINF:-1,<<<<<< Culture>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/137.ts
-#EXTINF:-1,PLANET+
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/271.ts
-#EXTINF:-1,PLANETE_CI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/246.ts
-#EXTINF:-1,PLANETE_A&E
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/247.ts
-#EXTINF:-1,DISCOVERY-FR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1759.ts
-#EXTINF:-1,DISCOVERY_SC-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1760.ts
-#EXTINF:-1,DISCOVERY-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/269.ts
-#EXTINF:-1,DISCOVERY-SCIENCE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/286.ts
-#EXTINF:-1,NATIONAL-GEO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/285.ts
-#EXTINF:-1,NAT_GEO_WILD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/143.ts
-#EXTINF:-1,EEN.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1623.ts
-#EXTINF:-1,Scienc&Vie
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/288.ts
-#EXTINF:-1,ANIMAUX_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/33.ts
-#EXTINF:-1,USHUAIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/272.ts
-#EXTINF:-1,USHUAIA_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1055.ts
-#EXTINF:-1,RMC_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1026.ts
-#EXTINF:-1,VOYAGE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/458.ts
-#EXTINF:-1,RMC_Decouvert
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/310.ts
-#EXTINF:-1,TREK
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/389.ts
-#EXTINF:-1,CHASSE-PECHE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/287.ts
-#EXTINF:-1,SEASONS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/703.ts
-#EXTINF:-1,toute_L'Hisoire
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/296.ts
-#EXTINF:-1,HISTOIRE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/306.ts
-#EXTINF:-1,Histoir_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1056.ts
-#EXTINF:-1,CHERIE_25
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/298.ts
-#EXTINF:-1,CHERIE.25_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1027.ts
-#EXTINF:-1,<<<<<<News>>>>>>
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/190.ts
-#EXTINF:-1,CNN_INTERNATIONAL_FR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1863.ts
-#EXTINF:-1,EURONEWS_FR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/300.ts
-#EXTINF:-1,France-24.ENG
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1044.ts
-#EXTINF:-1,FRANCE_24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/162.ts
-#EXTINF:-1,BFM_TV_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/155.ts
-#EXTINF:-1,BFM_BUISINESS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1045.ts
-#EXTINF:-1,BFM_TV.SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/424.ts
-#EXTINF:-1,LCI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1042.ts
-#EXTINF:-1,LCP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1016.ts
-#EXTINF:-1,LCP100%
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1046.ts
-#EXTINF:-1,iTELE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/186.ts
-#EXTINF:-1,iTELE_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1017.ts
-#EXTINF:-1,TV5_MONDE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/309.ts
-#EXTINF:-1,TV-5monde
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1033.ts
-#EXTINF:-1,i24News
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1050.ts
-#EXTINF:-1,CNN_INTERNATIONAL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1092.ts
-#EXTINF:-1,TELESUD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1101.ts
-#EXTINF:-1,GUYSENTV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1063.ts
-#EXTINF:-1,ALSACE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/82.ts
-#EXTINF:-1,=====MUSIC=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/268.ts
-#EXTINF:-1,M6_Music_Club
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/422.ts
-#EXTINF:-1,TROPIC.TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1057.ts
-#EXTINF:-1,CLUBBING
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1093.ts
-#EXTINF:-1,TRACE-URBAIN
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1099.ts
-#EXTINF:-1,MTV-PULSE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/264.ts
-#EXTINF:-1,MTV-MUSIC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/265.ts
-#EXTINF:-1,MTV-DANCE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/412.ts
-#EXTINF:-1,MTV-BASE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/266.ts
-#EXTINF:-1,MTV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/267.ts
-#EXTINF:-1,MCM
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1037.ts
-#EXTINF:-1,MCM_POP_MUSIC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/992.ts
-#EXTINF:-1,NRJ12-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1510.ts
-#EXTINF:-1,NRJ12_SD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1019.ts
-#EXTINF:-1,NRJ12_HITS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1344.ts
-#EXTINF:-1,Djazz_tv
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/716.ts
-
+#EXTINF:-1,FR: TF1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/703.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/718.ts
+#EXTINF:-1,FR: FRANCE 3 HD
+http://pro213.com/live/abdulrhman340/1okbd9/717.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://pro213.com/live/abdulrhman340/1okbd9/716.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://pro213.com/live/abdulrhman340/1okbd9/715.ts
+#EXTINF:-1,FR: ACTION HD
+http://pro213.com/live/abdulrhman340/1okbd9/747.ts
+#EXTINF:-1,FR: W9 HD
+http://pro213.com/live/abdulrhman340/1okbd9/700.ts
+#EXTINF:-1,FR: M6 HD
+http://pro213.com/live/abdulrhman340/1okbd9/711.ts
+#EXTINF:-1,FR: ARTE HD
+http://pro213.com/live/abdulrhman340/1okbd9/745.ts
+#EXTINF:-1,FR: 6TER HD
+http://pro213.com/live/abdulrhman340/1okbd9/1935.ts
+#EXTINF:-1,FR: D8 HD
+http://pro213.com/live/abdulrhman340/1okbd9/728.ts
+#EXTINF:-1,FR: Paris Premiere
+http://pro213.com/live/abdulrhman340/1okbd9/752.ts
+#EXTINF:-1,FR: FRANCE 0 HD
+http://pro213.com/live/abdulrhman340/1okbd9/719.ts
+#EXTINF:-1,FR: Comedie +
+http://pro213.com/live/abdulrhman340/1okbd9/3992.ts
+#EXTINF:-1,FR: Cine Polar
+http://pro213.com/live/abdulrhman340/1okbd9/3991.ts
+#EXTINF:-1,FR: Cine FX
+http://pro213.com/live/abdulrhman340/1okbd9/3990.ts
+#EXTINF:-1,FR: AB1
+http://pro213.com/live/abdulrhman340/1okbd9/3988.ts
+#EXTINF:-1,FR: RTL 9
+http://pro213.com/live/abdulrhman340/1okbd9/1932.ts
+#EXTINF:-1,FR: M6 Music
+http://pro213.com/live/abdulrhman340/1okbd9/4088.ts
+#EXTINF:-1,FR: NT1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1936.ts
+#EXTINF:-1,FR: Science Et Vie
+http://pro213.com/live/abdulrhman340/1okbd9/814.ts
+#EXTINF:-1,FR: Voyage
+http://pro213.com/live/abdulrhman340/1okbd9/1933.ts
+#EXTINF:-1,FR: RMC
+http://pro213.com/live/abdulrhman340/1okbd9/2730.ts
+#EXTINF:-1,FR: TMC
+http://pro213.com/live/abdulrhman340/1okbd9/816.ts
+#EXTINF:-1,FR: Serie Club HD
+http://pro213.com/live/abdulrhman340/1okbd9/765.ts
+#EXTINF:-1,FR: GAME ONE HD
+http://pro213.com/live/abdulrhman340/1okbd9/1939.ts
+#EXTINF:-1,FR: EURONEWS
+http://pro213.com/live/abdulrhman340/1okbd9/1940.ts
+#EXTINF:-1,FR: Disney XD HD
+http://pro213.com/live/abdulrhman340/1okbd9/724.ts
+#EXTINF:-1,FR: Numero23
+http://pro213.com/live/abdulrhman340/1okbd9/1949.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://pro213.com/live/abdulrhman340/1okbd9/3128.ts
+#EXTINF:-1,FR: Téva
+http://pro213.com/live/abdulrhman340/1okbd9/754.ts
+#EXTINF:-1,FR: INFOSPORT FR
+http://pro213.com/live/abdulrhman340/1okbd9/757.ts
+#EXTINF:-1,FR: NRJ12 HD
+http://pro213.com/live/abdulrhman340/1okbd9/706.ts
+#EXTINF:-1,FR: Discovery HD
+http://pro213.com/live/abdulrhman340/1okbd9/1934.ts
+#EXTINF:-1,FR: PLANET+ HD
+http://pro213.com/live/abdulrhman340/1okbd9/760.ts
+#EXTINF:-1,FR: PLANETE  A+E HD
+http://pro213.com/live/abdulrhman340/1okbd9/3127.ts
+#EXTINF:-1,FR: PLANETE CI
+http://pro213.com/live/abdulrhman340/1okbd9/801.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://pro213.com/live/abdulrhman340/1okbd9/823.ts
+#EXTINF:-1,FR: NatGeoWild HD
+http://pro213.com/live/abdulrhman340/1okbd9/822.ts
+#EXTINF:-1,FR: animaux HD
+http://pro213.com/live/abdulrhman340/1okbd9/746.ts
+#EXTINF:-1,FR: Ushuaia HD
+http://pro213.com/live/abdulrhman340/1okbd9/749.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://pro213.com/live/abdulrhman340/1okbd9/3130.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+http://pro213.com/live/abdulrhman340/1okbd9/1937.ts
+#EXTINF:-1,FR: OCS CITY HD
+http://pro213.com/live/abdulrhman340/1okbd9/3129.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://pro213.com/live/abdulrhman340/1okbd9/1938.ts
+#EXTINF:-1,FR: Canal J HD
+http://pro213.com/live/abdulrhman340/1okbd9/818.ts
+#EXTINF:-1,FR: Canal+ HD
+http://pro213.com/live/abdulrhman340/1okbd9/743.ts
+#EXTINF:-1,FR: Canal+ Series HD
+http://pro213.com/live/abdulrhman340/1okbd9/740.ts
+#EXTINF:-1,FR: Canal+ Family HD
+http://pro213.com/live/abdulrhman340/1okbd9/741.ts
+#EXTINF:-1,FR: Canal+ Cinema HD
+http://pro213.com/live/abdulrhman340/1okbd9/742.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://pro213.com/live/abdulrhman340/1okbd9/739.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://pro213.com/live/abdulrhman340/1okbd9/731.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://pro213.com/live/abdulrhman340/1okbd9/732.ts
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://pro213.com/live/abdulrhman340/1okbd9/730.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://pro213.com/live/abdulrhman340/1okbd9/734.ts
+#EXTINF:-1,FR: 13EME RUE HD
+http://pro213.com/live/abdulrhman340/1okbd9/748.ts
+#EXTINF:-1,FR: SYFY HD
+http://pro213.com/live/abdulrhman340/1okbd9/779.ts
+#EXTINF:-1,FR: BFMTV HD
+http://pro213.com/live/abdulrhman340/1okbd9/744.ts
+#EXTINF:-1,FR: BFM Business
+http://pro213.com/live/abdulrhman340/1okbd9/729.ts
+#EXTINF:-1,FR: Chasse et Peche
+http://pro213.com/live/abdulrhman340/1okbd9/736.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://pro213.com/live/abdulrhman340/1okbd9/789.ts
+#EXTINF:-1,FR: Mangas
+http://pro213.com/live/abdulrhman340/1okbd9/819.ts
+#EXTINF:-1,FR: GULLI HD
+http://pro213.com/live/abdulrhman340/1okbd9/713.ts
+#EXTINF:-1,FR: PIWI  HD
+http://pro213.com/live/abdulrhman340/1okbd9/804.ts
+#EXTINF:-1,FR: TELETOON  +1
+http://pro213.com/live/abdulrhman340/1okbd9/802.ts
+#EXTINF:-1,FR: TIJI TV
+http://pro213.com/live/abdulrhman340/1okbd9/2790.ts
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://pro213.com/live/abdulrhman340/1okbd9/772.ts
+#EXTINF:-1,FR: BOOMERANG HD
+http://pro213.com/live/abdulrhman340/1okbd9/788.ts
+#EXTINF:-1,FR: Canal Play 1
+http://pro213.com/live/abdulrhman340/1okbd9/2400.ts
+#EXTINF:-1,FR: Canal Play 2
+http://pro213.com/live/abdulrhman340/1okbd9/2401.ts
+#EXTINF:-1,FR: Canal Play 3
+http://pro213.com/live/abdulrhman340/1okbd9/2402.ts
+#EXTINF:-1,FR: Canal Play 4
+http://pro213.com/live/abdulrhman340/1okbd9/2403.ts
+#EXTINF:-1,FR: Canal Play 5
+http://pro213.com/live/abdulrhman340/1okbd9/2404.ts
+#EXTINF:-1,FR: A La Carte 1
+http://pro213.com/live/abdulrhman340/1okbd9/2231.ts
+#EXTINF:-1,FR: A La Carte 2
+http://pro213.com/live/abdulrhman340/1okbd9/2232.ts
+#EXTINF:-1,FR: A La Carte 3
+http://pro213.com/live/abdulrhman340/1okbd9/2233.ts
+#EXTINF:-1,FR: A La Carte 4
+http://pro213.com/live/abdulrhman340/1okbd9/2234.ts
+#EXTINF:-1,FR: A La Carte 5
+http://pro213.com/live/abdulrhman340/1okbd9/1950.ts
 
 
 
@@ -3140,180 +2679,132 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,ARD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/590.ts
-#EXTINF:-1,ZDF
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/468.ts
-#EXTINF:-1,ProSieben
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/471.ts
-#EXTINF:-1,SAT_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/472.ts
-#EXTINF:-1,RTL.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/469.ts
-#EXTINF:-1,RTL2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/470.ts
-#EXTINF:-1,Kabel_eins
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/474.ts
-#EXTINF:-1,VOX
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/473.ts
-#EXTINF:-1,Das_Erst_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/467.ts
-#EXTINF:-1,Virgin_Radio-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/599.ts
-#EXTINF:-1,MUNCHEN-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/594.ts
-#EXTINF:-1,AXN.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/544.ts
-#EXTINF:-1,FOX_DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/550.ts
-#EXTINF:-1,ANIXE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/592.ts
-#EXTINF:-1,DE_NTV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/684.ts
-#EXTINF:-1,DE_N24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/685.ts
-#EXTINF:-1,=====KINO=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/475.ts
-#EXTINF:-1,SKY_CINEMA.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/745.ts
-#EXTINF:-1,Sky_Cinema
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/476.ts
-#EXTINF:-1,Sky-Cinema+24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/477.ts
-#EXTINF:-1,Sky_Cinema+1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/773.ts
-#EXTINF:-1,SKY_ACTION.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/747.ts
-#EXTINF:-1,Sky-Action
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/478.ts
-#EXTINF:-1,AXN_ACTION.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/746.ts
-#EXTINF:-1,Sky_Comedy
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/708.ts
-#EXTINF:-1,MGM_DE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/710.ts
-#EXTINF:-1,Sky_Emotion
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/547.ts
-#EXTINF:-1,Sky_Hits_de
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/709.ts
-#EXTINF:-1,Sky_Hits
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/536.ts
-#EXTINF:-1,TNT_Film
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/548.ts
-#EXTINF:-1,----------PPV-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/563.ts
-#EXTINF:-1,Sky-Select.HD1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/554.ts
-#EXTINF:-1,Sky-Select.HD2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/556.ts
-#EXTINF:-1,Sky-Select.HD3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/557.ts
-#EXTINF:-1,Sky-Select.HD4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/558.ts
-#EXTINF:-1,Sky-Select.HD5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/560.ts
-#EXTINF:-1,Sky-Select.HD6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/561.ts
-#EXTINF:-1,Sky-Select.HD7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/562.ts
-#EXTINF:-1,Sky-Select.HD8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/564.ts
-#EXTINF:-1,Sky-Select.9HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/759.ts
-#EXTINF:-1,Sky-Select.10HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/760.ts
-#EXTINF:-1,----------Unterhaltung-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/559.ts
-#EXTINF:-1,SYFY-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/742.ts
-#EXTINF:-1,Sky_ATLANTIC_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/537.ts
-#EXTINF:-1,SKY_ATLANTIC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/29.ts
-#EXTINF:-1,AXN_DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/553.ts
-#EXTINF:-1,13th_Street.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/542.ts
-#EXTINF:-1,13th_Street_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/549.ts
-#EXTINF:-1,TNT_Serie
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/711.ts
-#EXTINF:-1,RTL_Passion
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/713.ts
-#EXTINF:-1,RTL_LIVING
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/714.ts
-#EXTINF:-1,RTL_Crime
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/715.ts
-#EXTINF:-1,RomanceTV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/712.ts
-#EXTINF:-1,RUSSIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1100.ts
-#EXTINF:-1,++++Sport++++
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/504.ts
-#EXTINF:-1,DE_Sky_SportNews_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/570.ts
-#EXTINF:-1,SKY_SPORT1.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/733.ts
-#EXTINF:-1,SKY_SPORT2.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/734.ts
-#EXTINF:-1,Sky-Sport-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/505.ts
-#EXTINF:-1,Sky-Sport-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/506.ts
-#EXTINF:-1,SKY_BUNDESLIGA-1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/432.ts
-#EXTINF:-1,SKY_BUNDESLIGA-2-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/431.ts
-#EXTINF:-1,SKY_BUNDESLIGA-3-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/430.ts
-#EXTINF:-1,EUROSPORT_DE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/546.ts
-#EXTINF:-1,Motorvision_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/717.ts
-#EXTINF:-1,----------Kultur-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/540.ts
-#EXTINF:-1,Discovery-Channel
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/552.ts
-#EXTINF:-1,NAT_GEO.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/743.ts
-#EXTINF:-1,Nat_GEO_DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/538.ts
-#EXTINF:-1,NAT_GEO_WILD-DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/543.ts
-#EXTINF:-1,SKY_DISCOVERY.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/744.ts
-#EXTINF:-1,Sky_Descovery_de_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/539.ts
-#EXTINF:-1,DMAX_DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/555.ts
-#EXTINF:-1,History-DE_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/545.ts
-#EXTINF:-1,TLC_Crime
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/569.ts
-#EXTINF:-1,DE:A&E
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/568.ts
-#EXTINF:-1,----------News_DE-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/572.ts
-#EXTINF:-1,HSE24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/595.ts
-#EXTINF:-1,DE_DW
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/573.ts
-#EXTINF:-1,DE_24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/574.ts
-#EXTINF:-1,AUSTRIA-24.TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/593.ts
-#EXTINF:-1,----------Kinder----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/565.ts
-#EXTINF:-1,Disney_Cinemagic_de
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/720.ts
-#EXTINF:-1,Disney_XD _de
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/719.ts
-#EXTINF:-1,Junior
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/718.ts
-#EXTINF:-1,DE_Nickelodeon
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/566.ts
-#EXTINF:-1,Kika_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/567.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://pro213.com/live/abdulrhman340/1okbd9/2370.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/2371.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://pro213.com/live/abdulrhman340/1okbd9/2372.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://pro213.com/live/abdulrhman340/1okbd9/1836.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://pro213.com/live/abdulrhman340/1okbd9/2377.ts
+#EXTINF:-1,DE: Sky Movies Action HD
+http://pro213.com/live/abdulrhman340/1okbd9/1835.ts
+#EXTINF:-1,DE: SKY MOVIES EMOTION HD
+http://pro213.com/live/abdulrhman340/1okbd9/3231.ts
+#EXTINF:-1,DE: RTL PASSION
+http://pro213.com/live/abdulrhman340/1okbd9/3232.ts
+#EXTINF:-1,DE: RTL NITRO
+http://pro213.com/live/abdulrhman340/1okbd9/3234.ts
+#EXTINF:-1,DE: RTL CRIME
+http://pro213.com/live/abdulrhman340/1okbd9/3233.ts
+#EXTINF:-1,DE: DISNEY XD
+http://pro213.com/live/abdulrhman340/1okbd9/3224.ts
+#EXTINF:-1,DE: DISNEY Channel
+http://pro213.com/live/abdulrhman340/1okbd9/3225.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://pro213.com/live/abdulrhman340/1okbd9/4210.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://pro213.com/live/abdulrhman340/1okbd9/4209.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://pro213.com/live/abdulrhman340/1okbd9/4208.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://pro213.com/live/abdulrhman340/1okbd9/4207.ts
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://pro213.com/live/abdulrhman340/1okbd9/4206.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://pro213.com/live/abdulrhman340/1okbd9/4205.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://pro213.com/live/abdulrhman340/1okbd9/3226.ts
+#EXTINF:-1,DE: ZDF
+http://pro213.com/live/abdulrhman340/1okbd9/2608.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://pro213.com/live/abdulrhman340/1okbd9/2606.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://pro213.com/live/abdulrhman340/1okbd9/2607.ts
+#EXTINF:-1,DE: RTL 2
+http://pro213.com/live/abdulrhman340/1okbd9/2611.ts
+#EXTINF:-1,DE: RTL
+http://pro213.com/live/abdulrhman340/1okbd9/2610.ts
+#EXTINF:-1,DE: VOX
+http://pro213.com/live/abdulrhman340/1okbd9/2609.ts
+#EXTINF:-1,DE: SyFy HD
+http://pro213.com/live/abdulrhman340/1okbd9/2614.ts
+#EXTINF:-1,DE: Prosieben
+http://pro213.com/live/abdulrhman340/1okbd9/2612.ts
+#EXTINF:-1,DE: Nickelodeon
+http://pro213.com/live/abdulrhman340/1okbd9/2613.ts
+#EXTINF:-1,DE: Discovery
+http://pro213.com/live/abdulrhman340/1okbd9/2378.ts
+#EXTINF:-1,DE: Sky Select 1
+http://pro213.com/live/abdulrhman340/1okbd9/1831.ts
+#EXTINF:-1,DE: Sky Select 2
+http://pro213.com/live/abdulrhman340/1okbd9/1832.ts
+#EXTINF:-1,DE: Sky Select 3
+http://pro213.com/live/abdulrhman340/1okbd9/1833.ts
+#EXTINF:-1,DE: Sky Select 4
+http://pro213.com/live/abdulrhman340/1okbd9/1834.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1947.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://pro213.com/live/abdulrhman340/1okbd9/1948.ts
+#EXTINF:-1,DE: Sky Bundesliga HD
+http://pro213.com/live/abdulrhman340/1okbd9/2379.ts
+#EXTINF:-1,DE: TNT Serie
+http://pro213.com/live/abdulrhman340/1okbd9/3697.ts
+#EXTINF:-1,DE: TNT Film
+http://pro213.com/live/abdulrhman340/1okbd9/3709.ts
+#EXTINF:-1,DE: TELE 5
+http://pro213.com/live/abdulrhman340/1okbd9/3689.ts
+#EXTINF:-1,DE: Super RTL
+http://pro213.com/live/abdulrhman340/1okbd9/3229.ts
+#EXTINF:-1,DE: Sport 1
+http://pro213.com/live/abdulrhman340/1okbd9/3693.ts
+#EXTINF:-1,DE: Sky News
+http://pro213.com/live/abdulrhman340/1okbd9/3694.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://pro213.com/live/abdulrhman340/1okbd9/3696.ts
+#EXTINF:-1,DE: Sat1 Gold
+http://pro213.com/live/abdulrhman340/1okbd9/3703.ts
+#EXTINF:-1,DE: Sat 1
+http://pro213.com/live/abdulrhman340/1okbd9/2015.ts
+#EXTINF:-1,DE: Prosieben Maxx
+http://pro213.com/live/abdulrhman340/1okbd9/3228.ts
+#EXTINF:-1,DE: NTV
+http://pro213.com/live/abdulrhman340/1okbd9/3692.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://pro213.com/live/abdulrhman340/1okbd9/3700.ts
+#EXTINF:-1,DE: Nat Geo
+http://pro213.com/live/abdulrhman340/1okbd9/3699.ts
+#EXTINF:-1,DE: N24
+http://pro213.com/live/abdulrhman340/1okbd9/3708.ts
+#EXTINF:-1,DE: Motor Vision
+http://pro213.com/live/abdulrhman340/1okbd9/3701.ts
+#EXTINF:-1,DE: Kika
+http://pro213.com/live/abdulrhman340/1okbd9/3690.ts
+#EXTINF:-1,DE: Kabel Eins
+http://pro213.com/live/abdulrhman340/1okbd9/2016.ts
+#EXTINF:-1,DE: hr-Fernsehen
+http://pro213.com/live/abdulrhman340/1okbd9/3691.ts
+#EXTINF:-1,DE: Heitmat Kanal
+http://pro213.com/live/abdulrhman340/1okbd9/3698.ts
+#EXTINF:-1,DE: DMAX
+http://pro213.com/live/abdulrhman340/1okbd9/2017.ts
+#EXTINF:-1,DE: Discovery Channel
+http://pro213.com/live/abdulrhman340/1okbd9/3707.ts
+#EXTINF:-1,DE: Das Erste
+http://pro213.com/live/abdulrhman340/1okbd9/2014.ts
+#EXTINF:-1,DE: Cartoon Network
+http://pro213.com/live/abdulrhman340/1okbd9/3705.ts
+#EXTINF:-1,DE: Boomrang
+http://pro213.com/live/abdulrhman340/1okbd9/3706.ts
+#EXTINF:-1,DE: Baby TV
+http://pro213.com/live/abdulrhman340/1okbd9/3704.ts
+#EXTINF:-1,DE: ARTE
+http://pro213.com/live/abdulrhman340/1okbd9/3702.ts
+#EXTINF:-1,DE: 13th Street
+http://pro213.com/live/abdulrhman340/1okbd9/3695.ts
 
 
 
@@ -3645,200 +3136,134 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,TV-1.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1082.ts
-#EXTINF:-1,TV1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/612.ts
-#EXTINF:-1,TV2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/611.ts
-#EXTINF:-1,Antena.3-ES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/885.ts
-#EXTINF:-1,Cuatro_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/831.ts
-#EXTINF:-1,TELECINCO_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/374.ts
-#EXTINF:-1,TELECINCO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/761.ts
-#EXTINF:-1,LA_SEXTA-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/429.ts
-#EXTINF:-1,TV_GALICIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/987.ts
-#EXTINF:-1,CANAL_ANDALUCIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/986.ts
-#EXTINF:-1,----------Noticias----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/882.ts
-#EXTINF:-1,CANAL_24_HORAS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/621.ts
-#EXTINF:-1,FOX_NEWS_ESP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/620.ts
-#EXTINF:-1,----------Deportes-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/618.ts
-#EXTINF:-1,CANAL+DEPORTES_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/375.ts
-#EXTINF:-1,CANAL+DEPORTES_2.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/668.ts
-#EXTINF:-1,GOL-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1642.ts
-#EXTINF:-1,C+FUTBALHD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/317.ts
-#EXTINF:-1,Teledeporte
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/989.ts
-#EXTINF:-1,beINSPORT_ES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/457.ts
-#EXTINF:-1,C+LIGA HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/316.ts
-#EXTINF:-1,BEIN_LA_LIGA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/984.ts
-#EXTINF:-1,LaLiga_TV_Bar.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1083.ts
-#EXTINF:-1,REAL-MADRID_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/318.ts
-#EXTINF:-1,Barca.TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/981.ts
-#EXTINF:-1,EUROSPORT.1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/990.ts
-#EXTINF:-1,MOVISTAR_F1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/622.ts
-#EXTINF:-1,M.MOTOGP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/623.ts
-#EXTINF:-1,CANAL+GOLF
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/376.ts
-#EXTINF:-1,----------Cine----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/624.ts
-#EXTINF:-1,M.ESTRENOSHD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/521.ts
-#EXTINF:-1,M. XTRA HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/666.ts
-#EXTINF:-1,CANAL+ACCION_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/627.ts
-#EXTINF:-1,CANAL+ACCION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/377.ts
-#EXTINF:-1,MOVISTAR_COMEDIA.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/983.ts
-#EXTINF:-1,Canal+Comedia
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/520.ts
-#EXTINF:-1,CANAL+DCINE.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/663.ts
-#EXTINF:-1,CANAL+DCINE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/378.ts
-#EXTINF:-1,DCINE_ESPANOL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/626.ts
-#EXTINF:-1,HOLLYWOOD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/428.ts
-#EXTINF:-1,TCM.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1084.ts
-#EXTINF:-1,TNT_ESP_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/629.ts
-#EXTINF:-1,----------Entretenimiento----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/630.ts
-#EXTINF:-1,ES:#O_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/625.ts
-#EXTINF:-1,CANAL+SERIES.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/664.ts
-#EXTINF:-1,CANAL+SERIES_Xtra.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/665.ts
-#EXTINF:-1,A3SERIES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/674.ts
-#EXTINF:-1,FOX
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/514.ts
-#EXTINF:-1,FOX.Life
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/513.ts
-#EXTINF:-1,AMC_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1081.ts
-#EXTINF:-1,AMC_ESP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/628.ts
-#EXTINF:-1,AXN-ESP_hd
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/631.ts
-#EXTINF:-1,CANAL+AXN_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/379.ts
-#EXTINF:-1,AXN_WHITE-ESP_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/632.ts
-#EXTINF:-1,SYFY-ESP_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/633.ts
-#EXTINF:-1,CALLE13
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/526.ts
-#EXTINF:-1,ENERGY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/988.ts
-#EXTINF:-1,Cosmo
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1864.ts
-#EXTINF:-1,Mega_TV.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1087.ts
-#EXTINF:-1,Canal_Decasa
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1086.ts
-#EXTINF:-1,NON_STOP_PEOPLE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/982.ts
-#EXTINF:-1,----------Cultura----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/640.ts
-#EXTINF:-1,CANAL_ODISEA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/634.ts
-#EXTINF:-1,Nat_Geographic_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/635.ts
-#EXTINF:-1,NG_WILD-ESP_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/636.ts
-#EXTINF:-1,NAT.GEO.WILD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/512.ts
-#EXTINF:-1,DISCOVERY_CI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/669.ts
-#EXTINF:-1,DISCOVERY_CHANNEL.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/671.ts
-#EXTINF:-1,HISTORIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1085.ts
-#EXTINF:-1,A&E_ES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/670.ts
-#EXTINF:-1,CAZA_Y_PESCA.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/991.ts
-#EXTINF:-1,IBERALIA_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/682.ts
-#EXTINF:-1,VIAJAR_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/637.ts
-#EXTINF:-1,CANAL_COCINA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/672.ts
-#EXTINF:-1,----------NiÃ±os----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/641.ts
-#EXTINF:-1,NICKELODEON.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/673.ts
-#EXTINF:-1,NICKELODEON-ESP_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/678.ts
-#EXTINF:-1,NICK_Jr
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/675.ts
-#EXTINF:-1,DISNEY-ESP_XD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/679.ts
-#EXTINF:-1,DISNEY_CHANNEL.HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/686.ts
-#EXTINF:-1,DISNEY.JR
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/516.ts
-#EXTINF:-1,Disney.Channel
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/518.ts
-#EXTINF:-1,CANAL_PANDA-ESP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/677.ts
-#EXTINF:-1,BOING-ESP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/681.ts
-#EXTINF:-1,BABY-ESP
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/680.ts
-#EXTINF:-1,40_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/683.ts
-#EXTINF:-1,=====TAQUILLA=====
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/372.ts
-#EXTINF:-1,Taquilla_1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/362.ts
-#EXTINF:-1,Taquilla_2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/363.ts
-#EXTINF:-1,Taquilla_3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/364.ts
-#EXTINF:-1,Taquilla_4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/365.ts
-#EXTINF:-1,Taquilla_5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/366.ts
-#EXTINF:-1,Taquilla_6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/367.ts
-#EXTINF:-1,Taquilla_7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/370.ts
-#EXTINF:-1,Taquilla_8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/369.ts
-#EXTINF:-1,Taquilla_9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/368.ts
-#EXTINF:-1,Taquilla_10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/371.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://pro213.com/live/abdulrhman340/1okbd9/1785.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://pro213.com/live/abdulrhman340/1okbd9/2516.ts
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://pro213.com/live/abdulrhman340/1okbd9/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://pro213.com/live/abdulrhman340/1okbd9/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://pro213.com/live/abdulrhman340/1okbd9/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://pro213.com/live/abdulrhman340/1okbd9/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://pro213.com/live/abdulrhman340/1okbd9/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://pro213.com/live/abdulrhman340/1okbd9/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://pro213.com/live/abdulrhman340/1okbd9/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://pro213.com/live/abdulrhman340/1okbd9/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://pro213.com/live/abdulrhman340/1okbd9/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://pro213.com/live/abdulrhman340/1okbd9/1915.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://pro213.com/live/abdulrhman340/1okbd9/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://pro213.com/live/abdulrhman340/1okbd9/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://pro213.com/live/abdulrhman340/1okbd9/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://pro213.com/live/abdulrhman340/1okbd9/2522.ts
+#EXTINF:-1,ES: CUATRO HD
+http://pro213.com/live/abdulrhman340/1okbd9/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://pro213.com/live/abdulrhman340/1okbd9/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://pro213.com/live/abdulrhman340/1okbd9/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://pro213.com/live/abdulrhman340/1okbd9/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://pro213.com/live/abdulrhman340/1okbd9/2426.ts
+#EXTINF:-1,ES: Canal Cocina
+http://pro213.com/live/abdulrhman340/1okbd9/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://pro213.com/live/abdulrhman340/1okbd9/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://pro213.com/live/abdulrhman340/1okbd9/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://pro213.com/live/abdulrhman340/1okbd9/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://pro213.com/live/abdulrhman340/1okbd9/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://pro213.com/live/abdulrhman340/1okbd9/1907.ts
+#EXTINF:-1,ES: TCM
+http://pro213.com/live/abdulrhman340/1okbd9/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://pro213.com/live/abdulrhman340/1okbd9/2436.ts
+#EXTINF:-1,ES: MEGA
+http://pro213.com/live/abdulrhman340/1okbd9/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://pro213.com/live/abdulrhman340/1okbd9/1909.ts
+#EXTINF:-1,ES: La 2
+http://pro213.com/live/abdulrhman340/1okbd9/2532.ts
+#EXTINF:-1,ES: La 1
+http://pro213.com/live/abdulrhman340/1okbd9/2531.ts
+#EXTINF:-1,ES: BEIN LA LIGA 2
+http://pro213.com/live/abdulrhman340/1okbd9/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://pro213.com/live/abdulrhman340/1okbd9/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE Ñ
+http://pro213.com/live/abdulrhman340/1okbd9/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://pro213.com/live/abdulrhman340/1okbd9/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://pro213.com/live/abdulrhman340/1okbd9/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://pro213.com/live/abdulrhman340/1okbd9/1793.ts
+#EXTINF:-1,ES: FOX
+http://pro213.com/live/abdulrhman340/1okbd9/1790.ts
+#EXTINF:-1,ES: History
+http://pro213.com/live/abdulrhman340/1okbd9/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://pro213.com/live/abdulrhman340/1okbd9/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://pro213.com/live/abdulrhman340/1okbd9/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://pro213.com/live/abdulrhman340/1okbd9/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://pro213.com/live/abdulrhman340/1okbd9/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://pro213.com/live/abdulrhman340/1okbd9/2435.ts
+#EXTINF:-1,ES: AMC
+http://pro213.com/live/abdulrhman340/1okbd9/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://pro213.com/live/abdulrhman340/1okbd9/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://pro213.com/live/abdulrhman340/1okbd9/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://pro213.com/live/abdulrhman340/1okbd9/2422.ts
+#EXTINF:-1,ES: Axn White
+http://pro213.com/live/abdulrhman340/1okbd9/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://pro213.com/live/abdulrhman340/1okbd9/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://pro213.com/live/abdulrhman340/1okbd9/1923.ts
+#EXTINF:-1,ES: COSMO
+http://pro213.com/live/abdulrhman340/1okbd9/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://pro213.com/live/abdulrhman340/1okbd9/1918.ts
+#EXTINF:-1,ES: TVE
+http://pro213.com/live/abdulrhman340/1okbd9/2420.ts
+#EXTINF:-1,ES: TNT HD
+http://pro213.com/live/abdulrhman340/1okbd9/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://pro213.com/live/abdulrhman340/1okbd9/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://pro213.com/live/abdulrhman340/1okbd9/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://pro213.com/live/abdulrhman340/1okbd9/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://pro213.com/live/abdulrhman340/1okbd9/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://pro213.com/live/abdulrhman340/1okbd9/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://pro213.com/live/abdulrhman340/1okbd9/1921.ts
 
 
 
@@ -4067,200 +3492,88 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,RTP-1HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/291.ts
-#EXTINF:-1,RTP-1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/322.ts
-#EXTINF:-1,RTP-2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/323.ts
-#EXTINF:-1,RTP-3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/353.ts
-#EXTINF:-1,RTP_Memoria
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1011.ts
-#EXTINF:-1,RTP_Acores
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1562.ts
-#EXTINF:-1,SIC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/324.ts
-#EXTINF:-1,SIC-RADICAL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/808.ts
-#EXTINF:-1,SIC-MULHER
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/809.ts
-#EXTINF:-1,SIC_CARAS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/44.ts
-#EXTINF:-1,SIC_Noticias
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1059.ts
-#EXTINF:-1,TVI
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/325.ts
-#EXTINF:-1,TVI_HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1415.ts
-#EXTINF:-1,TVI_FICCAO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1010.ts
-#EXTINF:-1,Canal_Q
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1879.ts
-#EXTINF:-1,TVI24
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/450.ts
-#EXTINF:-1,PORTO_CANAL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/807.ts
-#EXTINF:-1,CM-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/326.ts
-#EXTINF:-1,RECORD_NEWS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1061.ts
-#EXTINF:-1,----------Desporto----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/689.ts
-#EXTINF:-1,SPORT_TV+
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/263.ts
-#EXTINF:-1,SPORT_TV-1HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/320.ts
-#EXTINF:-1,SPORT-TV1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/645.ts
-#EXTINF:-1,SPORT-TV2-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/332.ts
-#EXTINF:-1,SPORT-TV2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/638.ts
-#EXTINF:-1,SPORT-TV3HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1418.ts
-#EXTINF:-1,SPORT-TV3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/337.ts
-#EXTINF:-1,SPORT_TV4HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1419.ts
-#EXTINF:-1,SPORT-TV4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/338.ts
-#EXTINF:-1,SPORT_TV5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1420.ts
-#EXTINF:-1,SPORT-TV5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/339.ts
-#EXTINF:-1,BENIFICA1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/342.ts
-#EXTINF:-1,BENIFICA-TV1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/343.ts
-#EXTINF:-1,SPORTING-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/340.ts
-#EXTINF:-1,A-BOLA-TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/341.ts
-#EXTINF:-1,PFC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/345.ts
-#EXTINF:-1,KOMBAT_SPORT_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/441.ts
-#EXTINF:-1,EUROSPORT_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/805.ts
-#EXTINF:-1,EUROSPORT2_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/806.ts
-#EXTINF:-1,FUEL TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/812.ts
-#EXTINF:-1,Motors_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/575.ts
-#EXTINF:-1,MOTORVISION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/803.ts
-#EXTINF:-1,TOROS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/804.ts
-#EXTINF:-1,----------INFANTIL----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/797.ts
-#EXTINF:-1,JIM-JAM
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/798.ts
-#EXTINF:-1,PT:BABY_FIRST
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1004.ts
-#EXTINF:-1,PT:BABY_TV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1006.ts
-#EXTINF:-1,CANAL_PANDA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/799.ts
-#EXTINF:-1,PANDA_BIGGS
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/697.ts
-#EXTINF:-1,NICKELODEON-PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/811.ts
-#EXTINF:-1,DISNEY_JUNIOR_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/800.ts
-#EXTINF:-1,DISNEY_CHANNEL_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/801.ts
-#EXTINF:-1,CartoonNetwork_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/810.ts
-#EXTINF:-1,SIC-K
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/354.ts
-#EXTINF:-1,----------Filmes----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/688.ts
-#EXTINF:-1,TVCine1-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/327.ts
-#EXTINF:-1,TVCine2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/328.ts
-#EXTINF:-1,TVCine3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/334.ts
-#EXTINF:-1,TVCine4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/335.ts
-#EXTINF:-1,HOLLYWOOD_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/580.ts
-#EXTINF:-1,MOV
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/96.ts
-#EXTINF:-1,FOX_MOVIES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/783.ts
-#EXTINF:-1,AMC_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/438.ts
-#EXTINF:-1,CINEMUNDO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/436.ts
-#EXTINF:-1,----------Cult-Por----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/690.ts
-#EXTINF:-1,ODISSEIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/350.ts
-#EXTINF:-1,NatGeo-Wild
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/347.ts
-#EXTINF:-1,DISCOVERY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/349.ts
-#EXTINF:-1,TRAVEL_CHANNEL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/883.ts
-#EXTINF:-1,CANAL_HISTORIA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/698.ts
-#EXTINF:-1,CAÃ‡A-E-PESCA
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/346.ts
-#EXTINF:-1,PT: FOOD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/802.ts
-#EXTINF:-1,NatGeo
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/348.ts
-#EXTINF:-1,CASAVISION
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/830.ts
-#EXTINF:-1,----------Series----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/691.ts
-#EXTINF:-1,GLOBO-PREM
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/351.ts
-#EXTINF:-1,TV_GLOBO
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1003.ts
-#EXTINF:-1,TV_RECORD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1005.ts
-#EXTINF:-1,FOX-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/331.ts
-#EXTINF:-1,FOX-CRIME
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/329.ts
-#EXTINF:-1,FOX-COMEDY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/330.ts
-#EXTINF:-1,FOX_LIFE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/701.ts
-#EXTINF:-1,AXN-WHITE
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/355.ts
-#EXTINF:-1,AXN-HD
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/333.ts
-#EXTINF:-1,AXN-Black
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/356.ts
-#EXTINF:-1,Syfy_PT
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1001.ts
-#EXTINF:-1,TLC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/358.ts
-#EXTINF:-1,TV_SERIES
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/439.ts
-#EXTINF:-1,MCS_Lifestyle
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1881.ts
-#EXTINF:-1,CBSReality
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1880.ts
-#EXTINF:-1,TVI_REALITY
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/440.ts
-#EXTINF:-1,E!
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/357.ts
-#EXTINF:-1,A&E
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/359.ts
-#EXTINF:-1,24_KITCHEN
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/437.ts
-#EXTINF:-1,-----------MÃºsic-----------
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/692.ts
-#EXTINF:-1,MTV-PORTUGAL
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/361.ts
-#EXTINF:-1,AFRO-MUSIC
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/360.ts
+#EXTINF:-1,PT: RTP 1
+http://pro213.com/live/abdulrhman340/1okbd9/3757.ts
+#EXTINF:-1,PT: RTP 2
+http://pro213.com/live/abdulrhman340/1okbd9/3758.ts
+#EXTINF:-1,PT: RTP 3
+http://pro213.com/live/abdulrhman340/1okbd9/3759.ts
+#EXTINF:-1,PT: Record News
+http://pro213.com/live/abdulrhman340/1okbd9/3769.ts
+#EXTINF:-1,PT: Odesseia
+http://pro213.com/live/abdulrhman340/1okbd9/3774.ts
+#EXTINF:-1,PT: MTV
+http://pro213.com/live/abdulrhman340/1okbd9/3764.ts
+#EXTINF:-1,PT: Motors TV
+http://pro213.com/live/abdulrhman340/1okbd9/3763.ts
+#EXTINF:-1,PT: Cancanova
+http://pro213.com/live/abdulrhman340/1okbd9/3773.ts
+#EXTINF:-1,PT: Canal Hollyood
+http://pro213.com/live/abdulrhman340/1okbd9/3761.ts
+#EXTINF:-1,PT: Baby TV
+http://pro213.com/live/abdulrhman340/1okbd9/3775.ts
+#EXTINF:-1,PT: ARTV
+http://pro213.com/live/abdulrhman340/1okbd9/3765.ts
+#EXTINF:-1,PT: AMC
+http://pro213.com/live/abdulrhman340/1okbd9/3762.ts
+#EXTINF:-1,PT: Abola TV
+http://pro213.com/live/abdulrhman340/1okbd9/3777.ts
+#EXTINF:-1,PT: Tvi Ficcao
+http://pro213.com/live/abdulrhman340/1okbd9/3766.ts
+#EXTINF:-1,PT: TVi 24
+http://pro213.com/live/abdulrhman340/1okbd9/3767.ts
+#EXTINF:-1,PT: TV Record
+http://pro213.com/live/abdulrhman340/1okbd9/3768.ts
+#EXTINF:-1,PT: Sic Noticias
+http://pro213.com/live/abdulrhman340/1okbd9/3772.ts
+#EXTINF:-1,PT: Sic Kids
+http://pro213.com/live/abdulrhman340/1okbd9/3771.ts
+#EXTINF:-1,PT: Sic
+http://pro213.com/live/abdulrhman340/1okbd9/3770.ts
+#EXTINF:-1,PT: RTP Madeira
+http://pro213.com/live/abdulrhman340/1okbd9/3760.ts
+#EXTINF:-1,PT Sports TV1
+http://pro213.com/live/abdulrhman340/1okbd9/3007.ts
+#EXTINF:-1,PT Sports TV2
+http://pro213.com/live/abdulrhman340/1okbd9/3003.ts
+#EXTINF:-1,PT Sports TV3
+http://pro213.com/live/abdulrhman340/1okbd9/3004.ts
+#EXTINF:-1,PT Sports TV4
+http://pro213.com/live/abdulrhman340/1okbd9/3005.ts
+#EXTINF:-1,PT Sports TV5
+http://pro213.com/live/abdulrhman340/1okbd9/3006.ts
+#EXTINF:-1,PT - TVCINE 1 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3056.ts
+#EXTINF:-1,PT - TVCINE 2HD
+http://pro213.com/live/abdulrhman340/1okbd9/3057.ts
+#EXTINF:-1,PT - TVCINE 3HD
+http://pro213.com/live/abdulrhman340/1okbd9/3058.ts
+#EXTINF:-1,PT - TVCINE 4 HD
+http://pro213.com/live/abdulrhman340/1okbd9/3059.ts
+#EXTINF:-1,PT - TV SERIES HD
+http://pro213.com/live/abdulrhman340/1okbd9/3068.ts
+#EXTINF:-1,PT - TLC
+http://pro213.com/live/abdulrhman340/1okbd9/3070.ts
+#EXTINF:-1,PT - SYFY
+http://pro213.com/live/abdulrhman340/1okbd9/3069.ts
+#EXTINF:-1,PT - FOX MOVIES
+http://pro213.com/live/abdulrhman340/1okbd9/3064.ts
+#EXTINF:-1,PT - FOX LIFE
+http://pro213.com/live/abdulrhman340/1okbd9/3061.ts
+#EXTINF:-1,PT - FOX HD
+http://pro213.com/live/abdulrhman340/1okbd9/3060.ts
+#EXTINF:-1,PT - FOX CRIME
+http://pro213.com/live/abdulrhman340/1okbd9/3063.ts
+#EXTINF:-1,PT - FOX COMEDY
+http://pro213.com/live/abdulrhman340/1okbd9/3062.ts
+#EXTINF:-1,PT - AXN WHITE HD
+http://pro213.com/live/abdulrhman340/1okbd9/3066.ts
+#EXTINF:-1,PT - AXN HD
+http://pro213.com/live/abdulrhman340/1okbd9/3065.ts
+#EXTINF:-1,PT - AXN BLACK HD
+http://pro213.com/live/abdulrhman340/1okbd9/3067.ts
+#EXTINF:-1,PT: Benfica TV1
+http://pro213.com/live/abdulrhman340/1okbd9/3824.ts
 
 
 
