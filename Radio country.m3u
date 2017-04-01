@@ -719,8 +719,8 @@ http://s6.onweb.gr:8002/;
 http://eco.onestreaming.com:8334/;
 #EXTINF:0,Radio Entexnos - Internet radios - Eklectic @ ballants
 http://94.23.36.117:5499
-
-
+#EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo Radio TV
+http://109.169.46.197:8007/;stream.mp3
 
 
 
