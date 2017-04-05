@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,1/4/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/4/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -108,7 +108,7 @@ http://137.74.171.115:1935/galanos/a1951live/playlist.m3u8
 https://www.youtube.com/watch?v=2Y8qsS_xH2Y
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=http://www.sat-address.com/f/pics/logotipi/Mega-Cosmos-Australia_o.jpg ,MEGA Cosmos
+#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=http://www.sat-address.com/f/pics/logotipi/Mega-Cosmos-Australia_o.jpg ,MEGA Cosmos - OFFLINE
 http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
 https://www.youtube.com/watch?v=6H-OQayZbqE
@@ -521,24 +521,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="",CBS 31.1 Peoria - IL Illinois
 http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
-#EXTINF:-1,USA_FOX_SPORT_1
-http://164.132.160.221:8888/play/a00d/index.m3u8
-#EXTINF:-1,USA_Astro_SUPERSPORT_01
-http://164.132.160.221:8888/play/a00i/index.m3u8
-#EXTINF:-1,USA_Astro_SUPERSPORT_02
-http://164.132.160.221:8888/play/a00j/index.m3u8
-#EXTINF:-1,USA_NBA_TV
-http://164.132.160.221:8888/play/a00e/index.m3u8
-#EXTINF:-1,USA_Astro_SUPERSPORT_03
-http://164.132.160.221:8888/play/a00k/index.m3u8
-#EXTINF:-1,USA_CNN
-http://164.132.160.221:8888/play/a00m/index.m3u8
-#EXTINF:-1,USA_Bein_Sports_HD
-http://164.132.160.221:8888/play/a00h/index.m3u8
-#EXTINF:-1,USA_Astro_SUPERSPORT_04
-http://164.132.160.221:8888/play/a00l/index.m3u8
-#EXTINF:-1,USA_ESPN_2
-http://164.132.160.221:8888/play/a00g/index.m3u8
+
 
 
 
@@ -576,272 +559,215 @@ http://164.132.160.221:8888/play/a00g/index.m3u8
 
 
 
-#EXTINF:-1,ABC NEWS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/108.ts
-#EXTINF:-1,A & E HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/239.ts
-#EXTINF:-1,BBC AMERICA HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/228.ts
-#EXTINF:-1,CBSN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/220.ts
-#EXTINF:-1,COOKING CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/211.ts
-#EXTINF:-1,DISCOVERY SCIENCE HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/206.ts
-#EXTINF:-1,FOOD NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/195.ts
-#EXTINF:-1,FOX SPORT 1 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/188.ts
-#EXTINF:-1,FOX SPORT 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/187.ts
-#EXTINF:-1,HBO 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/174.ts
-#EXTINF:-1,HBO COMEDY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/173.ts
-#EXTINF:-1,HBO FAMILY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/172.ts
-#EXTINF:-1,MLB NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/160.ts
-#EXTINF:-1,MTV HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/158.ts
-#EXTINF:-1,NAT GEO WILD HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/157.ts
-#EXTINF:-1,NBCSN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/149.ts
-#EXTINF:-1,NFL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/148.ts
-#EXTINF:-1,NHL NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/147.ts
-#EXTINF:-1,TCM HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/128.ts
-#EXTINF:-1,THE MOVIE NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/121.ts
-#EXTINF:-1,THE WEATHER NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/120.ts
-#EXTINF:-1,TLC HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/119.ts
-#EXTINF:-1,A&E. HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/267.ts
-#EXTINF:-1,ABC HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/263.ts
-#EXTINF:-1,AMERICAN HEROES HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/241.ts
-#EXTINF:-1,ANIMAL PLANET. HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/262.ts
-#EXTINF:-1,CARTOON NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/258.ts
-#EXTINF:-1,CBS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/266.ts
-#EXTINF:-1,CNN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/260.ts
-#EXTINF:-1,COMEDY CENTRAL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/257.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/255.ts
-#EXTINF:-1,ESPN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/256.ts
-#EXTINF:-1,FOX NEWS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/252.ts
-#EXTINF:-1,HISTORY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/251.ts
-#EXTINF:-1,LIFE.TIME HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/250.ts
-#EXTINF:-1,MY9 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/249.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/247.ts
-#EXTINF:-1,NBC HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/248.ts
-#EXTINF:-1,NICKELODEON HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/265.ts
-#EXTINF:-1,PBS. HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/264.ts
-#EXTINF:-1,SPIKE HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/246.ts
-#EXTINF:-1,SYFY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/245.ts
-#EXTINF:-1,TNT. HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/243.ts
-#EXTINF:-1,USA NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/242.ts
-#EXTINF:-1,AXN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/270.ts
-#EXTINF:-1,A&E HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/316.ts
-#EXTINF:-1,AMC HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/314.ts
-#EXTINF:-1,BET HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/299.ts
-#EXTINF:-1,BRAVO HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/315.ts
-#EXTINF:-1,CINEMAX THRILLERMAX HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/313.ts
-#EXTINF:-1,CW HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/319.ts
-#EXTINF:-1,FOX HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/318.ts
-#EXTINF:-1,FREEFORM HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/320.ts
-#EXTINF:-1,FX HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/324.ts
-#EXTINF:-1,FXX HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/323.ts
-#EXTINF:-1,H2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/309.ts
-#EXTINF:-1,HBO HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/317.ts
-#EXTINF:-1,HBO ZONE HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/321.ts
-#EXTINF:-1,HGTV HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/302.ts
-#EXTINF:-1,HUNTING & FISHING HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/305.ts
-#EXTINF:-1,LIFETIME HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/300.ts
-#EXTINF:-1,NFL NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/308.ts
-#EXTINF:-1,OWN HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/311.ts
-#EXTINF:-1,PBS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/322.ts
-#EXTINF:-1,SHOPPING CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/306.ts
-#EXTINF:-1,TBS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/301.ts
-#EXTINF:-1,TNT HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/298.ts
-#EXTINF:-1,TRU TV   HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/312.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/310.ts
-#EXTINF:-1,VELOCITY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/307.ts
-#EXTINF:-1,WWE NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/303.ts
-#EXTINF:-1,ACTION MAX HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/353.ts
-#EXTINF:-1,BEIN SPORTS HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/352.ts
-#EXTINF:-1,BET  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/351.ts
-#EXTINF:-1,CINEMAX  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/350.ts
-#EXTINF:-1,CNBC  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/349.ts
-#EXTINF:-1,DESINATION AMERICA HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/348.ts
-#EXTINF:-1,DISNEY CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/347.ts
-#EXTINF:-1,DIY NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/346.ts
-#EXTINF:-1,E! HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/345.ts
-#EXTINF:-1,ENCORE HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/344.ts
-#EXTINF:-1,ESPN 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/343.ts
-#EXTINF:-1,FYI  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/342.ts
-#EXTINF:-1,HALLMARK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/341.ts
-#EXTINF:-1,HBO SIGNATURE HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/340.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/339.ts
-#EXTINF:-1,LIFETIME MOVE NETWORK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/338.ts
-#EXTINF:-1,MSNBC HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/337.ts
-#EXTINF:-1,NBA TV HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/336.ts
-#EXTINF:-1,NBC GOLF HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/335.ts
-#EXTINF:-1,NICK JR HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/333.ts
-#EXTINF:-1,NICK HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/334.ts
-#EXTINF:-1,SHOWTIME 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/331.ts
-#EXTINF:-1,SHOWTIME WEST HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/330.ts
-#EXTINF:-1,SHOWTIME HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/332.ts
-#EXTINF:-1,STARZ CINEMA HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/328.ts
-#EXTINF:-1,STARZ EAST HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/329.ts
-#EXTINF:-1,TENNIS CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/327.ts
-#EXTINF:-1,TRAVEL CHANNEL HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/326.ts
-#EXTINF:-1,TV Land HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/325.ts
-#EXTINF:-1, NFL Red Zone
-http://dns1.theplayersklub.host:2095/live/husham/husham/368.ts
-#EXTINF:-1, NFL SUNDAY TICKET 1 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/355.ts
-#EXTINF:-1, NFL SUNDAY TICKET 10 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/367.ts
-#EXTINF:-1, NFL SUNDAY TICKET 12 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/365.ts
-#EXTINF:-1, NFL SUNDAY TICKET 13 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/364.ts
-#EXTINF:-1, NFL SUNDAY TICKET 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/363.ts
-#EXTINF:-1, NFL SUNDAY TICKET 3 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/362.ts
-#EXTINF:-1, NFL SUNDAY TICKET 4 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/361.ts
-#EXTINF:-1, NFL SUNDAY TICKET 5 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/360.ts
-#EXTINF:-1, NFL SUNDAY TICKET 6 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/359.ts
-#EXTINF:-1, NFL SUNDAY TICKET 7 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/358.ts
-#EXTINF:-1, NFL SUNDAY TICKET 9 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/356.ts
-#EXTINF:-1, NFL SUNDAY TICKET 11 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/366.ts
-#EXTINF:-1, NFL SUNDAY TICKET 8 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/357.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 1 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/380.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 10 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/376.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 14 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/375.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 15 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/374.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 2 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/373.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 3 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/372.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 4 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/371.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 5 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/370.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 6 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/369.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 7 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/379.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 8 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/378.ts
-#EXTINF:-1, NBA LEAGUE PASS LIVE 9 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/377.ts
-#EXTINF:-1,C-SPAN 1  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/388.ts
-#EXTINF:-1,C-SPAN 2  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/387.ts
-#EXTINF:-1,CBS NEWS.  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/389.ts
-#EXTINF:-1,GOLF CHANNEL  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/390.ts
-#EXTINF:-1,NASA  HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/391.ts
-#EXTINF:-1,C-SPAN 3 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/401.ts
-#EXTINF:-1,VH 1 HD 
-http://dns1.theplayersklub.host:2095/live/husham/husham/402.ts
+
+#EXTINF:-1,A&E free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/672.ts
+#EXTINF:-1,AnimalPlanet free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/671.ts
+#EXTINF:-1,auctionmax free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/645.ts
+#EXTINF:-1,BBC AMERICA free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/628.ts
+#EXTINF:-1,bet free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/630.ts
+#EXTINF:-1,CartoonNetwork free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.ts
+#EXTINF:-1,cbs free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/669.ts
+#EXTINF:-1,cbs news free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/653.ts
+#EXTINF:-1,cinemax free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/644.ts
+#EXTINF:-1,cnn free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/668.ts
+#EXTINF:-1,ComedyCentral free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/667.ts
+#EXTINF:-1,COOKING CHANNEL free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/627.ts
+#EXTINF:-1,cw free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/666.ts
+#EXTINF:-1,Destination America free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/621.ts
+#EXTINF:-1,Discovery free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/652.ts
+#EXTINF:-1,DiscoveryScience free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/651.ts
+#EXTINF:-1,diy free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/650.ts
+#EXTINF:-1,E! free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/655.ts
+#EXTINF:-1,ESPN2 free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/616.ts
+#EXTINF:-1,FOOD NETWORK free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/626.ts
+#EXTINF:-1,fox free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/665.ts
+#EXTINF:-1,FOXNEWS30 free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/618.ts
+#EXTINF:-1,FOXSPORT1  free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/625.ts
+#EXTINF:-1,fx free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/664.ts
+#EXTINF:-1,fxx free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/635.ts
+#EXTINF:-1,fyi free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/643.ts
+#EXTINF:-1,h2 free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/633.ts
+#EXTINF:-1,HBO COMEDY free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/624.ts
+#EXTINF:-1,HBO FAMILY free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/623.ts
+#EXTINF:-1,hbo free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/634.ts
+#EXTINF:-1,HBO SIGNATURE free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/642.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/641.ts
+#EXTINF:-1,life time free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/663.ts
+#EXTINF:-1,lifetime movie network free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/649.ts
+#EXTINF:-1,MLB Live 1 free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/721.ts
+#EXTINF:-1,MLB Live 2 free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/720.ts
+#EXTINF:-1,MLB Network free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/719.ts
+#EXTINF:-1,MSNBC free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/640.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/718.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/717.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/716.ts
+#EXTINF:-1,nba tv free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/639.ts
+#EXTINF:-1,nbc free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/662.ts
+#EXTINF:-1,NEWS12CONNECTICUT free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/619.ts
+#EXTINF:-1,NEWS12THEBRONX free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/620.ts
+#EXTINF:-1,nfl network free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/632.ts
+#EXTINF:-1,NFLNOW free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/622.ts
+#EXTINF:-1,pbs free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/660.ts
+#EXTINF:-1,showtime free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/638.ts
+#EXTINF:-1,spike free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/659.ts
+#EXTINF:-1,STARZ CINEMA free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/636.ts
+#EXTINF:-1,STARZ EAST free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/637.ts
+#EXTINF:-1,syfy free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/658.ts
+#EXTINF:-1,tbs free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/657.ts
+#EXTINF:-1,tnt free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/656.ts
+#EXTINF:-1,trutv free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/648.ts
+#EXTINF:-1,tv land free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/654.ts
+#EXTINF:-1,UnivisionDeportes free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/617.ts
+#EXTINF:-1,Velocity free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/646.ts
+#EXTINF:-1,wwe free
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/631.ts
+#EXTINF:-1,NHL 1 HD
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/715.ts
+#EXTINF:-1,NHL 2 HD
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/714.ts
+#EXTINF:-1,NHL 3 HD
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/713.ts
+#EXTINF:-1,free  BET(BLACK ENTERTAINMENT CHANNEL)
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/807.ts
+#EXTINF:-1,free  BNN
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/806.ts
+#EXTINF:-1,free  CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/805.ts
+#EXTINF:-1,free  CBC TORONTO
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/804.ts
+#EXTINF:-1,free  CHCH
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/803.ts
+#EXTINF:-1,free  CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/802.ts
+#EXTINF:-1,free  COMEDY GOLD
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/801.ts
+#EXTINF:-1,free  COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/800.ts
+#EXTINF:-1,free  CP24
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/799.ts
+#EXTINF:-1,free  CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/798.ts
+#EXTINF:-1,free  DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/797.ts
+#EXTINF:-1,free  E!
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/796.ts
+#EXTINF:-1,free  FYI
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/794.ts
+#EXTINF:-1,free  G4
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/793.ts
+#EXTINF:-1,free  GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/792.ts
+#EXTINF:-1,free  GLOBAL TV EDMONTON
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/791.ts
+#EXTINF:-1,free  GOLF CHANNEL
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/790.ts
+#EXTINF:-1,free  GSN
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/789.ts
+#EXTINF:-1,free  MOVIE TIME
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/787.ts
+#EXTINF:-1,free  MTV CANADA
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/786.ts
+#EXTINF:-1,free  MUCH MUSIC
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/785.ts
+#EXTINF:-1,free  MUSIQUE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/784.ts
+#EXTINF:-1,free  NICK
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/783.ts
+#EXTINF:-1,free  OLN
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/782.ts
+#EXTINF:-1,free  OWN (OPRAH WINFREY NETWORK)
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/781.ts
+#EXTINF:-1,free  PEACHTREE TV
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/780.ts
+#EXTINF:-1,free  SILVER SCREEN CLASSICS
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/779.ts
+#EXTINF:-1,free  SLICE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/778.ts
+#EXTINF:-1,free  SPIKE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/777.ts
+#EXTINF:-1,free  SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/776.ts
+#EXTINF:-1,free  TELETOON
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/775.ts
+#EXTINF:-1,free  THE MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/774.ts
+#EXTINF:-1,free  TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/773.ts
+#EXTINF:-1,free  TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/772.ts
+#EXTINF:-1,free  VRAK TV
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/771.ts
+#EXTINF:-1,free  W NETWORK
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/770.ts
+#EXTINF:-1,free  WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/769.ts
+#EXTINF:-1,free  YTV
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/768.ts
+#EXTINF:-1,TelemundoFREE
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/615.ts
+#EXTINF:-1,ESPN Deportes
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/823.ts
+#EXTINF:-1,Fox Deportes
+http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/822.ts
 #EXTINF:-1,THE WEATHER CHANNEL HD 
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
@@ -1003,49 +929,31 @@ http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
-#EXTINF:-1,Nick Jr+1 
-http://5.255.90.223:2082/play/NickJr1 
-#EXTINF:-1,GOLD 
-http://5.255.90.223:2082/play/gold 
-#EXTINF:-1,MTV MUSIC 
-http://5.255.90.223:2082/play/mtv 
-#EXTINF:-1,ComedyXtra+1 
-http://5.255.90.223:2082/play/ComedyXtra1 
-#EXTINF:-1,ComedyCent+1 
-http://5.255.90.223:2082/play/ComedyCent1 
-#EXTINF:-1,Nickelodeon 
-http://5.255.90.223:2082/play/Nickelodeon 
-#EXTINF:-1,Alibi 
-http://5.255.90.223:2082/play/alibi 
-#EXTINF:-1,Nicktoons 
-http://5.255.90.223:2082/play/Nicktoons 
-#EXTINF:-1,Dave 
-http://5.255.90.223:2082/play/Dave 
-#EXTINF:-1,Dave Ja Vu 
-http://5.255.90.223:2082/play/DaveJaVu 
-#EXTINF:-1,Nick Jr Too 
-http://5.255.90.223:2082/play/NickJrToo 
-#EXTINF:-1,ComedyXtra 
-http://5.255.90.223:2082/play/ComedyXtra 
-#EXTINF:-1,Nick Jr. 
-http://5.255.90.223:2082/play/NickJr 
-#EXTINF:-1,ComedyCentral 
-http://5.255.90.223:2082/play/ComedyCentral
-#EXTINF:-1,Disney Chnl 
-http://5.255.90.223:2086/play/DisneyChnl 
-#EXTINF:-1,Disney Junior+1 
-http://5.255.90.223:2086/play/DisneyJunior1 
-#EXTINF:-1,Disney XD+1 
-http://5.255.90.223:2086/play/DisneyXD1 
-#EXTINF:-1,Pick 
-http://5.255.90.223:2086/play/Pick 
-#EXTINF:-1,Disney Chnl+1 
-http://5.255.90.223:2086/play/a01a 
-#EXTINF:-1,Disney XD
-http://5.255.90.223:2086/play/DisneyXD 
-#EXTINF:-1,Disney Junior 
-http://5.255.90.223:2086/play/DisneyJunior
 
+#EXTINF:-1,+1 
+http://5.255.90.223:8000/play/a006 
+#EXTINF:-1,y+1 
+http://5.255.90.223:8000/play/a00b 
+#EXTINF:-1,TLC+1 
+http://5.255.90.223:8000/play/a00d 
+#EXTINF:-1,TLC+2 
+http://5.255.90.223:8000/play/a00f 
+#EXTINF:-1,QUEST+1 
+http://5.255.90.223:8000/play/a00a 
+#EXTINF:-1,DMAX 
+http://5.255.90.223:8000/play/a007 
+#EXTINF:-1,ID+1 
+http://5.255.90.223:8000/play/a009 
+#EXTINF:-1,HomeHealth+1 
+http://5.255.90.223:8000/play/a00e 
+#EXTINF:-1,Discovery Shed 
+http://5.255.90.223:8000/play/a00c 
+#EXTINF:-1,ID 
+http://5.255.90.223:8000/play/a004 
+#EXTINF:-1,DMAX+1 
+http://5.255.90.223:8000/play/a008 
+#EXTINF:-1,Animal Plnt+1 
+http://5.255.90.223:8000/play/a005
 
 
 
@@ -1201,225 +1109,336 @@ rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 http://rtv.smcmobile.ro:8080/RTVHQ.m3u8
 
 #EXTINF:0,1 MUSIC CHANNEL
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39456
 #EXTINF:0,ACASA
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39417
 #EXTINF:0,ACASA GOLD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39508
 #EXTINF:0,ACASA HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39534
 #EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39424
 #EXTINF:0,ANTENA 1
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39412
 #EXTINF:0,ANTENA 3
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39421
 #EXTINF:0,ANTENA STARS
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39431
 #EXTINF:0,AXN
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39509
 #EXTINF:0,B1 TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39435
 #EXTINF:0,BOOMERANG
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39517
 #EXTINF:0,CARTOON NETWORK
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39516
 #EXTINF:0,CNN
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39504
 #EXTINF:0,DIGI SPORT 2
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39559
 #EXTINF:0,DISCOVERY
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39423
 #EXTINF:0,DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39481
 #EXTINF:0,DISNEY desene animate
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39513
 #EXTINF:0,DIVA TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39507
 #EXTINF:0,DOLCE SPORT 1
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39441
 #EXTINF:0,DOLCE SPORT 1 HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39540
 #EXTINF:0,DOLCE SPORT 1
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39422
 #EXTINF:0,DOLCE SPORT 2
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39446
 #EXTINF:0,DOLCE SPORT 2
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39442
 #EXTINF:0,ETNO TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39451
 #EXTINF:0,EURONEWS
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39468
 #EXTINF:0,EUROSPORT 1
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39425
 #EXTINF:0,EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39542
 #EXTINF:0,EUROSPORT 2
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39426
 #EXTINF:0,EUROSPORT 2 HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39543
 #EXTINF:0,FASHION
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39474
 #EXTINF:0,FAVORIT
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39454
 #EXTINF:0,FRANCE 24
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39503
 #EXTINF:0,HBO
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39476
 #EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39545
 #EXTINF:0,HAPPY TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39432
 #EXTINF:0,JIM JAM
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39515
 #EXTINF:0,KANAL D
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39418
 #EXTINF:0,KISS TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39452
 #EXTINF:0,LOOK TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39457
 #EXTINF:0,LOOK TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39485
 #EXTINF:0,MTV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39439
 #EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39541
 #EXTINF:0,MINIMAX
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39514
 #EXTINF:0,MOOZ HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39535
 #EXTINF:0,MOOZ HIT
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39549
 #EXTINF:0,MOOZ RO!
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39550
 #EXTINF:0,NASU TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39436
 #EXTINF:0,NATIONAL 24 PLUS
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39438
 #EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39518
 #EXTINF:0,NATIONAL TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39414
-#EXTINF:0,NICK JR desene animate
+#EXTINF:0,NICK JR desene animat
+#EXTVLCOPT:network-caching=2000e
 http://89.38.8.131:39506
 #EXTINF:0,PRIMA TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39413
 #EXTINF:0,PRO CINEMA
+ #EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39416
 #EXTINF:0,PRO TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39415
 #EXTINF:0,PRO TV HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39532
 #EXTINF:0,PUBLIKA
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39460
 #EXTINF:0,REALITATEA TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39420
 #EXTINF:0,ROMANIA TV
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39445
 #EXTINF:0,SPORT RO
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39430
 #EXTINF:0,SPORT RO HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39533
 #EXTINF:0,TARAF HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39450
 #EXTINF:0,TNT
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39512
 #EXTINF:0,TRAVEL MIX
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39520
 #EXTINF:0,TV 1000
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39501
 #EXTINF:0,TVR 1
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39410
 #EXTINF:0,TVR 2
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39411
 #EXTINF:0,TVR 3
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39433
 #EXTINF:0,TVR HD
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39525
 #EXTINF:0,TVR INTERNATIONAL
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39458
 #EXTINF:0,UTV music
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39447
 #EXTINF:0,UTV music
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.131:39538
 #EXTINF:0,VH1 music
+#EXTVLCOPT:network-caching=2000
 http://89.38.8.130:39455
 
+
 #EXTINF:-1,Canal 3
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.14:5656
 #EXTINF:-1,Elita TV
+#EXTVLCOPT:network-caching=2000
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1,Jurnal TV
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.4:5656
 #EXTINF:-1,Moldova 1
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.2:5656
 #EXTINF:-1,Moldova 2
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.10:5656
 #EXTINF:-1,N4
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.5:5656
 #EXTINF:-1,Prime
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.3:5656
 #EXTINF:-1,Pro TV
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.7:5656
 #EXTINF:-1,Publica TV
+#EXTVLCOPT:network-caching=2000
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1,SET
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.13:5656
 #EXTINF:-1,TV 5
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.11:5656
 #EXTINF:-1,TVC 21
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.9:5656
 #EXTINF:-1,ÐŸÐµÑ€Ð²Ñ‹Ð¹
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.6:5656
 #EXTINF:-1,CTC Dixi
+#EXTVLCOPT:network-caching=2000
 http://109.185.159.215:4011/udp/239.100.0.12:5656
-#EXTINF:-1,TV Radauti
+#EXTINF:-1,TV Radauti\
+#EXTVLCOPT:network-caching=2000
 http://46.214.146.86:8080
 #EXTINF:-1,RO:Tele M
+#EXTVLCOPT:network-caching=2000
 http://webmobile.xdev.ro:81/tv5/playlist.m3u8?time=1466676040924
 #EXTINF:-1,mediatv Ro
+#EXTVLCOPT:network-caching=2000
 http://mediatv.novanet.ro/mediatv/mediatv.m3u8
 #EXTINF:-1,Casa Mia TV
+#EXTVLCOPT:network-caching=2000
 rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia
 #EXTINF:-1,Accenttv Romania
+#EXTVLCOPT:network-caching=2000
 http://188.173.22.231:8080/video/emisie.m3u8
 #EXTINF:-1,Banat Rum
+#EXTVLCOPT:network-caching=2000
 http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
 #EXTINF:-1,Bit TV
+#EXTVLCOPT:network-caching=2000
 http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:-1,ATV
+#EXTVLCOPT:network-caching=2000
 http://46.214.146.46:81/tv4/playlist.m3u8
 #EXTINF:-1,Ploiesti Tv
+#EXTVLCOPT:network-caching=2000
 http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
 #EXTINF:-1,digi24 brasov
+#EXTVLCOPT:network-caching=2000
 http://81.196.0.126:80/digi24edge/digi24brasovlive/mono.m3u8
 #EXTINF:-1,TV Cromtel HD
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv7/playlist.m3u8
 #EXTINF:-1,TV Hit
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv9/playlist.m3u8
 #EXTINF:-1,Botosani Tele Reluare
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv11/playlist.m3u8
 #EXTINF:-1,SOMAX
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv12/playlist.m3u8
 #EXTINF:-1,NExT TV
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv13/playlist.m3u8
 #EXTINF:-1,TELE reluare
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv16/playlist.m3u8
 #EXTINF:-1,NTV Neptun
+#EXTVLCOPT:network-caching=2000
 http://188.210.224.6:81/tv30/playlist.m3u8
 #EXTINF:-1,Gagiu tv
+#EXTVLCOPT:network-caching=2000
 rtmp://gtv1.arya.ro/live/gtv1
 #EXTINF:-1,Columna tv
+#EXTVLCOPT:network-caching=2000
 rtmp://v1.arya.ro/live/columnatv1
 #EXTINF:-1,Traditii tv
+#EXTVLCOPT:network-caching=2000
 rtmp://v1.arya.ro/live/traditiitv1
 #EXTINF:-1,Apollonia Tv
+#EXTVLCOPT:network-caching=2000
 http://193.239.212.6:50000/apollonia
 #EXTINF:-1,Antena 1 Arad.
+#EXTVLCOPT:network-caching=2000
 http://86.106.82.47:8134/hls-live/a1ar_lp_live/_definst_/a1arevent/a1arstream.m3u8
 #EXTINF:-1,TV SUDEST Romania
+#EXTVLCOPT:network-caching=2000
 http://iptv.tvsatrm.ro/livestream/tvse.m3u8
 #EXTINF:-1,Alfaomega Romania
+#EXTVLCOPT:network-caching=2000
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,Stv
 http://89.45.164.235:8034
@@ -1789,30 +1808,7 @@ mms://100automoto.tv/channel_porsche
 #EXTINF:5 group-title=”Moldova”,
 
 
-#EXTINF:-1,prime
-http://185.172.32.254:8001/prime
-#EXTINF:-1,Canal 2
-http://185.172.32.254:8001/canal2
-#EXTINF:-1,Canal 3
-http://185.172.32.254:8001/canal3
-#EXTINF:-1,moldova1
-http://185.172.32.254:8001/moldova1
-#EXTINF:-1,jurnaltv
-http://185.172.32.254:8001/jurnaltv
-#EXTINF:-1,protv
-http://185.172.32.254:8001/protv
-#EXTINF:-1,realitatea
-http://185.172.32.254:8001/realitatea
-#EXTINF:-1,tvc21
-http://185.172.32.254:8001/tvc21
-#EXTINF:-1,rtr
-http://185.172.32.254:8001/rtr
-#EXTINF:-1,accent
-http://185.172.32.254:8001/accent
-#EXTINF:-1,n4
-http://185.172.32.254:8001/n4
-#EXTINF:-1,ntvmoldova
-http://185.172.32.254:8001/ntvmoldova
+
 
 #EXTINF:-1,Moldova 1
 http://109.185.159.215:4011/udp/239.100.0.2:5656
@@ -2328,108 +2324,6 @@ http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7716.ts
 
 #EXTINF:6 group-title=”France”,
 
-#EXTINF:0,TOUTE L’HISTOIRE
-http://46.249.60.210:9981/play/a02o
-#EXTINF:0,SIKKA TV
-http://46.249.60.210:9981/play/a04d
-#EXTINF:0,KTO
-http://46.249.60.210:9981/play/a03w
-#EXTINF:0,RTL-TVi HD
-http://46.249.60.210:9981/play/a02e
-#EXTINF:0,Rete 4
-http://46.249.60.210:9981/play/a03i
-#EXTINF:0,Italia 1
-http://46.249.60.210:9981/play/a03g
-#EXTINF:0,GrandLille.TV
-http://46.249.60.210:9981/play/a043
-#EXTINF:0,Mediaset ITALIA DUE
-http://46.249.60.210:9981/play/a03o
-#EXTINF:0,HSE24 HD
-http://46.249.60.210:9981/play/a029
-#EXTINF:0,beIN SPORTS 2 HD
-http://46.249.60.210:9981/play/a03z
-#EXTINF:0,BERBERE JEUNESSE
-http://46.249.60.210:9981/play/a045
-#EXTINF:0,AB1
-http://46.249.60.210:9981/play/a030
-#EXTINF:0,RTI 1
-http://46.249.60.210:9981/play/a04b
-#EXTINF:0,BERBERE JEUNESSE
-http://46.249.60.210:9981/play/a04a
-#EXTINF:0,Science et Vie
-http://46.249.60.210:9981/play/a02q
-#EXTINF:0,ORTB
-http://46.249.60.210:9981/play/a04c
-#EXTINF:0,Fight Network BK
-http://46.249.60.210:9981/play/a02h
-#EXTINF:0,BERBERE TV
-http://46.249.60.210:9981/play/a044
-#EXTINF:0,beIN SPORTS 3 HD
-http://46.249.60.210:9981/play/a042
-#EXTINF:0,La Deux
-http://46.249.60.210:9981/play/a02d
-#EXTINF:0,La Une HD
-http://46.249.60.210:9981/play/a02c
-#EXTINF:0,NT1
-http://46.249.60.210:9981/play/a02x
-#EXTINF:0,beIN SPORTS ACTU
-http://46.249.60.210:9981/play/a03x
-#EXTINF:0,TREK
-http://46.249.60.210:9981/play/a02n
-#EXTINF:0,CSTAR
-http://46.249.60.210:9981/play/a032
-#EXTINF:0,Vosges TV
-http://46.249.60.210:9981/play/a041
-#EXTINF:0,TV8 MONT BLANC
-http://46.249.60.210:9981/play/a040
-#EXTINF:0,BERBERE TV
-http://46.249.60.210:9981/play/a048
-#EXTINF:0,Melody
-http://46.249.60.210:9981/play/a03y
-#EXTINF:0,BERBERE MUSIC
-http://46.249.60.210:9981/play/a046
-#EXTINF:0,LA7d
-http://46.249.60.210:9981/play/a03s
-#EXTINF:0,ANIMAUX
-http://46.249.60.210:9981/play/a02l
-#EXTINF:0,LA7
-http://46.249.60.210:9981/play/a03r
-#EXTINF:0,BFM TV
-http://46.249.60.210:9981/play/a02j
-#EXTINF:0,Cartoonito
-http://46.249.60.210:9981/play/a03q
-#EXTINF:0,Topcrime
-http://46.249.60.210:9981/play/a03p
-#EXTINF:0,Iris
-http://46.249.60.210:9981/play/a03j
-#EXTINF:0,TF1 HD
-http://46.249.60.210:9981/play/a02s
-#EXTINF:0,TgCom24
-http://46.249.60.210:9981/play/a03m
-#EXTINF:0,France 3
-http://46.249.60.210:9981/play/a02u
-#EXTINF:0,La 5
-http://46.249.60.210:9981/play/a03l
-#EXTINF:0,France 5
-http://46.249.60.210:9981/play/a02v
-#EXTINF:0,Boing
-http://46.249.60.210:9981/play/a03k
-#EXTINF:0,Mediaset EXTRA
-http://46.249.60.210:9981/play/a03n
-#EXTINF:0,Pescare & Cacciare TV
-http://46.249.60.210:9981/play/a02a
-#EXTINF:0,BERBERE MUSIC
-http://46.249.60.210:9981/play/a049
-#EXTINF:0,Canale 5
-http://46.249.60.210:9981/play/a03h
-#EXTINF:0,MANGAS
-http://46.249.60.210:9981/play/a037
-#EXTINF:0,beIN SPORTS 1 HD
-http://46.249.60.210:9981/play/a03v
-#EXTINF:0,Arte HD
-http://46.249.60.210:9981/play/a02w
-#EXTINF:0,France 2 HD
-http://46.249.60.210:9981/play/a02t
 
 
 
@@ -3761,28 +3655,6 @@ rtmp://streamspub.manasat.com/tvar/tvmanaar1
 rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
-#EXTINF:0,Univision 23
-http://170.55.15.122:8000/play/a01u
-#EXTINF:0,PNR: 3 [ATSC0]
-http://170.55.15.122:8000/play/a01w
-#EXTINF:0,Educativo
-http://170.55.15.122:8000/play/a00m
-#EXTINF:0,CUBAVISION INTERNACIONAL
-http://170.55.15.122:8000/play/a01y
-#EXTINF:0,Educativo 2
-http://170.55.15.122:8000/play/a021
-#EXTINF:0,Unimas
-http://170.55.15.122:8000/play/a01v
-#EXTINF:0,MULTIVISION
-http://170.55.15.122:8000/play/a022
-#EXTINF:0,Cubavisiðn
-http://170.55.15.122:8000/play/a01z
-#EXTINF:0,Multivision
-http://170.55.15.122:8000/play/a01t
-#EXTINF:0,Tele Rebelde
-http://170.55.15.122:8000/play/a020
-#EXTINF:0,PNR: 4 [ATSC0]
-http://170.55.15.122:8000/play/a01x
 
 
 
@@ -4470,6 +4342,33 @@ http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D
 
 
 
+
+
+
+
+
+
+
+#EXTINF:11 group-title=”Belarus”,
+
+#EXTINF:-1,Беларусь 1
+http://persik.by/stream/4998/171983/118.m3u8
+#EXTINF:-1,ОНТ
+http://persik.by/stream/4998/171983/111.m3u8
+#EXTINF:-1,СТВ
+http://persik.by/stream/4998/171983/115.m3u8
+#EXTINF:-1,МирТВ
+http://persik.by/stream/4998/171983/176.m3u8
+#EXTINF:-1,РТР-Беларусь
+http://persik.by/stream/4998/171983/700.m3u8
+#EXTINF:-1,НТВ-Беларусь
+http://persik.by/stream/4998/171983/699.m3u8
+#EXTINF:-1,Беларусь 2
+http://persik.by/stream/4998/171983/148.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/4998/171983/883.m3u8
+#EXTINF:-1,Беларусь 5
+http://persik.by/stream/4998/171983/932.m3u8
 
 
 
