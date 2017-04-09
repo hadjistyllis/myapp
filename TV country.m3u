@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/4/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,9/4/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -929,31 +929,56 @@ http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
+#EXTINF:-1, Discovery
+http://5.255.90.223:2086/play/a02l
+#EXTINF:-1, Nickelodeon
+http://5.255.90.223:2086/play/a02h
+#EXTINF:-1, Nick Jr Too
+http://5.255.90.223:2086/play/a02i
+#EXTINF:-1, ComedyCentral
+http://5.255.90.223:2086/play/a02a
+#EXTINF:-1, Disc.Science
+http://5.255.90.223:2086/play/a02p
+#EXTINF:-1, Discovery
+http://5.255.90.223:2086/play/a02t
+#EXTINF:-1, ComedyXtra
+http://5.255.90.223:2086/play/a02c
+#EXTINF:-1, TLC
+http://5.255.90.223:2086/play/a02w
+#EXTINF:-1, ID
+http://5.255.90.223:2086/play/a02v
+#EXTINF:-1, ComedyCent+1
+http://5.255.90.223:2086/play/a02b
+#EXTINF:-1, Nick Jr Too
+http://5.255.90.223:2086/play/a02f
+#EXTINF:-1, MTV MUSIC
+http://5.255.90.223:2086/play/a02j
+#EXTINF:-1, Discovery+1
+http://5.255.90.223:2086/play/a02n
+#EXTINF:-1, QUEST
+http://5.255.90.223:2086/play/a02u
+#EXTINF:-1, Disc.Turbo
+http://5.255.90.223:2086/play/a02s
+#EXTINF:-1, Home & Health
+http://5.255.90.223:2086/play/a02r
+#EXTINF:-1, Disc.History
+http://5.255.90.223:2086/play/a02q
+#EXTINF:-1, Nick Jr+1
+http://5.255.90.223:2086/play/a02g
+#EXTINF:-1, TLC
+http://5.255.90.223:2086/play/a02o
+#EXTINF:-1, ComedyXtra+1
+http://5.255.90.223:2086/play/a02d
+#EXTINF:-1, ComedyCent+1
+http://5.255.90.223:2086/play/a029
+#EXTINF:-1, Nicktoons
+http://5.255.90.223:2086/play/a028
+#EXTINF:-1, Animal Planet
+http://5.255.90.223:2086/play/a02m
+#EXTINF:-1, Nick Jr.
+http://5.255.90.223:2086/play/a02e
 
-#EXTINF:-1,+1 
-http://5.255.90.223:8000/play/a006 
-#EXTINF:-1,y+1 
-http://5.255.90.223:8000/play/a00b 
-#EXTINF:-1,TLC+1 
-http://5.255.90.223:8000/play/a00d 
-#EXTINF:-1,TLC+2 
-http://5.255.90.223:8000/play/a00f 
-#EXTINF:-1,QUEST+1 
-http://5.255.90.223:8000/play/a00a 
-#EXTINF:-1,DMAX 
-http://5.255.90.223:8000/play/a007 
-#EXTINF:-1,ID+1 
-http://5.255.90.223:8000/play/a009 
-#EXTINF:-1,HomeHealth+1 
-http://5.255.90.223:8000/play/a00e 
-#EXTINF:-1,Discovery Shed 
-http://5.255.90.223:8000/play/a00c 
-#EXTINF:-1,ID 
-http://5.255.90.223:8000/play/a004 
-#EXTINF:-1,DMAX+1 
-http://5.255.90.223:8000/play/a008 
-#EXTINF:-1,Animal Plnt+1 
-http://5.255.90.223:8000/play/a005
+
 
 
 
@@ -2324,7 +2349,358 @@ http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7716.ts
 
 #EXTINF:6 group-title=”France”,
 
-
+#EXTINF:-1,F3 Franche-ComtØ
+http://90.125.165.67:8000/play/a006
+#EXTINF:-1,HD1
+http://90.125.165.67:8000/play/a008
+#EXTINF:-1,France Ô
+http://90.125.165.67:8000/play/a004
+#EXTINF:-1,NUMERO 23
+http://90.125.165.67:8000/play/a00c
+#EXTINF:-1,RMC Découverte
+http://90.125.165.67:8000/play/a00b
+#EXTINF:-1,Chérie 25
+http://90.125.165.67:8000/play/a00a
+#EXTINF:-1,franceinfo:
+http://90.125.165.67:8000/play/a005
+#EXTINF:-1,L'Equipe 21
+http://90.125.165.67:8000/play/a009
+#EXTINF:-1,France 2
+http://90.125.165.67:8000/play/a002
+#EXTINF:-1,France 4
+http://90.125.165.67:8000/play/a003
+#EXTINF:-1,BBC One HD
+http://89.29.203.196:9090/play/a00x
+#EXTINF:-1,Global Telenovelas HD
+http://89.29.203.196:9090/play/a01a
+#EXTINF:-1,TeleDeportehd
+http://89.29.203.196:9090/play/a043
+#EXTINF:-1,Fashion TV 4K
+http://89.29.203.196:9090/play/a018
+#EXTINF:-1,Discovery SD
+http://89.29.203.196:9090/play/a04x
+#EXTINF:-1,5 Star (EEUU)
+http://89.29.203.196:9090/play/a02a
+#EXTINF:-1,8madrid
+http://89.29.203.196:9090/play/a00l
+#EXTINF:-1,Fight Time
+http://89.29.203.196:9090/play/a053
+#EXTINF:-1,VH1
+http://89.29.203.196:9090/play/a01d
+#EXTINF:-1,TEN
+http://89.29.203.196:9090/play/a03x
+#EXTINF:-1,Historia HD
+http://89.29.203.196:9090/play/a02x
+#EXTINF:-1,Canal Sur 2
+http://89.29.203.196:9090/play/a00o
+#EXTINF:-1,BeMad tv HD
+http://89.29.203.196:9090/play/a01g
+#EXTINF:-1,Cocina HD trans.
+http://89.29.203.196:9090/play/a02s
+#EXTINF:-1,Eurosport 2 ESP SD
+http://89.29.203.196:9090/play/a052
+#EXTINF:-1,3SAT (Deutch)
+http://89.29.203.196:9090/play/a01u
+#EXTINF:-1,Channel 5 HD ENG
+http://89.29.203.196:9090/play/a02b
+#EXTINF:-1,Disney XD
+http://89.29.203.196:9090/play/a01i
+#EXTINF:-1,RTL 2 (Deutch)
+http://89.29.203.196:9090/play/a01w
+#EXTINF:-1,Spike (ENG)
+http://89.29.203.196:9090/play/a02c
+#EXTINF:-1,AMC HD trans.
+http://89.29.203.196:9090/play/a02u
+#EXTINF:-1,STV (Scotish ITV)
+http://89.29.203.196:9090/play/a02h
+#EXTINF:-1,UTV (Ireland, Ulster ITV)
+http://89.29.203.196:9090/play/a02i
+#EXTINF:-1,CI (Crimen & Investigación) SD
+http://89.29.203.196:9090/play/a03k
+#EXTINF:-1,Tele 5 Deutch
+http://89.29.203.196:9090/play/a024
+#EXTINF:-1,ATresSeries HD
+http://89.29.203.196:9090/play/a01m
+#EXTINF:-1,TeleElda
+http://89.29.203.196:9090/play/a03h
+#EXTINF:-1,Sport 1
+http://89.29.203.196:9090/play/a008
+#EXTINF:-1,TNT
+http://89.29.203.196:9090/play/a01l
+#EXTINF:-1,Paisajes del Mundo HD
+http://89.29.203.196:9090/play/a006
+#EXTINF:-1,Somos
+http://89.29.203.196:9090/play/a03w
+#EXTINF:-1,TVE Internacional Europa
+http://89.29.203.196:9090/play/a04i
+#EXTINF:-1,TeleCrevillent
+http://89.29.203.196:9090/play/a00h
+#EXTINF:-1,Global Tendencias
+http://89.29.203.196:9090/play/a019
+#EXTINF:-1,Canal Sur TV HD
+http://89.29.203.196:9090/play/a04w
+#EXTINF:-1,Das Erste (Deutch)
+http://89.29.203.196:9090/play/a01t
+#EXTINF:-1,DKISS
+http://89.29.203.196:9090/play/a01f
+#EXTINF:-1,Teleyecla
+http://89.29.203.196:9090/play/a03e
+#EXTINF:-1,ITVBe ENG
+http://89.29.203.196:9090/play/a026
+#EXTINF:-1,La 1 HD Andalucia
+http://89.29.203.196:9090/play/a00q
+#EXTINF:-1,Lux Mallorca
+http://89.29.203.196:9090/play/a02m
+#EXTINF:-1,TV Zimbo
+http://89.29.203.196:9090/play/a00f
+#EXTINF:-1,Canal 1 (Colom.)
+http://89.29.203.196:9090/play/a03c
+#EXTINF:-1,VH1 classic
+http://89.29.203.196:9090/play/a01e
+#EXTINF:-1,Canal Sur SD
+http://89.29.203.196:9090/play/a00n
+#EXTINF:-1,CBBC ENG
+http://89.29.203.196:9090/play/a04o
+#EXTINF:-1,ETV 6 HD
+http://89.29.203.196:9090/play/a02f
+#EXTINF:-1,7RM
+http://89.29.203.196:9090/play/a001
+#EXTINF:-1,KIKA (Deutch)
+http://89.29.203.196:9090/play/a01x
+#EXTINF:-1,Neox
+http://89.29.203.196:9090/play/a041
+#EXTINF:-1,Tiny POP (ENG)
+http://89.29.203.196:9090/play/a028
+#EXTINF:-1,5 USA (EEUU)
+http://89.29.203.196:9090/play/a029
+#EXTINF:-1,FIBWI TV
+http://89.29.203.196:9090/play/a02j
+#EXTINF:-1,Hollywood HD
+http://89.29.203.196:9090/play/a02v
+#EXTINF:-1,Dark
+http://89.29.203.196:9090/play/a045
+#EXTINF:-1,VOX Channel (Deutch)
+http://89.29.203.196:9090/play/a021
+#EXTINF:-1,Eurosport 1 ESP HD
+http://89.29.203.196:9090/play/a04z
+#EXTINF:-1,Castilla la Mancha TV SD
+http://89.29.203.196:9090/play/a00d
+#EXTINF:-1,CCTV News (ENG)
+http://89.29.203.196:9090/play/a01p
+#EXTINF:-1,Intereconomia TV
+http://89.29.203.196:9090/play/a005
+#EXTINF:-1,Telejumilla
+http://89.29.203.196:9090/play/a03f
+#EXTINF:-1,BBC Two HD
+http://89.29.203.196:9090/play/a00w
+#EXTINF:-1,La1 HD Castilla la Mancha (audio stereo)
+http://89.29.203.196:9090/play/a00v
+#EXTINF:-1,Telecinco HD
+http://89.29.203.196:9090/play/a03p
+#EXTINF:-1,ITV ENG
+http://89.29.203.196:9090/play/a04b
+#EXTINF:-1,Sky News International
+http://89.29.203.196:9090/play/a04k
+#EXTINF:-1,La Otra
+http://89.29.203.196:9090/play/a00k
+#EXTINF:-1,PANDA
+http://89.29.203.196:9090/play/a03r
+#EXTINF:-1,Eurosport 2 ESP HD
+http://89.29.203.196:9090/play/a050
+#EXTINF:-1,7RM HD
+http://89.29.203.196:9090/play/a00t
+#EXTINF:-1,ZDF TV Deutch
+http://89.29.203.196:9090/play/a04p
+#EXTINF:-1,Telemadrid HD TDT
+http://89.29.203.196:9090/play/a059
+#EXTINF:-1,Andalucía Televisión
+http://89.29.203.196:9090/play/a00p
+#EXTINF:-1,TeleNovelda
+http://89.29.203.196:9090/play/a03g
+#EXTINF:-1,Real Madrid TV SD
+http://89.29.203.196:9090/play/a00b
+#EXTINF:-1,Disney Channel
+http://89.29.203.196:9090/play/a03t
+#EXTINF:-1,Antena3 HD TDT
+http://89.29.203.196:9090/play/a057
+#EXTINF:-1,Telemadrid SD
+http://89.29.203.196:9090/play/a00j
+#EXTINF:-1,Super 3
+http://89.29.203.196:9090/play/a056
+#EXTINF:-1,Torole HD
+http://89.29.203.196:9090/play/a055
+#EXTINF:-1,Iberalia HD
+http://89.29.203.196:9090/play/a054
+#EXTINF:-1,Eurosport 1 ESP SD
+http://89.29.203.196:9090/play/a051
+#EXTINF:-1,Discovery HD
+http://89.29.203.196:9090/play/a04y
+#EXTINF:-1,Xtreme HD trans.
+http://89.29.203.196:9090/play/a02t
+#EXTINF:-1,FDF
+http://89.29.203.196:9090/play/a01j
+#EXTINF:-1,Canal de las Estrellas
+http://89.29.203.196:9090/play/a04v
+#EXTINF:-1,Discovery Max
+http://89.29.203.196:9090/play/a039
+#EXTINF:-1,Film 4 (ENG)
+http://89.29.203.196:9090/play/a04t
+#EXTINF:-1,FOX
+http://89.29.203.196:9090/play/a033
+#EXTINF:-1,AMC HD
+http://89.29.203.196:9090/play/a031
+#EXTINF:-1,Cuatro HD
+http://89.29.203.196:9090/play/a03o
+#EXTINF:-1,TV3
+http://89.29.203.196:9090/play/a015
+#EXTINF:-1,TF1 HD (FR)
+http://89.29.203.196:9090/play/a04q
+#EXTINF:-1,Fox Life
+http://89.29.203.196:9090/play/a013
+#EXTINF:-1,TV5
+http://89.29.203.196:9090/play/a04m
+#EXTINF:-1,Nickelodeon
+http://89.29.203.196:9090/play/a03s
+#EXTINF:-1,CNN International
+http://89.29.203.196:9090/play/a04l
+#EXTINF:-1,EuroNews
+http://89.29.203.196:9090/play/a04j
+#EXTINF:-1,Parlamento TV
+http://89.29.203.196:9090/play/a04h
+#EXTINF:-1,RaiSports 2 (IT)
+http://89.29.203.196:9090/play/a04g
+#EXTINF:-1,RaiSports 1 (IT)
+http://89.29.203.196:9090/play/a04f
+#EXTINF:-1,Hollywood HD trans.
+http://89.29.203.196:9090/play/a02o
+#EXTINF:-1,CubaVision Internacional
+http://89.29.203.196:9090/play/a04e
+#EXTINF:-1,ITV4 ENG
+http://89.29.203.196:9090/play/a04d
+#EXTINF:-1,La 1 HD Com. Valenciana
+http://89.29.203.196:9090/play/a00s
+#EXTINF:-1,ITV2 ENG
+http://89.29.203.196:9090/play/a04c
+#EXTINF:-1,TeleSur Venezuela
+http://89.29.203.196:9090/play/a04a
+#EXTINF:-1,France 24 (FR)
+http://89.29.203.196:9090/play/a01r
+#EXTINF:-1,Bloomberg (EEUU)
+http://89.29.203.196:9090/play/a01o
+#EXTINF:-1,Boing
+http://89.29.203.196:9090/play/a03u
+#EXTINF:-1,POP (ENG)
+http://89.29.203.196:9090/play/a027
+#EXTINF:-1,Historia HD trans.
+http://89.29.203.196:9090/play/a02q
+#EXTINF:-1,Deluxe Music Deutch
+http://89.29.203.196:9090/play/a048
+#EXTINF:-1,Phoenix (Chinese)
+http://89.29.203.196:9090/play/a01s
+#EXTINF:-1,National Geographic
+http://89.29.203.196:9090/play/a047
+#EXTINF:-1,Gol TV
+http://89.29.203.196:9090/play/a01n
+#EXTINF:-1,Mega
+http://89.29.203.196:9090/play/a044
+#EXTINF:-1,A&E
+http://89.29.203.196:9090/play/a046
+#EXTINF:-1,CNBC (EEUU)
+http://89.29.203.196:9090/play/a01q
+#EXTINF:-1,24h TVE HD
+http://89.29.203.196:9090/play/a042
+#EXTINF:-1,Odisea HD trans.
+http://89.29.203.196:9090/play/a02p
+#EXTINF:-1,Nova
+http://89.29.203.196:9090/play/a040
+#EXTINF:-1,La Sexta HD
+http://89.29.203.196:9090/play/a03q
+#EXTINF:-1,Cocina HD
+http://89.29.203.196:9090/play/a02z
+#EXTINF:-1,MTV hits
+http://89.29.203.196:9090/play/a01c
+#EXTINF:-1,More 4 (ENG)
+http://89.29.203.196:9090/play/a02g
+#EXTINF:-1,Clan
+http://89.29.203.196:9090/play/a03v
+#EXTINF:-1,RTL 2 Austria (GR)
+http://89.29.203.196:9090/play/a01z
+#EXTINF:-1,La Sexta HD TDT
+http://89.29.203.196:9090/play/a058
+#EXTINF:-1,La Otra TDT
+http://89.29.203.196:9090/play/a05a
+#EXTINF:-1,Energy
+http://89.29.203.196:9090/play/a03z
+#EXTINF:-1,Sundance HD
+http://89.29.203.196:9090/play/a01b
+#EXTINF:-1,Antena 3 HD
+http://89.29.203.196:9090/play/a03n
+#EXTINF:-1,La 2 HD
+http://89.29.203.196:9090/play/a03m
+#EXTINF:-1,Euskadi TB1 (Vasco)
+http://89.29.203.196:9090/play/a00z
+#EXTINF:-1,Galicia TV
+http://89.29.203.196:9090/play/a03l
+#EXTINF:-1,ZDF Kultur Deutch
+http://89.29.203.196:9090/play/a022
+#EXTINF:-1,TCM
+http://89.29.203.196:9090/play/a03j
+#EXTINF:-1,13tv Madrid
+http://89.29.203.196:9090/play/a00g
+#EXTINF:-1,EWTN
+http://89.29.203.196:9090/play/a003
+#EXTINF:-1,CCTV-Español
+http://89.29.203.196:9090/play/a04n
+#EXTINF:-1,Arnedo TV
+http://89.29.203.196:9090/play/a00y
+#EXTINF:-1,IB3 HD
+http://89.29.203.196:9090/play/a02k
+#EXTINF:-1,Super RTL Austria (GR)
+http://89.29.203.196:9090/play/a020
+#EXTINF:-1,Canal Extremadura
+http://89.29.203.196:9090/play/a00m
+#EXTINF:-1,ZDF Neo Deutch
+http://89.29.203.196:9090/play/a023
+#EXTINF:-1,Regio TV (Deutch)
+http://89.29.203.196:9090/play/a01y
+#EXTINF:-1,Extreme EMEA
+http://89.29.203.196:9090/play/a017
+#EXTINF:-1,Esport3
+http://89.29.203.196:9090/play/a016
+#EXTINF:-1,BarcaTV
+http://89.29.203.196:9090/play/a00c
+#EXTINF:-1,Bolivia TV
+http://89.29.203.196:9090/play/a03d
+#EXTINF:-1,CableNoticias (Colom.)
+http://89.29.203.196:9090/play/a03b
+#EXTINF:-1,Caza Vision
+http://89.29.203.196:9090/play/a03a
+#EXTINF:-1,BBC News HD (ENG)
+http://89.29.203.196:9090/play/a02e
+#EXTINF:-1,Al Jazeera (ENG)
+http://89.29.203.196:9090/play/a02n
+#EXTINF:-1,FOX Crime
+http://89.29.203.196:9090/play/a01k
+#EXTINF:-1,Channel 4 (ENG)
+http://89.29.203.196:9090/play/a04u
+#EXTINF:-1,Iberalia
+http://89.29.203.196:9090/play/a012
+#EXTINF:-1,4Seven (ENG)
+http://89.29.203.196:9090/play/a02d
+#EXTINF:-1,Divinity
+http://89.29.203.196:9090/play/a038
+#EXTINF:-1,Comedy Central
+http://89.29.203.196:9090/play/a037
+#EXTINF:-1,MTV
+http://89.29.203.196:9090/play/a034
+#EXTINF:-1,TV Almansa
+http://89.29.203.196:9090/play/a007
+#EXTINF:-1,ITV 3 ENG
+http://89.29.203.196:9090/play/a025
+#EXTINF:-1,TVCi HD
+http://89.29.203.196:9090/play/a00u
+#EXTINF:-1,SyFy
+http://89.29.203.196:9090/play/a035
 
 
 
@@ -3116,297 +3492,6 @@ http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/506.ts
 
 
 
-#EXTINF:8 group-title=”Latino-Brazil/Spain1”,
-
-
-
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" ,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVAntena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" ,Antena 3 Internacional
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVEl Trece" tvg-name="El Trece" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" ,Azteca 13 (-30 minutos)
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVCanal La Sexta" tvg-name="Canal La Sexta" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" ,La Sexta (espaÃ±ol)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.clipartbest.com/cliparts/jix/6zL/jix6zL66T.jpg" ,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-gPltrFimgy8/Vc13hw_xwUI/AAAAAAAACAY/41aGclEdXfg/s1600/tateti%2Ben%2Bvivo%2Bonline.png" ,Tateti (Argentina)
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" ,Atreseries EspaÃ±ol
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTvPlay-Logo.png" ,Cinema TV Play
-http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" ,Real Madrid TV (EspaÃ±a)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://lh6.googleusercontent.com/-kdJ-Sg3cAWQ/U5l-szGFlkI/AAAAAAAAA_g/HwXbB-FIChw/s300/tyc-sports-tv.png" ,Tyc Sports (Argentina)
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png" ,Capital TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" ,City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png" ,Cool HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://sd-xbmc.org/svn/sd-xbmc/trunk/xbmc-addons/src/xbmc-addons/tv/old/eskaparty.png" ,Eska Go
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1449360473.png" ,Eska Party TV
-http://stream.smcloud.net/live/eska_party/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://online-red.com/images/tv/eska-rock.png" ,Eska Rock TV
-http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg" ,Eska Vox TV Old Cool
-http://stream.smcloud.net/live/vox/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://logonoid.com/images/half-life-logo.jpg" ,Hard Life
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" ,Heart TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" ,Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/77/8c/05/778c054e198d3cf0f53b95e5eeeb191b.jpg" ,Ibiza Djing
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://radioitalialive.com/sites/default/files/radio/logos/logo-m2o.png" ,m2o tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.directnews.me/wp-content/uploads/2014/12/ob_a95326_m6.png" ,M6 TV
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" ,MTV Rocks
-http://94.74.65.100:19123/ott/68:1122
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-zb2JWbgAsPo/V19Rw35Ek1I/AAAAAAAAHRI/i1sTAx52h3siz6f9cRBum5YLpbxuyBhZgCLcB/s1600/one-tv-en-vivo-online.png" ,OneTV Arg
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" ,Retro TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782704644334166017/J1zSXCF_.jpg" ,Rock TV
-http://212.96.163.139:8020/1-tv-pc/924.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" ,TelemÃºsica
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" ,Vibee
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png" ,Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVProyecto 40" tvg-name="Proyecto 40" tvg-logo="http://y.cdn.entutele.com/media/channels/big/proyecto-40.gif" ,Proyecto 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/f2/bc/62/f2bc62a01b364ea02e257a75dd120ec2.jpg" ,RT Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wRRKyFD0BrQ/AAAAAAAAAAI/AAAAAAAAAAA/llY9zi1IZNc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Twit
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" ,Al Jazeera UK
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4b/Efekto_tv.jpg" ,EfektoTV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1459.png" ,Euronews en EspaÃ±ol
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/22/778598/foro-tv--280x370.jpg" ,Foro TV OpciÃ³n 2
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" ,France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" ,MVS Noticias
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,RT en espaÃ±ol
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,RT Russia Today
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,Russia Today
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Latino-Brazil/Spain2”,
-
-
-#EXTINF:-1, TELEMUNDO
-http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
-#EXTINF:-1,ABC
-http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,FOX News
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Telemundo52
-http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Univision23
-http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Univision23 Los Angeles
-http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,H20
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-#EXTINF:-1,Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1,Canal-4
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
-#EXTINF:-1,Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,Tatetic
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1,France-24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Efecko-TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1,Trecevicion
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
-#EXTINF:-1,Jujuyui
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,Canal-26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,One-TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:-1,CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1,Telecentro
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,TecTV
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1,Telpin
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1,Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1,Univision Deportes
-http://s5.tvplayerlatino.com/stk/UnivisionDeportes/index.m3u8
-#EXTINF:-1,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,Ibiza
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1,Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1,A3s
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,RT
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
-#EXTINF:-1,Teletrack
-http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
-#EXTINF:-1,Canal-13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Miami-TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1105418252_b1896000.m3u8
-#EXTINF:-1,Canal-10
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1,TV Centro
-http://movilstream.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/chunklist-b1248000.m3u8?
-#EXTINF:-1,Wgn
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1,UnivisionTDN
-http://s5.tvplayerlatino.com/stk/UnivisionTDN/index.m3u8
-#EXTINF:-1,NBC VOD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1,Yes-TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
-#EXTINF:-1,ByuTV
-http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
-#EXTINF:-1,TV-uno
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,Canal-44
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Canal-9
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1,Canal-15
-http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
-#EXTINF:-1,Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1,Telecafe
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1,El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1,Cosmovision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1,Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1,Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1,Project-40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1,TV Mas
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8
-#EXTINF:-1,Canal Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,Canal Sun
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,DxTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:-1,DW
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1,CB-24
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1,Tele Madrid
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-#EXTINF:-1,Ant3 International
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,TV Mas
- http://50.7.98.234:1935/rtv/videortv/live.m3u8
-#EXTINF:-1,C5n
-http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-#EXTINF:-1,Orbe-21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-
-#EXTINF:1,TDTV
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-#EXTINF:1,DEPORTE TV
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
-#EXTINF:1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:1,CANAL ANTIGUA
-http://uploads.streann.com/upload/1484926053567.m4v
-#EXTINF:1,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8
-#EXTINF:1,CANAL 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream3.m3u8
-#EXTINF:1,TVE AMERICA
-http://media3.crtvg.es/live/tvga/chunklist_w1640745482.m3u8
-#EXTINF:1,RT NOTICIAS
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
-#EXTINF:1,TYC sport
-http://vennegas.jl.serv.net.mx/tycsport.m3u8
-#EXTINF:1,ESPN 3
-http://vennegas.jl.serv.net.mx/espn3.m3u8
-#EXTINF:1,FOX SPORT 3
-http://vennegas.jl.serv.net.mx/foxspor3.m3u8
-#EXTINF:1,FOX
-http://vennegas.jl.serv.net.mx/fox.m3u8
-#EXTINF:1,FOX SPORT
-http://vennegas.jl.serv.net.mx/foxsport.m3u8
-#EXTINF:-1,Univision23
-http://170.55.15.122:8000/play/a024
-#EXTINF:-1,Unimas
-http://170.55.15.122:8000/play/a01v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3698,6 +3783,291 @@ http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8003.ts
 
 
 
+#EXTINF:8 group-title=”Latino-Brazil/Spain1”,
+
+
+
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" ,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Exabyte TVAntena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" ,Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TVEl Trece" tvg-name="El Trece" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" ,Azteca 13 (-30 minutos)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TVCanal La Sexta" tvg-name="Canal La Sexta" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" ,La Sexta (espaÃ±ol)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.clipartbest.com/cliparts/jix/6zL/jix6zL66T.jpg" ,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-gPltrFimgy8/Vc13hw_xwUI/AAAAAAAACAY/41aGclEdXfg/s1600/tateti%2Ben%2Bvivo%2Bonline.png" ,Tateti (Argentina)
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" ,Atreseries EspaÃ±ol
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTvPlay-Logo.png" ,Cinema TV Play
+http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" ,Real Madrid TV (EspaÃ±a)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://lh6.googleusercontent.com/-kdJ-Sg3cAWQ/U5l-szGFlkI/AAAAAAAAA_g/HwXbB-FIChw/s300/tyc-sports-tv.png" ,Tyc Sports (Argentina)
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png" ,Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" ,City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png" ,Cool HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://sd-xbmc.org/svn/sd-xbmc/trunk/xbmc-addons/src/xbmc-addons/tv/old/eskaparty.png" ,Eska Go
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1449360473.png" ,Eska Party TV
+http://stream.smcloud.net/live/eska_party/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://online-red.com/images/tv/eska-rock.png" ,Eska Rock TV
+http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg" ,Eska Vox TV Old Cool
+http://stream.smcloud.net/live/vox/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://logonoid.com/images/half-life-logo.jpg" ,Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" ,Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" ,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/77/8c/05/778c054e198d3cf0f53b95e5eeeb191b.jpg" ,Ibiza Djing
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://radioitalialive.com/sites/default/files/radio/logos/logo-m2o.png" ,m2o tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.directnews.me/wp-content/uploads/2014/12/ob_a95326_m6.png" ,M6 TV
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" ,MTV Rocks
+http://94.74.65.100:19123/ott/68:1122
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-zb2JWbgAsPo/V19Rw35Ek1I/AAAAAAAAHRI/i1sTAx52h3siz6f9cRBum5YLpbxuyBhZgCLcB/s1600/one-tv-en-vivo-online.png" ,OneTV Arg
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" ,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782704644334166017/J1zSXCF_.jpg" ,Rock TV
+http://212.96.163.139:8020/1-tv-pc/924.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" ,TelemÃºsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" ,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png" ,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 tvg-id="Exabyte TVProyecto 40" tvg-name="Proyecto 40" tvg-logo="http://y.cdn.entutele.com/media/channels/big/proyecto-40.gif" ,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/f2/bc/62/f2bc62a01b364ea02e257a75dd120ec2.jpg" ,RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wRRKyFD0BrQ/AAAAAAAAAAI/AAAAAAAAAAA/llY9zi1IZNc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Twit
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" ,Al Jazeera UK
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4b/Efekto_tv.jpg" ,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1459.png" ,Euronews en EspaÃ±ol
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/22/778598/foro-tv--280x370.jpg" ,Foro TV OpciÃ³n 2
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" ,France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" ,MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,RT en espaÃ±ol
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,RT Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Latino-Brazil/Spain2”,
+
+
+#EXTINF:-1, TELEMUNDO
+http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
+#EXTINF:-1,ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX News
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Telemundo52
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Univision23
+http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Univision23 Los Angeles
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,H20
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1,Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,Canal-4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Tatetic
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,France-24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Efecko-TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,Trecevicion
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+#EXTINF:-1,Jujuyui
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,Canal-26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,One-TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,Telecentro
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,TecTV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1,Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,Univision Deportes
+http://s5.tvplayerlatino.com/stk/UnivisionDeportes/index.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,Ibiza
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1,A3s
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,RT
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:-1,Teletrack
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:-1,Canal-13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Miami-TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1105418252_b1896000.m3u8
+#EXTINF:-1,Canal-10
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:-1,TV Centro
+http://movilstream.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/chunklist-b1248000.m3u8?
+#EXTINF:-1,Wgn
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,UnivisionTDN
+http://s5.tvplayerlatino.com/stk/UnivisionTDN/index.m3u8
+#EXTINF:-1,NBC VOD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Yes-TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
+#EXTINF:-1,ByuTV
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1,TV-uno
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,Canal-44
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal-9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1,Canal-15
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,Project-40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8
+#EXTINF:-1,Canal Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,Canal Sun
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,DxTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,CB-24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,Tele Madrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+#EXTINF:-1,Ant3 International
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,TV Mas
+ http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1,C5n
+http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
+#EXTINF:-1,Orbe-21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:1,TDTV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:1,DEPORTE TV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
+#EXTINF:1,ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:1,CANAL ANTIGUA
+http://uploads.streann.com/upload/1484926053567.m4v
+#EXTINF:1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8
+#EXTINF:1,CANAL 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream3.m3u8
+#EXTINF:1,TVE AMERICA
+http://media3.crtvg.es/live/tvga/chunklist_w1640745482.m3u8
+#EXTINF:1,RT NOTICIAS
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:1,TYC sport
+http://vennegas.jl.serv.net.mx/tycsport.m3u8
+#EXTINF:1,ESPN 3
+http://vennegas.jl.serv.net.mx/espn3.m3u8
+#EXTINF:1,FOX SPORT 3
+http://vennegas.jl.serv.net.mx/foxspor3.m3u8
+#EXTINF:1,FOX
+http://vennegas.jl.serv.net.mx/fox.m3u8
+#EXTINF:1,FOX SPORT
+http://vennegas.jl.serv.net.mx/foxsport.m3u8
+#EXTINF:-1,Univision23
+http://170.55.15.122:8000/play/a024
+#EXTINF:-1,Unimas
+http://170.55.15.122:8000/play/a01v
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:8 group-title=”Brazil”,
 
@@ -3784,11 +4154,6 @@ rtmp://srvvenus.canaldoboi.com/livecb/livestream
 rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0,Lunaa Sport
 rtmp://vs2.streamcaster.net/test_live/lunasport
-
-#EXTINF:-1,SPORT TV 1 
-http://62.167.50.245:8000/play/a037 
-#EXTINF:-1,SPORT TV 2 
-http://62.167.50.245:8000/play/a01z 
 
 
 
@@ -4436,17 +4801,6 @@ http://109.69.210.13:3000/stv2
 
 
 
-#EXTINF:11 group-title=”Israel”,
-
-#EXTINF:0,ערוץ 1
-http://37.142.91.201:9981/stream/channelid/1661470442?ticket=0E6E1AEBB5A816417017A8200C8368B21D9E6FC4&profile=pass
-#EXTINF:0,ערוץערוץ 10
-http://37.142.91.201:9981/stream/channelid/1068320573?ticket=AE6D47F8BF48917214184926227E3E49531C846A&profile=pass
-#EXTINF:0,2ערוץ
-http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
-
-
-
 
 
 
@@ -4495,37 +4849,6 @@ http://persik.by/stream/4998/171983/932.m3u8
 
 
 
-#EXTINF:11 group-title=”Russian”,
-
-#EXTINF:0,Luxury World
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-#EXTINF:0,1 Kanal
-rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/210_110.sdp
-#EXTINF:0,8 kanal
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/340_110.sdp
-#EXTINF:0,A-One
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/37_110.sdp
-#EXTINF:0,Karusel
-rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/232_110.sdp
-#EXTINF:0,Kultura
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/214_110.sdp
-#EXTINF:0,Mir24
-rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/468_110.sdp
-#EXTINF:0,Prosveshenie
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/472_110.sdp
-#EXTINF:0,RBK TV
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/31_110.sdp
-#EXTINF:0,Ren TV
-rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/118_110.sdp
-#EXTINF:0,Rostov
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/508_110.sdp
-#EXTINF:0,Russia 1.
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/211_110.sdp
-#EXTINF:0,Russia 2
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/85_110.sdp
-#EXTINF:-1,О2 ТВ
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
 
 
 
@@ -4533,235 +4856,205 @@ http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m
 
 
 
-#EXTINF:11 group-title=”Russian2”,
 
+#EXTINF:11 group-title=”Russian1”,
 
-#EXTINF:1500,1 канал [спутник]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/1
-#EXTINF:0,1 канал [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/1t2
-#EXTINF:0,1 канал [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/1air
-#EXTINF:0,12 канал [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ocean
-#EXTINF:0,24 Техно
-http://0E9B00ECD326CCAC:@t.kraslan.ru/24tech
-#EXTINF:0,2x2
-http://0E9B00ECD326CCAC:@t.kraslan.ru/2x2
-#EXTINF:0,360 HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
-#EXTINF:0,5 Канал [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/5
-#EXTINF:0,7 канал (Рен-ТВ) [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rentv
-#EXTINF:0,7 канал [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/7t2
-#EXTINF:0,8 Канал - Красноярский край
-http://0E9B00ECD326CCAC:@t.kraslan.ru/yamolod
-#EXTINF:0,Amazing Life
-http://0E9B00ECD326CCAC:@t.kraslan.ru/am-life
-#EXTINF:0,Amedia 2
-http://0E9B00ECD326CCAC:@t.kraslan.ru/amedia2
-#EXTINF:0,Animal Planet
-http://0E9B00ECD326CCAC:@t.kraslan.ru/animal
-#EXTINF:0,Auto Plus
-http://0E9B00ECD326CCAC:@t.kraslan.ru/auto_plus
-#EXTINF:0,Bollywood HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/booliwoodhd
-#EXTINF:0,Bridge TV
-http://0E9B00ECD326CCAC:@t.kraslan.ru/bridge
-#EXTINF:0,Comedy TV
-http://0E9B00ECD326CCAC:@t.kraslan.ru/comedy
-#EXTINF:0,Discovery
-http://0E9B00ECD326CCAC:@t.kraslan.ru/discovery
-#EXTINF:0,Discovery HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/discoveryhd
-#EXTINF:0,Disney
-http://0E9B00ECD326CCAC:@t.kraslan.ru/disney
-#EXTINF:0,Eurosport 1 HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosporthd
-#EXTINF:0,Eurosport News
-http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosport_news
-#EXTINF:0,Fashion-TV
-http://0E9B00ECD326CCAC:@t.kraslan.ru/fashion
-#EXTINF:0,France 24 (Франция)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/france24
-#EXTINF:0,HD Life
-http://0E9B00ECD326CCAC:@t.kraslan.ru/hdlife
-#EXTINF:0,Life News
-http://0E9B00ECD326CCAC:@t.kraslan.ru/lifenews
-#EXTINF:0,Luxury World
-http://0E9B00ECD326CCAC:@t.kraslan.ru/luxury
-#EXTINF:0,MTV Live HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd
-#EXTINF:0,Music box ru
-http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru
-#EXTINF:0,music-box
-http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box
-#EXTINF:0,Nat Geo Wild
-http://0E9B00ECD326CCAC:@t.kraslan.ru/wild
-#EXTINF:0,National Geographic
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ng
-#EXTINF:0,RTG TV (Russian travel guide)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rtg
-#EXTINF:0,RU.TV
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rutv
-#EXTINF:0,Shop and Show
-http://0E9B00ECD326CCAC:@t.kraslan.ru/shopshow
-#EXTINF:0,Shop24
-http://0E9B00ECD326CCAC:@t.kraslan.ru/shop24
-#EXTINF:0,Teen TV
-http://0E9B00ECD326CCAC:@t.kraslan.ru/teen
-#EXTINF:0,Teletravel HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/teletravelhd
-#EXTINF:0,TV Mall
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tvmall
-#EXTINF:0,TV XXI
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tv21
-#EXTINF:0,Viasat Action
-http://0E9B00ECD326CCAC:@t.kraslan.ru/viasat-action
-#EXTINF:0,Viasat Explorer
-http://0E9B00ECD326CCAC:@t.kraslan.ru/viasat-explorer
-#EXTINF:0,Viasat TV1000
-http://0E9B00ECD326CCAC:@t.kraslan.ru/viasat-tv1000
-#EXTINF:0,Афонтово
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ortv
-#EXTINF:0,Боец
-http://0E9B00ECD326CCAC:@t.kraslan.ru/boets
-#EXTINF:0,Дождь
-http://0E9B00ECD326CCAC:@t.kraslan.ru/dozhd
-#EXTINF:0,Дом Кино
-http://0E9B00ECD326CCAC:@t.kraslan.ru/domkino
-#EXTINF:0,Домашний
-http://0E9B00ECD326CCAC:@t.kraslan.ru/domashniy
-#EXTINF:0,Домашний магазин
-http://0E9B00ECD326CCAC:@t.kraslan.ru/magazin
-#EXTINF:0,ЕвроНовости (EuroNews)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/euronews
-#EXTINF:0,Еда HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/edahd
-#EXTINF:0,Енисей-Регион
-http://0E9B00ECD326CCAC:@t.kraslan.ru/enisei
-#EXTINF:0,Живи!
-http://0E9B00ECD326CCAC:@t.kraslan.ru/zhivi
-#EXTINF:0,Зоо ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/zoo
-#EXTINF:0,Искушение
-http://0E9B00ECD326CCAC:@t.kraslan.ru/iskus
-#EXTINF:0,Карусель
-http://0E9B00ECD326CCAC:@t.kraslan.ru/karusel
-#EXTINF:0,Культура
-http://0E9B00ECD326CCAC:@t.kraslan.ru/kultura
-#EXTINF:0,КХЛ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/khl
-#EXTINF:0,Ля-минор (la minor)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/laminor
-#EXTINF:0,Магазин на диване ТВ - ШОП (TV SALE)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tvsale
-#EXTINF:0,Матч! (бывший Россия 2) [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/sportt2
-#EXTINF:0,Мир
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mir
-#EXTINF:0,МИР 24
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mir24
-#EXTINF:0,МУЗ ТВ [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2
-#EXTINF:0,Муз-ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mustv
-#EXTINF:0,Мультимания
-http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania
-#EXTINF:0,Нано ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/nano
-#EXTINF:0,Настоящее Страшное Телевидение
-http://0E9B00ECD326CCAC:@t.kraslan.ru/strah
-#EXTINF:0,Наука 2.0
-http://0E9B00ECD326CCAC:@t.kraslan.ru/nauka2
-#EXTINF:0,Наш Футбол
-http://0E9B00ECD326CCAC:@t.kraslan.ru/football
-#EXTINF:0,Никелодеон-Россия
-http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon
-#EXTINF:8100,Ночной клуб
-http://0E9B00ECD326CCAC:@t.kraslan.ru/nclub
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:unsorted
+http://85.117.60.123:5013/hdmi
+#EXTINF:0,Первый HD
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=659
+#EXTINF:0,Первый канал
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=441
+#EXTINF:0,Россия 1
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=436
+#EXTINF:0,Россия К
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=453
 #EXTINF:0,НТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ntv
-#EXTINF:0,НТВ [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2
-#EXTINF:0,О-ля-ля (круглосуточный)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/olala
-#EXTINF:0,ОТР (Общественное Телевидение России)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/otr
-#EXTINF:0,Охотник и Рыболов
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ohotnic
-#EXTINF:0,Пятница! (MTV) [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvair
-#EXTINF:0,Пятница! (цифровой эфир)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica
-#EXTINF:0,Пятый канал (5 канал) [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/5t2
-#EXTINF:0,РазТВ (Где и кто)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/raztv
-#EXTINF:0,РБК
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rbk
-#EXTINF:0,Россия 1 [спутник]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rus1
-#EXTINF:0,Россия 24
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rus24
-#EXTINF:0,РТВ - Любимое кино
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rtb
-#EXTINF:0,Русская ночь
-http://0E9B00ECD326CCAC:@t.kraslan.ru/rn
-#EXTINF:0,Рыжий (для глухих детей)
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ryzhiy
-#EXTINF:0,СПАС [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/spas
-#EXTINF:0,Спорт 1 HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/sport1
-#EXTINF:0,СТС Love
-http://0E9B00ECD326CCAC:@t.kraslan.ru/stslove
-#EXTINF:0,СТС [спутник]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/sts
-#EXTINF:0,СТС [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2
-#EXTINF:0,СТС-Прима [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/prima
-#EXTINF:0,ТВ-ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tvtv
-#EXTINF:0,ТВ-Центр
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tvcenter
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=110
+#EXTINF:0,Пятый канал
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=748
+#EXTINF:0,ОТР
+#EXTGRP:unsorted
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=445
+#EXTINF:0,Звезда
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=143
+#EXTINF:0,ТНТ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=438
+#EXTINF:0,СТС
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=439
+#EXTINF:0,РЕН ТВ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=442
 #EXTINF:0,ТВ3
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tv3
-#EXTINF:0,ТВ3 [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tv3t2
-#EXTINF:0,ТВК
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tvk
-#EXTINF:0,Телеканал ЗВЕЗДА
-http://0E9B00ECD326CCAC:@t.kraslan.ru/zvezda
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=444
+#EXTINF:0,КАРУСЕЛЬ
+#EXTGRP:unsorted
+http://uiptv.do.am/1ufc/000000007/playlist.m3u8
+#EXTINF:0,МУЛЬТ
+#EXTGRP:unsorted
+http://89.22.128.131:10045
+#EXTINF:0,ЛЮБИМОЕ ТВ
+#EXTGRP:unsorted
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:0,Царьград
+#EXTGRP:unsorted
+http://hls-tsargrad.cdnvideo.ru/tsargrad/smil:tsargrad_tcode.smil/chunklist_b2628000.m3u8
+#EXTINF:0,RT Док
+#EXTGRP:unsorted
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:0,РОССИЯ 24
+#EXTGRP:unsorted
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:0,Life News
+#EXTGRP:unsorted
+http://uiptv.do.am/1ufc/700503829/playlist.m3u8
+#EXTINF:0,Страна
+#EXTGRP:unsorted
+http://89.22.128.138:10124
+#EXTINF:0,HD Media
+#EXTGRP:unsorted
+http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=134
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=631
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=418
+#EXTINF:0,Viasat Nature
+#EXTGRP:unsorted
+http://78.26.128.94:7321/index.php?channel=224
+#EXTINF:0,Зоо ТВ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=600
+#EXTINF:0,ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTGRP:unsorted
+http://89.22.128.138:10057
+#EXTINF:0,ZOOпарк
+#EXTGRP:unsorted
+http://cdn-01.bonus-tv.ru/btv/zoopark/type/user/devname/LG-SmartTV/devid/LG-1469118402/eol/20200101T0000/hash/283bc4bbe498f77b14b08658942a21a4cb0edcaf/playlist.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=200
 #EXTINF:0,Телепутешествия
-http://0E9B00ECD326CCAC:@t.kraslan.ru/travel
-#EXTINF:0,ТНВ Планета
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tnv
-#EXTINF:0,ТНТ [спутник]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tnt
-#EXTINF:0,ТНТ [цифровой эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tntt2
-#EXTINF:0,ТНТ [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tntair
-#EXTINF:0,ТНТ-4
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tnt4
-#EXTINF:0,Точка ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka
-#EXTINF:0,ТРО
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tro
-#EXTINF:0,ТТС
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tts
-#EXTINF:0,Че (Перец) [спутник]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/perez
-#EXTINF:0,Че (Перец) [эфир]
-http://0E9B00ECD326CCAC:@t.kraslan.ru/perezair
-#EXTINF:0,Шансон ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/shanson
-#EXTINF:0,Ю
-http://0E9B00ECD326CCAC:@t.kraslan.ru/u
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=597
+#EXTINF:0,Моя планета
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=598
+#EXTINF:0,RTG tv
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=167
+#EXTINF:0,Охотник и рыболов
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=648
+#EXTINF:0,Т_24
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=244
+#EXTINF:0,Наука 2.0
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=142
+#EXTINF:0,ИСТОРИЯ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=280
+#EXTINF:0,РЕТРО
+#EXTGRP:unsorted
+http://89.22.128.138:10020
+#EXTINF:0,Ностальгия
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=594
+#EXTINF:0,Время
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=604
+#EXTINF:0,Усадьба
+#EXTGRP:unsorted
+http://46.165.1.72:8080/usadba/index.m3u8
+#EXTINF:0,ДАЧА
+#EXTGRP:unsorted
+http://ott2.odessa.tv:7321/index.php?channel=360
+#EXTINF:0,ЕДА HD
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=664
+#EXTINF:0,Food Network
+#EXTGRP:unsorted
+http://ott2.odessa.tv:7321/index.php?channel=406
+#EXTINF:0,КУХНЯ ТВ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=607
+#EXTINF:0,Телекафе
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=151
+#EXTINF:0,МАТЧ ТВ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=527
+#EXTINF:0,МАТЧ! АРЕНА
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=448
+#EXTINF:0,МАТЧ! ИГРА
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=370
+#EXTINF:0,МАТЧ! НАШ СПОРТ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=102
+#EXTINF:0,МАТЧ! ФУТБОЛ 1
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=616
+#EXTINF:0,МАТЧ! ФУТБОЛ 2
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=617
+#EXTINF:0,МАТЧ! ФУТБОЛ 3
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=618
+#EXTINF:0,ФУТБОЛ 1 UA
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=550
+#EXTINF:0,ФУТБОЛ 2 UA
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=553
+#EXTINF:0,Сетанта Спорт
+#EXTGRP:unsorted
+http://195.158.29.129/live1_360/live.stream_360p.m3u8
+#EXTINF:0,НАШ ФУТБОЛ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=537
+#EXTINF:0,ТК ФУТБОЛ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=100
+#EXTINF:0,Sport 1 UA
+#EXTGRP:unsorted
+http://93.189.224.202:82/live/Ch103/index.m3u8
+#EXTINF:0,Sport 2 UA
+#EXTGRP:unsorted
+http://93.189.224.202:82/live/Ch32/index.m3u8
+#EXTINF:0,МАТЧ! БОЕЦ
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=581
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:unsorted
+http://93.189.224.202:82/live/Ch3/index.m3u8
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:unsorted
+http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=406
+
 
 
 
