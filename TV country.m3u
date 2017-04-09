@@ -829,6 +829,35 @@ http://.....
 #EXTINF:3 group-title=”UK”, 
 
 
+#EXTINF:-1,BTSport1
+http://premium2.kamikkadzetv.ru:5095/play/a094?auth=elena:szp4uo
+#EXTINF:-1,BTSport2
+http://premium2.kamikkadzetv.ru:5095/play/a0cf?auth=elena:szp4uo
+#EXTINF:-1,BTSport3
+http://premium2.kamikkadzetv.ru:5095/play/a0fd?auth=elena:szp4uo
+#EXTINF:-1,Sky Sports 1
+http://premium2.kamikkadzetv.ru:5095/play/a03l?auth=elena:szp4uo
+#EXTINF:-1,Sky Sports 2
+http://premium2.kamikkadzetv.ru:5095/play/a03d?auth=elena:szp4uo
+#EXTINF:-1,Sky Sports 3
+http://premium2.kamikkadzetv.ru:5095/play/a03h?auth=elena:szp4uo
+#EXTINF:-1,Sky Sports 4
+http://premium2.kamikkadzetv.ru:5095/play/a03k?auth=elena:szp4uo
+#EXTINF:-1,Sky Sports 5
+http://premium2.kamikkadzetv.ru:5095/play/a0e0?auth=elena:szp4uo
+
+#EXTINF:-1,MTV +1 [UK]
+http://premium2.kamikkadzetv.ru:5095/play/a02n?auth=elena:szp4uo
+#EXTINF:-1,MTV Base [UK]
+http://premium2.kamikkadzetv.ru:5095/play/a0c0?auth=elena:szp4uo
+#EXTINF:-1,MTV Classic [UK]
+http://premium2.kamikkadzetv.ru:5095/play/a05s?auth=elena:szp4uo
+#EXTINF:-1,MTV Dance [UK]
+http://premium2.kamikkadzetv.ru:5095/play/a05v?auth=elena:szp4uo
+#EXTINF:-1,MTV Hits [UK]
+http://premium2.kamikkadzetv.ru:5095/play/a062?auth=elena:szp4uo
+#EXTINF:-1,MTV Music UK
+http://premium2.kamikkadzetv.ru:5095/play/a0fa?auth=elena:szp4uo
 
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
