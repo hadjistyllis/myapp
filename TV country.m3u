@@ -4431,7 +4431,7 @@ http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
 http://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1457348893.m3u8
 #EXTINF:-1,8TV
 http://193.32.36.27:14931
-#EXTINF:-1 tvg-id=”Stars” group-title=”Popularny” tvg-logo=”http://yoy.tv/channel/covers/2329.jpg?cache=32″ url-epg=”” ,STARS MUSIC
+#EXTINF:-1 tvg-id=”Stars” tvg-logo=”http://yoy.tv/channel/covers/2329.jpg?cache=32″ url-epg=”” ,STARS MUSIC
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
 #EXTINF:0,AMAZING MULTIMEDIA
 http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
