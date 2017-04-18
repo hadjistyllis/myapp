@@ -161,6 +161,8 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:-1,JimJam
 http://91.233.215.82:7272/BXviDJgIiVnTqZO
+#EXTINF:-1,JimJam
+http://188.122.70.241:8000/play/a010
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 #EXTINF:0, Boomerang (po)
