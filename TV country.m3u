@@ -335,9 +335,9 @@ http://bit.ly/2lLgg6P
 #EXTINF:-1 tvg-name="Nick" ,Nick
 http://bit.ly/2lJYAdB
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtmp://live.streams.ovh/MoviesTv/MoviesTv
+rtmp://live.cast-control.eu/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtsp://live.streams.ovh/MoviesTv/MoviesTv
+rtsp://live.cast-control.eu/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo TV
 http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
 #EXTINF:-1 ,MIX
