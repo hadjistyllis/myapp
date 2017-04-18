@@ -4385,7 +4385,7 @@ http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8
 #EXTINF:-1 tvg-id=”TVP Info” tvg-logo=”http://dwiptv.cba.pl/ico/TVP_Info_1.png” ,TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 tvg-id=”TV Republika” group-title=”Popularny” tvg-logo=”http://tele-wizja.com/logo/tvrepublika.png” url-epg=”” ,TV Republika
+#EXTINF:-1 tvg-id=”TV Republika” tvg-logo=”http://tele-wizja.com/logo/tvrepublika.png” url-epg=”” ,TV Republika
 http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
 #EXTINF:-1 tvg-id=”Superstacja” tvg-logo=”http://dwiptv.cba.pl/ico/Superstacja_1.png” ,Superstacja
 http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
