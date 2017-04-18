@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/4/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/4/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -38,26 +38,44 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8
 http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
 #EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.lakatamia.tv/media/images/articles/article190_thumb.jpg ,RIK1
 http://bit.ly/2lsCEqq
+#EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.lakatamia.tv/media/images/articles/article190_thumb.jpg ,RIK1
+http://bit.ly/rik01
 #EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2
 http://bit.ly/2mrZ5vq
+#EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2
+http://bit.ly/rik02
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://bit.ly/2lL7u8Z
+#EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
+http://bit.ly/sigmacy
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=https://pbs.twimg.com/profile_images/710450524873576449/fr3E0Hc4.jpg ,ALPHA CY
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=https://pbs.twimg.com/profile_images/710450524873576449/fr3E0Hc4.jpg ,ALPHA CY
+http://bit.ly/alphacy
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://bit.ly/2maGWBj
+#EXTINF:0 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
+http://bit.ly/megaone
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1
 http://bit.ly/2mskYL9
+#EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1
+http://bit.ly/ant01cy
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
 http://bit.ly/2m7JW00
+#EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
+http://bit.ly/capitalcy
 #EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus
 http://bit.ly/2lsBlrE
+#EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus
+http://bit.ly/pluscy
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
 http://bit.ly/2mpLp3F
+#EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
+http://bit.ly/extracy
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
 rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
@@ -793,9 +811,106 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
+#EXTINF:-1,usa |, TSN 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3986.ts
+#EXTINF:-1,usa |, TSN 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3987.ts
+#EXTINF:-1,usa |, TSN 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3988.ts
+#EXTINF:-1,usa |, TSN 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3989.ts
+#EXTINF:-1,usa |, TSN 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3990.ts
+#EXTINF:-1,USA: ESPN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3992.ts
+#EXTINF:-1,usa |,  ESPN 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3993.ts
+#EXTINF:-1,usa |, NBA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3995.ts
+#EXTINF:-1,usa |,  ABC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3994.ts
+#EXTINF:-1,USA |, BRAVO HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7943.ts
 
-
-
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5488.ts
+#EXTINF:0,USA|NBC NEWS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5485.ts
+#EXTINF:0,USA|FOX NEWS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5487.ts
+#EXTINF:0,USA|CNBS HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5486.ts
+#EXTINF:0,USA|WWE NETWORK HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4899.ts
+#EXTINF:0,USA|NBA HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4900.ts
+#EXTINF:0,USA|USA NETWORK HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4901.ts
+#EXTINF:0,USA|TSN 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4906.ts
+#EXTINF:0,USA|TSN 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4905.ts
+#EXTINF:0,USA|TSN 3 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4904.ts
+#EXTINF:0,USA|TSN 4 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4903.ts
+#EXTINF:0,USA|TSN 5 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4902.ts
+#EXTINF:0,USA|TRAVEL CHANNEL HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4853.ts
+#EXTINF:0,USA|TBS HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4855.ts
+#EXTINF:0,USA|SYFY
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4856.ts
+#EXTINF:0,USA|SPORTS NETWORK 360
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4909.ts
+#EXTINF:0,USA|SPIKE HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4857.ts
+#EXTINF:0,USA|SHOWTIME EXTREME
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4858.ts
+#EXTINF:0,USA|PAC NET 4 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4911.ts
+#EXTINF:0,USA|NICKELODEN HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4859.ts
+#EXTINF:0,USA|NFL NETWORK HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4891.ts
+#EXTINF:0,USA|NFL NETWORK
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4892.ts
+#EXTINF:0,USA|NBC GOLF
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4893.ts
+#EXTINF:0,USA|NAT GEO
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4860.ts
+#EXTINF:0,USA|NASA HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4861.ts
+#EXTINF:0,USA|MLB NETWORK HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4910.ts
+#EXTINF:0,USA|HISTORY HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4863.ts
+#EXTINF:0,USA|HBO ZONE HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4883.ts
+#EXTINF:0,USA|HBO HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4884.ts
+#EXTINF:0,USA|HBO SIGNATURE HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4885.ts
+#EXTINF:0,USA|HBO COMEDY HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4886.ts
+#EXTINF:0,USA|HALLMARK CHANNEL HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4887.ts
+#EXTINF:0,USA|FX
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4864.ts
+#EXTINF:0,USA|FOX SPORTS 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4898.ts
+#EXTINF:0,USA|FOX SPORTS 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4907.ts
+#EXTINF:0,USA|FOX NEWS HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4908.ts
+#EXTINF:0,USA|FOX HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4866.ts
+#EXTINF:0,USA|FOOD NETWORK
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4867.ts
+#EXTINF:0,USA|FIX TV HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4868.ts
+#EXTINF:0,USA|ESPN-2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/4896.ts
 
 
 
@@ -997,98 +1112,182 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,UK:  SKY ARTS
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5477.ts
-#EXTINF:-1,UK: SKY ATLANTIC
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5476.ts
-#EXTINF:-1,UK:  SKY MOVIES CHRISTMAS
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5473.ts
-#EXTINF:-1,UK:  SKY MOVIES DISNEY
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5475.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5474.ts
-#EXTINF:-1,UK_SKY_ACTION_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1067.ts
-#EXTINF:-1,UK_SKY_MOVIES_THRILLER_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1043.ts
-#EXTINF:-1,UK_SKY_MOVIES_SCIFI_HD&Horror-HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1044.ts
-#EXTINF:-1,UK_SKY_MOVIES_PREMIERE_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1045.ts
-#EXTINF:-1,UK_SKY_MOVIES_FAMILY_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1046.ts
-#EXTINF:-1,UK:Sky_Movies DRAMA &ROMANCE HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1696.ts
-#EXTINF:-1,UK:SKY_MOVIES_SELECT
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1694.ts
-#EXTINF:-1,UK:SKY_MOVIES_MODERN_GRATES
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1695.ts
-#EXTINF:-1,UK: HORROR CHANNEL
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3057.ts
-#EXTINF:-1,UK: True Movies 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1927.ts
-#EXTINF:-1,UK: True Movies 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1928.ts
-#EXTINF:-1,UK: Film 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5478.ts
-#EXTINF:-1,UK: Syfy HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8004.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1914.ts
-#EXTINF:-1,UK: Sky sports 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1913.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1912.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1938.ts
-#EXTINF:-1,UK: Sky  Sports 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1941.ts
-#EXTINF:-1,UK: Sky BT Sport 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1917.ts
-#EXTINF:-1,UK: Sky BT Sport 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1916.ts
-#EXTINF:-1,UK:  AT THE RACES
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5480.ts
-#EXTINF:-1,UK: BOOMERANG
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5498.ts
-#EXTINF:-1,UK: CARTOON NETWORK
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5499.ts
-#EXTINF:-1,UK: DISNEY XD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5492.ts
-#EXTINF:-1,UK:  DISNEY JUNIOR
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5491.ts
-#EXTINF:-1,UK:  DISNEY CHANNEL
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5493.ts
-#EXTINF:-1,UK:  EUROSPORT
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5490.ts
-#EXTINF:-1,UK:  EUROSPORT 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5489.ts
-#EXTINF:-1,UK: MOTOTRS TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5485.ts
-#EXTINF:-1,UK:  MOVIES 4 MEN
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5479.ts
-#EXTINF:-1,UK:  NICK JR
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5495.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5497.ts
-#EXTINF:-1,UK: NICKTOON
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5496.ts
-#EXTINF:-1,UK: NICKELODEON
+#EXTINF:-1,UK |, SKY MOVIES THRILLER
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/260.ts
+#EXTINF:-1,UK |, SKY MOVIES  HORROR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/559.ts
+#EXTINF:-1,UK |, SKY MOVIES CHRISTMAS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/554.ts
+#EXTINF:-1,UK |, SKY MOVIES SHOWCASE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/261.ts
+#EXTINF:-1,UK |, SKY MOVIES SELECT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/262.ts
+#EXTINF:-1,UK |, SKY MOVIES FAMILY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/263.ts
+#EXTINF:-1,UK |, SKY MOVIES DISNEY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/264.ts
+#EXTINF:-1,UK |, SKY MOVIES COMEDY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/265.ts
+#EXTINF:-1,UK |, SKY MOVIES ACTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/266.ts
+#EXTINF:-1,UK |, SKY MOVIES  PREMIERE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/267.ts
+#EXTINF:-1,UK |, Film 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/273.ts
+#EXTINF:-1,UK |, TRUE MOVIES 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5946.ts
+#EXTINF:-1,UK |, TRUE DRAMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5948.ts
+#EXTINF:-1,UK |, CBS ACTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5917.ts
+#EXTINF:-1,UK |, MOVIES 4 MEN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5931.ts
+#EXTINF:-1,UK |, CBS DRAMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5918.ts
+#EXTINF:-1,UK |, CBS REALITY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5919.ts
+#EXTINF:-1,*****UK SPORTS*****
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/8001.ts
+#EXTINF:-1,UK |, SKY SPORTS 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/272.ts
+#EXTINF:-1,UK |, SKY SPORTS 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/271.ts
+#EXTINF:-1,UK |, SKY SPORTS 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/270.ts
+#EXTINF:-1,UK |, SKY SPORTS 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/269.ts
+#EXTINF:-1,UK |, SKY SPORT 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/492.ts
+#EXTINF:-1,UK |, SKY SPORTS F1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/539.ts
+#EXTINF:-1,UK |, BT SPORTS 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/258.ts
+#EXTINF:-1,UK |, BT SPORTS 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/257.ts
+#EXTINF:-1,UK |, BT SPORT ESPN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/541.ts
+#EXTINF:-1,UK |, MOTOTRS TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/639.ts
+#EXTINF:-1,UK ||, BOXNATION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/231.ts
+#EXTINF:-1,UK |, SETANTA SPORTS-
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/240.ts
+#EXTINF:-1,UK |, EUROSPORT 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/544.ts
+#EXTINF:-1,UK |, EUROSPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/543.ts
+#EXTINF:-1,*****UK KIDS*****
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/8951.ts
+#EXTINF:-1,UK |, DISNEY XD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/652.ts
+#EXTINF:-1,UK |, DISNEY CHANNEL +
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/247.ts
+#EXTINF:-1,UK |, NICKELODEON
 http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/242.ts
-#EXTINF:-1,UK:  PREMIER SPORT
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5487.ts
-#EXTINF:-1,UK: RACING
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5483.ts
-#EXTINF:-1,UK:SETANTA SPORTS-
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5488.ts
-#EXTINF:-1,UK:  BOXNATION
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5486.ts
-#EXTINF:-1,UK:Chelsea FC
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5885.ts
-#EXTINF:-1,UK: Manchester United FC
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5883.ts
-#EXTINF:-1,UK:Liverpool FC
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5884.ts
+#EXTINF:-1,UK |, NICKTOO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/613.ts
+#EXTINF:-1,UK |, NICK JUNIOR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/243.ts
+#EXTINF:-1,UK |, BOOMERANG
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5925.ts
+#EXTINF:-1,UK |, CARTOON NETWORK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/253.ts
+#EXTINF:-1,UK |, CBEEBIES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/251.ts
+#EXTINF:-1,UK |, CBBC/BBC4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/252.ts
+#EXTINF:-1,*~* UK DOCUMENTARIES *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5654.ts
+#EXTINF:-1,UK |, ANIMAL PLANET
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/256.ts
+#EXTINF:-1,UK |, NAT GEO GRAPHIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/563.ts
+#EXTINF:-1,UK |, RUSSIA DOCUMENTARY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/241.ts
+#EXTINF:-1,UK |, NATIONAL GEOGRAPHIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/244.ts
+#EXTINF:-1,UK |, NAT GEO WILD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/245.ts
+#EXTINF:-1,UK |, CRIME INVESTIGATION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/616.ts
+#EXTINF:-1,UK |, DISCOVERY CHANNEL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/658.ts
+#EXTINF:-1,UK |, TLC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/259.ts
+#EXTINF:-1,UK |, FOOD NETWORK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/646.ts
+#EXTINF:-1,*~* UK NEWS *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5656.ts
+#EXTINF:-1,UK |, BBC WORLD NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5921.ts
+#EXTINF:-1,UK |, CNN NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4591.ts
+#EXTINF:-1,UK|LOCAL |,  ALJAZEERA NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5340.ts
+#EXTINF:-1,*~* UK MUSIC *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5657.ts
+#EXTINF:-1,UK |, MTV HITS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/3755.ts
+#EXTINF:-1,UK |, MTV BASE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/615.ts
+#EXTINF:-1,UK |, MTV CLASSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5929.ts
+#EXTINF:-1,UK |, VIVA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5928.ts
+#EXTINF:-1,UK |, VH1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5927.ts
+#EXTINF:-1,*~* UK CULTURE *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5658.ts
+#EXTINF:-1,UK |, BBC ONE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/255.ts
+#EXTINF:-1,UK |, BBC TWO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/254.ts
+#EXTINF:-1,UK |, ITV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/239.ts
+#EXTINF:-1,UK |, ITVBE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/530.ts
+#EXTINF:-1,UK |, CHANNEL 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/249.ts
+#EXTINF:-1,UK |, CHANNEL 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/248.ts
+#EXTINF:-1,UK |, E4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/648.ts
+#EXTINF:-1,UK |, E
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/649.ts
+#EXTINF:-1,UK |, 5 USA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5949.ts
+#EXTINF:-1,UK |, 5 STAR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5943.ts
+#EXTINF:-1,*~* UK RELIGION *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5660.ts
+#EXTINF:-1,*~* UK ENTERTAINMENT *~*
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5659.ts
+#EXTINF:-1,UK |, SKY REAL LIVES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5924.ts
+#EXTINF:-1,UK |, YESTERDAY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/617.ts
+#EXTINF:-1,UK |, WATCH
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/618.ts
+#EXTINF:-1,UK |, SKY LIVING
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/268.ts
+#EXTINF:-1,UK |, SYFY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/619.ts
+#EXTINF:-1,UK |, SKY ONE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/628.ts
+#EXTINF:-1,UK |, SKY TWO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/620.ts
+#EXTINF:-1,UK |, REALLY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/633.ts
+#EXTINF:-1,UK |, QUEST
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/635.ts
+#EXTINF:-1,UK |, GOLD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/644.ts
+#EXTINF:-1,UK |, DRAMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/650.ts
+#EXTINF:-1,UK |, DAVE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/659.ts
+#EXTINF:-1,UK |, ALIBI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/662.ts
 
 
 
@@ -1543,7 +1742,50 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,ROMANIAN |,Viasat Nature
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2611.ts
+#EXTINF:-1,ROMANIAN |, Viasat History
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2620.ts
+#EXTINF:-1,ROMANIAN |,Viasat Explorer
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2612.ts
+#EXTINF:-1,ROMANIAN |,TVR 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2613.ts
+#EXTINF:-1,ROMANIAN |,TV1000
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2614.ts
+#EXTINF:-1,ROMANIAN |, DOLCE SPORT 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2615.ts
+#EXTINF:-1,ROMANIAN |, National Geographic
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2616.ts
+#EXTINF:-1,ROMANIAN |, Nat Geo Wild
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2617.ts
+#EXTINF:-1,ROMANIAN |, History Channel
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2618.ts
+#EXTINF:-1,ROMANIAN |, Disney Junior
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2619.ts
+#EXTINF:-1,ROMANIAN |, Digi World
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2621.ts
+#EXTINF:-1,ROMANIAN |, Digi Life
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2622.ts
+#EXTINF:-1,ROMANIAN |, DIGI FILM
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2626.ts
+#EXTINF:-1,ROMANIAN |, Digi Animal World
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2623.ts
+#EXTINF:-1,ROMANIAN |, Digi 24
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2624.ts
+#EXTINF:-1,ROMANIAN |, AXN WHITE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2625.ts
+#EXTINF:-1,ROMANIAN |, AXN BLACK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2627.ts
+#EXTINF:-1,ROMANIAN |, AXN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2628.ts
+#EXTINF:-1,ROMANIAN |, DOLCE SPORT 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2632.ts
+#EXTINF:-1,ROMANIAN |,  DOLCE SPORT 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2631.ts
+#EXTINF:-1,ROMANIAN |, DIGI SPORT 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2630.ts
+#EXTINF:-1,ROMANIAN |, DIGI SPORT 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2629.ts
 
 
 
@@ -2012,396 +2254,116 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,IT: Rai 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/298.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/299.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/300.ts
-#EXTINF:-1,IT: RAI_4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3124.ts
-#EXTINF:-1,IT: Rete_4_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7944.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3708.ts
-#EXTINF:-1,IT: Rai_Scuola
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7885.ts
-#EXTINF:-1,IT: Rai Premium
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3729.ts
-#EXTINF:-1,IT: Real Time HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3730.ts
-#EXTINF:-1,IT :ITALIA_1_HD
-http://fullsonic-IPTV.com:2600/live/anass1234567/anass1234567dghtfu6fgvg/5251.ts
-#EXTINF:-1,IT: ITALIA 2 HD
-http://hd-iptv.ddns.net:8000/live/sadil57/sadil57/1047.ts
-#EXTINF:-1,IT: Cielo
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3742.ts
-#EXTINF:-1,IT: LA 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3693.ts
-#EXTINF:-1,IT- CANAL 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5613.ts
-#EXTINF:-1,IT: RSI LA 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3737.ts
-#EXTINF:-1,IT: RSI LA 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3738.ts
-#EXTINF:-1,IT: Alice
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3732.ts
-#EXTINF:-1,IT:  D-Giallo
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5460.ts
-#EXTINF:-1,IT:  TV2000
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5461.ts
-#EXTINF:-1,IT:Mediaset extra HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5463.ts
-#EXTINF:-1,IT: Gambero Rosso HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7884.ts
-#EXTINF:-1,*******NOTICIAS****
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6148.ts
-#EXTINF:-1,IT: Rai_News24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3736.ts
-#EXTINF:-1,IT: Tg Com 24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6149.ts
-#EXTINF:-1,IT: TG Norba 24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6152.ts
-#EXTINF:-1,=== MUSICA ====
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3861.ts
-#EXTINF:-1,IT: Virgin TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7882.ts
-#EXTINF:-1,IT: Marco Polo
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3860.ts
-#EXTINF:-1,IT: Radio ITalia TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7881.ts
-#EXTINF:-1,IT: RTL 102.5 TV (musica)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3862.ts
-#EXTINF:-1,IT: Radio Monte Carlo TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7883.ts
-#EXTINF:-1,****** Bambini ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/320.ts
-#EXTINF:-1,IT: Boing
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3739.ts
-#EXTINF:-1,IT: Rai_yoyo
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3721.ts
-#EXTINF:-1,IT_Rai_Gulp
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3733.ts
-#EXTINF:-1,IT: Cartoonito
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3722.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/321.ts
-#EXTINF:-1,IT: Disney XD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6124.ts
-#EXTINF:-1,IT: Disney Junior
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6126.ts
-#EXTINF:-1,IT:  DISNEY JUNIOR
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/324.ts
-#EXTINF:-1,IT: Disney Channel HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6125.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6120.ts
-#EXTINF:-1,IT: Fox Animation SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8056.ts
-#EXTINF:-1,****** Cultura ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/328.ts
-#EXTINF:-1,IT: Rai Storia HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6141.ts
-#EXTINF:-1,IT: FOCUS HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/330.ts
-#EXTINF:-1,IT: DMAX HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/333.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7877.ts
-#EXTINF:-1,IT: Discovery_Channel HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7876.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6129.ts
-#EXTINF:-1,IT: Nat_Geo_People HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3727.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6130.ts
-#EXTINF:-1,IT: NAT GEOGRAPHIC HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4063.ts
-#EXTINF:-1,IT: History HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6131.ts
-#EXTINF:-1,IT: Animal Planet
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6133.ts
-#EXTINF:-1,****** SKY-CINEMA ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/339.ts
-#EXTINF:-1,IT: Rai Movie HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/312.ts
-#EXTINF:-1,IT:  Fox HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7943.ts
-#EXTINF:-1,IT: Fox SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8052.ts
-#EXTINF:-1,IT: Top Crime
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6096.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4060.ts
-#EXTINF:-1,IT: Fox Crime SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8054.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6118.ts
-#EXTINF:-1,IT: Fox Comedy SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8055.ts
-#EXTINF:-1,IT: CI Crime Investigation HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6122.ts
-#EXTINF:-1,IT: CI Crime Investigation SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8057.ts
-#EXTINF:-1,IT: Fox Life HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6115.ts
-#EXTINF:-1,IT: Paramount Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7878.ts
-#EXTINF:-1,IT:Sky Atlantic HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/350.ts
-#EXTINF:-1,IT: Sky Atlantic SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8053.ts
-#EXTINF:-1,IT: Sky Uno SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8051.ts
-#EXTINF:-1,IT:  Sky  _Cinema_ Uno HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/342.ts
-#EXTINF:-1,IT: Sky Cinema +1 SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8059.ts
-#EXTINF:-1,IT: Sky Cinema +24 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6101.ts
-#EXTINF:-1,IT: Sky Cinema +24 SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8060.ts
-#EXTINF:-1,IT: Sky Cinema 1 SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8058.ts
-#EXTINF:-1,IT: Sky Cinema Family SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8061.ts
-#EXTINF:-1,IT: Sky_Cinema_ Uno +24_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5767.ts
-#EXTINF:-1,IT: Sky Cinema Comedy SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6107.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/344.ts
-#EXTINF:-1,IT: Sky Cinema Cult SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8063.ts
-#EXTINF:-1,IT: Sky _Cinema_Cult HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/343.ts
-#EXTINF:-1,IT: Sky Cinema Family +  1HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6104.ts
-#EXTINF:-1,IT: Sky Cinema Family +1  HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/345.ts
-#EXTINF:-1,IT: Sky Cinema Hits SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6103.ts
-#EXTINF:-1,IT:  Sky _Cinema_Hits HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/349.ts
-#EXTINF:-1,IT:  Sky _Cinema_Passion HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/348.ts
-#EXTINF:-1,IT: Sky Cinema Passion SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6108.ts
-#EXTINF:-1,IT: Sky Cinema Max SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8062.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6105.ts
-#EXTINF:-1,IT: Sky Cinema Classic SD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6110.ts
-#EXTINF:-1,IT: Sky_Cinema_Classic_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5766.ts
-#EXTINF:-1,****** PREMIUM-CINEMA ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/351.ts
-#EXTINF:-1,IT: PREMIUM  JOI
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/362.ts
-#EXTINF:-1,IT: PREMIUM JOY 24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5782.ts
-#EXTINF:-1,IT: PREMIUM STORIES HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/363.ts
-#EXTINF:-1,IT: PREMIUM STORIES +24 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7886.ts
-#EXTINF:-1,IT: PREMIUM CINEMA EMOTION HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/355.ts
-#EXTINF:-1,IT: PREMIUM  ACTION HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/352.ts
-#EXTINF:-1,IT: PREMIUM CINEMA ACTION  24 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/353.ts
-#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/357.ts
-#EXTINF:-1,IT: PREMIUM_CINEMA_2 +24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5783.ts
-#EXTINF:-1,IT:  PREMIUM CRIME HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/360.ts
-#EXTINF:-1,IT: PREMIUM  CRIME  24 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/361.ts
-#EXTINF:-1,IT: PREMIUM  CINEMA  HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/354.ts
-#EXTINF:-1,IT: PREMIUM  CINEMA   24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/356.ts
-#EXTINF:-1,IT: PREMIUM  CINEMA  ENERGY
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/359.ts
-#EXTINF:-1,IT: PREMIUM ENERGY 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7887.ts
-#EXTINF:-1,IT: PREMIUM  STUDIO UNIVERSAL
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/364.ts
-#EXTINF:-1,****** SKY-SPORT ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/365.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/366.ts
-#EXTINF:-1,IT: Rai Sport 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/367.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/368.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/369.ts
-#EXTINF:-1,IT: Sky Sport 3 UltraHD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6075.ts
-#EXTINF:-1,IT: Sky_Sport_MotoGP_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3753.ts
-#EXTINF:-1,IT: Sky Formula 1 UltraHD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6079.ts
-#EXTINF:-1,IT: Sky Moto GP UltraHD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6080.ts
-#EXTINF:-1,IT: Sky Sport 24 UltraHD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6076.ts
-#EXTINF:-1,IT: Sky Sport Italia HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6078.ts
-#EXTINF:-1,IT: Fox Sports UltraHD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6077.ts
-#EXTINF:-1,IT:  EuroSport 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6081.ts
-#EXTINF:-1,IT: EuroSport 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6082.ts
-#EXTINF:-1,IT: Bike_Channel HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7879.ts
-#EXTINF:-1,IT:  Inter Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6073.ts
-#EXTINF:-1,IT: Milan Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6074.ts
-#EXTINF:-1,IT: Roma Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/6072.ts
-#EXTINF:-1,IT: Juventus Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7906.ts
-#EXTINF:-1,IT: Sky Super Calcio HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7880.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7870.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7871.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7872.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7873.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7874.ts
-#EXTINF:-1,IT: Sky Calcio 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7875.ts
-#EXTINF:-1,IT: Sky Calcio.7 HD
-http://ksportiptv.com:1557/live/TIGERIPTViuu/Tigertvip92/4108.ts
-#EXTINF:-1,****** PREMIUM-CALCIO ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/377.ts
-#EXTINF:-1,IT: PREMIUM  Calcio 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/379.ts
-#EXTINF:-1,IT: PREMIUM Calcio 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/380.ts
-#EXTINF:-1,IT: PREMIUM Calcio 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/381.ts
-#EXTINF:-1,IT: PREMIUM Calcio 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/382.ts
-#EXTINF:-1,IT: PREMIUM Calcio 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/383.ts
-#EXTINF:-1,****** PRIMAFILA ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/881.ts
-#EXTINF:-1,IT: PRIMAFILA 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/866.ts
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/867.ts
-#EXTINF:-1,IT: PRIMAFILA 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/868.ts
-#EXTINF:-1,IT: PRIMAFILA 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/869.ts
-#EXTINF:-1,IT: PRIMAFILA 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/870.ts
-#EXTINF:-1,IT: PRIMAFILA 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/871.ts
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/872.ts
-#EXTINF:-1,IT: PRIMAFILA 8 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/873.ts
-#EXTINF:-1,IT:PRIMAFILA 9 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1523.ts
-#EXTINF:-1,IT: PRIMAFILA 10 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/874.ts
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/875.ts
-#EXTINF:-1,IT: PRIMAFILA 12 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/876.ts
-#EXTINF:-1,IT: PRIMAFILA 13 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/877.ts
-#EXTINF:-1,IT: PRIMAFILA 14 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/878.ts
-#EXTINF:-1,IT: PRIMAFILA 15 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/879.ts
-#EXTINF:-1,IT: PRIMAFILA-16 HD
-http://beout-iptv.com:7777/live/sadatek5/P9AE5KlQek/4124.ts
-#EXTINF:-1,IT: PRIMAFILA-17 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4891.ts
-#EXTINF:-1,IT :PRIMAFILA 18 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5458.ts
-#EXTINF:-1,IT :PRIMAFILA 19 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5459.ts
-#EXTINF:-1,IT: MOVIES HD 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5892.ts
-#EXTINF:-1,IT: MOVIES HD 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5893.ts
-#EXTINF:-1,IT: BOX OFFICE 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5822.ts
-#EXTINF:-1,IT: BOX OFFICE 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5821.ts
-#EXTINF:-1,IT: BOX OFFICE 3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5820.ts
-#EXTINF:-1,IT: BOX OFFICE 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5819.ts
-#EXTINF:-1,IT: BOX OFFICE 5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5818.ts
-#EXTINF:-1,IT: BOX OFFICE 6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5817.ts
-#EXTINF:-1,IT: BOX OFFICE 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5816.ts
-#EXTINF:-1,IT: BOX OFFICE 8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5815.ts
-#EXTINF:-1,IT: BOX OFFICE 9
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5814.ts
-#EXTINF:-1,IT: BOX OFFICE 10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5813.ts
-#EXTINF:-1,>>>>>FILM NEI CINEMA<<<<<
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7715.ts
-#EXTINF:-1,IT: Film in Sala 1 (Mamma o pap 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7735.ts
-#EXTINF:-1,IT: Film in Sala 2 (Absolutely Fabulous:Il film 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7734.ts
-#EXTINF:-1,IT: Film in Sala 3 (xXx:Il ritorno di Xander Cage 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7733.ts
-#EXTINF:-1,IT: Film in Sala 4 (Proprio Lui? 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7732.ts
-#EXTINF:-1,IT: Film in Sala 5 (Le spie della porta accanto 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7731.ts
-#EXTINF:-1,IT: Film in Sala 6 (Resident Evil:The Final Chapter 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7730.ts
-#EXTINF:-1,IT: Film in Sala 7  (Filma 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7729.ts
-#EXTINF:-1,IT: Film in Sala 8 (Smetto quando voglio: Masterclass 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7728.ts
-#EXTINF:-1,IT: Film in Sala 9 (Lego Batman:Il film 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7727.ts
-#EXTINF:-1,IT: Film in Sala 10 (Cinquanta Sfumature Di Nero 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7726.ts
-#EXTINF:-1,IT: Film in Sala 11 (John Wick:Chapter 2 Sub-ITA 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7725.ts
-#EXTINF:-1,IT: Film in Sala 12 (Allied.Un 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7724.ts
-#EXTINF:-1,IT: Film in Sala 13 (Mister Felicit? 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7723.ts
-#EXTINF:-1,IT: Film in Sala 14 (Sleepless:Il Giustiziere 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7722.ts
-#EXTINF:-1,IT: Film in Sala 15 (Death Race 2050 (2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7721.ts
-#EXTINF:-1,IT: Film in Sala 16 (Clinical 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7720.ts
-#EXTINF:-1,IT: Film in Sala 17 (Fallen 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7719.ts
-#EXTINF:-1,IT: Film in Sala 18 (Cross Wars 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7718.ts
-#EXTINF:-1,IT: Film in Sala 19 (Collateral Beauty 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7717.ts
-#EXTINF:-1,IT: Film in Sala 20 (Split 2017)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7716.ts
+#EXTINF:-1,IT |, SKY CINEMA PASSION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1933.ts
+#EXTINF:-1,IT |, SKY CINEMA HITS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1934.ts
+#EXTINF:-1,IT |, SKY CINEMA MAX PLUS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1935.ts
+#EXTINF:-1,IT |, SKY CINEMA FAMILY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1936.ts
+#EXTINF:-1,IT |, SKY CINEMA COMEDY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1937.ts
+#EXTINF:-1,IT |, SKY CINEMA CLASSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1938.ts
+#EXTINF:-1,IT |, SKY CINEMA 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1932.ts
+#EXTINF:-1,IT |, SKY CINEMA 24
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1939.ts
+#EXTINF:-1,IT |, SKY ATLANTIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1941.ts
+#EXTINF:-1,IT |, SKY CINEMA PASSION HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4962.ts
+#EXTINF:-1,IT |, SKY CINEMA MAX HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4960.ts
+#EXTINF:-1,IT |,  SKY CINEMA FAMILY HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4961.ts
+#EXTINF:-1,IT,—————{MEDIASET}-----------
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7630.ts
+#EXTINF:-1,IT |, MEDIASET ITALIA 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4935.ts
+#EXTINF:-1,IT |, PREMIUM ENERGY HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5287.ts
+#EXTINF:-1,IT |, PREMIUM EMOTION HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5288.ts
+#EXTINF:-1,IT |,  PREMIUM CALCIO 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5457.ts
+#EXTINF:-1,IT |, PREMIUM SPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1944.ts
+#EXTINF:-1,IT |, PREMIUM EUROSPORT 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1946.ts
+#EXTINF:-1,IT |, PREMIUM EURO SPORT1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1947.ts
+#EXTINF:-1,IT |, PREMIUM CRIME HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5280.ts
+#EXTINF:-1,IT |, PREMIUM CRIME 24 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5281.ts
+#EXTINF:-1,IT |, PREMIUM COMEDY HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5289.ts
+#EXTINF:-1,IT |, PREMIUM CINEMA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5282.ts
+#EXTINF:-1,IT |, PREMIUM CINEMA 24 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5284.ts
+#EXTINF:-1,IT |, PREMIUMT CINEMA 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5283.ts
+#EXTINF:-1,IT |, PREMIUM ACTION HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5285.ts
+#EXTINF:-1,IT |, PREMIUM ACTION 24 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5286.ts
+#EXTINF:-1,IT |, PREMIUM STORIES HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5290.ts
+#EXTINF:-1,IT |, PREMIUM JOI HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5291.ts
+#EXTINF:-1,IT |, PREMIUM JOI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1945.ts
+#EXTINF:-1,IT,—————{INFANTS}-----------
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7625.ts
+#EXTINF:-1,IT |,  DISNEY XD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4944.ts
+#EXTINF:-1,IT |,  CARTOONITO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4943.ts
+#EXTINF:-1,IT |,  CARTOON NETWORK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4942.ts
+#EXTINF:-1,IT,—————{ITALIA CULTURE}-----------
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7628.ts
+#EXTINF:-1,IT |, NET GEO PEOPLE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4974.ts
+#EXTINF:-1,IT |, DISCOVERY TRAVEL & LIVING HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4971.ts
+#EXTINF:-1,IT |, DISCOVERY SCIENCE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4970.ts
+#EXTINF:-1,IT |, DISCOVERY CHANNEL HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4969.ts
+#EXTINF:-1,IT |, ANIMAL PLANET
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4975.ts
+#EXTINF:-1,IT,—————{ITALIA PPV}-----------
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7629.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1931.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1923.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1922.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA  4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1921.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1920.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 6
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1919.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 7
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1918.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 8
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1917.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 9
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1916.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 10
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1930.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 11
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1929.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 12
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1928.ts
+#EXTINF:-1,IT |, SKY PRIMAFILA 13
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1927.ts
 
 
 
@@ -2443,289 +2405,124 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,FR: PPV A La Carte 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/385.ts
-#EXTINF:-1,FR: PPV A La Carte 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/386.ts
-#EXTINF:-1,FR: PPV A La Carte 3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/387.ts
-#EXTINF:-1,FR: PPV A La Carte 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/388.ts
-#EXTINF:-1,FR: PPV A La Carte 5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/389.ts
-#EXTINF:-1,FR: PPV A La Carte 6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/390.ts
-#EXTINF:-1,FR: PPV A La Carte 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/391.ts
-#EXTINF:-1,FR: PPV A La Carte 8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/392.ts
-#EXTINF:-1,FR: PPV A La Carte 9
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3473.ts
-#EXTINF:-1,FR:-| PPV A La Carte 10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4051.ts
-#EXTINF:-1,FR: A LA CARTE 11 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4918.ts
-#EXTINF:-1,FR: A LA CARTE 12 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4919.ts
-#EXTINF:-1,FR: A LA CARTE 13 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4920.ts
-#EXTINF:-1,FR: A LA CARTE 14 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4921.ts
-#EXTINF:-1,FR: A LA CARTE 15 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4922.ts
-#EXTINF:-1,FR: A LA CARTE 16 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4923.ts
-#EXTINF:-1,FR: A LA CARTE 17 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4924.ts
-#EXTINF:-1,FR: MegaBox 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5874.ts
-#EXTINF:-1,FR: MegaBox 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5875.ts
-#EXTINF:-1,FR: MegaBox 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5876.ts
-#EXTINF:-1,FR: MegaBox 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5877.ts
-#EXTINF:-1,FR: MegaBox 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5878.ts
-#EXTINF:-1,FR: MegaBox 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5879.ts
-#EXTINF:-1,FR: MegaBox 7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5880.ts
-#EXTINF:-1,FR: MegaBox 8 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5881.ts
-#EXTINF:-1,FR: MegaBox 9 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5882.ts
-#EXTINF:-1,*_*_*_* ORANGE VOB FR*_*_*_*
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1996.ts
-#EXTINF:-1,FR: Orange_Cinema HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/964.ts
-#EXTINF:-1,FR: Orange Cine Action HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/2811.ts
-#EXTINF:-1,FR- Orange Cine horreur HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/398.ts
-#EXTINF:-1,FR:  Orange Cine Aventure HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/2948.ts
-#EXTINF:-1,FR:Orange_Cine_Disney HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5507.ts
-#EXTINF:-1,FR: Orange_Documentaire_HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7564.ts
-#EXTINF:-1,FR:Orange_ENQUETE EXCLUSIVE HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5506.ts
-#EXTINF:-1,FR_Orange_Cine 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5321.ts
-#EXTINF:-1,FR_Orange_Cine 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5322.ts
-#EXTINF:-1,FR_Orange_Cine 3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5323.ts
-#EXTINF:-1,FR_Orange_Cine 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5324.ts
-#EXTINF:-1,FR_Orange_Cine 5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5325.ts
-#EXTINF:-1,FR_Orange_Cine 6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5327.ts
-#EXTINF:-1,FR_Orange_Cine 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5328.ts
-#EXTINF:-1,FR_Orange_Cine 8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5326.ts
-#EXTINF:-1,FR: Orange Disney 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7379.ts
-#EXTINF:-1,FR: Orange Disney 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7378.ts
-#EXTINF:-1,FR: Orange Disney 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7377.ts
-#EXTINF:-1,FR: Orange Disney 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7376.ts
-#EXTINF:-1,FR: Orange Disney 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7375.ts
-#EXTINF:-1,FR: Orange_Premium_1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7844.ts
-#EXTINF:-1,FR: Orange_Premium_2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7843.ts
-#EXTINF:-1,FR: Orange_Premium_3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7842.ts
-#EXTINF:-1,FR: Orange_Premium_4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7841.ts
-#EXTINF:-1,FR: Orange_Premium_5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7840.ts
-#EXTINF:-1,FR: Orange_Premium_6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7839.ts
-#EXTINF:-1,FR: Orange_Premium_7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7838.ts
-#EXTINF:-1,******* CANALPLAY ******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/864.ts
-#EXTINF:-1,FR: Canal Play 01
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/863.ts
-#EXTINF:-1,FR: Canal Play 02
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/862.ts
-#EXTINF:-1,FR: Canal Play 03
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/861.ts
-#EXTINF:-1,FR: Canal Play 04
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/860.ts
-#EXTINF:-1,FR: Canal Play 05
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/859.ts
-#EXTINF:-1,FR: Canal Play 06
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/858.ts
-#EXTINF:-1,FR: Canal Play 07
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/857.ts
-#EXTINF:-1,FR: Canal Play 08
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/856.ts
-#EXTINF:-1,FR: Canal Play 09
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/855.ts
-#EXTINF:-1,FR: Canal Play 10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/854.ts
-#EXTINF:-1,FR: Canal Play 11
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/853.ts
-#EXTINF:-1,FR: Canal Play 12
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/852.ts
-#EXTINF:-1,FR: Canal Play 13
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/851.ts
-#EXTINF:-1,FR: Canal Play 14
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/850.ts
-#EXTINF:-1,FR: Canal play 15
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3923.ts
-#EXTINF:-1,FR: Canal play 16
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8027.ts
-#EXTINF:-1,********Canal Play Local HD*****
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7260.ts
-#EXTINF:-1,FR: CANAL PLAY 1 < LOCAL>
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7259.ts
-#EXTINF:-1,FR: CANAL PLAY 2  < LOCAL>
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7258.ts
-#EXTINF:-1,FR: CANAL PLAY 3  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7257.ts
-#EXTINF:-1,FR: CANAL PLAY 4  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7256.ts
-#EXTINF:-1,FR: CANAL PLAY 5 < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7255.ts
-#EXTINF:-1,FR: CANAL PLAY 6  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7254.ts
-#EXTINF:-1,FR: CANAL PLAY 7  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7253.ts
-#EXTINF:-1,FR: CANAL PLAY 8  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7252.ts
-#EXTINF:-1,FR: CANAL PLAY 9  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7251.ts
-#EXTINF:-1,FR: CANAL PLAY 10  < LOCAL >
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7250.ts
-#EXTINF:-1,******BOX OFFICE FR******
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3888.ts
-#EXTINF:-1,FR: BOX OFFICE 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3881.ts
-#EXTINF:-1,FR: BOX OFFICE 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3882.ts
-#EXTINF:-1,FR: BOX OFFICE 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3883.ts
-#EXTINF:-1,FR: BOX OFFICE 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4372.ts
-#EXTINF:-1,FR: BOX OFFICE 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4373.ts
-#EXTINF:-1,FR: BOX OFFICE 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4374.ts
-#EXTINF:-1,FR: BOX OFFICE 7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4375.ts
-#EXTINF:-1,FR: BOX OFFICE 8 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4376.ts
-#EXTINF:-1,FR: BOX OFFI CE 9 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4844.ts
-#EXTINF:-1,FR: BOX OFFICE 10 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4845.ts
-#EXTINF:-1,FR: BOX OFFICE 11 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4846.ts
-#EXTINF:-1,FR: BOX OFFICE 12 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4847.ts
-#EXTINF:-1,FR: BOX OFFICE 13 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4848.ts
-#EXTINF:-1,FR: BOX OFFICE 14 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4849.ts
-#EXTINF:-1,FR: BOX OFFICE 15 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4850.ts
-#EXTINF:-1,FR: BOX OFFICE 16 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4851.ts
-#EXTINF:-1,FR: BOX OFFICE 17 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4852.ts
-#EXTINF:-1,FR: BOX OFFICE 18 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4853.ts
-#EXTINF:-1,FR: BOX OFFICE 19 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4854.ts
-#EXTINF:-1,FR: BOX OFFICE 20 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4855.ts
-#EXTINF:-1,FR: BOX OFFICE 21 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4856.ts
-#EXTINF:-1,FR: BOX OFFICE 22 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4857.ts
-#EXTINF:-1,FR: BOX OFFICE 23 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4858.ts
-#EXTINF:-1,BOX_OFFICE.1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7869.ts
-#EXTINF:-1,BOX_OFFICE.2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7868.ts
-#EXTINF:-1,BOX_OFFICE.3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7867.ts
-#EXTINF:-1,BOX_OFFICE.4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7866.ts
-#EXTINF:-1,BOX_OFFICE.5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7865.ts
-#EXTINF:-1,BOX_OFFICE.6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7864.ts
-#EXTINF:-1,BOX_OFFICE.7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7863.ts
-#EXTINF:-1,BOX_OFFICE.8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7862.ts
-#EXTINF:-1,BOX_OFFICE.9
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7861.ts
-#EXTINF:-1,BOX_OFFICE.10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7860.ts
-#EXTINF:-1,BOX_OFFICE.11
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7859.ts
-#EXTINF:-1,BOX_OFFICE.12
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7858.ts
-#EXTINF:-1,BOX_OFFICE.13
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7857.ts
-#EXTINF:-1,BOX_OFFICE.14
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7856.ts
-#EXTINF:-1,BOX_OFFICE.15
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7855.ts
-#EXTINF:-1,BOX_OFFICE.16
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7854.ts
-#EXTINF:-1,BOX_OFFICE.17
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7853.ts
-#EXTINF:-1,BOX_OFFICE.18
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7852.ts
-#EXTINF:-1,BOX_OFFICE.19
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7851.ts
-#EXTINF:-1,BOX_OFFICE.20
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7850.ts
-#EXTINF:-1,BOX_OFFICE.21
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7849.ts
-#EXTINF:-1,BOX_OFFICE.22
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7848.ts
-#EXTINF:-1,BOX_OFFICE.23
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7847.ts
-#EXTINF:-1,BOX_OFFICE.24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7846.ts
-#EXTINF:-1,BOX_OFFICE.25
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7845.ts
-#EXTINF:-1,FR: BOX OFFICE 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5832.ts
-#EXTINF:-1,FR: BOX OFFICE 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5831.ts
-#EXTINF:-1,FR: BOX OFFICE 3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5830.ts
-#EXTINF:-1,FR: BOX OFFICE 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5829.ts
-#EXTINF:-1,FR: BOX OFFICE 5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5828.ts
-#EXTINF:-1,FR: BOX OFFICE 6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5827.ts
-#EXTINF:-1,FR: BOX OFFICE 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5826.ts
-#EXTINF:-1,FR: BOX OFFICE 8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5825.ts
-#EXTINF:-1,FR: BOX OFFICE 9
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5824.ts
-#EXTINF:-1,FR: BOX OFFICE 10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5823.ts
-
+#EXTINF:-1,FRENCH |,  CANALPLAY 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4225.ts
+#EXTINF:-1,FRENCH |, CANALPLAY 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7942.ts
+#EXTINF:-1,FRENCH |,  CANALPLAY 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4224.ts
+#EXTINF:-1,FRENCH |,  CANALPLAY 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4223.ts
+#EXTINF:-1,FRENCH |,  CANALPLAY 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4222.ts
+#EXTINF:-1,FRENCH |,  CANALPLAY 9
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4221.ts
+#EXTINF:-1,FRENCH |, CANAL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/683.ts
+#EXTINF:-1,FRENCH |, CANAL SERIES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/682.ts
+#EXTINF:-1,FRENCH |, CANAL  FAMILY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/684.ts
+#EXTINF:-1,FRENCH |, CANAL DECALE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/685.ts
+#EXTINF:-1,FRENCH |, CANAL CINEMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/686.ts
+#EXTINF:-1,FRANCE |, SERIE CLUB
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4238.ts
+#EXTINF:-1,FRANCE |, W9 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4239.ts
+#EXTINF:-1,FRENCH |, COMEDIE PLUS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4230.ts
+#EXTINF:-1,FRENCH |, COMEDIE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4231.ts
+#EXTINF:-1,FRENCH |,  OCS MAX HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4226.ts
+#EXTINF:-1,FRENCH |,  OCS GEANT HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4227.ts
+#EXTINF:-1,FRENCH |, OCS CITY HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4228.ts
+#EXTINF:-1,FRENCH |,  LOC OCS GEANT HD F -
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4215.ts
+#EXTINF:-1,FRENCH |,  LOC OCS CHOC HD F -
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4216.ts
+#EXTINF:-1,FRENCH |, A LA.CARTE 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/675.ts
+#EXTINF:-1,FRENCH |, A LA CARTE.2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/674.ts
+#EXTINF:-1,FRENCH |, A LA CARTE.3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/673.ts
+#EXTINF:-1,FRENCH |, A LA CARTE 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/672.ts
+#EXTINF:-1,FRENCH |, A LA CARTE 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/671.ts
+#EXTINF:-1,FRENCH |, A LA CARTE 6
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/670.ts
+#EXTINF:-1,FRENCH |, A LA CARTE 7
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/669.ts
+#EXTINF:-1,FRENCH |, A LA CARTE 8
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/668.ts
+#EXTINF:-1,FRENCH |, FRANCE 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/678.ts
+#EXTINF:-1,FRENCH |, FRANCE 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/677.ts
+#EXTINF:-1,FRENCH |, FRANCE 4 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/676.ts
+#EXTINF:-1,FRENCH |, NICKELODEON HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5095.ts
+#EXTINF:-1,FRANCE |, ZOUZOU TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7152.ts
+#EXTINF:-1,FRANCE |, PIWI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7156.ts
+#EXTINF:-1,FRENCH |, GULLI HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7159.ts
+#EXTINF:-1,FRANCE |, DISNEY XD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7154.ts
+#EXTINF:-1,FRANCE |, DISNEY JUNIOR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7153.ts
+#EXTINF:-1,FRENCH |,  CARTOON NETWORK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7157.ts
+#EXTINF:-1,FRANCE |, BOOMERANG HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7155.ts
+#EXTINF:-1,FRENCH |, BOING
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7158.ts
+#EXTINF:-1,FRENCH |, INFO SPORTS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4206.ts
+#EXTINF:-1,FRENCH |, FOOT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4205.ts
+#EXTINF:-1,FRENCH |, EUROSPORT HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4209.ts
+#EXTINF:-1,FRENCH |, EUROSPORT 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4210.ts
+#EXTINF:-1,FRENCH |, EUROSPORT 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4211.ts
+#EXTINF:-1,FRENCH |, MA CHAINE SPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4208.ts
+#EXTINF:-1,FRENCH |, CANAL SPORTS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4212.ts
+#EXTINF:-1,FRENCH |,  CANAL  SPORT HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4214.ts
+#EXTINF:-1,FRANCE |,  CANAL + SPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5971.ts
+#EXTINF:-1,FRENCH |, OL TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4213.ts
+#EXTINF:-1,FRENCH |, L'EQUIPE 21
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4207.ts
+#EXTINF:-1,FRANCE |, CHASSE & PECHE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4236.ts
+#EXTINF:-1,FRENCH |, ANIMAUX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/688.ts
+#EXTINF:-1,FRANCE |, DISCOVERY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4240.ts
+#EXTINF:-1,FRANCE |, NATIONAL GEO WILD HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4237.ts
+#EXTINF:-1,FRANCE |,  USHUAIA TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7637.ts
+#EXTINF:-1,FRANCE |, DISCOVERY SCIENCE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7634.ts
+#EXTINF:-1,FRANCE |, PLANETE  A&E
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7636.ts
+#EXTINF:-1,FRANCE |, PLANETE CI HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7635.ts
 
 
 
@@ -2917,130 +2714,186 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,DE: RTL
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/439.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/441.ts
-#EXTINF:-1,DE: RTL Nitro
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/442.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/443.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/469.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/470.ts
-#EXTINF:-1,DE: ZDF HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/458.ts
-#EXTINF:-1,DE: VOX HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/447.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/449.ts
-#EXTINF:-1,DE: AXN HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/462.ts
-#EXTINF:-1,DE: Super RTL HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/473.ts
-#EXTINF:-1,DE: Das Erste HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/467.ts
-#EXTINF:-1,DE: DMAX HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/459.ts
-#EXTINF:-1,DE: Pro 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/445.ts
-#EXTINF:-1,DE: Sky Nat Geo Wild HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/492.ts
-#EXTINF:-1,DE: Sky National Geographic
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/491.ts
-#EXTINF:-1,DE: Sky Discovery HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/490.ts
-#EXTINF:-1,DE: Disney Channel
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/453.ts
-#EXTINF:-1,*********SKY CINEMA DE********
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1658.ts
-#EXTINF:-1,DE: Sky Hits
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/480.ts
-#EXTINF:-1,DE: Sky Krimi
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/487.ts
-#EXTINF:-1,DE: Sky Action
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/479.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/481.ts
-#EXTINF:-1,DE: Sky Cinema
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/483.ts
-#EXTINF:-1,DE: Sky Emotion
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/482.ts
-#EXTINF:-1,DE: Sky Cinema + 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/484.ts
-#EXTINF:-1,DE: Sky Cinema 24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/485.ts
-#EXTINF:-1,DE: Sky Comedy
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/486.ts
-#EXTINF:-1,DE: TNT Series
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/496.ts
-#EXTINF:-1,DE: Sky SyFy
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/488.ts
-#EXTINF:-1,DE: MGM
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/460.ts
-#EXTINF:-1,DE: 13th Street
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/474.ts
-#EXTINF:-1,**********SKY SELECT HD DE********
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1654.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/475.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/476.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/477.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/478.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1032.ts
-#EXTINF:-1,DE: SKY SELECT 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1034.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1035.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4872.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4873.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4874.ts
-#EXTINF:-1,DE: Sky Select 11 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4875.ts
-#EXTINF:-1,DE: Sky Select 12 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4876.ts
-#EXTINF:-1,DE: Sky Select 13 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4877.ts
-#EXTINF:-1,DE: Sky Select 14 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4878.ts
-#EXTINF:-1,DE: Sky Select 15 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4879.ts
-#EXTINF:-1,DE:Sky Germany. Select 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3612.ts
-#EXTINF:-1,DE:Sky Germany. Select 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3613.ts
-#EXTINF:-1,DE:Sky Germany. Select 3 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3614.ts
-#EXTINF:-1,DE:Sky Germany. Select 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3615.ts
-#EXTINF:-1,DE:Sky Germany. Select 5 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3616.ts
-#EXTINF:-1,DE:Sky Germany. Select 6 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3617.ts
-#EXTINF:-1,DE:Sky.Germany Select 7 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3618.ts
-#EXTINF:-1,DE:Sky Germany. Select 8 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3619.ts
-#EXTINF:-1,DE:Sky Germany. Select 9 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3620.ts
-#EXTINF:-1,*********SPORTS DE********
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1657.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/502.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/503.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/505.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/506.ts
+#EXTINF:-1,DE |, ZDF
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2656.ts
+#EXTINF:-1,DE |, VOX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2641.ts
+#EXTINF:-1,DE |, SAT1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2637.ts
+#EXTINF:-1,GERMANY |, AE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5468.ts
+#EXTINF:-1,DE |, SAT1 GOLD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2643.ts
+#EXTINF:-1,GERMANY |, TLC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5483.ts
+#EXTINF:-1,GERMANY |, MGM HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5480.ts
+#EXTINF:-1,DE |, ORF EINS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2661.ts
+#EXTINF:-1,DE |, ORF 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2662.ts
+#EXTINF:-1,GERMANY |, JUKEBOX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5470.ts
+#EXTINF:-1,DE |, RTL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2638.ts
+#EXTINF:-1,DE |, RTL 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2639.ts
+#EXTINF:-1,DE |, RTL PASSION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2640.ts
+#EXTINF:-1,DE |, RTL Nitro HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2649.ts
+#EXTINF:-1,DE |, RTL Living HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2650.ts
+#EXTINF:-1,DE |, RTL Crime HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2651.ts
+#EXTINF:-1,DE |, FOX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4204.ts
+#EXTINF:-1,DE |, TNT SERIE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2664.ts
+#EXTINF:-1,DE |, TNT FILM
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2665.ts
+#EXTINF:-1,DE |, TNT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2663.ts
+#EXTINF:-1,DE |, SYFY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2658.ts
+#EXTINF:-1,DE |, Spiegel Geschichte
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2654.ts
+#EXTINF:-1,DE |, Sony Tv
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2655.ts
+#EXTINF:-1,DE |, ROMANCE TV HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2652.ts
+#EXTINF:-1,DE |, Prosieben Max HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2647.ts
+#EXTINF:-1,DE |, PROSIEBEN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2642.ts
+#EXTINF:-1,DE |, PHOENIX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2644.ts
+#EXTINF:-1,DE |, Kabel Eins
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2666.ts
+#EXTINF:-1,DE |, EINS PLUS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2645.ts
+#EXTINF:-1,DE |, Kabel Eins Classics
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2646.ts
+#EXTINF:-1,DE |, DMAX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2657.ts
+#EXTINF:-1,DE |, 3SAT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2660.ts
+#EXTINF:-1,DE |, WDR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1060.ts
+#EXTINF:-1,DE |, TAGESSCHAU 24
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1068.ts
+#EXTINF:-1,DE |, SWR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1061.ts
+#EXTINF:-1,DE |, SR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1062.ts
+#EXTINF:-1,DE |, RBB HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1063.ts
+#EXTINF:-1,DE |, NDR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1064.ts
+#EXTINF:-1,DE |, HR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1066.ts
+#EXTINF:-1,DE |, DAS ERSTE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1059.ts
+#EXTINF:-1,DE |, BR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1067.ts
+#EXTINF:-1,DE |, ARTE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1058.ts
+#EXTINF:-1,GERMANY |, EURONEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5484.ts
+#EXTINF:-1,|----{ Kids DE}----|
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5460.ts
+#EXTINF:-1,DE |, NICKELODEON
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4199.ts
+#EXTINF:-1,GERMANY |, DISNEY JUNIOR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5474.ts
+#EXTINF:-1,GERMANY |, DISNEY CINEMAGIC HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5478.ts
+#EXTINF:-1,DE |, Disney Channel
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4202.ts
+#EXTINF:-1,DE |, DISNEY XD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4200.ts
+#EXTINF:-1,|----{ Documentaries DE}----|
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5458.ts
+#EXTINF:-1,GERMANY |, ANIMAL PLANET HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5493.ts
+#EXTINF:-1,DE |, Planet HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2653.ts
+#EXTINF:-1,DE |, Discovery HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1057.ts
+#EXTINF:-1,DE |, NatGeo Wild HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1056.ts
+#EXTINF:-1,GERMANY |, NATIONAL GEOGRAPHIC HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5476.ts
+#EXTINF:-1,GERMANY |, HISTORY CHANNEL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5477.ts
+#EXTINF:-1,|----{ Sports DE}----|
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5461.ts
+#EXTINF:-1,DE |, Sky Sport 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1830.ts
+#EXTINF:-1,GERMANY |, SKY SPORT NEWS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5488.ts
+#EXTINF:-1,GERMANY |, SKY BUNDESLIGA HD 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5485.ts
+#EXTINF:-1,DE |, Sky Sport 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1831.ts
+#EXTINF:-1,DE |, Sky Sport US HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1832.ts
+#EXTINF:-1,DE |, Eurosport 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4201.ts
+#EXTINF:-1,DE |, Arena Sport 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5467.ts
+#EXTINF:-1,DE |, Arena Sport 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5466.ts
+#EXTINF:-1,DE |, Arena Sport 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5465.ts
+#EXTINF:-1,DE |, Arena Sport 4 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5464.ts
+#EXTINF:-1,|----{ Cinema DE}----|
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5463.ts
+#EXTINF:-1,DE |, Sky Hits HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1827.ts
+#EXTINF:-1,DE |, Sky Cinema 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1824.ts
+#EXTINF:-1,DE |, Sky Comedy
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1828.ts
+#EXTINF:-1,DE |, Sky Cinema 24
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1823.ts
+#EXTINF:-1,DE |, Sky Action HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1826.ts
+#EXTINF:-1,DE |, Sky Atlantic HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1825.ts
+#EXTINF:-1,DE |, SKY ATLANTIC 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2648.ts
+#EXTINF:-1,GERMANY |, SKY UNIVERSAL HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5472.ts
+#EXTINF:-1,GERMANY |, SKY KINOWELT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5469.ts
+#EXTINF:-1,GERMANY |, SKY KRIMI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5482.ts
+#EXTINF:-1,GERMANY |, SKY EMOTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5479.ts
+#EXTINF:-1,GERMANY |, Sky AXN HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5475.ts
+#EXTINF:-1,DE |, 13th Street HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4203.ts
+#EXTINF:-1,|----{ Movies DE}----|
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5459.ts
+#EXTINF:-1,DE |, Sky Select 1HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4191.ts
+#EXTINF:-1,DE |, Sky Select 2HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4192.ts
+#EXTINF:-1,DE |, Sky Select 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4193.ts
+#EXTINF:-1,DE |, Sky select 4HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4194.ts
+#EXTINF:-1,DE |, Sky Select 5HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4195.ts
+#EXTINF:-1,DE |, Sky Select 6HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4196.ts
+#EXTINF:-1,DE |, Sky Select 7HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4197.ts
+#EXTINF:-1,DE |, Sky Select 8HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4198.ts
 
 
 
@@ -3087,386 +2940,6 @@ http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/506.ts
 #EXTINF:8 group-title=”Spain”,
 
 
-#EXTINF:-1,RTL 1 (Deutch)
-http://89.29.203.196:9090/play/a01v
-#EXTINF:-1,Teleyecla
-http://89.29.203.196:9090/play/a03e
-#EXTINF:-1,Telejumilla
-http://89.29.203.196:9090/play/a03f
-#EXTINF:-1,La 1 HD Baleares
-http://89.29.203.196:9090/play/a00r
-#EXTINF:-1,SyFy
-http://89.29.203.196:9090/play/a035
-#EXTINF:-1,VOX Channel (Deutch)
-http://89.29.203.196:9090/play/a021
-#EXTINF:-1,Rai 1 HD (IT)
-http://89.29.203.196:9090/play/a049
-#EXTINF:-1,BarcaTV
-http://89.29.203.196:9090/play/a00c
-#EXTINF:-1,France 24 (FR)
-http://89.29.203.196:9090/play/a01r
-#EXTINF:-1,Bolivia TV
-http://89.29.203.196:9090/play/a03d
-#EXTINF:-1,Castilla la Mancha TV HD
-http://89.29.203.196:9090/play/a009
-#EXTINF:-1,A&E
-http://89.29.203.196:9090/play/a046
-#EXTINF:-1,Spike (ENG)
-http://89.29.203.196:9090/play/a02c
-#EXTINF:-1,RaiSports 1 (IT)
-http://89.29.203.196:9090/play/a04f
-#EXTINF:-1,Tele 5 Deutch
-http://89.29.203.196:9090/play/a024
-#EXTINF:-1,TeleElda
-http://89.29.203.196:9090/play/a03h
-#EXTINF:-1,La 1 HD Com. Valenciana
-http://89.29.203.196:9090/play/a00s
-#EXTINF:-1,Canal de las Estrellas
-http://89.29.203.196:9090/play/a04v
-#EXTINF:-1,5 USA (EEUU)
-http://89.29.203.196:9090/play/a029
-#EXTINF:-1,FOX
-http://89.29.203.196:9090/play/a033
-#EXTINF:-1,TNT
-http://89.29.203.196:9090/play/a01l
-#EXTINF:-1,Hollywood HD trans.
-http://89.29.203.196:9090/play/a02o
-#EXTINF:-1,Global Tendencias
-http://89.29.203.196:9090/play/a019
-#EXTINF:-1,Cocina HD trans.
-http://89.29.203.196:9090/play/a02s
-#EXTINF:-1,Disney XD
-http://89.29.203.196:9090/play/a01i
-#EXTINF:-1,KIKA (Deutch)
-http://89.29.203.196:9090/play/a01x
-#EXTINF:-1,La Otra
-http://89.29.203.196:9090/play/a00k
-#EXTINF:-1,UTV (Ireland, Ulster ITV)
-http://89.29.203.196:9090/play/a02i
-#EXTINF:-1,Sundance HD
-http://89.29.203.196:9090/play/a01b
-#EXTINF:-1,ZDF Neo Deutch
-http://89.29.203.196:9090/play/a023
-#EXTINF:-1,BBC RB1
-http://89.29.203.196:9090/play/a04r
-#EXTINF:-1,Sky News International
-http://89.29.203.196:9090/play/a04k
-#EXTINF:-1,Discovery Max
-http://89.29.203.196:9090/play/a039
-#EXTINF:-1,Euskadi TB2 (Castellano)
-http://89.29.203.196:9090/play/a010
-#EXTINF:-1,La 1 HD Andalucia
-http://89.29.203.196:9090/play/a00q
-#EXTINF:-1,Paisajes del Mundo HD
-http://89.29.203.196:9090/play/a006
-#EXTINF:-1,Eurosport 2 ESP HD
-http://89.29.203.196:9090/play/a050
-#EXTINF:-1,TF1 HD (FR)
-http://89.29.203.196:9090/play/a04q
-#EXTINF:-1,RTL Deutch
-http://89.29.203.196:9090/play/a00e
-#EXTINF:-1,TV Almansa
-http://89.29.203.196:9090/play/a007
-#EXTINF:-1,La Sexta HD
-http://89.29.203.196:9090/play/a03q
-#EXTINF:-1,DeCasa HD trans.
-http://89.29.203.196:9090/play/a02r
-#EXTINF:-1,Intereconomia TV
-http://89.29.203.196:9090/play/a005
-#EXTINF:-1,Lux Mallorca
-http://89.29.203.196:9090/play/a02m
-#EXTINF:-1,MTV Live HD
-http://89.29.203.196:9090/play/a01h
-#EXTINF:-1,13tv Madrid
-http://89.29.203.196:9090/play/a00g
-#EXTINF:-1,ITVBe ENG
-http://89.29.203.196:9090/play/a026
-#EXTINF:-1,National Geographic
-http://89.29.203.196:9090/play/a047
-#EXTINF:-1,TeleCrevillent
-http://89.29.203.196:9090/play/a00h
-#EXTINF:-1,TV Zimbo
-http://89.29.203.196:9090/play/a00f
-#EXTINF:-1,TVCi HD
-http://89.29.203.196:9090/play/a00u
-#EXTINF:-1,Antena3 HD TDT
-http://89.29.203.196:9090/play/a057
-#EXTINF:-1,Iberalia HD
-http://89.29.203.196:9090/play/a054
-#EXTINF:-1,Fox Life
-http://89.29.203.196:9090/play/a013
-#EXTINF:-1,VH1
-http://89.29.203.196:9090/play/a01d
-#EXTINF:-1,STV (Scotish ITV)
-http://89.29.203.196:9090/play/a02h
-#EXTINF:-1,BBC One HD
-http://89.29.203.196:9090/play/a00x
-#EXTINF:-1,Super RTL Austria (GR)
-http://89.29.203.196:9090/play/a020
-#EXTINF:-1,Andalucía Televisión
-http://89.29.203.196:9090/play/a00p
-#EXTINF:-1,Comedy Central
-http://89.29.203.196:9090/play/a037
-#EXTINF:-1,ZDF TV Deutch
-http://89.29.203.196:9090/play/a04p
-#EXTINF:-1,Canal 4 Baleares
-http://89.29.203.196:9090/play/a02l
-#EXTINF:-1,Real Madrid TV HD
-http://89.29.203.196:9090/play/a00a
-#EXTINF:-1,MTV hits
-http://89.29.203.196:9090/play/a01c
-#EXTINF:-1,Tiny POP (ENG)
-http://89.29.203.196:9090/play/a028
-#EXTINF:-1,POP (ENG)
-http://89.29.203.196:9090/play/a027
-#EXTINF:-1,Phoenix (Chinese)
-http://89.29.203.196:9090/play/a01s
-#EXTINF:-1,BBC News HD (ENG)
-http://89.29.203.196:9090/play/a02e
-#EXTINF:-1,Sol Musica
-http://89.29.203.196:9090/play/a036
-#EXTINF:-1,ITV ENG
-http://89.29.203.196:9090/play/a04b
-#EXTINF:-1,TEN
-http://89.29.203.196:9090/play/a03x
-#EXTINF:-1,Odisea HD
-http://89.29.203.196:9090/play/a02w
-#EXTINF:-1,Sport 1
-http://89.29.203.196:9090/play/a008
-#EXTINF:-1,CI (Crimen & Investigación) SD
-http://89.29.203.196:9090/play/a03k
-#EXTINF:-1,La 2 HD
-http://89.29.203.196:9090/play/a03m
-#EXTINF:-1,Fashion TV 4K
-http://89.29.203.196:9090/play/a018
-#EXTINF:-1,Cocina HD
-http://89.29.203.196:9090/play/a02z
-#EXTINF:-1,Parlamento TV
-http://89.29.203.196:9090/play/a04h
-#EXTINF:-1,Telemadrid SD
-http://89.29.203.196:9090/play/a00j
-#EXTINF:-1,Aragon TV
-http://89.29.203.196:9090/play/a011
-#EXTINF:-1,MTV
-http://89.29.203.196:9090/play/a034
-#EXTINF:-1,Real Madrid TV SD
-http://89.29.203.196:9090/play/a00b
-#EXTINF:-1,Antena 3 HD
-http://89.29.203.196:9090/play/a03n
-#EXTINF:-1,La Otra TDT
-http://89.29.203.196:9090/play/a05a
-#EXTINF:-1,Telemadrid HD TDT
-http://89.29.203.196:9090/play/a059
-#EXTINF:-1,PANDA
-http://89.29.203.196:9090/play/a03r
-#EXTINF:-1,7RM
-http://89.29.203.196:9090/play/a001
-#EXTINF:-1,Energy
-http://89.29.203.196:9090/play/a03z
-#EXTINF:-1,Neox
-http://89.29.203.196:9090/play/a041
-#EXTINF:-1,ATresSeries HD
-http://89.29.203.196:9090/play/a01m
-#EXTINF:-1,BeMad tv HD
-http://89.29.203.196:9090/play/a01g
-#EXTINF:-1,ITV 3 ENG
-http://89.29.203.196:9090/play/a025
-#EXTINF:-1,DKISS
-http://89.29.203.196:9090/play/a01f
-#EXTINF:-1,Torole HD
-http://89.29.203.196:9090/play/a055
-#EXTINF:-1,Eurosport 1 Deutsch
-http://89.29.203.196:9090/play/a03i
-#EXTINF:-1,Fight Time
-http://89.29.203.196:9090/play/a053
-#EXTINF:-1,Eurosport 2 ESP SD
-http://89.29.203.196:9090/play/a052
-#EXTINF:-1,Clan
-http://89.29.203.196:9090/play/a03v
-#EXTINF:-1,Eurosport 1 ESP HD
-http://89.29.203.196:9090/play/a04z
-#EXTINF:-1,RTL 2 Austria (GR)
-http://89.29.203.196:9090/play/a01z
-#EXTINF:-1,CableNoticias (Colom.)
-http://89.29.203.196:9090/play/a03b
-#EXTINF:-1,More 4 (ENG)
-http://89.29.203.196:9090/play/a02g
-#EXTINF:-1,RTL 2 (Deutch)
-http://89.29.203.196:9090/play/a01w
-#EXTINF:-1,CCTV-Español
-http://89.29.203.196:9090/play/a04n
-#EXTINF:-1,Discovery SD
-http://89.29.203.196:9090/play/a04x
-#EXTINF:-1,Mega
-http://89.29.203.196:9090/play/a044
-#EXTINF:-1,IB3 HD
-http://89.29.203.196:9090/play/a02k
-#EXTINF:-1,Canal Sur TV HD
-http://89.29.203.196:9090/play/a04w
-#EXTINF:-1,TeleNovelda
-http://89.29.203.196:9090/play/a03g
-#EXTINF:-1,Channel 4 (ENG)
-http://89.29.203.196:9090/play/a04u
-#EXTINF:-1,Film 4 (ENG)
-http://89.29.203.196:9090/play/a04t
-#EXTINF:-1,BBC Two HD
-http://89.29.203.196:9090/play/a00w
-#EXTINF:-1,E4 (ENG)
-http://89.29.203.196:9090/play/a04s
-#EXTINF:-1,CBBC ENG
-http://89.29.203.196:9090/play/a04o
-#EXTINF:-1,Discovery HD
-http://89.29.203.196:9090/play/a04y
-#EXTINF:-1,FOX Crime
-http://89.29.203.196:9090/play/a01k
-#EXTINF:-1,Bloomberg (EEUU)
-http://89.29.203.196:9090/play/a01o
-#EXTINF:-1,Telemadrid HD
-http://89.29.203.196:9090/play/a002
-#EXTINF:-1,CNBC (EEUU)
-http://89.29.203.196:9090/play/a01q
-#EXTINF:-1,CCTV News (ENG)
-http://89.29.203.196:9090/play/a01p
-#EXTINF:-1,Somos
-http://89.29.203.196:9090/play/a03w
-#EXTINF:-1,TVE Internacional Europa
-http://89.29.203.196:9090/play/a04i
-#EXTINF:-1,CNN International
-http://89.29.203.196:9090/play/a04l
-#EXTINF:-1,Deluxe Music Deutch
-http://89.29.203.196:9090/play/a048
-#EXTINF:-1,FIBWI TV
-http://89.29.203.196:9090/play/a02j
-#EXTINF:-1,Canal Sur 2
-http://89.29.203.196:9090/play/a00o
-#EXTINF:-1,TV5
-http://89.29.203.196:9090/play/a04m
-#EXTINF:-1,AMC HD
-http://89.29.203.196:9090/play/a031
-#EXTINF:-1,VH1 classic
-http://89.29.203.196:9090/play/a01e
-#EXTINF:-1,8madrid
-http://89.29.203.196:9090/play/a00l
-#EXTINF:-1,CubaVision Internacional
-http://89.29.203.196:9090/play/a04e
-#EXTINF:-1,Gol TV
-http://89.29.203.196:9090/play/a01n
-#EXTINF:-1,Canal Extremadura
-http://89.29.203.196:9090/play/a00m
-#EXTINF:-1,ITV2 ENG
-http://89.29.203.196:9090/play/a04c
-#EXTINF:-1,TeleSur Venezuela
-http://89.29.203.196:9090/play/a04a
-#EXTINF:-1,ETV 6 HD
-http://89.29.203.196:9090/play/a02f
-#EXTINF:-1,EuroNews
-http://89.29.203.196:9090/play/a04j
-#EXTINF:-1,Hit TV
-http://89.29.203.196:9090/play/a00i
-#EXTINF:-1,Galicia TV
-http://89.29.203.196:9090/play/a03l
-#EXTINF:-1,Canal Sur SD
-http://89.29.203.196:9090/play/a00n
-#EXTINF:-1,Dark
-http://89.29.203.196:9090/play/a045
-#EXTINF:-1,RaiSports 2 (IT)
-http://89.29.203.196:9090/play/a04g
-#EXTINF:-1,TeleDeportehd
-http://89.29.203.196:9090/play/a043
-#EXTINF:-1,La Sexta HD TDT
-http://89.29.203.196:9090/play/a058
-#EXTINF:-1,Paramount Channel
-http://89.29.203.196:9090/play/a03y
-#EXTINF:-1,Eurosport 1 ESP SD
-http://89.29.203.196:9090/play/a051
-#EXTINF:-1,Xtreme HD
-http://89.29.203.196:9090/play/a030
-#EXTINF:-1,Historia HD trans.
-http://89.29.203.196:9090/play/a02q
-#EXTINF:-1,Boing
-http://89.29.203.196:9090/play/a03u
-#EXTINF:-1,3SAT (Deutch)
-http://89.29.203.196:9090/play/a01u
-#EXTINF:-1,Disney Channel
-http://89.29.203.196:9090/play/a03t
-#EXTINF:-1,Nickelodeon
-http://89.29.203.196:9090/play/a03s
-#EXTINF:-1,Channel 5 HD ENG
-http://89.29.203.196:9090/play/a02b
-#EXTINF:-1,Cuatro HD
-http://89.29.203.196:9090/play/a03o
-#EXTINF:-1,Extreme EMEA
-http://89.29.203.196:9090/play/a017
-#EXTINF:-1,FDF
-http://89.29.203.196:9090/play/a01j
-#EXTINF:-1,Regio TV (Deutch)
-http://89.29.203.196:9090/play/a01y
-#EXTINF:-1,Nova
-http://89.29.203.196:9090/play/a040
-#EXTINF:-1,Odisea HD trans.
-http://89.29.203.196:9090/play/a02p
-#EXTINF:-1,TCM
-http://89.29.203.196:9090/play/a03j
-#EXTINF:-1,Al Jazeera (ENG)
-http://89.29.203.196:9090/play/a02n
-#EXTINF:-1,ZDF Kultur Deutch
-http://89.29.203.196:9090/play/a022
-#EXTINF:-1,5 Star (EEUU)
-http://89.29.203.196:9090/play/a02a
-#EXTINF:-1,Canal 1 (Colom.)
-http://89.29.203.196:9090/play/a03c
-#EXTINF:-1,Caza Vision
-http://89.29.203.196:9090/play/a03a
-#EXTINF:-1,Arnedo TV
-http://89.29.203.196:9090/play/a00y
-#EXTINF:-1,Euskadi TB1 (Vasco)
-http://89.29.203.196:9090/play/a00z
-#EXTINF:-1,Telecinco HD
-http://89.29.203.196:9090/play/a03p
-#EXTINF:-1,Divinity
-http://89.29.203.196:9090/play/a038
-#EXTINF:-1,ITV4 ENG
-http://89.29.203.196:9090/play/a04d
-#EXTINF:-1,Canal RT España
-http://89.29.203.196:9090/play/a032
-#EXTINF:-1,7RM HD
-http://89.29.203.196:9090/play/a00t
-#EXTINF:-1,Super 3
-http://89.29.203.196:9090/play/a056
-#EXTINF:-1,Esport3
-http://89.29.203.196:9090/play/a016
-#EXTINF:-1,Myzen.tv HD
-http://89.29.203.196:9090/play/a004
-#EXTINF:-1,24h TVE HD
-http://89.29.203.196:9090/play/a042
-#EXTINF:-1,DeCasa HD
-http://89.29.203.196:9090/play/a02y
-#EXTINF:-1,Cosmopolitan
-http://89.29.203.196:9090/play/a014
-#EXTINF:-1,Historia HD
-http://89.29.203.196:9090/play/a02x
-#EXTINF:-1,Iberalia
-http://89.29.203.196:9090/play/a012
-#EXTINF:-1,Das Erste (Deutch)
-http://89.29.203.196:9090/play/a01t
-#EXTINF:-1,Hollywood HD
-http://89.29.203.196:9090/play/a02v
-#EXTINF:-1,AMC HD trans.
-http://89.29.203.196:9090/play/a02u
-#EXTINF:-1,Xtreme HD trans.
-http://89.29.203.196:9090/play/a02t
-#EXTINF:-1,EWTN
-http://89.29.203.196:9090/play/a003
-#EXTINF:-1,Global Telenovelas HD
-http://89.29.203.196:9090/play/a01a
-#EXTINF:-1,La1 HD Castilla la Mancha (audio stereo)
-http://89.29.203.196:9090/play/a00v
-#EXTINF:-1,TV3
-http://89.29.203.196:9090/play/a015
-#EXTINF:-1,Castilla la Mancha TV SD
-http://89.29.203.196:9090/play/a00d
-#EXTINF:-1,4Seven (ENG)
-http://89.29.203.196:9090/play/a02d
 
 
 
@@ -3563,80 +3036,71 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,ES_TNT
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4757.ts
-#EXTINF:-1,ES :FOX HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4683.ts
-#EXTINF:-1,ES:FOX_life
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4692.ts
-#EXTINF:-1,ES:A&E
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4712.ts
-#EXTINF:-1,ES: AXN HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1833.ts
-#EXTINF:-1,ES:AXN-White
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4710.ts
-#EXTINF:-1,ES:HOLLYWOOD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4691.ts
-#EXTINF:-1,SP: PARAMOUNT cHANNEL hD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5540.ts
-#EXTINF:-1,ES: SYFY HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4718.ts
-#EXTINF:-1,SP: Canal  DCINE
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1333.ts
-#EXTINF:-1,ES:Canal Comedia
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4703.ts
-#EXTINF:-1,ES: CANAL-ACCION
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1266.ts
-#EXTINF:-1,ES: CANAL+ TOROS
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.ts
-#EXTINF:-1,ES:CANAL_TOROS
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.ts
-#EXTINF:-1,ES:Canal.Estrenos
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4685.ts
-#EXTINF:-1,ES-:-CANAL--LIGA
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1275.ts
-#EXTINF:-1,ES_BEIN-SPORT_SPAIN
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7941.ts
-#EXTINF:-1,SP: CanalPlus Liga
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5538.ts
-#EXTINF:-1,SP:Canal--Deporte 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/7764.ts
-#EXTINF:-1,SP: NAT GEOGRAPHIQUE
-http://bs4tv.com/bsdev/live/?anass1234567/4a3oEM40DC/ES-National-Geographic
-#EXTINF:-1,SP: National Geographic Wild
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1303.ts
-#EXTINF:-1,ES:La1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1811.ts
-#EXTINF:-1,ES:La2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1810.ts
-#EXTINF:-1,ES:Barça
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1832.ts
-#EXTINF:-1,ES-:-Real-Madrid-TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1268.ts
-#EXTINF:-1,ES:La_Sexta
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4681.ts
-#EXTINF:-1,*********TAQUILLA ESP********
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1655.ts
-#EXTINF:-1,SP: Taquilla 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1300.ts
-#EXTINF:-1,SP: Taquilla 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1298.ts
-#EXTINF:-1,SP: Taquilla 3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1297.ts
-#EXTINF:-1,SP: Taquilla 4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1296.ts
-#EXTINF:-1,SP: Taquilla 5
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1295.ts
-#EXTINF:-1,SP: Taquilla 6
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1294.ts
-#EXTINF:-1,SP: Taquilla 7
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1293.ts
-#EXTINF:-1,SP: Taquilla 8
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1292.ts
-#EXTINF:-1,SP: Taquilla 9
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1291.ts
-#EXTINF:-1,SP: Taquilla 10
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8003.ts
+#EXTINF:-1,SPANISH |, VIAJAR HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6501.ts
+#EXTINF:-1,SPANISH |, TNT HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6503.ts
+#EXTINF:-1,SPANISH |, TCM HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6502.ts
+#EXTINF:-1,SPANISH |, SYFY HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6482.ts
+#EXTINF:-1,SPANISH |, NAT GEO HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6505.ts
+#EXTINF:-1,SPANISH |, LA1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6479.ts
+#EXTINF:-1,SPANISH |, LA SEXTA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6507.ts
+#EXTINF:-1,SPANISH |, LA 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6498.ts
+#EXTINF:-1,SPANISH |, HOLLYWOOD HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6504.ts
+#EXTINF:-1,SPANISH |, FOX LIFE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6500.ts
+#EXTINF:-1,SPANISH |, FOX HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6499.ts
+#EXTINF:-1,SPANISH |, DISNEY JUNIOR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6509.ts
+#EXTINF:-1,SPANISH |, DISNEY CHANNEL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6510.ts
+#EXTINF:-1,SPANISH |, COSMO HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6483.ts
+#EXTINF:-1,SPANISH |, COMEDY CENTRAL HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6481.ts
+#EXTINF:-1,SPANISH |, CANAL XTRA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6486.ts
+#EXTINF:-1,SPANISH |, CANAL SERIES XTRA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6484.ts
+#EXTINF:-1,SPANISH |,  CANAL SERIES XTRA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6487.ts
+#EXTINF:-1,SPANISH |, CANAL LIGA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6491.ts
+#EXTINF:-1,SPANISH |, CANAL GOLF HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6495.ts
+#EXTINF:-1,SPANISH |, CANAL ESTRENOS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6489.ts
+#EXTINF:-1,SPANISH |, CANAL DCINE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6494.ts
+#EXTINF:-1,SPANISH |, CANAL COMEDIA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6493.ts
+#EXTINF:-1,SPANISH |, CANAL ACCION HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6488.ts
+#EXTINF:-1,SPANISH |, CANAL TOROS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6492.ts
+#EXTINF:-1,SPANISH |, CANAL FUTBOL HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6490.ts
+#EXTINF:-1,SPANISH |, CANAL DEPORT HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6485.ts
+#EXTINF:-1,SPANISH |, Bein Sports HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6506.ts
+#EXTINF:-1,SPANISH |, AXN WHITE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6497.ts
+#EXTINF:-1,SPANISH |, AXN HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6496.ts
+#EXTINF:-1,SPANISH |, ANTENA 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6480.ts
+#EXTINF:-1,SPANISH |, A&E
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6508.ts
+
 
 
 
@@ -4094,78 +3558,257 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,PT: TVCine 1 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3095.ts
-#EXTINF:-1,PT: TVCine 2 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3094.ts
-#EXTINF:-1,PT: TVCine 3. HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3092.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4238.ts
-#EXTINF:-1,PT :SyFy
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3716.ts
-#EXTINF:-1,PT: FOX HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4312.ts
-#EXTINF:-1,PT: FOX LIFE HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4311.ts
-#EXTINF:-1,PT: AXN BLACK HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4104.ts
-#EXTINF:-1,PT:  AMC  HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4105.ts
-#EXTINF:-1,PT: CINEMUNDO
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4106.ts
-#EXTINF:-1,PT: AXN HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4108.ts
-#EXTINF:-1,PT: TVI REALITY
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4470.ts
-#EXTINF:-1,PT: CM TV HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4650.ts
-#EXTINF:-1,PT:National.Geographic.wild HD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4250.ts
-#EXTINF:-1,PT: SIC
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4282.ts
-#EXTINF:-1,PT: SIC Kids
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4256.ts
-#EXTINF:-1,PT: sic noticias
-http://vmjc.dnsfor.me:8000/live/nadytek/skype/6.ts
-#EXTINF:-1,PT: TVI
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4280.ts
-#EXTINF:-1,PT: Tvi 24
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4281.ts
-#EXTINF:-1,PT: RTP 1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4295.ts
-#EXTINF:-1,PT: RTP 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4296.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4305.ts
-#EXTINF:-1,PT: A BOLA TV
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4232.ts
-#EXTINF:-1,PT: DISCOVERY.HD.SHOWCASE
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4252.ts
-#EXTINF:-1,PT: Kombat_Sports
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4249.ts
-#EXTINF:-1,PT: Eurosport
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3713.ts
-#EXTINF:-1,PT :Eurosport 2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3714.ts
-#EXTINF:-1,PT: Sport.TV1
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3102.ts
-#EXTINF:-1,PT: Sport.TV2
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3100.ts
-#EXTINF:-1,PT: Sport.TV3
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3099.ts
-#EXTINF:-1,PT: Sport.TV4
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3098.ts
-#EXTINF:-1,PT: NAT GEO WILD
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3971.ts
-#EXTINF:-1,PT:  HISTORIA
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4257.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4229.ts
-#EXTINF:-1,PT: JIMJAM
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4309.ts
-#EXTINF:-1,PT: CARTOON NETWORK
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4251.ts
+#EXTINF:-1,PORTUGAL |, BENFICA TV 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4575.ts
+#EXTINF:-1,PORTUGAL |, BENFICA TV 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4574.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1246.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5164.ts
+#EXTINF:-1,PORTUGAL |, SPORT Tv 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1243.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5163.ts
+#EXTINF:-1,PORTUGAL |, SPORT Tv 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1238.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5162.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV4 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1244.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5161.ts
+#EXTINF:-1,PORTUGAL |, SPORT Tv 5 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1245.ts
+#EXTINF:-1,PORTUGAL |, SPORT TV 5
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5160.ts
+#EXTINF:-1,PORTUGAL |, EUROSPORT HD 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5196.ts
+#EXTINF:-1,PORTUGAL |, EUROSPORT 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/6597.ts
+#EXTINF:-1,PORTUGAL |, EUROSPORT 2 XTRA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5195.ts
+#EXTINF:-1,PORTUGAL |, TVCINE 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1248.ts
+#EXTINF:-1,PORTUGAL |, TV CINE 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5159.ts
+#EXTINF:-1,PORTUGAL |, TVCINE 2 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1249.ts
+#EXTINF:-1,PORTUGAL |, TV CINE 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5158.ts
+#EXTINF:-1,PORTUGAL |, TVCINE 3 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1250.ts
+#EXTINF:-1,PORTUGAL |, TV CINE 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5157.ts
+#EXTINF:-1,PORTUGAL |, TV CINE 4 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5156.ts
+#EXTINF:-1,PORTUGAL |, TVCINE 4
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1251.ts
+#EXTINF:-1,PORTUGAL |, TVI Reality
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5149.ts
+#EXTINF:-1,PORTUGAL |, TVI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5152.ts
+#EXTINF:-1,PORTUGAL |, TV RECORD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5154.ts
+#EXTINF:-1,PORTUGAL |, TV GlOBO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5155.ts
+#EXTINF:-1,PORTUGAL |, SIC MULHER
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5165.ts
+#EXTINF:-1,PORTUGAL |, SIC KIDS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5166.ts
+#EXTINF:-1,PORTUGAL |, SIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5168.ts
+#EXTINF:-1,PORTUGAL |, RTP MEMORIA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5169.ts
+#EXTINF:-1,PORTUGAL |, RTP MADEIRA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5170.ts
+#EXTINF:-1,PORTUGAL |, RTP Africa
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5171.ts
+#EXTINF:-1,PORTUGAL |, RTP 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5172.ts
+#EXTINF:-1,PORTUGAL |, RTP 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5174.ts
+#EXTINF:-1,PORTUGAL |, PORTO CANAL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5175.ts
+#EXTINF:-1,PORTUGAL |, PANDA BIGGS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5177.ts
+#EXTINF:-1,PORTUGAL |, CANAL PANDA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5178.ts
+#EXTINF:-1,PORTUGAL |, ODISSEIA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5179.ts
+#EXTINF:-1,PORTUGAL |, NATIONAL GEOGRAPHIC HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5180.ts
+#EXTINF:-1,PORTUGAL |, NAT GEO Wild
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5181.ts
+#EXTINF:-1,PORTUGAL |, MOTORVISION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5182.ts
+#EXTINF:-1,PORTUGAL |, MCM POP
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5185.ts
+#EXTINF:-1,PORTUGAL |, HOLLYWOOD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5187.ts
+#EXTINF:-1,PORTUGAL |, GLOBO PREMIUM
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5188.ts
+#EXTINF:-1,PORTUGAL |, FOX Movies
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5190.ts
+#EXTINF:-1,PORTUGAL |, FOX LIFE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5191.ts
+#EXTINF:-1,PORTUGAL |, FOX HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5192.ts
+#EXTINF:-1,PORTUGAL |, FOX CRIME HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5193.ts
+#EXTINF:-1,PORTUGAL |, FOX Comedy
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5194.ts
+#EXTINF:-1,PORTUGAL |, Discovery Channel
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5197.ts
+#EXTINF:-1,PORTUGAL |, CMTV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5198.ts
+#EXTINF:-1,PORTUGAL |, CINEMUNDO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5199.ts
+#EXTINF:-1,PORTUGAL |, CANAL HISTORIA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5200.ts
+#EXTINF:-1,PORTUGAL |, CAÇÃVISION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5201.ts
+#EXTINF:-1,PORTUGAL |, KOMBAT SPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5202.ts
+#EXTINF:-1,PORTUGAL |, BTV 1 HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5203.ts
+#EXTINF:-1,PORTUGAL |, BABY TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5204.ts
+#EXTINF:-1,PORTUGAL |, AXN WHITE HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5205.ts
+#EXTINF:-1,PORTUGAL |, AXN BLACK HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5206.ts
+#EXTINF:-1,PORTUGAL |, AMC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5207.ts
+#EXTINF:-1,PORTUGAL |, AFRO MUSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5208.ts
+#EXTINF:-1,PORTUGAL |, A&E
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5209.ts
+#EXTINF:-1,PORTUGAL |, A Bola TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5210.ts
+#EXTINF:-1,PORTUGAL |, TV SERIES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1247.ts
+#EXTINF:-1,PORTUGAL |, CMTV PT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1242.ts
+#EXTINF:-1,PORTUGAL |, CINE MUNDO
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1241.ts
+#EXTINF:-1,PORTUGAL |, SYFY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1239.ts
+#EXTINF:-1,PORTUGAL |, SIC RADICAL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1237.ts
+#EXTINF:-1,PORTUGAL |, SIC NOTICIAS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1236.ts
+#EXTINF:-1,PORTUGAL |, RTP ACORES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1235.ts
+#EXTINF:-1,PORTUGAL |, RTP 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1253.ts
+#EXTINF:-1,PORTUGAL |, NICKELODEON
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1234.ts
+#EXTINF:-1,PORTUGAL |, MTV PORTUGAL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1254.ts
+#EXTINF:-1,PORTUGAL |, HISTORY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1255.ts
+#EXTINF:-1,PORTUGAL |, EUROSPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1233.ts
+#EXTINF:-1,PORTUGAL |, EURONEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1256.ts
+#EXTINF:-1,PORTUGAL |, DISNEY JUNIOUR
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1257.ts
+#EXTINF:-1,PORTUGAL |, DISNEY ChANNEL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1258.ts
+#EXTINF:-1,PORTUGAL |, JIM JAM
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1259.ts
+#EXTINF:-1,PORTUGAL |, AXN HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/1240.ts
+
+#EXTINF:0,PORTUGAL|TVI Ficcao
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5843.ts
+#EXTINF:0,PORTUGAL|TVI 24
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5852.ts
+#EXTINF:0,PORTUGAL|TVI
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5842.ts
+#EXTINF:0,PORTUGAL|TVC SERIES
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5861.ts
+#EXTINF:0,PORTUGAL|TV RECORD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5847.ts
+#EXTINF:0,PORTUGAL|TV GLOBO PREMIUM
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5845.ts
+#EXTINF:0,PORTUGAL|TV GLOBO PORTUGAL
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5846.ts
+#EXTINF:0,PORTUGAL|TV CINE 4
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5859.ts
+#EXTINF:0,PORTUGAL|TV CINE 3
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5858.ts
+#EXTINF:0,PORTUGAL|TV CINE 2
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5857.ts
+#EXTINF:0,PORTUGAL|TV CINE 1
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5856.ts
+#EXTINF:0,PORTUGAL|TCV
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5844.ts
+#EXTINF:0,PORTUGAL|SPORTING TV
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5894.ts
+#EXTINF:0,PORTUGAL|SPORT TV 5 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5892.ts
+#EXTINF:0,PORTUGAL|SPORT TV 4 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5891.ts
+#EXTINF:0,PORTUGAL|SPORT TV 3 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5890.ts
+#EXTINF:0,PORTUGAL|SPORT TV 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5889.ts
+#EXTINF:0,PORTUGAL|SPORT TV 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5888.ts
+#EXTINF:0,PORTUGAL|SIC RADICAL
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5853.ts
+#EXTINF:0,PORTUGAL|SIC NOTICIAS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5851.ts
+#EXTINF:0,PORTUGAL|SIC KIDS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5883.ts
+#EXTINF:0,PORTUGAL|SIC CARAS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5854.ts
+#EXTINF:0,PORTUGAL|SIC MULHER
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5855.ts
+#EXTINF:0,PORTUGAL|SIC
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5841.ts
+#EXTINF:0,PORTUGAL|RTP MADEIRA
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5848.ts
+#EXTINF:0,PORTUGAL|RTP AFRICA
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5840.ts
+#EXTINF:0,PORTUGAL|RTP ACORES
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5849.ts
+#EXTINF:0,PORTUGAL|RTP 3 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5839.ts
+#EXTINF:0,PORTUGAL|RTP 2 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5838.ts
+#EXTINF:0,PORTUGAL|RTP 1 HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5837.ts
+#EXTINF:0,PORTUGAL|NICKELODEON HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5882.ts
+#EXTINF:0,PORTUGAL|NAT GEO WILD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5874.ts
+#EXTINF:0,PORTUGAL|MUSIC
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5899.ts
+#EXTINF:0,PORTUGAL|MTV
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5898.ts
+#EXTINF:0,PORTUGAL|MOV HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5867.ts
+#EXTINF:0,PORTUGAL|MOTORS TV
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5897.ts
+#EXTINF:0,PORTUGAL|KOMBAT SPORTS
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5896.ts
+#EXTINF:0,PORTUGAL|JIMJAM
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5881.ts
+#EXTINF:0,PORTUGAL|FOX MOVIES
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5864.ts
+#EXTINF:0,PORTUGAL|FOX LIFE
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5863.ts
+#EXTINF:0,PORTUGAL|FOX HD
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5862.ts
+#EXTINF:0,PORTUGAL|FOX CRIME
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5865.ts
+#EXTINF:0,PORTUGAL|FOX COMEDY
+http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5866.ts
+
+
 
 
 
@@ -4575,7 +4218,6 @@ http://hls.redefine.pl/780CB41F/13227/0/hls720/masterlist.m3u8
 http://194.28.112.93:3021/OHILUNB0W5JAT1S9M4BNF1KDHW7S0CSE-L3RtcDIvc3BvcnRrbHViLXN0-1931790176-f200d10da0a791fae54602fa6638a1bb/str1/stream
 
 #EXTINF:-1 tvg-id=”Extreme” tvg-logo=”http://dwiptv.cba.pl/ico/Extreme_Sports_1.png” ,Extreme Sports
-
 http://n-0-133.dcs.redcdn.pl/hls/o2/redefine/nlive/extreme_sports_channel_hd_1/11388/0/tv-ss/live.isml/playlist.m3u8
 
 #EXTINF:-1, tvg-id=”FightBox” tvg-logo=”http://dwiptv.cba.pl/ico/Fightbox_HD_1.png” ,FightBox
@@ -4612,9 +4254,6 @@ http://wstip-1.dyndns-free.com:1200/0701
 
 #EXTINF:-1 tvg-id=”HBO3″ tvg-logo=”http://dwiptv.cba.pl/ico/HBO3_HD_1.png” ,HBO3 HD
 http://wstip-1.dyndns-free.com:1200/0702
-#EXTINF:-1 tvg-id=”Cinemax” tvg-logo=”http://dwiptv.cba.pl/ico/Cinemax_HD_1.png” ,Cinemax HD
-
-#EXTINF:-1 tvg-id=”Cinemax 2″ tvg-logo=”http://dwiptv.cba.pl/ico/Cinemax_2_HD_1.png” ,Cinemax 2 HD
 
 #EXTINF:1,tvg-id=”AXN” tvg-logo=”http://dwiptv.cba.pl/ico/AXN_HD_1.png” ,AXN
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
@@ -4680,7 +4319,6 @@ http://195.206.253.142:4100/KUA1194X1F8ZZWDXB146I4PTJBLH8N7I-YzE0MzEtMTUwMA==-19
 
 #EXTINF:-1,***** NAUKA HOBBY*****
 http://iptv.fastcccam.tv:8080/live/fasttest2682/lc7s2YLsel/1233.m3u8
-#EXTINF:-1 tvg-id=”CANAL+ Discovery” tvg-logo=”http://dwiptv.cba.pl/ico/Canal+_Discovery_HD_1.png” ,Canal+ Discovery HD
 #EXTINF:-1 tvg-id=”Discovery Channel” tvg-logo=”http://dwiptv.cba.pl/ico/Discovery_Channel_HD_1.png” ,Discovery Channel HD
 http://n-0-133.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_channel_hd_1/11399/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id=”Discovery Historia” tvg-logo=”http://dwiptv.cba.pl/ico/Discovery_Historia_1.png” ,Discovery Historia
@@ -4924,57 +4562,6 @@ http://93.159.188.73:4022/udp/230.1.3.9:1234
 
 
 
-
-
-
-
-
-#EXTINF:9 group-title=”Georgia”,
-
-#EXTINF:0,1_Arxi
-http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
-#EXTINF:0,Artarea
-http://94.43.239.178:8080/CHANNEL835/BITRATE0/playlist.m3u8
-#EXTINF:0,Comedy
-http://94.43.239.178:8080/CHANNEL802/BITRATE0/playlist.m3u8
-#EXTINF:0,Enki-Benki
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:0,Ertseluvneba
-http://94.43.239.178:8080/CHANNEL379/BITRATE0/playlist.m3u8
-#EXTINF:0,GDS
-http://94.43.239.178:8080/CHANNEL529/BITRATE0/playlist.m3u8
-#EXTINF:0,Imedi
-http://94.43.239.178:8080/CHANNEL815/BITRATE0/playlist.m3u8
-#EXTINF:0,Kavkasia
-http://94.43.239.178:8080/CHANNEL367/BITRATE0/playlist.m3u8
-#EXTINF:0,Maestro
-http://94.43.239.178:8080/CHANNEL827/BITRATE0/playlist.m3u8
-#EXTINF:0,Music Box
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
-#EXTINF:0,Rustavi2
-http://94.43.239.178:8080/CHANNEL808/BITRATE0/playlist.m3u8
-#EXTINF:0,Tabula
-http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
-#EXTINF:0,TV11
-http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo TV
-http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:9 group-title=”Poland3”,
 
 #EXTINF:0, CBS Action
@@ -5064,6 +4651,50 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/scifi_universal_1/11305/0/tv-ss/liv
 
 
 
+
+
+#EXTINF:9 group-title=”Georgia”,
+
+#EXTINF:0,1_Arxi
+http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
+#EXTINF:0,Artarea
+http://94.43.239.178:8080/CHANNEL835/BITRATE0/playlist.m3u8
+#EXTINF:0,Comedy
+http://94.43.239.178:8080/CHANNEL802/BITRATE0/playlist.m3u8
+#EXTINF:0,Enki-Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:0,Ertseluvneba
+http://94.43.239.178:8080/CHANNEL379/BITRATE0/playlist.m3u8
+#EXTINF:0,GDS
+http://94.43.239.178:8080/CHANNEL529/BITRATE0/playlist.m3u8
+#EXTINF:0,Imedi
+http://94.43.239.178:8080/CHANNEL815/BITRATE0/playlist.m3u8
+#EXTINF:0,Kavkasia
+http://94.43.239.178:8080/CHANNEL367/BITRATE0/playlist.m3u8
+#EXTINF:0,Maestro
+http://94.43.239.178:8080/CHANNEL827/BITRATE0/playlist.m3u8
+#EXTINF:0,Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:0,Rustavi2
+http://94.43.239.178:8080/CHANNEL808/BITRATE0/playlist.m3u8
+#EXTINF:0,Tabula
+http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
+#EXTINF:0,TV11
+http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo TV
+http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:9 group-title=”China”,
 
 #EXTINF:-1,GTV
@@ -5139,6 +4770,161 @@ http://bglive-a.bitgravity.com/ndtv/prolo/live/native
 http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 #EXTINF:-1,Vasanth Tv
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1&autoPlay=true
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”India-XMTVPLAYER”,
+
+#EXTINF:-1 ,NOTE:USE
+http://.....
+#EXTINF:-1 ,XMTV player
+http://.....
+#EXTINF:-1 ,or it will stop
+http://.....
+#EXTINF:-1 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,±INDIAN |, TEN CRICKET
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2913.ts
+#EXTINF:-1,INDIAN |, SONY SIX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2800.ts
+#EXTINF:-1,INDIAN |, TEN SPORT
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/812.ts
+#EXTINF:-1,INDIAN |, TEN ACTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/777.ts
+#EXTINF:-1,INDIAN |, TEN 3
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2779.ts
+#EXTINF:-1,INDIAN |, TEN 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2780.ts
+#EXTINF:-1,INDIAN |, TEN 1
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2778.ts
+#EXTINF:-1,INDIAN |, ZEE SMILE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2809.ts
+#EXTINF:-1,INDIAN |,  ZEE CLASSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2789.ts
+#EXTINF:-1,INDIAN |, ZEE CINEMA UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2790.ts
+#EXTINF:-1,±INDIAN |, ZEE CINEMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2791.ts
+#EXTINF:-1,INDIAN |, ZING
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2783.ts
+#EXTINF:-1,INDIAN |, ZEE CLASSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2776.ts
+#EXTINF:-1,INDIAN |, ZEE TV UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2784.ts
+#EXTINF:-1,INDIAN ||, ZEE CINEMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/763.ts
+#EXTINF:-1,INDIAN |, LF LIVING FOODZ
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/900.ts
+#EXTINF:-1,INDIAN ||, ZEE TV HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/762.ts
+#EXTINF:-1,INDIAN |, ZING BACKUP
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/761.ts
+#EXTINF:-1,INDIAN |, ZEE BUSINESS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2792.ts
+#EXTINF:-1,INDIAN |, ZEE ACTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2794.ts
+#EXTINF:-1,INDIAN |, ZEE CINEMA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4487.ts
+#EXTINF:-1,INDIAN |, ZEE CINEMA HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7218.ts
+#EXTINF:-1,INDIAN |, ZEE TV HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2889.ts
+#EXTINF:-1,INDIAN |, ZEE TV HD BACKUP
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7211.ts
+#EXTINF:-1,INDIAN |, ZEE MIX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2888.ts
+#EXTINF:-1,INDIAN |, ZEE TASHA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2887.ts
+#EXTINF:-1,INDIAN |, QURAN TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2886.ts
+#EXTINF:-1,INDIAN |, ZEE PUNJABI
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2885.ts
+#EXTINF:-1,INDIAN |, ZEE NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2884.ts
+#EXTINF:-1,INDIAN |, ZEE BOLLYWOOD HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2881.ts
+#EXTINF:-1,INDIAN |, STAR PLUS HD UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2796.ts
+#EXTINF:-1,INDIAN |, STAR PLUS UK SD/HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7213.ts
+#EXTINF:-1,INDIAN |, STAR PLUS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/758.ts
+#EXTINF:-1,INDIAN |, STAR LIFE OK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/760.ts
+#EXTINF:-1,INDIAN |, STAR GOLD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/757.ts
+#EXTINF:-1,INDIAN |, SONY TV HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2799.ts
+#EXTINF:-1,INDIAN |, SONY TV
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/766.ts
+#EXTINF:-1,INDIAN |, SONY MAX 2
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/901.ts
+#EXTINF:-1,INDIAN |, SONY MAX UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2801.ts
+#EXTINF:-1,INDIAN |, SONY TV HD BACKUP
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7214.ts
+#EXTINF:-1,INDIAN |, SAB TV UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2802.ts
+#EXTINF:-1,INDIAN |, RISHTEY UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2803.ts
+#EXTINF:-1,INDIAN |, RISHTEY CINEPLEX
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2795.ts
+#EXTINF:-1,INDIAN |, B4U MOVIE
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2807.ts
+#EXTINF:-1,INDIAN |, & PICTURES HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2808.ts
+#EXTINF:-1,INDIAN |, COLORS UK
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2782.ts
+#EXTINF:-1,INDIAN |, &TV HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2781.ts
+#EXTINF:-1,INDIAN |, B4U PLUS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/771.ts
+#EXTINF:-1,INDIAN |, UTV MOVIES INTERNATIONAL
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/764.ts
+#EXTINF:-1,INDIAN |, UTV ACTION
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/8073.ts
+#EXTINF:-1,INDIAN |, BINDASS PLAY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2806.ts
+#EXTINF:-1,±INDIAN |, COLORS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2805.ts
+#EXTINF:-1,INDIAN |, COLORS HD
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7216.ts
+#EXTINF:-1,INDIAN |, M TUNES
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/767.ts
+#EXTINF:-1,INDIAN |, ABP NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4563.ts
+#EXTINF:-1,INDIAN |, AAJTAK NEWS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4564.ts
+#EXTINF:-1,INDIAN |, 9X TASHAN
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4565.ts
+#EXTINF:-1,INDIAN |, 9X MUSIC
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4561.ts
+#EXTINF:-1,INDIAN |, 9X JHAKAAS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4560.ts
+#EXTINF:-1,INDIAN |, NICK INDIA
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2867.ts
+#EXTINF:-1,INDIAN |, MUSIC EXPRESS
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/2863.ts
+#EXTINF:-1,INDIAN |, RISHTEY
+http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/899.ts
+
+
+
+
+
 
 
 
@@ -5535,7 +5321,42 @@ http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
 #EXTINF: 538 TV.NL
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 
-
+#EXTINF:-1,Film1Action 
+http://188.122.70.243:8000/play/a004 
+#EXTINF:-1,Eurosport 1HD NL 
+http://188.122.70.243:8000/play/a00d 
+#EXTINF:-1,Ziggo Sport Voetbal 
+http://188.122.70.243:8000/play/a005 
+#EXTINF:-1,VIJF 
+http://188.122.70.243:8000/play/a00l 
+#EXTINF:-1,NGC HD 
+http://188.122.70.243:8000/play/a00e 
+#EXTINF:-1,KetOp12 
+http://188.122.70.243:8000/play/a00i 
+#EXTINF:-1,VTMKazoom/Kanaal Z 
+http://188.122.70.243:8000/play/a00j 
+#EXTINF:-1,Ziggo Sport Golf 
+http://188.122.70.243:8000/play/a006 
+#EXTINF:-1,FOX Sports EDL 3 
+http://188.122.70.243:8000/play/a007 
+#EXTINF:-1,KADET 
+http://188.122.70.243:8000/play/a00h 
+#EXTINF:-1,Film1 Comedy & Kids 
+http://188.122.70.243:8000/play/a002 
+#EXTINF:-1,SBS9 
+http://188.122.70.243:8000/play/a009 
+#EXTINF:-1,Film1 Premiere HD 
+http://188.122.70.243:8000/play/a00b 
+#EXTINF:-1,TLC 
+http://188.122.70.243:8000/play/a00a 
+#EXTINF:-1,Vitaya 
+http://188.122.70.243:8000/play/a00k 
+#EXTINF:-1,Film1 Sundance 
+http://188.122.70.243:8000/play/a003 
+#EXTINF:-1,Ziggo Sport Select HD 
+http://188.122.70.243:8000/play/a00c 
+#EXTINF:-1,Cartoon 
+http://188.122.70.243:8000/play/a008
 
 
 
