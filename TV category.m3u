@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,29/4/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/5/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -106,18 +106,12 @@ http://91.233.215.82:7272/drpKRoi4CW4wGoC
 http://137.74.107.229:8000/play/a02p
 #EXTINF:-1,Food Network
 http://91.233.215.82:7272/MqLwGKM3kki4Jvw
-#EXTINF:0,Viasat Nature
-http://83.166.48.35:8888/udp/235.35.1.7:1234
 #EXTINF:-1,Viasat Nature 
 http://193.151.192.10:9215 
 #EXTINF:-1,Viasat Explore 
 http://193.151.192.10:9217 
-#EXTINF:0,Viasat History
-http://83.166.48.35:8888/udp/235.35.1.8:1234
 #EXTINF:-1,Viasat History 
 http://193.151.192.10:9218 
-#EXTINF:0,Viasat Sport
-http://83.166.48.35:8888/udp/235.35.1.6:1234
 #EXTINF:-1,Viasat Sport 
 http://193.151.192.10:9220 
 
@@ -340,26 +334,10 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
 #EXTINF:-1,MTV Music
 http://tinyurl.com/hb678sq
-#EXTINF:-1,MTV
-http://109.197.192.178:8080/mtv/mpegts
-#EXTINF:0, MTV
-http://137.74.107.229:8000/play/a02s
-#EXTINF:0, MTV Hits
-http://137.74.107.229:8000/play/a02v
 #EXTINF:-1,MTV Hits
 http://91.233.215.82:7272/YfTE7o71i92tJZJ
-#EXTINF:0, MTV Base
-http://137.74.107.229:8000/play/a02t
-#EXTINF:0, MTV Dance
-http://137.74.107.229:8000/play/a004
 #EXTINF:-1,MTV Dance
 http://91.233.215.82:7272/DU5GEk3QeTvCYEt
-#EXTINF:0, MTV Rocks
-http://137.74.107.229:8000/play/a02x
-#EXTINF:0, MTV Music
-http://137.74.107.229:8000/play/a02w
-#EXTINF:0, MTV Classic
-http://137.74.107.229:8000/play/a02u
 #EXTINF:-1,MTV Live HD
 http://91.233.215.82:7272/M6aUOzmXz0d4Kgo
 #EXTINF:-1,Music Box
@@ -603,8 +581,6 @@ rtmp://78.47.151.114/tilesport/movie1
 rtmp://live.cast-control.eu:1935/MoviesTv_1/MoviesTv_1
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
 rtsp://live.cast-control.eu:1935/MoviesTv_1/MoviesTv_1
-#EXTINF:-1 ,RELoad
-http://bit.ly/2msHzVg
 #EXTINF:-1 ,RELOAD Play
 http://bit.ly/2l0o6Os
 #EXTINF:-1,CINEMA-1 TV
