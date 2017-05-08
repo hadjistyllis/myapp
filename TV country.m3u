@@ -6461,199 +6461,134 @@ http://91.219.133.187:8080/udp/239.1.1.228:1234
 #EXTINF:11 group-title=”Russian1”,
 
 #EXTINF:0,Nat Geo Wild HD
-#EXTGRP:unsorted
 http://85.117.60.123:5013/hdmi
 #EXTINF:0,Первый HD
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=659
 #EXTINF:0,Первый канал
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=441
 #EXTINF:0,Россия 1
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=436
 #EXTINF:0,Россия К
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=453
 #EXTINF:0,НТВ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=110
 #EXTINF:0,Пятый канал
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=748
 #EXTINF:0,ОТР
-#EXTGRP:unsorted
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:0,ТВЦ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=445
 #EXTINF:0,Звезда
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=143
 #EXTINF:0,ТНТ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=438
 #EXTINF:0,СТС
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=439
 #EXTINF:0,РЕН ТВ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=442
 #EXTINF:0,ТВ3
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=444
 #EXTINF:0,КАРУСЕЛЬ
-#EXTGRP:unsorted
 http://uiptv.do.am/1ufc/000000007/playlist.m3u8
 #EXTINF:0,МУЛЬТ
-#EXTGRP:unsorted
 http://89.22.128.131:10045
 #EXTINF:0,ЛЮБИМОЕ ТВ
-#EXTGRP:unsorted
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
 #EXTINF:0,Царьград
-#EXTGRP:unsorted
 http://hls-tsargrad.cdnvideo.ru/tsargrad/smil:tsargrad_tcode.smil/chunklist_b2628000.m3u8
 #EXTINF:0,RT Док
-#EXTGRP:unsorted
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:0,РОССИЯ 24
-#EXTGRP:unsorted
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:0,Life News
-#EXTGRP:unsorted
 http://uiptv.do.am/1ufc/700503829/playlist.m3u8
 #EXTINF:0,Страна
-#EXTGRP:unsorted
 http://89.22.128.138:10124
 #EXTINF:0,HD Media
-#EXTGRP:unsorted
 http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
 #EXTINF:0,Animal Planet
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=134
 #EXTINF:0,Nat Geo Wild HD
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=631
 #EXTINF:0,Nat Geo Wild
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=418
 #EXTINF:0,Viasat Nature
-#EXTGRP:unsorted
 http://78.26.128.94:7321/index.php?channel=224
 #EXTINF:0,Зоо ТВ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=600
 #EXTINF:0,ДОМАШНИЕ ЖИВОТНЫЕ
-#EXTGRP:unsorted
 http://89.22.128.138:10057
 #EXTINF:0,ZOOпарк
-#EXTGRP:unsorted
 http://cdn-01.bonus-tv.ru/btv/zoopark/type/user/devname/LG-SmartTV/devid/LG-1469118402/eol/20200101T0000/hash/283bc4bbe498f77b14b08658942a21a4cb0edcaf/playlist.m3u8
 #EXTINF:0,National Geographic HD
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:0,National Geographic
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=200
 #EXTINF:0,Телепутешествия
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=597
 #EXTINF:0,Моя планета
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=598
 #EXTINF:0,RTG tv
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=167
 #EXTINF:0,Охотник и рыболов
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=648
 #EXTINF:0,Т_24
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=244
 #EXTINF:0,Наука 2.0
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=142
 #EXTINF:0,ИСТОРИЯ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=280
 #EXTINF:0,РЕТРО
-#EXTGRP:unsorted
 http://89.22.128.138:10020
 #EXTINF:0,Ностальгия
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=594
 #EXTINF:0,Время
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=604
 #EXTINF:0,Усадьба
-#EXTGRP:unsorted
 http://46.165.1.72:8080/usadba/index.m3u8
 #EXTINF:0,ДАЧА
-#EXTGRP:unsorted
 http://ott2.odessa.tv:7321/index.php?channel=360
 #EXTINF:0,ЕДА HD
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=664
 #EXTINF:0,Food Network
-#EXTGRP:unsorted
 http://ott2.odessa.tv:7321/index.php?channel=406
 #EXTINF:0,КУХНЯ ТВ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=607
 #EXTINF:0,Телекафе
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=151
 #EXTINF:0,МАТЧ ТВ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=527
 #EXTINF:0,МАТЧ! АРЕНА
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=448
 #EXTINF:0,МАТЧ! ИГРА
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=370
 #EXTINF:0,МАТЧ! НАШ СПОРТ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=102
 #EXTINF:0,МАТЧ! ФУТБОЛ 1
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=616
 #EXTINF:0,МАТЧ! ФУТБОЛ 2
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=617
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=618
 #EXTINF:0,ФУТБОЛ 1 UA
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=550
 #EXTINF:0,ФУТБОЛ 2 UA
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=553
 #EXTINF:0,Сетанта Спорт
-#EXTGRP:unsorted
 http://195.158.29.129/live1_360/live.stream_360p.m3u8
 #EXTINF:0,НАШ ФУТБОЛ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=537
 #EXTINF:0,ТК ФУТБОЛ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=100
 #EXTINF:0,Sport 1 UA
-#EXTGRP:unsorted
 http://93.189.224.202:82/live/Ch103/index.m3u8
 #EXTINF:0,Sport 2 UA
-#EXTGRP:unsorted
 http://93.189.224.202:82/live/Ch32/index.m3u8
 #EXTINF:0,МАТЧ! БОЕЦ
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&amp;ch=581
 #EXTINF:0,EUROSPORT 1
-#EXTGRP:unsorted
 http://93.189.224.202:82/live/Ch3/index.m3u8
 #EXTINF:0,EUROSPORT 2
-#EXTGRP:unsorted
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=406
 
 
@@ -6672,7 +6607,7 @@ http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=406
 
 
 
-#EXTINF:11 group-title=”Russian3”,
+#EXTINF:11 group-title=”Russian2”,
 
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
