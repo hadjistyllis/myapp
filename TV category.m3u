@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/5/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,13/5/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -38,8 +38,8 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 
 #EXTINF:-1,Animal Planet
 http://91.233.215.82:7272/VAUHtAFln2PAJKH
-#EXTINF:0, Animal Planet
-http://137.74.107.229:8000/play/a02f
+#EXTINF:-1,Animal Planet 
+http://87.76.100.99:5555/play/188 
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
@@ -50,50 +50,34 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://91.233.215.82:7272/y8SngYkSQW6d1HC
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:0, National Geographic
-http://137.74.107.229:8000/play/a02g
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
+#EXTINF:-1,NAT GEO WILD
+http://109.69.210.13:3000/ngcwild
 #EXTINF:-1,Nat Geo Wild
 http://91.233.215.82:7272/qmqBG3hBH27od7f
 #EXTINF:-1,Nat Geo Wild 
 http://5.32.183.177:4080/udp/224.0.0.120:1237
-#EXTINF:-1,NAT GEO WILD
-http://109.69.210.13:3000/ngcwild
-#EXTINF:0, Nat Geo Wild
-http://137.74.107.229:8000/play/a02h
 #EXTINF:-1,Nat Geo Wild HD
 http://91.233.215.82:7272/CBcyJCMYxKWHlWD
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery Channel
 http://91.233.215.82:7272/Cm4nH5iv5mwqUcX
-#EXTINF:0, Discovery
-http://137.74.107.229:8000/play/a02a
+#EXTINF:-1,Discovery Channel 
+http://87.76.100.99:5555/play/190 
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://91.233.215.82:7272/rWINLpy23dMx2Ws
-#EXTINF:0, Discovery Channel HD
-http://137.74.107.229:8000/play/a029
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:0, Discovery Science
-http://137.74.107.229:8000/play/a02d
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:0, Discovery Turbo
-http://137.74.107.229:8000/play/a02e
-#EXTINF:0, Discovery Shed
-http://137.74.107.229:8000/play/a02c
-#EXTINF:0, Discovery History
-http://137.74.107.229:8000/play/a02b
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
-#EXTINF:0, FOX
-http://137.74.107.229:8000/play/a010
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,Fox Life
@@ -102,8 +86,6 @@ http://91.233.215.82:7272/BGRtwumWtWUD4Hi
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,TLC
 http://91.233.215.82:7272/drpKRoi4CW4wGoC
-#EXTINF:0, TLC
-http://137.74.107.229:8000/play/a02p
 #EXTINF:-1,Food Network
 http://91.233.215.82:7272/MqLwGKM3kki4Jvw
 #EXTINF:-1,Viasat Nature 
@@ -153,41 +135,31 @@ http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:-1,JimJam
 http://91.233.215.82:7272/BXviDJgIiVnTqZO
+#EXTINF:-1,Ducktv 
+http://87.76.100.99:5555/play/231 
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
-#EXTINF:0, Baby TV
-http://137.74.107.229:8000/play/a044
-#EXTINF:0, Boomerang
-http://137.74.107.229:8000/play/a03f
+#EXTINF:-1,Boomerang 
+http://87.76.100.99:5555/play/109 
 #EXTINF:0, Boomerang (po)
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/boomerang_1/11322/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:0, Cartoon Network
-http://137.74.107.229:8000/play/a03j
 #EXTINF:-1,Cartoon Network
 http://91.233.215.82:7272/kMhubpovlVmY0oC
+#EXTINF:-1,Cartoon Network 
+http://87.76.100.99:5555/play/111 
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:0, Disney Channel
-http://137.74.107.229:8000/play/a03g
-#EXTINF:0, Disney JR
-http://137.74.107.229:8000/play/a03h
-#EXTINF:0, Disney XD
-http://137.74.107.229:8000/play/a03i
-#EXTINF:0, RTE jr
-http://137.74.107.229:8000/play/a03a
-#EXTINF:0, Cartoonito
-http://137.74.107.229:8000/play/a03l
 #EXTINF:-1,Nickelodeon 
 http://193.151.192.10:9027 
-#EXTINF:0, Nickelodeon
-http://137.74.107.229:8000/play/a03d
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
 http://91.233.215.82:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1,Nickelodeon 
+http://87.76.100.99:5555/play/149 
 #EXTINF:0,nickelodeon (GR)
 http://bit.ly/2lLgg6P
 #EXTINF:-1,CITV
@@ -200,14 +172,10 @@ http://193.151.192.10:9184
 http://37.49.213.11:81/udp/239.54.7.5:1224
 #EXTINF:-1,Nick Jr.
 http://91.233.215.82:7272/WmJSNtjF3iCB3o4
-#EXTINF:0, Nick Jr
-http://137.74.107.229:8000/play/a03b
-#EXTINF:0, Nick Jr Too
-http://137.74.107.229:8000/play/a03c
+#EXTINF:-1,Nick Jr. 
+http://87.76.100.99:5555/play/230 
 #EXTINF:-1,Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:0, Nicktoons
-http://137.74.107.229:8000/play/a03e
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -336,10 +304,18 @@ http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 http://tinyurl.com/hb678sq
 #EXTINF:-1,MTV Hits
 http://91.233.215.82:7272/YfTE7o71i92tJZJ
+#EXTINF:-1,MTV Hits 
+http://87.76.100.99:5555/play/234 
 #EXTINF:-1,MTV Dance
 http://91.233.215.82:7272/DU5GEk3QeTvCYEt
+#EXTINF:-1,MTV Rocks 
+http://87.76.100.99:5555/play/236 
 #EXTINF:-1,MTV Live HD
 http://91.233.215.82:7272/M6aUOzmXz0d4Kgo
+#EXTINF:-1,MTV Live HD 
+http://87.76.100.99:5555/play/307 
+
+
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -446,12 +422,17 @@ http://89.38.8.130:39422
 http://89.38.8.130:39446 
 #EXTINF:-1,DOLCE SPORT 2 
 
-#EXTINF:0,Arena Sport 3 
-http://1984.dyndns.org:6882/live/1984ip/ip1984/5.m3u8 
-#EXTINF:0,Arena Sport 2 
-http://1984.dyndns.org:6882/live/1984ip/ip1984/6.m3u8 
-#EXTINF:0,Arena Sport 1 
-http://1984.dyndns.org:6882/live/1984ip/ip1984/7.m3u8
+#EXTINF:-1,Arena Sport 1 
+http://89.216.39.249:8080/ArenaSport1/index.m3u8 
+#EXTINF:-1,Arena Sport 2 
+http://89.216.39.249:8080/ArenaSport2/index.m3u8 
+#EXTINF:-1,Arena Sport 3 
+http://89.216.39.249:8080/ArenaSport3/index.m3u8 
+#EXTINF:-1,Arena Sport 4 
+http://89.216.39.249:8080/ArenaSport4/index.m3u8 
+#EXTINF:-1,Arena Sport 5 
+http://89.216.39.249:8080/ArenaSport5/index.m3u8
+
 
 #EXTINF:-1,FOOTBALL 1 UKRAİNA
 http://cdn.fsport.in/lives/Ua1/index.m3u8
