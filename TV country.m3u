@@ -782,11 +782,11 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:3 group-title=”USA-XMTVPlayer”, 
+#EXTINF:3 group-title=”USA-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -1486,11 +1486,11 @@ http://46.249.55.237:4545/play/a00y
 
 
 
-#EXTINF:3 group-title=”UK-XMTVPlayer”, 
+#EXTINF:3 group-title=”UK-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -2969,11 +2969,11 @@ http://hls.protv.md/hls/protv.m3u8
 
 
 
-#EXTINF:4 group-title=”Romania-XMTVPlayer”, 
+#EXTINF:4 group-title=”Romania-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -3340,11 +3340,11 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&r
 
 
 
-#EXTINF:5 group-title=”Italy-XMTVPLAYER”,
+#EXTINF:5 group-title=”Italy-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -3967,11 +3967,11 @@ http://188.60.202.208:8080/play/france4
 
 
 
-#EXTINF:6 group-title=”France-XMTVPLAYER”,
+#EXTINF:6 group-title=”France-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -4126,11 +4126,11 @@ http://51.254.113.188:8000/live/anis/anis/52.ts
 
 
 
-#EXTINF:6 group-title=”France2-XMTVPLAYER”,
+#EXTINF:6 group-title=”France2-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -4705,11 +4705,11 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
 
 
-#EXTINF:8 group-title=”Germany-XMTVPLAYER”,
+#EXTINF:8 group-title=”Germany-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -4942,11 +4942,11 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
 
-#EXTINF:8 group-title=”Latino/Spain-XMTVPLAYER”,
+#EXTINF:8 group-title=”Latino/Spain-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -5443,10 +5443,10 @@ http://178.193.237.115:9000/play/a00t
 
 
 
-#EXTINF:4 group-title=”Portugal-XMTVplayer”,
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:4 group-title=”Portugal-LOOP_ONE”,
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
@@ -5455,6 +5455,7 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 #EXTINF:-1 ,
+http://.....
 http://.....
 
 #EXTINF:-1,PT:VH1 Classic
@@ -6854,11 +6855,11 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be08
 
 
 
-#EXTINF:8 group-title=”India-XMTVPLAYER”,
+#EXTINF:8 group-title=”India-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:USE
+#EXTINF:-1 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,XMTV player
+#EXTINF:-1 ,MXPlayer LOOP_ONE
 http://.....
 #EXTINF:-1 ,or it will stop
 http://.....
