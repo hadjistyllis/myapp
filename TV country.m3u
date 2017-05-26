@@ -823,7 +823,7 @@ http://.....
 
 
 
-#EXTINF:3 group-title=”UK”, 
+#EXTINF:3 group-title=”UK-WEBTV”, 
 
 
 #EXTINF:-1,Al Jazeera English
@@ -879,7 +879,7 @@ mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
 mms://streams.tvknob.com/tvloops/Ch2/tvknob.wsx
 #EXTINF:0,TV Knob Movies CH7
 mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
-#EXTINF:0,TV Knob Business and info Ch 12,
+#EXTINF:0,TV Knob Business and info Ch 12
 http://streams.tvknob.com/tvloops/CH12/tvknob.wsx
 #EXTINF:0,TV Knob Prime Time Ch 6
 http://streams.tvknob.com/tvloops/CH6/ch6.wsx
@@ -891,6 +891,24 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK2”, 
 
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
@@ -950,24 +968,6 @@ http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
 
 
-
-
-
-
-
-#EXTINF:3 group-title=”UK2”, 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:3 group-title=”UK-LOOP_ONE”, 
 
 #EXTINF:-1 ,NOTE:ENABLE
@@ -984,168 +984,6 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,Setanta Sport 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/647.ts
-#EXTINF:-1,Sky Action 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/668.ts
-#EXTINF:-1,Sky Arts 1 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/636.ts
-#EXTINF:-1,Sky Christmas 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/675.ts
-#EXTINF:-1,Sky Comedy 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/669.ts
-#EXTINF:-1,Sky Disney 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/670.ts
-#EXTINF:-1,Sky Family 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/673.ts
-#EXTINF:-1,Sky Greats 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/678.ts
-#EXTINF:-1,Sky Living 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/638.ts
-#EXTINF:-1,Sky One 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/634.ts
-#EXTINF:-1,Sky Premiere 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/672.ts
-#EXTINF:-1,Sky Premium 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/679.ts
-#EXTINF:-1,Sky Select 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/681.ts
-#EXTINF:-1,Sky Sport 1 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/663.ts
-#EXTINF:-1,Sky Sport 2 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/664.ts
-#EXTINF:-1,Sky Sport 3 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/665.ts
-#EXTINF:-1,Sky Sport 4 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/666.ts
-#EXTINF:-1,Sky Sport 5 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/667.ts
-#EXTINF:-1,Sky Sport News 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/676.ts
-#EXTINF:-1,Sky Sports F1 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/662.ts
-#EXTINF:-1,Sky Star Wars 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/684.ts
-#EXTINF:-1,Sky Thriller 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/674.ts
-#EXTINF:-1,Stv 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/625.ts
-#EXTINF:-1,Syfy 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/637.ts
-#EXTINF:-1,Itv 1 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/601.ts
-#EXTINF:-1,Itv 2 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/602.ts
-#EXTINF:-1,Itv 3 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/603.ts
-#EXTINF:-1,Itv 4 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2436.ts
-#EXTINF:-1,Itv Be 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/604.ts
-#EXTINF:-1,E4 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1448.ts
-#EXTINF:-1,Channel 4 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/622.ts
-#EXTINF:-1,Channel 5 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/623.ts
-#EXTINF:-1,British Muslim 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/659.ts
-#EXTINF:-1,Film 4 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/610.ts
-#EXTINF:-1,Fox 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/619.ts
-#EXTINF:-1,E! Entertainment 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/618.ts
-#EXTINF:-1,Cbs Reality 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/611.ts
-#EXTINF:-1,Gold 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/621.ts
-#EXTINF:-1,3e 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/614.ts
-#EXTINF:-1,Alibi 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/631.ts
-#EXTINF:-1,Drama 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/687.ts
-#EXTINF:-1,Yesterday 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/613.ts
-#EXTINF:-1,Bt Sport 1 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/645.ts
-#EXTINF:-1,Bt Sport 2 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/646.ts
-#EXTINF:-1,Bt Sport 3 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/642.ts
-#EXTINF:-1,Bt Sport Europe 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/644.ts
-#EXTINF:-1,Liverpool 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/658.ts
-#EXTINF:-1,Mutv 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/660.ts
-#EXTINF:-1,At The Race 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/661.ts
-#EXTINF:-1,Ngc 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/648.ts
-#EXTINF:-1,Ngc Wild 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/649.ts
-#EXTINF:-1,Discovery 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/651.ts
-#EXTINF:-1,Discovery History 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/654.ts
-#EXTINF:-1,Discovery Home & Health 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/655.ts
-#EXTINF:-1,Discovery Science 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/653.ts
-#EXTINF:-1,Discovery ID 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/652.ts
-#EXTINF:-1,Animal Planet 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/656.ts
-#EXTINF:-1,TLC 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/620.ts
-#EXTINF:-1,Eden 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/628.ts
-#EXTINF:-1,History 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/612.ts
-#EXTINF:-1,Food Network 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/657.ts
-#EXTINF:-1,Mtv 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/629.ts
-#EXTINF:-1,Mtv Hits 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/630.ts
-#EXTINF:-1,Viva 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/627.ts
-#EXTINF:-1,Disney Channel 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/685.ts
-#EXTINF:-1,Disney XD 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/650.ts
-#EXTINF:-1,Disney Junior 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/715.ts
-#EXTINF:-1,Nickelodeon 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/640.ts
-#EXTINF:-1,Cartoon Network 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/639.ts
-#EXTINF:-1,Boomerang 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/641.ts
-#EXTINF:-1,Euronews 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2435.ts
-#EXTINF:-1,CNN 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2438.ts
-#EXTINF:-1,BBC One 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/605.ts
-#EXTINF:-1,BBC Two 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/606.ts
-#EXTINF:-1,BBC News 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/608.ts
-#EXTINF:-1,BBC Parliament 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/609.ts
-#EXTINF:-1,Channel Aka 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/624.ts
-#EXTINF:-1,5 Usa 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/617.ts
-#EXTINF:-1,Utv 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/626.ts
-#EXTINF:-1,Box Nation 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2431.ts
-#EXTINF:-1,Espn 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/643.ts
 
 
 
@@ -1832,7 +1670,122 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&r
 #EXTINF:-1,Rai YoYo (404p) 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&rebase=on
 
-
+#EXTINF:-1, Rai 4 HD 
+http://185.53.161.148:8888/play/a022 
+#EXTINF:-1, ERI TV 
+http://185.53.161.148:8888/play/a004 
+#EXTINF:-1, Rai Storia 
+http://185.53.161.148:8888/play/a01h 
+#EXTINF:-1, ESC 
+http://185.53.161.148:8888/play/a00m 
+#EXTINF:-1, Canale 5 
+http://185.53.161.148:8888/play/a01q 
+#EXTINF:-1, TG NORBA 24 
+http://185.53.161.148:8888/play/a024 
+#EXTINF:-1, Al Alam News Channel 
+http://185.53.161.148:8888/play/a003 
+#EXTINF:-1, SLNTV 
+http://185.53.161.148:8888/play/a00a 
+#EXTINF:-1, Rete 4 
+http://185.53.161.148:8888/play/a01r 
+#EXTINF:-1, Rai Gulp 
+http://185.53.161.148:8888/play/a01i 
+#EXTINF:-1, Rai Scuola 
+http://185.53.161.148:8888/play/a01k 
+#EXTINF:-1, Mediaset ITALIA DUE 
+http://185.53.161.148:8888/play/a01w 
+#EXTINF:-1, LA7 
+http://185.53.161.148:8888/play/a026 
+#EXTINF:-1, Armenia TV 
+http://185.53.161.148:8888/play/a00x 
+#EXTINF:-1, La 5 
+http://185.53.161.148:8888/play/a025 
+#EXTINF:-1, Senato 
+http://185.53.161.148:8888/play/a01n 
+#EXTINF:-1, Rai 5 
+http://185.53.161.148:8888/play/a01m 
+#EXTINF:-1, Baraem Europe 
+http://185.53.161.148:8888/play/a00c 
+#EXTINF:-1, JEEM Europe 
+http://185.53.161.148:8888/play/a00d 
+#EXTINF:-1, Italia 1 
+http://185.53.161.148:8888/play/a01p 
+#EXTINF:-1, Topcrime 
+http://185.53.161.148:8888/play/a01x 
+#EXTINF:-1, Tunisie Nationale 
+http://185.53.161.148:8888/play/a00s 
+#EXTINF:-1, Rai Movie HD 
+http://185.53.161.148:8888/play/a023 
+#EXTINF:-1, Rai Sport 
+http://185.53.161.148:8888/play/a01g 
+#EXTINF:-1, NABA TV 
+http://185.53.161.148:8888/play/a005 
+#EXTINF:-1, Rai 3 HD 
+http://185.53.161.148:8888/play/a01d 
+#EXTINF:-1, Bahrain TV 
+http://185.53.161.148:8888/play/a00t 
+#EXTINF:-1, Rai 1 HD 
+http://185.53.161.148:8888/play/a01b 
+#EXTINF:-1, RTS Un HD 
+http://185.53.161.148:8888/play/a02a 
+#EXTINF:-1, SRF 1 HD 
+http://185.53.161.148:8888/play/a028 
+#EXTINF:-1, Iris 
+http://185.53.161.148:8888/play/a01s 
+#EXTINF:-1, Mediaset EXTRA 
+http://185.53.161.148:8888/play/a01v 
+#EXTINF:-1, RSI LA 1 HD 
+http://185.53.161.148:8888/play/a02d 
+#EXTINF:-1, SRF zwei HD 
+http://185.53.161.148:8888/play/a029 
+#EXTINF:-1, Armenia 1 TV 
+http://185.53.161.148:8888/play/a00w 
+#EXTINF:-1, Saudi - Sunnah 
+http://185.53.161.148:8888/play/a006 
+#EXTINF:-1, JORDAN TV 
+http://185.53.161.148:8888/play/a00o 
+#EXTINF:-1, Shant TV Premium 
+http://185.53.161.148:8888/play/a012 
+#EXTINF:-1, Saudi Channel 2 
+http://185.53.161.148:8888/play/a007 
+#EXTINF:-1, Kentron 
+http://185.53.161.148:8888/play/a009 
+#EXTINF:-1, RTS Deux HD 
+http://185.53.161.148:8888/play/a02b 
+#EXTINF:-1, Rai Premium 
+http://185.53.161.148:8888/play/a01l 
+#EXTINF:-1, Rai 2 HD 
+http://185.53.161.148:8888/play/a01c 
+#EXTINF:-1, OMAN 
+http://185.53.161.148:8888/play/a00l 
+#EXTINF:-1, RSI LA 2 HD 
+http://185.53.161.148:8888/play/a02e 
+#EXTINF:-1, IQRAA 
+http://185.53.161.148:8888/play/a00j 
+#EXTINF:-1, SAUDI1 
+http://185.53.161.148:8888/play/a00i 
+#EXTINF:-1, Boing 
+http://185.53.161.148:8888/play/a01t 
+#EXTINF:-1, KARBALA TV 
+http://185.53.161.148:8888/play/a011 
+#EXTINF:-1, SAUDI-QURAN 
+http://185.53.161.148:8888/play/a00p 
+#EXTINF:-1, Rai News 24 HD 
+http://185.53.161.148:8888/play/a01e 
+#EXTINF:-1, Cartoonito 
+http://185.53.161.148:8888/play/a01y 
+#EXTINF:-1, Rai YoYo 
+http://185.53.161.148:8888/play/a01j 
+#EXTINF:-1, SHANTTV 
+http://185.53.161.148:8888/play/a00z 
+#EXTINF:-1, TgCom24 
+http://185.53.161.148:8888/play/a01u 
+#EXTINF:-1, SUDAN TV 
+http://185.53.161.148:8888/play/a00k 
+#EXTINF:-1, Tayba TV 
+http://185.53.161.148:8888/play/a00q 
+#EXTINF:-1, Iraqia News 
+http://185.53.161.148:8888/play/a00n
 
 
 
@@ -2435,7 +2388,120 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
 #EXTINF:8 group-title=”Germany2”,
 
-
+#EXTINF:-1,Sky Cinema Action HD
+http://185.53.161.146:8888/play/a02l
+#EXTINF:-1,Syfy
+http://185.53.161.146:8888/play/a016
+#EXTINF:-1,TNT Film (TCM)
+http://185.53.161.146:8888/play/a01k
+#EXTINF:-1,13th Street
+http://185.53.161.146:8888/play/a018
+#EXTINF:-1,Spiegel Geschichte
+http://185.53.161.146:8888/play/a019
+#EXTINF:-1,Sky Cinema Comedy
+http://185.53.161.146:8888/play/a00v
+#EXTINF:-1,Disney XD
+http://185.53.161.146:8888/play/a02m
+#EXTINF:-1,History HD
+http://185.53.161.146:8888/play/a02k
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://185.53.161.146:8888/play/a02g
+#EXTINF:-1,Das Erste
+http://185.53.161.146:8888/play/a02y
+#EXTINF:-1,Disney Junior
+http://185.53.161.146:8888/play/a010
+#EXTINF:-1,ProSieben
+http://185.53.161.146:8888/play/a022
+#EXTINF:-1,Sky Cinema +1
+http://185.53.161.146:8888/play/a00x
+#EXTINF:-1,SAT.1
+http://185.53.161.146:8888/play/a021
+#EXTINF:-1,TNT Serie HD
+http://185.53.161.146:8888/play/a01x
+#EXTINF:-1,National Geographic
+http://185.53.161.146:8888/play/a029
+#EXTINF:-1,VOX
+http://185.53.161.146:8888/play/a01u
+#EXTINF:-1,Sky Krimi
+http://185.53.161.146:8888/play/a02b
+#EXTINF:-1,Goldstar TV
+http://185.53.161.146:8888/play/a01b
+#EXTINF:-1,Sky Cinema Family
+http://185.53.161.146:8888/play/a02i
+#EXTINF:-1,Sky Cinema Emotion
+http://185.53.161.146:8888/play/a02a
+#EXTINF:-1,Junior
+http://185.53.161.146:8888/play/a00y
+#EXTINF:-1,Fox Serie
+http://185.53.161.146:8888/play/a013
+#EXTINF:-1,Disney Cinemagic HD
+http://185.53.161.146:8888/play/a032
+#EXTINF:-1,Sky Cinema
+http://185.53.161.146:8888/play/a028
+#EXTINF:-1,Sky Sport 2 HD
+http://185.53.161.146:8888/play/a034
+#EXTINF:-1,Classica
+http://185.53.161.146:8888/play/a00z
+#EXTINF:-1,RTLNITRO
+http://185.53.161.146:8888/play/a01v
+#EXTINF:-1,Kinowelt TV
+http://185.53.161.146:8888/play/a02h
+#EXTINF:-1,Sky Sport News
+http://185.53.161.146:8888/play/a00r
+#EXTINF:-1,kabel eins
+http://185.53.161.146:8888/play/a02x
+#EXTINF:-1,RTL2
+http://185.53.161.146:8888/play/a01s
+#EXTINF:-1,Disney Channel HD
+http://185.53.161.146:8888/play/a00o
+#EXTINF:-1,NatGeo HD
+http://185.53.161.146:8888/play/a033
+#EXTINF:-1,RTL Passion
+http://185.53.161.146:8888/play/a02d
+#EXTINF:-1,RTL Crime
+http://185.53.161.146:8888/play/a02c
+#EXTINF:-1,Disney Cinemagic
+http://185.53.161.146:8888/play/a015
+#EXTINF:-1,Sky Atlantic HD
+http://185.53.161.146:8888/play/a031
+#EXTINF:-1,Sky Cinema Action
+http://185.53.161.146:8888/play/a00w
+#EXTINF:-1,SUPER RTL
+http://185.53.161.146:8888/play/a01t
+#EXTINF:-1,Sky Atlantic
+http://185.53.161.146:8888/play/a02e
+#EXTINF:-1,ZDF
+http://185.53.161.146:8888/play/a01m
+#EXTINF:-1,Sky Cinema Hits
+http://185.53.161.146:8888/play/a017
+#EXTINF:-1,TNT Serie
+http://185.53.161.146:8888/play/a02n
+#EXTINF:-1,KiKA
+http://185.53.161.146:8888/play/a01n
+#EXTINF:-1,Pro7 MAXX
+http://185.53.161.146:8888/play/a025
+#EXTINF:-1,Sky Sport 1 HD
+http://185.53.161.146:8888/play/a01h
+#EXTINF:-1,SAT.1 Gold
+http://185.53.161.146:8888/play/a024
+#EXTINF:-1,Discovery HD
+http://185.53.161.146:8888/play/a01i
+#EXTINF:-1,Sky Cinema Nostalgie
+http://185.53.161.146:8888/play/a02j
+#EXTINF:-1,Motorvision TV
+http://185.53.161.146:8888/play/a01d
+#EXTINF:-1,RTL Television
+http://185.53.161.146:8888/play/a01r
+#EXTINF:-1,13th Street HD
+http://185.53.161.146:8888/play/a035
+#EXTINF:-1,Sky Cinema +24
+http://185.53.161.146:8888/play/a011
+#EXTINF:-1,Heimatkanal
+http://185.53.161.146:8888/play/a014
+#EXTINF:-1,Sky Cinema HD
+http://185.53.161.146:8888/play/a01j
+#EXTINF:-1,kabel eins classics
+http://185.53.161.146:8888/play/a01z
 
 
 
@@ -2640,136 +2706,6 @@ http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2582.ts
 
 
 #EXTINF:8 group-title=”Spain”,
-
-
-#EXTINF:-1, LA 2
-http://185.53.161.147:8888/play/a01d
-#EXTINF:-1, M. F.TBOL
-http://185.53.161.147:8888/play/a012
-#EXTINF:-1, M. ACCI©N HD
-http://185.53.161.147:8888/play/a02l
-#EXTINF:-1, DIVINITY
-http://185.53.161.147:8888/play/a00l
-#EXTINF:-1, LTC
-http://185.53.161.147:8888/play/a00o
-#EXTINF:-1, LALIGATV BAR
-http://185.53.161.147:8888/play/a00j
-#EXTINF:-1, TCM
-http://185.53.161.147:8888/play/a01l
-#EXTINF:-1, ENERGY
-http://185.53.161.147:8888/play/a02j
-#EXTINF:-1, CLAN TVE
-http://185.53.161.147:8888/play/a019
-#EXTINF:-1, MEZZO
-http://185.53.161.147:8888/play/a02i
-#EXTINF:-1, AMC
-http://185.53.161.147:8888/play/a01r
-#EXTINF:-1, M. DEP 1
-http://185.53.161.147:8888/play/a013
-#EXTINF:-1, M. ESTRENOS
-http://185.53.161.147:8888/play/a01j
-#EXTINF:-1, HOLLYWOOD
-http://185.53.161.147:8888/play/a01c
-#EXTINF:-1, TNT
-http://185.53.161.147:8888/play/a01g
-#EXTINF:-1, AXN
-http://185.53.161.147:8888/play/a027
-#EXTINF:-1, CANAL PANDA
-http://185.53.161.147:8888/play/a02c
-#EXTINF:-1, TVE INTERNACIONAL EUROPA
-http://185.53.161.147:8888/play/a029
-#EXTINF:-1, CAZA Y PESCA
-http://185.53.161.147:8888/play/a01x
-#EXTINF:-1, CANAL SUR A.
-http://185.53.161.147:8888/play/a01v
-#EXTINF:-1, BEIN SPORTS
-http://185.53.161.147:8888/play/a023
-#EXTINF:-1, M. SERIES
-http://185.53.161.147:8888/play/a00v
-#EXTINF:-1, CLASSICA
-http://185.53.161.147:8888/play/a02e
-#EXTINF:-1, M. DEP 2
-http://185.53.161.147:8888/play/a02g
-#EXTINF:-1, M.COMEDIA HD
-http://185.53.161.147:8888/play/a00i
-#EXTINF:-1, VIAJAR
-http://185.53.161.147:8888/play/a01n
-#EXTINF:-1, TOROS TV
-http://185.53.161.147:8888/play/a01t
-#EXTINF:-1, TELEDEPORTE
-http://185.53.161.147:8888/play/a01p
-#EXTINF:-1, TELECINCO
-http://185.53.161.147:8888/play/a02k
-#EXTINF:-1, MTV ESPA¹A
-http://185.53.161.147:8888/play/a00t
-#EXTINF:-1, M. F.TBOL HD
-http://185.53.161.147:8888/play/a00x
-#EXTINF:-1, CALLE 13
-http://185.53.161.147:8888/play/a014
-#EXTINF:-1, CANAL COCINA
-http://185.53.161.147:8888/play/a01q
-#EXTINF:-1, COMEDY CENTRAL
-http://185.53.161.147:8888/play/a01m
-#EXTINF:-1, CANAL ODISEA
-http://185.53.161.147:8888/play/a010
-#EXTINF:-1, NOVA
-http://185.53.161.147:8888/play/a025
-#EXTINF:-1, HISTORIA
-http://185.53.161.147:8888/play/a01z
-#EXTINF:-1, DISCOVERY
-http://185.53.161.147:8888/play/a01y
-#EXTINF:-1, LA 1
-http://185.53.161.147:8888/play/a01b
-#EXTINF:-1, DISNEY CH.
-http://185.53.161.147:8888/play/a01k
-#EXTINF:-1, FOX NEWS
-http://185.53.161.147:8888/play/a00m
-#EXTINF:-1, NAT GEOGRAPH
-http://185.53.161.147:8888/play/a011
-#EXTINF:-1, EUROSPORT 2
-http://185.53.161.147:8888/play/a02h
-#EXTINF:-1, M. XTRA
-http://185.53.161.147:8888/play/a01e
-#EXTINF:-1, EUROSPORT 1
-http://185.53.161.147:8888/play/a00s
-#EXTINF:-1, M. GOLF
-http://185.53.161.147:8888/play/a00z
-#EXTINF:-1, NEOX
-http://185.53.161.147:8888/play/a02b
-#EXTINF:-1, 24 HORAS
-http://185.53.161.147:8888/play/a020
-#EXTINF:-1, M. MOTOGP
-http://185.53.161.147:8888/play/a021
-#EXTINF:-1, SYFY
-http://185.53.161.147:8888/play/a016
-#EXTINF:-1, BABY TV
-http://185.53.161.147:8888/play/a00n
-#EXTINF:-1, NAT GEO WILD
-http://185.53.161.147:8888/play/a01h
-#EXTINF:-1, CANAL DECASA
-http://185.53.161.147:8888/play/a015
-#EXTINF:-1, CUATRO
-http://185.53.161.147:8888/play/a01f
-#EXTINF:-1, LA SEXTA
-http://185.53.161.147:8888/play/a01a
-#EXTINF:-1, FDF
-http://185.53.161.147:8888/play/a018
-#EXTINF:-1, BAR.A TV
-http://185.53.161.147:8888/play/a00r
-#EXTINF:-1, R. MADRID TV
-http://185.53.161.147:8888/play/a02d
-#EXTINF:-1, M. DCINE HD
-http://185.53.161.147:8888/play/a02m
-#EXTINF:-1, DISNEY XD
-http://185.53.161.147:8888/play/a01w
-#EXTINF:-1, ANTENA 3
-http://185.53.161.147:8888/play/a02f
-#EXTINF:-1, FOX
-http://185.53.161.147:8888/play/a026
-#EXTINF:-1, M. SERIESXTRA
-http://185.53.161.147:8888/play/a01o
-#EXTINF:-1, BOING
-http://185.53.161.147:8888/play/a00p
 
 
 #EXTINF:-1, ANTENA3 Spain
@@ -3669,52 +3605,6 @@ http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/410.ts
 
 
 
-#EXTINF:8 group-title=”Albania/Republic_of_Macedonia”,
-
-#EXTINF:-1,Rrokum TV
-rtmp://82.114.65.202/live/rrokumtv
-#EXTINF:-1,Jug TV
-rtmp://84.20.77.50/live/livestream1
-#EXTINF:-1,Alfa TV
-rtmp://ataka.tv/live/live
-#EXTINF:-1,24 Vesti
-mms://62.162.58.55/24vesti
-#EXTINF:-1,Alfaomega TV2
-rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
-#EXTINF:-1,Alfa TV Makedon
-rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-#EXTINF:0,AlbuK HD
-rtmp://188.138.17.8:1935/albuk/albuk.stream
-#EXTINF:0,Jug TV
-rtmp://84.20.77.50/live/livestream1
-#EXTINF:0,TV JUG FIER
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0, TV Sale
-http://78.107.255.116:8080/hls/nano.m3u8
-#EXTINF:0, mirbelogorya
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0, mayak
-http://testlivestream.rfn.ru/live/smil:mayak.smil/playlist.m3u8?auth=vh&cast_id=81
-#EXTINF:0, Eska TV
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:0, tvk6
-http://www.tvk6.ru/tv/hls/tvk6.m3u8
-#EXTINF:0,24 Vesti
-mmsh://62.162.58.55/24vesti
-#EXTINF:0,Iris
-mms://62.162.58.55/TVIris
-#EXTINF:0,KANAL 21
-mms://62.162.58.55/TVKanal21
-#EXTINF:0,Orbis
-mms://62.162.58.55/TVOrbis
-
-
-
-
-
-
-
-
 #EXTINF:8 group-title=”Poland”,
 
 #EXTINF:-1 ,U-HD 4K 2144p ENG
@@ -4462,6 +4352,149 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/scifi_universal_1/11305/0/tv-ss/liv
 
 
 
+#EXTINF:9 group-title=”Poland4”,
+
+#EXTINF:-1,TVP1 HD
+http://91.246.64.73:9981/stream/channelid/705364245
+#EXTINF:-1,TVP1 HD
+http://91.246.64.73:9981/stream/channelid/1102095365
+#EXTINF:-1,TVP2 HD
+http://91.246.64.73:9981/stream/channelid/671184052
+#EXTINF:-1,TVP2 HD
+http://91.246.64.73:9981/stream/channelid/872501098
+#EXTINF:-1,TVP3 Rzeszow
+http://91.246.64.73:9981/stream/channelid/650892596
+#EXTINF:-1,TVP3 Rzeszow
+http://91.246.64.73:9981/stream/channelid/1597735447
+#EXTINF:-1,Polsat
+http://91.246.64.73:9981/stream/channelid/739262128
+#EXTINF:-1,TVN
+http://91.246.64.73:9981/stream/channelid/670549632
+#EXTINF:-1,TV4
+http://91.246.64.73:9981/stream/channelid/644620978
+#EXTINF:-1,TV Puls
+http://91.246.64.73:9981/stream/channelid/2069665578
+#EXTINF:-1,TVN 7
+http://91.246.64.73:9981/stream/channelid/493764800
+#EXTINF:-1,PULS 2
+http://91.246.64.73:9981/stream/channelid/1970164633
+#EXTINF:-1,TV6
+http://91.246.64.73:9981/stream/channelid/633414475
+#EXTINF:-1,Super Polsat
+http://91.246.64.73:9981/stream/channelid/1898964291
+#EXTINF:-1,TTV
+http://91.246.64.73:9981/stream/channelid/564784261
+#EXTINF:-1,Polo TV
+http://91.246.64.73:9981/stream/channelid/1312153150
+#EXTINF:-1,ATM Rozrywka
+http://91.246.64.73:9981/stream/channelid/103169642
+#EXTINF:-1,TV Trwam
+http://91.246.64.73:9981/stream/channelid/195718643
+#EXTINF:-1,Stopklatka TV
+http://91.246.64.73:9981/stream/channelid/1539217156
+#EXTINF:-1,Fokus TV
+http://91.246.64.73:9981/stream/channelid/1739433400
+#EXTINF:-1,TVP ABC
+http://91.246.64.73:9981/stream/channelid/1193231147
+#EXTINF:-1,TVP Kultura
+http://91.246.64.73:9981/stream/channelid/305918044
+#EXTINF:-1,TVP Kultura
+http://91.246.64.73:9981/stream/channelid/1765248652
+#EXTINF:-1,TVP Historia
+http://91.246.64.73:9981/stream/channelid/950586126
+#EXTINF:-1,TVP Historia
+http://91.246.64.73:9981/stream/channelid/1823388942
+#EXTINF:-1,TVP Rozrywka
+http://91.246.64.73:9981/stream/channelid/1198034770
+#EXTINF:-1,TVP Rozrywka
+http://91.246.64.73:9981/stream/channelid/1671964172
+#EXTINF:-1,TVP Info
+http://91.246.64.73:9981/stream/channelid/422965208
+#EXTINF:-1,TVP Info
+http://91.246.64.73:9981/stream/channelid/1762621959
+
+#EXTINF:0,PL: Disney Junior
+http://46.249.62.20:1824/play/a01s
+#EXTINF:0,PL: Nat Geo People HD
+http://46.249.62.20:1824/play/a01j
+#EXTINF:0,PL: Universal HD
+http://46.249.62.20:1824/play/a026
+#EXTINF:0,PL: Lifetime HD
+http://46.249.62.20:1824/play/a02c
+#EXTINF:0,PL: 13 Ulica HD
+http://46.249.62.20:1824/play/a02j
+#EXTINF:0,PL: Eurosport 2 HD
+http://46.249.62.20:1824/play/a01t
+#EXTINF:0,PL: Fightbox HD
+http://46.249.62.20:1824/play/a02a
+#EXTINF:0,PL: Polsat Sport News HD
+http://46.249.62.20:1824/play/a01l
+#EXTINF:0,PL: Eurosport 1 HD
+http://46.249.62.20:1824/play/a029
+#EXTINF:0,PL: FILMBOX EXTRA HD
+http://46.249.62.20:1824/play/a021
+#EXTINF:0,PL: Golf Channel
+http://46.249.62.20:1824/play/a02d
+#EXTINF:0,PL: SciFi Universal
+http://46.249.62.20:1824/play/a02f
+#EXTINF:0,PL: H2 HD
+http://46.249.62.20:1824/play/a02b
+#EXTINF:0,PL: E! Entertainment
+http://46.249.62.20:1824/play/a02h
+#EXTINF:0,PL: TLC HD
+http://46.249.62.20:1824/play/a027
+#EXTINF:0,PL: Cartoon Network HD
+http://46.249.62.20:1824/play/a01i
+#EXTINF:0,PL: Lifetime HD
+http://46.249.62.20:1824/play/a02g
+#EXTINF:0,PL: Sundance HD
+http://46.249.62.20:1824/play/a025
+#EXTINF:0,PL: 13 Ulica HD
+http://46.249.62.20:1824/play/a028
+#EXTINF:0,PL: NATIONAL GEO HD
+http://46.249.62.20:1824/play/a022
+#EXTINF:0,PL: TNT HD
+http://46.249.62.20:1824/play/a01h
+#EXTINF:0,PL: CANAL+ SPORT HD
+http://46.249.62.20:1824/play/a023
+#EXTINF:0,PL: CANAL+ HD
+http://46.249.62.20:1824/play/a020
+#EXTINF:0,PL: MiniMini+ HD
+http://46.249.62.20:1824/play/a01y
+#EXTINF:0,PL: Eurosport 2 HD
+http://46.249.62.20:1824/play/a01o
+#EXTINF:0,PL: Discovery Science HD
+http://46.249.62.20:1824/play/a01p
+#EXTINF:0,PL: CBS Europa HD
+http://46.249.62.20:1824/play/a01n
+#EXTINF:0,PL: CANAL+ HD
+http://46.249.62.20:1824/play/a01w
+#EXTINF:0,PL: Extreme Sports HD
+http://46.249.62.20:1824/play/a01m
+#EXTINF:0,STARS.TV
+http://46.249.62.20:1824/play/a02e
+#EXTINF:0,PL: Polsat Sport Fight HD
+http://46.249.62.20:1824/play/a01u
+#EXTINF:0,PL: HBO HD
+http://46.249.62.20:1824/play/a01q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4705,6 +4738,55 @@ http://37.26.84.98:9999/play/a00r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Albania/Republic_of_Macedonia”,
+
+#EXTINF:-1,Rrokum TV
+rtmp://82.114.65.202/live/rrokumtv
+#EXTINF:-1,Jug TV
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:-1,Alfa TV
+rtmp://ataka.tv/live/live
+#EXTINF:-1,24 Vesti
+mms://62.162.58.55/24vesti
+#EXTINF:-1,Alfaomega TV2
+rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+#EXTINF:-1,Alfa TV Makedon
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:0,AlbuK HD
+rtmp://188.138.17.8:1935/albuk/albuk.stream
+#EXTINF:0,Jug TV
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:0,TV JUG FIER
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0, TV Sale
+http://78.107.255.116:8080/hls/nano.m3u8
+#EXTINF:0, mirbelogorya
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:0, mayak
+http://testlivestream.rfn.ru/live/smil:mayak.smil/playlist.m3u8?auth=vh&cast_id=81
+#EXTINF:0, Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0, tvk6
+http://www.tvk6.ru/tv/hls/tvk6.m3u8
+#EXTINF:0,24 Vesti
+mmsh://62.162.58.55/24vesti
+#EXTINF:0,Iris
+mms://62.162.58.55/TVIris
+#EXTINF:0,KANAL 21
+mms://62.162.58.55/TVKanal21
+#EXTINF:0,Orbis
+mms://62.162.58.55/TVOrbis
 
 
 
@@ -6098,7 +6180,18 @@ http://http-stream.joj.sk/joj/joj/index-hq.m3u8
 http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8 
 #EXTINF:-1, WAU 
 http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-
+#EXTINF:-1,Joj hd
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1,Joj hq
+http://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1,Joj lq
+http://nn.geo.joj.sk/hls/joj-360.m3u8
+#EXTINF:-1,Joj family sd
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1,Rik sd
+http://nn.geo.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1,Rik lq
+http://nn.geo.joj.sk/hls/rik-360.m3u8
 
 
 
@@ -7998,24 +8091,4 @@ http://streams.iptv.zone:80/p/145737/c/5/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex
 
 
 
-
-
-
-#EXTINF:10 group-title=”Other Country”,
-
-
-#EXTINF:-1, ANN7 Haber SOUTH AFRICA
-rtmp://46.4.25.213/live-ann7/ann7-mid.stream
-#EXTINF:-1, Esperanza tv Spain
-http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
-#EXTINF:-1, C5N Arjantin
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1, MAX Cinema Arabic
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,Aljazeera Documentary TV
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
-#EXTINF:-1,CNA
-rtmp://str81.creacast.com:80/cna/live.sdp
-#EXTINF:-1,ELEKTRIKA TV
-rtmp://rtmp.elektrika.cz/live/myStream.sdp
 
