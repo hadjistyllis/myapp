@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,27/5/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,29/5/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -48,16 +48,22 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1, National Geographic
 http://217.23.153.41:7976/play/a03l?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,National Geographic
+http://84.238.184.100:4040/udp/239.100.10.69:5000
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,NAT GEO WILD
 http://109.69.210.13:3000/ngcwild
 #EXTINF:-1,Nat Geo Wild 
 http://5.32.183.177:4080/udp/224.0.0.120:1237
+#EXTINF:-1,NatGeo Wild
+http://84.238.184.100:4040/udp/239.100.10.68:5000
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:-1,Discovery Channel
+http://84.238.184.100:4040/udp/239.100.10.37:5000
 #EXTINF:-1,Discovery 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:0,Discovery World
@@ -65,15 +71,19 @@ http://37.194.121.4:1234/udp/239.1.5.2:1234
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:-1,DiscoveryScience 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/651.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
 #EXTINF:-1, Discovery Science
 http://217.23.153.41:7976/play/a034?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,Discovery Science
+http://84.238.184.100:4040/udp/239.100.10.151:5000
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,INVESTIGATION DISCOVERY 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/641.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
 #EXTINF:-1, ID Extra
 http://217.23.153.41:7976/play/a03n?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,History Channel
+http://84.238.184.100:4040/udp/239.100.10.157:5000
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,FOX
@@ -85,7 +95,7 @@ http://37.194.121.4:1234/udp/239.1.3.11:1234
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,FOOD NETWORK 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/626.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
 #EXTINF:-1,Viasat Nature 
 http://193.151.192.10:9215 
 #EXTINF:-1,Viasat Explore 
@@ -131,31 +141,43 @@ http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:-1,Duck TV
+http://84.238.184.100:4040/udp/239.10.10.71:5000
 #EXTINF:-1,BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
+#EXTINF:-1,Baby TV
+http://84.238.184.100:4040/udp/239.100.10.149:5000
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
 #EXTINF:-1, Boomerang
 http://217.23.153.41:7976/play/a05y?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,Boomerang
+http://84.238.184.100:4040/udp/239.100.10.27:5000
 #EXTINF:0, Boomerang (po)
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/boomerang_1/11322/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1, Cartoon Network
 http://217.23.153.41:7976/play/a01j?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,Cartoon Network
+http://84.238.184.100:4040/udp/239.100.10.33:5000
 #EXTINF:-1,CartoonNetwork 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/670.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
 #EXTINF:-1,CARTOON NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/805.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
+#EXTINF:-1,Disney Channel
+http://84.238.184.100:4040/udp/239.100.10.38:5000
 #EXTINF:-1,Disney XD
 http://185.53.161.146:8888/play/a02m
 #EXTINF:-1,Disney Junior
 http://185.53.161.146:8888/play/a010
 #EXTINF:-1,Disney Junior HD
 http://46.249.62.146:8001/play/a00o
+#EXTINF:-1,Disney Junior
+http://84.238.184.100:4040/udp/239.100.10.192:5000
 #EXTINF:-1,Nickelodeon 
 http://193.151.192.10:9027 
 #EXTINF:0,Nickelodeon
@@ -176,6 +198,8 @@ http://37.49.213.11:81/udp/239.54.7.5:1224
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1, Nick Jr
 http://217.23.153.41:7976/play/a05b?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,Nick Jr
+http://84.238.184.100:4040/udp/239.10.10.40:5000
 #EXTINF:-1,Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1,TiJi (RU)
@@ -220,12 +244,18 @@ http://tinyurl.com/hb678sq
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1, MTV Hits
 http://217.23.153.41:7976/play/a03j?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,MTV Hits
+http://84.238.184.100:4040/udp/239.100.10.65:5000
 #EXTINF:-1, MTV Rocks
 http://217.23.153.41:7976/play/a04c?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,MTV Rocks
+http://84.238.184.100:4040/udp/239.100.10.66:5000
 #EXTINF:-1, MTV LIVE HD
 http://217.23.153.41:7976/play/a041?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1, MTV Dance
 http://217.23.153.41:7976/play/a003?auth=ottiptvplus:ottiptvplus
+#EXTINF:-1,MTV
+http://84.238.184.100:4040/udp/239.100.10.67:5000
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
