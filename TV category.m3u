@@ -46,8 +46,6 @@ http://37.192.131.119:81/udp/239.1.5.3:1234
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:-1, National Geographic
-http://217.23.153.41:7976/play/a03l?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,National Geographic
 http://84.238.184.100:4040/udp/239.100.10.69:5000
 #EXTINF:0,National Geographic HD
@@ -72,16 +70,12 @@ http://37.194.121.4:1234/udp/239.1.5.2:1234
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:-1,DiscoveryScience 
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
-#EXTINF:-1, Discovery Science
-http://217.23.153.41:7976/play/a034?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,Discovery Science
 http://84.238.184.100:4040/udp/239.100.10.151:5000
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,INVESTIGATION DISCOVERY 
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
-#EXTINF:-1, ID Extra
-http://217.23.153.41:7976/play/a03n?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,History Channel
 http://84.238.184.100:4040/udp/239.100.10.157:5000
 #EXTINF:0,FOX
@@ -149,8 +143,6 @@ http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 http://84.238.184.100:4040/udp/239.100.10.149:5000
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1, Boomerang
-http://217.23.153.41:7976/play/a05y?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,Boomerang
 http://84.238.184.100:4040/udp/239.100.10.27:5000
 #EXTINF:0, Boomerang (po)
@@ -182,8 +174,6 @@ http://84.238.184.100:4040/udp/239.100.10.192:5000
 http://193.151.192.10:9027 
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1, Nickelodeon
-http://217.23.153.41:7976/play/ch021?auth=ottiptvplus:ottiptvplus
 #EXTINF:0,nickelodeon (GR)
 http://bit.ly/2lLgg6P
 #EXTINF:-1,CITV
@@ -196,8 +186,6 @@ http://193.151.192.10:9184
 http://37.49.213.11:81/udp/239.54.7.5:1224
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
-#EXTINF:-1, Nick Jr
-http://217.23.153.41:7976/play/a05b?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,Nick Jr
 http://84.238.184.100:4040/udp/239.10.10.40:5000
 #EXTINF:-1,Nicktoons
@@ -242,18 +230,10 @@ http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 http://tinyurl.com/hb678sq
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
-#EXTINF:-1, MTV Hits
-http://217.23.153.41:7976/play/a03j?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,MTV Hits
 http://84.238.184.100:4040/udp/239.100.10.65:5000
-#EXTINF:-1, MTV Rocks
-http://217.23.153.41:7976/play/a04c?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,MTV Rocks
 http://84.238.184.100:4040/udp/239.100.10.66:5000
-#EXTINF:-1, MTV LIVE HD
-http://217.23.153.41:7976/play/a041?auth=ottiptvplus:ottiptvplus
-#EXTINF:-1, MTV Dance
-http://217.23.153.41:7976/play/a003?auth=ottiptvplus:ottiptvplus
 #EXTINF:-1,MTV
 http://84.238.184.100:4040/udp/239.100.10.67:5000
 #EXTINF:-1,Music Box
