@@ -452,13 +452,13 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 
 #EXTINF:3 group-title=”USA2-BETA”, 
 
-#EXTINF:-1 ,NOTE:SERVER
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:SERVER
 http://.....
-#EXTINF:-1 ,MAINTENANCE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MAINTENANCE
 http://.....
-#EXTINF:-1 ,WILL BE BACK  
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,WILL BE BACK  
 http://.....
-#EXTINF:-1 ,Shortly - Thank you
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Shortly - Thank you
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -806,13 +806,13 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:3 group-title=”USA-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -1085,13 +1085,13 @@ http://185.62.86.6:8081/hls/my5.m3u8
 
 #EXTINF:3 group-title=”UK-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -1283,13 +1283,13 @@ http://gtv.tn:8000/live/testt/testt/1414.ts
 
 #EXTINF:3 group-title=”UK2-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -1513,13 +1513,13 @@ http://hls.protv.md/hls/protv.m3u8
 
 #EXTINF:4 group-title=”Romania-LOOP_ONE”, 
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -2106,13 +2106,13 @@ http://185.53.161.148:8888/play/a00n
 
 #EXTINF:5 group-title=”Italy-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -2207,13 +2207,13 @@ rtmp://str81.creacast.com:80/weo/high
 
 #EXTINF:6 group-title=”France-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -2485,13 +2485,13 @@ http://xc.cobra-iptv.com:25461/live/kos/kos/3031.ts
 
 #EXTINF:6 group-title=”France2-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -3203,13 +3203,13 @@ http://93.158.220.133:5000/play/a045
 
 #EXTINF:8 group-title=”Germany-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -3368,13 +3368,13 @@ http://gtv.tn:8000/live/testt/testt/1503.ts
 
 #EXTINF:8 group-title=”Germany2-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -3549,13 +3549,13 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 #EXTINF:8 group-title=”Latino/Spain-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -4298,13 +4298,13 @@ http://178.192.242.14:9000/play/a06w
 
 
 #EXTINF:4 group-title=”Portugal-LOOP_ONE”,
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -5769,13 +5769,13 @@ http://95.0.194.146:8000/play/a060
 
 #EXTINF:9 group-title=”India-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -6543,13 +6543,13 @@ http://185.53.161.149:8888/play/a01u
 
 #EXTINF:9 group-title=”United.Arab.Emirates-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
@@ -7021,13 +7021,13 @@ http://gtv.tn:8000/live/testt/testt/3609.ts
 
 #EXTINF:9 group-title=”United.Arab.Emirates2-LOOP_ONE”,
 
-#EXTINF:-1 ,NOTE:ENABLE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
-#EXTINF:-1 ,MXPlayer LOOP_ONE
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 http://.....
-#EXTINF:-1 ,or it will stop
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
-#EXTINF:-1 ,every few seconds
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
 http://.....
 #EXTINF:-1 ,
 http://.....
