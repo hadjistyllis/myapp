@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,7/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,8/6/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -356,154 +356,11 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 
 
 
-#EXTINF:3 group-title=”USA1-BETA”, 
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:SERVER
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MAINTENANCE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,WILL BE BACK
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,SOON
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
+#EXTINF:3 group-title=”USA/Canada-BETA”, 
 
 
-#EXTINF:-1,A&E 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-#EXTINF:-1,AnimalPlanet 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
-#EXTINF:-1,auctionmax 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/645.ts
-#EXTINF:-1,BBC AMERICA 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
-#EXTINF:-1,bet 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/630.ts
-#EXTINF:-1,CartoonNetwork 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
-#EXTINF:-1,cbs 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
-#EXTINF:-1,cbs news 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/653.ts
-#EXTINF:-1,cinemax 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/644.ts
-#EXTINF:-1,cnn 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
-#EXTINF:-1,ComedyCentral 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
-#EXTINF:-1,COOKING CHANNEL 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
-#EXTINF:-1,cw 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/666.ts
-#EXTINF:-1,Destination America 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
-#EXTINF:-1,Discovery 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
-#EXTINF:-1,DiscoveryScience 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
-#EXTINF:-1,diy 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
-#EXTINF:-1,E! 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
-#EXTINF:-1,ESPN2 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/616.ts
-#EXTINF:-1,FOOD NETWORK 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
-#EXTINF:-1,fox 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
-#EXTINF:-1,FOXNEWS30 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/618.ts
-#EXTINF:-1,FOXSPORT1  
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
-#EXTINF:-1,fx 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/664.ts
-#EXTINF:-1,fxx 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
-#EXTINF:-1,fyi 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
-#EXTINF:-1,h2 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
-#EXTINF:-1,HBO COMEDY 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
-#EXTINF:-1,HBO FAMILY 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
-#EXTINF:-1,hbo 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
-#EXTINF:-1,HBO SIGNATURE 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
-#EXTINF:-1,life time 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
-#EXTINF:-1,lifetime movie network 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
-#EXTINF:-1,MLB Live 1 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/721.ts
-#EXTINF:-1,MLB Live 2 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/720.ts
-#EXTINF:-1,MLB Network 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/719.ts
-#EXTINF:-1,MSNBC 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
-#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/718.ts
-#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/717.ts
-#EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/716.ts
-#EXTINF:-1,nba tv 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
-#EXTINF:-1,nbc 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts
-#EXTINF:-1,NEWS12CONNECTICUT 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/619.ts
-#EXTINF:-1,NEWS12THEBRONX 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/620.ts
-#EXTINF:-1,nfl network 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/632.ts
-#EXTINF:-1,NFLNOW 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/622.ts
-#EXTINF:-1,pbs 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/660.ts
-#EXTINF:-1,showtime 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/638.ts
-#EXTINF:-1,spike 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/659.ts
-#EXTINF:-1,STARZ CINEMA 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
-#EXTINF:-1,STARZ EAST 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/637.ts
-#EXTINF:-1,syfy 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/658.ts
-#EXTINF:-1,tbs 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/657.ts
-#EXTINF:-1,tnt 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
-#EXTINF:-1,trutv 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
-#EXTINF:-1,tv land 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/654.ts
-#EXTINF:-1,UnivisionDeportes 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/617.ts
-#EXTINF:-1,Velocity 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/646.ts
-#EXTINF:-1,wwe 
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
-#EXTINF:-1,NHL 1 HD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/715.ts
-#EXTINF:-1,NHL 2 HD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/714.ts
-#EXTINF:-1,NHL 3 HD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/713.ts
-#EXTINF:-1,BET(BLACK ENTERTAINMENT CHANNEL)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/807.ts
 #EXTINF:-1,BNN
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/806.ts
-#EXTINF:-1,CARTOON NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
 #EXTINF:-1,CBC TORONTO
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/804.ts
 #EXTINF:-1,CHCH
@@ -528,20 +385,16 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/794.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/793.ts
 #EXTINF:-1,GLOBAL TV CALGARY
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/792.ts
-#EXTINF:-1,GLOBAL TV EDMONTON
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/791.ts
 #EXTINF:-1,GOLF CHANNEL
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/790.ts
 #EXTINF:-1,GSN
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/789.ts
-#EXTINF:-1,MOVIE TIME
+#EXTINF:-1,MOVIE TIME FREE
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/787.ts
 #EXTINF:-1,MTV CANADA
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/786.ts
 #EXTINF:-1,MUCH MUSIC
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/785.ts
-#EXTINF:-1,MUSIQUE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/784.ts
 #EXTINF:-1,NICK
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
 #EXTINF:-1,OLN
@@ -574,13 +427,90 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/770.ts
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/769.ts
 #EXTINF:-1,YTV
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/768.ts
-#EXTINF:-1,Telemundo
+#EXTINF:-1,TelemundoFREE
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/615.ts
-#EXTINF:-1,ESPN Deportes
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/823.ts
-#EXTINF:-1,Fox Deportes
+#EXTINF:-1,RT HD
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/822.ts
-
+#EXTINF:-1,MUSIC BRIT HITS
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/849.ts
+#EXTINF:-1,MUSIC DANCE EDM
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/848.ts
+#EXTINF:-1,MUSIC HIP HOP & R & B
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/847.ts
+#EXTINF:-1,MUSIC HIT LIST
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/846.ts
+#EXTINF:-1,MUSIC INDIE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/845.ts
+#EXTINF:-1,MUSIC KIDS ONLY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/844.ts
+#EXTINF:-1,MUSIC LATINO POP
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/843.ts
+#EXTINF:-1,MUSIC MEXICAAN
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/841.ts
+#EXTINF:-1,MUSIC POP & COUNTRY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/840.ts
+#EXTINF:-1,MUSIC POP HITS
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/839.ts
+#EXTINF:-1,MUSIC R&B SOUL
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/838.ts
+#EXTINF:-1,MUSIC RAP 2K
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/836.ts
+#EXTINF:-1,MUSIC RAP
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/837.ts
+#EXTINF:-1,MUSIC ROCK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/835.ts
+#EXTINF:-1,MUSIC THROWBACK JAMZ
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/833.ts
+#EXTINF:-1,MUSIC TODAYS COUNTRY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/832.ts
+#EXTINF:-1,MUSIC TODDLER TUNES
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/831.ts
+#EXTINF:-1,MUSIC MC PLAY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/842.ts
+#EXTINF:-1,MUSIC TEEN BEATS
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/834.ts
+#EXTINF:-1,MUSIC Y2K
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/828.ts
+#EXTINF:-1,MUSIC ALTERNATIVE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/826.ts
+#EXTINF:-1,MUSIC TROPICALES
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/830.ts
+#EXTINF:-1,CA -  YTV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/484.ts
+#EXTINF:-1,CA - CHCH
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/519.ts
+#EXTINF:-1,CA -  CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/518.ts
+#EXTINF:-1,CA - COMEDY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/517.ts
+#EXTINF:-1,CA - COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/516.ts
+#EXTINF:-1,CA -  CP24
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/515.ts
+#EXTINF:-1,CA - CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/514.ts
+#EXTINF:-1,CA - DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/513.ts
+#EXTINF:-1,CA -  E!
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/512.ts
+#EXTINF:-1,CA EVASION
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/511.ts
+#EXTINF:-1,CA FYI
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/510.ts
+#EXTINF:-1,CA G4
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/509.ts
+#EXTINF:-1,CA GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/508.ts
+#EXTINF:-1,CA TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/489.ts
+#EXTINF:-1,CA TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/488.ts
+#EXTINF:-1,CA VRAK TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/487.ts
+#EXTINF:-1,CA W NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/486.ts
+#EXTINF:-1,CA WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/485.ts
 
 
 
@@ -3298,20 +3228,10 @@ http://cableking-iptv.com:8000/live/roblewis/roblewis/24707.ts
 
 #EXTINF:-1, ANTENA3 Spain
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 ,PARAMOUNT HD
-http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8?AndreOid
-#EXTINF:0,Bein Sports La Liga
-http://tinyurl.com/hmcbkod
-#EXTINF:0,Bein Sports La Liga (SERVER 2)
-http://tinyurl.com/hohop93
 #EXTINF:0,CASTILLA LA MANCHA
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
 #EXTINF:0,Alfa TV (Spain)
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-#EXTINF:0,C5n
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0,Canal 11 Lapacho de Formosa
-http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
 #EXTINF:0,canal 53 bandaancha
 mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:0,Canal 6 Posadas TV
@@ -3330,8 +3250,6 @@ rtmp://87.106.183.39/live/myStream_2
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Discovery Max
 rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
-#EXTINF:0,DusonTV
-mms://antena.fundaciongoldenclover.com/live
 #EXTINF:0,HCH Habla como Habla Honduras
 rtsp://4.31.30.140:1935/live/hchtvdigital
 #EXTINF:0,Huesca TV
@@ -3379,6 +3297,81 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
 
+#EXTINF:8 group-title=”Brazil”,
+
+#EXTINF:-1,Globo RJ 
+http://95.211.149.215:8081/look/globo/playlist.m3u8 
+#EXTINF:-1,Record SP 
+http://95.211.149.215:8081/look/record/playlist.m3u8 
+#EXTINF:-1,Rede TV RJ 
+http://95.211.149.215:8081/look/redetv/playlist.m3u8 
+#EXTINF:-1,ESPN Brasil 
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8 
+#EXTINF:-1,Cartoon Network 
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8 
+
+#EXTINF:-1,TV BAIANA
+rtmp://wz-brasil1.comets.com.br/tvbaiana/aovivo
+#EXTINF:-1 tvg-logo="http://goo.gl/5QsFh6" ,TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/Ww8ID5" ,Mkk
+http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8
+#EXTINF:-1 ,CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvwebcidade.net/wp-content/uploads/2015/01/logo1" ,TV WEB Cidade
+http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/Jdcnin" ,CONEXÃO BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/uIS4VR" ,CWB TV
+http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/u4HtY5" ,REDE CORREIO TV
+http://flash1.crossdigital.com.br:1935/491/491/live.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/bST2TJ" ,Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:-1  ,TV ONLINE
+http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8
+#EXTINF:-1 ,TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao",AGRO CANAL MS
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/MhrZCG" ,TV Ultrafarma 
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
+#EXTINF:-1,REDE TV! HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1,BAND HD
+http://31.204.128.104:8081/live/band/playlist.m3u8?ListaAndre
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" ,Amazon Sat
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=557357 & 20091116_ListaAndre_stream/players.61.ts
+#EXTINF:-1 tvg-logo="http://www.ucs.br/ucs/tplNoticias/noticias/1331302778/ucstv.jpg" ,UCs Tv Futura
+http://tinyurl.com/zrbymko
+#EXTINF:-1 tvg-logo="http://jornalpequeno.blog.br/johncutrim/files/2014/05/332738_290125501036930_232778146771666_835889_1347492733_o.jpg" ,Tv Guara
+http://tinyurl.com/ztkt597
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9liEz85.jpg" ,TV TRANSAMERICA
+http://flash1.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:1 tvg-logo="http://i.imgur.com/ftYw1Qi.jpg" ,TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.bhnews.tv.br/images/logo.png" ,BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+#EXTINF:-1,TV MARAJOARA
+http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
+#EXTINF:-1,TV BRUSQUE SC
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+#EXTINF:-1,Web Tv SA Ao Vivo
+http://wse5.player.tv.br:1935/9157/9157/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:8 group-title=”Latino/Spain-LOOP_ONE”,
 
@@ -3402,17 +3395,118 @@ http://.....
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:8 group-title=”Latino-Brazil/Spain1”,
 
+#EXTINF:-1,SyFy Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1079.ts
+#EXTINF:-1,NatGeo Wild Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1094.ts
+#EXTINF:-1,A&E Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1127.ts
+#EXTINF:-1,Animal Planet Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1126.ts
+#EXTINF:-1,AXN Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1125.ts
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1123.ts
+#EXTINF:-1,13 TV LATINO
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
+#EXTINF:-1,360 TV LATINO
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,7 TV Región de Murcia LATINO
+http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
+#EXTINF:-1,8 TV LATINO
+rtmp://178.33.113.212/8TV/8aldia-directe
+#EXTINF:-1,Agape TV LATINO
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+#EXTINF:-1,Aragon TV LATINO
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,ATB Bolivia LATINO
+http://192.99.38.174:1935/envivo/atb/playlist.m3u8
+#EXTINF:-1,Bolivia al Aire LATINO
+rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
+#EXTINF:-1,C5N LATINO
+http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,C7 Jalisco LATINO
+http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
+#EXTINF:-1,Capital 21 CDMX LATINO
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,Capital TV LATINO
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,Carolina TV LATINO
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Castilla la Mancha TV LATINO
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,Navarra TV LATINO
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:-1,Niu TV LATINO
+http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Ocho TV LATINO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+#EXTINF:-1,Pacifico Television Virtual LATINO
+rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
+#EXTINF:-1,PAT LATINO
+http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
+#EXTINF:-1,Patagonia TV LATINO
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,PDVSA TV LATINO
+rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
+#EXTINF:-1,Promar TV  LATINO
+http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
+#EXTINF:-1,Proyecto 40 LATINO
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,QM Noticias LATINO
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
+#EXTINF:-1,RBC Online LATINO
+rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
+#EXTINF:-1,RCG Televisión LATINO
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+#EXTINF:-1,Red Advenir LATINO
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Latino-Brazil/Spain2”,
 
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" ,Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Exabyte TVAntena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" ,Antena 3 Internacional
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVEl Trece" tvg-name="El Trece" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" ,Azteca 13 (-30 minutos)
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TVCanal La Sexta" tvg-name="Canal La Sexta" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" ,La Sexta (espaÃ±ol)
+EXTINF:-1 tvg-id="Exabyte TVCanal La Sexta" tvg-name="Canal La Sexta" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" ,La Sexta (espaÃ±ol)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.clipartbest.com/cliparts/jix/6zL/jix6zL66T.jpg" ,Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
@@ -3420,12 +3514,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" ,Atreseries EspaÃ±ol
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTvPlay-Logo.png" ,Cinema TV Play
-http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" ,Real Madrid TV (EspaÃ±a)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://lh6.googleusercontent.com/-kdJ-Sg3cAWQ/U5l-szGFlkI/AAAAAAAAA_g/HwXbB-FIChw/s300/tyc-sports-tv.png" ,Tyc Sports (Argentina)
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png" ,Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" ,City Radio TV
@@ -3458,8 +3548,6 @@ http://94.74.65.100:19123/ott/68:1122
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" ,Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782704644334166017/J1zSXCF_.jpg" ,Rock TV
-http://212.96.163.139:8020/1-tv-pc/924.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" ,TelemÃºsica
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" ,Vibee
@@ -3490,21 +3578,10 @@ http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,Russia Today
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-
-#EXTINF:-1, TELEMUNDO
-http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
 #EXTINF:-1,ABC
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,FOX News
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Telemundo52
-http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Univision23
-http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Univision23 Los Angeles
-http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,H20
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
 #EXTINF:-1,Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1,Canal-4
@@ -3623,7 +3700,6 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1,Orbe-21
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-
 #EXTINF:1,TDTV
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:1,DEPORTE TV
@@ -3664,101 +3740,6 @@ http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
 
 
 
-
-
-
-#EXTINF:8 group-title=”Brazil”,
-
-#EXTINF:-1,Globo RJ 
-http://95.211.149.215:8081/look/globo/playlist.m3u8 
-#EXTINF:-1,Record SP 
-http://95.211.149.215:8081/look/record/playlist.m3u8 
-#EXTINF:-1,Rede TV RJ 
-http://95.211.149.215:8081/look/redetv/playlist.m3u8 
-#EXTINF:-1,ESPN Brasil 
-http://95.211.149.215:8081/look/espnbr/playlist.m3u8 
-#EXTINF:-1,Cartoon Network 
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8 
-
-#EXTINF:-1,TBO ANAPOLIS
-rtsp://173.236.10.10:1935/tboanapolis/tboanapolis
-#EXTINF:-1,REDE BRASIL
-rtmp://173.236.10.10:1935/rbtv/rbtv/live
-#EXTINF:-1,TV8 (TESTES)
-rtmp://streaming57.sitehosting.com.br:1935/aurin/aurin
-#EXTINF:-1,TV CULTURA – COLATINA (ES)
-rtmp://streaming57.sitehosting.com.br:1935/redesimm/redesimm
-#EXTINF:-1,TV BAIANA
-rtmp://wz-brasil1.comets.com.br/tvbaiana/aovivo
-#EXTINF:-1,BEM TV
-rtmp://wz4.dnip.com.br/bemtv/bemtv.sdp
-#EXTINF:-1,TV NOVA NORDESTE – TV CULTURA
-rtmp://cdn2.comets.com.br/tvnovanordeste/aovivo
-#EXTINF:-1,TV BAIANA – TV CULTURA
-rtmp://wz-brasil1.comets.com.br/tvbaiana/aoviv
-
-#EXTINF:-1, tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" ,Gloob
-http://187.49.86.238:10000/bysid/94
-#EXTINF:-1 tvg-logo="http://tudotv.tv/fotos/efcea727d37ed2a49bff35a79fb91a25.png"  ,TC Premium(Op.2)
-http://187.49.86.238:10000/bysid/61
-#EXTINF:-1 tvg-logo="http://www.assistirtvonlinebr.net/icones/grande/aberto/telecine-touch-online-ao-vivo-gratis-530d187340d25.jpeg"  ,Telecine Touch
-http://187.49.86.238:10000/bysid/63
-#EXTINF:-1 tvg-logo="http://www.buritifilmes.com.br/images/uploads/1418389889_uhaf_hbo.jpg"  ,Hbo
-http://187.49.86.238:10000/bysid/69
-#EXTINF:-1, tvg-logo="https://s3.amazonaws.com/designmantic-logos/logos/2016/Dec/small-5494-585b02e4148df.png" ,Canal do boi
-rtmp://srvvenus.canaldoboi.com/livecb/ swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/canal-do-boi/ playpath=livestream?adbe-live-event=liveevent live=true timeout=15
-EXTINF:1 tvg-logo="http://i.imgur.com/SOlq1O6.png" ,Milk TV BR
-http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/h13uy0" ,TVE MS
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/5QsFh6" ,TV PANTANAL
-http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/Ww8ID5" ,Mkk
-http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8
-#EXTINF:-1 ,CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvwebcidade.net/wp-content/uploads/2015/01/logo1" ,TV WEB Cidade
-http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/Jdcnin" ,CONEXÃO BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/uIS4VR" ,CWB TV
-http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/u4HtY5" ,REDE CORREIO TV
-http://flash1.crossdigital.com.br:1935/491/491/live.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/bST2TJ" ,Via Morena
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-#EXTINF:-1  ,TV ONLINE
-http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8
-#EXTINF:-1 ,TVCADM
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao",AGRO CANAL MS
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://goo.gl/MhrZCG" ,TV Ultrafarma 
-http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
-#EXTINF:-1,REDE TV! HD
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1,BAND HD
-http://31.204.128.104:8081/live/band/playlist.m3u8?ListaAndre
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" ,Amazon Sat
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=557357 & 20091116_ListaAndre_stream/players.61.ts
-#EXTINF:-1 tvg-logo="http://www.ucs.br/ucs/tplNoticias/noticias/1331302778/ucstv.jpg" ,UCs Tv Futura
-http://tinyurl.com/zrbymko
-#EXTINF:-1 tvg-logo="http://jornalpequeno.blog.br/johncutrim/files/2014/05/332738_290125501036930_232778146771666_835889_1347492733_o.jpg" ,Tv Guara
-http://tinyurl.com/ztkt597
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9liEz85.jpg" ,TV TRANSAMERICA
-http://flash1.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
-#EXTINF:1 tvg-logo="http://i.imgur.com/ftYw1Qi.jpg" ,TV DIARIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.bhnews.tv.br/images/logo.png" ,BH NEWS
-http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
-#EXTINF:-1,TV MARAJOARA
-http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
-#EXTINF:-1,TV BRUSQUE SC
-http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
-#EXTINF:-1,Web Tv SA Ao Vivo
-http://wse5.player.tv.br:1935/9157/9157/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://expedite-consulting.com/wp-content/uploads/2016/05/discovery-channel.png" ,Discovery Channel
-http://187.49.86.238:10000/bysid/120
 
 
 
