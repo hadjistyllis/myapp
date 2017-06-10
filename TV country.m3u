@@ -362,6 +362,19 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 
 #EXTINF:3 group-title=”USA/Canada-BETA”, 
 
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:UNEXPECTED
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,SERVER ERRORS,
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,TRYING TO FIX.
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,CHECK AGAIN LATER
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
 
 #EXTINF:-1,A&E
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
