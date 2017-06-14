@@ -521,9 +521,6 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 #EXTINF:6 group-title=”Cinema”,
 
-#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtmp://live.cast-control.eu/MoviesTv/MoviesTv
-#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtsp://live.cast-control.eu/MoviesTv/MoviesTv
+
 #EXTINF:-1 ,RELOAD Play
 http://bit.ly/2l0o6Os
