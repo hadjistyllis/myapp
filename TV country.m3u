@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=GA0N0Bu5JiE
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/eq473601t9w8.m3u8
 #EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.lakatamia.tv/media/images/articles/article190_thumb.jpg ,RIK1
 http://bit.ly/2lsCEqq
-#EXTINF:0,tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2
+#EXTINF:0 tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2
 http://bit.ly/2mrZ5vq
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
@@ -153,7 +153,7 @@ http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/BYFmhv ,OMEGA
 rtmp://stream2.omegatv.net:1935/livepkgr/omegatv live=1 timeout=10
-#EXTINF:-1 tvg-logo"http://i.imgur.com/ZTIWHBd.png ,NEW TV
+#EXTINF:-1 tvg-logo=http://i.imgur.com/ZTIWHBd.png ,NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/WSfOWs ,NEA
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
