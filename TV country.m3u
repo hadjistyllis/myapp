@@ -287,10 +287,6 @@ http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:0,Nickelodeon
 http://bit.ly/2lLgg6P
-#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtmp://live.cast-control.eu/MoviesTv/MoviesTv
-#EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
-rtsp://live.cast-control.eu/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/rsz_new_logo1_3.png ,Yolo TV
 http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
 #EXTINF:-1 ,MIX
