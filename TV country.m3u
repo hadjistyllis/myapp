@@ -106,7 +106,7 @@ http://bit.ly/alphagr1
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
-http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8
+http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/5j4BfAu.png ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
@@ -291,7 +291,7 @@ http://bit.ly/2lLgg6P
 rtmp://live.cast-control.eu/MoviesTv/MoviesTv
 #EXTINF:-1 tvg-logo=http://vector.me/files/images/6/6/66449/tv_movie.png ,Movies TV
 rtsp://live.cast-control.eu/MoviesTv/MoviesTv
-#EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo TV
+#EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/rsz_new_logo1_3.png ,Yolo TV
 http://live.cast-control.eu:1935/yolotelevision/yolotelevision/playlist.m3u8
 #EXTINF:-1 ,MIX
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
