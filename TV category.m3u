@@ -202,6 +202,12 @@ http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 http://tinyurl.com/hb678sq
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
+#EXTINF:-1,MTV Hits
+http://78.139.78.119:8000/play/a00o
+#EXTINF:-1,MTV Music
+http://78.139.78.119:8000/play/a00t
+#EXTINF:-1,MTV Rocks
+http://78.139.78.119:8000/play/a00p
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
