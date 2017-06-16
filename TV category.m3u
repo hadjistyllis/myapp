@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,16/6/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -148,18 +148,12 @@ http://5.32.183.177:4080/udp/224.0.0.120:1235
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,Nickelodeon
 http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.95.109.144:8125/play/a00j
 #EXTINF:0,nickelodeon (GR)
 http://bit.ly/2lLgg6P
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
-#EXTINF:-1,Nick Junior
-http://185.95.109.144:8125/play/a00h
-#EXTINF:-1,Nicktoons
-http://185.95.109.144:8125/play/a00i
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -300,6 +294,35 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=o10-vQokBuI
+
+#EXTINF:-1,BEIN SPORT 1
+http://asno.gcdn.co/bn-sp-1-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://asno.gcdn.co/bn-sp-2-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://asno.gcdn.co/bn-sp-3-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://asno.gcdn.co/bn-sp-4-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://asno.gcdn.co/bn-sp-5-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://asno.gcdn.co/bn-sp-6-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://asno.gcdn.co/bn-sp-7-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://asno.gcdn.co/bn-sp-8-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://asno.gcdn.co/bn-sp-9-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://asno.gcdn.co/bn-sp-10-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://asno.gcdn.co/bn-sp-11-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 12
+http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 13
+http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 14 eng
+http://asno.gcdn.co/bn-sp-14-hd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
