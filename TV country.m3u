@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/6/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -343,26 +343,6 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 
 
 
-
-
-#EXTINF:-1,ARTN
-http://67.219.150.86:8000/play/artn
-#EXTINF:-1,Armount
-http://67.219.150.86:8000/play/Armount
-#EXTINF:-1,H1 USA
-http://67.219.150.86:8000/play/a003
-#EXTINF:-1,H1
-http://67.219.150.86:8000/play/H1TV
-#EXTINF:-1,Jan tv
-http://67.219.150.86:8000/play/a001
-#EXTINF:-1,Pan Armenia
-http://67.219.150.86:8000/play/a002
-#EXTINF:-1,Shant
-http://67.219.150.86:8000/play/4rGk93DLt
-#EXTINF:-1,H2
-http://67.219.150.86:8000/play/H2TV
-#EXTINF:-1,AMGA
-http://67.219.150.86:8000/play/amga
 #EXTINF:-1,FOX 23 
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8 
 #EXTINF:-1,FOX 25 
@@ -462,13 +442,188 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-
-
-
-
-
-
 #EXTINF:3 group-title=”USA2”, 
+
+#EXTINF:0, Box Nation (Sports) (UK) (English)
+http://144.217.68.106/live/2_jMKyZoigJuiDqeWx4ctg/1497863810/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, CBN Sports (Sports) (CA) (English)
+http://144.217.68.106/live/2HFkGZxaub1zLJ6i1SaEvA/1497863812/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Comedy Central (Family) (US) (English)
+http://144.217.68.106/live/G2Y9i91y_R5CtlK5VnxLmw/1497863800/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8
+#EXTINF:0, ESPN (Sports) (US) (English)
+http://149.56.27.145/live/o-F9luWtySJ3eBOkNdrZCg/1497863814/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, MUTV (Sports) (UK) (English)
+http://144.217.68.106/live/d2BnieevlYVUrxRoXblIfw/1497863815/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Nickelodeon (Family) (US) (English)
+http://144.217.68.106/live/MBjz0UvphAvKlBir4LNWaQ/1497863802/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
+#EXTINF:0, Setanta Sports (Sports) (UK) (English)
+http://149.56.27.145/live/oCkCEiaYr7cb86Ub2FyVHA/1497863819/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Spike Tv (Family) (US) (English)
+http://144.217.68.106/live/9ZpF1YynrxEQIWvuQ4HeOQ/1497863804/744a2e6d638ef5996394717e9e871717.m3u8
+#EXTINF:0, USA Network (Family) (US) (English)
+http://144.217.68.106/live/rkXVajnvSVboQ6w09kzOHQ/1497863808/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
+#EXTINF:0, Usa Networks (Movie Channels) (US) (English)
+http://144.217.68.106/live/c1f8O_tzaHUHMlj5fbc55Q/1497863829/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 
+#EXTINF:0, Willow HD (Sports) (US) (English)
+http://144.217.68.106/live/pBduY3kK1Pj-XPO8coZlIw/1497863824/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+
+#EXTINF:0, Weather Nation (News) (US) (English)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 
+#EXTINF:0, Family Friendly Entertainment (Family) (US) (English)
+http://54.225.64.228:1935/live/roku1/playlist.m3u8
+#EXTINF:0, Hope International Channel (Family) (US) (English)
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:0, Juce tv (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, Smart TV (Family) (US) (English)
+http://telvuehls_t01587-i.akamaihd.net/hls/live/215638/T01587-slstv/playlist.m3u8
+#EXTINF:0, Beto TV (Lifestyle) (US) (English)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0, Create and Craft (Lifestyle) (UK) (English)
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+#EXTINF:0, Deutsche Welle (Lifestyle) (US) (English)
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, Florida Ch (Lifestyle) (US) (English)
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:0, Ideal World (Lifestyle) (UK) (English)
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, Miami TV (Lifestyle) (US) (English)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0, Bandwagon Live Music (Music) (US) (English)
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0, DJING Dancefloor HD (Music) (US) (English)
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0, DJing Ibiza (Public-Music) (US) (English)
+http://www.djing.com/tv/dancefloor.m3u8 
+#EXTINF:0, DJing EDM (Public-Music) (US) (English)
+http://www.djing.com/tv/live.m3u8 
+#EXTINF:0, DJing Underground (Public-Music) (US) (English)
+http://www.djing.com/tv/underground.m3u8 
+#EXTINF:0, DJing Classic (Public-Music) (US) (English)
+http://www.djing.com/tv/classics.m3u8 
+#EXTINF:0, DJing Animation (Public-Music) (US) (English)
+http://www.djing.com/tv/animation.m3u8 
+#EXTINF:0, DJING Hot Hot Hot HD (Music) (US) (English)
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0, Gold TV (Music) (US) (English)
+rtmp://goldtv.md:8080/live/goldtv
+#EXTINF:0, HD Live Mix (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:0, HD One Classic (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:0, HD One Dance (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:0, HD One Jazz (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:0, HD One Pop (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0, HD One Rock (Music) (US) (English)
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:0, HEART TV (Music) (US) (English)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, Heavy Metal Television (Music) (US) (English)
+rtmp://70.166.98.130:1935/hmtv/myStream
+#EXTINF:0, HitTV (Music) (US) (English)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0, Kiss TV (Music) (US) (English)
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:0, Music Box (Music) (US) (English)
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, MLB Network (Sports) (US) (English)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, NFL Network HD (Sports) (US) (English)
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
+#EXTINF:0, NFL Network (Sports) (US) (English)
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
+#EXTINF:0, PAC 12 Arizona HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0, PAC 12 Arizona (Sports) (US) (English)
+http://xrxs.net/video/live-p12ariz-1164.m3u8?
+#EXTINF:0, PAC 12 Bay Area HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0, PAC 12 Bay Area (Sports) (US) (English)
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:0, PAC 12 Los Angeles HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0, PAC 12 Los Angeles (Sports) (US) (English)
+http://xrxs.net/video/live-p12losa-1164.m3u8?
+#EXTINF:0, PAC 12 Mountain HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0, PAC 12 Mountain (Sports) (US) (English)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0, PAC 12 Network HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0, PAC 12 Network (Sports) (US) (English)
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:0, PAC 12 Oregon HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0, PAC 12 Oregon (Sports) (US) (English)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0, PAC 12 Washington HD (Sports) (US) (English)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0, PAC 12 Washington (Sports) (US) (English)
+http://xrxs.net/video/live-p12wash-1164.m3u8?
+#EXTINF:0, RT America (Public-News) (US) (English)
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8 
+#EXTINF:0, Vibee (Public-Music) (UK) (English)
+http://46.101.21.42:8081/abr/abr/playlist.m3u8 
+#EXTINF:0, heartv (Public-Music) (UK) (English)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina 
+#EXTINF:0, Toonami (Public-Entertainment) (US) (English)
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+#EXTINF:0, Music Choice Play (Public-Music) (US) (English)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 
+#EXTINF:0, russia today (Public-News) (US) (English)
+http://gourl.su/10e?russia.today.m3u8 
+#EXTINF:0, news zone (Public-Entertainment) (US) (English)
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, Newsmax (Public-News) (US) (English)
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8 
+#EXTINF:0, TruTV (Public-Entertainment) (US) (English)
+http://185.62.86.6:8081/hls/trutv.m3u8
+#EXTINF:0, JLTV (Public-Documentary) (US) (English)
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0, WBKO  Bowling Green KY (Public-News) (US) (English)
+http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
+#EXTINF:0, CBS Boston (WBZ) (Public-News) (US) (English)
+http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8? 
+#EXTINF:0, mbc action (Public-Family) (US) (English)
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”USA3”, 
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:LIMITED
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,FREE USERS
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Retry If 
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Failed to LOAD
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
 
 #EXTINF:-1,NBC
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts 
@@ -1234,133 +1389,6 @@ http://46.249.60.214:8666/play/a02t
 
 
 
-
-
-
-
-#EXTINF:3 group-title=”UK-LOOP_ONE”, 
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,UK | PremierSport
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1074.ts
-#EXTINF:-1,UK | Setanta
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1076.ts
-#EXTINF:-1,UK | BTSportESPN
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1077.ts
-#EXTINF:-1,UK | BTSport2
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1078.ts
-#EXTINF:-1,UK | BTSport1
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1079.ts
-#EXTINF:-1,UK | BTSportEurope
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1085.ts
-#EXTINF:-1,UK | SkysportNews
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1086.ts
-#EXTINF:-1,UK | SkySportNewsUk
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1087.ts
-#EXTINF:-1,UK | SkysportF1
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1088.ts
-#EXTINF:-1,UK | SkySport5 UK
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1089.ts
-#EXTINF:-1,UK | SkySport4  UK
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1090.ts
-#EXTINF:-1,UK | SkySport3 UK
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1091.ts
-#EXTINF:-1,UK | SkySport2 UK
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1092.ts
-#EXTINF:-1,UK | SkySport1 UK
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1093.ts
-#EXTINF:-1,UK | EUROSPORT2
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1094.ts
-#EXTINF:-1,UK | EUROSPORT1
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1095.ts
-#EXTINF:-1,UK | CNBC
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1098.ts
-#EXTINF:-1,UK | Dmax.
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1100.ts
-#EXTINF:-1,UK | Yesterday
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1102.ts
-#EXTINF:-1,UK | RTE One
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1104.ts
-#EXTINF:-1,UK | Rte Two
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1103.ts
-#EXTINF:-1,UK | Sky Movies Premiere HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1105.ts
-#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1106.ts
-#EXTINF:-1,UK | Sky Movies Family HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1107.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1108.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1109.ts
-#EXTINF:-1,UK | SkyMTV
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1110.ts
-#EXTINF:-1,UK | Movies 4Men
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1111.ts
-#EXTINF:-1,UK | SkyOne HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1113.ts
-#EXTINF:-1,UK | True Movies1 HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1115.ts
-#EXTINF:-1,UK | Racing
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1116.ts
-#EXTINF:-1,UK | SkyMoviesDrama HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1121.ts
-#EXTINF:-1,UK | SkyMoviesSelect HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1122.ts
-#EXTINF:-1,UK | SkyMoviesThriller
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1123.ts
-#EXTINF:-1,UK | NationalGeographic
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1124.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1126.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1127.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1128.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1130.ts
-#EXTINF:-1,UK | DisneyChannel
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1131.ts
-#EXTINF:-1,UK | DisneyJunior
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1132.ts
-#EXTINF:-1,UK | ComedyCentral
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1133.ts
-#EXTINF:-1,UK | Channel5
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1134.ts
-#EXTINF:-1,UK | Channel4
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1135.ts
-#EXTINF:-1,UK | CBSAction
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1136.ts
-#EXTINF:-1,UK | CBSDrama
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1137.ts
-#EXTINF:-1,UK | CBSReality
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1138.ts
-#EXTINF:-1,UK | BBC3
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1140.ts
-#EXTINF:-1,UK | BBC2
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1141.ts
-#EXTINF:-1,UK | BBC1
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1142.ts
-#EXTINF:-1,UK | ITV4
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1143.ts
-#EXTINF:-1,UK | ITV3
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1144.ts
-#EXTINF:-1,UK | ITV2
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1145.ts
-#EXTINF:-1,UK | ITV1
-http://sutverduz.com:8080/live/ibbjfrjf/rp71Yd73Gn/1146.ts
 
 
 
@@ -3545,18 +3573,7 @@ http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
 
 #EXTINF:8 group-title=”Latino-Brazil/Spain1”,
 
-#EXTINF:-1,SyFy Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1079.ts
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1094.ts
-#EXTINF:-1,A&E Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1127.ts
-#EXTINF:-1,Animal Planet Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1126.ts
-#EXTINF:-1,AXN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1125.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1123.ts
+
 #EXTINF:-1,13 TV LATINO
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
 #EXTINF:-1,360 TV LATINO
@@ -3899,93 +3916,106 @@ rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0,Lunaa Sport
 rtmp://vs2.streamcaster.net/test_live/lunasport
 
-#EXTINF:0,Sport TV 2 HD
-http://178.192.242.14:9000/play/a08o
-#EXTINF:0,A&E
-http://178.192.242.14:9000/play/a019
-#EXTINF:0,TV Galicia
-http://178.192.242.14:9000/play/a075
-#EXTINF:0,TVCine 2 HD
-http://178.192.242.14:9000/play/a00t
-#EXTINF:0,Sporting TV
-http://178.192.242.14:9000/play/a07y
-#EXTINF:0,SIC K
-http://178.192.242.14:9000/play/a08h
-#EXTINF:0,Toros TV
-http://178.192.242.14:9000/play/a07w
-#EXTINF:0,CNN
-http://178.192.242.14:9000/play/a01f
-#EXTINF:0,TVSØries HD
-http://178.192.242.14:9000/play/a00s
-#EXTINF:0,RTP .frica
-http://178.192.242.14:9000/play/a071
-#EXTINF:0,Biggs
-http://178.192.242.14:9000/play/a01d
-#EXTINF:0,France 24
-http://178.192.242.14:9000/play/a01j
-#EXTINF:0,TVCine 3 HD
-http://178.192.242.14:9000/play/a00r
-#EXTINF:0,Real Madrid TV
-http://178.192.242.14:9000/play/a08j
-#EXTINF:0,EuroNews
-http://178.192.242.14:9000/play/a01i
-#EXTINF:0,Hollywood HD
-http://178.192.242.14:9000/play/a088
-#EXTINF:0,SPORT TV 5
-http://178.192.242.14:9000/play/a082
-#EXTINF:0,RTP Memðria
-http://178.192.242.14:9000/play/a06v
-#EXTINF:0,24 Kitchen HD
-http://178.192.242.14:9000/play/a00l
-#EXTINF:0,Eurosport HD
-http://178.192.242.14:9000/play/a00p
-#EXTINF:0,Nat Geo Wild
-http://178.192.242.14:9000/play/a06r
-#EXTINF:0,HOT
-http://178.192.242.14:9000/play/a083
-#EXTINF:0,SIC Radical
-http://178.192.242.14:9000/play/a06s
-#EXTINF:0,BBC World News
-http://178.192.242.14:9000/play/a01h
-#EXTINF:0,MCS Lifestyle
-http://178.192.242.14:9000/play/a087
-#EXTINF:0,Sport TV 3 HD
-http://178.192.242.14:9000/play/a08b
-#EXTINF:0,SKY News
-http://178.192.242.14:9000/play/a081
-#EXTINF:0,Disney Junior
-http://178.192.242.14:9000/play/a01n
-#EXTINF:0,Travel Channel HD
-http://178.192.242.14:9000/play/a07e
-#EXTINF:0,TLC
-http://178.192.242.14:9000/play/a080
-#EXTINF:0,FOX Crime HD
-http://178.192.242.14:9000/play/a00m
-#EXTINF:0,SIC Mulher
-http://178.192.242.14:9000/play/a07z
-#EXTINF:0,FTV
-http://178.192.242.14:9000/play/a070
-#EXTINF:0,Playboy TV
-http://178.192.242.14:9000/play/a078
-#EXTINF:0,Ca
-http://178.192.242.14:9000/play/a08l
-#EXTINF:0,MCM POP
-http://178.192.242.14:9000/play/a07a
-#EXTINF:0,VH1
-http://178.192.242.14:9000/play/a01a
-#EXTINF:0,Eurosport 2
-http://178.192.242.14:9000/play/a079
-#EXTINF:0,Jim Jam
-http://178.192.242.14:9000/play/a08i
-#EXTINF:0,C-Music
-http://178.192.242.14:9000/play/a08k
-#EXTINF:0,AMC
-http://178.192.242.14:9000/play/a08g
-#EXTINF:0,Kombat Sport
-http://178.192.242.14:9000/play/a089
-#EXTINF:0,FOX Comedy
-http://178.192.242.14:9000/play/a06w
-
+#EXTINF:-1,Motosport TV
+http://91.139.196.72:8030/play/a00x
+#EXTINF:-1,Canal Q
+http://91.139.196.72:8030/play/a032
+#EXTINF:-1,SIC K
+http://91.139.196.72:8030/play/a00k
+#EXTINF:-1,Odisseia
+http://91.139.196.72:8030/play/a00z
+#EXTINF:-1,RTP 3
+http://91.139.196.72:8030/play/a007
+#EXTINF:-1,SIC Radical
+http://91.139.196.72:8030/play/a02r
+#EXTINF:-1,CBS Reality
+http://91.139.196.72:8030/play/a013
+#EXTINF:-1,MCM POP
+http://91.139.196.72:8030/play/a037
+#EXTINF:-1,TVI 24
+http://91.139.196.72:8030/play/a00p
+#EXTINF:-1,Record News
+http://91.139.196.72:8030/play/a018
+#EXTINF:-1,RTP Memðria
+http://91.139.196.72:8030/play/a02u
+#EXTINF:-1,Porto Canal
+http://91.139.196.72:8030/play/a02s
+#EXTINF:-1,TVCine 3
+http://91.139.196.72:8030/play/a045
+#EXTINF:-1,E! Entertainment
+http://91.139.196.72:8030/play/a02x
+#EXTINF:-1,SIC
+http://91.139.196.72:8030/play/a00t
+#EXTINF:-1,C-Music
+http://91.139.196.72:8030/play/a00r
+#EXTINF:-1,Histðria
+http://91.139.196.72:8030/play/a00c
+#EXTINF:-1,TV Galicia
+http://91.139.196.72:8030/play/a033
+#EXTINF:-1,A Bola TV
+http://91.139.196.72:8030/play/a017
+#EXTINF:-1,Eurosport 2 Xtra
+http://91.139.196.72:8030/play/a00d
+#EXTINF:-1,Cartoon Network
+http://91.139.196.72:8030/play/a02t
+#EXTINF:-1,Eurosport 2
+http://91.139.196.72:8030/play/a036
+#EXTINF:-1,CanĿªo Nova
+http://91.139.196.72:8030/play/a038
+#EXTINF:-1,MCS Extreme
+http://91.139.196.72:8030/play/a00w
+#EXTINF:-1,TVCine 4
+http://91.139.196.72:8030/play/a044
+#EXTINF:-1,PFC
+http://91.139.196.72:8030/play/a034
+#EXTINF:-1,Cinemundo
+http://91.139.196.72:8030/play/a00b
+#EXTINF:-1,TV Record
+http://91.139.196.72:8030/play/a006
+#EXTINF:-1,Afro Music
+http://91.139.196.72:8030/play/a047
+#EXTINF:-1,Eurosport 1
+http://91.139.196.72:8030/play/a00a
+#EXTINF:-1,RTP 1
+http://91.139.196.72:8030/play/a004
+#EXTINF:-1,RTP AĿores
+http://91.139.196.72:8030/play/a00i
+#EXTINF:-1,Nat Geo Wild
+http://91.139.196.72:8030/play/a02q
+#EXTINF:-1,Jim Jam
+http://91.139.196.72:8030/play/a00n
+#EXTINF:-1,TVI
+http://91.139.196.72:8030/play/a02n
+#EXTINF:-1,FOX Comedy
+http://91.139.196.72:8030/play/a02v
+#EXTINF:-1,TVI FicĿªo
+http://91.139.196.72:8030/play/a016
+#EXTINF:-1,TVSØries
+http://91.139.196.72:8030/play/a012
+#EXTINF:-1,NBA TV
+http://91.139.196.72:8030/play/a02o
+#EXTINF:-1,RTP Madeira
+http://91.139.196.72:8030/play/a00h
+#EXTINF:-1,Disney Channel
+http://91.139.196.72:8030/play/a015
+#EXTINF:-1,Venus
+http://91.139.196.72:8030/play/a011
+#EXTINF:-1,Syfy
+http://91.139.196.72:8030/play/a00v
+#EXTINF:-1,SPORT TV 4
+http://91.139.196.72:8030/play/a00m
+#EXTINF:-1,Globo Premium
+http://91.139.196.72:8030/play/a035
+#EXTINF:-1,Discovery Channel
+http://91.139.196.72:8030/play/a00y
+#EXTINF:-1,SIC NotŦcias
+http://91.139.196.72:8030/play/a00u
+#EXTINF:-1,RTP 2
+http://91.139.196.72:8030/play/a005
+#EXTINF:-1,Canal Panda
+http://91.139.196.72:8030/play/a02p
+#EXTINF:-1,SIC Caras
+http://91.139.196.72:8030/play/a02w
 
 
 
@@ -4190,14 +4220,7 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,PT: Sport TV 4 SD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3986.ts
-#EXTINF:-1,PT: Sport TV 3 sd
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3985.ts
-#EXTINF:-1,PT: Sport TV 2 SD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3984.ts
-#EXTINF:-1,PT: SPORT TV 1 sd
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3983.ts
+
 #EXTINF:-1,PT: Porto Canal
 http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3544.ts
 #EXTINF:-1,PT: CMTV
@@ -4296,6 +4319,20 @@ http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1914
 http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1916.ts
 #EXTINF:-1,PT: A BOLA TV
 http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1879.ts
+#EXTINF:-1,PT: Sport TV 4 SD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3986.ts
+#EXTINF:-1,PT: Sport TV 3 sd
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3985.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3984.ts
+#EXTINF:-1,PT: SPORT TV 1 sd
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3983.ts
+
+
+
+
+
+
 
 
 
@@ -4981,35 +5018,6 @@ https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
 #EXTINF:-1,Al Fady TV
 http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 1
-http://asno.gcdn.co/bn-sp-1-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 2
-http://asno.gcdn.co/bn-sp-2-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 3
-http://asno.gcdn.co/bn-sp-3-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 4
-http://asno.gcdn.co/bn-sp-4-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 5
-http://asno.gcdn.co/bn-sp-5-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 6
-http://asno.gcdn.co/bn-sp-6-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 7
-http://asno.gcdn.co/bn-sp-7-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 8
-http://asno.gcdn.co/bn-sp-8-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 9
-http://asno.gcdn.co/bn-sp-9-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 10
-http://asno.gcdn.co/bn-sp-10-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 11
-http://asno.gcdn.co/bn-sp-11-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 12
-http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 13
-http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BEIN SPORT 14 eng
-http://asno.gcdn.co/bn-sp-14-hd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1,NO NAME
 http://5.39.188.207:4022/udp/224.84.207.201:20601
 #EXTINF:-1,NO NAME
@@ -5453,14 +5461,7 @@ http://nn.geo.joj.sk/hls/rik-360.m3u8
 #EXTINF:10 group-title=”Czech”,
 
 
-#EXTINF:-1,NAT GEO WILD
-http://109.69.210.13:3000/ngcwild
-#EXTINF:-1,FANDA
-http://109.69.210.13:3000/fanda
-#EXTINF:-1,CT1 
-http://109.69.210.13:3000/ct1 
-#EXTINF:-1,STV2 
-http://109.69.210.13:3000/stv2
+
 
 
 #EXTINF:-1,Prima COOL 
@@ -6434,7 +6435,436 @@ http://89.160.222.14:1957/ramdisk/disney.m3u8
 #EXTINF:-1,ТВ 3
 http://89.160.222.14:1957/ramdisk/tvtri.m3u8
 
-
+#EXTINF:0,1HD
+http://93.91.113.8:8080/Apple/1HD/.m3u8
+#EXTINF:0,360 Подмосковье HD
+http://93.91.113.8:8080/Apple/360-Podmoskov’e-HD/.m3u8
+#EXTINF:0,365 Дней
+http://93.91.113.8:8080/Apple/365-Dnejj/.m3u8
+#EXTINF:0,5 канал
+http://93.91.113.8:8080/Apple/5-kanal/.m3u8
+#EXTINF:0,8 канал
+http://93.91.113.8:8080/Apple/8-kanal/.m3u8
+#EXTINF:0,9 Волна
+http://93.91.113.8:8080/Apple/9-Volna/.m3u8
+#EXTINF:0,A1
+http://93.91.113.8:8080/Apple/A1/.m3u8
+#EXTINF:0,Афонтово
+http://93.91.113.8:8080/Apple/Afontovo/.m3u8
+#EXTINF:0,Аист
+http://93.91.113.8:8080/Apple/Aist/.m3u8
+#EXTINF:0,Amedia Premium HD
+http://93.91.113.8:8080/Apple/Amedia-Premium-HD/.m3u8
+#EXTINF:0,AnyDay 3D
+http://93.91.113.8:8080/Apple/AnyDay-3D/.m3u8
+#EXTINF:0,AnyDay HD
+http://93.91.113.8:8080/Apple/AnyDay-HD/.m3u8
+#EXTINF:0,Arirang
+http://93.91.113.8:8080/Apple/Arirang/.m3u8
+#EXTINF:0,Архыз24
+http://93.91.113.8:8080/Apple/Arkhyz24/.m3u8
+#EXTINF:0,Авто плюс
+http://93.91.113.8:8080/Apple/Avto-pljus/.m3u8
+#EXTINF:0,BRIDGE TV CLASSIC
+http://93.91.113.8:8080/Apple/BRIDGE-TV-CLASSIC/.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+http://93.91.113.8:8080/Apple/BRIDGE-TV-DANCE/.m3u8
+#EXTINF:0,БСТ
+http://93.91.113.8:8080/Apple/BST/.m3u8
+#EXTINF:0,Бокс ТВ
+http://93.91.113.8:8080/Apple/Boks-TV/.m3u8
+#EXTINF:0,Brazzers
+http://93.91.113.8:8080/Apple/Brazzers/.m3u8
+#EXTINF:0,Bridge TV
+http://93.91.113.8:8080/Apple/Bridge-TV/.m3u8
+#EXTINF:0,CBS Drama
+http://93.91.113.8:8080/Apple/CBS-Drama/.m3u8
+#EXTINF:0,CBS Reality
+http://93.91.113.8:8080/Apple/CBS-Reality/.m3u8
+#EXTINF:0,Царьград
+http://93.91.113.8:8080/Apple/Car’grad/.m3u8
+#EXTINF:0,Че
+http://93.91.113.8:8080/Apple/Che/.m3u8
+#EXTINF:0,Дагестан
+http://93.91.113.8:8080/Apple/Dagestan/.m3u8
+#EXTINF:0,Детский
+http://93.91.113.8:8080/Apple/Detskijj/.m3u8
+#EXTINF:0,Детский мир
+http://93.91.113.8:8080/Apple/Detskijj-mir/.m3u8
+#EXTINF:0,Deutsche Welle
+http://93.91.113.8:8080/Apple/Deutsche-Welle/.m3u8
+#EXTINF:0,Disney Channel
+http://93.91.113.8:8080/Apple/Disney-Channel/.m3u8
+#EXTINF:0,Домашний
+http://93.91.113.8:8080/Apple/Domashnijj/.m3u8
+#EXTINF:0,Доверие
+http://93.91.113.8:8080/Apple/Doverie/.m3u8
+#EXTINF:0,ЕГЭ ТВ
+http://93.91.113.8:8080/Apple/EGEh-TV/.m3u8
+#EXTINF:0,Еда
+http://93.91.113.8:8080/Apple/Eda/.m3u8
+#EXTINF:0,Еда HD
+http://93.91.113.8:8080/Apple/Eda-HD/.m3u8
+#EXTINF:0,Эгоист-ТВ
+http://93.91.113.8:8080/Apple/Ehgoist-TV/.m3u8
+#EXTINF:0,English Club
+http://93.91.113.8:8080/Apple/English-Club/.m3u8
+#EXTINF:0,Енисей
+http://93.91.113.8:8080/Apple/Enisejj/.m3u8
+#EXTINF:0,Euronews
+http://93.91.113.8:8080/Apple/Euronews/.m3u8
+#EXTINF:0,Еврокино
+http://93.91.113.8:8080/Apple/Evrokino/.m3u8
+#EXTINF:0,Европа Плюс ТВ
+http://93.91.113.8:8080/Apple/Evropa-Pljus-TV/.m3u8
+#EXTINF:0,Extreme Sports
+http://93.91.113.8:8080/Apple/Extreme-Sports/.m3u8
+#EXTINF:0,France 24
+http://93.91.113.8:8080/Apple/France-24/.m3u8
+#EXTINF:0,Футбол
+http://93.91.113.8:8080/Apple/Futbol/.m3u8
+#EXTINF:0,Gamanoid TV
+http://93.91.113.8:8080/Apple/Gamanoid-TV/.m3u8
+#EXTINF:0,Glazella 3D
+http://93.91.113.8:8080/Apple/Glazella-3D/.m3u8
+#EXTINF:0,Glazella HD
+http://93.91.113.8:8080/Apple/Glazella-HD/.m3u8
+#EXTINF:0,GlobalStar TV
+http://93.91.113.8:8080/Apple/GlobalStar-TV/.m3u8
+#EXTINF:0,HD Life
+http://93.91.113.8:8080/Apple/HD-Life/.m3u8
+#EXTINF:0,HD Media
+http://93.91.113.8:8080/Apple/HD-Media/.m3u8
+#EXTINF:0,Hard Life TV
+http://93.91.113.8:8080/Apple/Hard-Life-TV/.m3u8
+#EXTINF:0,History
+http://93.91.113.8:8080/Apple/History/.m3u8
+#EXTINF:0,Иллюзион+
+http://93.91.113.8:8080/Apple/Illjuzion+/.m3u8
+#EXTINF:0,Индия ТВ
+http://93.91.113.8:8080/Apple/Indija-TV/.m3u8
+#EXTINF:0,Инва Медиа
+http://93.91.113.8:8080/Apple/Inva-Media/.m3u8
+#EXTINF:0,JCTV
+http://93.91.113.8:8080/Apple/JCTV/.m3u8
+#EXTINF:0,Ямал-Регион
+http://93.91.113.8:8080/Apple/Jamal-Region/.m3u8
+#EXTINF:0,JimJam
+http://93.91.113.8:8080/Apple/JimJam/.m3u8
+#EXTINF:0,Ю
+http://93.91.113.8:8080/Apple/Ju/.m3u8
+#EXTINF:0,ЮМОР BOX
+http://93.91.113.8:8080/Apple/JuMOR-BOX/.m3u8
+#EXTINF:0,Ювелирочка
+http://93.91.113.8:8080/Apple/Juvelirochka/.m3u8
+#EXTINF:0,КХЛ HD
+http://93.91.113.8:8080/Apple/KKhL-HD/.m3u8
+#EXTINF:0,КХЛ ТВ
+http://93.91.113.8:8080/Apple/KKhL-TV/.m3u8
+#EXTINF:0,КВН ТВ
+http://93.91.113.8:8080/Apple/KVN-TV/.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+http://93.91.113.8:8080/Apple/Kalejjdoskop-TV/.m3u8
+#EXTINF:0,Карусель
+http://93.91.113.8:8080/Apple/Karusel’/.m3u8
+#EXTINF:-1,TV1000 Premium HD
+http://217.114.191.238:8080/TV1000PremiumHD/playlist.m3u8
+#EXTINF:-1,TV1000
+http://217.114.191.238:8080/TV1000/playlist.m3u8
+#EXTINF:0,Хорошее Кино
+http://93.91.113.8:8080/Apple/Khoroshee-kino/.m3u8
+#EXTINF:0,Кинохит
+http://93.91.113.8:8080/Apple/Kinokhit/.m3u8
+#EXTINF:0,Кинокомедия
+http://93.91.113.8:8080/Apple/Kinokomedija/.m3u8
+#EXTINF:0,Кинопремьера HD
+http://93.91.113.8:8080/Apple/Kinoprem’era-HD/.m3u8
+#EXTINF:0,Киносемья
+http://93.91.113.8:8080/Apple/Kinosem’ja/.m3u8
+#EXTINF:0,Киносерия
+http://93.91.113.8:8080/Apple/Kinoserija/.m3u8
+#EXTINF:0,Киносвидание
+http://93.91.113.8:8080/Apple/Kinosvidanie/.m3u8
+#EXTINF:0,Красная линия
+http://93.91.113.8:8080/Apple/Krasnaja-linija/.m3u8
+#EXTINF:0,Крик ТВ
+http://93.91.113.8:8080/Apple/Krik-TV/.m3u8
+#EXTINF:0,Крым 24
+http://93.91.113.8:8080/Apple/Krym-24/.m3u8
+#EXTINF:0,Кто есть кто
+http://93.91.113.8:8080/Apple/Kto-est’-kto/.m3u8
+#EXTINF:0,Кубань 24
+http://93.91.113.8:8080/Apple/Kuban’-24/.m3u8
+#EXTINF:0,Кубань 24 орбита
+http://93.91.113.8:8080/Apple/Kuban’-24-orbita/.m3u8
+#EXTINF:0,Кухня ТВ
+http://93.91.113.8:8080/Apple/Kukhnja-TV/.m3u8
+#EXTINF:0,Курай-ТВ
+http://93.91.113.8:8080/Apple/Kurajj-TV/.m3u8
+#EXTINF:0,ЛДПР ТВ
+http://93.91.113.8:8080/Apple/LDPR-TV/.m3u8
+#EXTINF:0,ЛОТ
+http://93.91.113.8:8080/Apple/LOT/.m3u8
+#EXTINF:0,Life78
+http://93.91.113.8:8080/Apple/Life78/.m3u8
+#EXTINF:0,LifeNews
+http://93.91.113.8:8080/Apple/LifeNews/.m3u8
+#EXTINF:0,LifeNews HD
+http://93.91.113.8:8080/Apple/LifeNews-HD/.m3u8
+#EXTINF:0,Ля-минор
+http://93.91.113.8:8080/Apple/Lja-minor/.m3u8
+#EXTINF:0,Любимое кино
+http://93.91.113.8:8080/Apple/Ljubimoe-kino/.m3u8
+#EXTINF:0,Luxury World
+http://93.91.113.8:8080/Apple/Luxury-World/.m3u8
+#EXTINF:0,МАТЧ! АРЕНА (Спорт 1)
+http://93.91.113.8:8080/Apple/MATCh!-ARENA-(Sport-1)/.m3u8
+#EXTINF:0,МАТЧ! АРЕНА (Спорт 1) HD
+http://93.91.113.8:8080/Apple/MATCh!-ARENA-(Sport-1)-HD/.m3u8
+#EXTINF:0,МАТЧ! ИГРА (Спорт 2)
+http://93.91.113.8:8080/Apple/MATCh!-IGRA-(Sport-2)/.m3u8
+#EXTINF:0,МАТЧ! ИГРА (Спорт 2) HD
+http://93.91.113.8:8080/Apple/MATCh!-IGRA-(Sport-2)-HD/.m3u8
+#EXTINF:0,МАТЧ! НАШ СПОРТ (Спорт+)
+http://93.91.113.8:8080/Apple/MATCh!-NASh-SPORT-(Sport+)/.m3u8
+#EXTINF:0,MUSICBOX
+http://93.91.113.8:8080/Apple/MUSICBOX/.m3u8
+#EXTINF:0,Майдан
+http://93.91.113.8:8080/Apple/Majjdan/.m3u8
+#EXTINF:0,Матч! БОЕЦ (Боец)
+http://93.91.113.8:8080/Apple/Match!-BOEC-(Boec)/.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://93.91.113.8:8080/Apple/Match!-Futbol-1/.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://93.91.113.8:8080/Apple/Match!-Futbol-1-HD/.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://93.91.113.8:8080/Apple/Match!-Futbol-2/.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+http://93.91.113.8:8080/Apple/Match!-Futbol-2-HD/.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://93.91.113.8:8080/Apple/Match!-Futbol-3/.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+http://93.91.113.8:8080/Apple/Match!-Futbol-3-HD/.m3u8
+#EXTINF:0,Матч ТВ
+http://93.91.113.8:8080/Apple/Match-TV/.m3u8
+#EXTINF:0,Мир
+http://93.91.113.8:8080/Apple/Mir/.m3u8
+#EXTINF:0,Мир 24
+http://93.91.113.8:8080/Apple/Mir-24/.m3u8
+#EXTINF:0,Мир HD
+http://93.91.113.8:8080/Apple/Mir-HD/.m3u8
+#EXTINF:0,Мир сериала
+http://93.91.113.8:8080/Apple/Mir-seriala/.m3u8
+#EXTINF:0,Москва 24
+http://93.91.113.8:8080/Apple/Moskva-24/.m3u8
+#EXTINF:0,Мультимания
+http://93.91.113.8:8080/Apple/Mul’timanija/.m3u8
+#EXTINF:0,Mute 3D
+http://93.91.113.8:8080/Apple/Mute-3D/.m3u8
+#EXTINF:0,Mute HD
+http://93.91.113.8:8080/Apple/Mute-HD/.m3u8
+#EXTINF:0,Муз-ТВ
+http://93.91.113.8:8080/Apple/Muz-TV/.m3u8
+#EXTINF:0,Мужское Кино
+http://93.91.113.8:8080/Apple/Muzhskoe-Kino/.m3u8
+#EXTINF:0,Мужской
+http://93.91.113.8:8080/Apple/Muzhskojj/.m3u8
+#EXTINF:0,NHK World TV
+http://93.91.113.8:8080/Apple/NHK-World-TV/.m3u8
+#EXTINF:0,NHK World TV HD
+http://93.91.113.8:8080/Apple/NHK-World-TV-HD/.m3u8
+#EXTINF:0,НЮ АРТ ТВ
+http://93.91.113.8:8080/Apple/NJu-ART-TV/.m3u8
+#EXTINF:0,НТВ
+http://93.91.113.8:8080/Apple/NTV/.m3u8
+#EXTINF:0,Нано ТВ
+http://93.91.113.8:8080/Apple/Nano-TV/.m3u8
+#EXTINF:0,Наш Футбол HD
+http://93.91.113.8:8080/Apple/Nash-Futbol-HD/.m3u8
+#EXTINF:0,Наш футбол
+http://93.91.113.8:8080/Apple/Nash-futbol/.m3u8
+#EXTINF:0,Наша Сибирь HD
+http://93.91.113.8:8080/Apple/Nasha-Sibir’-HD/.m3u8
+#EXTINF:0,Наше новое кино
+http://93.91.113.8:8080/Apple/Nashe-novoe-kino/.m3u8
+#EXTINF:0,Nickelodeon
+http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
+#EXTINF:0,Noise
+http://93.91.113.8:8080/Apple/Noise/.m3u8
+#EXTINF:0,Ностальгия
+http://93.91.113.8:8080/Apple/Nostal’gija/.m3u8
+#EXTINF:0,ОТР
+http://93.91.113.8:8080/Apple/OTR/.m3u8
+#EXTINF:0,Ocean TV
+http://93.91.113.8:8080/Apple/Ocean-TV/.m3u8
+#EXTINF:0,Открытый мир
+http://93.91.113.8:8080/Apple/Otkrytyjj-mir/.m3u8
+#EXTINF:0,Outdoor Channel
+http://93.91.113.8:8080/Apple/Outdoor-Channel/.m3u8
+#EXTINF:0,ПЯТНИЦА!
+http://93.91.113.8:8080/Apple/PJaTNICA!/.m3u8
+#EXTINF:0,Первый HD
+http://93.91.113.8:8080/Apple/Pervyjj-HD/.m3u8
+#EXTINF:0,Первый Интернет Канал HD
+http://93.91.113.8:8080/Apple/Pervyjj-Internet-Kanal-HD/.m3u8
+#EXTINF:0,Первый канал
+http://93.91.113.8:8080/Apple/Pervyjj-kanal/.m3u8
+#EXTINF:0,Первый образовательный
+http://93.91.113.8:8080/Apple/Pervyjj-obrazovatel’nyjj/.m3u8
+#EXTINF:0,Пингвин ЛОЛО
+http://93.91.113.8:8080/Apple/Pingvin-LOLO/.m3u8
+#EXTINF:0,Play Boy
+http://93.91.113.8:8080/Apple/Play-Boy/.m3u8
+#EXTINF:0,Про Бизнес
+http://93.91.113.8:8080/Apple/Pro-Biznes/.m3u8
+#EXTINF:0,Просвещение
+http://93.91.113.8:8080/Apple/Prosveshhenie/.m3u8
+#EXTINF:0,РБК
+http://93.91.113.8:8080/Apple/RBK/.m3u8
+#EXTINF:0,РЕН ТВ
+http://93.91.113.8:8080/Apple/REN-TV/.m3u8
+#EXTINF:0,RTG HD
+http://93.91.113.8:8080/Apple/RTG-HD/.m3u8
+#EXTINF:0,RTG TV
+http://93.91.113.8:8080/Apple/RTG-TV/.m3u8
+#EXTINF:0,RU.TV
+http://93.91.113.8:8080/Apple/RU.TV/.m3u8
+#EXTINF:0,RUSSIAN MUSICBOX
+http://93.91.113.8:8080/Apple/RUSSIAN-MUSICBOX/.m3u8
+#EXTINF:0,Радость моя
+http://93.91.113.8:8080/Apple/Radost’-moja/.m3u8
+#EXTINF:0,Раз ТВ
+http://93.91.113.8:8080/Apple/Raz-TV/.m3u8
+#EXTINF:0,Россия
+http://93.91.113.8:8080/Apple/Rossija/.m3u8
+#EXTINF:0,Россия 24
+http://93.91.113.8:8080/Apple/Rossija-24/.m3u8
+#EXTINF:0,Россия HD
+http://93.91.113.8:8080/Apple/Rossija-HD/.m3u8
+#EXTINF:0,Россия К
+http://93.91.113.8:8080/Apple/Rossija-K/.m3u8
+#EXTINF:0,Рубль
+http://93.91.113.8:8080/Apple/Rubl’/.m3u8
+#EXTINF:0,Rusong TV
+http://93.91.113.8:8080/Apple/Rusong-TV/.m3u8
+#EXTINF:0,Russia Today
+http://93.91.113.8:8080/Apple/Russia-Today/.m3u8
+#EXTINF:0,Russia Today Doc HD
+http://93.91.113.8:8080/Apple/Russia-Today-Doc-HD/.m3u8
+#EXTINF:0,Russia Today HD
+http://93.91.113.8:8080/Apple/Russia-Today-HD/.m3u8
+#EXTINF:0,Русская ночь
+http://93.91.113.8:8080/Apple/Russkaja-noch’/.m3u8
+#EXTINF:0,Русский иллюзион
+http://93.91.113.8:8080/Apple/Russkijj-illjuzion/.m3u8
+#EXTINF:0,SET
+http://93.91.113.8:8080/Apple/SET/.m3u8
+#EXTINF:0,СТС
+http://93.91.113.8:8080/Apple/STS/.m3u8
+#EXTINF:0,СТС-Love
+http://93.91.113.8:8080/Apple/STS-Love/.m3u8
+#EXTINF:0,STV
+http://93.91.113.8:8080/Apple/STV/.m3u8
+#EXTINF:0,Санкт-Петербург
+http://93.91.113.8:8080/Apple/Sankt-Peterburg/.m3u8
+#EXTINF:0,Шансон ТВ
+http://93.91.113.8:8080/Apple/Shanson-TV/.m3u8
+#EXTINF:0,Shop 24
+http://93.91.113.8:8080/Apple/Shop-24/.m3u8
+#EXTINF:0,Shop Show
+http://93.91.113.8:8080/Apple/Shop-n-Show/.m3u8
+#EXTINF:0,Shopping Live
+http://93.91.113.8:8080/Apple/Shopping-Live/.m3u8
+#EXTINF:0,Slow TV
+http://93.91.113.8:8080/Apple/Slow-TV/.m3u8
+#EXTINF:0,Slow TV HD
+http://93.91.113.8:8080/Apple/Slow-TV-HD/.m3u8
+#EXTINF:0,Смайлик
+http://93.91.113.8:8080/Apple/Smajjlik/.m3u8
+#EXTINF:0,Сочи HD
+http://93.91.113.8:8080/Apple/Sochi-HD/.m3u8
+#EXTINF:0,Союз
+http://93.91.113.8:8080/Apple/Sojuz/.m3u8
+#EXTINF:0,Sony Sci-fi Russia
+http://93.91.113.8:8080/Apple/Sony-Sci-fi-Russia/.m3u8
+#EXTINF:0,Sony Turbo
+http://93.91.113.8:8080/Apple/Sony-Turbo/.m3u8
+#EXTINF:0,Совершенно секретно
+http://93.91.113.8:8080/Apple/Sovershenno-sekretno/.m3u8
+#EXTINF:0,Спас
+http://93.91.113.8:8080/Apple/Spas/.m3u8
+#EXTINF:0,ТДК
+http://93.91.113.8:8080/Apple/TDK/.m3u8
+#EXTINF:0,TMB
+http://93.91.113.8:8080/Apple/TMB/.m3u8
+#EXTINF:0,ТНТ
+http://93.91.113.8:8080/Apple/TNT/.m3u8
+#EXTINF:0,ТНТ MUSIC
+http://93.91.113.8:8080/Apple/TNT-MUSIC/.m3u8
+#EXTINF:0,ТНТ Тверь
+http://93.91.113.8:8080/Apple/TNT-Tver’/.m3u8
+#EXTINF:0,ТНТ4
+http://93.91.113.8:8080/Apple/TNT4/.m3u8
+#EXTINF:0,ТНВ-Планета
+http://93.91.113.8:8080/Apple/TNV-Planeta/.m3u8
+#EXTINF:0,ТНВ Татарстан
+http://93.91.113.8:8080/Apple/TNV-Tatarstan/.m3u8
+#EXTINF:0,TOPSHOP TV
+http://93.91.113.8:8080/Apple/TOPSHOP-TV/.m3u8
+#EXTINF:0,ТРО
+http://93.91.113.8:8080/Apple/TRO/.m3u8
+#EXTINF:0,ТВ 3
+http://93.91.113.8:8080/Apple/TV-3/.m3u8
+#EXTINF:0,ТВ Центр
+http://93.91.113.8:8080/Apple/TV-Centr/.m3u8
+#EXTINF:0,TV MAll
+http://93.91.113.8:8080/Apple/TV-MAll/.m3u8
+#EXTINF:0,TV Sale
+http://93.91.113.8:8080/Apple/TV-Sale/.m3u8
+#EXTINF:0,TV5Monde
+http://93.91.113.8:8080/Apple/TV5Monde/.m3u8
+#EXTINF:0,TVMChannel
+http://93.91.113.8:8080/Apple/TVMChannel/.m3u8
+#EXTINF:0,ТВС
+http://93.91.113.8:8080/Apple/TVS/.m3u8
+#EXTINF:0,ТелеБалтНьюс
+http://93.91.113.8:8080/Apple/TeleBaltN’jus/.m3u8
+#EXTINF:0,Теледом HD
+http://93.91.113.8:8080/Apple/Teledom-HD/.m3u8
+#EXTINF:0,Телеканал 2×2
+http://93.91.113.8:8080/Apple/Telekanal-2×2/.m3u8
+#EXTINF:0,TiJi
+http://93.91.113.8:8080/Apple/TiJi/.m3u8
+#EXTINF:0,Точка ТВ
+http://93.91.113.8:8080/Apple/Tochka-TV/.m3u8
+#EXTINF:0,Travel+Adventure
+http://93.91.113.8:8080/Apple/Travel+Adventure/.m3u8
+#EXTINF:0,Travel+Adventure HD
+http://93.91.113.8:8080/Apple/Travel+Adventure-HD/.m3u8
+#EXTINF:0,Три Ангела
+http://93.91.113.8:8080/Apple/Tri-Angela/.m3u8
+#EXTINF:0,Тверской проспект
+http://93.91.113.8:8080/Apple/Tverskojj-prospekt/.m3u8
+#EXTINF:0,Успех
+http://93.91.113.8:8080/Apple/Uspekh/.m3u8
+#EXTINF:0,В гостях у сказки
+http://93.91.113.8:8080/Apple/V-gostjakh-u-skazki/.m3u8
+#EXTINF:0,Вместе.РФ
+http://93.91.113.8:8080/Apple/Vmeste.RF/.m3u8
+#EXTINF:0,Война и Мир
+http://93.91.113.8:8080/Apple/Vojjna-i-Mir/.m3u8
+#EXTINF:0,World Fashion
+http://93.91.113.8:8080/Apple/World-Fashion/.m3u8
+#EXTINF:0,World Fashion HD
+http://93.91.113.8:8080/Apple/World-Fashion-HD/.m3u8
+#EXTINF:0,World business channel HD
+http://93.91.113.8:8080/Apple/World-business-channel-HD/.m3u8
+#EXTINF:0,Загородная жизнь
+http://93.91.113.8:8080/Apple/Zagorodnaja-zhizn’/.m3u8
+#EXTINF:0,Зоопарк
+http://93.91.113.8:8080/Apple/Zoopark/.m3u8
+#EXTINF:0,Звезда
+http://93.91.113.8:8080/Apple/Zvezda/.m3u8
 
 
 
