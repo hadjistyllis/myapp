@@ -421,52 +421,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:-1,THE WEATHER CHANNEL HD 
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:3 group-title=”USA2”, 
-
-#EXTINF:0, Box Nation (Sports) (UK) (English)
-http://144.217.68.106/live/2_jMKyZoigJuiDqeWx4ctg/1497863810/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:0, CBN Sports (Sports) (CA) (English)
-http://144.217.68.106/live/2HFkGZxaub1zLJ6i1SaEvA/1497863812/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:0, Comedy Central (Family) (US) (English)
-http://144.217.68.106/live/G2Y9i91y_R5CtlK5VnxLmw/1497863800/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8
-#EXTINF:0, ESPN (Sports) (US) (English)
-http://149.56.27.145/live/o-F9luWtySJ3eBOkNdrZCg/1497863814/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:0, MUTV (Sports) (UK) (English)
-http://144.217.68.106/live/d2BnieevlYVUrxRoXblIfw/1497863815/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:0, Nickelodeon (Family) (US) (English)
-http://144.217.68.106/live/MBjz0UvphAvKlBir4LNWaQ/1497863802/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
-#EXTINF:0, Setanta Sports (Sports) (UK) (English)
-http://149.56.27.145/live/oCkCEiaYr7cb86Ub2FyVHA/1497863819/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:0, Spike Tv (Family) (US) (English)
-http://144.217.68.106/live/9ZpF1YynrxEQIWvuQ4HeOQ/1497863804/744a2e6d638ef5996394717e9e871717.m3u8
-#EXTINF:0, USA Network (Family) (US) (English)
-http://144.217.68.106/live/rkXVajnvSVboQ6w09kzOHQ/1497863808/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
-#EXTINF:0, Usa Networks (Movie Channels) (US) (English)
-http://144.217.68.106/live/c1f8O_tzaHUHMlj5fbc55Q/1497863829/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 
-#EXTINF:0, Willow HD (Sports) (US) (English)
-http://144.217.68.106/live/pBduY3kK1Pj-XPO8coZlIw/1497863824/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-
 #EXTINF:0, Weather Nation (News) (US) (English)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 
 #EXTINF:0, Family Friendly Entertainment (Family) (US) (English)
@@ -590,6 +544,311 @@ http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8?
 #EXTINF:0, mbc action (Public-Family) (US) (English)
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
+#EXTINF:0, Box Nation (Sports) (UK) (English)
+http://144.217.68.106/live/2_jMKyZoigJuiDqeWx4ctg/1497863810/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, CBN Sports (Sports) (CA) (English)
+http://144.217.68.106/live/2HFkGZxaub1zLJ6i1SaEvA/1497863812/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Comedy Central (Family) (US) (English)
+http://144.217.68.106/live/G2Y9i91y_R5CtlK5VnxLmw/1497863800/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8
+#EXTINF:0, ESPN (Sports) (US) (English)
+http://149.56.27.145/live/o-F9luWtySJ3eBOkNdrZCg/1497863814/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, MUTV (Sports) (UK) (English)
+http://144.217.68.106/live/d2BnieevlYVUrxRoXblIfw/1497863815/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Nickelodeon (Family) (US) (English)
+http://144.217.68.106/live/MBjz0UvphAvKlBir4LNWaQ/1497863802/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
+#EXTINF:0, Setanta Sports (Sports) (UK) (English)
+http://149.56.27.145/live/oCkCEiaYr7cb86Ub2FyVHA/1497863819/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+#EXTINF:0, Spike Tv (Family) (US) (English)
+http://144.217.68.106/live/9ZpF1YynrxEQIWvuQ4HeOQ/1497863804/744a2e6d638ef5996394717e9e871717.m3u8
+#EXTINF:0, USA Network (Family) (US) (English)
+http://144.217.68.106/live/rkXVajnvSVboQ6w09kzOHQ/1497863808/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
+#EXTINF:0, Usa Networks (Movie Channels) (US) (English)
+http://144.217.68.106/live/c1f8O_tzaHUHMlj5fbc55Q/1497863829/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 
+#EXTINF:0, Willow HD (Sports) (US) (English)
+http://144.217.68.106/live/pBduY3kK1Pj-XPO8coZlIw/1497863824/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”USA/Canada-BETA”, 
+
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:SERVER 
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,IS BACK AGAIN
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,ENJOY.
+http://.....
+
+
+#EXTINF:-1,A&E
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/672.ts
+#EXTINF:-1,AnimalPlanet
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/671.ts
+#EXTINF:-1,BBC AMERICA
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/628.ts
+#EXTINF:-1,bet
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/630.ts
+#EXTINF:-1,CartoonNetwork
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/670.ts
+#EXTINF:-1,cbs
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/669.ts
+#EXTINF:-1,cbs news
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/653.ts
+#EXTINF:-1,cnn
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/668.ts
+#EXTINF:-1,ComedyCentral
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/667.ts
+#EXTINF:-1,COOKING CHANNEL
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/627.ts
+#EXTINF:-1,cw
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/666.ts
+#EXTINF:-1,Destination America
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/621.ts
+#EXTINF:-1,Discovery
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/652.ts
+#EXTINF:-1,DiscoveryScience
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/651.ts
+#EXTINF:-1,diy
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/650.ts
+#EXTINF:-1,E!
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/655.ts
+#EXTINF:-1,ESPN2
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/616.ts
+#EXTINF:-1,FOOD NETWORK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/626.ts
+#EXTINF:-1,fox
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/665.ts
+#EXTINF:-1,FOXSPORT1 
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/625.ts
+#EXTINF:-1,fx
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/664.ts
+#EXTINF:-1,fxx
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/635.ts
+#EXTINF:-1,fyi
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/643.ts
+#EXTINF:-1,HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/624.ts
+#EXTINF:-1,HBO FAMILY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/623.ts
+#EXTINF:-1,hbo
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/634.ts
+#EXTINF:-1,HBO SIGNATURE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/642.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/641.ts
+#EXTINF:-1,life time
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/663.ts
+#EXTINF:-1,lifetime movie network
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/649.ts
+#EXTINF:-1,MLB Live 1
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/721.ts
+#EXTINF:-1,MLB Live 2
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/720.ts
+#EXTINF:-1,MLB Network
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/719.ts
+#EXTINF:-1,MSNBC
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/640.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/718.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/717.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/716.ts
+#EXTINF:-1,nba tv
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/639.ts
+#EXTINF:-1,nbc
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/662.ts
+#EXTINF:-1,nfl network
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/632.ts
+#EXTINF:-1,NFLNOW
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/622.ts
+#EXTINF:-1,pbs
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/660.ts
+#EXTINF:-1,showtime
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/638.ts
+#EXTINF:-1,spike
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/659.ts
+#EXTINF:-1,STARZ CINEMA
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/636.ts
+#EXTINF:-1,STARZ EAST
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/637.ts
+#EXTINF:-1,syfy
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/658.ts
+#EXTINF:-1,tbs
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/657.ts
+#EXTINF:-1,tnt
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/656.ts
+#EXTINF:-1,trutv
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/648.ts
+#EXTINF:-1,tv land
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/654.ts
+#EXTINF:-1,UnivisionDeportes
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/617.ts
+#EXTINF:-1,Velocity
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/646.ts
+#EXTINF:-1,wwe
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/631.ts
+#EXTINF:-1,BNN
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/806.ts
+#EXTINF:-1,CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/805.ts
+#EXTINF:-1,CBC TORONTO
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/804.ts
+#EXTINF:-1,CHCH
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/803.ts
+#EXTINF:-1,CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/802.ts
+#EXTINF:-1,COMEDY GOLD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/801.ts
+#EXTINF:-1,COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/800.ts
+#EXTINF:-1,CP24
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/799.ts
+#EXTINF:-1,CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/798.ts
+#EXTINF:-1,DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/797.ts
+#EXTINF:-1,E!
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/796.ts
+#EXTINF:-1,FYI
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/794.ts
+#EXTINF:-1,G4
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/793.ts
+#EXTINF:-1,GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/792.ts
+#EXTINF:-1,GOLF CHANNEL
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/790.ts
+#EXTINF:-1,GSN
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/789.ts
+#EXTINF:-1,MOVIE TIME
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/787.ts
+#EXTINF:-1,MTV CANADA
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/786.ts
+#EXTINF:-1,MUCH MUSIC
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/785.ts
+#EXTINF:-1,NICK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/783.ts
+#EXTINF:-1,OLN
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/782.ts
+#EXTINF:-1,OWN (OPRAH WINFREY NETWORK)
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/781.ts
+#EXTINF:-1,PEACHTREE TV
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/780.ts
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/779.ts
+#EXTINF:-1,SLICE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/778.ts
+#EXTINF:-1,SPIKE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/777.ts
+#EXTINF:-1,SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/776.ts
+#EXTINF:-1,TELETOON
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/775.ts
+#EXTINF:-1,THE MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/774.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/773.ts
+#EXTINF:-1,TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/772.ts
+#EXTINF:-1,VRAK TV
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/771.ts
+#EXTINF:-1,W NETWORK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/770.ts
+#EXTINF:-1,WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/769.ts
+#EXTINF:-1,YTV
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/768.ts
+#EXTINF:-1,TelemundoFREE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/615.ts
+#EXTINF:-1,RT HD
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/822.ts
+#EXTINF:-1,TPK  MUSIC BRIT HITS
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/849.ts
+#EXTINF:-1,TPK  MUSIC DANCE EDM
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/848.ts
+#EXTINF:-1,TPK  MUSIC HIP HOP & R & B
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/847.ts
+#EXTINF:-1,TPK  MUSIC HIT LIST
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/846.ts
+#EXTINF:-1,TPK  MUSIC INDIE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/845.ts
+#EXTINF:-1,TPK  MUSIC KIDS ONLY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/844.ts
+#EXTINF:-1,TPK  MUSIC LATINO POP
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/843.ts
+#EXTINF:-1,TPK  MUSIC MEXICAAN
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/841.ts
+#EXTINF:-1,TPK  MUSIC POP & COUNTRY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/840.ts
+#EXTINF:-1,TPK  MUSIC POP HITS
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/839.ts
+#EXTINF:-1,TPK  MUSIC R&B SOUL
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/838.ts
+#EXTINF:-1,TPK  MUSIC RAP 2K
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/836.ts
+#EXTINF:-1,TPK MUSIC RAP
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/837.ts
+#EXTINF:-1,TPK  MUSIC ROCK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/835.ts
+#EXTINF:-1,TPK MUSIC THROWBACK JAMZ
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/833.ts
+#EXTINF:-1,TPK  MUSIC TODAYS COUNTRY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/832.ts
+#EXTINF:-1,TPK  MUSIC TODDLER TUNES
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/831.ts
+#EXTINF:-1,TPK MUSIC MC PLAY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/842.ts
+#EXTINF:-1,TPK  MUSIC TEEN BEATS
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/834.ts
+#EXTINF:-1,TPK  MUSIC Y2K
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/828.ts
+#EXTINF:-1,TPK MUSIC ALTERNATIVE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/826.ts
+#EXTINF:-1,TPK MUSIC TROPICALES
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/830.ts
+#EXTINF:-1,SyFy Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1079.ts
+
+#EXTINF:-1,A&E Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1127.ts
+#EXTINF:-1,Animal Planet Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1126.ts
+#EXTINF:-1,AXN Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1125.ts
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1123.ts
+#EXTINF:-1,NatGeo Wild Latinoamerica
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/1094.ts
+
+#EXTINF:-1,CA YTV
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/484.ts
+#EXTINF:-1,CA CHCH
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/519.ts
+#EXTINF:-1,CA CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/518.ts
+#EXTINF:-1,CA COMEDY
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/517.ts
+#EXTINF:-1,CA COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/516.ts
+#EXTINF:-1,CA CP24
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/515.ts
+#EXTINF:-1,CA TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/489.ts
+#EXTINF:-1,CA TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/488.ts
+#EXTINF:-1,CA VRAK TV
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/487.ts
+#EXTINF:-1,CA W NETWORK
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/486.ts
+#EXTINF:-1,CA WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/husham/isaplayer/485.ts
 
 
 
@@ -606,10 +865,7 @@ http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 
 
-
-
-
-#EXTINF:3 group-title=”USA3”, 
+#EXTINF:3 group-title=”USA2”, 
 
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:LIMITED
 http://.....
