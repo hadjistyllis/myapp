@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,20/6/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -987,6 +987,20 @@ http://192.99.66.208:9090/load/wk2bl7jh3cdk/84.mpegts
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/85.mpegts 
 #EXTINF:-1,Bravo
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
+#EXTINF:-1,Super Channel 1 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/87.mpegts 
+#EXTINF:-1,Super Channel 3 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/89.mpegts 
+#EXTINF:-1,FreeForm 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/91.mpegts 
+#EXTINF:-1,Comedy Canada 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/92.mpegts 
+#EXTINF:-1,ABC Spark 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/93.mpegts 
+#EXTINF:-1,Slice TV 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/94.mpegts 
+#EXTINF:-1,Showcase Canada 
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
 
 
 
@@ -1003,104 +1017,6 @@ http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
 
 
 
-
-
-
-
-#EXTINF:3 group-title=”USA-LOOP_ONE”, 
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:0,USA:L USA Network
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2408.ts
-#EXTINF:0,USA:L US TBS HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2421.ts
-#EXTINF:0,USA:L US NICK
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2458.ts
-#EXTINF:0,USA:L TNT
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2418.ts
-#EXTINF:0,USA:L THE CW Central
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2412.ts
-#EXTINF:0,USA:L SYFY USA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2425.ts
-#EXTINF:0,USA:L SPIKE HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2428.ts
-#EXTINF:0,USA:L SHOWTIME HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2438.ts
-#EXTINF:0,USA:L PBS HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2422.ts
-#EXTINF:0,USA:L NBC HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2420.ts
-#EXTINF:0,USA:L NBC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2419.ts
-#EXTINF:0,USA:L my9
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2423.ts
-#EXTINF:0,USA:L Lifetime
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2424.ts
-#EXTINF:0,USA:L HBO Zone HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2451.ts
-#EXTINF:0,USA:L HBO HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2453.ts
-#EXTINF:0,USA:L HBO FAMILY
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2454.ts
-#EXTINF:0,USA:L Global EDminton
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2426.ts
-#EXTINF:0,USA:L FX HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2434.ts
-#EXTINF:0,USA:L FOX 43
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2415.ts
-#EXTINF:0,USA:L ESPN 2 USA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2460.ts
-#EXTINF:0,USA:L ESPN
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2459.ts
-#EXTINF:0,USA:L Discovery Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2440.ts
-#EXTINF:0,USA:L CW HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2411.ts
-#EXTINF:0,USA:L Comedy Central HD US
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2448.ts
-#EXTINF:0,USA:L CNN
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2444.ts
-#EXTINF:0,USA:L CNBC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2445.ts
-#EXTINF:0,USA:L CITY HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2431.ts
-#EXTINF:0,USA:L CBS HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2416.ts
-#EXTINF:0,USA:L BRAVO USA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2432.ts
-#EXTINF:0,USA:L Animal Planet US
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2442.ts
-#EXTINF:0,USA:L AMC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2409.ts
-#EXTINF:0,USA:L ABC NEWS
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2446.ts
-#EXTINF:0,USA:L ABC HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2410.ts
-#EXTINF:0,USA:L ABC _HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2413.ts
-#EXTINF:0,USA:L A & E
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2417.ts
-#EXTINF:0,USA:L .CTV HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2435.ts
-#EXTINF:0,USA: CSPAN 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1849.ts
-#EXTINF:0,USA: C-SPAN 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1850.ts
-#EXTINF:0,USA: C-SPAN
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1848.ts
 
 
 
@@ -1294,15 +1210,6 @@ http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8
 #EXTINF:-1,Zing 
 http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
-#EXTINF:-1,Eurosport 2HD
-http://37.26.105.7:8001/play/a00t
-#EXTINF:-1,Animal Planet HD
-http://37.26.105.7:8001/play/a00u
-#EXTINF:-1,More 4 HD
-http://37.26.105.7:8001/play/a00v
-#EXTINF:-1,Cartoon Network HD
-http://37.26.105.7:8001/play/a00s
-
 
 
 
@@ -1316,260 +1223,88 @@ http://37.26.105.7:8001/play/a00s
 
 #EXTINF:3 group-title=”UK3”, 
 
-
-
-#EXTINF:-1,Inspiration
-http://46.249.60.214:8666/play/a03y
-#EXTINF:-1,True Ent +1
-http://46.249.60.214:8666/play/a01l
-#EXTINF:-1,Believe TV
-http://46.249.60.214:8666/play/a020
-#EXTINF:-1,Safeer TV
-http://46.249.60.214:8666/play/a00s
-#EXTINF:-1,B4U Movies
-http://46.249.60.214:8666/play/a02u
-#EXTINF:-1,Channel AKA
-http://46.249.60.214:8666/play/a00l
-#EXTINF:-1,Nat Geo
-http://46.249.60.214:8666/play/a02v
-#EXTINF:-1,Islam Channel
-http://46.249.60.214:8666/play/a023
-#EXTINF:-1,Forces TV
-http://46.249.60.214:8666/play/a04o
-#EXTINF:-1,History +1 hour
-http://46.249.60.214:8666/play/a03f
-#EXTINF:-1,Sky Action
-http://46.249.60.214:8666/play/a04u
-#EXTINF:-1,Tiny Pop
-http://46.249.60.214:8666/play/a00t
-#EXTINF:-1,Hidayat TV
-http://46.249.60.214:8666/play/a02k
-#EXTINF:-1,Sky Prem+1
-http://46.249.60.214:8666/play/a053
-#EXTINF:-1,Sky Family
-http://46.249.60.214:8666/play/a04y
-#EXTINF:-1,CHSTV
-http://46.249.60.214:8666/play/a03p
-#EXTINF:-1,RishteyCine
-http://46.249.60.214:8666/play/a00u
-#EXTINF:-1,True Crime +1
-http://46.249.60.214:8666/play/a01d
-#EXTINF:-1,Sky ScFi/Horror
-http://46.249.60.214:8666/play/a04x
-#EXTINF:-1,Venus TV
-http://46.249.60.214:8666/play/a02j
-#EXTINF:-1,VICELAND
-http://46.249.60.214:8666/play/a04a
-#EXTINF:-1,CBBC
-http://46.249.60.214:8666/play/a046
-#EXTINF:-1,Star GOLD
-http://46.249.60.214:8666/play/a00q
-#EXTINF:-1,PTV Prime
-http://46.249.60.214:8666/play/a02y
-#EXTINF:-1,Sky Comedy
-http://46.249.60.214:8666/play/a04v
-#EXTINF:-1,BEN
-http://46.249.60.214:8666/play/a037
-#EXTINF:-1,NTV
-http://46.249.60.214:8666/play/a036
-#EXTINF:-1,Sky Premiere
-http://46.249.60.214:8666/play/a04w
-#EXTINF:-1,CBS Action
-http://46.249.60.214:8666/play/a02a
-#EXTINF:-1,Sky Thriller
-http://46.249.60.214:8666/play/a052
-#EXTINF:-1,Sony Channel
-http://46.249.60.214:8666/play/a004
-#EXTINF:-1,SONY MAX
-http://46.249.60.214:8666/play/a00v
-#EXTINF:-1,Sky Greats
-http://46.249.60.214:8666/play/a050
-#EXTINF:-1,Star Utsav
-http://46.249.60.214:8666/play/a00p
-#EXTINF:-1,Al Jazeera Eng
-http://46.249.60.214:8666/play/a03z
-#EXTINF:-1,ARY News
-http://46.249.60.214:8666/play/a026
-#EXTINF:-1,Ahlebait TV
-http://46.249.60.214:8666/play/a01t
-#EXTINF:-1,TV One
-http://46.249.60.214:8666/play/a03a
-#EXTINF:-1,Showcase 3
-http://46.249.60.214:8666/play/a01q
-#EXTINF:-1,Star Plus
-http://46.249.60.214:8666/play/a00j
-#EXTINF:-1,Crime+Inv
-http://46.249.60.214:8666/play/a03c
-#EXTINF:-1,Crime+Inv +1
-http://46.249.60.214:8666/play/a04k
-#EXTINF:-1,Zee Cinema
-http://46.249.60.214:8666/play/a04i
-#EXTINF:-1,SONY SAB
-http://46.249.60.214:8666/play/a005
-#EXTINF:-1,PBS America
-http://46.249.60.214:8666/play/a04h
-#EXTINF:-1,ATN Bangla UK
-http://46.249.60.214:8666/play/a01s
-#EXTINF:-1,Dunya News
-http://46.249.60.214:8666/play/a04b
-#EXTINF:-1,Sky Christmas
-http://46.249.60.214:8666/play/a051
-#EXTINF:-1,Challenge+1
-http://46.249.60.214:8666/play/a04n
-#EXTINF:-1,TV5 MONDE
-http://46.249.60.214:8666/play/a04c
-#EXTINF:-1,Zing
-http://46.249.60.214:8666/play/a04g
-#EXTINF:-1,Channel i
-http://46.249.60.214:8666/play/a02p
-#EXTINF:-1,Hochanda
-http://46.249.60.214:8666/play/a015
-#EXTINF:-1,Nat Geo+1hr
-http://46.249.60.214:8666/play/a02x
-#EXTINF:-1,BET:BlackEntTv
-http://46.249.60.214:8666/play/a041
-#EXTINF:-1,GEO TEZ
-http://46.249.60.214:8666/play/a019
-#EXTINF:-1,History
-http://46.249.60.214:8666/play/a03d
-#EXTINF:-1,Takbeer TV
-http://46.249.60.214:8666/play/a00z
-#EXTINF:-1,CNBC
-http://46.249.60.214:8666/play/a02h
-#EXTINF:-1,Sangat
-http://46.249.60.214:8666/play/a014
-#EXTINF:-1,Challenge
-http://46.249.60.214:8666/play/a04d
-#EXTINF:-1,BLAZE
-http://46.249.60.214:8666/play/a03x
-#EXTINF:-1,CAPITAL TV
-http://46.249.60.214:8666/play/a013
-#EXTINF:-1,LOVEWORLD TV
-http://46.249.60.214:8666/play/a03v
-#EXTINF:-1,horror channel
-http://46.249.60.214:8666/play/a022
-#EXTINF:-1,Rishtey
-http://46.249.60.214:8666/play/a00r
-#EXTINF:-1,Channel 44
-http://46.249.60.214:8666/play/a021
-#EXTINF:-1,TVC News +1
-http://46.249.60.214:8666/play/a02g
-#EXTINF:-1,ABP News
-http://46.249.60.214:8666/play/a007
-#EXTINF:-1,AAJ TAK
-http://46.249.60.214:8666/play/a003
-#EXTINF:-1,Aastha
-http://46.249.60.214:8666/play/a016
-#EXTINF:-1,MOTORS TV UK
-http://46.249.60.214:8666/play/a029
-#EXTINF:-1,True Christmas
-http://46.249.60.214:8666/play/a00f
-#EXTINF:-1,NDTV 24x7
-http://46.249.60.214:8666/play/a012
-#EXTINF:-1,Pick
-http://46.249.60.214:8666/play/a03r
-#EXTINF:-1,Akaal Channel
-http://46.249.60.214:8666/play/a031
-#EXTINF:-1,Sky News
-http://46.249.60.214:8666/play/a01m
-#EXTINF:-1,Noor TV
-http://46.249.60.214:8666/play/a017
-#EXTINF:-1,POP+1
-http://46.249.60.214:8666/play/a01g
-#EXTINF:-1,IQRA TV
-http://46.249.60.214:8666/play/a02r
-#EXTINF:-1,COLORS
-http://46.249.60.214:8666/play/a00x
-#EXTINF:-1,London Live
-http://46.249.60.214:8666/play/a02q
-#EXTINF:-1,horror ch+1
-http://46.249.60.214:8666/play/a027
-#EXTINF:-1,News18
-http://46.249.60.214:8666/play/a01v
-#EXTINF:-1,Brit Asia TV
-http://46.249.60.214:8666/play/a01z
-#EXTINF:-1,CCTV News
-http://46.249.60.214:8666/play/a032
-#EXTINF:-1,HUM EUROPE
-http://46.249.60.214:8666/play/a01r
-#EXTINF:-1,CBS Reality
-http://46.249.60.214:8666/play/a01u
-#EXTINF:-1,Glory TV
-http://46.249.60.214:8666/play/a006
-#EXTINF:-1,IQRA BANGLA
-http://46.249.60.214:8666/play/a02l
-#EXTINF:-1,Kix+1
-http://46.249.60.214:8666/play/a01j
-#EXTINF:-1,Challenge
-http://46.249.60.214:8666/play/a04e
-#EXTINF:-1,FRANCE Eng
-http://46.249.60.214:8666/play/a04f
-#EXTINF:-1,ROK
-http://46.249.60.214:8666/play/a02w
-#EXTINF:-1,Madani Chnl
-http://46.249.60.214:8666/play/a02m
-#EXTINF:-1,DM Plus TV
-http://46.249.60.214:8666/play/a034
-#EXTINF:-1,Euronews
-http://46.249.60.214:8666/play/a038
-#EXTINF:-1,Tiny Pop+1
-http://46.249.60.214:8666/play/a01h
-#EXTINF:-1,Vintage TV
-http://46.249.60.214:8666/play/a00n
-#EXTINF:-1,Sikh Channel
-http://46.249.60.214:8666/play/a03u
-#EXTINF:-1,Kix
-http://46.249.60.214:8666/play/a01i
-#EXTINF:-1,True Ent
-http://46.249.60.214:8666/play/a01k
-#EXTINF:-1,Ummah CH
-http://46.249.60.214:8666/play/a010
-#EXTINF:-1,TrueChrstms+1
-http://46.249.60.214:8666/play/a00k
-#EXTINF:-1,POP
-http://46.249.60.214:8666/play/a00i
-#EXTINF:-1,AIT Int'l
-http://46.249.60.214:8666/play/a035
-#EXTINF:-1,Scuzz
-http://46.249.60.214:8666/play/a01e
-#EXTINF:-1,PTC PUNJABI
-http://46.249.60.214:8666/play/a01b
-#EXTINF:-1,CNN
-http://46.249.60.214:8666/play/a044
-#EXTINF:-1,Nat Geo Wild
-http://46.249.60.214:8666/play/a02z
-#EXTINF:-1,MATV National
-http://46.249.60.214:8666/play/a01y
-#EXTINF:-1,Hillsong
-http://46.249.60.214:8666/play/a03w
-#EXTINF:-1,My Channel
-http://46.249.60.214:8666/play/a018
-#EXTINF:-1,PTV Global
-http://46.249.60.214:8666/play/a02i
-#EXTINF:-1,CBS Drama
-http://46.249.60.214:8666/play/a024
-#EXTINF:-1,British Muslim
-http://46.249.60.214:8666/play/a039
-#EXTINF:-1,Vox Africa
-http://46.249.60.214:8666/play/a02n
-#EXTINF:-1,Ahlulbayt TV
-http://46.249.60.214:8666/play/a00w
-#EXTINF:-1,ABN TV
-http://46.249.60.214:8666/play/a00m
-#EXTINF:-1,Abu Dhabi TV
-http://46.249.60.214:8666/play/a03b
-#EXTINF:-1,FOX News
-http://46.249.60.214:8666/play/a030
-#EXTINF:-1,Starz TV
-http://46.249.60.214:8666/play/a008
-#EXTINF:-1,Nollywood
-http://46.249.60.214:8666/play/a033
-#EXTINF:-1,B4U Music
-http://46.249.60.214:8666/play/a02o
-#EXTINF:-1,CBS Reality+1
-http://46.249.60.214:8666/play/a01w
-#EXTINF:-1,TVC News
-http://46.249.60.214:8666/play/a02t
+#EXTINF:-1,Eurosport 2HD
+http://37.26.105.7:8001/play/a00t
+#EXTINF:-1,Animal Planet HD
+http://37.26.105.7:8001/play/a00u
+#EXTINF:-1,More 4 HD
+http://37.26.105.7:8001/play/a00v
+#EXTINF:-1,Cartoon Network HD
+http://37.26.105.7:8001/play/a00s
+#EXTINF:-1,ITV2 +1
+http://37.26.105.7:8002/play/a00v
+#EXTINF:-1,TLC
+http://37.26.105.7:8002/play/a00p
+#EXTINF:-1,Discovery Chan +1
+http://37.26.105.7:8002/play/a00m
+#EXTINF:-1,4Seven
+http://37.26.105.7:8002/play/a00k
+#EXTINF:-1,Animal Planet
+http://37.26.105.7:8002/play/a00j
+#EXTINF:-1,Discovery Science
+http://37.26.105.7:8002/play/a00q
+#EXTINF:-1,Discovery Turbo
+http://37.26.105.7:8002/play/a00r
+#EXTINF:-1,Quest
+http://37.26.105.7:8002/play/a00s
+#EXTINF:-1,Discovery Channel
+http://37.26.105.7:8002/play/a00l
+#EXTINF:-1,ITVBe +1
+http://37.26.105.7:8002/play/a00w
+#EXTINF:-1,Baby TV
+http://37.26.105.7:8002/play/a00u
+#EXTINF:-1,Discovery History
+http://37.26.105.7:8002/play/a00o
+#EXTINF:-1,Home & Health
+http://37.26.105.7:8002/play/a00n
+#EXTINF:-1,Nick Junior
+http://37.26.105.7:8003/play/a00o
+#EXTINF:-1,Live Events Channel
+http://37.26.105.7:8003/play/a00x
+#EXTINF:-1,Sky Sports Mix
+http://37.26.105.7:8003/play/a00q
+#EXTINF:-1,Nickelodeon
+http://37.26.105.7:8003/play/a00t
+#EXTINF:-1,Nicktoons
+http://37.26.105.7:8003/play/a00s
+#EXTINF:-1,Nick +1
+http://37.26.105.7:8003/play/a00r
+#EXTINF:-1,Sky Sports 2
+http://37.26.105.7:8003/play/a00p
+#EXTINF:-1,Sky Events
+http://37.26.105.7:8003/play/a00w
+#EXTINF:-1,Sky Family HD
+http://37.26.105.7:8004/play/a017
+#EXTINF:-1,Sky Sports 2HD
+http://37.26.105.7:8004/play/a019
+#EXTINF:-1,Sky Comedy HD
+http://37.26.105.7:8004/play/a018
+#EXTINF:-1,BT Sport 3 HD
+http://37.26.105.7:8005/play/a00m
+#EXTINF:-1,Sky Sports News HQ HD
+http://37.26.105.7:8005/play/a00k
+#EXTINF:-1,Nat Geo WILD HD
+http://37.26.105.7:8005/play/a00l
+#EXTINF:-1,motorsport.tv
+http://37.26.105.7:8007/play/a014
+#EXTINF:-1,BT Sport Extra 5
+http://37.26.105.7:8007/play/a01f
+#EXTINF:-1,BT Sport 2
+http://37.26.105.7:8007/play/a011
+#EXTINF:-1,BT Sport Extra 4
+http://37.26.105.7:8007/play/a018
+#EXTINF:-1,BT Sport Extra 6
+http://37.26.105.7:8007/play/a01g
+#EXTINF:-1,BT Sport Extra 3
+http://37.26.105.7:8007/play/a017
+#EXTINF:-1,BT Sport ESPN
+http://37.26.105.7:8007/play/a01e
+#EXTINF:-1,BT Sport Extra 0
+http://37.26.105.7:8007/play/a015
+#EXTINF:-1,BT Sport Extra 2
+http://37.26.105.7:8007/play/a016
+#EXTINF:-1,BT Sport 2
+http://37.26.105.7:8007/play/a01d
 
 
 
@@ -2107,6 +1842,155 @@ mms://100automoto.tv/channel_porsche
 
 
 
+#EXTINF:4 group-title=”Bulgaria2”,
+
+#EXTINF:-1,Discovery HD
+http://85.14.32.6:8800/udp/239.100.102.3:8888
+#EXTINF:-1,Eurosport HD
+http://85.14.32.6:8800/udp/239.100.102.2:8888
+#EXTINF:-1,National Geographic HD
+http://85.14.32.6:8800/udp/239.100.102.5:8888
+#EXTINF:-1,Planeta HD
+http://85.14.32.6:8800/udp/239.100.102.8:8888
+#EXTINF:-1,bTV HD
+http://85.14.32.6:8800/udp/239.100.102.9:8888
+#EXTINF:-1,History Channel HD
+http://85.14.32.6:8800/udp/239.100.102.10:8888
+#EXTINF:-1,NG Wild HD
+http://85.14.32.6:8800/udp/239.100.102.11:8888
+#EXTINF:-1,Diema Family
+http://85.14.32.6:8800/udp/239.100.102.20:8888
+#EXTINF:-1,National Geographic
+http://85.14.32.6:8800/udp/239.100.102.21:8888
+#EXTINF:-1,BNT 2
+http://85.14.32.6:8800/udp/239.100.102.23:8888
+#EXTINF:-1,Nova Sport
+http://85.14.32.6:8800/udp/239.100.102.24:8888
+#EXTINF:-1,Eurosport 2
+http://85.14.32.6:8800/udp/239.100.102.25:8888
+#EXTINF:-1,AXN
+http://85.14.32.6:8800/udp/239.100.102.27:8888
+#EXTINF:-1,Skat TV
+http://85.14.32.6:8800/udp/239.100.102.28:8888
+#EXTINF:-1,FOX Life
+http://85.14.32.6:8800/udp/239.100.102.29:8888
+#EXTINF:-1,bTV Cinema
+http://85.14.32.6:8800/udp/239.100.102.31:8888
+#EXTINF:-1,FOX Crime
+http://85.14.32.6:8800/udp/239.100.102.30:8888
+#EXTINF:-1,BiT
+http://85.14.32.6:8800/udp/239.100.102.33:8888
+#EXTINF:-1,bTV Comedy
+http://85.14.32.6:8800/udp/239.100.102.32:8888
+#EXTINF:-1,TLC
+http://85.14.32.6:8800/udp/239.100.102.34:8888
+#EXTINF:-1,bTV Action
+http://85.14.32.6:8800/udp/239.100.102.35:8888
+#EXTINF:-1,RING BG
+http://85.14.32.6:8800/udp/239.100.102.36:8888
+#EXTINF:-1,radio Vitosha E
+http://85.14.32.6:8800/udp/239.100.102.38:8888
+#EXTINF:-1,radio Vitosha W
+http://85.14.32.6:8800/udp/239.100.102.39:8888
+#EXTINF:-1,radio Veselina E
+http://85.14.32.6:8800/udp/239.100.102.40:8888
+#EXTINF:-1,radio Veselina W
+http://85.14.32.6:8800/udp/239.100.102.41:8888
+#EXTINF:-1,radio Magic FM
+http://85.14.32.6:8800/udp/239.100.102.42:8888
+#EXTINF:-1,The Voice
+http://85.14.32.6:8800/udp/239.100.102.43:8888
+#EXTINF:-1,radio Veselina N
+http://85.14.32.6:8800/udp/239.100.102.44:8888
+#EXTINF:-1,radio Veselina S
+http://85.14.32.6:8800/udp/239.100.102.45:8888
+#EXTINF:-1,BNT World
+http://85.14.32.6:8800/udp/239.100.102.46:8888
+#EXTINF:-1,Destination BG
+http://85.14.32.6:8800/udp/239.100.102.50:8888
+#EXTINF:-1,Animal Planet
+http://85.14.32.6:8800/udp/239.100.102.52:8888
+#EXTINF:-1,Perviy Kanal
+http://85.14.32.6:8800/udp/239.100.102.53:8888
+#EXTINF:-1,24 Kitchen
+http://85.14.32.6:8800/udp/239.100.102.54:8888
+#EXTINF:-1,History Channel
+http://85.14.32.6:8800/udp/239.100.102.55:8888
+#EXTINF:-1,MTV Hits
+http://85.14.32.6:8800/udp/239.100.102.56:8888
+#EXTINF:-1,Penthouse
+http://85.14.32.6:8800/udp/239.100.102.57:8888
+#EXTINF:-1,Fine Living
+http://85.14.32.6:8800/udp/239.100.102.58:8888
+#EXTINF:-1,Bulgaria on Air
+http://85.14.32.6:8800/udp/239.100.102.59:8888
+#EXTINF:-1,Eurosport
+http://85.14.32.6:8800/udp/239.100.102.60:8888
+#EXTINF:-1,Disney Junior
+http://85.14.32.6:8800/udp/239.100.102.62:8888
+#EXTINF:-1,Tiankov TV
+http://85.14.32.6:8800/udp/239.100.102.64:8888
+#EXTINF:-1,TV Evropa
+http://85.14.32.6:8800/udp/239.100.102.65:8888
+#EXTINF:-1,Viasat Explorer
+http://85.14.32.6:8800/udp/239.100.102.70:8888
+#EXTINF:-1,Disney Channel
+http://85.14.32.6:8800/udp/239.100.102.71:8888
+#EXTINF:-1,CN
+http://85.14.32.6:8800/udp/239.100.102.72:8888
+#EXTINF:-1,Nick
+http://85.14.32.6:8800/udp/239.100.102.73:8888
+#EXTINF:-1,NG WILD
+http://85.14.32.6:8800/udp/239.100.102.74:8888
+#EXTINF:-1,Alfa TV
+http://85.14.32.6:8800/udp/239.100.102.75:8888
+#EXTINF:-1,FOX
+http://85.14.32.6:8800/udp/239.100.102.76:8888
+#EXTINF:-1,Folklor TV
+http://85.14.32.6:8800/udp/239.100.102.77:8888
+#EXTINF:-1,Kanal 3
+http://85.14.32.6:8800/udp/239.100.102.78:8888
+#EXTINF:-1,FAN TV
+http://85.14.32.6:8800/udp/239.100.102.79:8888
+#EXTINF:-1,ID Xtra
+http://85.14.32.6:8800/udp/239.100.102.80:8888
+#EXTINF:-1,Balkanika
+http://85.14.32.6:8800/udp/239.100.102.81:8888
+#EXTINF:-1,DM Sat
+http://85.14.32.6:8800/udp/239.100.102.82:8888
+#EXTINF:-1,bTV Lady
+http://85.14.32.6:8800/udp/239.100.102.83:8888
+#EXTINF:-1,Planeta Folk
+http://85.14.32.6:8800/udp/239.100.102.86:8888
+#EXTINF:-1,Planeta TV
+http://85.14.32.6:8800/udp/239.100.102.90:8888
+#EXTINF:-1,BNT 1
+http://85.14.32.6:8800/udp/239.100.102.91:8888
+#EXTINF:-1,BNT
+http://85.14.32.6:8800/udp/239.100.102.92:8888
+#EXTINF:-1,bTV
+http://85.14.32.6:8800/udp/239.100.102.93:8888
+#EXTINF:-1,TV Plus
+http://85.14.32.6:8800/udp/239.100.102.94:8888
+#EXTINF:-1,F Plus
+http://85.14.32.6:8800/udp/239.100.102.95:8888
+#EXTINF:-1,NOVA
+http://85.14.32.6:8800/udp/239.100.102.96:8888
+#EXTINF:-1,KinoNova
+http://85.14.32.6:8800/udp/239.100.102.97:8888
+#EXTINF:-1,The Voice
+http://85.14.32.6:8800/udp/239.100.102.99:8888
+#EXTINF:-1,Discovery Channel
+http://85.14.32.6:8800/udp/239.100.102.100:8888
+#EXTINF:-1,Diema
+http://85.14.32.6:8800/udp/239.100.102.101:8888
+#EXTINF:-1,BNT
+http://85.14.32.6:8800/udp/239.100.102.102:8888
+
+
+
+
+
 
 
 
@@ -2224,234 +2108,6 @@ http://144.2.100.111:8000/play/a00b
 
 
 
-#EXTINF:5 group-title=”Italy-LOOP_ONE”,
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,IT: Super!
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/965.ts
-#EXTINF:-1,IT: Super Tennis HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/976.ts
-#EXTINF:-1,IT: Super Calcio HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1457.ts
-#EXTINF:-1,IT: Sport Italia
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/957.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1272.ts
-#EXTINF:-1,IT: Sky Super Calcio HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/973.ts
-#EXTINF:-1,IT: Sky Sports F1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1458.ts
-#EXTINF:-1,IT: Sky Sports 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1459.ts
-#EXTINF:-1,IT: Sky Sports 24 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1460.ts
-#EXTINF:-1,IT: Sky Sports 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1461.ts
-#EXTINF:-1,IT: Sky Sports 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1462.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/975.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/972.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/971.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/970.ts
-#EXTINF:-1,IT: SKY FOX COMEDY HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1456.ts
-#EXTINF:-1,IT: Sky Crime & Investigation
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1285.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1269.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1266.ts
-#EXTINF:-1,IT: Sky Cinema Max  1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1267.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1268.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1265.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1264.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1262.ts
-#EXTINF:-1,IT: Sky Cinema 24 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1261.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1260.ts
-#EXTINF:-1,IT: Sky Calcio 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1259.ts
-#EXTINF:-1,IT: Sky Calcio 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1258.ts
-#EXTINF:-1,IT: Sky Calcio 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1257.ts
-#EXTINF:-1,IT: Sky Calcio 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1256.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1270.ts
-#EXTINF:-1,IT: Sky Arte HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1273.ts
-#EXTINF:-1,IT: Sky 3D
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1274.ts
-#EXTINF:-1,IT: Rsi LA 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/952.ts
-#EXTINF:-1,IT: Roma Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/980.ts
-#EXTINF:-1,IT: Rete 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/951.ts
-#EXTINF:-1,IT: Real Time
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/955.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/947.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/946.ts
-#EXTINF:-1,IT: Rai Premium
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/948.ts
-#EXTINF:-1,IT: Rai Movie
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/950.ts
-#EXTINF:-1,IT: Rai Gulp
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/949.ts
-#EXTINF:-1,IT: Rai 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/945.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/943.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/942.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/941.ts
-#EXTINF:-1,IT: Primafila 6 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1312.ts
-#EXTINF:-1,IT: Primafila 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1308.ts
-#EXTINF:-1,IT: Primafila 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1307.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1449.ts
-#EXTINF:-1,IT: Prima Fila 7 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1448.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1447.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1446.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1445.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1301.ts
-#EXTINF:-1,IT: Premium Stories
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1299.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1304.ts
-#EXTINF:-1,IT: Premium Joi
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1298.ts
-#EXTINF:-1,IT: Premium Energy
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1296.ts
-#EXTINF:-1,IT: Premium Emotion
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1297.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1302.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1303.ts
-#EXTINF:-1,IT: Premium Comedy
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1295.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1292.ts
-#EXTINF:-1,IT: Premium Cinema 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1293.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1300.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1706.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1705.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1704.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1703.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1306.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1305.ts
-#EXTINF:-1,IT: Premium Action 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1294.ts
-#EXTINF:-1,IT: Net Geo People HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1287.ts
-#EXTINF:-1,IT: Nat Geo Wild HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1286.ts
-#EXTINF:-1,IT: Milan Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/979.ts
-#EXTINF:-1,IT: LA 7
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/959.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/960.ts
-#EXTINF:-1,IT: IRIS
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/964.ts
-#EXTINF:-1,IT: Inter Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/978.ts
-#EXTINF:-1,IT: History Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1289.ts
-#EXTINF:-1,IT: Gambero Rosso
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1280.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/977.ts
-#EXTINF:-1,IT: Fox Life
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1275.ts
-#EXTINF:-1,IT: Fox HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1276.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1281.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1278.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1271.ts
-#EXTINF:-1,IT: Fox 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1277.ts
-#EXTINF:-1,IT: Focus
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/962.ts
-#EXTINF:-1,IT: Dmax HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/956.ts
-#EXTINF:-1,IT: Disney XD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/969.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1284.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1283.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1282.ts
-#EXTINF:-1,IT: Crime Investigation HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1412.ts
-#EXTINF:-1,IT: Cielo
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/963.ts
-#EXTINF:-1,IT: Cartoonito
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/968.ts
-#EXTINF:-1,IT: Cartoon Network
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/967.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/958.ts
-#EXTINF:-1,IT: Caccia e Pesca
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1279.ts
-#EXTINF:-1,IT: AXN Sci Fi
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1290.ts
-#EXTINF:-1,IT: Animal Planet
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1288.ts
-#EXTINF:-1,IT: Alice
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/961.ts
-
-
-
-
-
 
 
 
@@ -2493,162 +2149,6 @@ rtmp://str81.creacast.com:80/weo/high
 
 
 
-
-
-
-
-
-
-
-#EXTINF:6 group-title=”France-LOOP_ONE”,
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,FR:HD1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3085.ts
-#EXTINF:-1,FR:CANAL   SERIES
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3093.ts
-#EXTINF:-1,FR:CANAL   CINEMA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3094.ts
-#EXTINF:-1,FR:Action
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3106.ts
-#EXTINF:-1,FR: france  2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1818.ts
-#EXTINF:-1,FR: DISNEY_CINEMA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3777.ts
-#EXTINF:-1,FR: Canal  Sport
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3109.ts
-#EXTINF:-1,FR_FRANCE_3HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1817.ts
-#EXTINF:-1,FR_BFM_Business
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3121.ts
-#EXTINF:-1,FR: Ushuaia TV HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1803.ts
-#EXTINF:-1,FR: TMC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1775.ts
-#EXTINF:-1,FR: RTL 9
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1777.ts
-#EXTINF:-1,FR: Planete  CI HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1783.ts
-#EXTINF:-1,FR: OCS Max
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1816.ts
-#EXTINF:-1,FR: OCS City
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1779.ts
-#EXTINF:-1,FR: Nat Geo
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1781.ts
-#EXTINF:-1,FR: Mangas
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1782.ts
-#EXTINF:-1,FR: M6 Music
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1784.ts
-#EXTINF:-1,FR: L'equipe 21*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1804.ts
-#EXTINF:-1,FR: Cine  Premier
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1785.ts
-#EXTINF:-1,FR: Cine   Emotion HD*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1805.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1786.ts
-#EXTINF:-1,FR: Canal  Sport HD*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1787.ts
-#EXTINF:-1,FR: Canal  Sport HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1792.ts
-#EXTINF:-1,FR: Canal  Frisson
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1788.ts
-#EXTINF:-1,FR: Canal  Famiz HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1789.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1793.ts
-#EXTINF:-1,FR: Canal  Classic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1790.ts
-#EXTINF:-1,FR: Canal   Series HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1791.ts
-#EXTINF:-1,FR: beIN Sport 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1800.ts
-#EXTINF:-1,FR: Action
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1801.ts
-#EXTINF:-1,FR: A LA CARTE 9
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1806.ts
-#EXTINF:-1,FR: A LA CARTE 8
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1807.ts
-#EXTINF:-1,FR: A LA CARTE 7
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1808.ts
-#EXTINF:-1,FR: A LA CARTE 6
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1809.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1810.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1811.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1812.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1813.ts
-#EXTINF:-1,FR: A LA CARTE 10
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1814.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1815.ts
-#EXTINF:-1,FR: 6TER HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1780.ts
-#EXTINF:-1,FR: 13 Rue
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1802.ts
-#EXTINF:-1,FR:Foot 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1482.ts
-#EXTINF:-1,FR:DISNEY CINEMA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1473.ts
-#EXTINF:-1,FR: TF1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1484.ts
-#EXTINF:-1,FR: SCIENCE & VIE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1467.ts
-#EXTINF:-1,FR: PIWI
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1477.ts
-#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1465.ts
-#EXTINF:-1,FR: Nat Geo Wild
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1464.ts
-#EXTINF:-1,FR: M6 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1485.ts
-#EXTINF:-1,FR: GULLI
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1468.ts
-#EXTINF:-1,FR: France 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1486.ts
-#EXTINF:-1,FR: France 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1487.ts
-#EXTINF:-1,FR: France 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1488.ts
-#EXTINF:-1,FR: France 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1489.ts
-#EXTINF:-1,FR: Eurosport 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1490.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1474.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1466.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1480.ts
-#EXTINF:-1,FR: CANAL J
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1476.ts
-#EXTINF:-1,FR: CANAL  HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1463.ts
-#EXTINF:-1,FR: Canal  Cinema HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1491.ts
-#EXTINF:-1,FR: Canal   Decale HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1493.ts
-#EXTINF:-1,FR: Canal
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1492.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1494.ts
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1495.ts
 
 
 
@@ -2831,7 +2331,6 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
 
 
-#EXTINF:8 group-title=”Germany2”,
 
 
 
@@ -2848,149 +2347,6 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Germany-LOOP_ONE”,
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,DE: Sky Select 5HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3527.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3526.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3525.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3524.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3523.ts
-#EXTINF:-1,DE: History HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3522.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3529.ts
-#EXTINF:-1,DE: 3sat HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3373.ts
-#EXTINF:-1,GER: Sky Romance TV HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2957.ts
-#EXTINF:-1,GER: SKY Germany - TNT Serie HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2954.ts
-#EXTINF:-1,GER: SKY Germany - Disney Cinemagic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2975.ts
-#EXTINF:-1,GER: MGM HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2944.ts
-#EXTINF:-1,DE: ZDF HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3327.ts
-#EXTINF:-1,DE: WDR HD Aachen
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3342.ts
-#EXTINF:-1,DE: VOX HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3337.ts
-#EXTINF:-1,DE: VIVA/Comedy
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3338.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3339.ts
-#EXTINF:-1,DE: TNT Film
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3340.ts
-#EXTINF:-1,DE: Super RTL HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3341.ts
-#EXTINF:-1,DE: Sport1   HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3363.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3364.ts
-#EXTINF:-1,DE: Sky Sport News
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3333.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3334.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3335.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3329.ts
-#EXTINF:-1,DE: Sky Emotion
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3330.ts
-#EXTINF:-1,DE: Sky Comedy
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3331.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3332.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3336.ts
-#EXTINF:-1,DE: Sky Action HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3328.ts
-#EXTINF:-1,DE: SIXX HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3343.ts
-#EXTINF:-1,DE: Sat.1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3344.ts
-#EXTINF:-1,DE: RTL Passion
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3345.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3346.ts
-#EXTINF:-1,DE: RTL HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3347.ts
-#EXTINF:-1,DE: RTL Crime
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3348.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3349.ts
-#EXTINF:-1,DE: ProSieben Maxx HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3350.ts
-#EXTINF:-1,DE: ProSieben HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3351.ts
-#EXTINF:-1,DE: ProSieben FUN HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3352.ts
-#EXTINF:-1,DE: ORF 2N HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3353.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3354.ts
-#EXTINF:-1,DE: NDR HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3355.ts
-#EXTINF:-1,DE: NatGeo HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3356.ts
-#EXTINF:-1,DE: N24 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3357.ts
-#EXTINF:-1,DE: n-tv HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3358.ts
-#EXTINF:-1,DE: Motorvision TV
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3359.ts
-#EXTINF:-1,DE: KIKA HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3360.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3361.ts
-#EXTINF:-1,DE: HR HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3362.ts
-#EXTINF:-1,DE: Eurosport HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3365.ts
-#EXTINF:-1,DE: Disney HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3366.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3367.ts
-#EXTINF:-1,DE: Das Erste HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3368.ts
-#EXTINF:-1,DE: AXN HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3369.ts
-#EXTINF:-1,DE: ATV
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3370.ts
-#EXTINF:-1,DE: arte HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3371.ts
-#EXTINF:-1,DE: Anixe HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3372.ts
 
 
 
@@ -4208,315 +3564,6 @@ http://91.139.196.72:8030/play/a02p
 http://91.139.196.72:8030/play/a02w
 
 
-
-
-
-
-
-
-
-#EXTINF:4 group-title=”Portugal-LOOP_ONE”,
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:0,PT: RTP1
-http://newtv.dyndns.org:25461/live/toze/moreira/1.ts
-#EXTINF:0,PT: RTP2
-http://newtv.dyndns.org:25461/live/toze/moreira/2.ts
-#EXTINF:0,PT: SIC
-http://newtv.dyndns.org:25461/live/toze/moreira/3.ts
-#EXTINF:0,PT: TVI
-http://newtv.dyndns.org:25461/live/toze/moreira/4.ts
-#EXTINF:0,PT: Porto Canal
-http://newtv.dyndns.org:25461/live/toze/moreira/118.ts
-#EXTINF:0,PT: RTP 3 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/117.ts
-#EXTINF:0,PT: RTP Africa
-http://newtv.dyndns.org:25461/live/toze/moreira/122.ts
-#EXTINF:0,PT: RTP Memoria
-http://newtv.dyndns.org:25461/live/toze/moreira/121.ts
-#EXTINF:0,PT: SIC Caras
-http://newtv.dyndns.org:25461/live/toze/moreira/123.ts
-#EXTINF:0,PT: SIC Kids
-http://newtv.dyndns.org:25461/live/toze/moreira/119.ts
-#EXTINF:0,PT: TVI 24
-http://newtv.dyndns.org:25461/live/toze/moreira/6.ts
-#EXTINF:0,PT: SIC NOTICIAS
-http://newtv.dyndns.org:25461/live/toze/moreira/5.ts
-#EXTINF:0,PT: CmTV
-http://newtv.dyndns.org:25461/live/toze/moreira/7.ts
-#EXTINF:0,PT: TVI Reality
-http://newtv.dyndns.org:25461/live/toze/moreira/62.ts
-#EXTINF:0,PT: TVI Ficção
-http://newtv.dyndns.org:25461/live/toze/moreira/63.ts
-#EXTINF:0,PT: TV Cine 1
-http://newtv.dyndns.org:25461/live/toze/moreira/8.ts
-#EXTINF:0,PT: TV Cine 2
-http://newtv.dyndns.org:25461/live/toze/moreira/9.ts
-#EXTINF:0,PT: TV Cine 3
-http://newtv.dyndns.org:25461/live/toze/moreira/10.ts
-#EXTINF:0,PT: TV Cine 4
-http://newtv.dyndns.org:25461/live/toze/moreira/11.ts
-#EXTINF:0,PT: TV Series
-http://newtv.dyndns.org:25461/live/toze/moreira/124.ts
-#EXTINF:0,PT: Hollywood HD
-http://newtv.dyndns.org:25461/live/toze/moreira/75.ts
-#EXTINF:0,PT: MOV HD
-http://newtv.dyndns.org:25461/live/toze/moreira/72.ts
-#EXTINF:0,PT: SyFy HD
-http://newtv.dyndns.org:25461/live/toze/moreira/67.ts
-#EXTINF:0,PT: AXN BLACK HD
-http://newtv.dyndns.org:25461/live/toze/moreira/248.ts
-#EXTINF:0,PT: AXN HD
-http://newtv.dyndns.org:25461/live/toze/moreira/246.ts
-#EXTINF:0,PT: AXN WHITE HD
-http://newtv.dyndns.org:25461/live/toze/moreira/247.ts
-#EXTINF:0,PT: CINEMUNDO
-http://newtv.dyndns.org:25461/live/toze/moreira/244.ts
-#EXTINF:0,PT: FOX HD
-http://newtv.dyndns.org:25461/live/toze/moreira/61.ts
-#EXTINF:0,PT: FOX COMEDY HD
-http://newtv.dyndns.org:25461/live/toze/moreira/250.ts
-#EXTINF:0,PT: FOX CRIME HD
-http://newtv.dyndns.org:25461/live/toze/moreira/249.ts
-#EXTINF:0,PT: Fox Live HD
-http://newtv.dyndns.org:25461/live/toze/moreira/251.ts
-#EXTINF:0,PT: FOX MOVIES
-http://newtv.dyndns.org:25461/live/toze/moreira/245.ts
-#EXTINF:0,PT: SPORTTV 1
-http://newtv.dyndns.org:25461/live/toze/moreira/12.ts
-#EXTINF:0,PT: SPORT TV 1 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/13.ts
-#EXTINF:0,PT: SportTV 2
-http://newtv.dyndns.org:25461/live/toze/moreira/14.ts
-#EXTINF:0,PT: SPORT TV 2 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/15.ts
-#EXTINF:0,PT: SportTV 3
-http://newtv.dyndns.org:25461/live/toze/moreira/16.ts
-#EXTINF:0,PT: SPORT TV 3 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/125.ts
-#EXTINF:0,PT: SportTV 4
-http://newtv.dyndns.org:25461/live/toze/moreira/17.ts
-#EXTINF:0,PT: SPORT TV 4 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/18.ts
-#EXTINF:0,PT: SPORT TV 5
-http://newtv.dyndns.org:25461/live/toze/moreira/19.ts
-#EXTINF:0,PT: SPORT TV 5 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/126.ts
-#EXTINF:0,PT: SPORT TV + HD
-http://newtv.dyndns.org:25461/live/toze/moreira/20.ts
-#EXTINF:0,PT: BTV1
-http://newtv.dyndns.org:25461/live/toze/moreira/21.ts
-#EXTINF:0,PT: BTV 1 HD
-http://newtv.dyndns.org:25461/live/toze/moreira/22.ts
-#EXTINF:0,PT: Sporting TV HD
-http://newtv.dyndns.org:25461/live/toze/moreira/66.ts
-#EXTINF:0,PT: PFC
-http://newtv.dyndns.org:25461/live/toze/moreira/68.ts
-#EXTINF:0,PT: Eurosport HD
-http://newtv.dyndns.org:25461/live/toze/moreira/76.ts
-#EXTINF:0,PT: Eurosport 2 Extra
-http://newtv.dyndns.org:25461/live/toze/moreira/475.ts
-#EXTINF:0,PT: A BOLA
-http://newtv.dyndns.org:25461/live/toze/moreira/24.ts
-#EXTINF:0,PT: Toros TV
-http://newtv.dyndns.org:25461/live/toze/moreira/78.ts
-#EXTINF:0,PT: Disney Channel
-http://newtv.dyndns.org:25461/live/toze/moreira/64.ts
-#EXTINF:0,PT: Disney Junior
-http://newtv.dyndns.org:25461/live/toze/moreira/65.ts
-#EXTINF:0,PT: Nickelodeon
-http://newtv.dyndns.org:25461/live/toze/moreira/70.ts
-#EXTINF:0,PT: Panda Biggs
-http://newtv.dyndns.org:25461/live/toze/moreira/69.ts
-#EXTINF:0,PT: Canal Panda
-http://newtv.dyndns.org:25461/live/toze/moreira/26.ts
-#EXTINF:0,PT: Cartoon Network Portugal
-http://newtv.dyndns.org:25461/live/toze/moreira/27.ts
-#EXTINF:0,PT: DISCOVERY
-http://newtv.dyndns.org:25461/live/toze/moreira/253.ts
-#EXTINF:0,PT: Discovery Showcase
-http://newtv.dyndns.org:25461/live/toze/moreira/254.ts
-#EXTINF:0,PT: HISTORIA
-http://newtv.dyndns.org:25461/live/toze/moreira/255.ts
-#EXTINF:0,PT: National Geographic Channel
-http://newtv.dyndns.org:25461/live/toze/moreira/71.ts
-#EXTINF:0,PT: NAT GEO WILD
-http://newtv.dyndns.org:25461/live/toze/moreira/252.ts
-#EXTINF:0,PT: MCM POP
-http://newtv.dyndns.org:25461/live/toze/moreira/28.ts
-#EXTINF:0,PT: MTV PORTUGAL
-http://newtv.dyndns.org:25461/live/toze/moreira/261.ts
-#EXTINF:0,PT: VEVO 1
-http://newtv.dyndns.org:25461/live/toze/moreira/260.ts
-#EXTINF:0,PT: VEVO 2
-http://newtv.dyndns.org:25461/live/toze/moreira/259.ts
-#EXTINF:0,PT: VEVO 3
-http://newtv.dyndns.org:25461/live/toze/moreira/258.ts
-#EXTINF:0,PT: VH1
-http://newtv.dyndns.org:25461/live/toze/moreira/256.ts
-#EXTINF:0,PT: VH1 CLASSIC
-http://newtv.dyndns.org:25461/live/toze/moreira/257.ts
-#EXTINF:0,PT: Trace Urban
-http://newtv.dyndns.org:25461/live/toze/moreira/59.ts
-#EXTINF:0,PT: Odisseia
-http://newtv.dyndns.org:25461/live/toze/moreira/23.ts
-#EXTINF:0,PT: Caça e Pesca
-http://newtv.dyndns.org:25461/live/toze/moreira/73.ts
-#EXTINF:0,PT: CaçaVision
-http://newtv.dyndns.org:25461/live/toze/moreira/74.ts
-#EXTINF:0,PT: Globo
-http://newtv.dyndns.org:25461/live/toze/moreira/77.ts
-#EXTINF:0,PT: Globo Premium
-http://newtv.dyndns.org:25461/live/toze/moreira/474.ts
-#EXTINF:0,PT: TV Record
-http://newtv.dyndns.org:25461/live/toze/moreira/60.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:4 group-title=”Portugal2-LOOP_ONE”,
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-
-#EXTINF:-1,PT: Porto Canal
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3544.ts
-#EXTINF:-1,PT: CMTV
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3555.ts
-#EXTINF:-1,PT: TVI REALITY
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1868.ts
-#EXTINF:-1,PT: TVI Ficcao
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1880.ts
-#EXTINF:-1,PT: TVI 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1867.ts
-#EXTINF:-1,PT: TVI
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1869.ts
-#EXTINF:-1,PT: TVCine 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1881.ts
-#EXTINF:-1,PT: TVCine 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1883.ts
-#EXTINF:-1,PT: TVCine 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1884.ts
-#EXTINF:-1,PT: TVCine 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1885.ts
-#EXTINF:-1,PT: TV SERIES
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1870.ts
-#EXTINF:-1,PT: TV RECORD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1871.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1872.ts
-#EXTINF:-1,PT: TV Globo
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1873.ts
-#EXTINF:-1,PT: TV CINE 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1882.ts
-#EXTINF:-1,PT: Toros tv
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1864.ts
-#EXTINF:-1,PT: TLC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1899.ts
-#EXTINF:-1,PT: SYFY
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1874.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1865.ts
-#EXTINF:-1,PT: Sic Radical
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1890.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1886.ts
-#EXTINF:-1,PT: Sic Mulher
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1887.ts
-#EXTINF:-1,PT: SIC KIDS
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1888.ts
-#EXTINF:-1,PT: SIC Caras
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1866.ts
-#EXTINF:-1,PT: SIC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1889.ts
-#EXTINF:-1,PT: RTP3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1894.ts
-#EXTINF:-1,PT: RTP Memoria
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1891.ts
-#EXTINF:-1,PT: RTP Madeira
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1892.ts
-#EXTINF:-1,PT: RTP 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1895.ts
-#EXTINF:-1,PT: Record
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1897.ts
-#EXTINF:-1,PT: ODISSEIA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1900.ts
-#EXTINF:-1,PT: NICKELODEON
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1901.ts
-#EXTINF:-1,PT: NAT GEO HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1902.ts
-#EXTINF:-1,PT: Hollywood
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1875.ts
-#EXTINF:-1,PT: HISTORIA HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1903.ts
-#EXTINF:-1,PT: FOX LIFE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1910.ts
-#EXTINF:-1,PT: FOX HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1912.ts
-#EXTINF:-1,PT: Fox Comedy
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1911.ts
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1904.ts
-#EXTINF:-1,PT: Disney Junior
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1906.ts
-#EXTINF:-1,PT: Disney Channel
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1876.ts
-#EXTINF:-1,PT: CM TV
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1877.ts
-#EXTINF:-1,PT: Canal Porto
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1905.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1878.ts
-#EXTINF:-1,PT: AXN WHITE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1913.ts
-#EXTINF:-1,PT: AXN HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1915.ts
-#EXTINF:-1,PT: AXN BLACK
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1914.ts
-#EXTINF:-1,PT: Abola tv
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1916.ts
-#EXTINF:-1,PT: A BOLA TV
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1879.ts
-#EXTINF:-1,PT: Sport TV 4 SD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3986.ts
-#EXTINF:-1,PT: Sport TV 3 sd
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3985.ts
-#EXTINF:-1,PT: Sport TV 2 SD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3984.ts
-#EXTINF:-1,PT: SPORT TV 1 sd
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3983.ts
 
 
 
