@@ -94,7 +94,7 @@ http://bit.ly/ert3gr1
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3
 http://bit.ly/ert3gr2
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV
-https://www.youtube.com/watch?v=ECbJrjrcCUE
+https://www.youtube.com/watch?v=O3Hs5AZqi4U
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://vignette2.wikia.nocookie.net/logopedia/images/0/02/ERT-HD-logo-570.jpg ,ERT HD
@@ -106,11 +106,11 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1000_av-p.m3u8?sd=10
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (MxPlayer)
 http://bit.ly/megagr1
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
-https://www.youtube.com/watch?v=2Y8qsS_xH2Y
+https://www.youtube.com/watch?v=tug1qABlQ-M
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (MxPlayer)
 http://bit.ly/skaigr1
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
-https://www.youtube.com/watch?v=2zPkNIwfFYA
+https://www.youtube.com/watch?v=C2S9jWq6SRM
 #EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (MxPlayer)
 http://bit.ly/alphagr1
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
@@ -154,11 +154,9 @@ http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/WSfOWs ,NEA
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/xAKXNn1.png ,FLASH TV
-https://www.youtube.com/watch?v=Fcomx2jV1Cw
+http://www.dailymotion.com/video/x5d9lwu_flashtv_people
 #EXTINF:-1 tvg-logo=http://i.imgur.com/GdgekUL.png ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/erIcOfO.png ,DRAMA TV
-https://www.youtube.com/watch?v=rOBW6DJwlv0
 #EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,MAKEDONIA / M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 tvg-name="Κρήτη TV" epg-id=KritiTV.gr tvg-logo=https://goo.gl/BnX9DJ ,KRHTHTV
@@ -170,7 +168,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-name="Kontra Channel" epg-id=KontraEN.gr tvg-logo=https://goo.gl/S96RUr ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ENA.PNG ,ENA
-https://www.youtube.com/watch?v=K2kL-dvpjNs
+https://www.youtube.com/watch?v=OD4np_3szmo
 #EXTINF:-1 tvg-logo=https://goo.gl/3EsuCz ,AIGAIO
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/mNqHoo ,AXELOOS
@@ -180,7 +178,7 @@ http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/nYsDIa ,ASTRA
 rtmp://www.astratv.gr:1935/astratv/livestream
 #EXTINF:-1 tvg-logo=http://i.imgur.com/lFa1KuV.gif ,SUPER B
-https://www.youtube.com/watch?v=kgzoqnTmssY
+https://www.youtube.com/watch?v=_inRNwfm5mY
 #EXTINF:-1 tvg-logo=https://goo.gl/QMXKek ,EURONEWS
 https://www.youtube.com/watch?v=iVp0HDyFlVo
 #EXTINF:-1 tvg-logo=https://goo.gl/aVVUtg ,TV1
