@@ -476,253 +476,6 @@ http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0, Animal Planet (Documentary) (US) (English)
-http://144.217.68.106/live/lqySiTLSYjGIAMkWdtPv4Q/1498124966/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
-#EXTINF:0, BravoTv (Entertainment) (US) (English)
-http://144.217.68.106/live/EN4qh2E67qKCvAuIWUR5Lg/1498125702/582b19f3ef5459a2f139ec69ee2053d0.m3u8 
-#EXTINF:0, Discovery Channel (Top10) (US) (English)
-http://149.56.27.145/live/kgmJlZCXXpfvmRu_hvve_A/1498125914/075d66993151c178df1ed9840202d983.m3u8 
-#EXTINF:0, Discovery Channel (Documentary) (US) (English)
-http://144.217.68.106/live/egNVtu4IuLKltxPrxaXcpw/1498124967/075d66993151c178df1ed9840202d983.m3u8 
-#EXTINF:0, National Geographic Channel (Top10) (US) (English)
-http://144.217.68.106/live/6E774ahlAz9iolaj9dQplQ/1498125660/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 
-#EXTINF:0, National Geographic (Documentary) (US) (English)
-http://144.217.68.106/live/E-hYkLJKxS5Wvp25UR9emQ/1498124969/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
-#EXTINF:0, Nickelodeon (Top10) (US) (English)
-http://149.56.27.145/live/km70yd59C8rkICJgx6YY0A/1498125662/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 
-#EXTINF:0, Nickelodeon (Family) (US) (English)
-http://144.217.68.106/live/DWGjxdJtj3xvtPPn500PlA/1498124987/a55d7c24a00915235cdc6a6ddaaaf67b.m3u83u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:3 group-title=”USA2”, 
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:LIMITED
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,FREE USERS
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Retry If 
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Failed to LOAD
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:-1,NBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts 
-#EXTINF:-1,A&E
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/2.mpegts 
-#EXTINF:-1,AMC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/3.mpegts 
-#EXTINF:-1,ABC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/4.mpegts 
-#EXTINF:-1,E!
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/5.mpegts 
-#EXTINF:-1,FOX
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/6.mpegts 
-#EXTINF:-1,SYFY 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/7.mpegts 
-#EXTINF:-1,SPIKE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/8.mpegts 
-#EXTINF:-1,TBS
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/9.mpegts 
-#EXTINF:-1,TNT
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/10.mpegts 
-#EXTINF:-1,HBO canada
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/11.mpegts 
-#EXTINF:-1,LMN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/12.mpegts 
-#EXTINF:-1,HallMark Channel
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/13.mpegts 
-#EXTINF:-1,TruTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts 
-#EXTINF:-1,OWN 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts 
-#EXTINF:-1,BBC AMERICA
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/16.mpegts 
-#EXTINF:-1,CITY TV 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/17.mpegts 
-#EXTINF:-1,CTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/18.mpegts 
-#EXTINF:-1,Comedy Central 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/19.mpegts 
-#EXTINF:-1,Lifetime
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/20.mpegts 
-#EXTINF:-1,CBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/21.mpegts 
-#EXTINF:-1,HBO
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/22.mpegts 
-#EXTINF:-1,HBO 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/23.mpegts 
-#EXTINF:-1,HBO COMEDY
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/24.mpegts 
-#EXTINF:-1,HBO ZONE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/25.mpegts 
-#EXTINF:-1,HBO SIGNATURE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/26.mpegts 
-#EXTINF:-1,HBO FAMILY
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/27.mpegts 
-#EXTINF:-1,SHOWTIME
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/28.mpegts 
-#EXTINF:-1,SHOWTIME 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/29.mpegts 
-#EXTINF:-1,SHOWTIME SHOWCASE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/30.mpegts 
-#EXTINF:-1,Starz East
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/31.mpegts 
-#EXTINF:-1,Starz West
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/32.mpegts 
-#EXTINF:-1,Startz Edge
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/33.mpegts 
-#EXTINF:-1,Starz Cinema
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/34.mpegts 
-#EXTINF:-1,Starz Encore
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/35.mpegts 
-#EXTINF:-1,Starz Comedy
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/36.mpegts 
-#EXTINF:-1,Starz N Black
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/37.mpegts 
-#EXTINF:-1,Starz Encode Western
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/38.mpegts 
-#EXTINF:-1,Cinemax East
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/39.mpegts 
-#EXTINF:-1,Cinemax 5 StarMax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/40.mpegts 
-#EXTINF:-1,Cinemax ActionMax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/41.mpegts 
-#EXTINF:-1,Cinemax Moremax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/42.mpegts 
-#EXTINF:-1,Space
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/43.mpegts 
-#EXTINF:-1,The Movie Channel
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/44.mpegts 
-#EXTINF:-1,ESPN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/45.mpegts 
-#EXTINF:-1,ESPN 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/46.mpegts 
-#EXTINF:-1,ESPN NU
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/47.mpegts 
-#EXTINF:-1,NBC SN 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/48.mpegts 
-#EXTINF:-1,CBS SN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/49.mpegts 
-#EXTINF:-1,Fox Sports 1
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts 
-#EXTINF:-1,Fox Sports 2 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/51.mpegts 
-#EXTINF:-1,NBA TV 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/52.mpegts 
-#EXTINF:-1,MLB Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/53.mpegts 
-#EXTINF:-1,NFL Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/54.mpegts 
-#EXTINF:-1,NFL Now
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/55.mpegts 
-#EXTINF:-1,NHL
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/56.mpegts 
-#EXTINF:-1,WWE Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/57.mpegts 
-#EXTINF:-1,TSN1
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/58.mpegts 
-#EXTINF:-1,TSN 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/59.mpegts 
-#EXTINF:-1,TSN 3
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/60.mpegts 
-#EXTINF:-1,TSN4
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/61.mpegts 
-#EXTINF:-1,TSN5
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/62.mpegts 
-#EXTINF:-1,SPORTSNET ONE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/63.mpegts 
-#EXTINF:-1,SPORTSNET ONTARIO
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/64.mpegts 
-#EXTINF:-1,SPORTS WORLD
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/65.mpegts 
-#EXTINF:-1,SPORTSNET 360
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/66.mpegts 
-#EXTINF:-1,SPORTSNET PACIFIC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/67.mpegts 
-#EXTINF:-1,CNN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts 
-#EXTINF:-1,CBC News
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/69.mpegts 
-#EXTINF:-1,CNBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/70.mpegts 
-#EXTINF:-1,MSNBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/71.mpegts 
-#EXTINF:-1,FOX NEWS
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/72.mpegts 
-#EXTINF:-1,ABC NEWS
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/73.mpegts 
-#EXTINF:-1,Fox Business
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/74.mpegts 
-#EXTINF:-1,History
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/75.mpegts 
-#EXTINF:-1,H2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/76.mpegts 
-#EXTINF:-1,National Geographic
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/77.mpegts 
-#EXTINF:-1,Nat Geo Wild
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/78.mpegts 
-#EXTINF:-1,Animal Planet
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/79.mpegts 
-#EXTINF:-1,Investigation Discovery
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/80.mpegts 
-#EXTINF:-1,Velocity
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/81.mpegts 
-#EXTINF:-1,Love Nature
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/82.mpegts 
-#EXTINF:-1,Food Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/83.mpegts 
-#EXTINF:-1,HGTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/84.mpegts 
-#EXTINF:-1,DYI Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/85.mpegts 
-#EXTINF:-1,Bravo
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
-#EXTINF:-1,Super Channel 1 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/87.mpegts 
-#EXTINF:-1,Super Channel 3 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/89.mpegts 
-#EXTINF:-1,FreeForm 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/91.mpegts 
-#EXTINF:-1,Comedy Canada 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/92.mpegts 
-#EXTINF:-1,ABC Spark 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/93.mpegts 
-#EXTINF:-1,Slice TV 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/94.mpegts 
-#EXTINF:-1,Showcase Canada 
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
-
-
-
-
-
-
 
 
 
@@ -862,6 +615,335 @@ http://thepk.co:2095/live/husham/isaplayer/1125.ts
 http://thepk.co:2095/live/husham/isaplayer/1123.ts
 #EXTINF:-1,NatGeo Wild Latinoamerica
 http://thepk.co:2095/live/husham/isaplayer/1094.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”USA2”, 
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:LIMITED
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,FREE USERS
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Retry If 
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Failed to LOAD
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+
+#EXTINF:-1,NBC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts 
+#EXTINF:-1,A&E
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/2.mpegts 
+#EXTINF:-1,AMC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/3.mpegts 
+#EXTINF:-1,ABC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/4.mpegts 
+#EXTINF:-1,E!
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/5.mpegts 
+#EXTINF:-1,FOX
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/6.mpegts 
+#EXTINF:-1,SYFY 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/7.mpegts 
+#EXTINF:-1,SPIKE
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/8.mpegts 
+#EXTINF:-1,TBS
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/9.mpegts 
+#EXTINF:-1,TNT
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/10.mpegts 
+#EXTINF:-1,HBO canada
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/11.mpegts 
+#EXTINF:-1,LMN
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/12.mpegts 
+#EXTINF:-1,HallMark Channel
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/13.mpegts 
+#EXTINF:-1,TruTV
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts 
+#EXTINF:-1,OWN 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts 
+#EXTINF:-1,BBC AMERICA
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/16.mpegts 
+#EXTINF:-1,CITY TV 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/17.mpegts 
+#EXTINF:-1,CTV
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/18.mpegts 
+#EXTINF:-1,Comedy Central 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/19.mpegts 
+#EXTINF:-1,Lifetime
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/20.mpegts 
+#EXTINF:-1,CBC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/21.mpegts 
+#EXTINF:-1,HBO
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/22.mpegts 
+#EXTINF:-1,HBO 2
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/23.mpegts 
+#EXTINF:-1,HBO COMEDY
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/24.mpegts 
+#EXTINF:-1,HBO ZONE
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/25.mpegts 
+#EXTINF:-1,HBO SIGNATURE
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/26.mpegts 
+#EXTINF:-1,HBO FAMILY
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/27.mpegts 
+#EXTINF:-1,SHOWTIME
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/28.mpegts 
+#EXTINF:-1,SHOWTIME 2
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/29.mpegts 
+#EXTINF:-1,SHOWTIME SHOWCASE
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/30.mpegts 
+#EXTINF:-1,Starz East
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/31.mpegts 
+#EXTINF:-1,Starz West
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/32.mpegts 
+#EXTINF:-1,Startz Edge
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/33.mpegts 
+#EXTINF:-1,Starz Cinema
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/34.mpegts 
+#EXTINF:-1,Starz Encore
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/35.mpegts 
+#EXTINF:-1,Starz Comedy
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/36.mpegts 
+#EXTINF:-1,Starz N Black
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/37.mpegts 
+#EXTINF:-1,Starz Encode Western
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/38.mpegts 
+#EXTINF:-1,Cinemax East
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/39.mpegts 
+#EXTINF:-1,Cinemax 5 StarMax
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/40.mpegts 
+#EXTINF:-1,Cinemax ActionMax
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/41.mpegts 
+#EXTINF:-1,Cinemax Moremax
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/42.mpegts 
+#EXTINF:-1,Space
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/43.mpegts 
+#EXTINF:-1,The Movie Channel
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/44.mpegts 
+#EXTINF:-1,ESPN
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/45.mpegts 
+#EXTINF:-1,ESPN 2
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/46.mpegts 
+#EXTINF:-1,ESPN NU
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/47.mpegts 
+#EXTINF:-1,NBC SN 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/48.mpegts 
+#EXTINF:-1,CBS SN
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/49.mpegts 
+#EXTINF:-1,Fox Sports 1
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts 
+#EXTINF:-1,Fox Sports 2 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/51.mpegts 
+#EXTINF:-1,NBA TV 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/52.mpegts 
+#EXTINF:-1,MLB Network
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/53.mpegts 
+#EXTINF:-1,NFL Network
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/54.mpegts 
+#EXTINF:-1,NFL Now
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/55.mpegts 
+#EXTINF:-1,NHL
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/56.mpegts 
+#EXTINF:-1,WWE Network
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/57.mpegts 
+#EXTINF:-1,TSN1
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/58.mpegts 
+#EXTINF:-1,TSN 2
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/59.mpegts 
+#EXTINF:-1,TSN 3
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/60.mpegts 
+#EXTINF:-1,TSN4
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/61.mpegts 
+#EXTINF:-1,TSN5
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/62.mpegts 
+#EXTINF:-1,SPORTSNET ONE
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/63.mpegts 
+#EXTINF:-1,SPORTSNET ONTARIO
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/64.mpegts 
+#EXTINF:-1,SPORTS WORLD
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/65.mpegts 
+#EXTINF:-1,SPORTSNET 360
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/66.mpegts 
+#EXTINF:-1,SPORTSNET PACIFIC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/67.mpegts 
+#EXTINF:-1,CNN
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts 
+#EXTINF:-1,CBC News
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/69.mpegts 
+#EXTINF:-1,CNBC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/70.mpegts 
+#EXTINF:-1,MSNBC
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/71.mpegts 
+#EXTINF:-1,FOX NEWS
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/72.mpegts 
+#EXTINF:-1,ABC NEWS
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/73.mpegts 
+#EXTINF:-1,Fox Business
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/74.mpegts 
+#EXTINF:-1,History
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/75.mpegts 
+#EXTINF:-1,H2
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/76.mpegts 
+#EXTINF:-1,National Geographic
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/77.mpegts 
+#EXTINF:-1,Nat Geo Wild
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/78.mpegts 
+#EXTINF:-1,Animal Planet
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/79.mpegts 
+#EXTINF:-1,Investigation Discov
+#EXTVLCOPT:network-caching=3000ery
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/80.mpegts 
+#EXTINF:-1,Velocity
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/81.mpegts 
+#EXTINF:-1,Love Nature
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/82.mpegts 
+#EXTINF:-1,Food Network
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/83.mpegts 
+#EXTINF:-1,HGTV
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/84.mpegts 
+#EXTINF:-1,DYI Network
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/85.mpegts 
+#EXTINF:-1,Bravo
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
+#EXTINF:-1,Super Channel 1 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/87.mpegts 
+#EXTINF:-1,Super Channel 3 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/89.mpegts 
+#EXTINF:-1,FreeForm 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/91.mpegts 
+#EXTINF:-1,Comedy Canada 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/92.mpegts 
+#EXTINF:-1,ABC Spark 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/93.mpegts 
+#EXTINF:-1,Slice TV 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/94.mpegts 
+#EXTINF:-1,Showcase Canada 
+#EXTVLCOPT:network-caching=3000
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
+
+
+
+
+
+
+
+
+
 
 
 
