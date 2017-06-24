@@ -1029,6 +1029,23 @@ http://streams.tvknob.com/tvloops/CH6/ch6.wsx
 http://www.scgov.net/appVideo/scgovtv.asx
 #EXTINF:0,University of California TV
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,Brit Asia TV 
+http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
+#EXTINF:-1,Clubbing TV 
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
+#EXTINF:-1,Zing 
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1050,28 +1067,6 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
 
 #EXTINF:3 group-title=”UK2”, 
-
-
-
-#EXTINF:-1,Brit Asia TV 
-http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
-#EXTINF:-1,Clubbing TV 
-http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
-#EXTINF:-1,Zing 
-http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:3 group-title=”UK3”, 
 
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:SERVER
 http://.....
@@ -1207,6 +1202,397 @@ http://37.26.105.7:8006/play/a00t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK3-Russian”, 
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:DUAL
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,LANGUAGE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,RUSSIAN-ENGLISH
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:0,MTV Hits
+http://213.59.140.181:9999/play/MTV_Hits
+#EXTINF:0,MTV Rocks
+http://213.59.140.181:9999/play/MTV_Rocks
+#EXTINF:0,MTV Dance
+http://213.59.140.181:9999/play/MTV_Dance
+#EXTINF:0,Spike
+http://213.59.140.181:9999/play/Spike
+#EXTINF:0,Viasat Nature
+http://213.59.140.181:9999/play/Viasat_Nature
+#EXTINF:0,Travel+Adventure HD
+http://213.59.140.181:9999/play/Travel-Adventure_HD
+#EXTINF:0,Viasat Nature/History HD
+http://213.59.140.181:9999/play/Viasat_Nature-History_HD
+#EXTINF:0,Fashion One HD
+http://213.59.140.181:9999/play/Fashion_One_HD
+#EXTINF:0,Fox Life HD
+http://213.59.140.181:9999/play/Fox_Life_HD
+#EXTINF:0,National Geographic HD
+http://213.59.140.181:9999/play/National_Geographic_HD
+#EXTINF:0,Nick Jr
+http://213.59.140.181:9999/play/Nick_Jr
+#EXTINF:0,Eurosport 1 HD
+http://213.59.140.181:9999/play/Eurosport_1_HD
+#EXTINF:0,Eurosport 2 HD
+http://213.59.140.181:9999/play/Eurosport_2_HD
+#EXTINF:0,History HD
+http://213.59.140.181:9999/play/History_HD
+#EXTINF:0,Cartoon Network
+http://213.59.140.181:9999/play/Cartoon_Network
+#EXTINF:0,Trace Urban HD
+http://213.59.140.181:9999/play/Trace_Urban_HD
+#EXTINF:0,Nickelodeon_HD
+http://213.59.140.181:9999/play/Nickelodeon_HD
+#EXTINF:0,English Club TV
+http://213.59.140.181:9999/play/English_Club_TV
+#EXTINF:0,DTX
+http://213.59.140.181:9999/play/DTX
+#EXTINF:0,Nickelodeon
+http://213.59.140.181:9999/play/Nickelodeon
+#EXTINF:0,CBS Drama
+http://213.59.140.181:9999/play/CBS_Drama
+#EXTINF:0,Viasat History
+http://213.59.140.181:9999/play/Viasat_History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”UK-LOOP_ONE”,
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,UK | 3e
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3478.ts
+#EXTINF:-1,UK | 5 Star
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3479.ts
+#EXTINF:-1,UK | 5 USA
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3480.ts
+#EXTINF:-1,UK | Alibi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3481.ts
+#EXTINF:-1,UK | Animal Planet
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3482.ts
+#EXTINF:-1,UK | At The Races
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3483.ts
+#EXTINF:-1,UK | Baby TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3484.ts
+#EXTINF:-1,UK | BBC 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3485.ts
+#EXTINF:-1,UK | BBC 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3486.ts
+#EXTINF:-1,UK | BBC 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3487.ts
+#EXTINF:-1,UK | BBC 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3488.ts
+#EXTINF:-1,UK | BBC Entertainment
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3489.ts
+#EXTINF:-1,UK | BBC World News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3490.ts
+#EXTINF:-1,UK | Bloomberg
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3491.ts
+#EXTINF:-1,UK | Boomerang
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3492.ts
+#EXTINF:-1,UK | Boxnation
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3493.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3494.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3495.ts
+#EXTINF:-1,UK | BT Sport Europe
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3498.ts
+#EXTINF:-1,UK | BT Sport Extra 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3499.ts
+#EXTINF:-1,UK | BT Sport Extra 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3500.ts
+#EXTINF:-1,UK | BT Sport Extra 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3501.ts
+#EXTINF:-1,UK | BT Sport Extra 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3502.ts
+#EXTINF:-1,UK | BT Sport Extra 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3503.ts
+#EXTINF:-1,UK | BT Sport Extra 6
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3504.ts
+#EXTINF:-1,UK | BT Sports 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3496.ts
+#EXTINF:-1,UK | BT Sports 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3497.ts
+#EXTINF:-1,UK | Cartoon Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3506.ts
+#EXTINF:-1,UK | Cartoonito
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3505.ts
+#EXTINF:-1,UK | Cbeebies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3507.ts
+#EXTINF:-1,UK | CBS Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3508.ts
+#EXTINF:-1,UK | CBS Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3509.ts
+#EXTINF:-1,UK | CBS Reality
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3510.ts
+#EXTINF:-1,UK | Channel 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3511.ts
+#EXTINF:-1,UK | Channel 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3512.ts
+#EXTINF:-1,UK | Chelsea FC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3513.ts
+#EXTINF:-1,UK | CNN
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3514.ts
+#EXTINF:-1,UK | Comedy Central
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3515.ts
+#EXTINF:-1,UK | Comedy Central Xtra
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3516.ts
+#EXTINF:-1,UK | Crime and Investigation
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3517.ts
+#EXTINF:-1,UK | Dave
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3518.ts
+#EXTINF:-1,UK | Discovery Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3519.ts
+#EXTINF:-1,UK | Discovery History
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3520.ts
+#EXTINF:-1,UK | Discovery Science
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3521.ts
+#EXTINF:-1,UK | Discovery Shed
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3522.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3523.ts
+#EXTINF:-1,UK | Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3524.ts
+#EXTINF:-1,UK | Disney Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3525.ts
+#EXTINF:-1,UK | Disney Movies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3527.ts
+#EXTINF:-1,UK | Disney XD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3526.ts
+#EXTINF:-1,UK | Dmax
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3528.ts
+#EXTINF:-1,UK | Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3529.ts
+#EXTINF:-1,UK | E4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3530.ts
+#EXTINF:-1,UK | Eir Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3531.ts
+#EXTINF:-1,UK | Eir Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3532.ts
+#EXTINF:-1,UK | ESPN
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3533.ts
+#EXTINF:-1,UK | Eurosport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3534.ts
+#EXTINF:-1,UK | Eurosport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3535.ts
+#EXTINF:-1,UK | Film 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3536.ts
+#EXTINF:-1,UK | Five
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3537.ts
+#EXTINF:-1,UK | Flava
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3538.ts
+#EXTINF:-1,UK | Food Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3542.ts
+#EXTINF:-1,UK | FOX
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3539.ts
+#EXTINF:-1,UK | FOX Crime
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3540.ts
+#EXTINF:-1,UK | FOX News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3541.ts
+#EXTINF:-1,UK | Gold
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3543.ts
+#EXTINF:-1,UK | Good Food
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3544.ts
+#EXTINF:-1,UK | History Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3545.ts
+#EXTINF:-1,UK | Home and Health
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3546.ts
+#EXTINF:-1,UK | ITV 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3547.ts
+#EXTINF:-1,UK | ITV 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3548.ts
+#EXTINF:-1,UK | ITV 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3549.ts
+#EXTINF:-1,UK | ITV 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3550.ts
+#EXTINF:-1,UK | ITV Be
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3551.ts
+#EXTINF:-1,UK | ITV Encore
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3552.ts
+#EXTINF:-1,UK | Kix
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3553.ts
+#EXTINF:-1,UK | Lifetime
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3554.ts
+#EXTINF:-1,UK | Liverpool FC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3555.ts
+#EXTINF:-1,UK | Manchester United FC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3556.ts
+#EXTINF:-1,UK | More 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3557.ts
+#EXTINF:-1,UK | Motors TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3558.ts
+#EXTINF:-1,UK | Movies 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3562.ts
+#EXTINF:-1,UK | Movies 4 Men
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3559.ts
+#EXTINF:-1,UK | MTV Hits
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3560.ts
+#EXTINF:-1,UK | MTV Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3561.ts
+#EXTINF:-1,UK | National Geographic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3563.ts
+#EXTINF:-1,UK | National Geographic Wild
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3564.ts
+#EXTINF:-1,UK | Nick Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3566.ts
+#EXTINF:-1,UK | Nickelodeon
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3565.ts
+#EXTINF:-1,UK | Nicktoons
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3567.ts
+#EXTINF:-1,UK | Pick TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3568.ts
+#EXTINF:-1,UK | Premier Sports
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3569.ts
+#EXTINF:-1,UK | Quest
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3570.ts
+#EXTINF:-1,UK | Racing UK
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3571.ts
+#EXTINF:-1,UK | Really
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3572.ts
+#EXTINF:-1,UK | RTE 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3573.ts
+#EXTINF:-1,UK | RTE 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3574.ts
+#EXTINF:-1,UK | Sky Arts 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3575.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3576.ts
+#EXTINF:-1,UK | Sky Living UK
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3577.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3578.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3579.ts
+#EXTINF:-1,UK | Sky Movies Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3580.ts
+#EXTINF:-1,UK | Sky Movies Family
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3581.ts
+#EXTINF:-1,UK | Sky Movies Modern Greats
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3582.ts
+#EXTINF:-1,UK | Sky Movies Premiere
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3583.ts
+#EXTINF:-1,UK | Sky Movies Scifi Horror
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3584.ts
+#EXTINF:-1,UK | Sky Movies Select
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3585.ts
+#EXTINF:-1,UK | Sky Movies Showcase
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3586.ts
+#EXTINF:-1,UK | Sky Movies Thriller
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3587.ts
+#EXTINF:-1,UK | SKY News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3588.ts
+#EXTINF:-1,UK | Sky One
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3589.ts
+#EXTINF:-1,UK | Sky Sports 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3590.ts
+#EXTINF:-1,UK | Sky Sports 1 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3591.ts
+#EXTINF:-1,UK | Sky Sports 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3592.ts
+#EXTINF:-1,UK | Sky Sports 2 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3593.ts
+#EXTINF:-1,UK | Sky Sports 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3594.ts
+#EXTINF:-1,UK | Sky Sports 3 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3595.ts
+#EXTINF:-1,UK | Sky Sports 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3596.ts
+#EXTINF:-1,UK | Sky Sports 4 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3597.ts
+#EXTINF:-1,UK | Sky Sports 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3598.ts
+#EXTINF:-1,UK | Sky Sports 5 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3599.ts
+#EXTINF:-1,UK | Sky Sports F1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3600.ts
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3601.ts
+#EXTINF:-1,UK | Sky Sports News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3602.ts
+#EXTINF:-1,UK | Sky Two
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3603.ts
+#EXTINF:-1,UK | Spike
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3604.ts
+#EXTINF:-1,UK | SyFy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3605.ts
+#EXTINF:-1,UK | TG 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3606.ts
+#EXTINF:-1,UK | The Vault
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3607.ts
+#EXTINF:-1,UK | TLC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3608.ts
+#EXTINF:-1,UK | TMC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3609.ts
+#EXTINF:-1,UK | Travel Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3610.ts
+#EXTINF:-1,UK | True Entertainment
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3611.ts
+#EXTINF:-1,UK | True Movies 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3612.ts
+#EXTINF:-1,UK | True Movies 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3613.ts
+#EXTINF:-1,UK | TV3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3614.ts
+#EXTINF:-1,UK | TV3 Plus 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3615.ts
+#EXTINF:-1,UK | Universal
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3616.ts
+#EXTINF:-1,UK | VH1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3617.ts
+#EXTINF:-1,UK | W
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3618.ts
+#EXTINF:-1,UK | Watch
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3619.ts
+#EXTINF:-1,UK | Yesterday
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3620.ts
+#EXTINF:-1,UK_Sky Arts
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/5329.ts
 
 
 
@@ -1930,28 +2316,7 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,RAI News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 
-#EXTINF:-1,Italia 1 HD
-http://188.62.137.51:9002
-#EXTINF:-1,Rai 1 HD
-http://188.62.137.51:9004
-#EXTINF:-1,RAI 2 HD
-http://188.62.137.51:9005
-#EXTINF:-1,RAI 3 HD
-http://188.62.137.51:9006
-#EXTINF:-1,Rai Sport 1 HD
-http://188.62.137.51:9007
-#EXTINF:-1,RSI La 1 HD
-http://188.62.137.51:9008
-#EXTINF:-1,RSi La2 HD
-http://188.62.137.51:9009
-#EXTINF:-1,RTS un HD
-http://188.62.137.51:9010
-#EXTINF:-1,RTS deux
-http://188.62.137.51:9011
-#EXTINF:-1,New
-http://188.62.137.51:9012
-#EXTINF:-1,New HD
-http://188.62.137.51:9013
+
 
 #EXTINF:-1,Rai Movie
 http://144.2.100.111:8000/play/a009
@@ -1983,7 +2348,28 @@ http://144.2.100.111:8000/play/a004
 http://144.2.100.111:8000/play/a00b
 
 
-
+#EXTINF:-1,Italia 1 HD
+http://188.62.137.51:9002
+#EXTINF:-1,Rai 1 HD
+http://188.62.137.51:9004
+#EXTINF:-1,RAI 2 HD
+http://188.62.137.51:9005
+#EXTINF:-1,RAI 3 HD
+http://188.62.137.51:9006
+#EXTINF:-1,Rai Sport 1 HD
+http://188.62.137.51:9007
+#EXTINF:-1,RSI La 1 HD
+http://188.62.137.51:9008
+#EXTINF:-1,RSi La2 HD
+http://188.62.137.51:9009
+#EXTINF:-1,RTS un HD
+http://188.62.137.51:9010
+#EXTINF:-1,RTS deux
+http://188.62.137.51:9011
+#EXTINF:-1,New
+http://188.62.137.51:9012
+#EXTINF:-1,New HD
+http://188.62.137.51:9013
 
 
 
@@ -2017,98 +2403,258 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,IT: Rai 1
-http://194.88.104.81:8000/live/Santos/Santos/6506.ts
-#EXTINF:-1,IT: Rai 2
-http://194.88.104.81:8000/live/Santos/Santos/6505.ts
-#EXTINF:-1,IT: Rai 3
-http://194.88.104.81:8000/live/Santos/Santos/6504.ts
-#EXTINF:-1,IT: Rai 4
-http://194.88.104.81:8000/live/Santos/Santos/6503.ts
-#EXTINF:-1,IT: Rai 5
-http://194.88.104.81:8000/live/Santos/Santos/6502.ts
-#EXTINF:-1,IT: Rai MOVIE HD
-http://194.88.104.81:8000/live/Santos/Santos/6501.ts
-#EXTINF:-1,IT: Rai PREMIUM
-http://194.88.104.81:8000/live/Santos/Santos/6500.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://194.88.104.81:8000/live/Santos/Santos/6499.ts
-#EXTINF:-1,IT: Rai YOYO HD
-http://194.88.104.81:8000/live/Santos/Santos/6498.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://194.88.104.81:8000/live/Santos/Santos/6494.ts
-#EXTINF:-1,IT: Sky Cinema 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6493.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://194.88.104.81:8000/live/Santos/Santos/6492.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://194.88.104.81:8000/live/Santos/Santos/6491.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://194.88.104.81:8000/live/Santos/Santos/6490.ts
-#EXTINF:-1,IT: Sky Cinema MAX  HD
-http://194.88.104.81:8000/live/Santos/Santos/6489.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://194.88.104.81:8000/live/Santos/Santos/6488.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://194.88.104.81:8000/live/Santos/Santos/6530.ts
-#EXTINF:-1,IT: Cartoon Network
-http://194.88.104.81:8000/live/Santos/Santos/6529.ts
-#EXTINF:-1,IT: Eurosport 1
-http://194.88.104.81:8000/live/Santos/Santos/6528.ts
-#EXTINF:-1,IT: Eurosport 2
-http://194.88.104.81:8000/live/Santos/Santos/6527.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://194.88.104.81:8000/live/Santos/Santos/6526.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://194.88.104.81:8000/live/Santos/Santos/6525.ts
-#EXTINF:-1,IT: FOX HD
-http://194.88.104.81:8000/live/Santos/Santos/6524.ts
-#EXTINF:-1,IT: Iris
-http://194.88.104.81:8000/live/Santos/Santos/6523.ts
-#EXTINF:-1,IT: Italia 1
-http://194.88.104.81:8000/live/Santos/Santos/6522.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://194.88.104.81:8000/live/Santos/Santos/6521.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://194.88.104.81:8000/live/Santos/Santos/6520.ts
-#EXTINF:-1,IT: Premium Action 24
-http://194.88.104.81:8000/live/Santos/Santos/6519.ts
-#EXTINF:-1,IT: Premium Cinema 24
-http://194.88.104.81:8000/live/Santos/Santos/6518.ts
-#EXTINF:-1,IT: Premium Cinema 2 /24
-http://194.88.104.81:8000/live/Santos/Santos/6517.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6516.ts
-#EXTINF:-1,IT: Premium Cinema Action HD
-http://194.88.104.81:8000/live/Santos/Santos/6515.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://194.88.104.81:8000/live/Santos/Santos/6514.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://194.88.104.81:8000/live/Santos/Santos/6513.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://194.88.104.81:8000/live/Santos/Santos/6512.ts
-#EXTINF:-1,IT: Premium Cinema Joi
-http://194.88.104.81:8000/live/Santos/Santos/6511.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://194.88.104.81:8000/live/Santos/Santos/6510.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://194.88.104.81:8000/live/Santos/Santos/6509.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://194.88.104.81:8000/live/Santos/Santos/6508.ts
-#EXTINF:-1,IT: Premium Joi
-http://194.88.104.81:8000/live/Santos/Santos/6507.ts
-#EXTINF:-1,IT: Rete4
-http://194.88.104.81:8000/live/Santos/Santos/6497.ts
-#EXTINF:-1,IT: RSI LA1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6496.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6495.ts
-#EXTINF:-1,IT: Studio Universal
-http://194.88.104.81:8000/live/Santos/Santos/6487.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://194.88.104.81:8000/live/Santos/Santos/6486.ts
-#EXTINF:-1,IT: Top Crime
-http://194.88.104.81:8000/live/Santos/Santos/6485.ts
+#EXTINF:-1,IT | Alice
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3356.ts
+#EXTINF:-1,IT | Animal Planet
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3357.ts
+#EXTINF:-1,IT | AXN
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3358.ts
+#EXTINF:-1,IT | Boing
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3359.ts
+#EXTINF:-1,IT | Caccia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3360.ts
+#EXTINF:-1,IT | Canale 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3361.ts
+#EXTINF:-1,IT | Cartoon Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3363.ts
+#EXTINF:-1,IT | Cartoonito
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3362.ts
+#EXTINF:-1,IT | Cielo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3364.ts
+#EXTINF:-1,IT | Deejay TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3365.ts
+#EXTINF:-1,IT | Discovery Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3366.ts
+#EXTINF:-1,IT | Discovery Science
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3367.ts
+#EXTINF:-1,IT | Discovery Travel & Living
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3368.ts
+#EXTINF:-1,IT | Discovery World
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3369.ts
+#EXTINF:-1,IT | Dmax
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3370.ts
+#EXTINF:-1,IT | E!
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3371.ts
+#EXTINF:-1,IT | Fine Living
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3372.ts
+#EXTINF:-1,IT | Focus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3374.ts
+#EXTINF:-1,IT | Fox
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3375.ts
+#EXTINF:-1,IT | Fox Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3376.ts
+#EXTINF:-1,IT | Fox Life
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3377.ts
+#EXTINF:-1,IT | Frisbee
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3373.ts
+#EXTINF:-1,IT | HIstory
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3378.ts
+#EXTINF:-1,IT | Iris
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3379.ts
+#EXTINF:-1,IT | Italia 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3380.ts
+#EXTINF:-1,IT | Italia 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3381.ts
+#EXTINF:-1,IT | K2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3382.ts
+#EXTINF:-1,IT | LA 7
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3383.ts
+#EXTINF:-1,IT | La 7d
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3384.ts
+#EXTINF:-1,IT | Marcopolo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3385.ts
+#EXTINF:-1,IT | Mediaset Extra
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3386.ts
+#EXTINF:-1,IT | Mediaset Italia 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3387.ts
+#EXTINF:-1,IT | MTV 8
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3388.ts
+#EXTINF:-1,IT | Nat Geo People
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3389.ts
+#EXTINF:-1,IT | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3390.ts
+#EXTINF:-1,IT | National Geographic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3391.ts
+#EXTINF:-1,IT | Paramount Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3392.ts
+#EXTINF:-1,IT | Premium Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3393.ts
+#EXTINF:-1,IT | Premium Action Plus 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3394.ts
+#EXTINF:-1,IT | Premium Calcio
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3395.ts
+#EXTINF:-1,IT | Premium Calcio 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3396.ts
+#EXTINF:-1,IT | Premium Calcio 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3397.ts
+#EXTINF:-1,IT | Premium Calcio 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3398.ts
+#EXTINF:-1,IT | Premium Calcio 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3399.ts
+#EXTINF:-1,IT | Premium Calcio 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3400.ts
+#EXTINF:-1,IT | Premium Cartoon Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3401.ts
+#EXTINF:-1,IT | Premium Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3402.ts
+#EXTINF:-1,IT | Premium Cinema 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3403.ts
+#EXTINF:-1,IT | Premium Cinema 2 Plus 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3404.ts
+#EXTINF:-1,IT | Premium Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3405.ts
+#EXTINF:-1,IT | Premium Crime
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3406.ts
+#EXTINF:-1,IT | Premium Crime Plus24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3407.ts
+#EXTINF:-1,IT | Premium Discovery World
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3408.ts
+#EXTINF:-1,IT | Premium Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3409.ts
+#EXTINF:-1,IT | Premium Disney Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3410.ts
+#EXTINF:-1,IT | Premium Emotion
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3411.ts
+#EXTINF:-1,IT | Premium Energy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3412.ts
+#EXTINF:-1,IT | Premium Eurosport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3413.ts
+#EXTINF:-1,IT | Premium Eurosport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3414.ts
+#EXTINF:-1,IT | Premium Joy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3415.ts
+#EXTINF:-1,IT | Premium Sport
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3416.ts
+#EXTINF:-1,IT | Premium Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3417.ts
+#EXTINF:-1,IT | Premium Stories
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3418.ts
+#EXTINF:-1,IT | Premium Studio Universal
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3419.ts
+#EXTINF:-1,IT | Primafila 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3420.ts
+#EXTINF:-1,IT | Primafila 10
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3427.ts
+#EXTINF:-1,IT | Primafila 12
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3428.ts
+#EXTINF:-1,IT | Primafila 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3421.ts
+#EXTINF:-1,IT | Primafila 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3422.ts
+#EXTINF:-1,IT | Primafila 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3423.ts
+#EXTINF:-1,IT | Primafila 6
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3424.ts
+#EXTINF:-1,IT | Primafila 7
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3425.ts
+#EXTINF:-1,IT | Primafila 9
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3426.ts
+#EXTINF:-1,IT | Radio 105 TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3429.ts
+#EXTINF:-1,IT | Radio Italia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3430.ts
+#EXTINF:-1,IT | Radio MonteCarlo TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3431.ts
+#EXTINF:-1,IT | Rai 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3432.ts
+#EXTINF:-1,IT | Rai 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3433.ts
+#EXTINF:-1,IT | Rai 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3434.ts
+#EXTINF:-1,IT | Rai 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3435.ts
+#EXTINF:-1,IT | Rai 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3436.ts
+#EXTINF:-1,IT | Rai Gulp
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3437.ts
+#EXTINF:-1,IT | Rai Movie
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3438.ts
+#EXTINF:-1,IT | Rai News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3439.ts
+#EXTINF:-1,IT | Rai Premium
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3440.ts
+#EXTINF:-1,IT | Rai Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3442.ts
+#EXTINF:-1,IT | Rai Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3443.ts
+#EXTINF:-1,IT | Rai Storia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3441.ts
+#EXTINF:-1,IT | Real Time
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3444.ts
+#EXTINF:-1,IT | Rete 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3445.ts
+#EXTINF:-1,IT | RSi LA 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3446.ts
+#EXTINF:-1,IT | RSi LA 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3447.ts
+#EXTINF:-1,IT | Sky Calcio 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3448.ts
+#EXTINF:-1,IT | Sky Calcio 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3449.ts
+#EXTINF:-1,IT | Sky Calcio 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3450.ts
+#EXTINF:-1,IT | Sky Cinema 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3452.ts
+#EXTINF:-1,IT | Sky Cinema Classics
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3453.ts
+#EXTINF:-1,IT | Sky Cinema Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3454.ts
+#EXTINF:-1,IT | Sky Cinema Cult
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3455.ts
+#EXTINF:-1,IT | Sky Cinema Hits
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3456.ts
+#EXTINF:-1,IT | Sky Cinema Max
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3457.ts
+#EXTINF:-1,IT | Sky Cinema Passion
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3458.ts
+#EXTINF:-1,IT | Sky Cinema Plus24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3451.ts
+#EXTINF:-1,IT | Sky Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3459.ts
+#EXTINF:-1,IT | Sky Disney XD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3460.ts
+#EXTINF:-1,IT | Sky Moto GP
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3461.ts
+#EXTINF:-1,IT | Sky Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3462.ts
+#EXTINF:-1,IT | Sky Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3463.ts
+#EXTINF:-1,IT | Sky Sport 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3465.ts
+#EXTINF:-1,IT | Sky Sport 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3464.ts
+#EXTINF:-1,IT | Sky Sport F1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3466.ts
+#EXTINF:-1,IT | Sky Supercalcio
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3467.ts
+#EXTINF:-1,IT | Sky Tg 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3468.ts
+#EXTINF:-1,IT | Sky Uno
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3469.ts
+#EXTINF:-1,IT | Sport Italia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3471.ts
+#EXTINF:-1,IT | Super
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3470.ts
+#EXTINF:-1,IT | Super Tennis
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3472.ts
+#EXTINF:-1,IT | TG Com 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3473.ts
+#EXTINF:-1,IT | Top Crime
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3474.ts
+#EXTINF:-1,IT | Videolina
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3475.ts
+#EXTINF:-1,IT | YoYo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3476.ts
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2177,189 +2723,230 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,FR: TF1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6399.ts
-#EXTINF:-1,FR: France 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6423.ts
-#EXTINF:-1,FR: France 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6422.ts
-#EXTINF:-1,FR: France 4HD
-http://194.88.104.81:8000/live/Santos/Santos/6421.ts
-#EXTINF:-1,FR: France 5HD
-http://194.88.104.81:8000/live/Santos/Santos/6420.ts
-#EXTINF:-1,FR: M6
-http://194.88.104.81:8000/live/Santos/Santos/6415.ts
-#EXTINF:-1,FR: Arte
-http://194.88.104.81:8000/live/Santos/Santos/6392.ts
-#EXTINF:-1,FR: C8
-http://194.88.104.81:8000/live/Santos/Santos/6438.ts
-#EXTINF:-1,FR: W9
-http://194.88.104.81:8000/live/Santos/Santos/6368.ts
-#EXTINF:-1,FR: TMC HD
-http://194.88.104.81:8000/live/Santos/Santos/6397.ts
-#EXTINF:-1,FR: NT1
-http://194.88.104.81:8000/live/Santos/Santos/6411.ts
-#EXTINF:-1,FR: NRJ12
-http://194.88.104.81:8000/live/Santos/Santos/6412.ts
-#EXTINF:-1,FR: LCP HD
-http://194.88.104.81:8000/live/Santos/Santos/6935.ts
-#EXTINF:-1,FR: LCI HD
-http://194.88.104.81:8000/live/Santos/Santos/6934.ts
-#EXTINF:-1,FR: BFM
-http://194.88.104.81:8000/live/Santos/Santos/6440.ts
-#EXTINF:-1,FR: LA UNE HD
-http://194.88.104.81:8000/live/Santos/Santos/6416.ts
-#EXTINF:-1,FR: Ushuaa
-http://194.88.104.81:8000/live/Santos/Santos/6369.ts
-#EXTINF:-1,FR: Gulli
-http://194.88.104.81:8000/live/Santos/Santos/6377.ts
-#EXTINF:-1,FR: France Ô HD
-http://194.88.104.81:8000/live/Santos/Santos/6419.ts
-#EXTINF:-1,FR: D8
-http://194.88.104.81:8000/live/Santos/Santos/6430.ts
-#EXTINF:-1,FR: L'equipe 21 HD
-http://194.88.104.81:8000/live/Santos/Santos/6417.ts
-#EXTINF:-1,FR: L'équipe 21
-http://194.88.104.81:8000/live/Santos/Santos/6376.ts
-#EXTINF:-1,FR: Syfy
-http://194.88.104.81:8000/live/Santos/Santos/6370.ts
-#EXTINF:-1,FR: Mangas
-http://194.88.104.81:8000/live/Santos/Santos/6936.ts
-#EXTINF:-1,FR: MANGAS HD
-http://194.88.104.81:8000/live/Santos/Santos/6937.ts
-#EXTINF:-1,FR: TV BREIZH HD
-http://194.88.104.81:8000/live/Santos/Santos/6941.ts
-#EXTINF:-1,FR: TV5
-http://194.88.104.81:8000/live/Santos/Santos/6396.ts
-#EXTINF:-1,FR: Action
-http://194.88.104.81:8000/live/Santos/Santos/6394.ts
-#EXTINF:-1,FR: Paris Première
-http://194.88.104.81:8000/live/Santos/Santos/6373.ts
-#EXTINF:-1,FR: TEVA HD
-http://194.88.104.81:8000/live/Santos/Santos/6400.ts
-#EXTINF:-1,FR: RTL 9
-http://194.88.104.81:8000/live/Santos/Santos/6372.ts
-#EXTINF:-1,FR: 13 eme Rue
-http://194.88.104.81:8000/live/Santos/Santos/6395.ts
-#EXTINF:-1,FR: TIJI
-http://194.88.104.81:8000/live/Santos/Santos/6398.ts
-#EXTINF:-1,FR: Planète +
-http://194.88.104.81:8000/live/Santos/Santos/6408.ts
-#EXTINF:-1,FR: Planete + A&E
-http://194.88.104.81:8000/live/Santos/Santos/6407.ts
-#EXTINF:-1,FR: Planète + CI
-http://194.88.104.81:8000/live/Santos/Santos/6406.ts
-#EXTINF:-1,FR: NAT GEO WILD
-http://194.88.104.81:8000/live/Santos/Santos/6414.ts
-#EXTINF:-1,FR: National Geographic
-http://194.88.104.81:8000/live/Santos/Santos/6413.ts
-#EXTINF:-1,FR: SCIENCES & VIE TV
-http://194.88.104.81:8000/live/Santos/Santos/6405.ts
-#EXTINF:-1,FR: Discovery
-http://194.88.104.81:8000/live/Santos/Santos/6380.ts
-#EXTINF:-1,FR: Animaux
-http://194.88.104.81:8000/live/Santos/Santos/6393.ts
-#EXTINF:-1,FR: Boomerang
-http://194.88.104.81:8000/live/Santos/Santos/6391.ts
-#EXTINF:-1,FR: Chasse & Pêche
-http://194.88.104.81:8000/live/Santos/Santos/6384.ts
-#EXTINF:-1,FR: Series Club HD
-http://194.88.104.81:8000/live/Santos/Santos/6371.ts
-#EXTINF:-1,FR: BOING HD
-http://194.88.104.81:8000/live/Santos/Santos/6439.ts
-#EXTINF:-1,FR: Canal J
-http://194.88.104.81:8000/live/Santos/Santos/6435.ts
-#EXTINF:-1,FR: Cartoon Network
-http://194.88.104.81:8000/live/Santos/Santos/6434.ts
-#EXTINF:-1,FR: Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/6379.ts
-#EXTINF:-1,FR: Disney Cinemagic
-http://194.88.104.81:8000/live/Santos/Santos/6429.ts
-#EXTINF:-1,FR: Disney Junior
-http://194.88.104.81:8000/live/Santos/Santos/6428.ts
-#EXTINF:-1,FR: Disney XD
-http://194.88.104.81:8000/live/Santos/Santos/6427.ts
-#EXTINF:-1,FR: Comdie +
-http://194.88.104.81:8000/live/Santos/Santos/6431.ts
-#EXTINF:-1,FR: TéléToon +
-http://194.88.104.81:8000/live/Santos/Santos/6401.ts
-#EXTINF:-1,FR: Canal +  HD
-http://194.88.104.81:8000/live/Santos/Santos/6437.ts
-#EXTINF:-1,FR: Canal + Decale
-http://194.88.104.81:8000/live/Santos/Santos/6390.ts
-#EXTINF:-1,FR: Canal + Family
-http://194.88.104.81:8000/live/Santos/Santos/6388.ts
-#EXTINF:-1,FR: Canal + Séries
-http://194.88.104.81:8000/live/Santos/Santos/6386.ts
-#EXTINF:-1,FR: Canal + Cinema
-http://194.88.104.81:8000/live/Santos/Santos/6436.ts
-#EXTINF:-1,FR: Canal + Sport
-http://194.88.104.81:8000/live/Santos/Santos/6385.ts
-#EXTINF:-1,FR: Cine + Emotion HD
-http://194.88.104.81:8000/live/Santos/Santos/6433.ts
-#EXTINF:-1,FR: Cine + Emotion
-http://194.88.104.81:8000/live/Santos/Santos/6389.ts
-#EXTINF:-1,FR: Cine + Premier HD
-http://194.88.104.81:8000/live/Santos/Santos/6432.ts
-#EXTINF:-1,FR: Cine + Premier
-http://194.88.104.81:8000/live/Santos/Santos/6387.ts
-#EXTINF:-1,FR: Cine + Classic HD
-http://194.88.104.81:8000/live/Santos/Santos/6383.ts
-#EXTINF:-1,FR: Cine + Famiz HD
-http://194.88.104.81:8000/live/Santos/Santos/6382.ts
-#EXTINF:-1,FR: Cine + Frisson
-http://194.88.104.81:8000/live/Santos/Santos/6381.ts
-#EXTINF:-1,FR: Paramount Channel
-http://194.88.104.81:8000/live/Santos/Santos/6938.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://194.88.104.81:8000/live/Santos/Santos/6939.ts
-#EXTINF:-1,FR: TCM CINEMA HD
-http://194.88.104.81:8000/live/Santos/Santos/6940.ts
-#EXTINF:-1,FR: OCS City
-http://194.88.104.81:8000/live/Santos/Santos/6410.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://194.88.104.81:8000/live/Santos/Santos/6409.ts
-#EXTINF:-1,FR: OCS Max HD
-http://194.88.104.81:8000/live/Santos/Santos/6375.ts
-#EXTINF:-1,FR: OSC CHOC HD
-http://194.88.104.81:8000/live/Santos/Santos/6374.ts
-#EXTINF:-1,FR: E! ENTERTAINMENT
-http://194.88.104.81:8000/live/Santos/Santos/6426.ts
-#EXTINF:-1,FR: Foot +
-http://194.88.104.81:8000/live/Santos/Santos/6424.ts
-#EXTINF:-1,FR: InfoSport +
-http://194.88.104.81:8000/live/Santos/Santos/6418.ts
-#EXTINF:-1,FR: Eurosport 1
-http://194.88.104.81:8000/live/Santos/Santos/6425.ts
-#EXTINF:-1,FR: Eurosport 2
-http://194.88.104.81:8000/live/Santos/Santos/6378.ts
-#EXTINF:-1,FR: SFR 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6404.ts
-#EXTINF:-1,FR: SFR 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6403.ts
-#EXTINF:-1,FR: SFR 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6402.ts
-#EXTINF:-1,FR: BeinSports 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6443.ts
-#EXTINF:-1,FR: BeinSports 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6442.ts
-#EXTINF:-1,FR: BeinSports 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6441.ts
-#EXTINF:-1,FR: BeIN Sports Max 4
-http://194.88.104.81:8000/live/Santos/Santos/6928.ts
-#EXTINF:-1,FR: BeIN Sports Max 5
-http://194.88.104.81:8000/live/Santos/Santos/6929.ts
-#EXTINF:-1,FR: BeIN Sports Max 6
-http://194.88.104.81:8000/live/Santos/Santos/6930.ts
-#EXTINF:-1,FR: BeIN Sports Max 7
-http://194.88.104.81:8000/live/Santos/Santos/6931.ts
-#EXTINF:-1,FR: BeIN Sports Max 8
-http://194.88.104.81:8000/live/Santos/Santos/6932.ts
-#EXTINF:-1,FR: BeIN Sports Max 9
-http://194.88.104.81:8000/live/Santos/Santos/6933.ts
-
-
-
+#EXTINF:-1,FR | 13eme Rue
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3720.ts
+#EXTINF:-1,FR | 6TER
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3721.ts
+#EXTINF:-1,FR | AB Moteurs
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3724.ts
+#EXTINF:-1,FR | AB1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3722.ts
+#EXTINF:-1,FR | AB3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3723.ts
+#EXTINF:-1,FR | Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3830.ts
+#EXTINF:-1,FR | Animaux
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3725.ts
+#EXTINF:-1,FR | Arte
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3726.ts
+#EXTINF:-1,FR | Bein Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3727.ts
+#EXTINF:-1,FR | Bein Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3728.ts
+#EXTINF:-1,FR | BFMTV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3729.ts
+#EXTINF:-1,FR | Boing
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3730.ts
+#EXTINF:-1,FR | Boomerang
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3828.ts
+#EXTINF:-1,FR | C8
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3731.ts
+#EXTINF:-1,FR | Canal J
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3732.ts
+#EXTINF:-1,FR | CanalPlus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3733.ts
+#EXTINF:-1,FR | CanalPlus Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3734.ts
+#EXTINF:-1,FR | CanalPlus Decale
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3735.ts
+#EXTINF:-1,FR | CanalPlus Famiz
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3736.ts
+#EXTINF:-1,FR | CanalPlus Series
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3737.ts
+#EXTINF:-1,FR | CanalPlus Sport
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3738.ts
+#EXTINF:-1,FR | Cartoon Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3739.ts
+#EXTINF:-1,FR | Chasse e Peche
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3740.ts
+#EXTINF:-1,FR | Cherie 25
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3741.ts
+#EXTINF:-1,FR | Cine FX
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3742.ts
+#EXTINF:-1,FR | CinePlus Classic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3743.ts
+#EXTINF:-1,FR | CinePlus Emotion
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3744.ts
+#EXTINF:-1,FR | CinePlus Frisson
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3745.ts
+#EXTINF:-1,FR | CinePlus Premier
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3746.ts
+#EXTINF:-1,FR | ComediePlus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3747.ts
+#EXTINF:-1,FR | CStar
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3748.ts
+#EXTINF:-1,FR | D17
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3749.ts
+#EXTINF:-1,FR | D8
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3750.ts
+#EXTINF:-1,FR | Discovery
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3751.ts
+#EXTINF:-1,FR | Discovery Science
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3752.ts
+#EXTINF:-1,FR | Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3753.ts
+#EXTINF:-1,FR | Disney Cine Magic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3754.ts
+#EXTINF:-1,FR | Disney Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3827.ts
+#EXTINF:-1,FR | Disney Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3755.ts
+#EXTINF:-1,FR | E! Entertainment
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3756.ts
+#EXTINF:-1,FR | Enorme
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3757.ts
+#EXTINF:-1,FR | Equidia Life
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3758.ts
+#EXTINF:-1,FR | Equidia Live
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3759.ts
+#EXTINF:-1,FR | Equipe 21
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3760.ts
+#EXTINF:-1,FR | Euronews
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3761.ts
+#EXTINF:-1,FR | Eurosport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3762.ts
+#EXTINF:-1,FR | Eurosport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3763.ts
+#EXTINF:-1,FR | Foot Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3764.ts
+#EXTINF:-1,FR | France 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3765.ts
+#EXTINF:-1,FR | France 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3768.ts
+#EXTINF:-1,FR | France 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3766.ts
+#EXTINF:-1,FR | France 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3767.ts
+#EXTINF:-1,FR | France O
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3769.ts
+#EXTINF:-1,FR | Game One
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3770.ts
+#EXTINF:-1,FR | Gulli
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3771.ts
+#EXTINF:-1,FR | HD1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3772.ts
+#EXTINF:-1,FR | InfosportPlus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3774.ts
+#EXTINF:-1,FR | iTele
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3773.ts
+#EXTINF:-1,FR | KTO
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3775.ts
+#EXTINF:-1,FR | La Une
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3776.ts
+#EXTINF:-1,FR | LCi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3777.ts
+#EXTINF:-1,FR | LCP
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3778.ts
+#EXTINF:-1,FR | M6
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3780.ts
+#EXTINF:-1,FR | M6 Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3779.ts
+#EXTINF:-1,FR | Mangas
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3781.ts
+#EXTINF:-1,FR | Movies 1 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3782.ts
+#EXTINF:-1,FR | Movies 2 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3783.ts
+#EXTINF:-1,FR | Movies 3 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3784.ts
+#EXTINF:-1,FR | Movies 4 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3785.ts
+#EXTINF:-1,FR | Movies 5 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3786.ts
+#EXTINF:-1,FR | Movies 6 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3787.ts
+#EXTINF:-1,FR | Movies 7 FR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3788.ts
+#EXTINF:-1,FR | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3789.ts
+#EXTINF:-1,FR | National Geographic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3790.ts
+#EXTINF:-1,FR | Nickelodeon
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3791.ts
+#EXTINF:-1,FR | Nickelodeon Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3792.ts
+#EXTINF:-1,FR | NRJ 12
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3793.ts
+#EXTINF:-1,FR | NT1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3794.ts
+#EXTINF:-1,FR | Numero 23
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3795.ts
+#EXTINF:-1,FR | OCS City
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3796.ts
+#EXTINF:-1,FR | OCS Geants
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3797.ts
+#EXTINF:-1,FR | OCS Max
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3798.ts
+#EXTINF:-1,FR | OM5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3799.ts
+#EXTINF:-1,FR | Paramount Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3826.ts
+#EXTINF:-1,FR | Paris Premiere
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3800.ts
+#EXTINF:-1,FR | Piwi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3829.ts
+#EXTINF:-1,FR | PlanetePlus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3801.ts
+#EXTINF:-1,FR | PlanetePlus A&E
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3802.ts
+#EXTINF:-1,FR | PlanetePlus CI
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3803.ts
+#EXTINF:-1,FR | RMC Decouverte
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3804.ts
+#EXTINF:-1,FR | RTL 9
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3805.ts
+#EXTINF:-1,FR | RTS Deux
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3806.ts
+#EXTINF:-1,FR | RTS Un
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3807.ts
+#EXTINF:-1,FR | Science et Vie TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3809.ts
+#EXTINF:-1,FR | Seasons
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3808.ts
+#EXTINF:-1,FR | Syfy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3810.ts
+#EXTINF:-1,FR | TCM
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3811.ts
+#EXTINF:-1,FR | TeleToonPlus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3812.ts
+#EXTINF:-1,FR | TEVA
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3813.ts
+#EXTINF:-1,FR | TF1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3814.ts
+#EXTINF:-1,FR | Tiji
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3815.ts
+#EXTINF:-1,FR | TMC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3817.ts
+#EXTINF:-1,FR | Toute L Historie
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3825.ts
+#EXTINF:-1,FR | Trek
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3816.ts
+#EXTINF:-1,FR | TV Breizh
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3824.ts
+#EXTINF:-1,FR | TV5 Monde
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3818.ts
+#EXTINF:-1,FR | Ushuaia TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3819.ts
+#EXTINF:-1,FR | VH1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3820.ts
+#EXTINF:-1,FR | Voyage TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3821.ts
+#EXTINF:-1,FR | W9
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3822.ts
+#EXTINF:-1,FR | Weo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3823.ts
+#EXTINF:-1,FR | Zouzous
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3831.ts
 
 
 
@@ -2560,168 +3147,200 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
-#EXTINF:-1,DE: Sky Select HD 1
-http://194.88.104.81:8000/live/Santos/Santos/6367.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://194.88.104.81:8000/live/Santos/Santos/6366.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://194.88.104.81:8000/live/Santos/Santos/6365.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://194.88.104.81:8000/live/Santos/Santos/6364.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://194.88.104.81:8000/live/Santos/Santos/6363.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://194.88.104.81:8000/live/Santos/Santos/6362.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://194.88.104.81:8000/live/Santos/Santos/6361.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://194.88.104.81:8000/live/Santos/Santos/6360.ts
-#EXTINF:-1,DE: 13Street HD
-http://194.88.104.81:8000/live/Santos/Santos/6359.ts
-#EXTINF:-1,DE: 3SAT HD
-http://194.88.104.81:8000/live/Santos/Santos/6358.ts
-#EXTINF:-1,DE: Arte HD
-http://194.88.104.81:8000/live/Santos/Santos/6357.ts
-#EXTINF:-1,DE: Austria 24
-http://194.88.104.81:8000/live/Santos/Santos/6356.ts
-#EXTINF:-1,DE: AXN ACTION HD
-http://194.88.104.81:8000/live/Santos/Santos/6355.ts
-#EXTINF:-1,DE: BR HD
-http://194.88.104.81:8000/live/Santos/Santos/6354.ts
-#EXTINF:-1,DE: Das Erste
-http://194.88.104.81:8000/live/Santos/Santos/6353.ts
-#EXTINF:-1,DE: Deluxe Music
-http://194.88.104.81:8000/live/Santos/Santos/6352.ts
-#EXTINF:-1,DE: Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/6351.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://194.88.104.81:8000/live/Santos/Santos/6350.ts
-#EXTINF:-1,DE: Disney XD
-http://194.88.104.81:8000/live/Santos/Santos/6349.ts
-#EXTINF:-1,DE: DMAX
-http://194.88.104.81:8000/live/Santos/Santos/6348.ts
-#EXTINF:-1,DE: Euronews
-http://194.88.104.81:8000/live/Santos/Santos/6347.ts
-#EXTINF:-1,DE: Fox HD
-http://194.88.104.81:8000/live/Santos/Santos/6346.ts
-#EXTINF:-1,DE: HALLE TV
-http://194.88.104.81:8000/live/Santos/Santos/6345.ts
-#EXTINF:-1,DE: History HD
-http://194.88.104.81:8000/live/Santos/Santos/6344.ts
-#EXTINF:-1,DE: KABEL 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6343.ts
-#EXTINF:-1,DE: Kika HD
-http://194.88.104.81:8000/live/Santos/Santos/6342.ts
-#EXTINF:-1,DE: MAGDEBURG
-http://194.88.104.81:8000/live/Santos/Santos/6341.ts
-#EXTINF:-1,DE: N24 HD
-http://194.88.104.81:8000/live/Santos/Santos/6340.ts
-#EXTINF:-1,DE: Nat.Geo HD
-http://194.88.104.81:8000/live/Santos/Santos/6339.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://194.88.104.81:8000/live/Santos/Santos/6338.ts
-#EXTINF:-1,DE: N-TV
-http://194.88.104.81:8000/live/Santos/Santos/6337.ts
-#EXTINF:-1,DE: ORF 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6336.ts
-#EXTINF:-1,DE: ORF 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6335.ts
-#EXTINF:-1,DE: Pro 7 HD
-http://194.88.104.81:8000/live/Santos/Santos/6334.ts
-#EXTINF:-1,DE: RTL
-http://194.88.104.81:8000/live/Santos/Santos/6333.ts
-#EXTINF:-1,DE: RTL 2
-http://194.88.104.81:8000/live/Santos/Santos/6332.ts
-#EXTINF:-1,DE: RTL NITRO HD
-http://194.88.104.81:8000/live/Santos/Santos/6331.ts
-#EXTINF:-1,DE: RTL PASSION
-http://194.88.104.81:8000/live/Santos/Santos/6330.ts
-#EXTINF:-1,DE: RTL SUPER
-http://194.88.104.81:8000/live/Santos/Santos/6329.ts
-#EXTINF:-1,DE: Sat 1
-http://194.88.104.81:8000/live/Santos/Santos/6328.ts
-#EXTINF:-1,DE: SAT 1 Gold
-http://194.88.104.81:8000/live/Santos/Santos/6327.ts
-#EXTINF:-1,DE: SERVUS TV HD
-http://194.88.104.81:8000/live/Santos/Santos/6326.ts
-#EXTINF:-1,DE: Sixx HD
-http://194.88.104.81:8000/live/Santos/Santos/6325.ts
-#EXTINF:-1,DE: Sky Action
-http://194.88.104.81:8000/live/Santos/Santos/6324.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://194.88.104.81:8000/live/Santos/Santos/6323.ts
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://194.88.104.81:8000/live/Santos/Santos/6322.ts
-#EXTINF:-1,DE: Sky Bundesliga 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6321.ts
-#EXTINF:-1,DE: Sky Bundesliga 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6320.ts
-#EXTINF:-1,DE: Sky Bundesliga 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6319.ts
-#EXTINF:-1,DE: Sky Bundesliga 4HD
-http://194.88.104.81:8000/live/Santos/Santos/6318.ts
-#EXTINF:-1,DE: Sky Bundesliga 5HD
-http://194.88.104.81:8000/live/Santos/Santos/6317.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://194.88.104.81:8000/live/Santos/Santos/6316.ts
-#EXTINF:-1,DE: Sky Bundesliga 9HD
-http://194.88.104.81:8000/live/Santos/Santos/6315.ts
-#EXTINF:-1,DE: Sky Cinema
-http://194.88.104.81:8000/live/Santos/Santos/6314.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://194.88.104.81:8000/live/Santos/Santos/6313.ts
-#EXTINF:-1,DE: Sky Cinema + 24
-http://194.88.104.81:8000/live/Santos/Santos/6312.ts
-#EXTINF:-1,DE: Sky Comedy
-http://194.88.104.81:8000/live/Santos/Santos/6311.ts
-#EXTINF:-1,DE: Sky Discovery HD
-http://194.88.104.81:8000/live/Santos/Santos/6310.ts
-#EXTINF:-1,DE: Sky Emotion
-http://194.88.104.81:8000/live/Santos/Santos/6309.ts
-#EXTINF:-1,DE: Sky Hits
-http://194.88.104.81:8000/live/Santos/Santos/6308.ts
-#EXTINF:-1,DE: Sky Krimi
-http://194.88.104.81:8000/live/Santos/Santos/6307.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://194.88.104.81:8000/live/Santos/Santos/6306.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6291.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6304.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://194.88.104.81:8000/live/Santos/Santos/6303.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://194.88.104.81:8000/live/Santos/Santos/6305.ts
-#EXTINF:-1,DE: Sky Sport News
-http://194.88.104.81:8000/live/Santos/Santos/6290.ts
-#EXTINF:-1,DE: Sport1
-http://194.88.104.81:8000/live/Santos/Santos/6302.ts
-#EXTINF:-1,DE: Sport1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6301.ts
-#EXTINF:-1,DE: SWR HD
-http://194.88.104.81:8000/live/Santos/Santos/6300.ts
-#EXTINF:-1,DE: Syfy HD
-http://194.88.104.81:8000/live/Santos/Santos/6299.ts
-#EXTINF:-1,DE: VOX HD
-http://194.88.104.81:8000/live/Santos/Santos/6298.ts
-#EXTINF:-1,DE: ZDF HD
-http://194.88.104.81:8000/live/Santos/Santos/6297.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://194.88.104.81:8000/live/Santos/Santos/6296.ts
-#EXTINF:-1,DE: ZDF Kultur
-http://194.88.104.81:8000/live/Santos/Santos/6295.ts
-#EXTINF:-1,DE: ZDF Neo HD
-http://194.88.104.81:8000/live/Santos/Santos/6294.ts
-#EXTINF:-1,DE: Classica
-http://194.88.104.81:8000/live/Santos/Santos/6293.ts
-#EXTINF:-1,DE: MGM
-http://194.88.104.81:8000/live/Santos/Santos/6292.ts
-#EXTINF:-1,DE: TNT Serie
-http://194.88.104.81:8000/live/Santos/Santos/6289.ts
-#EXTINF:-1,DE: WDR
-http://194.88.104.81:8000/live/Santos/Santos/6288.ts
-
+#EXTINF:-1,DE | 13th Street
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3622.ts
+#EXTINF:-1,DE | 3sat
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3623.ts
+#EXTINF:-1,DE | Anixe
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3624.ts
+#EXTINF:-1,DE | ARD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3625.ts
+#EXTINF:-1,DE | Arte
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3626.ts
+#EXTINF:-1,DE | Austria 24 TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3627.ts
+#EXTINF:-1,DE | AXN
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3628.ts
+#EXTINF:-1,DE | Boomerang
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3629.ts
+#EXTINF:-1,DE | Deluxe Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3630.ts
+#EXTINF:-1,DE | Discovery Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3631.ts
+#EXTINF:-1,DE | Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3632.ts
+#EXTINF:-1,DE | Disney Cinemagic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3633.ts
+#EXTINF:-1,DE | Disney Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3634.ts
+#EXTINF:-1,DE | Disney XD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3635.ts
+#EXTINF:-1,DE | Dmax
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3636.ts
+#EXTINF:-1,DE | Eins Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3637.ts
+#EXTINF:-1,DE | Euronews
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3638.ts
+#EXTINF:-1,DE | FOX
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3639.ts
+#EXTINF:-1,DE | History Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3640.ts
+#EXTINF:-1,DE | HR Fernsehen
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3641.ts
+#EXTINF:-1,DE | Jukebox
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3645.ts
+#EXTINF:-1,DE | Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3646.ts
+#EXTINF:-1,DE | Kabel 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3642.ts
+#EXTINF:-1,DE | Kika
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3643.ts
+#EXTINF:-1,DE | Kinowelt
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3644.ts
+#EXTINF:-1,DE | MDR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3647.ts
+#EXTINF:-1,DE | MGM
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3648.ts
+#EXTINF:-1,DE | Movies 1 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3649.ts
+#EXTINF:-1,DE | Movies 2 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3650.ts
+#EXTINF:-1,DE | Movies 3 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3651.ts
+#EXTINF:-1,DE | Movies 4 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3652.ts
+#EXTINF:-1,DE | Movies 5 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3653.ts
+#EXTINF:-1,DE | Movies 6 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3654.ts
+#EXTINF:-1,DE | Movies 7 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3655.ts
+#EXTINF:-1,DE | Movies 8 DE
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3656.ts
+#EXTINF:-1,DE | N-TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3657.ts
+#EXTINF:-1,DE | N24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3658.ts
+#EXTINF:-1,DE | Nat Geo wild
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3659.ts
+#EXTINF:-1,DE | National Geographic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3660.ts
+#EXTINF:-1,DE | NDR
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3661.ts
+#EXTINF:-1,DE | Nickelodeon
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3663.ts
+#EXTINF:-1,DE | ORF 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3662.ts
+#EXTINF:-1,DE | ORF 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3664.ts
+#EXTINF:-1,DE | Phoenix
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3665.ts
+#EXTINF:-1,DE | Pro 7
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3666.ts
+#EXTINF:-1,DE | Pro 7 Fun
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3667.ts
+#EXTINF:-1,DE | Pro 7 Max
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3668.ts
+#EXTINF:-1,DE | RTL
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3669.ts
+#EXTINF:-1,DE | RTL 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3670.ts
+#EXTINF:-1,DE | RTL Crime
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3671.ts
+#EXTINF:-1,DE | RTL Living
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3672.ts
+#EXTINF:-1,DE | RTL Nitro
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3673.ts
+#EXTINF:-1,DE | Sat 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3674.ts
+#EXTINF:-1,DE | Sat1 Gold
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3675.ts
+#EXTINF:-1,DE | Servus TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3676.ts
+#EXTINF:-1,DE | Sixx
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3677.ts
+#EXTINF:-1,DE | Sky 3D
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3678.ts
+#EXTINF:-1,DE | Sky Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3679.ts
+#EXTINF:-1,DE | Sky Atlantic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3680.ts
+#EXTINF:-1,DE | SKY Bundesliga 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3681.ts
+#EXTINF:-1,DE | Sky Bundesliga 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3682.ts
+#EXTINF:-1,DE | Sky Bundesliga 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3683.ts
+#EXTINF:-1,DE | Sky Bundesliga 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3684.ts
+#EXTINF:-1,DE | SKY Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3685.ts
+#EXTINF:-1,DE | Sky Cinema Plus1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3686.ts
+#EXTINF:-1,DE | SKY Cinema Plus24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3687.ts
+#EXTINF:-1,DE | Sky Classica
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3688.ts
+#EXTINF:-1,DE | SKY Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3689.ts
+#EXTINF:-1,DE | Sky Emotion
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3690.ts
+#EXTINF:-1,DE | Sky Heimat Kanal
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3691.ts
+#EXTINF:-1,DE | Sky Hits
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3692.ts
+#EXTINF:-1,DE | Sky Krimi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3694.ts
+#EXTINF:-1,DE | Sky Nostalgie
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3693.ts
+#EXTINF:-1,DE | Sky Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3695.ts
+#EXTINF:-1,DE | Sky Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3696.ts
+#EXTINF:-1,DE | Sky Sport Austria
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3698.ts
+#EXTINF:-1,DE | Sky Sport News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3697.ts
+#EXTINF:-1,DE | Spiegel Geschichte
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3699.ts
+#EXTINF:-1,DE | Sport1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3700.ts
+#EXTINF:-1,DE | Sport1 US
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3701.ts
+#EXTINF:-1,DE | SportDigital
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3702.ts
+#EXTINF:-1,DE | SRF 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3703.ts
+#EXTINF:-1,DE | SRF 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3704.ts
+#EXTINF:-1,DE | Super RTL
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3705.ts
+#EXTINF:-1,DE | SyFy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3706.ts
+#EXTINF:-1,DE | Teleclub Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3707.ts
+#EXTINF:-1,DE | Teleclub Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3708.ts
+#EXTINF:-1,DE | TNT Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3709.ts
+#EXTINF:-1,DE | TNT Film
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3710.ts
+#EXTINF:-1,DE | TNT Serie
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3711.ts
+#EXTINF:-1,DE | Viva Comedy Central
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3712.ts
+#EXTINF:-1,DE | VOX
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3713.ts
+#EXTINF:-1,DE | Wdr
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3714.ts
+#EXTINF:-1,DE | ZDF
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3715.ts
+#EXTINF:-1,DE | ZDF Info
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3716.ts
+#EXTINF:-1,DE | ZDF Kultur
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3717.ts
+#EXTINF:-1,DE | ZDF Neo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/3718.ts
 
 
 
@@ -3966,215 +4585,19 @@ http://91.139.196.72:8030/play/a02w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:4 group-title=”Portugal2”,
-
-#EXTINF:-1,TVC4
-http://80.90.41.118:6600/play/a00v
-#EXTINF:-1,SIC K
-http://80.90.41.118:6600/play/a00r
-#EXTINF:-1,RTP 3
-http://80.90.41.118:6600/play/a00e
-#EXTINF:-1,TVI 24
-http://80.90.41.118:6600/play/a00w
-#EXTINF:-1,TVC2
-http://80.90.41.118:6600/play/a00q
-#EXTINF:-1,ARTV
-http://80.90.41.118:6600/play/a00n
-#EXTINF:-1,Cinemundo
-http://80.90.41.118:6600/play/a008
-#EXTINF:-1,História
-http://80.90.41.118:6600/play/a009
-#EXTINF:-1,Hollywood
-http://80.90.41.118:6600/play/a00b
-#EXTINF:-1,JimJam
-http://80.90.41.118:6600/play/a00u
-#EXTINF:-1,MTV
-http://80.90.41.118:6600/play/a00s
-#EXTINF:-1,Baby TV
-http://80.90.41.118:6600/play/a00a
-#EXTINF:-1,TV Fatima
-http://80.90.41.118:6600/play/a00p
-#EXTINF:-1,RTP 1
-http://80.90.41.118:6600/play/a002
-#EXTINF:-1,46
-http://80.90.41.118:6600/play/a00z
-#EXTINF:-1,RTP 2
-http://80.90.41.118:6600/play/a003
-#EXTINF:-1,Music TV
-http://80.90.41.118:6600/play/a00y
-#EXTINF:-1,Real Madrid TV
-http://80.90.41.118:6600/play/a00x
-#EXTINF:-1,Eurosport 1
-http://80.90.41.118:6600/play/a007
-#EXTINF:-1,TV Record
-http://80.90.41.118:6600/play/a004
-#EXTINF:-1,SportTV 4
-http://80.90.41.118:6600/play/a00t
-#EXTINF:-1,SPORT TV 4
-http://80.90.41.118:6601/play/a008
-#EXTINF:-1,RTP Madeira
-http://80.90.41.118:6601/play/a004
-#EXTINF:-1,TVI 24
-http://80.90.41.118:6601/play/a00b
-#EXTINF:-1,TVCine 2
-http://80.90.41.118:6601/play/a002
-#EXTINF:-1,RTP Açores
-http://80.90.41.118:6601/play/a005
-#EXTINF:-1,MTV Portugal
-http://80.90.41.118:6601/play/a007
-#EXTINF:-1,TVCine 4
-http://80.90.41.118:6601/play/a00a
-#EXTINF:-1,Jim Jam
-http://80.90.41.118:6601/play/a009
-#EXTINF:-1,AMC
-http://80.90.41.118:6601/play/a003
-#EXTINF:-1,SIC K
-http://80.90.41.118:6601/play/a006
-#EXTINF:-1,SIC
-http://80.90.41.118:6602/play/a002
-#EXTINF:-1,SIC Noticias
-http://80.90.41.118:6602/play/a003
-#EXTINF:-1,Odisseia
-http://80.90.41.118:6602/play/a009
-#EXTINF:-1,Syfy
-http://80.90.41.118:6602/play/a004
-#EXTINF:-1,Motors TV
-http://80.90.41.118:6602/play/a007
-#EXTINF:-1,CBS Reality
-http://80.90.41.118:6602/play/a00i
-#EXTINF:-1,Discovery Channel
-http://80.90.41.118:6602/play/a008
-#EXTINF:-1,Afro Music
-http://80.90.41.118:6602/play/a00j
-#EXTINF:-1,FOX News
-http://80.90.41.118:6602/play/a00a
-#EXTINF:-1,SPORT TV 2
-http://80.90.41.118:6602/play/a005
-#EXTINF:-1,SPORT TV 3
-http://80.90.41.118:6602/play/a00b
-#EXTINF:-1,SIC Radical
-http://80.90.41.118:6604/play/a006
-#EXTINF:-1,SIC Caras
-http://80.90.41.118:6604/play/a00b
-#EXTINF:-1,Canção Nova
-http://80.90.41.118:6604/play/a00e
-#EXTINF:-1,SPORT TV 1
-http://80.90.41.118:6604/play/a003
-#EXTINF:-1,RTP Memðria
-http://80.90.41.118:6604/play/a009
-#EXTINF:-1,Cartoon Network
-http://80.90.41.118:6604/play/a008
-#EXTINF:-1,Mickey Mouse e os seus Amigos
-http://80.90.41.118:6604/play/a00g
-#EXTINF:-1,Nat Geo Wild
-http://80.90.41.118:6604/play/a005
-#EXTINF:-1,FOX Comedy
-http://80.90.41.118:6604/play/a00a
-#EXTINF:-1,TVI
-http://80.90.41.118:6604/play/a002
-#EXTINF:-1,Porto Canal
-http://80.90.41.118:6604/play/a007
-#EXTINF:-1,CMTV
-http://80.90.41.118:6604/play/a00f
-#EXTINF:-1,Canal Q
-http://80.90.41.118:6605/play/a007
-#EXTINF:-1,MCM POP
-http://80.90.41.118:6605/play/a00b
-#EXTINF:-1,Eurosport 2
-http://80.90.41.118:6605/play/a00a
-#EXTINF:-1,E! Entertainment
-http://80.90.41.118:6605/play/a003
-#EXTINF:-1,Canal Panda
-http://80.90.41.118:6605/play/a002
-#EXTINF:-1,FTV
-http://80.90.41.118:6605/play/a005
-#EXTINF:-1,RTP Africa
-http://80.90.41.118:6605/play/a006
-#EXTINF:-1,TV Galicia
-http://80.90.41.118:6605/play/a008
-#EXTINF:-1,Playboy TV
-http://80.90.41.118:6605/play/a009
-#EXTINF:-1,Biggs
-http://80.90.41.118:6607/play/a00a
-#EXTINF:-1,Mezzo
-http://80.90.41.118:6607/play/a008
-#EXTINF:-1,FOX Movies
-http://80.90.41.118:6607/play/a004
-#EXTINF:-1,SPORT TV +
-http://80.90.41.118:6607/play/a00c
-#EXTINF:-1,VH1
-http://80.90.41.118:6607/play/a007
-#EXTINF:-1,TVEi
-http://80.90.41.118:6607/play/a009
-#EXTINF:-1,A&E
-http://80.90.41.118:6607/play/a006
-#EXTINF:-1,SIC Mulher
-http://80.90.41.118:6607/play/a002
-#EXTINF:-1,TLC
-http://80.90.41.118:6607/play/a003
-#EXTINF:-1,Eurosport News
-http://80.90.41.118:6607/play/a005
-#EXTINF:-1,Euronews
-http://80.90.41.118:6608/play/a006
-#EXTINF:-1,SPORT TV 5
-http://80.90.41.118:6608/play/a008
-#EXTINF:-1,TVE 24H
-http://80.90.41.118:6608/play/a002
-#EXTINF:-1,Disney Junior
-http://80.90.41.118:6608/play/a009
-#EXTINF:-1,CNN
-http://80.90.41.118:6608/play/a003
-#EXTINF:-1,BBC World News
-http://80.90.41.118:6608/play/a005
-#EXTINF:-1,France 24
-http://80.90.41.118:6608/play/a007
-#EXTINF:-1,SKY News
-http://80.90.41.118:6608/play/a004
-#EXTINF:-1,Sporting TV
-http://80.90.41.118:6608/play/a00a
-#EXTINF:-1,FOX Crime HD
-http://80.90.41.118:6609/play/a007
-#EXTINF:-1,24 Kitchen HD
-http://80.90.41.118:6609/play/a008
-#EXTINF:-1,AXN Black HD
-http://80.90.41.118:6609/play/a002
-#EXTINF:-1,Travel Channel HD
-http://80.90.41.118:6609/play/a003
-#EXTINF:-1,AXN White HD
-http://80.90.41.118:6609/play/a004
-#EXTINF:-1,Eurosport 1 HD
-http://80.90.41.118:6609/play/a005
-#EXTINF:-1,FOX Life HD
-http://80.90.41.118:6609/play/a006
-#EXTINF:-1,Globo
-http://80.90.41.118:6610/play/a002
-#EXTINF:-1,TVI Reality
-http://80.90.41.118:6610/play/a004
-#EXTINF:-1,SPORT TV 5
-http://80.90.41.118:6610/play/a00b
-#EXTINF:-1,SPORT TV+
-http://80.90.41.118:6610/play/a00a
-#EXTINF:-1,Globo Premium
-http://80.90.41.118:6610/play/a006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:4 group-title=”Portugal3”,
 
 #EXTINF:-1,TVI 24 
 http://94.63.107.131:8030/play/a010
@@ -4243,311 +4666,162 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,RTP 1 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5702.ts
-#EXTINF:-1,RTP 1 HD LOW
-http://194.88.104.81:8000/live/Santos/Santos/5694.ts
-#EXTINF:-1,RTP 1
-http://194.88.104.81:8000/live/Santos/Santos/5703.ts
-#EXTINF:-1,RTP 2 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5700.ts
-#EXTINF:-1,RTP 2
-http://194.88.104.81:8000/live/Santos/Santos/5701.ts
-#EXTINF:-1,SIC FHD
-http://194.88.104.81:8000/live/Santos/Santos/5698.ts
-#EXTINF:-1,SIC HD LOW
-http://194.88.104.81:8000/live/Santos/Santos/5692.ts
-#EXTINF:-1,SIC
-http://194.88.104.81:8000/live/Santos/Santos/5699.ts
-#EXTINF:-1,TVI FHD
-http://194.88.104.81:8000/live/Santos/Santos/5696.ts
-#EXTINF:-1,TVI HD LOW
-http://194.88.104.81:8000/live/Santos/Santos/5691.ts
-#EXTINF:-1,TVI
-http://194.88.104.81:8000/live/Santos/Santos/5697.ts
-#EXTINF:-1,RTP Açores
-http://194.88.104.81:8000/live/Santos/Santos/5668.ts
-#EXTINF:-1,RTP Africa
-http://194.88.104.81:8000/live/Santos/Santos/5671.ts
-#EXTINF:-1,RTP Madeira
-http://194.88.104.81:8000/live/Santos/Santos/5669.ts
-#EXTINF:-1,RTP Memória
-http://194.88.104.81:8000/live/Santos/Santos/5670.ts
-#EXTINF:-1,★●•★● INFORMAÇÃO ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/11.ts
-#EXTINF:-1,RTP 3
-http://194.88.104.81:8000/live/Santos/Santos/5673.ts
-#EXTINF:-1,TVI 24
-http://194.88.104.81:8000/live/Santos/Santos/5695.ts
-#EXTINF:-1,SIC Noticias
-http://194.88.104.81:8000/live/Santos/Santos/5678.ts
-#EXTINF:-1,SIC NOTICIAS HD
-http://194.88.104.81:8000/live/Santos/Santos/5677.ts
-#EXTINF:-1,CMTV
-http://194.88.104.81:8000/live/Santos/Santos/5676.ts
-#EXTINF:-1,CMTV HD
-http://194.88.104.81:8000/live/Santos/Santos/5675.ts
-#EXTINF:-1,Porto Canal
-http://194.88.104.81:8000/live/Santos/Santos/5674.ts
-#EXTINF:-1,Porto Canal HD
-http://194.88.104.81:8000/live/Santos/Santos/6975.ts
-#EXTINF:-1,TPA INTERNACIONAL
-http://194.88.104.81:8000/live/Santos/Santos/5672.ts
-#EXTINF:-1,FOX News
-http://194.88.104.81:8000/live/Santos/Santos/5580.ts
-#EXTINF:-1,SKY News
-http://194.88.104.81:8000/live/Santos/Santos/5519.ts
-#EXTINF:-1,Euronews
-http://194.88.104.81:8000/live/Santos/Santos/5522.ts
-#EXTINF:-1,France 24
-http://194.88.104.81:8000/live/Santos/Santos/5655.ts
-#EXTINF:-1,★●•★●• ENTRETENIMENTO ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/19.ts
-#EXTINF:-1,SIC Mulher
-http://194.88.104.81:8000/live/Santos/Santos/5683.ts
-#EXTINF:-1,SIC Caras
-http://194.88.104.81:8000/live/Santos/Santos/5682.ts
-#EXTINF:-1,SIC Caras HD
-http://194.88.104.81:8000/live/Santos/Santos/5681.ts
-#EXTINF:-1,SIC Radical
-http://194.88.104.81:8000/live/Santos/Santos/5680.ts
-#EXTINF:-1,SIC Radical HD
-http://194.88.104.81:8000/live/Santos/Santos/5679.ts
-#EXTINF:-1,TVI Ficção
-http://194.88.104.81:8000/live/Santos/Santos/5690.ts
-#EXTINF:-1,TVI Reality
-http://194.88.104.81:8000/live/Santos/Santos/5689.ts
-#EXTINF:-1,24 Kitchen HD
-http://194.88.104.81:8000/live/Santos/Santos/5548.ts
-#EXTINF:-1,Canal Q
-http://194.88.104.81:8000/live/Santos/Santos/5549.ts
-#EXTINF:-1,CTV Vaticano
-http://194.88.104.81:8000/live/Santos/Santos/6151.ts
-#EXTINF:-1,St Fátima FHD
-http://194.88.104.81:8000/live/Santos/Santos/6152.ts
-#EXTINF:-1,Canção Nova
-http://194.88.104.81:8000/live/Santos/Santos/6994.ts
-#EXTINF:-1,★●•★●• DESPORTO ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/28.ts
-#EXTINF:-1,Sport TV +  FHD
-http://194.88.104.81:8000/live/Santos/Santos/5653.ts
-#EXTINF:-1,Sport TV +
-http://194.88.104.81:8000/live/Santos/Santos/5654.ts
-#EXTINF:-1,Sport TV 1 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5649.ts
-#EXTINF:-1,Sport TV 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/5648.ts
-#EXTINF:-1,Sport TV 1 HD LOW
-http://194.88.104.81:8000/live/Santos/Santos/5647.ts
-#EXTINF:-1,Sport TV 1
-http://194.88.104.81:8000/live/Santos/Santos/5652.ts
-#EXTINF:-1,Sport TV 2 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5644.ts
-#EXTINF:-1,Sport TV 2 HD LOW
-http://194.88.104.81:8000/live/Santos/Santos/5634.ts
-#EXTINF:-1,Sport TV 2
-http://194.88.104.81:8000/live/Santos/Santos/5646.ts
-#EXTINF:-1,Sport TV 3 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5641.ts
-#EXTINF:-1,Sport TV 3
-http://194.88.104.81:8000/live/Santos/Santos/5643.ts
-#EXTINF:-1,Sport TV 4 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5638.ts
-#EXTINF:-1,Sport TV 4
-http://194.88.104.81:8000/live/Santos/Santos/5640.ts
-#EXTINF:-1,Sport TV 5 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5635.ts
-#EXTINF:-1,SPORT TV 5
-http://194.88.104.81:8000/live/Santos/Santos/5637.ts
-#EXTINF:-1,BTV 1 FHD
-http://194.88.104.81:8000/live/Santos/Santos/5628.ts
-#EXTINF:-1,BTV 1
-http://194.88.104.81:8000/live/Santos/Santos/5630.ts
-#EXTINF:-1,BTV 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/5625.ts
-#EXTINF:-1,Sporting TV
-http://194.88.104.81:8000/live/Santos/Santos/5622.ts
-#EXTINF:-1,Eurosport 1
-http://194.88.104.81:8000/live/Santos/Santos/5618.ts
-#EXTINF:-1,Eurosport 2
-http://194.88.104.81:8000/live/Santos/Santos/5616.ts
-#EXTINF:-1,Fight Network HD
-http://194.88.104.81:8000/live/Santos/Santos/5555.ts
-#EXTINF:-1,Kombat Sport
-http://194.88.104.81:8000/live/Santos/Santos/5607.ts
-#EXTINF:-1,PFC
-http://194.88.104.81:8000/live/Santos/Santos/5612.ts
-#EXTINF:-1,NBA TV
-http://194.88.104.81:8000/live/Santos/Santos/5615.ts
-#EXTINF:-1,Motors TV
-http://194.88.104.81:8000/live/Santos/Santos/5611.ts
-#EXTINF:-1,Motorvision HD
-http://194.88.104.81:8000/live/Santos/Santos/5610.ts
-#EXTINF:-1,Fuel TV
-http://194.88.104.81:8000/live/Santos/Santos/5604.ts
-#EXTINF:-1,ABola TV
-http://194.88.104.81:8000/live/Santos/Santos/5620.ts
-#EXTINF:-1,Caçavision
-http://194.88.104.81:8000/live/Santos/Santos/5608.ts
-#EXTINF:-1,Caça e Pesca
-http://194.88.104.81:8000/live/Santos/Santos/5605.ts
-#EXTINF:-1,Toros TV
-http://194.88.104.81:8000/live/Santos/Santos/5609.ts
-#EXTINF:-1,★●•★●• FILMES  ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/63.ts
-#EXTINF:-1,TVCINE 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/5602.ts
-#EXTINF:-1,TVCine 1
-http://194.88.104.81:8000/live/Santos/Santos/5603.ts
-#EXTINF:-1,TVCine 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/5600.ts
-#EXTINF:-1,TVCine 2
-http://194.88.104.81:8000/live/Santos/Santos/5601.ts
-#EXTINF:-1,TVCine 3 HD
-http://194.88.104.81:8000/live/Santos/Santos/5598.ts
-#EXTINF:-1,TVCine 3
-http://194.88.104.81:8000/live/Santos/Santos/5599.ts
-#EXTINF:-1,TVCINE 4 HD
-http://194.88.104.81:8000/live/Santos/Santos/5596.ts
-#EXTINF:-1,TVCine 4
-http://194.88.104.81:8000/live/Santos/Santos/5597.ts
-#EXTINF:-1,AMC HD
-http://194.88.104.81:8000/live/Santos/Santos/5585.ts
-#EXTINF:-1,AMC
-http://194.88.104.81:8000/live/Santos/Santos/5586.ts
-#EXTINF:-1,Hollywood
-http://194.88.104.81:8000/live/Santos/Santos/5589.ts
-#EXTINF:-1,Hollywood HD
-http://194.88.104.81:8000/live/Santos/Santos/5588.ts
-#EXTINF:-1,FOX Movies
-http://194.88.104.81:8000/live/Santos/Santos/5578.ts
-#EXTINF:-1,Cinemundo
-http://194.88.104.81:8000/live/Santos/Santos/5587.ts
-#EXTINF:-1,★●•★●• SERIES ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/78.ts
-#EXTINF:-1,TVSeries HD
-http://194.88.104.81:8000/live/Santos/Santos/5590.ts
-#EXTINF:-1,TV SERIES
-http://194.88.104.81:8000/live/Santos/Santos/5591.ts
-#EXTINF:-1,FOX HD
-http://194.88.104.81:8000/live/Santos/Santos/5581.ts
-#EXTINF:-1,FOX Comedy
-http://194.88.104.81:8000/live/Santos/Santos/5575.ts
-#EXTINF:-1,FOX Crime HD
-http://194.88.104.81:8000/live/Santos/Santos/5576.ts
-#EXTINF:-1,FOX Life HD
-http://194.88.104.81:8000/live/Santos/Santos/5579.ts
-#EXTINF:-1,AXN HD
-http://194.88.104.81:8000/live/Santos/Santos/5571.ts
-#EXTINF:-1,AXN Black HD
-http://194.88.104.81:8000/live/Santos/Santos/5572.ts
-#EXTINF:-1,AXN White HD
-http://194.88.104.81:8000/live/Santos/Santos/5573.ts
-#EXTINF:-1,Sundance HD
-http://194.88.104.81:8000/live/Santos/Santos/5582.ts
-#EXTINF:-1,SyFy HD
-http://194.88.104.81:8000/live/Santos/Santos/5583.ts
-#EXTINF:-1,SyFy
-http://194.88.104.81:8000/live/Santos/Santos/5584.ts
-#EXTINF:-1,★●•★●• INFANTIL ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/92.ts
-#EXTINF:-1,SIC K
-http://194.88.104.81:8000/live/Santos/Santos/5529.ts
-#EXTINF:-1,Nickelodeon
-http://194.88.104.81:8000/live/Santos/Santos/5528.ts
-#EXTINF:-1,Cartoon Network
-http://194.88.104.81:8000/live/Santos/Santos/5526.ts
-#EXTINF:-1,JimJam
-http://194.88.104.81:8000/live/Santos/Santos/5527.ts
-#EXTINF:-1,Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/5532.ts
-#EXTINF:-1,Disney Junior
-http://194.88.104.81:8000/live/Santos/Santos/5531.ts
-#EXTINF:-1,Canal Panda
-http://194.88.104.81:8000/live/Santos/Santos/5530.ts
-#EXTINF:-1,Biggs
-http://194.88.104.81:8000/live/Santos/Santos/5523.ts
-#EXTINF:-1,Baby First
-http://194.88.104.81:8000/live/Santos/Santos/5524.ts
-#EXTINF:-1,Baby TV
-http://194.88.104.81:8000/live/Santos/Santos/5525.ts
-#EXTINF:-1,★●•★●• Musica ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/126.ts
-#EXTINF:-1,VH1
-http://194.88.104.81:8000/live/Santos/Santos/5538.ts
-#EXTINF:-1,VH1 Classic
-http://194.88.104.81:8000/live/Santos/Santos/5537.ts
-#EXTINF:-1,Mezzo
-http://194.88.104.81:8000/live/Santos/Santos/5534.ts
-#EXTINF:-1,MTV DANCE
-http://194.88.104.81:8000/live/Santos/Santos/5539.ts
-#EXTINF:-1,MTV Portugal
-http://194.88.104.81:8000/live/Santos/Santos/5543.ts
-#EXTINF:-1,MCM Pop
-http://194.88.104.81:8000/live/Santos/Santos/5541.ts
-#EXTINF:-1,MCM TOP
-http://194.88.104.81:8000/live/Santos/Santos/5540.ts
-#EXTINF:-1,Afro Music Channel
-http://194.88.104.81:8000/live/Santos/Santos/5542.ts
-#EXTINF:-1,iConcerts HD
-http://194.88.104.81:8000/live/Santos/Santos/5536.ts
-#EXTINF:-1,C Music TV
-http://194.88.104.81:8000/live/Santos/Santos/5535.ts
-#EXTINF:-1,Trace Urban
-http://194.88.104.81:8000/live/Santos/Santos/5553.ts
-#EXTINF:-1,★●•★DOCUMENTARIOS★●•★
-http://194.88.104.81:8000/live/Santos/Santos/103.ts
-#EXTINF:-1,TLC
-http://194.88.104.81:8000/live/Santos/Santos/5545.ts
-#EXTINF:-1,Fine Living Network HD
-http://194.88.104.81:8000/live/Santos/Santos/5556.ts
-#EXTINF:-1,National Geographic HD
-http://194.88.104.81:8000/live/Santos/Santos/5565.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://194.88.104.81:8000/live/Santos/Santos/5564.ts
-#EXTINF:-1,Nat Geo Wild
-http://194.88.104.81:8000/live/Santos/Santos/5563.ts
-#EXTINF:-1,Outdoor Channel HD
-http://194.88.104.81:8000/live/Santos/Santos/5558.ts
-#EXTINF:-1,Travel Channel HD
-http://194.88.104.81:8000/live/Santos/Santos/5554.ts
-#EXTINF:-1,Discovery Channel
-http://194.88.104.81:8000/live/Santos/Santos/5566.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://194.88.104.81:8000/live/Santos/Santos/5567.ts
-#EXTINF:-1,CBS Reality
-http://194.88.104.81:8000/live/Santos/Santos/5560.ts
-#EXTINF:-1,MCS Extreme
-http://194.88.104.81:8000/live/Santos/Santos/5552.ts
-#EXTINF:-1,MCS Lifestyle
-http://194.88.104.81:8000/live/Santos/Santos/5546.ts
-#EXTINF:-1,Fashion TV
-http://194.88.104.81:8000/live/Santos/Santos/5550.ts
-#EXTINF:-1,E! Entertainment
-http://194.88.104.81:8000/live/Santos/Santos/5557.ts
-#EXTINF:-1,A&E
-http://194.88.104.81:8000/live/Santos/Santos/5547.ts
-#EXTINF:-1,Odisseia
-http://194.88.104.81:8000/live/Santos/Santos/5561.ts
-#EXTINF:-1,História
-http://194.88.104.81:8000/live/Santos/Santos/5562.ts
-#EXTINF:-1,Crime   Investigation
-http://194.88.104.81:8000/live/Santos/Santos/5559.ts
-#EXTINF:-1,★●•★●• INTERNACIONAIS ●•★●•★
-http://194.88.104.81:8000/live/Santos/Santos/138.ts
-#EXTINF:-1,Globo Portugal
-http://194.88.104.81:8000/live/Santos/Santos/5660.ts
-#EXTINF:-1,Globo Premium
-http://194.88.104.81:8000/live/Santos/Santos/5661.ts
-#EXTINF:-1,TV Record
-http://194.88.104.81:8000/live/Santos/Santos/5663.ts
-#EXTINF:-1,TV Record HD
-http://194.88.104.81:8000/live/Santos/Santos/5664.ts
-#EXTINF:-1,TV GALICIA
-http://194.88.104.81:8000/live/Santos/Santos/5666.ts
 
 
-
+#EXTINF:-1,PT | 24 Kitchen
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4574.ts
+#EXTINF:-1,PT | A Bola TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4575.ts
+#EXTINF:-1,PT | A&E
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4576.ts
+#EXTINF:-1,PT | AMC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4577.ts
+#EXTINF:-1,PT | AXN
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4578.ts
+#EXTINF:-1,PT | AXN Black
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4579.ts
+#EXTINF:-1,PT | AXN White HD
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4580.ts
+#EXTINF:-1,PT | Baby TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4581.ts
+#EXTINF:-1,PT | Benfica TV 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4582.ts
+#EXTINF:-1,PT | Benfica TV1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4583.ts
+#EXTINF:-1,PT | Biggs
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4584.ts
+#EXTINF:-1,PT | Canal Historia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4586.ts
+#EXTINF:-1,PT | Canal Panda
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4587.ts
+#EXTINF:-1,PT | Canal Q
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4588.ts
+#EXTINF:-1,PT | Caza & Pesca
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4585.ts
+#EXTINF:-1,PT | CBS Reality
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4589.ts
+#EXTINF:-1,PT | Cine Mundo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4590.ts
+#EXTINF:-1,PT | CM TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4591.ts
+#EXTINF:-1,PT | Discovery Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4592.ts
+#EXTINF:-1,PT | Discovery Showcase
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4593.ts
+#EXTINF:-1,PT | Disney Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4594.ts
+#EXTINF:-1,PT | Disney Junior
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4595.ts
+#EXTINF:-1,PT | Eurosport
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4596.ts
+#EXTINF:-1,PT | Eurosport 2 Xtra
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4597.ts
+#EXTINF:-1,PT | Eurosport News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4598.ts
+#EXTINF:-1,PT | FOX
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4599.ts
+#EXTINF:-1,PT | FOX Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4600.ts
+#EXTINF:-1,PT | FOX Life
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4601.ts
+#EXTINF:-1,PT | FOX Movies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4602.ts
+#EXTINF:-1,PT | Fuel TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4603.ts
+#EXTINF:-1,PT | Hollywood
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4604.ts
+#EXTINF:-1,PT | MCM POP
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4605.ts
+#EXTINF:-1,PT | Motors TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4606.ts
+#EXTINF:-1,PT | Motorvision
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4607.ts
+#EXTINF:-1,PT | MOV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4608.ts
+#EXTINF:-1,PT | MTV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4609.ts
+#EXTINF:-1,PT | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4610.ts
+#EXTINF:-1,PT | National Geographic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4611.ts
+#EXTINF:-1,PT | Odissea
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4612.ts
+#EXTINF:-1,PT | PFC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4613.ts
+#EXTINF:-1,PT | Porto Canal
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4614.ts
+#EXTINF:-1,PT | Real Madrid Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4616.ts
+#EXTINF:-1,PT | Record
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4615.ts
+#EXTINF:-1,PT | RTP 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4617.ts
+#EXTINF:-1,PT | RTP 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4618.ts
+#EXTINF:-1,PT | RTP 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4619.ts
+#EXTINF:-1,PT | RTP Acores
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4620.ts
+#EXTINF:-1,PT | RTP Africa
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4621.ts
+#EXTINF:-1,PT | RTP Madeira
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4622.ts
+#EXTINF:-1,PT | RTP Memoria
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4623.ts
+#EXTINF:-1,PT | SIC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4624.ts
+#EXTINF:-1,PT | SIC Caras
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4625.ts
+#EXTINF:-1,PT | SIC K
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4626.ts
+#EXTINF:-1,PT | SIC Mulher
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4627.ts
+#EXTINF:-1,PT | SIC Noticias
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4628.ts
+#EXTINF:-1,PT | SIC Radical
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4629.ts
+#EXTINF:-1,PT | Sport TV 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4630.ts
+#EXTINF:-1,PT | Sport TV 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4631.ts
+#EXTINF:-1,PT | Sport TV 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4632.ts
+#EXTINF:-1,PT | Sport TV 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4633.ts
+#EXTINF:-1,PT | Sport TV 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4634.ts
+#EXTINF:-1,PT | Sport TV Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4635.ts
+#EXTINF:-1,PT | Sporting TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4636.ts
+#EXTINF:-1,PT | SyFy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4637.ts
+#EXTINF:-1,PT | TLC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4638.ts
+#EXTINF:-1,PT | Travel Channel
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4639.ts
+#EXTINF:-1,PT | TV Globo Portugal
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4640.ts
+#EXTINF:-1,PT | TV Globo Premium
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4641.ts
+#EXTINF:-1,PT | TV Series
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4642.ts
+#EXTINF:-1,PT | TVC 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4643.ts
+#EXTINF:-1,PT | TVC 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4644.ts
+#EXTINF:-1,PT | TVC 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4645.ts
+#EXTINF:-1,PT | TVC 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4646.ts
+#EXTINF:-1,PT | TVI
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4647.ts
+#EXTINF:-1,PT | TVI 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4648.ts
+#EXTINF:-1,PT | TVI Ficcao
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4650.ts
+#EXTINF:-1,PT | TVI Reality
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4649.ts
 
 
 
@@ -5144,7 +5418,86 @@ http://.....
 http://.....
 
 
-
+#EXTINF:-1,IN | Asianet
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4788.ts
+#EXTINF:-1,IN | Asianet Movies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4786.ts
+#EXTINF:-1,IN | Asianet News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4785.ts
+#EXTINF:-1,IN | Asianet Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4787.ts
+#EXTINF:-1,IN | Colors
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4784.ts
+#EXTINF:-1,IN | Jaya Max USA
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4781.ts
+#EXTINF:-1,IN | Jaya Movies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4782.ts
+#EXTINF:-1,IN | Jaya Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4783.ts
+#EXTINF:-1,IN | Jaya TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4780.ts
+#EXTINF:-1,IN | M Tunes
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4779.ts
+#EXTINF:-1,IN | Maa Gold
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4778.ts
+#EXTINF:-1,IN | Maa Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4777.ts
+#EXTINF:-1,IN | Santhora TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4798.ts
+#EXTINF:-1,IN | Sony
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4790.ts
+#EXTINF:-1,IN | Sony Max
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4775.ts
+#EXTINF:-1,IN | Sony Max 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4776.ts
+#EXTINF:-1,IN | Sony Sab
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4789.ts
+#EXTINF:-1,IN | Star Jalsha
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4774.ts
+#EXTINF:-1,IN | Star Sports 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4773.ts
+#EXTINF:-1,IN | Star Sports 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4772.ts
+#EXTINF:-1,IN | Star Sports 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4771.ts
+#EXTINF:-1,IN | Star Sports 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4770.ts
+#EXTINF:-1,IN | Sun Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4769.ts
+#EXTINF:-1,IN | Sun TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4767.ts
+#EXTINF:-1,IN | Sun TV US
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4768.ts
+#EXTINF:-1,IN | Ten Sports
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4766.ts
+#EXTINF:-1,IN | TV9
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4765.ts
+#EXTINF:-1,IN | Zee Anmol
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4796.ts
+#EXTINF:-1,IN | Zee Bangla
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4764.ts
+#EXTINF:-1,IN | Zee Business
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4792.ts
+#EXTINF:-1,IN | Zee Classic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4797.ts
+#EXTINF:-1,IN | Zee Foodz
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4763.ts
+#EXTINF:-1,IN | Zee News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4794.ts
+#EXTINF:-1,IN | Zee Punjabi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4791.ts
+#EXTINF:-1,IN | Zee Smile
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4795.ts
+#EXTINF:-1,IN | Zee Studio
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4761.ts
+#EXTINF:-1,IN | Zee Tamil
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4793.ts
+#EXTINF:-1,US: ABC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/5274.ts
+#EXTINF:-1,IN | Zee Telugu
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4762.ts
+#EXTINF:-1,IN | Zing
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4760.ts
 
 
 
@@ -5301,6 +5654,298 @@ http://.....
 http://.....
 #EXTINF:-1 ,
 http://.....
+
+#EXTINF:-1,AR | Abu Dhabi Nat Geo
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4825.ts
+#EXTINF:-1,AR | Abu Dhabi Sports 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4827.ts
+#EXTINF:-1,AR | Abu Dhabi Sports 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4828.ts
+#EXTINF:-1,AR | Abu Dhabi TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4826.ts
+#EXTINF:-1,AR | Al Hayat 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4927.ts
+#EXTINF:-1,AR | Al Hayat 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4928.ts
+#EXTINF:-1,AR | Al Hayat Musalsalat
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4929.ts
+#EXTINF:-1,AR | Al Ray
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4896.ts
+#EXTINF:-1,AR | Al Rayyan 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4897.ts
+#EXTINF:-1,AR | Algerie 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4905.ts
+#EXTINF:-1,AR | Aljadeed TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4935.ts
+#EXTINF:-1,AR | Aljazeera
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4864.ts
+#EXTINF:-1,AR | ART Aflam 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4873.ts
+#EXTINF:-1,AR | ART Aflam 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4874.ts
+#EXTINF:-1,AR | ART Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4875.ts
+#EXTINF:-1,AR | ART Hekayat 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4876.ts
+#EXTINF:-1,AR | Bein Movies 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4865.ts
+#EXTINF:-1,AR | Bein Movies 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4866.ts
+#EXTINF:-1,AR | Bein Movies 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4867.ts
+#EXTINF:-1,AR | Bein Movies 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4868.ts
+#EXTINF:-1,AR | Canal Algerie
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4904.ts
+#EXTINF:-1,AR | Cartoon Network
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4918.ts
+#EXTINF:-1,AR | CBC
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4877.ts
+#EXTINF:-1,AR | CBC Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4879.ts
+#EXTINF:-1,AR | CBC Extra
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4878.ts
+#EXTINF:-1,AR | CBC Sofra
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4880.ts
+#EXTINF:-1,AR | Cinema 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4894.ts
+#EXTINF:-1,AR | Cinema Pro
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4893.ts
+#EXTINF:-1,AR | Dubai Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4862.ts
+#EXTINF:-1,AR | Dubai One
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4857.ts
+#EXTINF:-1,AR | Dubai Racing
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4861.ts
+#EXTINF:-1,AR | Dubai Sport
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4858.ts
+#EXTINF:-1,AR | Dubai Sport 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4859.ts
+#EXTINF:-1,AR | Dubai Sport 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4860.ts
+#EXTINF:-1,AR | KTV 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4919.ts
+#EXTINF:-1,AR | KTV 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4920.ts
+#EXTINF:-1,AR | KTV 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4921.ts
+#EXTINF:-1,AR | KTV 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4922.ts
+#EXTINF:-1,AR | KTV 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4923.ts
+#EXTINF:-1,AR | KTV 6
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4924.ts
+#EXTINF:-1,AR | KTV 7
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4925.ts
+#EXTINF:-1,AR | KTV 8
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4926.ts
+#EXTINF:-1,AR | Kuwait Sport Plus
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4901.ts
+#EXTINF:-1,AR | Kuwait TV1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4899.ts
+#EXTINF:-1,AR | Kuwait TV2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4900.ts
+#EXTINF:-1,AR | M Tunisia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4932.ts
+#EXTINF:-1,AR | MBA Masr 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4846.ts
+#EXTINF:-1,AR | MBC 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4839.ts
+#EXTINF:-1,AR | MBC 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4840.ts
+#EXTINF:-1,AR | MBC 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4841.ts
+#EXTINF:-1,AR | MBC 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4842.ts
+#EXTINF:-1,AR | MBC Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4844.ts
+#EXTINF:-1,AR | MBC Bollywood
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4847.ts
+#EXTINF:-1,AR | MBC Masr
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4845.ts
+#EXTINF:-1,AR | MBC Max
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4843.ts
+#EXTINF:-1,AR | MBC Pro Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4835.ts
+#EXTINF:-1,AR | MBC Pro Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4836.ts
+#EXTINF:-1,AR | MBC Pro Sport 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4837.ts
+#EXTINF:-1,AR | MBC Pro Sport 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4838.ts
+#EXTINF:-1,AR | Moga Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4903.ts
+#EXTINF:-1,AR | NBN TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4937.ts
+#EXTINF:-1,AR | Nile Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4852.ts
+#EXTINF:-1,AR | Nile Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4850.ts
+#EXTINF:-1,AR | Nile Culture
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4856.ts
+#EXTINF:-1,AR | Nile Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4849.ts
+#EXTINF:-1,AR | Nile Family
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4851.ts
+#EXTINF:-1,AR | Nile Life
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4855.ts
+#EXTINF:-1,AR | Nile News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4854.ts
+#EXTINF:-1,AR | Nile Sport
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4853.ts
+#EXTINF:-1,AR | Nile TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4848.ts
+#EXTINF:-1,AR | Noor Dubai
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4916.ts
+#EXTINF:-1,AR | Oman TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4898.ts
+#EXTINF:-1,AR | OSN Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4834.ts
+#EXTINF:-1,AR | OSN Action 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4816.ts
+#EXTINF:-1,AR | OSN Al Youm
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4815.ts
+#EXTINF:-1,AR | OSN Alkass Sport 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4829.ts
+#EXTINF:-1,AR | OSN Alkass Sport 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4830.ts
+#EXTINF:-1,AR | OSN Alkass Sport 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4831.ts
+#EXTINF:-1,AR | OSN Alkass Sport 4
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4832.ts
+#EXTINF:-1,AR | OSN Alkass Sport 5
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4833.ts
+#EXTINF:-1,AR | OSN Animal Planet
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4805.ts
+#EXTINF:-1,AR | OSN Art Hekayat 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4817.ts
+#EXTINF:-1,AR | OSN Box Office 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4820.ts
+#EXTINF:-1,AR | OSN Box Office 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4821.ts
+#EXTINF:-1,AR | OSN Box Office 3
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4822.ts
+#EXTINF:-1,AR | OSN Discovery I.D
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4814.ts
+#EXTINF:-1,AR | OSN Discovery Science
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4823.ts
+#EXTINF:-1,AR | OSN First
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4813.ts
+#EXTINF:-1,AR | OSN First Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4802.ts
+#EXTINF:-1,AR | OSN MBC Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4804.ts
+#EXTINF:-1,AR | OSN MBC Plus Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4811.ts
+#EXTINF:-1,AR | OSN Movies Action
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4801.ts
+#EXTINF:-1,AR | OSN Movies Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4812.ts
+#EXTINF:-1,AR | OSN Movies Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4824.ts
+#EXTINF:-1,AR | OSN Movies Festival
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4800.ts
+#EXTINF:-1,AR | OSN Movies Kids
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4810.ts
+#EXTINF:-1,AR | OSN Movies Premiere
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4818.ts
+#EXTINF:-1,AR | OSN Movies Premiere 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4819.ts
+#EXTINF:-1,AR | OSN Star Movies
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4803.ts
+#EXTINF:-1,AR | OSN Ya Hala
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4808.ts
+#EXTINF:-1,AR | OSN Ya Hala Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4809.ts
+#EXTINF:-1,AR | OSN Ya Halla Shabab
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4806.ts
+#EXTINF:-1,AR | OTV Lebanon
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4902.ts
+#EXTINF:-1,AR | Panorama Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4892.ts
+#EXTINF:-1,AR | Panorama Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4889.ts
+#EXTINF:-1,AR | Panorama Drama 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4890.ts
+#EXTINF:-1,AR | Panorama Film
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4891.ts
+#EXTINF:-1,AR | Panorama Food
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4888.ts
+#EXTINF:-1,AR | Qatar TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4895.ts
+#EXTINF:-1,AR | Rotana Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4914.ts
+#EXTINF:-1,AR | Rotana Classic
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4913.ts
+#EXTINF:-1,AR | Rotana Clip
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4911.ts
+#EXTINF:-1,AR | Rotana Khaliji
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4912.ts
+#EXTINF:-1,AR | Rotana Massrya
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4915.ts
+#EXTINF:-1,AR | Rotana Music
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4910.ts
+#EXTINF:-1,AR | Sama Dubai
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4863.ts
+#EXTINF:-1,AR | Saudi 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4883.ts
+#EXTINF:-1,AR | Saudi 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4884.ts
+#EXTINF:-1,AR | Saudi 24
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4885.ts
+#EXTINF:-1,AR | Saudi Sports
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4882.ts
+#EXTINF:-1,AR | Sky News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4917.ts
+#EXTINF:-1,AR | Sky News Arabia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4881.ts
+#EXTINF:-1,AR | Star Cinema 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4886.ts
+#EXTINF:-1,AR | Star Cinema 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4887.ts
+#EXTINF:-1,AR | Syria Aloula
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4909.ts
+#EXTINF:-1,AR | Syria Drama
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4908.ts
+#EXTINF:-1,AR | Syria News
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4907.ts
+#EXTINF:-1,AR | Syria TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4906.ts
+#EXTINF:-1,AR | Tele Liban
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4936.ts
+#EXTINF:-1,AR | Time Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4870.ts
+#EXTINF:-1,AR | Time Comedy
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4869.ts
+#EXTINF:-1,AR | Time Film
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4871.ts
+#EXTINF:-1,AR | Time Taxi
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4872.ts
+#EXTINF:-1,AR | TNN Tunisia
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4934.ts
+#EXTINF:-1,AR | Tunisia First-TV
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4933.ts
+#EXTINF:-1,AR | Tunisia National 1
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4930.ts
+#EXTINF:-1,AR | Tunisia National 2
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4931.ts
+#EXTINF:-1,AR | Ya Hala Cinema
+http://vip.groupiptv.com:7000/live/ayoub/ayoub/4807.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5503,45 +6148,6 @@ http://nn.geo.joj.sk/hls/rik-360.m3u8
 
 
 
-
-#EXTINF:-1,Prima COOL 
-http://208.43.120.148:5000/live/116/116.m3u8 
-#EXTINF:-1,NOVA 2 
-http://208.43.120.148:5000/live/854/854.m3u8 
-#EXTINF:-1,NOVA Cinema 
-http://208.43.120.148:5000/live/120/120.m3u8 
-#EXTINF:-1,CSfilm_Horor 
-http://208.43.120.148:5000/live/122/122.m3u8 
-#EXTINF:-1,TV Barrandov 
-http://208.43.120.148:5000/live/121/121.m3u8 
-#EXTINF:-1,MINIMAX 
-http://108.168.175.182:5000/live/278/278.m3u8 
-#EXTINF:-1,Sport 1 HD 
-http://108.168.175.182:5000/live/103/103.m3u8 
-#EXTINF:-1,Sport 2 
-http://108.168.175.182:5000/live/279/279.m3u8 
-#EXTINF:-1,NOVA HD 
-http://108.168.175.182:5000/live/156/156.m3u8 
-#EXTINF:-1,AXN 
-http://69.39.239.166:5000/live/205/205.m3u8 
-#EXTINF:-1,AXN White 
-http://69.39.239.166:5000/live/281/281.m3u8 
-#EXTINF:-1,AXN Black 
-http://69.39.239.166:5000/live/282/282.m3u8 
-#EXTINF:-1,Spektrum HOME 
-http://199.195.199.196:5000/live/312/312.m3u8 
-#EXTINF:-1,STV 1 
-http://199.195.199.196:5000/live/365/365.m3u8 
-#EXTINF:-1,STV 2 
-http://199.195.199.196:5000/live/366/366.m3u8 
-#EXTINF:-1,Doma 
-http://199.195.199.196:5000/live/368/368.m3u8 
-#EXTINF:-1,JOJ+ 
-http://199.195.199.196:5000/live/367/367.m3u8 
-#EXTINF:-1,RebeL 
-http://199.195.199.196:5000/live/410/410.m3u8 
-#EXTINF:-1,REtrO 
-http://199.195.199.196:5000/live/412/412.m3u8 
 #EXTINF:-1,Ceskoslovensko HD 
 http://65.254.55.10:4000/live/196/196.m3u8 
 #EXTINF:-1,DokuCZ 
@@ -5654,99 +6260,60 @@ http://84.47.113.9:4022/udp/234.1.1.70:1234
 
 #EXTINF:10 group-title=”Vietnam”,
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
-http://123.30.185.126/hls/vtc1.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-http://118.107.68.10:1935/live/smil:VTC1HD_15032017.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
-http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://123.29.68.179/v2live.m3u8?c=vstv269&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=f7YJNjkGeX8QaQBf&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1  tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://118.107.68.10:1935/live/_definst_/smil:VTC3HD_15032017.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
-http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/3QYpmSw.png",VTC5
-http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/xXeBAok.png",VTC6
-http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
-http://113.160.49.39/lives/origin04/vtc7sd.isml/vtc7sd.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
-http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
-http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
-http://113.160.49.39/lives/origin04/vtc9sd.isml/vtc9sd.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9
-http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8		    
-#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtc10.png",VTC10
-http://118.107.71.15:1935/live/_definst_/smil:VTC10/VTC10_live.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtc10.png",VTC10
-http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/aKmAf9Z.png",VTC12
-http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/annOIzX.png",VTC14
-http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b900000.m3u8
-#EXTINF:-1  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
-http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8	
-#EXTINF:-1  tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC PLAY
-http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://i.imgur.com/JW8VXef.png",VTV 1 
 http://113.160.49.39/lives/origin04/v1sd.isml/v1sd.m3u8
 #EXTINF:-1  tvg-logo="http://i.imgur.com/JW8VXef.png",VTV1
 http://sv.tivi3g.com/stream-vtv/vtv1.m3u8
 #EXTINF:-1  tvg-logo="http://i.imgur.com/JW8VXef.png,VTV1
 http://123.30.185.126/hls/vtv1.m3u8		    	
-#EXTINF:-1  tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2
+#EXTINF:-1  tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2 
 http://sv.tivi3g.com/stream-vtv/vtv2.m3u8
 #EXTINF:-1  tvg-logo="http://i.imgur.com/RwwN9B3.png",VTV2 
 http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
+#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 
 http://113.160.49.39/lives/origin04/v3sd.isml/v3sd.m3u8
-#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
+#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 
 http://sv.tivi3g.com/stream-vtv/vtv3.m3u8		    
-#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3
+#EXTINF:-1  tvg-logo="http://i.imgur.com/spL8IHO.png",VTV3 
 http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv4.png",VTV4
+http://sv.tivi3g.com/stream-vtv/vtv4.m3u8
+#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv5.png",VTV5
+http://sv.tivi3g.com/stream-vtv/vtv5.m3u8
 #EXTINF:-1  tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
-http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
+http://203.162.235.41:17822
 #EXTINF:-1  tvg-logo="http://i.imgur.com/keIENsc.png",VTV6
 http://sv.tivi3g.com/stream-vtv/vtv6.m3u8
-#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv7.png",VTV7 
+#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv7.png",VTV7
 http://sv.tivi3g.com/stream-vtv/vtv7.m3u8
 #XTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8
 http://sv.tivi3g.com/stream-vtv/vtv8.m3u8
 #EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv8.png",VTV8
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv9.png",VTV9 
+#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/vtv9.png",VTV9
 http://sv.tivi3g.com/stream-vtv/vtv9.m3u8
 #EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png",QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1  tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",ANTV 
+#EXTINF:-1  tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png",ANTV
 http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN 
+#EXTINF:-1  tvg-logo="",VOV
+http://123.30.185.126/hls/vov.m3u8
+#EXTINF:-1  tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png",TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7 
+             
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ac/HTV7-tphcm.png",HTV 7
 http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0a/HTV9-tphcm.png",HTV 9
 http://113.160.49.39/lives/origin04/htv9sd.isml/htv9sd.m3u8
-
+ 
+#EXTINF:-1  tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1
+http://123.30.185.126/hls/vtc1.m3u8
+#EXTINF:-1  tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3
+http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1  tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC PLAY
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 
 
 
