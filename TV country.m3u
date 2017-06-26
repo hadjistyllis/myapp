@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/6/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -273,8 +273,10 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:3 group-title=”USA-WebTV”, 
 
-
-
+#EXTINF:-1,Animal Planet 
+http://149.62.176.220:8089/udp/239.100.2.2:3001
+#EXTINF:-1,NEWSMAX TV 
+http://newsmax-i.akamaihd.net/hls/live/271424/Live_1/index_720.m3u8
 #EXTINF:-1,FOX 23 
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8 
 #EXTINF:-1,FOX 25 
@@ -951,6 +953,247 @@ http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
 
 
 
+#EXTINF:8 group-title=”USA-LOOP_ONE”,
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8000/live/tony2/tony2/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8000/live/tony2/tony2/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8000/live/tony2/tony2/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8000/live/tony2/tony2/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8000/live/tony2/tony2/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8000/live/tony2/tony2/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8000/live/tony2/tony2/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8000/live/tony2/tony2/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8000/live/tony2/tony2/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8000/live/tony2/tony2/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.com:8000/live/tony2/tony2/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8000/live/tony2/tony2/1475.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1497.ts
+#EXTINF:-1,US: Sports NET PACIFIC
+http://ipsatpro.com:8000/live/tony2/tony2/1502.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.com:8000/live/tony2/tony2/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.com:8000/live/tony2/tony2/1526.ts
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.com:8000/live/tony2/tony2/1503.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.com:8000/live/tony2/tony2/1525.ts
+#EXTINF:-1,US: Sports Tonight
+http://ipsatpro.com:8000/live/tony2/tony2/1490.ts
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.com:8000/live/tony2/tony2/1459.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://ipsatpro.com:8000/live/tony2/tony2/1496.ts
+#EXTINF:-1,US: USA Network
+http://ipsatpro.com:8000/live/tony2/tony2/1498.ts
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.com:8000/live/tony2/tony2/1483.ts
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.com:8000/live/tony2/tony2/1486.ts
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.com:8000/live/tony2/tony2/1442.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.com:8000/live/tony2/tony2/1434.ts
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.com:8000/live/tony2/tony2/1429.ts
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.com:8000/live/tony2/tony2/1430.ts
+#EXTINF:-1,US: ShowTime HD
+http://ipsatpro.com:8000/live/tony2/tony2/1439.ts
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.com:8000/live/tony2/tony2/1480.ts
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.com:8000/live/tony2/tony2/1479.ts
+#EXTINF:-1,US: AFN Movies HD
+http://ipsatpro.com:8000/live/tony2/tony2/1477.ts
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.com:8000/live/tony2/tony2/1471.ts
+#EXTINF:-1,US: TMN Movies 1
+http://ipsatpro.com:8000/live/tony2/tony2/1467.ts
+#EXTINF:-1,US: TMN Movies 2
+http://ipsatpro.com:8000/live/tony2/tony2/1468.ts
+#EXTINF:-1,US: TMN Movies 3
+http://ipsatpro.com:8000/live/tony2/tony2/1469.ts
+#EXTINF:-1,US: TMN Movies 4
+http://ipsatpro.com:8000/live/tony2/tony2/1470.ts
+#EXTINF:-1,US: FX HD
+http://ipsatpro.com:8000/live/tony2/tony2/1478.ts
+#EXTINF:-1,US: FOX 1
+http://ipsatpro.com:8000/live/tony2/tony2/1435.ts
+#EXTINF:-1,US: Ion US
+http://ipsatpro.com:8000/live/tony2/tony2/1531.ts
+#EXTINF:-1,US: FOX 30
+http://ipsatpro.com:8000/live/tony2/tony2/1523.ts
+#EXTINF:-1,US: FOX 23
+http://ipsatpro.com:8000/live/tony2/tony2/1519.ts
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1509.ts
+#EXTINF:-1,US: Fox Action
+http://ipsatpro.com:8000/live/tony2/tony2/1448.ts
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/1441.ts
+#EXTINF:-1,US: Fox Premium HD
+http://ipsatpro.com:8000/live/tony2/tony2/1437.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.com:8000/live/tony2/tony2/1512.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.com:8000/live/tony2/tony2/1517.ts
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.com:8000/live/tony2/tony2/1533.ts
+#EXTINF:-1,US: SYFY HD
+http://ipsatpro.com:8000/live/tony2/tony2/1481.ts
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.com:8000/live/tony2/tony2/1485.ts
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.com:8000/live/tony2/tony2/1433.ts
+#EXTINF:-1,US: Bravo
+http://ipsatpro.com:8000/live/tony2/tony2/1482.ts
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.com:8000/live/tony2/tony2/1438.ts
+#EXTINF:-1,US: Starz East
+http://ipsatpro.com:8000/live/tony2/tony2/1450.ts
+#EXTINF:-1,US: YTV HD
+http://ipsatpro.com:8000/live/tony2/tony2/1506.ts
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.com:8000/live/tony2/tony2/1457.ts
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.com:8000/live/tony2/tony2/1507.ts
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.com:8000/live/tony2/tony2/1500.ts
+#EXTINF:-1,US: HBO Action
+http://ipsatpro.com:8000/live/tony2/tony2/1511.ts
+#EXTINF:-1,US: Movie Time HD
+http://ipsatpro.com:8000/live/tony2/tony2/1499.ts
+#EXTINF:-1,US: RDS2
+http://ipsatpro.com:8000/live/tony2/tony2/1505.ts
+#EXTINF:-1,US: NBCSN
+http://ipsatpro.com:8000/live/tony2/tony2/1456.ts
+#EXTINF:-1,US: HSN
+http://ipsatpro.com:8000/live/tony2/tony2/1462.ts
+#EXTINF:-1,US: London Live
+http://ipsatpro.com:8000/live/tony2/tony2/1494.ts
+#EXTINF:-1,US: Golbal HD
+http://ipsatpro.com:8000/live/tony2/tony2/1491.ts
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.com:8000/live/tony2/tony2/1524.ts
+#EXTINF:-1,US: Twit HD
+http://ipsatpro.com:8000/live/tony2/tony2/1522.ts
+#EXTINF:-1,US: Kiro 7
+http://ipsatpro.com:8000/live/tony2/tony2/1520.ts
+#EXTINF:-1,US: Иллюзион +
+http://ipsatpro.com:8000/live/tony2/tony2/1518.ts
+#EXTINF:-1,US: CBSN
+http://ipsatpro.com:8000/live/tony2/tony2/1521.ts
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.com:8000/live/tony2/tony2/1495.ts
+#EXTINF:-1,US: Olympic Channel
+http://ipsatpro.com:8000/live/tony2/tony2/1493.ts
+#EXTINF:-1,US: AMC
+http://ipsatpro.com:8000/live/tony2/tony2/1492.ts
+#EXTINF:-1,US: BBC Two Eng
+http://ipsatpro.com:8000/live/tony2/tony2/1443.ts
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.com:8000/live/tony2/tony2/1447.ts
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.com:8000/live/tony2/tony2/1461.ts
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.com:8000/live/tony2/tony2/1534.ts
+#EXTINF:-1,US: Life Time HD
+http://ipsatpro.com:8000/live/tony2/tony2/1460.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1489.ts
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.com:8000/live/tony2/tony2/1539.ts
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.com:8000/live/tony2/tony2/1541.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.com:8000/live/tony2/tony2/1540.ts
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.com:8000/live/tony2/tony2/1527.ts
+#EXTINF:-1,US: CP24 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1528.ts
+#EXTINF:-1,US: Animal Planet
+http://ipsatpro.com:8000/live/tony2/tony2/1529.ts
+#EXTINF:-1,US: Eurosport N 2
+http://ipsatpro.com:8000/live/tony2/tony2/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.com:8000/live/tony2/tony2/1535.ts
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.com:8000/live/tony2/tony2/1536.ts
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/1537.ts
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/1538.ts
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.com:8000/live/tony2/tony2/1532.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.com:8000/live/tony2/tony2/1464.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://ipsatpro.com:8000/live/tony2/tony2/1465.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/tony2/tony2/1466.ts
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.com:8000/live/tony2/tony2/1458.ts
+#EXTINF:-1,US: TNT
+http://ipsatpro.com:8000/live/tony2/tony2/1484.ts
+#EXTINF:-1,US: Thai CH8
+http://ipsatpro.com:8000/live/tony2/tony2/1463.ts
+#EXTINF:-1,US: World Fashion TV
+http://ipsatpro.com:8000/live/tony2/tony2/1432.ts
+#EXTINF:-1,US: TBS Channle
+http://ipsatpro.com:8000/live/tony2/tony2/1449.ts
+#EXTINF:-1,US: Amazing Music
+http://ipsatpro.com:8000/live/tony2/tony2/1446.ts
+#EXTINF:-1,US: ABC
+http://ipsatpro.com:8000/live/tony2/tony2/1504.ts
+#EXTINF:-1,US: Classique
+http://ipsatpro.com:8000/live/tony2/tony2/1515.ts
+#EXTINF:-1,US: Euro plus
+http://ipsatpro.com:8000/live/tony2/tony2/1516.ts
+#EXTINF:-1,US: TRT World
+http://ipsatpro.com:8000/live/tony2/tony2/1513.ts
+#EXTINF:-1,US: TLC
+http://ipsatpro.com:8000/live/tony2/tony2/1510.ts
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.com:8000/live/tony2/tony2/1501.ts
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.com:8000/live/tony2/tony2/1514.ts
+
+
+
+
+
+
+
 
 
 
@@ -1149,7 +1392,8 @@ http://213.59.140.181:9999/play/Nickelodeon
 http://213.59.140.181:9999/play/CBS_Drama
 #EXTINF:0,Viasat History
 http://213.59.140.181:9999/play/Viasat_History
-
+#EXTINF:-1,Animal Planet 
+http://149.62.176.220:8089/udp/239.100.2.2:3001
 
 
 
@@ -1179,7 +1423,298 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,UK: Sky News HD
+http://ipsatpro.com:8000/live/tony2/tony2/550.ts
+#EXTINF:-1,UK: Sky RTE News
+http://ipsatpro.com:8000/live/tony2/tony2/431.ts
+#EXTINF:-1,UK: Sky BBC News
+http://ipsatpro.com:8000/live/tony2/tony2/428.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://ipsatpro.com:8000/live/tony2/tony2/549.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://ipsatpro.com:8000/live/tony2/tony2/533.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://ipsatpro.com:8000/live/tony2/tony2/532.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://ipsatpro.com:8000/live/tony2/tony2/531.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://ipsatpro.com:8000/live/tony2/tony2/530.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://ipsatpro.com:8000/live/tony2/tony2/529.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/548.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/547.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/546.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/545.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/544.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsatpro.com:8000/live/tony2/tony2/539.ts
+#EXTINF:-1,UK: Sky Sport AU 1
+http://ipsatpro.com:8000/live/tony2/tony2/438.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/527.ts
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/tony2/tony2/453.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://ipsatpro.com:8000/live/tony2/tony2/479.ts
+#EXTINF:-1,UK: Sky BT Sport Espain
+http://ipsatpro.com:8000/live/tony2/tony2/1543.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/540.ts
+#EXTINF:-1,UK: Sky Premier Sports HD
+http://ipsatpro.com:8000/live/tony2/tony2/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://ipsatpro.com:8000/live/tony2/tony2/484.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://ipsatpro.com:8000/live/tony2/tony2/535.ts
+#EXTINF:-1,Uk: Sky At the Races
+http://ipsatpro.com:8000/live/tony2/tony2/461.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/421.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/420.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/419.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1542.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://ipsatpro.com:8000/live/tony2/tony2/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://ipsatpro.com:8000/live/tony2/tony2/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://ipsatpro.com:8000/live/tony2/tony2/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://ipsatpro.com:8000/live/tony2/tony2/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://ipsatpro.com:8000/live/tony2/tony2/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://ipsatpro.com:8000/live/tony2/tony2/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://ipsatpro.com:8000/live/tony2/tony2/524.ts
+#EXTINF:-1,UK: Sky Movies Classic HD
+http://ipsatpro.com:8000/live/tony2/tony2/1547.ts
+#EXTINF:-1,UK: Sky Movies Family+1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1544.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://ipsatpro.com:8000/live/tony2/tony2/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://ipsatpro.com:8000/live/tony2/tony2/515.ts
+#EXTINF:-1,UK: Sky Movies 24
+http://ipsatpro.com:8000/live/tony2/tony2/523.ts
+#EXTINF:-1,UK: Sky True Movies 1
+http://ipsatpro.com:8000/live/tony2/tony2/472.ts
+#EXTINF:-1,UK: Sky True Movies 2
+http://ipsatpro.com:8000/live/tony2/tony2/534.ts
+#EXTINF:-1,UK: Sky True Entertaimnt
+http://ipsatpro.com:8000/live/tony2/tony2/1546.ts
+#EXTINF:-1,UK: Sky True Entertaimnt +1
+http://ipsatpro.com:8000/live/tony2/tony2/1555.ts
+#EXTINF:-1,UK: Sky More 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/504.ts
+#EXTINF:-1,UK: Sky More 7
+http://ipsatpro.com:8000/live/tony2/tony2/1550.ts
+#EXTINF:-1,UK: Sky Movies4Man
+http://ipsatpro.com:8000/live/tony2/tony2/1557.ts
+#EXTINF:-1,UK: Sky Drama+1
+http://ipsatpro.com:8000/live/tony2/tony2/1549.ts
+#EXTINF:-1,UK: Sky Home
+http://ipsatpro.com:8000/live/tony2/tony2/1553.ts
+#EXTINF:-1,UK: Sky Quest
+http://ipsatpro.com:8000/live/tony2/tony2/1551.ts
+#EXTINF:-1,UK: Sky Really
+http://ipsatpro.com:8000/live/tony2/tony2/1552.ts
+#EXTINF:-1,UK: Sky True Crime
+http://ipsatpro.com:8000/live/tony2/tony2/1556.ts
+#EXTINF:-1,UK: Sky Viasat sport
+http://ipsatpro.com:8000/live/tony2/tony2/1548.ts
+#EXTINF:-1,UK: Sky S4C
+http://ipsatpro.com:8000/live/tony2/tony2/435.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/505.ts
+#EXTINF:-1,UK: Sky CBBC HD
+http://ipsatpro.com:8000/live/tony2/tony2/430.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://ipsatpro.com:8000/live/tony2/tony2/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://ipsatpro.com:8000/live/tony2/tony2/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://ipsatpro.com:8000/live/tony2/tony2/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://ipsatpro.com:8000/live/tony2/tony2/468.ts
+#EXTINF:-1,UK: Sky ITV Be
+http://ipsatpro.com:8000/live/tony2/tony2/429.ts
+#EXTINF:-1,UK: Sky ITV Encore
+http://ipsatpro.com:8000/live/tony2/tony2/467.ts
+#EXTINF:-1,UK: Sky BBC4/CBEEBIES
+http://ipsatpro.com:8000/live/tony2/tony2/433.ts
+#EXTINF:-1,UK: Sky 3e
+http://ipsatpro.com:8000/live/tony2/tony2/432.ts
+#EXTINF:-1,UK: Sky TV3
+http://ipsatpro.com:8000/live/tony2/tony2/434.ts
+#EXTINF:-1,UK: Sky CITV
+http://ipsatpro.com:8000/live/tony2/tony2/436.ts
+#EXTINF:-1,UK: Sky Cbs Drama
+http://ipsatpro.com:8000/live/tony2/tony2/482.ts
+#EXTINF:-1,UK: Sky Pick
+http://ipsatpro.com:8000/live/tony2/tony2/437.ts
+#EXTINF:-1,UK: Sky Cbs Action
+http://ipsatpro.com:8000/live/tony2/tony2/481.ts
+#EXTINF:-1,UK: Sky CBS Reality
+http://ipsatpro.com:8000/live/tony2/tony2/510.ts
+#EXTINF:-1,UK: Sky BBC One HD
+http://ipsatpro.com:8000/live/tony2/tony2/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://ipsatpro.com:8000/live/tony2/tony2/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://ipsatpro.com:8000/live/tony2/tony2/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://ipsatpro.com:8000/live/tony2/tony2/485.ts
+#EXTINF:-1,UK: Sky Channel 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/426.ts
+#EXTINF:-1,UK: Sky Channel 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/427.ts
+#EXTINF:-1,UK: Sky Comedy Central
+http://ipsatpro.com:8000/live/tony2/tony2/463.ts
+#EXTINF:-1,UK: Sky Comedy Central Ex
+http://ipsatpro.com:8000/live/tony2/tony2/462.ts
+#EXTINF:-1,UK: Sky Food Network
+http://ipsatpro.com:8000/live/tony2/tony2/495.ts
+#EXTINF:-1,UK: Sky Good Food HD
+http://ipsatpro.com:8000/live/tony2/tony2/501.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://ipsatpro.com:8000/live/tony2/tony2/457.ts
+#EXTINF:-1,UK: Sky Boomerang
+http://ipsatpro.com:8000/live/tony2/tony2/444.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://ipsatpro.com:8000/live/tony2/tony2/522.ts
+#EXTINF:-1,UK: Sky Nickelodeon
+http://ipsatpro.com:8000/live/tony2/tony2/503.ts
+#EXTINF:-1,UK: Sky Nickelodeon JR
+http://ipsatpro.com:8000/live/tony2/tony2/423.ts
+#EXTINF:-1,UK: Sky NickToons
+http://ipsatpro.com:8000/live/tony2/tony2/446.ts
+#EXTINF:-1,UK: Sky Disney XD HD
+http://ipsatpro.com:8000/live/tony2/tony2/493.ts
+#EXTINF:-1,UK: Sky Disney Junior HD
+http://ipsatpro.com:8000/live/tony2/tony2/494.ts
+#EXTINF:-1,UK: Sky Disney Chaneel HD
+http://ipsatpro.com:8000/live/tony2/tony2/492.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://ipsatpro.com:8000/live/tony2/tony2/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://ipsatpro.com:8000/live/tony2/tony2/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://ipsatpro.com:8000/live/tony2/tony2/465.ts
+#EXTINF:-1,UK: Sky Discovery Shed
+http://ipsatpro.com:8000/live/tony2/tony2/445.ts
+#EXTINF:-1,UK: Sky Discovery
+http://ipsatpro.com:8000/live/tony2/tony2/464.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://ipsatpro.com:8000/live/tony2/tony2/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://ipsatpro.com:8000/live/tony2/tony2/498.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://ipsatpro.com:8000/live/tony2/tony2/497.ts
+#EXTINF:-1,UK: Sky History HD
+http://ipsatpro.com:8000/live/tony2/tony2/496.ts
+#EXTINF:-1,UK: Sky History 2
+http://ipsatpro.com:8000/live/tony2/tony2/452.ts
+#EXTINF:-1,UK: Sky Ci
+http://ipsatpro.com:8000/live/tony2/tony2/514.ts
+#EXTINF:-1,UK: Sky 1
+http://ipsatpro.com:8000/live/tony2/tony2/475.ts
+#EXTINF:-1,UK: Sky 2
+http://ipsatpro.com:8000/live/tony2/tony2/507.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://ipsatpro.com:8000/live/tony2/tony2/483.ts
+#EXTINF:-1,UK: Sky E!
+http://ipsatpro.com:8000/live/tony2/tony2/447.ts
+#EXTINF:-1,UK: Sky VH1
+http://ipsatpro.com:8000/live/tony2/tony2/449.ts
+#EXTINF:-1,UK: Sky E4
+http://ipsatpro.com:8000/live/tony2/tony2/451.ts
+#EXTINF:-1,UK: Sky TG4
+http://ipsatpro.com:8000/live/tony2/tony2/422.ts
+#EXTINF:-1,UK: Sky Syfy
+http://ipsatpro.com:8000/live/tony2/tony2/538.ts
+#EXTINF:-1,UK: Sky CNBC
+http://ipsatpro.com:8000/live/tony2/tony2/466.ts
+#EXTINF:-1,UK: Sky Dave HD
+http://ipsatpro.com:8000/live/tony2/tony2/506.ts
+#EXTINF:-1,UK: Sky RTE One
+http://ipsatpro.com:8000/live/tony2/tony2/474.ts
+#EXTINF:-1,UK: Sky RTE Two
+http://ipsatpro.com:8000/live/tony2/tony2/478.ts
+#EXTINF:-1,UK: SKY Fox
+http://ipsatpro.com:8000/live/tony2/tony2/460.ts
+#EXTINF:-1,UK: Sky Five
+http://ipsatpro.com:8000/live/tony2/tony2/473.ts
+#EXTINF:-1,UK: Sky Arts 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/489.ts
+#EXTINF:-1,UK: Sky Baby
+http://ipsatpro.com:8000/live/tony2/tony2/424.ts
+#EXTINF:-1,UK: Sky Eden
+http://ipsatpro.com:8000/live/tony2/tony2/425.ts
+#EXTINF:-1,UK: Sky Alibi
+http://ipsatpro.com:8000/live/tony2/tony2/509.ts
+#EXTINF:-1,UK: Sky Living HD
+http://ipsatpro.com:8000/live/tony2/tony2/502.ts
+#EXTINF:-1,UK: Sky BoxNation
+http://ipsatpro.com:8000/live/tony2/tony2/490.ts
+#EXTINF:-1,UK: Sky Racing
+http://ipsatpro.com:8000/live/tony2/tony2/458.ts
+#EXTINF:-1,UK: Sky Gold
+http://ipsatpro.com:8000/live/tony2/tony2/508.ts
+#EXTINF:-1,UK: Sky 5 USA
+http://ipsatpro.com:8000/live/tony2/tony2/480.ts
+#EXTINF:-1,UK: Sky 5 star
+http://ipsatpro.com:8000/live/tony2/tony2/477.ts
+#EXTINF:-1,UK: Sky life Time
+http://ipsatpro.com:8000/live/tony2/tony2/476.ts
+#EXTINF:-1,UK: Sky E4+1
+http://ipsatpro.com:8000/live/tony2/tony2/525.ts
+#EXTINF:-1,UK: Sky TCM
+http://ipsatpro.com:8000/live/tony2/tony2/459.ts
+#EXTINF:-1,UK: Sky CNN
+http://ipsatpro.com:8000/live/tony2/tony2/454.ts
+#EXTINF:-1,UK: Sky Dmax
+http://ipsatpro.com:8000/live/tony2/tony2/456.ts
+#EXTINF:-1,UK: Sky TLC
+http://ipsatpro.com:8000/live/tony2/tony2/455.ts
+#EXTINF:-1,UK: Sky STV
+http://ipsatpro.com:8000/live/tony2/tony2/448.ts
+#EXTINF:-1,UK: Sky MTV Rocks
+http://ipsatpro.com:8000/live/tony2/tony2/450.ts
+#EXTINF:-1,UK: Sky MTV Rocks HD
+http://ipsatpro.com:8000/live/tony2/tony2/442.ts
+#EXTINF:-1,UK: Sky MTV Hits HD
+http://ipsatpro.com:8000/live/tony2/tony2/443.ts
+#EXTINF:-1,UK: Sky MTV Dance HD
+http://ipsatpro.com:8000/live/tony2/tony2/441.ts
+#EXTINF:-1,UK: Sky MTV Live HD
+http://ipsatpro.com:8000/live/tony2/tony2/439.ts
+#EXTINF:-1,UK: Sky MTV Classic
+http://ipsatpro.com:8000/live/tony2/tony2/500.ts
+#EXTINF:-1,UK: Sky MTV Base
+http://ipsatpro.com:8000/live/tony2/tony2/440.ts
 
 
 
@@ -1988,7 +2523,328 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,IT: Rai 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/693.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/692.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/691.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/690.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/563.ts
+#EXTINF:-1,IT: Rai yoyo
+http://ipsatpro.com:8000/live/tony2/tony2/553.ts
+#EXTINF:-1,IT: Rai Gulp
+http://ipsatpro.com:8000/live/tony2/tony2/552.ts
+#EXTINF:-1,IT: Rai Movie
+http://ipsatpro.com:8000/live/tony2/tony2/584.ts
+#EXTINF:-1,IT: Rai Premium
+http://ipsatpro.com:8000/live/tony2/tony2/583.ts
+#EXTINF:-1,IT: Rai News 24
+http://ipsatpro.com:8000/live/tony2/tony2/689.ts
+#EXTINF:-1,IT: Rete 4
+http://ipsatpro.com:8000/live/tony2/tony2/1848.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/688.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/687.ts
+#EXTINF:-1,IT: History alb
+http://ipsatpro.com:8000/live/tony2/tony2/1873.ts
+#EXTINF:-1,IT: Telearena
+http://ipsatpro.com:8000/live/tony2/tony2/561.ts
+#EXTINF:-1,IT: Telepavia
+http://ipsatpro.com:8000/live/tony2/tony2/1843.ts
+#EXTINF:-1,IT: Telemilano
+http://ipsatpro.com:8000/live/tony2/tony2/1842.ts
+#EXTINF:-1,IT: TeleTicino
+http://ipsatpro.com:8000/live/tony2/tony2/1869.ts
+#EXTINF:-1,IT: Canale 10
+http://ipsatpro.com:8000/live/tony2/tony2/565.ts
+#EXTINF:-1,IT: TG2000
+http://ipsatpro.com:8000/live/tony2/tony2/564.ts
+#EXTINF:-1,IT: Orler
+http://ipsatpro.com:8000/live/tony2/tony2/1871.ts
+#EXTINF:-1,IT: Super TV
+http://ipsatpro.com:8000/live/tony2/tony2/1870.ts
+#EXTINF:-1,IT: TRM TV
+http://ipsatpro.com:8000/live/tony2/tony2/555.ts
+#EXTINF:-1,IT: videocalabria
+http://ipsatpro.com:8000/live/tony2/tony2/569.ts
+#EXTINF:-1,IT: Tele 8
+http://ipsatpro.com:8000/live/tony2/tony2/1845.ts
+#EXTINF:-1,IT: RTV San Marino
+http://ipsatpro.com:8000/live/tony2/tony2/1841.ts
+#EXTINF:-1,IT: Euroneww Italia
+http://ipsatpro.com:8000/live/tony2/tony2/1844.ts
+#EXTINF:-1,IT: Canale 7
+http://ipsatpro.com:8000/live/tony2/tony2/1846.ts
+#EXTINF:-1,IT: TVM 1 Dvr
+http://ipsatpro.com:8000/live/tony2/tony2/571.ts
+#EXTINF:-1,IT: TVM 2 Dvr
+http://ipsatpro.com:8000/live/tony2/tony2/570.ts
+#EXTINF:-1,IT: Cartoonito
+http://ipsatpro.com:8000/live/tony2/tony2/554.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/685.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/686.ts
+#EXTINF:-1,IT: Real Time
+http://ipsatpro.com:8000/live/tony2/tony2/684.ts
+#EXTINF:-1,IT: Dmax
+http://ipsatpro.com:8000/live/tony2/tony2/657.ts
+#EXTINF:-1,IT: Telerama
+http://ipsatpro.com:8000/live/tony2/tony2/585.ts
+#EXTINF:-1,IT: La 5
+http://ipsatpro.com:8000/live/tony2/tony2/556.ts
+#EXTINF:-1,IT: La7
+http://ipsatpro.com:8000/live/tony2/tony2/683.ts
+#EXTINF:-1,---------- Cinma ----------
+http://ipsatpro.com:8000/live/tony2/tony2/682.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/681.ts
+#EXTINF:-1,IT: Sky Cinema +1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/680.ts
+#EXTINF:-1,IT: Sky Cinema +24 HD
+http://ipsatpro.com:8000/live/tony2/tony2/679.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://ipsatpro.com:8000/live/tony2/tony2/675.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://ipsatpro.com:8000/live/tony2/tony2/672.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://ipsatpro.com:8000/live/tony2/tony2/677.ts
+#EXTINF:-1,IT: Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/tony2/tony2/673.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/tony2/tony2/678.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://ipsatpro.com:8000/live/tony2/tony2/671.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/tony2/tony2/670.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://ipsatpro.com:8000/live/tony2/tony2/674.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/tony2/tony2/669.ts
+#EXTINF:-1,IT: Fm italia
+http://ipsatpro.com:8000/live/tony2/tony2/663.ts
+#EXTINF:-1,IT: Mtv Music
+http://ipsatpro.com:8000/live/tony2/tony2/668.ts
+#EXTINF:-1,IT: Giallo
+http://ipsatpro.com:8000/live/tony2/tony2/1850.ts
+#EXTINF:-1,IT: Cielo
+http://ipsatpro.com:8000/live/tony2/tony2/658.ts
+#EXTINF:-1,IT: Boing
+http://ipsatpro.com:8000/live/tony2/tony2/659.ts
+#EXTINF:-1,IT: Super!
+http://ipsatpro.com:8000/live/tony2/tony2/558.ts
+#EXTINF:-1,IT: k2
+http://ipsatpro.com:8000/live/tony2/tony2/557.ts
+#EXTINF:-1,IT: R italya HD
+http://ipsatpro.com:8000/live/tony2/tony2/664.ts
+#EXTINF:-1,IT: Iris
+http://ipsatpro.com:8000/live/tony2/tony2/676.ts
+#EXTINF:-1,IT: Alice HD
+http://ipsatpro.com:8000/live/tony2/tony2/665.ts
+#EXTINF:-1,IT: Sat 2000
+http://ipsatpro.com:8000/live/tony2/tony2/662.ts
+#EXTINF:-1,IT: Onda tv
+http://ipsatpro.com:8000/live/tony2/tony2/1849.ts
+#EXTINF:-1,IT: TV 8
+http://ipsatpro.com:8000/live/tony2/tony2/1851.ts
+#EXTINF:-1,IT: Paramount
+http://ipsatpro.com:8000/live/tony2/tony2/1852.ts
+#EXTINF:-1,IT: Frisbee
+http://ipsatpro.com:8000/live/tony2/tony2/1857.ts
+#EXTINF:-1,IT: Fine Living
+http://ipsatpro.com:8000/live/tony2/tony2/1853.ts
+#EXTINF:-1,IT: Deejay TV
+http://ipsatpro.com:8000/live/tony2/tony2/1854.ts
+#EXTINF:-1,IT: Classica HD
+http://ipsatpro.com:8000/live/tony2/tony2/1856.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://ipsatpro.com:8000/live/tony2/tony2/1855.ts
+#EXTINF:-1,IT: Pescare Cacciare TV
+http://ipsatpro.com:8000/live/tony2/tony2/1867.ts
+#EXTINF:-1,IT: Telelombardia
+http://ipsatpro.com:8000/live/tony2/tony2/1866.ts
+#EXTINF:-1,IT: Nuvolari
+http://ipsatpro.com:8000/live/tony2/tony2/1868.ts
+#EXTINF:-1,IT: Sky Top Crime
+http://ipsatpro.com:8000/live/tony2/tony2/559.ts
+#EXTINF:-1,IT: Sky Sienatv
+http://ipsatpro.com:8000/live/tony2/tony2/666.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://ipsatpro.com:8000/live/tony2/tony2/667.ts
+#EXTINF:-1,IT: Sky Focus
+http://ipsatpro.com:8000/live/tony2/tony2/660.ts
+#EXTINF:-1,IT: Sky Mediaset Extra
+http://ipsatpro.com:8000/live/tony2/tony2/603.ts
+#EXTINF:-1,IT: Sky Mediaset Italia 2
+http://ipsatpro.com:8000/live/tony2/tony2/661.ts
+#EXTINF:-1,IT: Sky Fox Animation HD
+http://ipsatpro.com:8000/live/tony2/tony2/1865.ts
+#EXTINF:-1,IT: Sky Fox Comedy HD
+http://ipsatpro.com:8000/live/tony2/tony2/1864.ts
+#EXTINF:-1,IT: Sky Fox Crime HD
+http://ipsatpro.com:8000/live/tony2/tony2/1863.ts
+#EXTINF:-1,IT: Sky Fox Life HD
+http://ipsatpro.com:8000/live/tony2/tony2/1862.ts
+#EXTINF:-1,IT: Sky Fox HD
+http://ipsatpro.com:8000/live/tony2/tony2/1861.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8000/live/tony2/tony2/656.ts
+#EXTINF:-1,IT: Sky Fox Sport HD
+http://ipsatpro.com:8000/live/tony2/tony2/650.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/655.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/654.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/653.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ipsatpro.com:8000/live/tony2/tony2/652.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/651.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://ipsatpro.com:8000/live/tony2/tony2/646.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://ipsatpro.com:8000/live/tony2/tony2/645.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/639.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/560.ts
+#EXTINF:-1,IT: SportTitalia
+http://ipsatpro.com:8000/live/tony2/tony2/638.ts
+#EXTINF:-1,IT: Rete Sport
+http://ipsatpro.com:8000/live/tony2/tony2/1840.ts
+#EXTINF:-1,IT: Milan Channel
+http://ipsatpro.com:8000/live/tony2/tony2/1860.ts
+#EXTINF:-1,IT: Sky Roma Channel
+http://ipsatpro.com:8000/live/tony2/tony2/636.ts
+#EXTINF:-1,IT: Sky Juventus Channel
+http://ipsatpro.com:8000/live/tony2/tony2/637.ts
+#EXTINF:-1,---------- Calcio -----------
+http://ipsatpro.com:8000/live/tony2/tony2/644.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://ipsatpro.com:8000/live/tony2/tony2/643.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/642.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/641.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/640.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/568.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/567.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/tony2/tony2/566.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/tony2/tony2/635.ts
+#EXTINF:-1,IT: Sky TG 24
+http://ipsatpro.com:8000/live/tony2/tony2/629.ts
+#EXTINF:-1,IT: Discovery HD
+http://ipsatpro.com:8000/live/tony2/tony2/630.ts
+#EXTINF:-1,IT: Discovery T&L
+http://ipsatpro.com:8000/live/tony2/tony2/1859.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://ipsatpro.com:8000/live/tony2/tony2/1858.ts
+#EXTINF:-1,IT: Sky History HD
+http://ipsatpro.com:8000/live/tony2/tony2/634.ts
+#EXTINF:-1,IT: National Geo HD
+http://ipsatpro.com:8000/live/tony2/tony2/633.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://ipsatpro.com:8000/live/tony2/tony2/632.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://ipsatpro.com:8000/live/tony2/tony2/631.ts
+#EXTINF:-1,IT: Sky Animal Planet
+http://ipsatpro.com:8000/live/tony2/tony2/604.ts
+#EXTINF:-1,----MwdiaEst Premium ----
+http://ipsatpro.com:8000/live/tony2/tony2/628.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://ipsatpro.com:8000/live/tony2/tony2/627.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/609.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://ipsatpro.com:8000/live/tony2/tony2/612.ts
+#EXTINF:-1,IT: Premium Crime
+http://ipsatpro.com:8000/live/tony2/tony2/621.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://ipsatpro.com:8000/live/tony2/tony2/611.ts
+#EXTINF:-1,IT: Premium Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/626.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://ipsatpro.com:8000/live/tony2/tony2/618.ts
+#EXTINF:-1,IT: Premium Stories
+http://ipsatpro.com:8000/live/tony2/tony2/625.ts
+#EXTINF:-1,IT: Premium Stories +24
+http://ipsatpro.com:8000/live/tony2/tony2/614.ts
+#EXTINF:-1,IT: Premium Energy
+http://ipsatpro.com:8000/live/tony2/tony2/623.ts
+#EXTINF:-1,IT: Premium Energy +24
+http://ipsatpro.com:8000/live/tony2/tony2/1872.ts
+#EXTINF:-1,IT: Premium Joy
+http://ipsatpro.com:8000/live/tony2/tony2/624.ts
+#EXTINF:-1,IT: Premium Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/620.ts
+#EXTINF:-1,IT: Premium Emotion
+http://ipsatpro.com:8000/live/tony2/tony2/622.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://ipsatpro.com:8000/live/tony2/tony2/619.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://ipsatpro.com:8000/live/tony2/tony2/617.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://ipsatpro.com:8000/live/tony2/tony2/616.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://ipsatpro.com:8000/live/tony2/tony2/613.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/608.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/610.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/606.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/605.ts
+#EXTINF:-1,IT: Premium Sport
+http://ipsatpro.com:8000/live/tony2/tony2/615.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/562.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://ipsatpro.com:8000/live/tony2/tony2/607.ts
+#EXTINF:-1,---------- Primrafila ---------
+http://ipsatpro.com:8000/live/tony2/tony2/602.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/601.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/600.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/599.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/598.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/597.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://ipsatpro.com:8000/live/tony2/tony2/596.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://ipsatpro.com:8000/live/tony2/tony2/595.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://ipsatpro.com:8000/live/tony2/tony2/594.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://ipsatpro.com:8000/live/tony2/tony2/593.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://ipsatpro.com:8000/live/tony2/tony2/592.ts
+#EXTINF:-1,IT: Sky Prima fila 11 HD
+http://ipsatpro.com:8000/live/tony2/tony2/591.ts
+#EXTINF:-1,IT: Sky Prima fila 12 HD
+http://ipsatpro.com:8000/live/tony2/tony2/590.ts
+#EXTINF:-1,IT: Sky Prima fila 13 HD
+http://ipsatpro.com:8000/live/tony2/tony2/589.ts
+#EXTINF:-1,IT: Sky Prima fila 14 HD
+http://ipsatpro.com:8000/live/tony2/tony2/588.ts
+#EXTINF:-1,IT: Sky Prima fila 15 HD
+http://ipsatpro.com:8000/live/tony2/tony2/587.ts
+#EXTINF:-1,IT: Sky Prima Fila WWE HD
+http://ipsatpro.com:8000/live/tony2/tony2/586.ts
 
 
 
@@ -2067,7 +2923,248 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,FR: Beinsport 1
+http://ipsatpro.com:8000/live/tony2/tony2/366.ts
+#EXTINF:-1,FR: Beinsport 2
+http://ipsatpro.com:8000/live/tony2/tony2/365.ts
+#EXTINF:-1,FR: Beinsport 3
+http://ipsatpro.com:8000/live/tony2/tony2/364.ts
+#EXTINF:-1,FR: Bein Sport Max 4
+http://ipsatpro.com:8000/live/tony2/tony2/397.ts
+#EXTINF:-1,FR: Bein Sport Max 5
+http://ipsatpro.com:8000/live/tony2/tony2/398.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://ipsatpro.com:8000/live/tony2/tony2/399.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://ipsatpro.com:8000/live/tony2/tony2/400.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://ipsatpro.com:8000/live/tony2/tony2/401.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://ipsatpro.com:8000/live/tony2/tony2/402.ts
+#EXTINF:-1,FR: Bein Sport Max 10
+http://ipsatpro.com:8000/live/tony2/tony2/403.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/356.ts
+#EXTINF:-1,FR: Eurosport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/355.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/381.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/382.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://ipsatpro.com:8000/live/tony2/tony2/383.ts
+#EXTINF:-1,FR: OL tv
+http://ipsatpro.com:8000/live/tony2/tony2/373.ts
+#EXTINF:-1,FR: Foot+ 24
+http://ipsatpro.com:8000/live/tony2/tony2/351.ts
+#EXTINF:-1,FR: InfoSport+
+http://ipsatpro.com:8000/live/tony2/tony2/353.ts
+#EXTINF:-1,FR: Canal+ Sport
+http://ipsatpro.com:8000/live/tony2/tony2/350.ts
+#EXTINF:-1,FR: Ma Chaine Sport (MCS) HD
+http://ipsatpro.com:8000/live/tony2/tony2/352.ts
+#EXTINF:-1,FR: A la Carte 1
+http://ipsatpro.com:8000/live/tony2/tony2/305.ts
+#EXTINF:-1,FR: A la Carte 2
+http://ipsatpro.com:8000/live/tony2/tony2/307.ts
+#EXTINF:-1,FR: A la Carte 3
+http://ipsatpro.com:8000/live/tony2/tony2/320.ts
+#EXTINF:-1,FR: A la Carte 4
+http://ipsatpro.com:8000/live/tony2/tony2/325.ts
+#EXTINF:-1,FR: A la Carte 5
+http://ipsatpro.com:8000/live/tony2/tony2/363.ts
+#EXTINF:-1,FR: A la Carte 6
+http://ipsatpro.com:8000/live/tony2/tony2/362.ts
+#EXTINF:-1,FR: A la Carte 7
+http://ipsatpro.com:8000/live/tony2/tony2/361.ts
+#EXTINF:-1,FR: A la Carte 8
+http://ipsatpro.com:8000/live/tony2/tony2/360.ts
+#EXTINF:-1,FR: A la Carte 9
+http://ipsatpro.com:8000/live/tony2/tony2/359.ts
+#EXTINF:-1,FR: A la Carte 10
+http://ipsatpro.com:8000/live/tony2/tony2/358.ts
+#EXTINF:-1,FR: Canal+ Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/314.ts
+#EXTINF:-1,FR: Canal+ Family
+http://ipsatpro.com:8000/live/tony2/tony2/306.ts
+#EXTINF:-1,FR: Cine+ Emotion
+http://ipsatpro.com:8000/live/tony2/tony2/310.ts
+#EXTINF:-1,FR: Canal+ Serie
+http://ipsatpro.com:8000/live/tony2/tony2/317.ts
+#EXTINF:-1,FR: Canal+ Decale
+http://ipsatpro.com:8000/live/tony2/tony2/315.ts
+#EXTINF:-1,FR: Cine+ Classic
+http://ipsatpro.com:8000/live/tony2/tony2/308.ts
+#EXTINF:-1,FR: Cine+ Premier
+http://ipsatpro.com:8000/live/tony2/tony2/313.ts
+#EXTINF:-1,FR: Cine+ Frisson
+http://ipsatpro.com:8000/live/tony2/tony2/311.ts
+#EXTINF:-1,FR: Cine+ Famiz
+http://ipsatpro.com:8000/live/tony2/tony2/312.ts
+#EXTINF:-1,FR: Canal +
+http://ipsatpro.com:8000/live/tony2/tony2/328.ts
+#EXTINF:-1,FR: Canal J
+http://ipsatpro.com:8000/live/tony2/tony2/290.ts
+#EXTINF:-1,FR: Cine Polar
+http://ipsatpro.com:8000/live/tony2/tony2/374.ts
+#EXTINF:-1,FR: Cine FX
+http://ipsatpro.com:8000/live/tony2/tony2/379.ts
+#EXTINF:-1,FR: Cine Comédie+HD
+http://ipsatpro.com:8000/live/tony2/tony2/380.ts
+#EXTINF:-1,FR: SÃ©rie Club HD
+http://ipsatpro.com:8000/live/tony2/tony2/331.ts
+#EXTINF:-1,FR: SCIENCES & VIE
+http://ipsatpro.com:8000/live/tony2/tony2/354.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://ipsatpro.com:8000/live/tony2/tony2/377.ts
+#EXTINF:-1,FR: OCS Max HD
+http://ipsatpro.com:8000/live/tony2/tony2/341.ts
+#EXTINF:-1,FR: OCS Choc HD
+http://ipsatpro.com:8000/live/tony2/tony2/345.ts
+#EXTINF:-1,FR: OCS GÃ©ants HD
+http://ipsatpro.com:8000/live/tony2/tony2/337.ts
+#EXTINF:-1,FR: Voyage TV
+http://ipsatpro.com:8000/live/tony2/tony2/304.ts
+#EXTINF:-1,FR: TF1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/285.ts
+#EXTINF:-1,FR: I-Tele
+http://ipsatpro.com:8000/live/tony2/tony2/340.ts
+#EXTINF:-1,FR: RMC Decouverte
+http://ipsatpro.com:8000/live/tony2/tony2/336.ts
+#EXTINF:-1,FR: E entertainment
+http://ipsatpro.com:8000/live/tony2/tony2/372.ts
+#EXTINF:-1,FR: TV5 Monde
+http://ipsatpro.com:8000/live/tony2/tony2/333.ts
+#EXTINF:-1,FR: TVBreish
+http://ipsatpro.com:8000/live/tony2/tony2/309.ts
+#EXTINF:-1,FR: C 8
+http://ipsatpro.com:8000/live/tony2/tony2/316.ts
+#EXTINF:-1,FR: C Star
+http://ipsatpro.com:8000/live/tony2/tony2/338.ts
+#EXTINF:-1,FR: 13 rue HD
+http://ipsatpro.com:8000/live/tony2/tony2/347.ts
+#EXTINF:-1,FR: Boing
+http://ipsatpro.com:8000/live/tony2/tony2/295.ts
+#EXTINF:-1,FR: TÃ©va HD
+http://ipsatpro.com:8000/live/tony2/tony2/330.ts
+#EXTINF:-1,FR: Syfy HD
+http://ipsatpro.com:8000/live/tony2/tony2/348.ts
+#EXTINF:-1,FR: Weo TV
+http://ipsatpro.com:8000/live/tony2/tony2/319.ts
+#EXTINF:-1,FR: Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/335.ts
+#EXTINF:-1,FR: RTL 9 HD
+http://ipsatpro.com:8000/live/tony2/tony2/334.ts
+#EXTINF:-1,FR: Animaux HD
+http://ipsatpro.com:8000/live/tony2/tony2/303.ts
+#EXTINF:-1,FR: Planete AE+C
+http://ipsatpro.com:8000/live/tony2/tony2/327.ts
+#EXTINF:-1,FR: PlanÃ¨te + HD
+http://ipsatpro.com:8000/live/tony2/tony2/326.ts
+#EXTINF:-1,FR: NatIional Geo HD
+http://ipsatpro.com:8000/live/tony2/tony2/324.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://ipsatpro.com:8000/live/tony2/tony2/323.ts
+#EXTINF:-1,FR: Boomerang
+http://ipsatpro.com:8000/live/tony2/tony2/321.ts
+#EXTINF:-1,FR: Disney Cinemagic
+http://ipsatpro.com:8000/live/tony2/tony2/322.ts
+#EXTINF:-1,FR: Disney Channel
+http://ipsatpro.com:8000/live/tony2/tony2/342.ts
+#EXTINF:-1,FR: Teletoon+
+http://ipsatpro.com:8000/live/tony2/tony2/318.ts
+#EXTINF:-1,FR: M6 HD
+http://ipsatpro.com:8000/live/tony2/tony2/291.ts
+#EXTINF:-1,FR: France 0
+http://ipsatpro.com:8000/live/tony2/tony2/301.ts
+#EXTINF:-1,FR: France 2
+http://ipsatpro.com:8000/live/tony2/tony2/300.ts
+#EXTINF:-1,FR: France 3
+http://ipsatpro.com:8000/live/tony2/tony2/299.ts
+#EXTINF:-1,FR: France 4
+http://ipsatpro.com:8000/live/tony2/tony2/298.ts
+#EXTINF:-1,FR: France 5
+http://ipsatpro.com:8000/live/tony2/tony2/297.ts
+#EXTINF:-1,FR: France 24
+http://ipsatpro.com:8000/live/tony2/tony2/349.ts
+#EXTINF:-1,FR: TCM HD
+http://ipsatpro.com:8000/live/tony2/tony2/296.ts
+#EXTINF:-1,FR: NT1
+http://ipsatpro.com:8000/live/tony2/tony2/293.ts
+#EXTINF:-1,FR: Nrj 12
+http://ipsatpro.com:8000/live/tony2/tony2/294.ts
+#EXTINF:-1,FR: 6Ter HD
+http://ipsatpro.com:8000/live/tony2/tony2/292.ts
+#EXTINF:-1,FR: Manga
+http://ipsatpro.com:8000/live/tony2/tony2/343.ts
+#EXTINF:-1,FR: Ushuaia TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/329.ts
+#EXTINF:-1,FR: Rts Un
+http://ipsatpro.com:8000/live/tony2/tony2/289.ts
+#EXTINF:-1,FR: Gulli
+http://ipsatpro.com:8000/live/tony2/tony2/286.ts
+#EXTINF:-1,FR: Music MFM TV
+http://ipsatpro.com:8000/live/tony2/tony2/368.ts
+#EXTINF:-1,FR: Toute l Histoire
+http://ipsatpro.com:8000/live/tony2/tony2/332.ts
+#EXTINF:-1,FR: BFM Business
+http://ipsatpro.com:8000/live/tony2/tony2/344.ts
+#EXTINF:-1,FR: Assemble Nationale
+http://ipsatpro.com:8000/live/tony2/tony2/369.ts
+#EXTINF:-1,FR: Numero 23
+http://ipsatpro.com:8000/live/tony2/tony2/302.ts
+#EXTINF:-1,FR: Cherie 25
+http://ipsatpro.com:8000/live/tony2/tony2/288.ts
+#EXTINF:-1,FR: W9
+http://ipsatpro.com:8000/live/tony2/tony2/357.ts
+#EXTINF:-1,FR: Arte
+http://ipsatpro.com:8000/live/tony2/tony2/287.ts
+#EXTINF:-1,FR: LCi
+http://ipsatpro.com:8000/live/tony2/tony2/346.ts
+#EXTINF:-1,FR: Rire TV
+http://ipsatpro.com:8000/live/tony2/tony2/375.ts
+#EXTINF:-1,FR: Lequipe 21
+http://ipsatpro.com:8000/live/tony2/tony2/370.ts
+#EXTINF:-1,FR: HD 1
+http://ipsatpro.com:8000/live/tony2/tony2/371.ts
+#EXTINF:-1,FR: Enorme TV
+http://ipsatpro.com:8000/live/tony2/tony2/367.ts
+#EXTINF:-1,FR: Alsace20
+http://ipsatpro.com:8000/live/tony2/tony2/376.ts
+#EXTINF:-1,FR: AB1
+http://ipsatpro.com:8000/live/tony2/tony2/378.ts
+#EXTINF:-1,FR: RTS Deux
+http://ipsatpro.com:8000/live/tony2/tony2/339.ts
+#EXTINF:-1,BE: Cinema 1
+http://ipsatpro.com:8000/live/tony2/tony2/396.ts
+#EXTINF:-1,BE: Cinema 2
+http://ipsatpro.com:8000/live/tony2/tony2/395.ts
+#EXTINF:-1,BE: Cinema Kids
+http://ipsatpro.com:8000/live/tony2/tony2/392.ts
+#EXTINF:-1,BE: Een HD
+http://ipsatpro.com:8000/live/tony2/tony2/730.ts
+#EXTINF:-1,BE: Canvas HD
+http://ipsatpro.com:8000/live/tony2/tony2/731.ts
+#EXTINF:-1,BE: VTM HD
+http://ipsatpro.com:8000/live/tony2/tony2/389.ts
+#EXTINF:-1,BE: Vitaya
+http://ipsatpro.com:8000/live/tony2/tony2/390.ts
+#EXTINF:-1,BE: Vijf
+http://ipsatpro.com:8000/live/tony2/tony2/391.ts
+#EXTINF:-1,BE: Plug RTL
+http://ipsatpro.com:8000/live/tony2/tony2/384.ts
+#EXTINF:-1,BE: La télé X
+http://ipsatpro.com:8000/live/tony2/tony2/385.ts
+#EXTINF:-1,BE: Club RTL
+http://ipsatpro.com:8000/live/tony2/tony2/386.ts
+#EXTINF:-1,BE: Acht
+http://ipsatpro.com:8000/live/tony2/tony2/388.ts
+#EXTINF:-1,BE: 2BE HD
+http://ipsatpro.com:8000/live/tony2/tony2/387.ts
+#EXTINF:-1,BE: Kadet
+http://ipsatpro.com:8000/live/tony2/tony2/393.ts
+#EXTINF:-1,BE: BX1
+http://ipsatpro.com:8000/live/tony2/tony2/394.ts
 
 
 
@@ -2268,7 +3365,174 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,DE: Sky Sport News
+http://ipsatpro.com:8000/live/tony2/tony2/759.ts
+#EXTINF:-1,DE: Sky Sport +1
+http://ipsatpro.com:8000/live/tony2/tony2/761.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/829.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/826.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/827.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/828.ts
+#EXTINF:-1,DE: Sky Eurosport
+http://ipsatpro.com:8000/live/tony2/tony2/809.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://ipsatpro.com:8000/live/tony2/tony2/810.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://ipsatpro.com:8000/live/tony2/tony2/807.ts
+#EXTINF:-1,DE: Sky Select 1
+http://ipsatpro.com:8000/live/tony2/tony2/825.ts
+#EXTINF:-1,DE: Sky Select 2
+http://ipsatpro.com:8000/live/tony2/tony2/824.ts
+#EXTINF:-1,DE: Sky Select 3
+http://ipsatpro.com:8000/live/tony2/tony2/823.ts
+#EXTINF:-1,DE: Sky Select 4
+http://ipsatpro.com:8000/live/tony2/tony2/822.ts
+#EXTINF:-1,DE: Sky Select 5
+http://ipsatpro.com:8000/live/tony2/tony2/821.ts
+#EXTINF:-1,DE: Sky Select 6
+http://ipsatpro.com:8000/live/tony2/tony2/820.ts
+#EXTINF:-1,DE: Sky Select 7
+http://ipsatpro.com:8000/live/tony2/tony2/819.ts
+#EXTINF:-1,DE: Sky Select 8
+http://ipsatpro.com:8000/live/tony2/tony2/818.ts
+#EXTINF:-1,DE: Sky Action
+http://ipsatpro.com:8000/live/tony2/tony2/804.ts
+#EXTINF:-1,DE: Sky Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/808.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://ipsatpro.com:8000/live/tony2/tony2/806.ts
+#EXTINF:-1,DE: Sky Cinema +24
+http://ipsatpro.com:8000/live/tony2/tony2/805.ts
+#EXTINF:-1,DE: Sky Emotion
+http://ipsatpro.com:8000/live/tony2/tony2/801.ts
+#EXTINF:-1,DE: Sky Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/799.ts
+#EXTINF:-1,DE: Sky HITS
+http://ipsatpro.com:8000/live/tony2/tony2/802.ts
+#EXTINF:-1,DE: Sky Comedy Central
+http://ipsatpro.com:8000/live/tony2/tony2/786.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/751.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/750.ts
+#EXTINF:-1,DE: Sky Teleclub Prime
+http://ipsatpro.com:8000/live/tony2/tony2/749.ts
+#EXTINF:-1,DE: Sky Teleclub Cinema HD
+http://ipsatpro.com:8000/live/tony2/tony2/748.ts
+#EXTINF:-1,DE: Sky Teleclub Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/747.ts
+#EXTINF:-1,DE: Sky Teleclub Star
+http://ipsatpro.com:8000/live/tony2/tony2/746.ts
+#EXTINF:-1,DE: Sky RTL
+http://ipsatpro.com:8000/live/tony2/tony2/779.ts
+#EXTINF:-1,DE: Sky RTL 2
+http://ipsatpro.com:8000/live/tony2/tony2/778.ts
+#EXTINF:-1,DE: Sky RTL Nitro
+http://ipsatpro.com:8000/live/tony2/tony2/776.ts
+#EXTINF:-1,DE: Sky RTL Crime
+http://ipsatpro.com:8000/live/tony2/tony2/752.ts
+#EXTINF:-1,DE: Sky RTL Living
+http://ipsatpro.com:8000/live/tony2/tony2/813.ts
+#EXTINF:-1,DE: Sky RTL Super
+http://ipsatpro.com:8000/live/tony2/tony2/800.ts
+#EXTINF:-1,DE: Sky RTL Passion
+http://ipsatpro.com:8000/live/tony2/tony2/774.ts
+#EXTINF:-1,DE: Sky Universal HD
+http://ipsatpro.com:8000/live/tony2/tony2/812.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://ipsatpro.com:8000/live/tony2/tony2/784.ts
+#EXTINF:-1,DE: Sky Sat1 Gold
+http://ipsatpro.com:8000/live/tony2/tony2/777.ts
+#EXTINF:-1,DE: Sky Austria 24 TV
+http://ipsatpro.com:8000/live/tony2/tony2/796.ts
+#EXTINF:-1,DE: Sky Kinowelt
+http://ipsatpro.com:8000/live/tony2/tony2/791.ts
+#EXTINF:-1,DE: Sky ZDF Info
+http://ipsatpro.com:8000/live/tony2/tony2/790.ts
+#EXTINF:-1,DE: Sky SRF 1
+http://ipsatpro.com:8000/live/tony2/tony2/783.ts
+#EXTINF:-1,DE: Sky ORF 3
+http://ipsatpro.com:8000/live/tony2/tony2/782.ts
+#EXTINF:-1,DE: Sky ORF 2
+http://ipsatpro.com:8000/live/tony2/tony2/772.ts
+#EXTINF:-1,DE: Sky ORF Enis
+http://ipsatpro.com:8000/live/tony2/tony2/771.ts
+#EXTINF:-1,DE: Sky VOX
+http://ipsatpro.com:8000/live/tony2/tony2/788.ts
+#EXTINF:-1,DE: Sky FOX
+http://ipsatpro.com:8000/live/tony2/tony2/787.ts
+#EXTINF:-1,DE: Sky One
+http://ipsatpro.com:8000/live/tony2/tony2/753.ts
+#EXTINF:-1,DE: Sky TNT Comedy HD
+http://ipsatpro.com:8000/live/tony2/tony2/811.ts
+#EXTINF:-1,DE: Sky TNT Serie
+http://ipsatpro.com:8000/live/tony2/tony2/794.ts
+#EXTINF:-1,DE: Sky TNT Film
+http://ipsatpro.com:8000/live/tony2/tony2/758.ts
+#EXTINF:-1,DE: Sky Sony HD
+http://ipsatpro.com:8000/live/tony2/tony2/754.ts
+#EXTINF:-1,DE: Sky Disney XD
+http://ipsatpro.com:8000/live/tony2/tony2/817.ts
+#EXTINF:-1,DE: Sky Disney Channel
+http://ipsatpro.com:8000/live/tony2/tony2/795.ts
+#EXTINF:-1,DE: Sky Cartoon Network
+http://ipsatpro.com:8000/live/tony2/tony2/815.ts
+#EXTINF:-1,DE: Sky Nickelodeon
+http://ipsatpro.com:8000/live/tony2/tony2/797.ts
+#EXTINF:-1,DE: Sky Boomerang
+http://ipsatpro.com:8000/live/tony2/tony2/816.ts
+#EXTINF:-1,DE: Sky  ZEE ONE
+http://ipsatpro.com:8000/live/tony2/tony2/814.ts
+#EXTINF:-1,DE: Sky National Geographic
+http://ipsatpro.com:8000/live/tony2/tony2/792.ts
+#EXTINF:-1,DE: Sky Nat Geo wild
+http://ipsatpro.com:8000/live/tony2/tony2/793.ts
+#EXTINF:-1,DE: Sky History
+http://ipsatpro.com:8000/live/tony2/tony2/762.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://ipsatpro.com:8000/live/tony2/tony2/760.ts
+#EXTINF:-1,DE: Sky 13th Street
+http://ipsatpro.com:8000/live/tony2/tony2/780.ts
+#EXTINF:-1,DE: Sky RBB Berlin
+http://ipsatpro.com:8000/live/tony2/tony2/775.ts
+#EXTINF:-1,DE: Sky Phoenix
+http://ipsatpro.com:8000/live/tony2/tony2/769.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://ipsatpro.com:8000/live/tony2/tony2/798.ts
+#EXTINF:-1,DE: Sky Wdr
+http://ipsatpro.com:8000/live/tony2/tony2/789.ts
+#EXTINF:-1,DE: Sky Sixx
+http://ipsatpro.com:8000/live/tony2/tony2/785.ts
+#EXTINF:-1,DE: Sky Pro 7
+http://ipsatpro.com:8000/live/tony2/tony2/773.ts
+#EXTINF:-1,DE: Sky NDR HD
+http://ipsatpro.com:8000/live/tony2/tony2/768.ts
+#EXTINF:-1,DE: Sky N24
+http://ipsatpro.com:8000/live/tony2/tony2/767.ts
+#EXTINF:-1,DE: Sky N-TV
+http://ipsatpro.com:8000/live/tony2/tony2/766.ts
+#EXTINF:-1,DE: Sky Romance
+http://ipsatpro.com:8000/live/tony2/tony2/765.ts
+#EXTINF:-1,DE: Sky Krimi HD
+http://ipsatpro.com:8000/live/tony2/tony2/803.ts
+#EXTINF:-1,DE: Sky Kika
+http://ipsatpro.com:8000/live/tony2/tony2/764.ts
+#EXTINF:-1,DE: Sky Kabel 1
+http://ipsatpro.com:8000/live/tony2/tony2/763.ts
+#EXTINF:-1,DE: Sky Dmax
+http://ipsatpro.com:8000/live/tony2/tony2/770.ts
+#EXTINF:-1,DE: Sky Pro 7 Max
+http://ipsatpro.com:8000/live/tony2/tony2/757.ts
+#EXTINF:-1,DE: Sky Arte
+http://ipsatpro.com:8000/live/tony2/tony2/756.ts
+#EXTINF:-1,DE: Sky ARD
+http://ipsatpro.com:8000/live/tony2/tony2/755.ts
+#EXTINF:-1,DE: Sky 3sat
+http://ipsatpro.com:8000/live/tony2/tony2/781.ts
 
 
 
@@ -3500,108 +4764,6 @@ rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0,Lunaa Sport
 rtmp://vs2.streamcaster.net/test_live/lunasport
 
-#EXTINF:-1,Motosport TV
-http://91.139.196.72:8030/play/a00x
-#EXTINF:-1,Canal Q
-http://91.139.196.72:8030/play/a032
-#EXTINF:-1,SIC K
-http://91.139.196.72:8030/play/a00k
-#EXTINF:-1,Odisseia
-http://91.139.196.72:8030/play/a00z
-#EXTINF:-1,RTP 3
-http://91.139.196.72:8030/play/a007
-#EXTINF:-1,SIC Radical
-http://91.139.196.72:8030/play/a02r
-#EXTINF:-1,CBS Reality
-http://91.139.196.72:8030/play/a013
-#EXTINF:-1,MCM POP
-http://91.139.196.72:8030/play/a037
-#EXTINF:-1,TVI 24
-http://91.139.196.72:8030/play/a00p
-#EXTINF:-1,Record News
-http://91.139.196.72:8030/play/a018
-#EXTINF:-1,RTP Memðria
-http://91.139.196.72:8030/play/a02u
-#EXTINF:-1,Porto Canal
-http://91.139.196.72:8030/play/a02s
-#EXTINF:-1,TVCine 3
-http://91.139.196.72:8030/play/a045
-#EXTINF:-1,E! Entertainment
-http://91.139.196.72:8030/play/a02x
-#EXTINF:-1,SIC
-http://91.139.196.72:8030/play/a00t
-#EXTINF:-1,C-Music
-http://91.139.196.72:8030/play/a00r
-#EXTINF:-1,Histðria
-http://91.139.196.72:8030/play/a00c
-#EXTINF:-1,TV Galicia
-http://91.139.196.72:8030/play/a033
-#EXTINF:-1,A Bola TV
-http://91.139.196.72:8030/play/a017
-#EXTINF:-1,Eurosport 2 Xtra
-http://91.139.196.72:8030/play/a00d
-#EXTINF:-1,Cartoon Network
-http://91.139.196.72:8030/play/a02t
-#EXTINF:-1,Eurosport 2
-http://91.139.196.72:8030/play/a036
-#EXTINF:-1,CanĿªo Nova
-http://91.139.196.72:8030/play/a038
-#EXTINF:-1,MCS Extreme
-http://91.139.196.72:8030/play/a00w
-#EXTINF:-1,TVCine 4
-http://91.139.196.72:8030/play/a044
-#EXTINF:-1,PFC
-http://91.139.196.72:8030/play/a034
-#EXTINF:-1,Cinemundo
-http://91.139.196.72:8030/play/a00b
-#EXTINF:-1,TV Record
-http://91.139.196.72:8030/play/a006
-#EXTINF:-1,Afro Music
-http://91.139.196.72:8030/play/a047
-#EXTINF:-1,Eurosport 1
-http://91.139.196.72:8030/play/a00a
-#EXTINF:-1,RTP 1
-http://91.139.196.72:8030/play/a004
-#EXTINF:-1,RTP AĿores
-http://91.139.196.72:8030/play/a00i
-#EXTINF:-1,Nat Geo Wild
-http://91.139.196.72:8030/play/a02q
-#EXTINF:-1,Jim Jam
-http://91.139.196.72:8030/play/a00n
-#EXTINF:-1,TVI
-http://91.139.196.72:8030/play/a02n
-#EXTINF:-1,FOX Comedy
-http://91.139.196.72:8030/play/a02v
-#EXTINF:-1,TVI FicĿªo
-http://91.139.196.72:8030/play/a016
-#EXTINF:-1,TVSØries
-http://91.139.196.72:8030/play/a012
-#EXTINF:-1,NBA TV
-http://91.139.196.72:8030/play/a02o
-#EXTINF:-1,RTP Madeira
-http://91.139.196.72:8030/play/a00h
-#EXTINF:-1,Disney Channel
-http://91.139.196.72:8030/play/a015
-#EXTINF:-1,Venus
-http://91.139.196.72:8030/play/a011
-#EXTINF:-1,Syfy
-http://91.139.196.72:8030/play/a00v
-#EXTINF:-1,SPORT TV 4
-http://91.139.196.72:8030/play/a00m
-#EXTINF:-1,Globo Premium
-http://91.139.196.72:8030/play/a035
-#EXTINF:-1,Discovery Channel
-http://91.139.196.72:8030/play/a00y
-#EXTINF:-1,SIC NotŦcias
-http://91.139.196.72:8030/play/a00u
-#EXTINF:-1,RTP 2
-http://91.139.196.72:8030/play/a005
-#EXTINF:-1,Canal Panda
-http://91.139.196.72:8030/play/a02p
-#EXTINF:-1,SIC Caras
-http://91.139.196.72:8030/play/a02w
-
-
 
 
 
@@ -3691,7 +4853,124 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,PT: Spor tv 1
+http://ipsatpro.com:8000/live/tony2/tony2/880.ts
+#EXTINF:-1,PT: SporTV 2
+http://ipsatpro.com:8000/live/tony2/tony2/881.ts
+#EXTINF:-1,PT: SporTV 3
+http://ipsatpro.com:8000/live/tony2/tony2/882.ts
+#EXTINF:-1,PT: SporTV 4
+http://ipsatpro.com:8000/live/tony2/tony2/883.ts
+#EXTINF:-1,PT: SporTV 5
+http://ipsatpro.com:8000/live/tony2/tony2/884.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/885.ts
+#EXTINF:-1,PT: Sport TV
+http://ipsatpro.com:8000/live/tony2/tony2/899.ts
+#EXTINF:-1,PT: Benfica TV 1
+http://ipsatpro.com:8000/live/tony2/tony2/900.ts
+#EXTINF:-1,PT: TVCine 1
+http://ipsatpro.com:8000/live/tony2/tony2/936.ts
+#EXTINF:-1,PT: TVCine 2
+http://ipsatpro.com:8000/live/tony2/tony2/935.ts
+#EXTINF:-1,PT: TVCine 3
+http://ipsatpro.com:8000/live/tony2/tony2/934.ts
+#EXTINF:-1,PT: TVCine 4
+http://ipsatpro.com:8000/live/tony2/tony2/933.ts
+#EXTINF:-1,PT: TVCseries
+http://ipsatpro.com:8000/live/tony2/tony2/930.ts
+#EXTINF:-1,PT: VeVo 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/898.ts
+#EXTINF:-1,PT: VeVo 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/897.ts
+#EXTINF:-1,PT: VeVo 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/896.ts
+#EXTINF:-1,PT: AXN HD
+http://ipsatpro.com:8000/live/tony2/tony2/915.ts
+#EXTINF:-1,PT: Axn White HD
+http://ipsatpro.com:8000/live/tony2/tony2/916.ts
+#EXTINF:-1,PT: Axn Black HD
+http://ipsatpro.com:8000/live/tony2/tony2/932.ts
+#EXTINF:-1,PT: Fox HD
+http://ipsatpro.com:8000/live/tony2/tony2/926.ts
+#EXTINF:-1,PT: Fox Crime
+http://ipsatpro.com:8000/live/tony2/tony2/901.ts
+#EXTINF:-1,PT: Fox Life HD
+http://ipsatpro.com:8000/live/tony2/tony2/925.ts
+#EXTINF:-1,PT: Fox Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/923.ts
+#EXTINF:-1,PT: Fox Movies HD
+http://ipsatpro.com:8000/live/tony2/tony2/929.ts
+#EXTINF:-1,PT: Toros tv
+http://ipsatpro.com:8000/live/tony2/tony2/909.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://ipsatpro.com:8000/live/tony2/tony2/886.ts
+#EXTINF:-1,PT: TVI
+http://ipsatpro.com:8000/live/tony2/tony2/889.ts
+#EXTINF:-1,PT: TVI 24
+http://ipsatpro.com:8000/live/tony2/tony2/887.ts
+#EXTINF:-1,PT: TV Globo
+http://ipsatpro.com:8000/live/tony2/tony2/888.ts
+#EXTINF:-1,PT: SIC
+http://ipsatpro.com:8000/live/tony2/tony2/924.ts
+#EXTINF:-1,PT: SIC K
+http://ipsatpro.com:8000/live/tony2/tony2/919.ts
+#EXTINF:-1,PT: SIC Noticias
+http://ipsatpro.com:8000/live/tony2/tony2/903.ts
+#EXTINF:-1,PT: Sic Radical
+http://ipsatpro.com:8000/live/tony2/tony2/914.ts
+#EXTINF:-1,PT: SIC Caras
+http://ipsatpro.com:8000/live/tony2/tony2/912.ts
+#EXTINF:-1,PT: Sic Mulher
+http://ipsatpro.com:8000/live/tony2/tony2/913.ts
+#EXTINF:-1,PT: RTP 1
+http://ipsatpro.com:8000/live/tony2/tony2/895.ts
+#EXTINF:-1,PT: RTP 2
+http://ipsatpro.com:8000/live/tony2/tony2/894.ts
+#EXTINF:-1,PT: RTP Memoria
+http://ipsatpro.com:8000/live/tony2/tony2/890.ts
+#EXTINF:-1,PT: RTP Madeira
+http://ipsatpro.com:8000/live/tony2/tony2/891.ts
+#EXTINF:-1,PT: RTP Acores
+http://ipsatpro.com:8000/live/tony2/tony2/893.ts
+#EXTINF:-1,PT: TLC
+http://ipsatpro.com:8000/live/tony2/tony2/878.ts
+#EXTINF:-1,PT: Travel Channel
+http://ipsatpro.com:8000/live/tony2/tony2/877.ts
+#EXTINF:-1,PT: CM TV
+http://ipsatpro.com:8000/live/tony2/tony2/908.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://ipsatpro.com:8000/live/tony2/tony2/931.ts
+#EXTINF:-1,PT: Record
+http://ipsatpro.com:8000/live/tony2/tony2/917.ts
+#EXTINF:-1,PT: PFC
+http://ipsatpro.com:8000/live/tony2/tony2/911.ts
+#EXTINF:-1,PT: Jim Jim
+http://ipsatpro.com:8000/live/tony2/tony2/918.ts
+#EXTINF:-1,PT: SyFy
+http://ipsatpro.com:8000/live/tony2/tony2/902.ts
+#EXTINF:-1,PT: CartoonNet Work
+http://ipsatpro.com:8000/live/tony2/tony2/920.ts
+#EXTINF:-1,PT: Motors TV
+http://ipsatpro.com:8000/live/tony2/tony2/921.ts
+#EXTINF:-1,PT: Cine Mundo
+http://ipsatpro.com:8000/live/tony2/tony2/892.ts
+#EXTINF:-1,PT: EuroSpor News
+http://ipsatpro.com:8000/live/tony2/tony2/922.ts
+#EXTINF:-1,PT: Hollywood
+http://ipsatpro.com:8000/live/tony2/tony2/907.ts
+#EXTINF:-1,PT: EuroSport 2
+http://ipsatpro.com:8000/live/tony2/tony2/927.ts
+#EXTINF:-1,PT: EuroSport
+http://ipsatpro.com:8000/live/tony2/tony2/928.ts
+#EXTINF:-1,PT: Disney Junior
+http://ipsatpro.com:8000/live/tony2/tony2/905.ts
+#EXTINF:-1,PT: Disney Channel
+http://ipsatpro.com:8000/live/tony2/tony2/904.ts
+#EXTINF:-1,PT: Discovery HD
+http://ipsatpro.com:8000/live/tony2/tony2/906.ts
+#EXTINF:-1,PT: Abola tv
+http://ipsatpro.com:8000/live/tony2/tony2/910.ts
 
 
 
@@ -4287,7 +5566,288 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,LN: B4U Aflam
+http://ipsatpro.com:8000/live/tony2/tony2/1791.ts
+#EXTINF:-1,LN: B4U Movie
+http://ipsatpro.com:8000/live/tony2/tony2/1792.ts
+#EXTINF:-1,LN: B4U Music
+http://ipsatpro.com:8000/live/tony2/tony2/1793.ts
+#EXTINF:-1,LN: Asia Plus
+http://ipsatpro.com:8000/live/tony2/tony2/1794.ts
+#EXTINF:-1,LN: TEN Sports
+http://ipsatpro.com:8000/live/tony2/tony2/1823.ts
+#EXTINF:-1,LN: TEN Sports 1
+http://ipsatpro.com:8000/live/tony2/tony2/1769.ts
+#EXTINF:-1,LN: TEN Golf HD
+http://ipsatpro.com:8000/live/tony2/tony2/1766.ts
+#EXTINF:-1,LN: willowa
+http://ipsatpro.com:8000/live/tony2/tony2/1770.ts
+#EXTINF:-1,LN: Star Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1774.ts
+#EXTINF:-1,LN: Star Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1775.ts
+#EXTINF:-1,LN: Star Sport 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1776.ts
+#EXTINF:-1,LN: Star Sport 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1777.ts
+#EXTINF:-1,LN: ZEE Bangla Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/1784.ts
+#EXTINF:-1,LN: ZEE Bollywood
+http://ipsatpro.com:8000/live/tony2/tony2/1782.ts
+#EXTINF:-1,LN: ZEE TV HD US
+http://ipsatpro.com:8000/live/tony2/tony2/1781.ts
+#EXTINF:-1,LN: ZEE Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/1780.ts
+#EXTINF:-1,LN: ZEE Studio HD
+http://ipsatpro.com:8000/live/tony2/tony2/1783.ts
+#EXTINF:-1,LN: ZEE Canada
+http://ipsatpro.com:8000/live/tony2/tony2/1760.ts
+#EXTINF:-1,LN: ZEE Alwan
+http://ipsatpro.com:8000/live/tony2/tony2/1778.ts
+#EXTINF:-1,LN: ZEE Tamil
+http://ipsatpro.com:8000/live/tony2/tony2/1764.ts
+#EXTINF:-1,LN: ZEE Aflam
+http://ipsatpro.com:8000/live/tony2/tony2/1779.ts
+#EXTINF:-1,LN: ZEE Cafe
+http://ipsatpro.com:8000/live/tony2/tony2/1752.ts
+#EXTINF:-1,LN: ZEE Zindagi
+http://ipsatpro.com:8000/live/tony2/tony2/1812.ts
+#EXTINF:-1,LN: ZEE Anmol
+http://ipsatpro.com:8000/live/tony2/tony2/1813.ts
+#EXTINF:-1,LN: ZEE tv
+http://ipsatpro.com:8000/live/tony2/tony2/1815.ts
+#EXTINF:-1,LN: ZEE News
+http://ipsatpro.com:8000/live/tony2/tony2/2967.ts
+#EXTINF:-1,LN: Zing us
+http://ipsatpro.com:8000/live/tony2/tony2/1819.ts
+#EXTINF:-1,LN: Surya tv
+http://ipsatpro.com:8000/live/tony2/tony2/1802.ts
+#EXTINF:-1,LN: Star Vijay HD
+http://ipsatpro.com:8000/live/tony2/tony2/1753.ts
+#EXTINF:-1,LN: Star pluse HD
+http://ipsatpro.com:8000/live/tony2/tony2/1803.ts
+#EXTINF:-1,LN: Star Jalsha HD
+http://ipsatpro.com:8000/live/tony2/tony2/1798.ts
+#EXTINF:-1,LN: Asian Movies
+http://ipsatpro.com:8000/live/tony2/tony2/1829.ts
+#EXTINF:-1,LN: Star Utsuv
+http://ipsatpro.com:8000/live/tony2/tony2/1768.ts
+#EXTINF:-1,LN: Safari TV
+http://ipsatpro.com:8000/live/tony2/tony2/1818.ts
+#EXTINF:-1,LN: J Movies us
+http://ipsatpro.com:8000/live/tony2/tony2/1799.ts
+#EXTINF:-1,LN: J Moves HD
+http://ipsatpro.com:8000/live/tony2/tony2/1797.ts
+#EXTINF:-1,LN: Janam tv2
+http://ipsatpro.com:8000/live/tony2/tony2/1828.ts
+#EXTINF:-1,LN: Rishtey TV Europe
+http://ipsatpro.com:8000/live/tony2/tony2/1806.ts
+#EXTINF:-1,LN: And TV
+http://ipsatpro.com:8000/live/tony2/tony2/1816.ts
+#EXTINF:-1,LN: Aajtak News
+http://ipsatpro.com:8000/live/tony2/tony2/1821.ts
+#EXTINF:-1,LN: Asianet Plus
+http://ipsatpro.com:8000/live/tony2/tony2/1827.ts
+#EXTINF:-1,LN: And TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/1754.ts
+#EXTINF:-1,LN: Channel 9
+http://ipsatpro.com:8000/live/tony2/tony2/1836.ts
+#EXTINF:-1,LN: TRTV
+http://ipsatpro.com:8000/live/tony2/tony2/1838.ts
+#EXTINF:-1,LN: Athavan TV
+http://ipsatpro.com:8000/live/tony2/tony2/1771.ts
+#EXTINF:-1,LN: Desi Channel
+http://ipsatpro.com:8000/live/tony2/tony2/1755.ts
+#EXTINF:-1,LN: Hollywood Classic
+http://ipsatpro.com:8000/live/tony2/tony2/1805.ts
+#EXTINF:-1,LN: Deepto
+http://ipsatpro.com:8000/live/tony2/tony2/1749.ts
+#EXTINF:-1,LN: Colors TV US
+http://ipsatpro.com:8000/live/tony2/tony2/1830.ts
+#EXTINF:-1,LN: Colors ME
+http://ipsatpro.com:8000/live/tony2/tony2/1824.ts
+#EXTINF:-1,LN: Maa Gold
+http://ipsatpro.com:8000/live/tony2/tony2/1800.ts
+#EXTINF:-1,LN: &Picture HD
+http://ipsatpro.com:8000/live/tony2/tony2/1831.ts
+#EXTINF:-1,LN: KTV HD
+http://ipsatpro.com:8000/live/tony2/tony2/1817.ts
+#EXTINF:-1,LN: Gimeny Movies
+http://ipsatpro.com:8000/live/tony2/tony2/1826.ts
+#EXTINF:-1,LN: E 24
+http://ipsatpro.com:8000/live/tony2/tony2/1820.ts
+#EXTINF:-1,LN: Sony Six
+http://ipsatpro.com:8000/live/tony2/tony2/1835.ts
+#EXTINF:-1,LN: polimer TV
+http://ipsatpro.com:8000/live/tony2/tony2/1834.ts
+#EXTINF:-1,LN: Media One
+http://ipsatpro.com:8000/live/tony2/tony2/1832.ts
+#EXTINF:-1,LN: ib tamil tv
+http://ipsatpro.com:8000/live/tony2/tony2/1833.ts
+#EXTINF:-1,LN: Channle Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/1786.ts
+#EXTINF:-1,LN: Cartoons Network
+http://ipsatpro.com:8000/live/tony2/tony2/1822.ts
+#EXTINF:-1,LN: Nicke Cartoon
+http://ipsatpro.com:8000/live/tony2/tony2/1790.ts
+#EXTINF:-1,LN: ATN Bangla 2
+http://ipsatpro.com:8000/live/tony2/tony2/1825.ts
+#EXTINF:-1,LN: Pogo hindi
+http://ipsatpro.com:8000/live/tony2/tony2/1804.ts
+#EXTINF:-1,LN: Life OK
+http://ipsatpro.com:8000/live/tony2/tony2/1765.ts
+#EXTINF:-1,LN: Housefull Action
+http://ipsatpro.com:8000/live/tony2/tony2/1773.ts
+#EXTINF:-1,LN: Saras TV
+http://ipsatpro.com:8000/live/tony2/tony2/1772.ts
+#EXTINF:-1,LN: IBN 7
+http://ipsatpro.com:8000/live/tony2/tony2/1763.ts
+#EXTINF:-1,LN: Ary Zindagi
+http://ipsatpro.com:8000/live/tony2/tony2/1751.ts
+#EXTINF:-1,LN: 9xTashan
+http://ipsatpro.com:8000/live/tony2/tony2/1809.ts
+#EXTINF:-1,LN: 9XM
+http://ipsatpro.com:8000/live/tony2/tony2/1814.ts
+#EXTINF:-1,LN: 9X Jhakaas
+http://ipsatpro.com:8000/live/tony2/tony2/1810.ts
+#EXTINF:-1,LN: UTV Movies US
+http://ipsatpro.com:8000/live/tony2/tony2/1807.ts
+#EXTINF:-1,LN: UTV Bindas
+http://ipsatpro.com:8000/live/tony2/tony2/1808.ts
+#EXTINF:-1,LN: UFX Channle
+http://ipsatpro.com:8000/live/tony2/tony2/1811.ts
+#EXTINF:-1,LN: Gimeny Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/1801.ts
+#EXTINF:-1,LN: Banglavision
+http://ipsatpro.com:8000/live/tony2/tony2/1761.ts
+#EXTINF:-1,LN: Movie Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/1762.ts
+#EXTINF:-1,LN: ET Now
+http://ipsatpro.com:8000/live/tony2/tony2/1759.ts
+#EXTINF:-1,LN: Medanet hd TV
+http://ipsatpro.com:8000/live/tony2/tony2/1750.ts
+#EXTINF:-1,LN: Sonic Nickelodeon
+http://ipsatpro.com:8000/live/tony2/tony2/1748.ts
+#EXTINF:-1,LN: Isaiaruvi
+http://ipsatpro.com:8000/live/tony2/tony2/1758.ts
+#EXTINF:-1,LN: EET TV
+http://ipsatpro.com:8000/live/tony2/tony2/1757.ts
+#EXTINF:-1,LN: Deva TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/1756.ts
+#EXTINF:-1,LN: Maasaranga
+http://ipsatpro.com:8000/live/tony2/tony2/1747.ts
+#EXTINF:-1,LN: International Afghan
+http://ipsatpro.com:8000/live/tony2/tony2/1788.ts
+#EXTINF:-1,LN: Hum World pk
+http://ipsatpro.com:8000/live/tony2/tony2/1789.ts
+#EXTINF:-1,LN: ATV Afghany
+http://ipsatpro.com:8000/live/tony2/tony2/1787.ts
+#EXTINF:-1,LN: ATN Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/1785.ts
+#EXTINF:-1,LN: ATN News
+http://ipsatpro.com:8000/live/tony2/tony2/1837.ts
+#EXTINF:-1,LN: Sony us
+http://ipsatpro.com:8000/live/tony2/tony2/1795.ts
+#EXTINF:-1,LN: Sony Max 2
+http://ipsatpro.com:8000/live/tony2/tony2/1796.ts
+#EXTINF:-1,LN: UTV Movies
+http://ipsatpro.com:8000/live/tony2/tony2/2965.ts
+#EXTINF:-1,LN: UTV Action
+http://ipsatpro.com:8000/live/tony2/tony2/2966.ts
+#EXTINF:-1,LN: Sony TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/2964.ts
+#EXTINF:-1,LN: Sony Six HD
+http://ipsatpro.com:8000/live/tony2/tony2/2963.ts
+#EXTINF:-1,LN: Sony Sab
+http://ipsatpro.com:8000/live/tony2/tony2/2962.ts
+#EXTINF:-1,LN: Sony PIX HD
+http://ipsatpro.com:8000/live/tony2/tony2/2961.ts
+#EXTINF:-1,LN: Sony PIX
+http://ipsatpro.com:8000/live/tony2/tony2/2960.ts
+#EXTINF:-1,LN: Sony Max HD
+http://ipsatpro.com:8000/live/tony2/tony2/2959.ts
+#EXTINF:-1,LN: Somoy News TV
+http://ipsatpro.com:8000/live/tony2/tony2/2958.ts
+#EXTINF:-1,LN: Ruposhi Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2957.ts
+#EXTINF:-1,LN: NTV Europe
+http://ipsatpro.com:8000/live/tony2/tony2/2956.ts
+#EXTINF:-1,LN: NTV
+http://ipsatpro.com:8000/live/tony2/tony2/2955.ts
+#EXTINF:-1,LN: Movies Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2954.ts
+#EXTINF:-1,LN: Millinium TV
+http://ipsatpro.com:8000/live/tony2/tony2/2952.ts
+#EXTINF:-1,LN: Jamuna TV
+http://ipsatpro.com:8000/live/tony2/tony2/2951.ts
+#EXTINF:-1,LN: Independent TV
+http://ipsatpro.com:8000/live/tony2/tony2/2950.ts
+#EXTINF:-1,LN: Gaan Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2949.ts
+#EXTINF:-1,LN: Ekattor TV
+http://ipsatpro.com:8000/live/tony2/tony2/2948.ts
+#EXTINF:-1,LN: Dhoom Music
+http://ipsatpro.com:8000/live/tony2/tony2/2947.ts
+#EXTINF:-1,LN: Colors Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2946.ts
+#EXTINF:-1,LN: Bangla TV
+http://ipsatpro.com:8000/live/tony2/tony2/2945.ts
+#EXTINF:-1,LN: ATN Music TV
+http://ipsatpro.com:8000/live/tony2/tony2/2944.ts
+#EXTINF:-1,LN: Akash Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2943.ts
+#EXTINF:-1,LN: Aamar Bangla
+http://ipsatpro.com:8000/live/tony2/tony2/2942.ts
+#EXTINF:-1,LN: Chlthrim
+http://ipsatpro.com:8000/live/tony2/tony2/2984.ts
+#EXTINF:-1,LN: Murasu TV
+http://ipsatpro.com:8000/live/tony2/tony2/2983.ts
+#EXTINF:-1,LN:  Anandmedia
+http://ipsatpro.com:8000/live/tony2/tony2/2986.ts
+#EXTINF:-1,LN: Kalanigar
+http://ipsatpro.com:8000/live/tony2/tony2/2978.ts
+#EXTINF:-1,LN:  Kaumudy
+http://ipsatpro.com:8000/live/tony2/tony2/2977.ts
+#EXTINF:-1,LN:  Magna Vision
+http://ipsatpro.com:8000/live/tony2/tony2/2979.ts
+#EXTINF:-1,LN:  News X
+http://ipsatpro.com:8000/live/tony2/tony2/2981.ts
+#EXTINF:-1,LN: 1YES TV
+http://ipsatpro.com:8000/live/tony2/tony2/2969.ts
+#EXTINF:-1,LN: 25.Anana HD
+http://ipsatpro.com:8000/live/tony2/tony2/2980.ts
+#EXTINF:-1,LN: Kalaignar TV HD
+http://ipsatpro.com:8000/live/tony2/tony2/2982.ts
+#EXTINF:-1,LN: ETV Marathi
+http://ipsatpro.com:8000/live/tony2/tony2/2976.ts
+#EXTINF:-1,LN: Canada Tamil
+http://ipsatpro.com:8000/live/tony2/tony2/2990.ts
+#EXTINF:-1,LN: Dheeran
+http://ipsatpro.com:8000/live/tony2/tony2/2974.ts
+#EXTINF:-1,LN: IBC Tamil
+http://ipsatpro.com:8000/live/tony2/tony2/2971.ts
+#EXTINF:-1,LN: NTV HD
+http://ipsatpro.com:8000/live/tony2/tony2/2975.ts
+#EXTINF:-1,LN: Malabar time
+http://ipsatpro.com:8000/live/tony2/tony2/2985.ts
+#EXTINF:-1,LN: MK TV
+http://ipsatpro.com:8000/live/tony2/tony2/2991.ts
+#EXTINF:-1,LN: Mohona TV
+http://ipsatpro.com:8000/live/tony2/tony2/2953.ts
+#EXTINF:-1,LN: Moon Vision
+http://ipsatpro.com:8000/live/tony2/tony2/2988.ts
+#EXTINF:-1,LN: Nepali TV
+http://ipsatpro.com:8000/live/tony2/tony2/2968.ts
+#EXTINF:-1,LN: Polimar Tv
+http://ipsatpro.com:8000/live/tony2/tony2/2987.ts
+#EXTINF:-1,LN: Sathiyam TV
+http://ipsatpro.com:8000/live/tony2/tony2/2989.ts
+#EXTINF:-1,LN: Shakthi TV
+http://ipsatpro.com:8000/live/tony2/tony2/2972.ts
+#EXTINF:-1,LN: ACV
+http://ipsatpro.com:8000/live/tony2/tony2/2970.ts
+#EXTINF:-1,LN: TentkottaNT
+http://ipsatpro.com:8000/live/tony2/tony2/2973.ts
 
 
 
@@ -4445,6 +6005,868 @@ http://.....
 #EXTINF:-1 ,
 http://.....
 
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.com:8000/live/tony2/tony2/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.com:8000/live/tony2/tony2/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.com:8000/live/tony2/tony2/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.com:8000/live/tony2/tony2/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.com:8000/live/tony2/tony2/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.com:8000/live/tony2/tony2/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8000/live/tony2/tony2/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8000/live/tony2/tony2/170.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2456.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2457.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2458.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2459.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2460.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2461.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2462.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2463.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2464.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2465.ts
+#EXTINF:-1,AR: Bein Sport 11 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2466.ts
+#EXTINF:-1,AR: Bein Sport 12 SD
+http://ipsatpro.com:8000/live/tony2/tony2/2467.ts
+#EXTINF:-1,AR: Bein Sport 1 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2472.ts
+#EXTINF:-1,AR: Bein Sport 2 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2473.ts
+#EXTINF:-1,AR: Bein Sport 3 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2481.ts
+#EXTINF:-1,AR: Bein Sport 4 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2474.ts
+#EXTINF:-1,AR: Bein Sport 5 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2475.ts
+#EXTINF:-1,AR: Bein Sport 6 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2476.ts
+#EXTINF:-1,AR: Bein Sport 7 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2477.ts
+#EXTINF:-1,AR: Bein Sport 8 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2478.ts
+#EXTINF:-1,AR: Bein Sport 9 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2479.ts
+#EXTINF:-1,AR: Bein Sport 10 Low
+http://ipsatpro.com:8000/live/tony2/tony2/2480.ts
+#EXTINF:-1,AR: Bein Movies 1
+http://ipsatpro.com:8000/live/tony2/tony2/175.ts
+#EXTINF:-1,AR: Bein Movies 2
+http://ipsatpro.com:8000/live/tony2/tony2/176.ts
+#EXTINF:-1,AR: Bein Movies 3
+http://ipsatpro.com:8000/live/tony2/tony2/177.ts
+#EXTINF:-1,AR: Bein Movies 4
+http://ipsatpro.com:8000/live/tony2/tony2/178.ts
+#EXTINF:-1,------ OSN ----------
+http://ipsatpro.com:8000/live/tony2/tony2/2455.ts
+#EXTINF:-1,AR: Osn Cinema 1
+http://ipsatpro.com:8000/live/tony2/tony2/2384.ts
+#EXTINF:-1,AR: Osn Cinema 2
+http://ipsatpro.com:8000/live/tony2/tony2/2385.ts
+#EXTINF:-1,AR: Osn AlYawm
+http://ipsatpro.com:8000/live/tony2/tony2/2386.ts
+#EXTINF:-1,AR: Osn Safwa
+http://ipsatpro.com:8000/live/tony2/tony2/2399.ts
+#EXTINF:-1,AR: Osn Fann
+http://ipsatpro.com:8000/live/tony2/tony2/2390.ts
+#EXTINF:-1,AR: Osn Yahla
+http://ipsatpro.com:8000/live/tony2/tony2/1186.ts
+#EXTINF:-1,AR: Osn Yahla Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/2391.ts
+#EXTINF:-1,AR: Osn Yahla Drama
+http://ipsatpro.com:8000/live/tony2/tony2/1194.ts
+#EXTINF:-1,AR: Osn Yahla Shabab
+http://ipsatpro.com:8000/live/tony2/tony2/1197.ts
+#EXTINF:-1,AR: Osn MBC+ Drama
+http://ipsatpro.com:8000/live/tony2/tony2/2387.ts
+#EXTINF:-1,AR: Osn Mousalsalat
+http://ipsatpro.com:8000/live/tony2/tony2/2398.ts
+#EXTINF:-1,AR: Osn Mousalsalat 2
+http://ipsatpro.com:8000/live/tony2/tony2/2400.ts
+#EXTINF:-1,AR: Osn SeeVii Drama HD
+http://ipsatpro.com:8000/live/tony2/tony2/2366.ts
+#EXTINF:-1,AR: Osn SeeVii Beelink HD
+http://ipsatpro.com:8000/live/tony2/tony2/2368.ts
+#EXTINF:-1,AR: Osn SeeVii Shamiya HD
+http://ipsatpro.com:8000/live/tony2/tony2/2367.ts
+#EXTINF:-1,AR: Osn SeeVii Al Aoula HD
+http://ipsatpro.com:8000/live/tony2/tony2/2365.ts
+#EXTINF:-1,AR: Osn Movies HD
+http://ipsatpro.com:8000/live/tony2/tony2/2374.ts
+#EXTINF:-1,AR: Osn Movies+2
+http://ipsatpro.com:8000/live/tony2/tony2/2377.ts
+#EXTINF:-1,AR: Osn Movies Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/2375.ts
+#EXTINF:-1,AR: Osn Movies Action 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2376.ts
+#EXTINF:-1,AR: Osn Movies Thriller HD
+http://ipsatpro.com:8000/live/tony2/tony2/1184.ts
+#EXTINF:-1,AR: Osn Movies Premier 2
+http://ipsatpro.com:8000/live/tony2/tony2/2378.ts
+#EXTINF:-1,AR: Osn Movies Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/1195.ts
+#EXTINF:-1,AR: Osn Movies Drama
+http://ipsatpro.com:8000/live/tony2/tony2/1198.ts
+#EXTINF:-1,AR: Osn Movies Festival
+http://ipsatpro.com:8000/live/tony2/tony2/1192.ts
+#EXTINF:-1,AR: Osn Movies Comdy HD
+http://ipsatpro.com:8000/live/tony2/tony2/2372.ts
+#EXTINF:-1,AR: Osn Movies Hollywood
+http://ipsatpro.com:8000/live/tony2/tony2/2370.ts
+#EXTINF:-1,AR: Osn Movies Hollywood 2
+http://ipsatpro.com:8000/live/tony2/tony2/2371.ts
+#EXTINF:-1,AR: Osn Movies Kids
+http://ipsatpro.com:8000/live/tony2/tony2/2379.ts
+#EXTINF:-1,AR: Osn Movies Fox
+http://ipsatpro.com:8000/live/tony2/tony2/2381.ts
+#EXTINF:-1,AR: Osn Movies Disny
+http://ipsatpro.com:8000/live/tony2/tony2/2380.ts
+#EXTINF:-1,AR: Osn Food Network
+http://ipsatpro.com:8000/live/tony2/tony2/2397.ts
+#EXTINF:-1,AR: Osn Fox Movies HD
+http://ipsatpro.com:8000/live/tony2/tony2/2401.ts
+#EXTINF:-1,AR: Osn Fox HD
+http://ipsatpro.com:8000/live/tony2/tony2/2402.ts
+#EXTINF:-1,AR: Osn Dream Works
+http://ipsatpro.com:8000/live/tony2/tony2/2403.ts
+#EXTINF:-1,AR: Osn Filmbox Arthouse
+http://ipsatpro.com:8000/live/tony2/tony2/2404.ts
+#EXTINF:-1,AR: Osn Movies Thriller 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2405.ts
+#EXTINF:-1,AR: Osn Nickelodeon HD
+http://ipsatpro.com:8000/live/tony2/tony2/2406.ts
+#EXTINF:-1,AR: Osn Dinsey Junior
+http://ipsatpro.com:8000/live/tony2/tony2/1196.ts
+#EXTINF:-1,AR: Osn Baraem HD
+http://ipsatpro.com:8000/live/tony2/tony2/2389.ts
+#EXTINF:-1,AR: Osn TLC HD
+http://ipsatpro.com:8000/live/tony2/tony2/2393.ts
+#EXTINF:-1,AR: Osn SYFY
+http://ipsatpro.com:8000/live/tony2/tony2/2392.ts
+#EXTINF:-1,AR: Osn First HD
+http://ipsatpro.com:8000/live/tony2/tony2/1187.ts
+#EXTINF:-1,AR: Osn Baraem 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2396.ts
+#EXTINF:-1,AR: Osn First HBO HD
+http://ipsatpro.com:8000/live/tony2/tony2/2364.ts
+#EXTINF:-1,AR: Osn First Comdy HD
+http://ipsatpro.com:8000/live/tony2/tony2/2382.ts
+#EXTINF:-1,AR: Osn Demand HD HD
+http://ipsatpro.com:8000/live/tony2/tony2/2369.ts
+#EXTINF:-1,AR: Osn Demand 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2359.ts
+#EXTINF:-1,AR: Osn Demand 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2388.ts
+#EXTINF:-1,AR: Osn Star Movies
+http://ipsatpro.com:8000/live/tony2/tony2/1183.ts
+#EXTINF:-1,AR: Osn Star world
+http://ipsatpro.com:8000/live/tony2/tony2/1182.ts
+#EXTINF:-1,AR: Osn Animal Planet
+http://ipsatpro.com:8000/live/tony2/tony2/2383.ts
+#EXTINF:-1,AR: Osn National Geo HD
+http://ipsatpro.com:8000/live/tony2/tony2/2358.ts
+#EXTINF:-1,AR: Osn Nat Geo Wild HD
+http://ipsatpro.com:8000/live/tony2/tony2/2357.ts
+#EXTINF:-1,AR: Osn Nat Geo People HD
+http://ipsatpro.com:8000/live/tony2/tony2/1185.ts
+#EXTINF:-1,AR: Osn Discovry ID
+http://ipsatpro.com:8000/live/tony2/tony2/1193.ts
+#EXTINF:-1,AR: Osn Box Offiec 1
+http://ipsatpro.com:8000/live/tony2/tony2/1191.ts
+#EXTINF:-1,AR: Osn Box Offiec 2
+http://ipsatpro.com:8000/live/tony2/tony2/1190.ts
+#EXTINF:-1,AR: Osn Box Offiec 3
+http://ipsatpro.com:8000/live/tony2/tony2/1188.ts
+#EXTINF:-1,AR: Osn History HD
+http://ipsatpro.com:8000/live/tony2/tony2/2360.ts
+#EXTINF:-1,AR: Osn History 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2361.ts
+#EXTINF:-1,AR: Osn TLC 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2362.ts
+#EXTINF:-1,AR: Osn Disney XD
+http://ipsatpro.com:8000/live/tony2/tony2/2363.ts
+#EXTINF:-1,AR: Osn AD Sport 3 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2395.ts
+#EXTINF:-1,AR: Osn AD Sport 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2394.ts
+#EXTINF:-1,AR: Osn Wwe
+http://ipsatpro.com:8000/live/tony2/tony2/2373.ts
+#EXTINF:-1,AR: EL Donia Cartoon 1
+http://ipsatpro.com:8000/live/tony2/tony2/2407.ts
+#EXTINF:-1,AR: EL Donia Cartoon 2
+http://ipsatpro.com:8000/live/tony2/tony2/2408.ts
+#EXTINF:-1,AR: EL Donia Cartoon 3
+http://ipsatpro.com:8000/live/tony2/tony2/2409.ts
+#EXTINF:-1,AR: EL Donia Cartoon 4
+http://ipsatpro.com:8000/live/tony2/tony2/2410.ts
+#EXTINF:-1,AR: EL Donia Cartoon 5
+http://ipsatpro.com:8000/live/tony2/tony2/2411.ts
+#EXTINF:-1,AR: EL Donia Cartoon 6
+http://ipsatpro.com:8000/live/tony2/tony2/2412.ts
+#EXTINF:-1,AR: EL Donia Cartoon 7
+http://ipsatpro.com:8000/live/tony2/tony2/2413.ts
+#EXTINF:-1,AR: EL Donia Cartoon 8
+http://ipsatpro.com:8000/live/tony2/tony2/2414.ts
+#EXTINF:-1,AR: EL Donia Cartoon 9
+http://ipsatpro.com:8000/live/tony2/tony2/2415.ts
+#EXTINF:-1,AR: EL Donia Cartoon 10
+http://ipsatpro.com:8000/live/tony2/tony2/2416.ts
+#EXTINF:-1,------ Arabic ----------
+http://ipsatpro.com:8000/live/tony2/tony2/158.ts
+#EXTINF:-1,AR: Mtv Lebanon
+http://ipsatpro.com:8000/live/tony2/tony2/22.ts
+#EXTINF:-1,AR: Mtv Lebanon 2
+http://ipsatpro.com:8000/live/tony2/tony2/2253.ts
+#EXTINF:-1,AR: Mtv Lebanon 3
+http://ipsatpro.com:8000/live/tony2/tony2/2254.ts
+#EXTINF:-1,AR: Mtv Lebanon 4
+http://ipsatpro.com:8000/live/tony2/tony2/2255.ts
+#EXTINF:-1,AR: LDC
+http://ipsatpro.com:8000/live/tony2/tony2/24.ts
+#EXTINF:-1,AR: LDC 2
+http://ipsatpro.com:8000/live/tony2/tony2/2256.ts
+#EXTINF:-1,AR: LDC 3
+http://ipsatpro.com:8000/live/tony2/tony2/2257.ts
+#EXTINF:-1,AR: LDC 4
+http://ipsatpro.com:8000/live/tony2/tony2/2258.ts
+#EXTINF:-1,AR: OTV
+http://ipsatpro.com:8000/live/tony2/tony2/26.ts
+#EXTINF:-1,AR: Future
+http://ipsatpro.com:8000/live/tony2/tony2/113.ts
+#EXTINF:-1,AR: LBC
+http://ipsatpro.com:8000/live/tony2/tony2/88.ts
+#EXTINF:-1,AR: Nbn Lebanon
+http://ipsatpro.com:8000/live/tony2/tony2/136.ts
+#EXTINF:-1,AR: Aljadeed
+http://ipsatpro.com:8000/live/tony2/tony2/23.ts
+#EXTINF:-1,AR: Aljadeed 2
+http://ipsatpro.com:8000/live/tony2/tony2/2259.ts
+#EXTINF:-1,AR: Aljadeed 3
+http://ipsatpro.com:8000/live/tony2/tony2/2260.ts
+#EXTINF:-1,AR: Aljadeed 4
+http://ipsatpro.com:8000/live/tony2/tony2/2261.ts
+#EXTINF:-1,AR: Lebanon tv
+http://ipsatpro.com:8000/live/tony2/tony2/102.ts
+#EXTINF:-1,AR: Liwan HD
+http://ipsatpro.com:8000/live/tony2/tony2/2302.ts
+#EXTINF:-1,AR: ALaan TV
+http://ipsatpro.com:8000/live/tony2/tony2/2211.ts
+#EXTINF:-1,AR: Manar tv
+http://ipsatpro.com:8000/live/tony2/tony2/54.ts
+#EXTINF:-1,AR: OnTV
+http://ipsatpro.com:8000/live/tony2/tony2/21.ts
+#EXTINF:-1,AR: Sama tv
+http://ipsatpro.com:8000/live/tony2/tony2/1269.ts
+#EXTINF:-1,AR: Syria 1
+http://ipsatpro.com:8000/live/tony2/tony2/13.ts
+#EXTINF:-1,AR: Syria TV
+http://ipsatpro.com:8000/live/tony2/tony2/14.ts
+#EXTINF:-1,AR: Syrian Drama
+http://ipsatpro.com:8000/live/tony2/tony2/52.ts
+#EXTINF:-1,AR: Syria Lkhbaria
+http://ipsatpro.com:8000/live/tony2/tony2/142.ts
+#EXTINF:-1,AR: Eslam China
+http://ipsatpro.com:8000/live/tony2/tony2/137.ts
+#EXTINF:-1,AR: Al Rahma
+http://ipsatpro.com:8000/live/tony2/tony2/1270.ts
+#EXTINF:-1,AR: Wessal
+http://ipsatpro.com:8000/live/tony2/tony2/2276.ts
+#EXTINF:-1,AR: Quran 3azem
+http://ipsatpro.com:8000/live/tony2/tony2/2209.ts
+#EXTINF:-1,AR: Al Fath
+http://ipsatpro.com:8000/live/tony2/tony2/2287.ts
+#EXTINF:-1,AR: Majd
+http://ipsatpro.com:8000/live/tony2/tony2/68.ts
+#EXTINF:-1,AR: Al Majd 3
+http://ipsatpro.com:8000/live/tony2/tony2/2246.ts
+#EXTINF:-1,AR: Al Gameela
+http://ipsatpro.com:8000/live/tony2/tony2/1272.ts
+#EXTINF:-1,AR: Mecca
+http://ipsatpro.com:8000/live/tony2/tony2/2278.ts
+#EXTINF:-1,AR: Almanal TV
+http://ipsatpro.com:8000/live/tony2/tony2/2269.ts
+#EXTINF:-1,AR: Tarteel TV
+http://ipsatpro.com:8000/live/tony2/tony2/2291.ts
+#EXTINF:-1,AR: Fann- Ahayat
+http://ipsatpro.com:8000/live/tony2/tony2/2218.ts
+#EXTINF:-1,AR: Zad HD
+http://ipsatpro.com:8000/live/tony2/tony2/2214.ts
+#EXTINF:-1,AR: Ahadeth Elnabowy
+http://ipsatpro.com:8000/live/tony2/tony2/2303.ts
+#EXTINF:-1,AR: Almaher
+http://ipsatpro.com:8000/live/tony2/tony2/2310.ts
+#EXTINF:-1,AR: Kif HD
+http://ipsatpro.com:8000/live/tony2/tony2/2309.ts
+#EXTINF:-1,AR: Ayat Elqran
+http://ipsatpro.com:8000/live/tony2/tony2/2213.ts
+#EXTINF:-1,AR: Al Resala
+http://ipsatpro.com:8000/live/tony2/tony2/2311.ts
+#EXTINF:-1,AR: Majd Kids HD
+http://ipsatpro.com:8000/live/tony2/tony2/131.ts
+#EXTINF:-1,AR: Toyor Aljanah
+http://ipsatpro.com:8000/live/tony2/tony2/129.ts
+#EXTINF:-1,AR: Al rwad
+http://ipsatpro.com:8000/live/tony2/tony2/2281.ts
+#EXTINF:-1,AR: Spacetoon
+http://ipsatpro.com:8000/live/tony2/tony2/114.ts
+#EXTINF:-1,AR: SemSem
+http://ipsatpro.com:8000/live/tony2/tony2/2315.ts
+#EXTINF:-1,AR: Baraem
+http://ipsatpro.com:8000/live/tony2/tony2/95.ts
+#EXTINF:-1,AR: Karameesh
+http://ipsatpro.com:8000/live/tony2/tony2/96.ts
+#EXTINF:-1,AR: Al Masriya
+http://ipsatpro.com:8000/live/tony2/tony2/110.ts
+#EXTINF:-1,AR: Al Thania
+http://ipsatpro.com:8000/live/tony2/tony2/97.ts
+#EXTINF:-1,AR: Art Aflam 1
+http://ipsatpro.com:8000/live/tony2/tony2/105.ts
+#EXTINF:-1,AR: Art Aflam 2
+http://ipsatpro.com:8000/live/tony2/tony2/104.ts
+#EXTINF:-1,AR: Art Hekayat
+http://ipsatpro.com:8000/live/tony2/tony2/101.ts
+#EXTINF:-1,AR: Art Hekayat 2
+http://ipsatpro.com:8000/live/tony2/tony2/100.ts
+#EXTINF:-1,AR: Art Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/103.ts
+#EXTINF:-1,AR: Afrah TV
+http://ipsatpro.com:8000/live/tony2/tony2/86.ts
+#EXTINF:-1,AR: Sha3beyat
+http://ipsatpro.com:8000/live/tony2/tony2/118.ts
+#EXTINF:-1,AR: Musawa TV
+http://ipsatpro.com:8000/live/tony2/tony2/2263.ts
+#EXTINF:-1,AR: Hob Fee EL Moled
+http://ipsatpro.com:8000/live/tony2/tony2/1268.ts
+#EXTINF:-1,AR: Maspero Zaman
+http://ipsatpro.com:8000/live/tony2/tony2/2283.ts
+#EXTINF:-1,AR: Music Al Haneen
+http://ipsatpro.com:8000/live/tony2/tony2/2199.ts
+#EXTINF:-1,AR: One Music TV
+http://ipsatpro.com:8000/live/tony2/tony2/59.ts
+#EXTINF:-1,AR: Syphonia
+http://ipsatpro.com:8000/live/tony2/tony2/1253.ts
+#EXTINF:-1,AR: Bolika
+http://ipsatpro.com:8000/live/tony2/tony2/53.ts
+#EXTINF:-1,AR: Mazika
+http://ipsatpro.com:8000/live/tony2/tony2/89.ts
+#EXTINF:-1,AR: 4Shbab
+http://ipsatpro.com:8000/live/tony2/tony2/61.ts
+#EXTINF:-1,AR: Hawa Com
+http://ipsatpro.com:8000/live/tony2/tony2/1259.ts
+#EXTINF:-1,AR: Music plus
+http://ipsatpro.com:8000/live/tony2/tony2/1261.ts
+#EXTINF:-1,AR: Wanasa
+http://ipsatpro.com:8000/live/tony2/tony2/126.ts
+#EXTINF:-1,AR: Melody Classic
+http://ipsatpro.com:8000/live/tony2/tony2/65.ts
+#EXTINF:-1,AR: Mbc 1
+http://ipsatpro.com:8000/live/tony2/tony2/50.ts
+#EXTINF:-1,AR: Mbc 1 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2274.ts
+#EXTINF:-1,AR: Mbc 2
+http://ipsatpro.com:8000/live/tony2/tony2/49.ts
+#EXTINF:-1,AR: Mbc 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2272.ts
+#EXTINF:-1,AR: Mbc 3
+http://ipsatpro.com:8000/live/tony2/tony2/48.ts
+#EXTINF:-1,AR: Mbc 4
+http://ipsatpro.com:8000/live/tony2/tony2/47.ts
+#EXTINF:-1,AR: Mbc 4 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2271.ts
+#EXTINF:-1,AR: Mbc Masr
+http://ipsatpro.com:8000/live/tony2/tony2/46.ts
+#EXTINF:-1,AR: Mbc Masr 2
+http://ipsatpro.com:8000/live/tony2/tony2/45.ts
+#EXTINF:-1,AR: Mbc Drama
+http://ipsatpro.com:8000/live/tony2/tony2/42.ts
+#EXTINF:-1,AR: Mbc Drama HD
+http://ipsatpro.com:8000/live/tony2/tony2/2273.ts
+#EXTINF:-1,AR: Mbc Action
+http://ipsatpro.com:8000/live/tony2/tony2/44.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://ipsatpro.com:8000/live/tony2/tony2/2270.ts
+#EXTINF:-1,AR: Mbc Max
+http://ipsatpro.com:8000/live/tony2/tony2/43.ts
+#EXTINF:-1,AR: Mbc Bollywood
+http://ipsatpro.com:8000/live/tony2/tony2/41.ts
+#EXTINF:-1,AR: Mbc Sport 1
+http://ipsatpro.com:8000/live/tony2/tony2/1244.ts
+#EXTINF:-1,AR: Mbc Sport 2
+http://ipsatpro.com:8000/live/tony2/tony2/1245.ts
+#EXTINF:-1,AR: Mbc Sport 3
+http://ipsatpro.com:8000/live/tony2/tony2/1246.ts
+#EXTINF:-1,AR: Ad Sport 1HD
+http://ipsatpro.com:8000/live/tony2/tony2/1248.ts
+#EXTINF:-1,AR: Ad Sport 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/1249.ts
+#EXTINF:-1,AR: ON Sport
+http://ipsatpro.com:8000/live/tony2/tony2/2242.ts
+#EXTINF:-1,AR: DMC Sports
+http://ipsatpro.com:8000/live/tony2/tony2/2243.ts
+#EXTINF:-1,AR: Al Ahly TV
+http://ipsatpro.com:8000/live/tony2/tony2/1274.ts
+#EXTINF:-1,AR: Dmc Drama
+http://ipsatpro.com:8000/live/tony2/tony2/2262.ts
+#EXTINF:-1,AR: DMC HD
+http://ipsatpro.com:8000/live/tony2/tony2/34.ts
+#EXTINF:-1,AR: El Mehwer
+http://ipsatpro.com:8000/live/tony2/tony2/1247.ts
+#EXTINF:-1,AR: Nile Drama
+http://ipsatpro.com:8000/live/tony2/tony2/76.ts
+#EXTINF:-1,AR: Nile Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/75.ts
+#EXTINF:-1,AR: Nile Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/74.ts
+#EXTINF:-1,AR: Nile Life
+http://ipsatpro.com:8000/live/tony2/tony2/62.ts
+#EXTINF:-1,AR: Nile News
+http://ipsatpro.com:8000/live/tony2/tony2/38.ts
+#EXTINF:-1,AR: Nile sport
+http://ipsatpro.com:8000/live/tony2/tony2/73.ts
+#EXTINF:-1,AR: Nile tv
+http://ipsatpro.com:8000/live/tony2/tony2/27.ts
+#EXTINF:-1,AR: Nile Blue TV
+http://ipsatpro.com:8000/live/tony2/tony2/2227.ts
+#EXTINF:-1,AR: Nline Sport tv
+http://ipsatpro.com:8000/live/tony2/tony2/2244.ts
+#EXTINF:-1,AR: Panorama Film
+http://ipsatpro.com:8000/live/tony2/tony2/98.ts
+#EXTINF:-1,AR: Panorama Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/155.ts
+#EXTINF:-1,AR: Panorama Drama
+http://ipsatpro.com:8000/live/tony2/tony2/77.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://ipsatpro.com:8000/live/tony2/tony2/25.ts
+#EXTINF:-1,AR: Cbc
+http://ipsatpro.com:8000/live/tony2/tony2/90.ts
+#EXTINF:-1,AR: Cbc Extra
+http://ipsatpro.com:8000/live/tony2/tony2/92.ts
+#EXTINF:-1,AR: Cbc Drama
+http://ipsatpro.com:8000/live/tony2/tony2/91.ts
+#EXTINF:-1,AR: Rotana Music
+http://ipsatpro.com:8000/live/tony2/tony2/79.ts
+#EXTINF:-1,AR: Rotana Clip
+http://ipsatpro.com:8000/live/tony2/tony2/83.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://ipsatpro.com:8000/live/tony2/tony2/80.ts
+#EXTINF:-1,AR: Rotana Classic
+http://ipsatpro.com:8000/live/tony2/tony2/82.ts
+#EXTINF:-1,AR: Rotana Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/81.ts
+#EXTINF:-1,AR: Rotana Khalijiah
+http://ipsatpro.com:8000/live/tony2/tony2/72.ts
+#EXTINF:-1,AR: Dream 1
+http://ipsatpro.com:8000/live/tony2/tony2/94.ts
+#EXTINF:-1,AR: Dream 2
+http://ipsatpro.com:8000/live/tony2/tony2/93.ts
+#EXTINF:-1,AR: Al Nahar
+http://ipsatpro.com:8000/live/tony2/tony2/154.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://ipsatpro.com:8000/live/tony2/tony2/152.ts
+#EXTINF:-1,AR: Al Nahar Al Youm
+http://ipsatpro.com:8000/live/tony2/tony2/151.ts
+#EXTINF:-1,AR: Al Nahar Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/71.ts
+#EXTINF:-1,AR: Sada ALbalad HD
+http://ipsatpro.com:8000/live/tony2/tony2/51.ts
+#EXTINF:-1,AR: Sada Albalad Drama
+http://ipsatpro.com:8000/live/tony2/tony2/116.ts
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://ipsatpro.com:8000/live/tony2/tony2/55.ts
+#EXTINF:-1,AR: Al Emarat tv HD
+http://ipsatpro.com:8000/live/tony2/tony2/130.ts
+#EXTINF:-1,AR: Alhayat 1
+http://ipsatpro.com:8000/live/tony2/tony2/109.ts
+#EXTINF:-1,AR: Alhayat 2
+http://ipsatpro.com:8000/live/tony2/tony2/111.ts
+#EXTINF:-1,AR: Alhayat Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/144.ts
+#EXTINF:-1,AR: Alhayat Series
+http://ipsatpro.com:8000/live/tony2/tony2/108.ts
+#EXTINF:-1,AR: Alhayat We Alnas
+http://ipsatpro.com:8000/live/tony2/tony2/2200.ts
+#EXTINF:-1,AR: Alkahera wal nas
+http://ipsatpro.com:8000/live/tony2/tony2/141.ts
+#EXTINF:-1,AR: Alkahera wal nas 2
+http://ipsatpro.com:8000/live/tony2/tony2/30.ts
+#EXTINF:-1,AR: TEN
+http://ipsatpro.com:8000/live/tony2/tony2/87.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://ipsatpro.com:8000/live/tony2/tony2/99.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://ipsatpro.com:8000/live/tony2/tony2/78.ts
+#EXTINF:-1,AR: Masraweya Aflam
+http://ipsatpro.com:8000/live/tony2/tony2/1271.ts
+#EXTINF:-1,AR: Cima Alibaba
+http://ipsatpro.com:8000/live/tony2/tony2/119.ts
+#EXTINF:-1,AR: LCD Movies
+http://ipsatpro.com:8000/live/tony2/tony2/124.ts
+#EXTINF:-1,AR: Al Assema
+http://ipsatpro.com:8000/live/tony2/tony2/2245.ts
+#EXTINF:-1,AR: Time Taxi
+http://ipsatpro.com:8000/live/tony2/tony2/120.ts
+#EXTINF:-1,AR: Time Film
+http://ipsatpro.com:8000/live/tony2/tony2/112.ts
+#EXTINF:-1,AR: Time Comedy
+http://ipsatpro.com:8000/live/tony2/tony2/150.ts
+#EXTINF:-1,AR: Time Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/115.ts
+#EXTINF:-1,AR: Cairo One
+http://ipsatpro.com:8000/live/tony2/tony2/156.ts
+#EXTINF:-1,AR: Cairo Drama
+http://ipsatpro.com:8000/live/tony2/tony2/85.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://ipsatpro.com:8000/live/tony2/tony2/84.ts
+#EXTINF:-1,AR: Jordan Sport
+http://ipsatpro.com:8000/live/tony2/tony2/153.ts
+#EXTINF:-1,AR: Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/57.ts
+#EXTINF:-1,AR: Cinema Pro
+http://ipsatpro.com:8000/live/tony2/tony2/1260.ts
+#EXTINF:-1,AR: TokTok Cinma
+http://ipsatpro.com:8000/live/tony2/tony2/64.ts
+#EXTINF:-1,AR: Sat 7
+http://ipsatpro.com:8000/live/tony2/tony2/1257.ts
+#EXTINF:-1,AR: Centre Zahra tv
+http://ipsatpro.com:8000/live/tony2/tony2/1226.ts
+#EXTINF:-1,AR: Nour Music 2
+http://ipsatpro.com:8000/live/tony2/tony2/2228.ts
+#EXTINF:-1,AR: Nour Elsharq
+http://ipsatpro.com:8000/live/tony2/tony2/2229.ts
+#EXTINF:-1,AR: Nour Mariam
+http://ipsatpro.com:8000/live/tony2/tony2/2230.ts
+#EXTINF:-1,AR: Suryoyo
+http://ipsatpro.com:8000/live/tony2/tony2/2222.ts
+#EXTINF:-1,AR: Nour Kids
+http://ipsatpro.com:8000/live/tony2/tony2/2225.ts
+#EXTINF:-1,AR: Nour elkuds
+http://ipsatpro.com:8000/live/tony2/tony2/2226.ts
+#EXTINF:-1,AR: Miracle1
+http://ipsatpro.com:8000/live/tony2/tony2/2231.ts
+#EXTINF:-1,AR: Al Nada
+http://ipsatpro.com:8000/live/tony2/tony2/1273.ts
+#EXTINF:-1,AR: Malakoot TV
+http://ipsatpro.com:8000/live/tony2/tony2/2217.ts
+#EXTINF:-1,AR: Saudi 2 HD
+http://ipsatpro.com:8000/live/tony2/tony2/2212.ts
+#EXTINF:-1,AR: Saudi Modern
+http://ipsatpro.com:8000/live/tony2/tony2/2216.ts
+#EXTINF:-1,AR: Saudi Sport HD
+http://ipsatpro.com:8000/live/tony2/tony2/2215.ts
+#EXTINF:-1,AR: Sudan TV
+http://ipsatpro.com:8000/live/tony2/tony2/157.ts
+#EXTINF:-1,AR: Sudan 2
+http://ipsatpro.com:8000/live/tony2/tony2/2312.ts
+#EXTINF:-1,AR: Sudan 3
+http://ipsatpro.com:8000/live/tony2/tony2/2313.ts
+#EXTINF:-1,AR: Sudan 4
+http://ipsatpro.com:8000/live/tony2/tony2/2314.ts
+#EXTINF:-1,AR: Sudan 24
+http://ipsatpro.com:8000/live/tony2/tony2/2288.ts
+#EXTINF:-1,AR: Alshrook
+http://ipsatpro.com:8000/live/tony2/tony2/2284.ts
+#EXTINF:-1,AR: Tayba
+http://ipsatpro.com:8000/live/tony2/tony2/2289.ts
+#EXTINF:-1,AR: Aldana HD
+http://ipsatpro.com:8000/live/tony2/tony2/2304.ts
+#EXTINF:-1,AR: Tafawuq
+http://ipsatpro.com:8000/live/tony2/tony2/2294.ts
+#EXTINF:-1,AR: Nasamat TV
+http://ipsatpro.com:8000/live/tony2/tony2/2292.ts
+#EXTINF:-1,AR: Ashorooq tv
+http://ipsatpro.com:8000/live/tony2/tony2/2290.ts
+#EXTINF:-1,AR: Almanal
+http://ipsatpro.com:8000/live/tony2/tony2/2293.ts
+#EXTINF:-1,AR: Kaslla tv
+http://ipsatpro.com:8000/live/tony2/tony2/2241.ts
+#EXTINF:-1,AR: San3a HD
+http://ipsatpro.com:8000/live/tony2/tony2/2306.ts
+#EXTINF:-1,AR: Kwait 1
+http://ipsatpro.com:8000/live/tony2/tony2/2220.ts
+#EXTINF:-1,AR: Kwait Sport Plus
+http://ipsatpro.com:8000/live/tony2/tony2/2237.ts
+#EXTINF:-1,AR: Kwait Sport
+http://ipsatpro.com:8000/live/tony2/tony2/2233.ts
+#EXTINF:-1,AR: Kwait Plus
+http://ipsatpro.com:8000/live/tony2/tony2/2236.ts
+#EXTINF:-1,AR: Kwait Al Majlis
+http://ipsatpro.com:8000/live/tony2/tony2/2238.ts
+#EXTINF:-1,AR: Kwait Ethraa
+http://ipsatpro.com:8000/live/tony2/tony2/2234.ts
+#EXTINF:-1,AR: Kwait Arabe
+http://ipsatpro.com:8000/live/tony2/tony2/2235.ts
+#EXTINF:-1,AR: Libya HD
+http://ipsatpro.com:8000/live/tony2/tony2/2300.ts
+#EXTINF:-1,AR: Libya TV
+http://ipsatpro.com:8000/live/tony2/tony2/2296.ts
+#EXTINF:-1,AR: Libya One
+http://ipsatpro.com:8000/live/tony2/tony2/2299.ts
+#EXTINF:-1,AR: Libya Rasmia
+http://ipsatpro.com:8000/live/tony2/tony2/2250.ts
+#EXTINF:-1,AR: Libya Panorama
+http://ipsatpro.com:8000/live/tony2/tony2/2249.ts
+#EXTINF:-1,AR: Libya Al Nabaa tv
+http://ipsatpro.com:8000/live/tony2/tony2/2295.ts
+#EXTINF:-1,AR: Libya Alhadath
+http://ipsatpro.com:8000/live/tony2/tony2/2298.ts
+#EXTINF:-1,AR: Libya Marah
+http://ipsatpro.com:8000/live/tony2/tony2/2251.ts
+#EXTINF:-1,AR: Sharjah Kabla
+http://ipsatpro.com:8000/live/tony2/tony2/2252.ts
+#EXTINF:-1,AR: Libya 24
+http://ipsatpro.com:8000/live/tony2/tony2/2248.ts
+#EXTINF:-1,AR: Libya 218
+http://ipsatpro.com:8000/live/tony2/tony2/2297.ts
+#EXTINF:-1,AR: Funoon
+http://ipsatpro.com:8000/live/tony2/tony2/127.ts
+#EXTINF:-1,AR: Nat Geoa
+http://ipsatpro.com:8000/live/tony2/tony2/31.ts
+#EXTINF:-1,AR: Oman
+http://ipsatpro.com:8000/live/tony2/tony2/2240.ts
+#EXTINF:-1,AR: Oman sport
+http://ipsatpro.com:8000/live/tony2/tony2/2239.ts
+#EXTINF:-1,AR: Sama Dubai
+http://ipsatpro.com:8000/live/tony2/tony2/29.ts
+#EXTINF:-1,AR: Abu Dhabi Emarat
+http://ipsatpro.com:8000/live/tony2/tony2/39.ts
+#EXTINF:-1,AR: Dubai Aloula
+http://ipsatpro.com:8000/live/tony2/tony2/40.ts
+#EXTINF:-1,AR: Dubai Sport
+http://ipsatpro.com:8000/live/tony2/tony2/70.ts
+#EXTINF:-1,AR: Dubai one
+http://ipsatpro.com:8000/live/tony2/tony2/148.ts
+#EXTINF:-1,AR: Dubai Drama
+http://ipsatpro.com:8000/live/tony2/tony2/145.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://ipsatpro.com:8000/live/tony2/tony2/146.ts
+#EXTINF:-1,AR: Noor Dubai tv
+http://ipsatpro.com:8000/live/tony2/tony2/147.ts
+#EXTINF:-1,AR: jordan
+http://ipsatpro.com:8000/live/tony2/tony2/2264.ts
+#EXTINF:-1,AR: Almostakbal
+http://ipsatpro.com:8000/live/tony2/tony2/2308.ts
+#EXTINF:-1,AR: Digtal School
+http://ipsatpro.com:8000/live/tony2/tony2/2307.ts
+#EXTINF:-1,AR: Ifilm
+http://ipsatpro.com:8000/live/tony2/tony2/2221.ts
+#EXTINF:-1,AR: Nara7
+http://ipsatpro.com:8000/live/tony2/tony2/2223.ts
+#EXTINF:-1,AR: AL bedaya
+http://ipsatpro.com:8000/live/tony2/tony2/2219.ts
+#EXTINF:-1,AR: Beladi
+http://ipsatpro.com:8000/live/tony2/tony2/2197.ts
+#EXTINF:-1,AR: Sharqiya
+http://ipsatpro.com:8000/live/tony2/tony2/133.ts
+#EXTINF:-1,AR: Sumaria TV
+http://ipsatpro.com:8000/live/tony2/tony2/1251.ts
+#EXTINF:-1,AR: Ishtar tv
+http://ipsatpro.com:8000/live/tony2/tony2/1256.ts
+#EXTINF:-1,AR: Beur Tv
+http://ipsatpro.com:8000/live/tony2/tony2/2280.ts
+#EXTINF:-1,AR: Al Mawsleya TV
+http://ipsatpro.com:8000/live/tony2/tony2/2286.ts
+#EXTINF:-1,AR: Afak
+http://ipsatpro.com:8000/live/tony2/tony2/2285.ts
+#EXTINF:-1,AR: iraq tv
+http://ipsatpro.com:8000/live/tony2/tony2/1254.ts
+#EXTINF:-1,AR: Iraq Anb
+http://ipsatpro.com:8000/live/tony2/tony2/2266.ts
+#EXTINF:-1,AR: Iraq Dijla
+http://ipsatpro.com:8000/live/tony2/tony2/2265.ts
+#EXTINF:-1,AR: Iraq Al Fallujah
+http://ipsatpro.com:8000/live/tony2/tony2/2268.ts
+#EXTINF:-1,AR: Iraq Alghadeer TV
+http://ipsatpro.com:8000/live/tony2/tony2/2267.ts
+#EXTINF:-1,AR: Iraq AlForat TV
+http://ipsatpro.com:8000/live/tony2/tony2/2277.ts
+#EXTINF:-1,AR: Iraq Al Ahd 1
+http://ipsatpro.com:8000/live/tony2/tony2/2275.ts
+#EXTINF:-1,AR: National Geographic
+http://ipsatpro.com:8000/live/tony2/tony2/56.ts
+#EXTINF:-1,AR: Hona baghdad
+http://ipsatpro.com:8000/live/tony2/tony2/1250.ts
+#EXTINF:-1,AR: ALShqrqiya News
+http://ipsatpro.com:8000/live/tony2/tony2/1252.ts
+#EXTINF:-1,AR: Fujera
+http://ipsatpro.com:8000/live/tony2/tony2/1255.ts
+#EXTINF:-1,AR: Al Rasheed
+http://ipsatpro.com:8000/live/tony2/tony2/69.ts
+#EXTINF:-1,AR: Baynounah tv HD
+http://ipsatpro.com:8000/live/tony2/tony2/2203.ts
+#EXTINF:-1,AR: Medl 1
+http://ipsatpro.com:8000/live/tony2/tony2/2201.ts
+#EXTINF:-1,AR: Al Aoula Maroc
+http://ipsatpro.com:8000/live/tony2/tony2/140.ts
+#EXTINF:-1,AR: 2m maroc
+http://ipsatpro.com:8000/live/tony2/tony2/135.ts
+#EXTINF:-1,AR: Arriadia Maroc
+http://ipsatpro.com:8000/live/tony2/tony2/32.ts
+#EXTINF:-1,AR: Almaghribia
+http://ipsatpro.com:8000/live/tony2/tony2/139.ts
+#EXTINF:-1,AR: Tamazight Maroc
+http://ipsatpro.com:8000/live/tony2/tony2/106.ts
+#EXTINF:-1,AR: Assadisa Maroc
+http://ipsatpro.com:8000/live/tony2/tony2/67.ts
+#EXTINF:-1,AR: Nessma
+http://ipsatpro.com:8000/live/tony2/tony2/28.ts
+#EXTINF:-1,AR: Zaytoona
+http://ipsatpro.com:8000/live/tony2/tony2/17.ts
+#EXTINF:-1,AR: Al Djazairia
+http://ipsatpro.com:8000/live/tony2/tony2/63.ts
+#EXTINF:-1,AR: Tunssia 1
+http://ipsatpro.com:8000/live/tony2/tony2/15.ts
+#EXTINF:-1,AR: Tunssia 2
+http://ipsatpro.com:8000/live/tony2/tony2/16.ts
+#EXTINF:-1,AR: Al Nsan
+http://ipsatpro.com:8000/live/tony2/tony2/143.ts
+#EXTINF:-1,AR: Ettounsia
+http://ipsatpro.com:8000/live/tony2/tony2/132.ts
+#EXTINF:-1,AR: Tunis First
+http://ipsatpro.com:8000/live/tony2/tony2/19.ts
+#EXTINF:-1,AR: Attassia TV
+http://ipsatpro.com:8000/live/tony2/tony2/2247.ts
+#EXTINF:-1,AR: Elhiwar Ettounsia
+http://ipsatpro.com:8000/live/tony2/tony2/60.ts
+#EXTINF:-1,AR: TNN Tunisia
+http://ipsatpro.com:8000/live/tony2/tony2/134.ts
+#EXTINF:-1,AR: M Tunis
+http://ipsatpro.com:8000/live/tony2/tony2/20.ts
+#EXTINF:-1,AR: Echorouk tv
+http://ipsatpro.com:8000/live/tony2/tony2/138.ts
+#EXTINF:-1,AR: Sharqia News
+http://ipsatpro.com:8000/live/tony2/tony2/1258.ts
+#EXTINF:-1,AR: Hannibal
+http://ipsatpro.com:8000/live/tony2/tony2/107.ts
+#EXTINF:-1,AR: Alsaeedah
+http://ipsatpro.com:8000/live/tony2/tony2/2204.ts
+#EXTINF:-1,AR: Al Magharibia
+http://ipsatpro.com:8000/live/tony2/tony2/2196.ts
+#EXTINF:-1,AR: Elheddaf
+http://ipsatpro.com:8000/live/tony2/tony2/1267.ts
+#EXTINF:-1,AR: Canal Algerie
+http://ipsatpro.com:8000/live/tony2/tony2/122.ts
+#EXTINF:-1,AR: kbc algeria
+http://ipsatpro.com:8000/live/tony2/tony2/123.ts
+#EXTINF:-1,AR: Algeria 3
+http://ipsatpro.com:8000/live/tony2/tony2/121.ts
+#EXTINF:-1,AR: Alnahar algeria
+http://ipsatpro.com:8000/live/tony2/tony2/125.ts
+#EXTINF:-1,AR: Tamazigh 4
+http://ipsatpro.com:8000/live/tony2/tony2/2190.ts
+#EXTINF:-1,AR: Samira Tv
+http://ipsatpro.com:8000/live/tony2/tony2/2189.ts
+#EXTINF:-1,AR: Numedia News
+http://ipsatpro.com:8000/live/tony2/tony2/2188.ts
+#EXTINF:-1,AR: NaharLaki
+http://ipsatpro.com:8000/live/tony2/tony2/2187.ts
+#EXTINF:-1,AR: ENTV
+http://ipsatpro.com:8000/live/tony2/tony2/2186.ts
+#EXTINF:-1,AR: El Bilad News
+http://ipsatpro.com:8000/live/tony2/tony2/2191.ts
+#EXTINF:-1,AR: Echorouk News
+http://ipsatpro.com:8000/live/tony2/tony2/2193.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://ipsatpro.com:8000/live/tony2/tony2/2192.ts
+#EXTINF:-1,AR: Dzair News
+http://ipsatpro.com:8000/live/tony2/tony2/2194.ts
+#EXTINF:-1,AR: Planet Turk
+http://ipsatpro.com:8000/live/tony2/tony2/2195.ts
+#EXTINF:-1,AR: Cartoon Network
+http://ipsatpro.com:8000/live/tony2/tony2/117.ts
+#EXTINF:-1,AR: palestine
+http://ipsatpro.com:8000/live/tony2/tony2/128.ts
+#EXTINF:-1,AR: ALqudis
+http://ipsatpro.com:8000/live/tony2/tony2/149.ts
+#EXTINF:-1,AR: Almada
+http://ipsatpro.com:8000/live/tony2/tony2/2202.ts
+#EXTINF:-1,AR: Cct Arabic
+http://ipsatpro.com:8000/live/tony2/tony2/2224.ts
+#EXTINF:-1,AR: TRT Arapca
+http://ipsatpro.com:8000/live/tony2/tony2/2232.ts
+#EXTINF:-1,AR: Alarabiya
+http://ipsatpro.com:8000/live/tony2/tony2/37.ts
+#EXTINF:-1,AR: Al Mayaden
+http://ipsatpro.com:8000/live/tony2/tony2/58.ts
+#EXTINF:-1,AR: Orient News
+http://ipsatpro.com:8000/live/tony2/tony2/2210.ts
+#EXTINF:-1,AR: BBC News
+http://ipsatpro.com:8000/live/tony2/tony2/66.ts
+#EXTINF:-1,AR: Aljazera News
+http://ipsatpro.com:8000/live/tony2/tony2/36.ts
+#EXTINF:-1,AR: Mekameleen
+http://ipsatpro.com:8000/live/tony2/tony2/2279.ts
+#EXTINF:-1,AR: EL Sharq tv
+http://ipsatpro.com:8000/live/tony2/tony2/2282.ts
+#EXTINF:-1,AR: Aljazera Mobashir
+http://ipsatpro.com:8000/live/tony2/tony2/33.ts
+#EXTINF:-1,AR: Sky News HD
+http://ipsatpro.com:8000/live/tony2/tony2/18.ts
+#EXTINF:-1,AR: AL Arabia Hadath
+http://ipsatpro.com:8000/live/tony2/tony2/35.ts
+#EXTINF:-1,AR: Russiya Al Yaum
+http://ipsatpro.com:8000/live/tony2/tony2/2198.ts
+#EXTINF:-1,AR: TV5 News
+http://ipsatpro.com:8000/live/tony2/tony2/2205.ts
+#EXTINF:-1,AR: France24 News
+http://ipsatpro.com:8000/live/tony2/tony2/2206.ts
+#EXTINF:-1,AR: Kurd KNN
+http://ipsatpro.com:8000/live/tony2/tony2/1243.ts
+#EXTINF:-1,AR: Kurd Sterk TV
+http://ipsatpro.com:8000/live/tony2/tony2/1239.ts
+#EXTINF:-1,AR: Kurd tv10
+http://ipsatpro.com:8000/live/tony2/tony2/1241.ts
+#EXTINF:-1,AR: Kurd Waar TV
+http://ipsatpro.com:8000/live/tony2/tony2/1227.ts
+#EXTINF:-1,AR: Kurd Zagros TV
+http://ipsatpro.com:8000/live/tony2/tony2/1236.ts
+#EXTINF:-1,AR: Kurd sat News TV
+http://ipsatpro.com:8000/live/tony2/tony2/1235.ts
+#EXTINF:-1,AR: Kurd Komala TV
+http://ipsatpro.com:8000/live/tony2/tony2/1229.ts
+#EXTINF:-1,AR: Kurd NRT2 TV
+http://ipsatpro.com:8000/live/tony2/tony2/1238.ts
+#EXTINF:-1,AR: Kurd NRT TV
+http://ipsatpro.com:8000/live/tony2/tony2/1237.ts
+#EXTINF:-1,AR: Kurd Hawler
+http://ipsatpro.com:8000/live/tony2/tony2/1233.ts
+#EXTINF:-1,AR: Kurd Med Muzîk Tv
+http://ipsatpro.com:8000/live/tony2/tony2/1230.ts
+#EXTINF:-1,AR: Kurd max TV
+http://ipsatpro.com:8000/live/tony2/tony2/1242.ts
+#EXTINF:-1,AR: Kurd Cihan tv
+http://ipsatpro.com:8000/live/tony2/tony2/1232.ts
+#EXTINF:-1,AR: Kurd Gali
+http://ipsatpro.com:8000/live/tony2/tony2/1228.ts
+#EXTINF:-1,AR: Kurd rudaw HD
+http://ipsatpro.com:8000/live/tony2/tony2/1240.ts
+#EXTINF:-1,AR: Kurd Speda TV
+http://ipsatpro.com:8000/live/tony2/tony2/1234.ts
+#EXTINF:-1,AR: Kurd MegaMax TV
+http://ipsatpro.com:8000/live/tony2/tony2/1231.ts
 
 
 
