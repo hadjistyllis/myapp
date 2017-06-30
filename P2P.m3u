@@ -1,23 +1,25 @@
 #EXTM3U  url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz
 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,P2P LIST
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download Official
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 #EXTINF:1 group-title=”Romania/Sopcast”, 
