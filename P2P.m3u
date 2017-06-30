@@ -29,9 +29,9 @@ http://.....
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,SOPCAST NEEDED
 http://.....
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
@@ -198,13 +198,13 @@ sop://broker.sopcast.com:3912/148252
 #EXTINF:1 group-title=”KIDS (Russian-English)/Acestream”, 
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="Ani" tvg-logo="Ani.png",Ani (KIDS)
 acestream://e4d026cff68f48aea75b31eaed95026fbee6fe13
