@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz" ,url-tvg="http://exabytetv.info/guia.xml"
 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
 #EXTINF:1 group-title=”UPDATED DATE”,
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
@@ -9,22 +12,22 @@ http://.....
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,IPTV LIST
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download Official
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
-https://www.youtube.com/watch?v=GA0N0Bu5JiE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
@@ -958,7 +961,7 @@ http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -1344,7 +1347,7 @@ http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,LANGUAGE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,RUSSIAN-ENGLISH
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 #EXTINF:-1 ,
@@ -1417,7 +1420,7 @@ http://149.62.176.220:8089/udp/239.100.2.2:3001
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -2815,7 +2818,7 @@ http://144.2.100.111:8000/play/a00b
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -3029,7 +3032,7 @@ rtmp://str81.creacast.com:80/weo/high
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -3464,7 +3467,7 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -4013,7 +4016,7 @@ http://wse5.player.tv.br:1935/9157/9157/playlist.m3u8
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -4172,7 +4175,7 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -4435,7 +4438,7 @@ http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -4985,7 +4988,7 @@ http://94.63.107.131:8030/play/a00w
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -5770,7 +5773,7 @@ http://45.120.188.170:8080/play/a01u
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
@@ -5927,7 +5930,7 @@ http://5.39.188.207:4022/udp/224.84.207.201:21009
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
 http://.....
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
