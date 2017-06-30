@@ -119,7 +119,7 @@ http://5.39.66.196:8184/;
 
 
 
-#EXTINF:2 group-title="Creece Radio",
+#EXTINF:2 group-title="Greece Radio",
 
 #EXTINF:0,ERTOPEN 106.7
 http://radio.ertopen.com/erasport
@@ -743,6 +743,10 @@ http://eco.onestreaming.com:8334/;
 http://94.23.36.117:5499
 #EXTINF:-1 tvg-logo=http://www.yolotv.eu/attachments/Image/Linux_Live_USB_Creator_-_Logo1.png ,Yolo Radio TV
 http://176.9.184.196:8123/;stream.mp3
+
+
+
+
 
 
 
@@ -1422,3 +1426,15 @@ http://live.btvradio.bg/z-rock.mp3.m3u
 http://streaming.gesbg.com/radio128_zorana.mp3.m3u
 #EXTINF:-1,Star FM
 http://pulsar.atlantis.bg:8000/starfm.m3u
+
+
+
+
+
+
+
+
+#EXTINF:7 group-title=”Georgia”,
+
+#EXTINF:0 tvg-logo=https://www.loveradiotv.eu/attachments/Image/Loveradiotvtbilisi.png ,Love Radio TV Tbilisi
+https://player.magicstreams.gr/radio/play.php?pl=vlc&c=LoveRadioTv
