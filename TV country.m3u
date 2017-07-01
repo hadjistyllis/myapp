@@ -110,6 +110,8 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1000_av-p.m3u8?sd=10
 http://bit.ly/megagr1
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 https://www.youtube.com/watch?v=tug1qABlQ-M
+#EXTINF:0,MEGA COSMOS
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (MxPlayer)
 http://bit.ly/skaigr1
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
@@ -120,6 +122,8 @@ http://bit.ly/alphagr1
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
+#EXTINF:0,ALPHA SAT
+http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/5j4BfAu.png ,NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
