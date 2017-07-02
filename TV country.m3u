@@ -5123,90 +5123,89 @@ http://65.254.55.10:4000/live/195/195.m3u8
 #EXTINF:-1,Eurosport 
 http://65.254.55.10:4000/live/197/197.m3u8
 
+#EXTINF:-1, Dvojka_HD_HD
+http://46.150.192.10:5002/play/2376/index.m3u8
+#EXTINF:-1, FaH
+http://46.150.192.10:5002/play/2361/index.m3u8
+#EXTINF:-1, Nova_International
+http://46.150.192.10:5002/play/2353/index.m3u8
+#EXTINF:-1, History
+http://46.150.192.10:5002/play/2362/index.m3u8
+#EXTINF:-1, Mnam
+http://46.150.192.10:5002/play/2343/index.m3u8
+#EXTINF:-1, AMC
+http://46.150.192.10:5002/play/2368/index.m3u8
+#EXTINF:-1, Rik
+http://46.150.192.10:5002/play/2342/index.m3u8
+#EXTINF:-1, CT2
+http://46.150.192.10:5002/play/2364/index.m3u8
+#EXTINF:-1, Mistral
+http://46.150.192.10:5002/play/2363/index.m3u8
+#EXTINF:-1, Nickelodeon
+http://46.150.192.10:5002/play/2341/index.m3u8
+#EXTINF:-1, NGC
+http://46.150.192.10:5002/play/2339/index.m3u8
+#EXTINF:-1, Nova_Sport_1_HD_HD
+http://46.150.192.10:5002/play/2356/index.m3u8
+#EXTINF:-1, Joj_Cinema_HD_HD
+http://46.150.192.10:5002/play/2352/index.m3u8
+#EXTINF:-1, Spektrum_Home
+http://46.150.192.10:5002/play/2358/index.m3u8
+#EXTINF:-1, Jednotka_HD_HD
+http://46.150.192.10:5002/play/2375/index.m3u8
+#EXTINF:-1, Prima_Plus
+http://46.150.192.10:5002/play/2355/index.m3u8
+#EXTINF:-1, Markiza_HD_HD
+http://46.150.192.10:5002/play/2366/index.m3u8
+#EXTINF:-1, JimJam
+http://46.150.192.10:5002/play/2350/index.m3u8
+#EXTINF:-1, Doma_HD_HD
+http://46.150.192.10:5002/play/2354/index.m3u8
+#EXTINF:-1, NGC_Wild
+http://46.150.192.10:5002/play/2340/index.m3u8
+#EXTINF:-1, Nova_Sport_2_HD_HD
+http://46.150.192.10:5002/play/2357/index.m3u8
+#EXTINF:-1, Senzi
+http://46.150.192.10:5002/play/2367/index.m3u8
+#EXTINF:-1, CT1
+http://46.150.192.10:5002/play/2359/index.m3u8
+#EXTINF:-1, Dajto_HD_HD
+http://46.150.192.10:5002/play/2351/index.m3u8
+#EXTINF:-1, 3sat
+http://46.150.192.10:7777/play/9901/index.m3u8
+#EXTINF:-1, Arena Sport 2
+http://46.150.192.10:7777/play/9914/index.m3u8
+#EXTINF:-1, N24
+http://46.150.192.10:7777/play/9906/index.m3u8
+#EXTINF:-1, Sat.1
+http://46.150.192.10:7777/play/9904/index.m3u8
+#EXTINF:-1, France 24 English
+http://46.150.192.10:7777/play/9907/index.m3u8
+#EXTINF:-1, Kabel1
+http://46.150.192.10:7777/play/9903/index.m3u8
+#EXTINF:-1, Duna
+http://46.150.192.10:7777/play/9912/index.m3u8
+#EXTINF:-1, ZDF
+http://46.150.192.10:7777/play/9902/index.m3u8
+#EXTINF:-1, M1
+http://46.150.192.10:7777/play/9910/index.m3u8
+#EXTINF:-1, M2
+http://46.150.192.10:7777/play/9911/index.m3u8
+#EXTINF:-1, Dorcel
+http://46.150.192.10:7777/play/9909/index.m3u8
+#EXTINF:-1, RussiaToday
+http://46.150.192.10:7777/play/9908/index.m3u8
+#EXTINF:-1, France 24 Français
+http://46.150.192.10:7777/play/9915/index.m3u8
+#EXTINF:-1, KI.KA
+http://46.150.192.10:7777/play/9900/index.m3u8
+#EXTINF:-1, Mistral
+http://46.150.192.10:7777/play/9913/index.m3u8
+#EXTINF:-1, Pro7
+http://46.150.192.10:7777/play/9905/index.m3u8
 
 
 
-
-#EXTINF:-1,CT 2 HD
-http://84.47.113.9:4022/udp/234.1.1.2:1234
-#EXTINF:-1,CT 1 HD
-http://84.47.113.9:4022/udp/234.1.1.1:1234
-#EXTINF:-1,CT 24 HD
-http://84.47.113.9:4022/udp/234.1.1.3:1234
-#EXTINF:-1,TV Barrandov HD
-http://84.47.113.9:4022/udp/234.1.1.6:1234
-#EXTINF:-1,CT :D/art HD
-http://84.47.113.9:4022/udp/234.1.1.4:1234
-#EXTINF:-1,CT sport HD
-http://84.47.113.9:4022/udp/234.1.1.5:1234
-#EXTINF:-1,Kino Barrandov HD
-http://84.47.113.9:4022/udp/234.1.1.7:1234
-#EXTINF:-1,TA3 HD
-http://84.47.113.9:4022/udp/234.1.1.8:1234
-#EXTINF:-1,Nova International
-http://84.47.113.9:4022/udp/234.1.1.9:1234
-#EXTINF:-1,Prima Comedy Central
-http://84.47.113.9:4022/udp/234.1.1.11:1234
-#EXTINF:-1,Prima MAX HD
-http://84.47.113.9:4022/udp/234.1.1.12:1234
-#EXTINF:-1,STV1 HD
-http://84.47.113.9:4022/udp/234.1.1.10:1234
-#EXTINF:-1,Prima PLUS HD
-http://84.47.113.9:4022/udp/234.1.1.13:1234
-#EXTINF:-1,JOJ PLUS HD
-http://84.47.113.9:4022/udp/234.1.1.14:1234
-#EXTINF:-1,TV JOJ HD
-http://84.47.113.9:4022/udp/234.1.1.15:1234
-#EXTINF:-1,DAJTO HD
-http://84.47.113.9:4022/udp/234.1.1.16:1234
-#EXTINF:-1,Prima COOL HD
-http://84.47.113.9:4022/udp/234.1.1.17:1234
-#EXTINF:-1,Slagr TV
-http://84.47.113.9:4022/udp/234.1.1.19:1234
-#EXTINF:-1,TA3 HD
-http://84.47.113.9:4022/udp/234.1.1.20:1234
-#EXTINF:-1,Barrandov Plus HD
-http://84.47.113.9:4022/udp/234.1.1.21:1234
-#EXTINF:-1,Noe TV
-http://84.47.113.9:4022/udp/234.1.1.24:1234
-#EXTINF:-1,STV2 HD
-http://84.47.113.9:4022/udp/234.1.1.25:1234
-#EXTINF:-1,Prima Love
-http://84.47.113.9:4022/udp/234.1.1.26:1234
-#EXTINF:-1,Prima ZOOM HD
-http://84.47.113.9:4022/udp/234.1.1.28:1234
-#EXTINF:-1,Disney Channel
-http://84.47.113.9:4022/udp/234.1.1.51:1234
-#EXTINF:-1,Extreme Sports Channel
-http://84.47.113.9:4022/udp/234.1.1.50:1234
-#EXTINF:-1,Nat Geo Wild
-http://84.47.113.9:4022/udp/234.1.1.52:1234
-#EXTINF:-1,Animal Planet
-http://84.47.113.9:4022/udp/234.1.1.53:1234
-#EXTINF:-1,Eurosport 2
-http://84.47.113.9:4022/udp/234.1.1.54:1234
-#EXTINF:-1,JimJam
-http://84.47.113.9:4022/udp/234.1.1.56:1234
-#EXTINF:-1,TV Markiza
-http://84.47.113.9:4022/udp/234.1.1.59:1234
-#EXTINF:-1,TV Doma
-http://84.47.113.9:4022/udp/234.1.1.61:1234
-#EXTINF:-1,Spektrum
-http://84.47.113.9:4022/udp/234.1.1.62:1234
-#EXTINF:-1,TV Paprika
-http://84.47.113.9:4022/udp/234.1.1.64:1234
-#EXTINF:-1,CS Mini/CS Film/Horor Film
-http://84.47.113.9:4022/udp/234.1.1.63:1234
-#EXTINF:-1,U tv
-http://84.47.113.9:4022/udp/234.1.1.66:1234
-#EXTINF:-1,Megamax
-http://84.47.113.9:4022/udp/234.1.1.67:1234
-#EXTINF:-1,Nat Geo
-http://84.47.113.9:4022/udp/234.1.1.68:1234
-#EXTINF:-1,HISTORY
-http://84.47.113.9:4022/udp/234.1.1.69:1234
-#EXTINF:-1,ducktv
-http://84.47.113.9:4022/udp/234.1.1.70:1234
 
 
 
