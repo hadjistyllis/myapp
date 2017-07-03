@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/6/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -58,28 +58,18 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic
 http://195.189.249.6:8000/play/a005/index.m3u8
-#EXTINF:-1,National Geographic 
-http://91.224.178.9:5000/09 
 #EXTINF:-1,National Geographic HD 
 http://185.162.141.69:9001/natgeo
-#EXTINF:-1,National Geographic HD
-http://95.82.241.148:81//udp/239.255.2.136:1234
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,Nat Geo Wild
 http://195.189.249.6:8000/play/a008/index.m3u8
-#EXTINF:-1,Nat Geo Wild 
-http://5.32.183.177:4080/udp/224.0.0.120:1237
 #EXTINF:-1,NAT GEO WILD USA
 http://thepk.co:2095/live/husham/isaplayer/1636.ts
 #EXTINF:-1,Nat Geo Wild HD 
 http://185.162.141.69:9007/natgeowild 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
-#EXTINF:-1,Discovery Channel 
-http://178.132.218.202:3041 
-#EXTINF:-1,Discovery Channel
-http://5.32.183.177:4080/udp/224.0.0.110:1241
 #EXTINF:-1,Discovery 
 http://91.202.14.3:8001/play/a001
 #EXTINF:-1,Discovery HD
@@ -106,8 +96,6 @@ http://93.91.113.8:8080/Apple/History/.m3u8
 http://thepk.co:2095/live/husham/isaplayer/1635.ts
 #EXTINF:-1,History HD 
 http://185.162.141.69:9001/history 
-#EXTINF:0,History HD
-http://213.59.140.181:9999/play/History_HD
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,FOX
@@ -168,10 +156,6 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
-#EXTINF:-1,Duck TV 
-http://178.132.218.202:3011 
-#EXTINF:-1,Baby TV 
-http://178.132.218.202:3022 
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
@@ -183,16 +167,14 @@ http://37.194.121.4:1234/udp/239.1.3.3:1234
 #EXTINF:-1,Cartoon Network
 http://195.189.249.6:8000/play/a00h/index.m3u8
 #EXTINF:-1,Cartoon Network 
-http://91.224.178.9:5000/08
-#EXTINF:-1,Cartoon Network 
 http://185.162.141.69:9002/cartoon 
 #EXTINF:-1,Cartoon Network 
 http://185.162.141.69:9014/cartoon 
 #EXTINF:0,Cartoon Network
 http://213.59.140.181:9999/play/Cartoon_Network
-#EXTINF:-1,CARTOON NETWORK USA
+#EXTINF:-1,CARTOON NETWORK (USA)
 http://thepk.co:2095/live/husham/isaplayer/1649.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
+#EXTINF:-1,Cartoon Network (Latinoamerica)
 http://thepk.co:2095/live/husham/isaplayer/1123.ts
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
@@ -203,8 +185,6 @@ http://thepk.co:2095/live/husham/isaplayer/1648.ts
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,Nickelodeon
 http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
-#EXTINF:-1,Nickelodeon 
-http://91.224.178.9:5000/07
 #EXTINF:0,Nickelodeon
 http://213.59.140.181:9999/play/Nickelodeon
 #EXTINF:0,nickelodeon (GREEK)
@@ -257,17 +237,20 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1,VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
-#EXTINF:-1,MTV Music
-http://tinyurl.com/hb678sq
 #EXTINF:-1,MTV Hits
+#EXTVLCOPT:network-caching=2000
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Dance 
 http://185.162.141.69:9014/mtvdance 
+#EXTVLCOPT:network-caching=2000
 #EXTINF:0,MTV Hits
+#EXTVLCOPT:network-caching=2000
 http://213.59.140.181:9999/play/MTV_Hits
 #EXTINF:0,MTV Rocks
+#EXTVLCOPT:network-caching=2000
 http://213.59.140.181:9999/play/MTV_Rocks
 #EXTINF:0,MTV Dance
+#EXTVLCOPT:network-caching=2000
 http://213.59.140.181:9999/play/MTV_Dance
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
