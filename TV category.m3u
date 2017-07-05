@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -70,6 +70,8 @@ http://thepk.co:2095/live/husham/isaplayer/1636.ts
 http://185.162.141.69:9007/natgeowild 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:0, DISCOVERY
+http://94.158.80.117:9000/play/ch_206_1
 #EXTINF:-1,Discovery 
 http://91.202.14.3:8001/play/a001
 #EXTINF:-1,Discovery HD
@@ -170,8 +172,6 @@ http://195.189.249.6:8000/play/a00h/index.m3u8
 http://185.162.141.69:9002/cartoon 
 #EXTINF:-1,Cartoon Network 
 http://185.162.141.69:9014/cartoon 
-#EXTINF:0,Cartoon Network
-http://213.59.140.181:9999/play/Cartoon_Network
 #EXTINF:-1,CARTOON NETWORK (USA)
 http://thepk.co:2095/live/husham/isaplayer/1649.ts
 #EXTINF:-1,Cartoon Network (Latinoamerica)
@@ -185,16 +185,12 @@ http://thepk.co:2095/live/husham/isaplayer/1648.ts
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,Nickelodeon
 http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
-#EXTINF:0,Nickelodeon
-http://213.59.140.181:9999/play/Nickelodeon
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
-#EXTINF:0,Nick Jr
-http://213.59.140.181:9999/play/Nick_Jr
 #EXTINF:-1,STARZ KIDS AND FAMILY
 http://thepk.co:2095/live/husham/isaplayer/1620.ts
 #EXTINF:0,Toonami
@@ -241,17 +237,10 @@ http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 #EXTVLCOPT:network-caching=2000
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Dance 
+#EXTVLCOPT:network-caching=2000
 http://185.162.141.69:9014/mtvdance 
-#EXTVLCOPT:network-caching=2000
-#EXTINF:0,MTV Hits
-#EXTVLCOPT:network-caching=2000
-http://213.59.140.181:9999/play/MTV_Hits
-#EXTINF:0,MTV Rocks
-#EXTVLCOPT:network-caching=2000
-http://213.59.140.181:9999/play/MTV_Rocks
-#EXTINF:0,MTV Dance
-#EXTVLCOPT:network-caching=2000
-http://213.59.140.181:9999/play/MTV_Dance
+#EXTINF:-1,MTV DANCE
+http://inetcom.tv/get_channel.php?id=70.m3u8
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -357,6 +346,19 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=o10-vQokBuI
 
+#EXTINF:-1,Telesports
+http://bit.do/dyuJj
+
+#EXTINF:-1,Sky Sports Mix HD
+http://37.26.105.12:8006/play/a002
+#EXTINF:-1,Sky Sports 3 HD
+http://37.26.105.12:8005/play/a007
+#EXTINF:-1,Sky Sports F1HD
+http://37.26.105.12:8005/play/a008
+#EXTINF:-1,Sky Sports 4 HD
+http://37.26.105.12:8004/play/a009
+#EXTINF:-1,Liverpool FC TV
+http://37.26.105.12:8000/play/a00v
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
