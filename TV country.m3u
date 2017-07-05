@@ -3032,7 +3032,7 @@ http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/16782.ts
 
 
 
-#EXTINF:6 group-title=”France”,
+#EXTINF:6 group-title=”France-Belgium”,
 
 #EXTINF:0,Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
@@ -3042,8 +3042,42 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0,WEO
 rtmp://str81.creacast.com:80/weo/high
-
-
+#EXTINF:-1,GONG
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1,LA CHAINENORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1,GRAND LILLE
+rtmp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,TV LUX
+http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist.m3u8
+#EXTINF:-1,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,TVPI Bayonne
+rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
+cTelesambre
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:-1,BE-ACTV
+rtmp://vm109.imust.org/live//livestream
+#EXTINF:-1,BE-ATV
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8
+#EXTINF:-1,BE-CANAL c
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/chunklist.m3u8
+#EXTINF:-1,BE-MA TELE
+http://streamer.canalc.be:1935/matele/smil:SMIL-matele-multi.smil/chunklist.m3u8
+#EXTINF:-1,BE-MNM
+http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklist.m3u8
+#EXTINF:-1,BE-RTC TELE-LIEGE
+rtmp://wowza.imust.org/live//rtc-live
+#EXTINF:-1,BE-TELE BRUXELLES
+rtmp://149.202.81.107/stream//live
+#EXTINF:-1,BE-TELE MB
+http://streaming.imust.eu:1935/live/telemb-live/chunklist.m3u8
+#EXTINF:-1,BE-TELESAMBRE
+rtmp://vm109.imust.org/live//telesambre-live
+#EXTINF:-1,BE-TV LIMBURG (TVL)
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8
+#EXTINF:-1,BE-TV Oost
+http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 
@@ -6495,6 +6529,28 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
 #EXTINF:-1,Al Fady TV
 http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
+#EXTINF:-1,ALMAS TV
+http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:-1,DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1,DUBAI SPORTS
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,DUBAI TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:-1,MBC ACTION
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,MBC MAX
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,MBC 2
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,MBC 4
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1,GEM MIFA
+http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:-1,MERCI TV
+http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1,TEN TV
+http://63.237.48.23/ios/TEN_TV/TEN_TV.m3u8
 
 #EXTINF:-1,NO NAME
 http://5.39.188.207:4022/udp/224.84.207.201:20601
@@ -7199,6 +7255,22 @@ rtmp://fms1.3ml.nl/livepkgr/livetv
 http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
 #EXTINF: 538 TV.NL
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1,538 TV
+http://hlscdn.538.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1,EDE TV
+rtmp://live.streamone.nl/livestream/yEr2XzzAi311
+#EXTINF:-1,Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:-1,MLA TV
+rtmp://live.streamone.nl/livestream/u2SioS02Af77
+#EXTINF:-1,MerweTV
+rtmp://fm-live.prostream.nl/merwertv/live
+#EXTINF:-1,N1
+rtmp://live.streamone.nl/livestream/n1D8eGo3zY
+#EXTINF:-1,RTV Drenthe
+http://stream.rtvdrenthe.nl/tv/:tvstream1/chunklist.m3u8
+#EXTINF:-1,TV Ellef
+rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
 
 
 
