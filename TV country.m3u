@@ -352,8 +352,6 @@ http://streaming.cityofboston.gov/live/cable/playlist.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,CBS 31.1 Peoria - IL Illinois
 http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:-1,THE WEATHER CHANNEL HD 
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0, Weather Nation (News) (US) (English)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 
 #EXTINF:0, Family Friendly Entertainment (Family) (US) (English)
@@ -1132,32 +1130,6 @@ http://193.8.246.77:8004/play/11704103/index.m3u8
 #EXTINF:-1,Channel 5 (UK)
 http://193.8.246.77:8004/play/11704105/index.m3u8
 
-#EXTINF:-1, UK:BT Sports 1
-http://185.142.239.164:3135/BT/1/index.m3u8
-#EXTINF:-1, UK:BT Sports 2
-http://185.142.239.164:3135/BT/2/index.m3u8
-#EXTINF:-1, BT Sports 3
-http://185.142.239.164:3135/BT/3/index.m3u8
-#EXTINF:-1, UK:BT Espn
-http://185.142.239.164:3135/BT/Espn/index.m3u8
-#EXTINF:-1, UK:Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports F1
-http://185.142.239.164:3135/F1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports news
-http://185.142.239.164:3135/News.Sports/index.m3u8
-#EXTINF:-1, EURO SPORT 1
-http://185.142.239.164:3135/Euro/1/index.m3u8
-#EXTINF:-1, EURO SPORT 2 HD
-http://185.142.239.164:3135/Euro/2/index.m3u8
 
 
 
