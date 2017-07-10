@@ -477,7 +477,38 @@ http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8?
 #EXTINF:0, mbc action (Public-Family) (US) (English)
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-
+#EXTINF:-1, USA:FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:-1, USA:FOX Sports 2(FS2)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+#EXTINF:-1, Setanta Sports
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+#EXTINF:-1, Premiere Sports
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+#EXTINF:-1, Boxing & Wrestling
+http://185.142.239.164:3135/BT/2/index.m3u
+#EXTINF:-1, Ten Sports 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:-1, Ten Sports 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+#EXTINF:-1, Ten Sports 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
+#EXTINF:-1, NFL Network
+http://185.142.239.164:3135/NFL/Network/index.m3u8
+#EXTINF:-1, ESPN 1
+http://185.142.239.164:3135/Espn/1/index.m3u8
+#EXTINF:-1, ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
+#EXTINF:-1, PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+#EXTINF:-1, Super 1
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:-1, Super 2
+http://185.142.239.164:3135/Super/2/index.m3u8
+#EXTINF:-1, Super 3
+http://185.142.239.164:3135/Super/3/index.m3u8
+#EXTINF:-1, Super 4
+http://185.142.239.164:3135/Super/4/index.m3u8
 
 
 
@@ -1054,7 +1085,8 @@ http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8 
 #EXTINF:-1,Zing 
 http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
-
+#EXTINF:-1,peace tv (english)
+http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
 
 
 
@@ -1100,7 +1132,32 @@ http://193.8.246.77:8004/play/11704103/index.m3u8
 #EXTINF:-1,Channel 5 (UK)
 http://193.8.246.77:8004/play/11704105/index.m3u8
 
-
+#EXTINF:-1, UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+#EXTINF:-1, UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+#EXTINF:-1, BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+#EXTINF:-1, UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1, UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
+#EXTINF:-1, EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:-1, EURO SPORT 2 HD
+http://185.142.239.164:3135/Euro/2/index.m3u8
 
 
 
@@ -1130,6 +1187,14 @@ http://149.62.176.220:8089/udp/239.100.2.2:3001
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
 
+#EXTINF:-1  tvg-logo="" ,BT Sport 1 HD
+http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,BT Sport 2 HD
+http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,BT Sport 3 HD
+http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,BT Sport ESPN
+http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
 
 
 
@@ -1863,7 +1928,10 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8
 #EXTINF:-1,BE-TV Oost
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
-
+#EXTINF:-1  tvg-logo="" ,beIN Sports 1  (Francia)
+http://livetv.khaozap.com/bein_sports_1_france_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Sports 2  (Francia)
+http://livetv.khaozap.com/bein_sports_2_france_360p.stream/playlist.m3u8
 
 
 
@@ -3784,6 +3852,56 @@ http://live.cast-control.eu:1935/loveradiotv/loveradiotv/playlist.m3u8
 
 
 
+#EXTINF:8 group-title=”Albania”,
+
+#EXTINF:0,ss1hd1
+http://185.59.220.134:8080/ss1hd/mpegts
+#EXTINF:0,ss2hd2
+http://185.59.220.134:8080/ss2hd/mpegts
+#EXTINF:0,ss3hd3
+http://185.59.220.134:8080/ss3hd/mpegts
+#EXTINF:0,ss4hd4
+http://185.59.220.134:8080/ss4hd/mpegts
+#EXTINF:0,ss5hd5
+http://185.59.220.134:8080/ss5hd/mpegts
+#EXTINF:0,ss6hd6
+http://185.59.220.134:8080/ss6hd/mpegts
+#EXTINF:0,ss1sd7
+http://185.59.220.134:8080/ss1sd/mpegts
+#EXTINF:0,ss2sd8
+http://185.59.220.134:8080/ss2sd/mpegts
+#EXTINF:0,ss3sd9
+http://185.59.220.134:8080/ss3sd/mpegts
+#EXTINF:0,ss4sd10
+http://185.59.220.134:8080/ss4sd/mpegts
+#EXTINF:0,sk111
+http://185.59.220.134:8080/sk1/mpegts
+#EXTINF:0,sk212
+http://185.59.220.134:8080/sk2/mpegts
+#EXTINF:0,sk313
+http://185.59.220.134:8080/sk3/mpegts
+#EXTINF:0,sk414
+http://185.59.220.134:8080/sk4/mpegts
+#EXTINF:0,sk515
+http://185.59.220.134:8080/sk5/mpegts
+#EXTINF:0,/16
+http://185.59.220.134:8080/sk6/mpegts
+#EXTINF:0,Channel 17
+http://185.59.220.134:8080/arena1/mpegts
+#EXTINF:0,arena118
+http://185.59.220.134:8080/arena2/mpegts
+#EXTINF:0,arena319
+http://185.59.220.134:8080/arena3/mpegts
+#EXTINF:0,arena420
+http://185.59.220.134:8080/arena4/mpegts
+#EXTINF:0,arena521
+http://185.59.220.134:8080/arena5/mpegts
+#EXTINF:0,eurosport122
+http://185.59.220.134:8080/eurosport1/mpegts
+#EXTINF:0,eurosport223
+http://185.59.220.134:8080/eurosport2/mpegts 
+
+
 
 
 
@@ -4136,7 +4254,18 @@ http://5.39.188.207:4022/udp/224.84.207.201:21008
 #EXTINF:-1,NO NAME
 http://5.39.188.207:4022/udp/224.84.207.201:21009
 
-
+#EXTINF:-1  tvg-logo="" ,beIN Deportes 1
+http://livetv.khaozap.com/bein_sports_1_480p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Deportes 2
+http://livetv.khaozap.com/bein_sports_2_480p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Sports 3
+http://livetv.khaozap.com/bein_sports_3_480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,beIN Sports 4
+http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,beIN Deportes 5
+http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Sports 6
+http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8
 
 
 
