@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -82,8 +82,6 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 (MxPlayer)
 http://bit.ly/ert1gr1
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1
-http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 (MxPlayer)
@@ -478,8 +476,6 @@ http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/ma
 http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8? 
 #EXTINF:0, mbc action (Public-Family) (US) (English)
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
 
@@ -1093,12 +1089,12 @@ http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
 
 #EXTINF:-1,BBC1
 http://193.8.246.77:8004/play/11704101/index.m3u8
+#EXTINF:-1,BBC2
+http://193.8.246.77:8004/play/11704102/index.m3u8
 #EXTINF:-1,BBC4
 http://193.8.246.77:8004/play/11704104/index.m3u8
 #EXTINF:-1,LNT
 http://193.8.246.77:8004/play/11704408/index.m3u8
-#EXTINF:-1,BBC2
-http://193.8.246.77:8004/play/11704102/index.m3u8
 #EXTINF:-1,ITV London
 http://193.8.246.77:8004/play/11704103/index.m3u8
 #EXTINF:-1,Channel 5 (UK)
@@ -1129,6 +1125,8 @@ http://193.8.246.77:8004/play/11704105/index.m3u8
 
 #EXTINF:0, DISCOVERY
 http://94.158.80.117:9000/play/ch_206_1
+#EXTINF:-1,Animal Planet 
+http://149.62.176.220:8089/udp/239.100.2.2:3001
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
 
@@ -2375,14 +2373,6 @@ http://thepk.co:2095/live/husham/isaplayer/1123.ts
 #EXTINF:-1,NatGeo Wild Latinoamerica
 http://thepk.co:2095/live/husham/isaplayer/1094.ts
 
-#EXTINF:-1, antena3
-http://84.121.114.217:8000/play/a00e
-#EXTINF:-1, NICK JR
-http://84.121.114.217:8000/play/a00o
-#EXTINF:-1, M. SERIES
-http://84.121.114.217:8000/play/a00n
-#EXTINF:-1, laSexta
-http://84.121.114.217:8000/play/a00f
 
 
 #EXTINF:-1,TBS
@@ -2551,16 +2541,6 @@ http://62.167.57.5:1009/play/a004
 
 #EXTINF:8 group-title=”Brazil”,
 
-#EXTINF:-1,Globo RJ 
-http://95.211.149.215:8081/look/globo/playlist.m3u8 
-#EXTINF:-1,Record SP 
-http://95.211.149.215:8081/look/record/playlist.m3u8 
-#EXTINF:-1,Rede TV RJ 
-http://95.211.149.215:8081/look/redetv/playlist.m3u8 
-#EXTINF:-1,ESPN Brasil 
-http://95.211.149.215:8081/look/espnbr/playlist.m3u8 
-#EXTINF:-1,Cartoon Network 
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8 
 
 #EXTINF:-1,TV BAIANA
 rtmp://wz-brasil1.comets.com.br/tvbaiana/aovivo
@@ -4001,136 +3981,6 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be08
 
 #EXTINF:9 group-title=”India2”,
 
-#EXTINF:-1,SAIRAM TV
-http://45.120.188.170:8080/play/a00z
-#EXTINF:-1,Wow Cinema
-http://45.120.188.170:8080/play/a01l
-#EXTINF:-1,AIR Imphal
-http://45.120.188.170:8080/play/a01w
-#EXTINF:-1,PUBLIC MUSIC
-http://45.120.188.170:8080/play/a00p
-#EXTINF:-1,MK SIX
-http://45.120.188.170:8080/play/a013
-#EXTINF:-1,DD Sports
-http://45.120.188.170:8080/play/a01b
-#EXTINF:-1,AIR Vijayawada
-http://45.120.188.170:8080/play/a01v
-#EXTINF:-1,VASANTH TV
-http://45.120.188.170:8080/play/a00f
-#EXTINF:-1,PUTHUYUGAM
-http://45.120.188.170:8080/play/a00o
-#EXTINF:-1,MADHA TV
-http://45.120.188.170:8080/play/a005
-#EXTINF:-1,AYUSH TV
-http://45.120.188.170:8080/play/a011
-#EXTINF:-1,CAPTAIN TV
-http://45.120.188.170:8080/play/a003
-#EXTINF:-1,AIR VBS
-http://45.120.188.170:8080/play/a01p
-#EXTINF:-1,CAPTAIN NEWS
-http://45.120.188.170:8080/play/a00k
-#EXTINF:-1,Big Magic Ganga
-http://45.120.188.170:8080/play/a01o
-#EXTINF:-1,STUDIO N
-http://45.120.188.170:8080/play/a00i
-#EXTINF:-1,KALAIGNAR TV
-http://45.120.188.170:8080/play/a00s
-#EXTINF:-1,KALAIGNAR CHITHIRAM
-http://45.120.188.170:8080/play/a00w
-#EXTINF:-1,KALAIGNAR SEITHIGAL
-http://45.120.188.170:8080/play/a00t
-#EXTINF:-1,AIR Tamil
-http://45.120.188.170:8080/play/a01s
-#EXTINF:-1,MAKKAL TV
-http://45.120.188.170:8080/play/a006
-#EXTINF:-1,AIR Telugu
-http://45.120.188.170:8080/play/a01q
-#EXTINF:-1,ANGEL TV
-http://45.120.188.170:8080/play/a002
-#EXTINF:-1,AIR National
-http://45.120.188.170:8080/play/a01t
-#EXTINF:-1,TAMILAN TELEVISION
-http://45.120.188.170:8080/play/a00e
-#EXTINF:-1,MOON TV
-http://45.120.188.170:8080/play/a00a
-#EXTINF:-1,NEWS 18 INDIA
-http://45.120.188.170:8080/play/a01n
-#EXTINF:-1,India News
-http://45.120.188.170:8080/play/a01m
-#EXTINF:-1,B4 U Movies
-http://45.120.188.170:8080/play/a01k
-#EXTINF:-1,MK TELEVISION
-http://45.120.188.170:8080/play/a00n
-#EXTINF:-1,PUTHIYA THALAIMURAI
-http://45.120.188.170:8080/play/a00b
-#EXTINF:-1,DD Kisan
-http://45.120.188.170:8080/play/a01c
-#EXTINF:-1,SAI TV
-http://45.120.188.170:8080/play/a014
-#EXTINF:-1,Maha Movie
-http://45.120.188.170:8080/play/a01i
-#EXTINF:-1,DD Kashir
-http://45.120.188.170:8080/play/a01h
-#EXTINF:-1,KALAIGNAR ISAI ARUVI
-http://45.120.188.170:8080/play/a00u
-#EXTINF:-1,VENDHAR TV
-http://45.120.188.170:8080/play/a00y
-#EXTINF:-1,SUBHAVAARTHA
-http://45.120.188.170:8080/play/a00d
-#EXTINF:-1,PEOPLE
-http://45.120.188.170:8080/play/a008
-#EXTINF:-1,TV 5
-http://45.120.188.170:8080/play/a00l
-#EXTINF:-1,DD Girnar
-http://45.120.188.170:8080/play/a01g
-#EXTINF:-1,DD Chandana
-http://45.120.188.170:8080/play/a01f
-#EXTINF:-1,DWDS_Service
-http://45.120.188.170:8080/play/a018
-#EXTINF:-1,Aastha Bhajan
-http://45.120.188.170:8080/play/a01j
-#EXTINF:-1,DD Bharti
-http://45.120.188.170:8080/play/a01d
-#EXTINF:-1,HINDU DHARMAM
-http://45.120.188.170:8080/play/a015
-#EXTINF:-1,KAIRALI ARABIA
-http://45.120.188.170:8080/play/a00q
-#EXTINF:-1,DD News
-http://45.120.188.170:8080/play/a01a
-#EXTINF:-1,DD  National
-http://45.120.188.170:8080/play/a019
-#EXTINF:-1,DD Bangla
-http://45.120.188.170:8080/play/a01e
-#EXTINF:-1,AIR Marathi
-http://45.120.188.170:8080/play/a01r
-#EXTINF:-1,WE
-http://45.120.188.170:8080/play/a009
-#EXTINF:-1,PUBLIC TV
-http://45.120.188.170:8080/play/a00j
-#EXTINF:-1,NEWS7 TAMIL
-http://45.120.188.170:8080/play/a010
-#EXTINF:-1,WIN TV
-http://45.120.188.170:8080/play/a00g
-#EXTINF:-1,KALAIGNAR MURASU
-http://45.120.188.170:8080/play/a00x
-#EXTINF:-1,SRI SANKARA
-http://45.120.188.170:8080/play/a00c
-#EXTINF:-1,IMAYAM TV
-http://45.120.188.170:8080/play/a004
-#EXTINF:-1,POLIMER
-http://45.120.188.170:8080/play/a00h
-#EXTINF:-1,POLIMER NEWS
-http://45.120.188.170:8080/play/a00m
-#EXTINF:-1,KALAIGNAR SIRIPPOLI
-http://45.120.188.170:8080/play/a00v
-#EXTINF:-1,MK TUNES
-http://45.120.188.170:8080/play/a012
-#EXTINF:-1,Rainbow Kolkata
-http://45.120.188.170:8080/play/a01u
-
-
-
-
 
 
 
@@ -4303,37 +4153,6 @@ http://5.39.188.207:4022/udp/224.84.207.201:21009
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates2”,
-
-#EXTINF:-1,ԱՐՄՆՅՈՒԶ
-http://62.109.29.181:8000/play/a00z
-#EXTINF:-1,Երկիր Մեդիա
-http://62.109.29.181:8000/play/a005
-#EXTINF:-1,Հ2
-http://62.109.29.181:8000/play/a004
-#EXTINF:-1,Հ1
-http://62.109.29.181:8000/play/a010
-#EXTINF:-1,Շանթ
-http://62.109.29.181:8000/play/a00y
-#EXTINF:-1,Դար 21
-http://62.109.29.181:8000/play/a011
-#EXTINF:-1,Հայ Կինո
-http://62.109.29.181:8000/play/a01r
-#EXTINF:-1,Արարատ
-http://62.109.29.181:8000/play/a00d
-#EXTINF:-1,Շողակաթ
-http://62.109.29.181:8000/play/a00a
-#EXTINF:-1,Ա TV
-http://62.109.29.181:8000/play/a00e
-#EXTINF:-1,Հ3
-http://62.109.29.181:8000/play/a013
-#EXTINF:-1,US Armenia
-http://62.109.29.181:8000/play/a00c
-#EXTINF:-1,Ար
-http://62.109.29.181:8000/play/a012
-#EXTINF:-1,Արմենիա HD
-http://62.109.29.181:8000/play/a00k
-#EXTINF:-1,Կենտրոն
-http://62.109.29.181:8000/play/a006
 
 
 
