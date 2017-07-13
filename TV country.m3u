@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,11/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,13/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -535,131 +535,666 @@ http://185.142.239.164:3135/Super/4/index.m3u8
 
 
 
-#EXTINF:3 group-title=”USA/Canada-BETA”, 
+#EXTINF:3 group-title=”USA/Canada/UK”, 
 
 
-
-#EXTINF:-1,AMC USA
-http://thepk.co:2095/live/husham/isaplayer/1630.ts
-#EXTINF:-1,ANIMAL PLANET USA
-http://thepk.co:2095/live/husham/isaplayer/1631.ts
-#EXTINF:-1,BET
-http://thepk.co:2095/live/husham/isaplayer/1629.ts
-#EXTINF:-1,CARTOON NETWORK USA
-http://thepk.co:2095/live/husham/isaplayer/1649.ts
-#EXTINF:-1,CBS
-http://thepk.co:2095/live/husham/isaplayer/1628.ts
-#EXTINF:-1,Cinemax East
-http://thepk.co:2095/live/husham/isaplayer/1621.ts
-#EXTINF:-1,CINEMAX MORE
-http://thepk.co:2095/live/husham/isaplayer/1627.ts
-#EXTINF:-1,CNBC
-http://thepk.co:2095/live/husham/isaplayer/1626.ts
-#EXTINF:-1,CRIME AND INVESTIGATION
-http://thepk.co:2095/live/husham/isaplayer/1638.ts
-#EXTINF:-1,DISCOVERY HISTORY
-http://thepk.co:2095/live/husham/isaplayer/1637.ts
-#EXTINF:-1,DISNEY XD
-http://thepk.co:2095/live/husham/isaplayer/1648.ts
-#EXTINF:-1,ESPN
-http://thepk.co:2095/live/husham/isaplayer/1634.ts
-#EXTINF:-1,FIGHT NETWORK
-http://thepk.co:2095/live/husham/isaplayer/1633.ts
-#EXTINF:-1,Food Network USA
-http://thepk.co:2095/live/husham/isaplayer/1623.ts
+#EXTINF:-1,My9
+http://dns1.theplayersklub.host:2095/live/number1/number1/1613.ts
+#EXTINF:-1,ABC NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/108.ts
+#EXTINF:-1,CBSSN
+http://dns1.theplayersklub.host:2095/live/number1/number1/220.ts
+#EXTINF:-1,COOKING CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/211.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://dns1.theplayersklub.host:2095/live/number1/number1/206.ts
+#EXTINF:-1,FOOD NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/195.ts
 #EXTINF:-1,FOX SPORTS 1
-http://thepk.co:2095/live/husham/isaplayer/1632.ts
-#EXTINF:-1,HGTV USA HD
-http://thepk.co:2095/live/husham/isaplayer/1644.ts
-#EXTINF:-1,HISTORY USA
-http://thepk.co:2095/live/husham/isaplayer/1635.ts
-#EXTINF:-1,NAT GEO WILD USA
-http://thepk.co:2095/live/husham/isaplayer/1636.ts
-#EXTINF:-1,NHL 1 HD
-http://thepk.co:2095/live/husham/isaplayer/1656.ts
-#EXTINF:-1,NHL 10 HD
-http://thepk.co:2095/live/husham/isaplayer/1655.ts
-#EXTINF:-1,NHL 11 HD
-http://thepk.co:2095/live/husham/isaplayer/1654.ts
-#EXTINF:-1,PAC 12 ARIZONA HD
-http://thepk.co:2095/live/husham/isaplayer/1647.ts
-#EXTINF:-1,PAC 12 BAY AREA HD
-http://thepk.co:2095/live/husham/isaplayer/1646.ts
-#EXTINF:-1,PAC 12 LA HD
-http://thepk.co:2095/live/husham/isaplayer/1645.ts
-#EXTINF:-1,PBS
-http://thepk.co:2095/live/husham/isaplayer/1625.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/188.ts
+#EXTINF:-1,FOX SPORTS 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/187.ts
+#EXTINF:-1,HBO 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/174.ts
+#EXTINF:-1,HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/number1/number1/173.ts
+#EXTINF:-1,HBO FAMILY
+http://dns1.theplayersklub.host:2095/live/number1/number1/172.ts
+#EXTINF:-1,MLB NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/160.ts
+#EXTINF:-1,MTV
+http://dns1.theplayersklub.host:2095/live/number1/number1/158.ts
+#EXTINF:-1,NAT GEO WILD
+http://dns1.theplayersklub.host:2095/live/number1/number1/157.ts
+#EXTINF:-1,NBCSN
+http://dns1.theplayersklub.host:2095/live/number1/number1/149.ts
+#EXTINF:-1,NFL NOW
+http://dns1.theplayersklub.host:2095/live/number1/number1/148.ts
+#EXTINF:-1,NHL NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/147.ts
+#EXTINF:-1,TCM
+http://dns1.theplayersklub.host:2095/live/number1/number1/128.ts
+#EXTINF:-1,TLC
+http://dns1.theplayersklub.host:2095/live/number1/number1/119.ts
+#EXTINF:-1,A&E
+http://dns1.theplayersklub.host:2095/live/number1/number1/267.ts
+#EXTINF:-1,ABC
+http://dns1.theplayersklub.host:2095/live/number1/number1/263.ts
+#EXTINF:-1,AMERICAN HEROES
+http://dns1.theplayersklub.host:2095/live/number1/number1/241.ts
+#EXTINF:-1,ANIMAL PLANET
+http://dns1.theplayersklub.host:2095/live/number1/number1/262.ts
+#EXTINF:-1,CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/258.ts
+#EXTINF:-1,CBS
+http://dns1.theplayersklub.host:2095/live/number1/number1/266.ts
+#EXTINF:-1,CNN
+http://dns1.theplayersklub.host:2095/live/number1/number1/260.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://dns1.theplayersklub.host:2095/live/number1/number1/257.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/255.ts
+#EXTINF:-1,ESPN
+http://dns1.theplayersklub.host:2095/live/number1/number1/256.ts
+#EXTINF:-1,Fox News Channel
+http://dns1.theplayersklub.host:2095/live/number1/number1/252.ts
+#EXTINF:-1,HISTORY
+http://dns1.theplayersklub.host:2095/live/number1/number1/251.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/247.ts
+#EXTINF:-1,NBC
+http://dns1.theplayersklub.host:2095/live/number1/number1/248.ts
+#EXTINF:-1,NICKELODEON
+http://dns1.theplayersklub.host:2095/live/number1/number1/265.ts
+#EXTINF:-1,SPIKE
+http://dns1.theplayersklub.host:2095/live/number1/number1/246.ts
+#EXTINF:-1,SYFY
+http://dns1.theplayersklub.host:2095/live/number1/number1/245.ts
+#EXTINF:-1,USA NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/242.ts
+#EXTINF:-1,BRAVO
+http://dns1.theplayersklub.host:2095/live/number1/number1/315.ts
+#EXTINF:-1,CW
+http://dns1.theplayersklub.host:2095/live/number1/number1/319.ts
+#EXTINF:-1,FOX
+http://dns1.theplayersklub.host:2095/live/number1/number1/318.ts
+#EXTINF:-1,FX
+http://dns1.theplayersklub.host:2095/live/number1/number1/324.ts
+#EXTINF:-1,FXX
+http://dns1.theplayersklub.host:2095/live/number1/number1/323.ts
+#EXTINF:-1,H2
+http://dns1.theplayersklub.host:2095/live/number1/number1/309.ts
+#EXTINF:-1,HBO
+http://dns1.theplayersklub.host:2095/live/number1/number1/317.ts
+#EXTINF:-1,HBO ZONE
+http://dns1.theplayersklub.host:2095/live/number1/number1/321.ts
+#EXTINF:-1,HGTV
+http://dns1.theplayersklub.host:2095/live/number1/number1/302.ts
+#EXTINF:-1,HUNTING & FISHING
+http://dns1.theplayersklub.host:2095/live/number1/number1/305.ts
+#EXTINF:-1,LIFETIME
+http://dns1.theplayersklub.host:2095/live/number1/number1/300.ts
+#EXTINF:-1,NFL NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/308.ts
+#EXTINF:-1,OWN
+http://dns1.theplayersklub.host:2095/live/number1/number1/311.ts
+#EXTINF:-1,SHOPPING CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/306.ts
+#EXTINF:-1,TBS
+http://dns1.theplayersklub.host:2095/live/number1/number1/301.ts
+#EXTINF:-1,TNT
+http://dns1.theplayersklub.host:2095/live/number1/number1/298.ts
+#EXTINF:-1,TRU TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/312.ts
+#EXTINF:-1,VELOCITY
+http://dns1.theplayersklub.host:2095/live/number1/number1/307.ts
+#EXTINF:-1,WWE NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/303.ts
+#EXTINF:-1,BEIN SPORTS
+http://dns1.theplayersklub.host:2095/live/number1/number1/352.ts
+#EXTINF:-1,CINEMAX
+http://dns1.theplayersklub.host:2095/live/number1/number1/350.ts
+#EXTINF:-1,CNBC
+http://dns1.theplayersklub.host:2095/live/number1/number1/349.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/347.ts
+#EXTINF:-1,DIY NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/346.ts
+#EXTINF:-1,E!
+http://dns1.theplayersklub.host:2095/live/number1/number1/345.ts
+#EXTINF:-1,STARZ ENCORE
+http://dns1.theplayersklub.host:2095/live/number1/number1/344.ts
+#EXTINF:-1,ESPN 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/343.ts
+#EXTINF:-1,FYI
+http://dns1.theplayersklub.host:2095/live/number1/number1/342.ts
+#EXTINF:-1,HALLMARK
+http://dns1.theplayersklub.host:2095/live/number1/number1/341.ts
+#EXTINF:-1,HBO SIGNATURE
+http://dns1.theplayersklub.host:2095/live/number1/number1/340.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://dns1.theplayersklub.host:2095/live/number1/number1/339.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/338.ts
+#EXTINF:-1,MSNBC
+http://dns1.theplayersklub.host:2095/live/number1/number1/337.ts
+#EXTINF:-1,NBA TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/336.ts
+#EXTINF:-1,NBC GOLF
+http://dns1.theplayersklub.host:2095/live/number1/number1/335.ts
+#EXTINF:-1,NICK JR
+http://dns1.theplayersklub.host:2095/live/number1/number1/333.ts
+#EXTINF:-1,NICK
+http://dns1.theplayersklub.host:2095/live/number1/number1/334.ts
 #EXTINF:-1,SHOWTIME 2
-http://thepk.co:2095/live/husham/isaplayer/1624.ts
-#EXTINF:-1,SPORTS NET ONTARIO
-http://thepk.co:2095/live/husham/isaplayer/1643.ts
-#EXTINF:-1,SPORTSNET 360
-http://thepk.co:2095/live/husham/isaplayer/1642.ts
-#EXTINF:-1,SPORTSNET ONE
-http://thepk.co:2095/live/husham/isaplayer/1641.ts
-#EXTINF:-1,STARZ KIDS AND FAMILY
-http://thepk.co:2095/live/husham/isaplayer/1620.ts
-#EXTINF:-1,THE WEATHER CHANNEL USA
-http://thepk.co:2095/live/husham/isaplayer/1622.ts
-#EXTINF:-1,TSN 1
-http://thepk.co:2095/live/husham/isaplayer/1640.ts
-#EXTINF:-1,TSN 2
-http://thepk.co:2095/live/husham/isaplayer/1639.ts
-#EXTINF:-1,MLB Extra Innings 720
-http://thepk.co:2095/live/husham/isaplayer/1659.ts
-#EXTINF:-1,MLB Extra Innings 721
-http://thepk.co:2095/live/husham/isaplayer/1658.ts
-#EXTINF:-1,MLB Extra Innings 722
-http://thepk.co:2095/live/husham/isaplayer/1657.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/331.ts
+#EXTINF:-1,SHOWTIME
+http://dns1.theplayersklub.host:2095/live/number1/number1/332.ts
+#EXTINF:-1,STARZ CINEMA
+http://dns1.theplayersklub.host:2095/live/number1/number1/328.ts
+#EXTINF:-1,STARZ EAST
+http://dns1.theplayersklub.host:2095/live/number1/number1/329.ts
+#EXTINF:-1,TENNIS CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/327.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/326.ts
+#EXTINF:-1,TV Land
+http://dns1.theplayersklub.host:2095/live/number1/number1/325.ts
+#EXTINF:-1,NFL Red Zone
+http://dns1.theplayersklub.host:2095/live/number1/number1/368.ts
+#EXTINF:-1,NFL SUNDAY TICKET1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/355.ts
+#EXTINF:-1,NFL SUNDAY TICKET 10 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/367.ts
+#EXTINF:-1,NFL SUNDAY TICKET 12 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/365.ts
+#EXTINF:-1,NFL SUNDAY TICKET 13 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/364.ts
+#EXTINF:-1,NFL SUNDAY TICKET 2 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/363.ts
+#EXTINF:-1,NFL SUNDAY TICKET 3 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/362.ts
+#EXTINF:-1,NFL SUNDAY TICKET 4 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/361.ts
+#EXTINF:-1,NFL SUNDAY TICKET 5 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/360.ts
+#EXTINF:-1,NFL SUNDAY TICKET 6 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/359.ts
+#EXTINF:-1,NFL SUNDAY TICKET 7 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/358.ts
+#EXTINF:-1,NFL SUNDAY TICKET 9 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/356.ts
+#EXTINF:-1,NFL SUNDAY TICKET 11 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/366.ts
+#EXTINF:-1,NFL SUNDAY TICKET 8 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/357.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/380.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 10 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/376.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 14 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/375.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 15 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/374.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/373.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD
-http://thepk.co:2095/live/husham/isaplayer/1653.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/372.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 4 HD
-http://thepk.co:2095/live/husham/isaplayer/1652.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/371.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 5 HD
-http://thepk.co:2095/live/husham/isaplayer/1651.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/370.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 6 HD
-http://thepk.co:2095/live/husham/isaplayer/1650.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/369.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 7 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/379.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 8 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/378.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 9 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/377.ts
+#EXTINF:-1,C-SPAN 1
+http://dns1.theplayersklub.host:2095/live/number1/number1/388.ts
+#EXTINF:-1,C-SPAN 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/387.ts
+#EXTINF:-1,CBS NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/389.ts
+#EXTINF:-1,GOLF CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/390.ts
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://dns1.theplayersklub.host:2095/live/number1/number1/396.ts
+#EXTINF:-1,PAC 12 NATIONAL
+http://dns1.theplayersklub.host:2095/live/number1/number1/395.ts
+#EXTINF:-1,PAC 12 OREGON
+http://dns1.theplayersklub.host:2095/live/number1/number1/394.ts
+#EXTINF:-1,PAC 12 WASHINGTON
+http://dns1.theplayersklub.host:2095/live/number1/number1/393.ts
+#EXTINF:-1,THE WEATHER CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/400.ts
+#EXTINF:-1,C-SPAN 3
+http://dns1.theplayersklub.host:2095/live/number1/number1/401.ts
+#EXTINF:-1,VH1 (US)
+http://dns1.theplayersklub.host:2095/live/number1/number1/402.ts
+#EXTINF:-1,NHL 1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/416.ts
+#EXTINF:-1,NHL 10 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/415.ts
+#EXTINF:-1,NHL 11 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/414.ts
+#EXTINF:-1,NHL12 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/413.ts
+#EXTINF:-1,NHL 13 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/412.ts
+#EXTINF:-1,NHL  2 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/411.ts
+#EXTINF:-1,NHL  3 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/410.ts
+#EXTINF:-1,NHL  4 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/409.ts
+#EXTINF:-1,NHL  5 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/408.ts
+#EXTINF:-1,NHL  6 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/407.ts
+#EXTINF:-1,NHL  7 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/406.ts
+#EXTINF:-1,NHL 8 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/405.ts
+#EXTINF:-1,NHL  9 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/404.ts
+#EXTINF:-1,FIGHT NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/419.ts
+#EXTINF:-1,Destination America
+http://dns1.theplayersklub.host:2095/live/number1/number1/425.ts
+#EXTINF:-1,Big Ten Network
+http://dns1.theplayersklub.host:2095/live/number1/number1/428.ts
+#EXTINF:-1,CINEMAX MOREMAX
+http://dns1.theplayersklub.host:2095/live/number1/number1/446.ts
+#EXTINF:-1,NEWS 12
+http://dns1.theplayersklub.host:2095/live/number1/number1/467.ts
+#EXTINF:-1,FOX NEWS 23
+http://dns1.theplayersklub.host:2095/live/number1/number1/457.ts
+#EXTINF:-1,FOX NEWS 25
+http://dns1.theplayersklub.host:2095/live/number1/number1/458.ts
+#EXTINF:-1,FOX NEWS 30
+http://dns1.theplayersklub.host:2095/live/number1/number1/459.ts
+#EXTINF:-1,KRGV 5 NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/451.ts
+#EXTINF:-1,KTVT 11 NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/450.ts
+#EXTINF:-1,NEWS 12 BROOKLYN
+http://dns1.theplayersklub.host:2095/live/number1/number1/461.ts
+#EXTINF:-1,NEWS 12 CONNECTICUT
+http://dns1.theplayersklub.host:2095/live/number1/number1/462.ts
+#EXTINF:-1,NEWS 12 HUDSON VALLEY
+http://dns1.theplayersklub.host:2095/live/number1/number1/463.ts
+#EXTINF:-1,NEWS 12 LONG ISLAND
+http://dns1.theplayersklub.host:2095/live/number1/number1/460.ts
+#EXTINF:-1,NEWS 12 THE BRONX
+http://dns1.theplayersklub.host:2095/live/number1/number1/465.ts
+#EXTINF:-1,Disney JR
+http://dns1.theplayersklub.host:2095/live/number1/number1/469.ts
+#EXTINF:-1,Disney XD
+http://dns1.theplayersklub.host:2095/live/number1/number1/471.ts
+#EXTINF:-1,We TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/470.ts
+#EXTINF:-1,FOX BUSINESS
+http://dns1.theplayersklub.host:2095/live/number1/number1/472.ts
+#EXTINF:-1,TV ONE
+http://dns1.theplayersklub.host:2095/live/number1/number1/474.ts
+#EXTINF:-1,ESPN U
+http://dns1.theplayersklub.host:2095/live/number1/number1/475.ts
+#EXTINF:-1,VICELAND.
+http://dns1.theplayersklub.host:2095/live/number1/number1/477.ts
+#EXTINF:-1,DOGTV
+http://dns1.theplayersklub.host:2095/live/number1/number1/480.ts
+#EXTINF:-1,4K TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/481.ts
+#EXTINF:-1,Fear Factor
+http://dns1.theplayersklub.host:2095/live/number1/number1/482.ts
+#EXTINF:-1,Anime TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/483.ts
+#EXTINF:-1,CA YTV
+http://dns1.theplayersklub.host:2095/live/number1/number1/484.ts
+#EXTINF:-1,CA ABC SPARK
+http://dns1.theplayersklub.host:2095/live/number1/number1/524.ts
+#EXTINF:-1,CA BET
+http://dns1.theplayersklub.host:2095/live/number1/number1/523.ts
+#EXTINF:-1,CA BNN
+http://dns1.theplayersklub.host:2095/live/number1/number1/522.ts
+#EXTINF:-1,CA CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/521.ts
+#EXTINF:-1,CA CBC TORONTO
+http://dns1.theplayersklub.host:2095/live/number1/number1/520.ts
+#EXTINF:-1,CA CHCH
+http://dns1.theplayersklub.host:2095/live/number1/number1/519.ts
+#EXTINF:-1,CA CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/number1/number1/518.ts
+#EXTINF:-1,CA COMEDY
+http://dns1.theplayersklub.host:2095/live/number1/number1/517.ts
+#EXTINF:-1,CA COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/number1/number1/516.ts
+#EXTINF:-1,CA CP24
+http://dns1.theplayersklub.host:2095/live/number1/number1/515.ts
+#EXTINF:-1,CA SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/492.ts
+#EXTINF:-1,CA TELETOON
+http://dns1.theplayersklub.host:2095/live/number1/number1/491.ts
+#EXTINF:-1,CA THE MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/490.ts
+#EXTINF:-1,CA TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/number1/number1/489.ts
+#EXTINF:-1,CA TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/number1/number1/488.ts
+#EXTINF:-1,CA VRAK TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/487.ts
+#EXTINF:-1,CA W NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/486.ts
+#EXTINF:-1,CA WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/number1/number1/485.ts
+#EXTINF:-1,MLB Network HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/539.ts
+#EXTINF:-1,Starz Edge
+http://dns1.theplayersklub.host:2095/live/number1/number1/558.ts
 
-#EXTINF:-1,CA : ABC SPARK
-http://thepk.co:2095/live/husham/isaplayer/1619.ts
-#EXTINF:-1,CA : CARTOON NETWORK
-http://thepk.co:2095/live/husham/isaplayer/1618.ts
-#EXTINF:-1,CA : CBC TORONTO
-http://thepk.co:2095/live/husham/isaplayer/1617.ts
-
+#EXTINF:-1,AMC
+http://dns1.theplayersklub.host:2095/live/number1/number1/562.ts
+#EXTINF:-1,Sky Cinema Action
+http://dns1.theplayersklub.host:2095/live/number1/number1/582.ts
+#EXTINF:-1,Sky Cinema Action HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/581.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://dns1.theplayersklub.host:2095/live/number1/number1/580.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/579.ts
+#EXTINF:-1,Sky Cinema Disney
+http://dns1.theplayersklub.host:2095/live/number1/number1/578.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/577.ts
+#EXTINF:-1,Sky Cinema Drama
+http://dns1.theplayersklub.host:2095/live/number1/number1/564.ts
+#EXTINF:-1,Sky Cinema Drama HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/576.ts
+#EXTINF:-1,Sky Cinema Family
+http://dns1.theplayersklub.host:2095/live/number1/number1/575.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/574.ts
+#EXTINF:-1,Sky Cinema Greats
+http://dns1.theplayersklub.host:2095/live/number1/number1/573.ts
+#EXTINF:-1,Sky Cinema Greats HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/572.ts
+#EXTINF:-1,Sky Cinema Hits
+http://dns1.theplayersklub.host:2095/live/number1/number1/565.ts
+#EXTINF:-1,Sky Cinema Premier
+http://dns1.theplayersklub.host:2095/live/number1/number1/571.ts
+#EXTINF:-1,Sky Cinema Premier HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/570.ts
+#EXTINF:-1,Sky Cinema Sci-Fi
+http://dns1.theplayersklub.host:2095/live/number1/number1/569.ts
+#EXTINF:-1,Sky Cinema Sci-Fi HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/568.ts
+#EXTINF:-1,Sky Cinema Select
+http://dns1.theplayersklub.host:2095/live/number1/number1/567.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/566.ts
+#EXTINF:-1,Sky Sports 1 1080
+http://dns1.theplayersklub.host:2095/live/number1/number1/598.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/594.ts
+#EXTINF:-1,SKY SPORTS 1 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/593.ts
+#EXTINF:-1,Sky Sports 2 1080
+http://dns1.theplayersklub.host:2095/live/number1/number1/597.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/592.ts
+#EXTINF:-1,SKY SPORTS 2 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/591.ts
+#EXTINF:-1,Sky sports 3 1080
+http://dns1.theplayersklub.host:2095/live/number1/number1/596.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/590.ts
+#EXTINF:-1,SKY SPORTS 3 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/589.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/588.ts
+#EXTINF:-1,SKY SPORTS 4 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/587.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/586.ts
+#EXTINF:-1,Sky Sports F1 1080
+http://dns1.theplayersklub.host:2095/live/number1/number1/595.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/585.ts
+#EXTINF:-1,SKY SPORTS F1 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/584.ts
+#EXTINF:-1,SKY SPORTS NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/583.ts
+#EXTINF:-1,BT Sport 1 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/602.ts
+#EXTINF:-1,BT Sport 2 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/601.ts
+#EXTINF:-1,BT SPORT 3 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/600.ts
+#EXTINF:-1,BT SPORT ESPN
+http://dns1.theplayersklub.host:2095/live/number1/number1/599.ts
+#EXTINF:-1,Logan
+http://dns1.theplayersklub.host:2095/movie/number1/number1/824.mp4
+#EXTINF:-1,TPK  MUSIC BRIT HITS
+http://dns1.theplayersklub.host:2095/live/number1/number1/849.ts
+#EXTINF:-1,TPK  MUSIC DANCE EDM
+http://dns1.theplayersklub.host:2095/live/number1/number1/848.ts
+#EXTINF:-1,TPK  MUSIC HIP HOP & R & B
+http://dns1.theplayersklub.host:2095/live/number1/number1/847.ts
+#EXTINF:-1,TPK  MUSIC HIT LIST
+http://dns1.theplayersklub.host:2095/live/number1/number1/846.ts
+#EXTINF:-1,TPK  MUSIC INDIE
+http://dns1.theplayersklub.host:2095/live/number1/number1/845.ts
+#EXTINF:-1,TPK  MUSIC KIDS ONLY
+http://dns1.theplayersklub.host:2095/live/number1/number1/844.ts
+#EXTINF:-1,TPK  MUSIC LATINO POP
+http://dns1.theplayersklub.host:2095/live/number1/number1/843.ts
 #EXTINF:-1,TPK  MUSIC MEXICAAN
-http://thepk.co:2095/live/husham/isaplayer/841.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/841.ts
 #EXTINF:-1,TPK  MUSIC POP & COUNTRY
-http://thepk.co:2095/live/husham/isaplayer/840.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/840.ts
 #EXTINF:-1,TPK  MUSIC POP HITS
-http://thepk.co:2095/live/husham/isaplayer/839.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/839.ts
 #EXTINF:-1,TPK  MUSIC R&B SOUL
-http://thepk.co:2095/live/husham/isaplayer/838.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/838.ts
 #EXTINF:-1,TPK  MUSIC RAP 2K
-http://thepk.co:2095/live/husham/isaplayer/836.ts
-
-
-#EXTINF:-1,SyFy Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1079.ts
-#EXTINF:-1,A&E Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1127.ts
-#EXTINF:-1,Animal Planet Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1126.ts
-#EXTINF:-1,AXN Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1125.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1123.ts
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1094.ts
-
-
-
-
-
-
-
-
-
+http://dns1.theplayersklub.host:2095/live/number1/number1/836.ts
+#EXTINF:-1,TPK MUSIC RAP
+http://dns1.theplayersklub.host:2095/live/number1/number1/837.ts
+#EXTINF:-1,TPK  MUSIC ROCK
+http://dns1.theplayersklub.host:2095/live/number1/number1/835.ts
+#EXTINF:-1,TPK MUSIC THROWBACK JAMZ
+http://dns1.theplayersklub.host:2095/live/number1/number1/833.ts
+#EXTINF:-1,TPK  MUSIC TODAYS COUNTRY
+http://dns1.theplayersklub.host:2095/live/number1/number1/832.ts
+#EXTINF:-1,TPK  MUSIC TODDLER TUNES
+http://dns1.theplayersklub.host:2095/live/number1/number1/831.ts
+#EXTINF:-1,TPK MUSIC MC PLAY
+http://dns1.theplayersklub.host:2095/live/number1/number1/842.ts
+#EXTINF:-1,TPK  MUSIC TEEN BEATS
+http://dns1.theplayersklub.host:2095/live/number1/number1/834.ts
+#EXTINF:-1,TPK  MUSIC Y2K
+http://dns1.theplayersklub.host:2095/live/number1/number1/828.ts
+#EXTINF:-1,TPK MUSIC ALTERNATIVE
+http://dns1.theplayersklub.host:2095/live/number1/number1/826.ts
+#EXTINF:-1,TPK MUSIC TROPICALES
+http://dns1.theplayersklub.host:2095/live/number1/number1/830.ts
+#EXTINF:-1,FIGHT PASS
+http://dns1.theplayersklub.host:2095/live/number1/number1/850.ts
+#EXTINF:-1,BOXNATION
+http://dns1.theplayersklub.host:2095/live/number1/number1/1069.ts
+#EXTINF:-1,MAV TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/1073.ts
+#EXTINF:-1,CA TSN 1
+http://dns1.theplayersklub.host:2095/live/number1/number1/1078.ts
+#EXTINF:-1,CA TSN 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/1077.ts
+#EXTINF:-1,CA TSN 3
+http://dns1.theplayersklub.host:2095/live/number1/number1/1076.ts
+#EXTINF:-1,CA TSN 4 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1075.ts
+#EXTINF:-1,CA TSN 5 HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1074.ts
+#EXTINF:-1,IFC
+http://dns1.theplayersklub.host:2095/live/number1/number1/611.ts
+#EXTINF:-1,SEC NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/1135.ts
+#EXTINF:-1,STARZ KIDZ & FAMILY
+http://dns1.theplayersklub.host:2095/live/number1/number1/1132.ts
+#EXTINF:-1,MLB Extra Innings 720
+http://dns1.theplayersklub.host:2095/live/number1/number1/1172.ts
+#EXTINF:-1,MLB Extra Innings 721
+http://dns1.theplayersklub.host:2095/live/number1/number1/1171.ts
+#EXTINF:-1,MLB Extra Innings 722
+http://dns1.theplayersklub.host:2095/live/number1/number1/1170.ts
+#EXTINF:-1,MLB Extra Innings 723
+http://dns1.theplayersklub.host:2095/live/number1/number1/1169.ts
+#EXTINF:-1,MLB Extra Innings 724
+http://dns1.theplayersklub.host:2095/live/number1/number1/1168.ts
+#EXTINF:-1,MLB Extra Innings 725
+http://dns1.theplayersklub.host:2095/live/number1/number1/1167.ts
+#EXTINF:-1,MLB Extra Innings 726
+http://dns1.theplayersklub.host:2095/live/number1/number1/1166.ts
+#EXTINF:-1,MLB Extra Innings 727
+http://dns1.theplayersklub.host:2095/live/number1/number1/1165.ts
+#EXTINF:-1,MLB Extra Innings 728
+http://dns1.theplayersklub.host:2095/live/number1/number1/1164.ts
+#EXTINF:-1,MLB Extra Innings 729
+http://dns1.theplayersklub.host:2095/live/number1/number1/1163.ts
+#EXTINF:-1,MLB Extra Innings 730
+http://dns1.theplayersklub.host:2095/live/number1/number1/1162.ts
+#EXTINF:-1,MLB Extra Innings 731
+http://dns1.theplayersklub.host:2095/live/number1/number1/1161.ts
+#EXTINF:-1,MLB Extra Innings 732
+http://dns1.theplayersklub.host:2095/live/number1/number1/1160.ts
+#EXTINF:-1,MLB Extra Innings 733
+http://dns1.theplayersklub.host:2095/live/number1/number1/1159.ts
+#EXTINF:-1,MLB Extra Innings 734
+http://dns1.theplayersklub.host:2095/live/number1/number1/1158.ts
+#EXTINF:-1,MLB Extra Innings 735
+http://dns1.theplayersklub.host:2095/live/number1/number1/1157.ts
+#EXTINF:-1,MLB Extra Innings 736
+http://dns1.theplayersklub.host:2095/live/number1/number1/1156.ts
+#EXTINF:-1,MLB Extra Innings 737
+http://dns1.theplayersklub.host:2095/live/number1/number1/1155.ts
+#EXTINF:-1,MLB Extra Innings 738
+http://dns1.theplayersklub.host:2095/live/number1/number1/1154.ts
+#EXTINF:-1,MLB Extra Innings 739
+http://dns1.theplayersklub.host:2095/live/number1/number1/1153.ts
+#EXTINF:-1,MLB Extra Innings 740
+http://dns1.theplayersklub.host:2095/live/number1/number1/1152.ts
+#EXTINF:-1,MLB Extra Innings 741
+http://dns1.theplayersklub.host:2095/live/number1/number1/1151.ts
+#EXTINF:-1,MLB Extra Innings 742
+http://dns1.theplayersklub.host:2095/live/number1/number1/1150.ts
+#EXTINF:-1,MLB Extra Innings 743
+http://dns1.theplayersklub.host:2095/live/number1/number1/1149.ts
+#EXTINF:-1,MLB Extra Innings 744
+http://dns1.theplayersklub.host:2095/live/number1/number1/1148.ts
+#EXTINF:-1,MLB Extra Innings 745
+http://dns1.theplayersklub.host:2095/live/number1/number1/1147.ts
+#EXTINF:-1,MLB Extra Innings 746
+http://dns1.theplayersklub.host:2095/live/number1/number1/1146.ts
+#EXTINF:-1,MLB Extra Innings 747
+http://dns1.theplayersklub.host:2095/live/number1/number1/1145.ts
+#EXTINF:-1,MLB Extra Innings 748
+http://dns1.theplayersklub.host:2095/live/number1/number1/1144.ts
+#EXTINF:-1,MLB Extra Innings 749
+http://dns1.theplayersklub.host:2095/live/number1/number1/1143.ts
+#EXTINF:-1,BET
+http://dns1.theplayersklub.host:2095/live/number1/number1/1175.ts
+#EXTINF:-1,HALLMARK MOVIES
+http://dns1.theplayersklub.host:2095/live/number1/number1/1177.ts
+#EXTINF:-1,KIRO 7 NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/1178.ts
+#EXTINF:-1,CBS 5 NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/1183.ts
+#EXTINF:-1,Fox 21 NEWS
+http://dns1.theplayersklub.host:2095/live/number1/number1/1199.ts
+#EXTINF:-1,BUZZR TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/1202.ts
+#EXTINF:-1,QVC 1
+http://dns1.theplayersklub.host:2095/live/number1/number1/1206.ts
+#EXTINF:-1,QVC 2
+http://dns1.theplayersklub.host:2095/live/number1/number1/1207.ts
+#EXTINF:-1,The Martian
+http://dns1.theplayersklub.host:2095/movie/number1/number1/1141.mkv
+#EXTINF:-1,CA Sportsnet East
+http://dns1.theplayersklub.host:2095/live/number1/number1/1215.ts
+#EXTINF:-1,CA Sportsnet West
+http://dns1.theplayersklub.host:2095/live/number1/number1/1216.ts
+#EXTINF:-1,NEWS 12 NEW JERSEY
+http://dns1.theplayersklub.host:2095/live/number1/number1/1176.ts
+#EXTINF:-1,RT HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/822.ts
+#EXTINF:-1,FREEFORM
+http://dns1.theplayersklub.host:2095/live/number1/number1/320.ts
+#EXTINF:-1,Oxygen HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1229.ts
+#EXTINF:-1,TPK Music Metal
+http://dns1.theplayersklub.host:2095/live/number1/number1/1230.ts
+#EXTINF:-1,FOX (UK)
+http://dns1.theplayersklub.host:2095/live/number1/number1/1243.ts
+#EXTINF:-1,REGGAE MUSIC
+http://dns1.theplayersklub.host:2095/live/number1/number1/1245.ts
+#EXTINF:-1,CA Sportsnet 360
+http://dns1.theplayersklub.host:2095/live/number1/number1/1261.ts
+#EXTINF:-1,CA Sportsnet Ontario
+http://dns1.theplayersklub.host:2095/live/number1/number1/1262.ts
+#EXTINF:-1,CA Sportsnet One
+http://dns1.theplayersklub.host:2095/live/number1/number1/1263.ts
+#EXTINF:-1,FXM
+http://dns1.theplayersklub.host:2095/live/number1/number1/1271.ts
+#EXTINF:-1,El Rey
+http://dns1.theplayersklub.host:2095/live/number1/number1/1272.ts
+#EXTINF:-1,BBC AMERICA
+http://dns1.theplayersklub.host:2095/live/number1/number1/1277.ts
+#EXTINF:-1,Sky Sports 5 SD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1280.ts
+#EXTINF:-1,SUNDANCE TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/1284.ts
+#EXTINF:-1,UNIVERSAL HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1294.ts
+#EXTINF:-1,CINEMAX ACTIONMAX
+http://dns1.theplayersklub.host:2095/live/number1/number1/1595.ts
+#EXTINF:-1,GSN
+http://dns1.theplayersklub.host:2095/live/number1/number1/1596.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://dns1.theplayersklub.host:2095/live/number1/number1/1600.ts
+#EXTINF:-1,ENCORE WESTERNS
+http://dns1.theplayersklub.host:2095/live/number1/number1/1601.ts
+#EXTINF:-1,SHOWTIME BEYOND
+http://dns1.theplayersklub.host:2095/live/number1/number1/1603.ts
+#EXTINF:-1,SHOWTIME NEXT
+http://dns1.theplayersklub.host:2095/live/number1/number1/1602.ts
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://dns1.theplayersklub.host:2095/live/number1/number1/1604.ts
+#EXTINF:-1,COZI
+http://dns1.theplayersklub.host:2095/live/number1/number1/1665.ts
+#EXTINF:-1,GET TV
+http://dns1.theplayersklub.host:2095/live/number1/number1/1664.ts
+#EXTINF:-1,MELLO
+http://dns1.theplayersklub.host:2095/live/number1/number1/1662.ts
+#EXTINF:-1,MY 13
+http://dns1.theplayersklub.host:2095/live/number1/number1/1663.ts
+#EXTINF:-1,WGN AMERICA
+http://dns1.theplayersklub.host:2095/live/number1/number1/1661.ts
+#EXTINF:-1,OAN
+http://dns1.theplayersklub.host:2095/live/number1/number1/1666.ts
+#EXTINF:-1,YES NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/1673.ts
+#EXTINF:-1,Jewelry TV-even
+http://dns1.theplayersklub.host:2095/live/number1/number1/1674.ts
+#EXTINF:-1,LONGHORN NETWORK
+http://dns1.theplayersklub.host:2095/live/number1/number1/1675.ts
+#EXTINF:-1,BET (US) (D)
+http://dns1.theplayersklub.host:2095/live/number1/number1/1679.ts
+#EXTINF:-1,VH1 (US) (D)
+http://dns1.theplayersklub.host:2095/live/number1/number1/1689.ts
+#EXTINF:-1,Comedy Central (US) (D)
+http://dns1.theplayersklub.host:2095/live/number1/number1/1692.ts
 
 
 
@@ -1136,6 +1671,12 @@ http://193.8.246.77:8004/play/11704103/index.m3u8
 #EXTINF:-1,Channel 5 (UK)
 http://193.8.246.77:8004/play/11704105/index.m3u8
 
+#EXTINF:0,SKY FAMILY 
+http://s01.iptvsolution.net/live?channelId=132&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY ACTION 
+http://s01.iptvsolution.net/live?channelId=131&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY PREMIERE 
+http://s01.iptvsolution.net/live?channelId=133&uid=4287&deviceMac=00:1A:79:2F:CE:56
 
 
 
@@ -1177,14 +1718,107 @@ http://93.91.113.8:9999/play/a06l
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
 
-#EXTINF:-1  tvg-logo="" ,BT Sport 1 HD
+#EXTINF:-1,BT Sport 1 HD
 http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
 http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,BT Sport 3 HD
+#EXTINF:-1,BT Sport 3 HD
 http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,BT Sport ESPN
+#EXTINF:-1,BT Sport ESPN
 http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK4”, 
+
+#EXTINF:-1,5STAR 
+http://46.249.60.210:15099/play/a01q 
+#EXTINF:-1,Film4 +1 
+http://46.249.60.210:15099/play/a005 
+#EXTINF:-1,Channel 5 
+http://46.249.60.210:15099/play/a01n 
+#EXTINF:-1,e4 
+http://46.249.60.210:15099/play/a00h 
+#EXTINF:-1,ITV 
+http://46.249.60.210:15099/play/a00j 
+#EXTINF:-1,ITVi Stream 44 
+http://46.249.60.210:15099/play/a00n 
+#EXTINF:-1,c4 l 
+http://46.249.60.210:15099/play/a008 
+#EXTINF:-1,4Music 
+http://46.249.60.210:15099/play/a007 
+#EXTINF:-1,ITV2 
+http://46.249.60.210:15099/play/a00o 
+#EXTINF:-1,ITV4+1 
+http://46.249.60.210:15099/play/a00r 
+#EXTINF:-1,E4+1 
+http://46.249.60.210:15099/play/a00a 
+#EXTINF:-1,Channel 4 
+http://46.249.60.210:15099/play/a002 
+#EXTINF:-1,More4 +1 
+http://46.249.60.210:15099/play/a006 
+#EXTINF:-1,5 USA 
+http://46.249.60.210:15099/play/a01o 
+#EXTINF:-1,Channel 5+1 
+http://46.249.60.210:15099/play/a01t 
+#EXTINF:-1,More4 
+http://46.249.60.210:15099/play/a00f 
+#EXTINF:-1,ITV2+1 
+http://46.249.60.210:15099/play/a01j 
+#EXTINF:-1,BBC One Lon 
+http://46.249.60.210:15099/play/a00w 
+#EXTINF:-1,Channel 4 +1 
+http://46.249.60.210:15099/play/a00c 
+#EXTINF:-1,ITV Border 
+http://46.249.60.210:15099/play/a01d 
+#EXTINF:-1,ETV1 
+http://46.249.60.210:15099/play/a017 
+#EXTINF:-1,Spike 
+http://46.249.60.210:15099/play/a01u 
+#EXTINF:-1,JUS Punjabi 
+http://46.249.60.210:15099/play/a00y 
+#EXTINF:-1,Film4 
+http://46.249.60.210:15099/play/a004 
+#EXTINF:-1,ITV4 
+http://46.249.60.210:15099/play/a00p 
+#EXTINF:-1,&TV 
+http://46.249.60.210:15099/play/a00k 
+#EXTINF:-1,5 USA +1 
+http://46.249.60.210:15099/play/a01p 
+#EXTINF:-1,ITV +1 
+http://46.249.60.210:15099/play/a00l 
+#EXTINF:-1,BBC Two Eng 
+http://46.249.60.210:15099/play/a00x 
+#EXTINF:-1,ITVBe 
+http://46.249.60.210:15099/play/a00u 
+#EXTINF:-1,5STAR +1 
+http://46.249.60.210:15099/play/a01s 
+#EXTINF:-1,My5 
+http://46.249.60.210:15099/play/a01r 
+#EXTINF:-1,BBC RB1 
+http://46.249.60.210:15099/play/a013 
+#EXTINF:-1,ITVBe+1 
+http://46.249.60.210:15099/play/a01c
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1733,10 +2367,236 @@ mms://100automoto.tv/channel_porsche
 
 
 
-
-
-
 #EXTINF:4 group-title=”Bulgaria2”,
+
+#EXTINF:-1,Comedy Central
+http://193.8.246.202:8800/play/a01k
+#EXTINF:-1,BiT
+http://193.8.246.202:8800/play/a00p
+#EXTINF:-1,F+
+http://193.8.246.202:8800/play/a00l
+#EXTINF:-1,TV 1
+http://193.8.246.202:8800/play/a02w
+#EXTINF:-1,EKids
+http://193.8.246.202:8800/play/a01n
+#EXTINF:-1,Viasat Nature
+http://193.8.246.202:8800/play/a021
+#EXTINF:-1,HBO 3
+http://193.8.246.202:8800/play/a01s
+#EXTINF:-1,Fox Crime
+http://193.8.246.202:8800/play/a015
+#EXTINF:-1,Planeta HD
+http://193.8.246.202:8800/play/a02s
+#EXTINF:-1,Nova
+http://193.8.246.202:8800/play/a01c
+#EXTINF:-1,Fix & Foxi
+http://193.8.246.202:8800/play/a02l
+#EXTINF:-1,Travel Channel
+http://193.8.246.202:8800/play/a01z
+#EXTINF:-1,BG Dnes
+http://193.8.246.202:8800/play/a025
+#EXTINF:-1,Boomerang
+http://193.8.246.202:8800/play/a02f
+#EXTINF:-1,Hobby TV
+http://193.8.246.202:8800/play/a019
+#EXTINF:-1,24 Kitchen
+http://193.8.246.202:8800/play/a00m
+#EXTINF:-1,FLN
+http://193.8.246.202:8800/play/a014
+#EXTINF:-1,Crime & Investigation
+http://193.8.246.202:8800/play/a01v
+#EXTINF:-1,Planeta
+http://193.8.246.202:8800/play/a00h
+#EXTINF:-1,БНТ 2
+http://193.8.246.202:8800/play/a00q
+#EXTINF:-1,BNT HD
+http://193.8.246.202:8800/play/a00j
+#EXTINF:-1,AXN Black
+http://193.8.246.202:8800/play/a02a
+#EXTINF:-1,Fox Life
+http://193.8.246.202:8800/play/a016
+#EXTINF:-1,BNT World
+http://193.8.246.202:8800/play/a00r
+#EXTINF:-1,Ring
+http://193.8.246.202:8800/play/a01e
+#EXTINF:-1,FOX
+http://193.8.246.202:8800/play/a00g
+#EXTINF:-1,bTV Comedy
+http://193.8.246.202:8800/play/a00d
+#EXTINF:-1,Viasat History
+http://193.8.246.202:8800/play/a020
+#EXTINF:-1,Diema Family
+http://193.8.246.202:8800/play/a00w
+#EXTINF:-1,Kanal 3
+http://193.8.246.202:8800/play/a01m
+#EXTINF:-1,Disney Channel
+http://193.8.246.202:8800/play/a00f
+#EXTINF:-1,AMC
+http://193.8.246.202:8800/play/a027
+#EXTINF:-1,AXN
+http://193.8.246.202:8800/play/a00o
+#EXTINF:-1,iConcerts
+http://193.8.246.202:8800/play/a033
+#EXTINF:-1,Planeta Folk
+http://193.8.246.202:8800/play/a02r
+#EXTINF:-1,Box TV
+http://193.8.246.202:8800/play/a02g
+#EXTINF:-1,Nickelodeon
+http://193.8.246.202:8800/play/a02p
+#EXTINF:-1,Film+
+http://193.8.246.202:8800/play/a013
+#EXTINF:-1,HBO
+http://193.8.246.202:8800/play/a01t
+#EXTINF:-1,TV Stara Zagora
+http://193.8.246.202:8800/play/a023
+#EXTINF:-1,MU Varna TV
+http://193.8.246.202:8800/play/a026
+#EXTINF:-1,bTV International
+http://193.8.246.202:8800/play/a02z
+#EXTINF:-1,Tiankov TV
+http://193.8.246.202:8800/play/a01f
+#EXTINF:-1,Hobby Lov
+http://193.8.246.202:8800/play/a018
+#EXTINF:-1,БНТ 1
+http://193.8.246.202:8800/play/a00i
+#EXTINF:-1,VTV
+http://193.8.246.202:8800/play/a02y
+#EXTINF:-1,Viasat Explore
+http://193.8.246.202:8800/play/a02x
+#EXTINF:-1,Agro TV
+http://193.8.246.202:8800/play/a028
+#EXTINF:-1,The Voice
+http://193.8.246.202:8800/play/a02v
+#EXTINF:-1,Родина Тв
+http://193.8.246.202:8800/play/a02t
+#EXTINF:-1,TV+
+http://193.8.246.202:8800/play/a00k
+#EXTINF:-1,Nick Jr.
+http://193.8.246.202:8800/play/a02q
+#EXTINF:-1,Fen Folk
+http://193.8.246.202:8800/play/a01l
+#EXTINF:-1,Nat Geo WILD
+http://193.8.246.202:8800/play/a02o
+#EXTINF:-1,Moviestar
+http://193.8.246.202:8800/play/a02n
+#EXTINF:-1,Discovery Channel
+http://193.8.246.202:8800/play/a00z
+#EXTINF:-1,БНП Тв
+http://193.8.246.202:8800/play/a02e
+#EXTINF:-1,bTV +2
+http://193.8.246.202:8800/play/a031
+#EXTINF:-1,Fen TV
+http://193.8.246.202:8800/play/a02k
+#EXTINF:-1,TLC
+http://193.8.246.202:8800/play/a01g
+#EXTINF:-1,Evrokom
+http://193.8.246.202:8800/play/a024
+#EXTINF:-1,Diema Sport
+http://193.8.246.202:8800/play/a00x
+#EXTINF:-1,DSTV
+http://193.8.246.202:8800/play/a02j
+#EXTINF:-1,bTV Cinema
+http://193.8.246.202:8800/play/a00c
+#EXTINF:-1,Discovery Science
+http://193.8.246.202:8800/play/a02i
+#EXTINF:-1,Disney Jr.
+http://193.8.246.202:8800/play/a010
+#EXTINF:-1,Da Vinci Learning
+http://193.8.246.202:8800/play/a02h
+#EXTINF:-1,The World
+http://193.8.246.202:8800/play/a032
+#EXTINF:-1,ID Xtra
+http://193.8.246.202:8800/play/a01w
+#EXTINF:-1,СКАТ Тв
+http://193.8.246.202:8800/play/a02u
+#EXTINF:-1,BG Music Channel
+http://193.8.246.202:8800/play/a02d
+#EXTINF:-1,Balkanika Music
+http://193.8.246.202:8800/play/a02c
+#EXTINF:-1,Animal Planet
+http://193.8.246.202:8800/play/a00n
+#EXTINF:-1,Nova Sport
+http://193.8.246.202:8800/play/a01d
+#EXTINF:-1,AXN White
+http://193.8.246.202:8800/play/a02b
+#EXTINF:-1,Alfa TV
+http://193.8.246.202:8800/play/a029
+#EXTINF:-1,VTK
+http://193.8.246.202:8800/play/a022
+#EXTINF:-1,bTV +1
+http://193.8.246.202:8800/play/a030
+#EXTINF:-1,Diema
+http://193.8.246.202:8800/play/a00v
+#EXTINF:-1,Eurosport 2
+http://193.8.246.202:8800/play/a012
+#EXTINF:-1,bTV Lady
+http://193.8.246.202:8800/play/a00e
+#EXTINF:-1,Folklor TV
+http://193.8.246.202:8800/play/a02m
+#EXTINF:-1,Cinema+
+http://193.8.246.202:8800/play/a01j
+#EXTINF:-1,History Channel
+http://193.8.246.202:8800/play/a017
+#EXTINF:-1,Bulgaria On Air
+http://193.8.246.202:8800/play/a00t
+#EXTINF:-1,Eurosport 1
+http://193.8.246.202:8800/play/a011
+#EXTINF:-1,TV 1000
+http://193.8.246.202:8800/play/a01y
+#EXTINF:-1,bTV Action
+http://193.8.246.202:8800/play/a00s
+#EXTINF:-1,Cinemax
+http://193.8.246.202:8800/play/a01o
+#EXTINF:-1,National Geographic Channel
+http://193.8.246.202:8800/play/a01b
+#EXTINF:-1,Kino Nova
+http://193.8.246.202:8800/play/a01a
+#EXTINF:-1,TV Evropa
+http://193.8.246.202:8800/play/a01h
+#EXTINF:-1,Filmbox Extra
+http://193.8.246.202:8800/play/a01x
+#EXTINF:-1,M-Tel Sport 2
+http://193.8.246.202:8800/play/a01r
+#EXTINF:-1,HBO 2
+http://193.8.246.202:8800/play/a01u
+#EXTINF:-1,Diema Sport 2
+http://193.8.246.202:8800/play/a00y
+#EXTINF:-1,M-Tel Sport 1
+http://193.8.246.202:8800/play/a01q
+#EXTINF:-1,Sport+
+http://193.8.246.202:8800/play/a01i
+#EXTINF:-1,Cinemax 2
+http://193.8.246.202:8800/play/a01p
+#EXTINF:-1,bTV
+http://193.8.246.202:8800/play/a00b
+#EXTINF:-1,Destination BG
+http://193.8.246.202:8800/play/a00u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:4 group-title=”Bulgaria3”,
 
 #EXTINF:-1,Sofia 
 http://46.99.139.139:8000/play/a0ac 
@@ -2432,6 +3292,290 @@ http://5.101.137.66:7051
 
 
 
+#EXTINF:7 group-title=”Germany3”,
+
+#EXTINF:0,RTL
+http://stream1.iptvsolution.net/live?channelId=152&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,PRO 7
+http://stream1.iptvsolution.net/live?channelId=151&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY HITS
+http://s01.iptvsolution.net/live?channelId=126&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY ACTION
+http://s01.iptvsolution.net/live?channelId=124&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY CINEMA
+http://s01.iptvsolution.net/live?channelId=125&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY COMEDY
+http://s01.iptvsolution.net/live?channelId=123&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY ATLANTIC
+http://s01.iptvsolution.net/live?channelId=127&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,SKY EMOTION
+http://s01.iptvsolution.net/live?channelId=128&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,DISCOVERY
+http://stream1.iptvsolution.net/live?channelId=135&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,NATIONAL GEO
+http://s01.iptvsolution.net/live?channelId=129&uid=4287&deviceMac=00:1A:79:2F:CE:56
+#EXTINF:0,NATIONAL GEO WILD
+http://s01.iptvsolution.net/live?channelId=130&uid=4287&deviceMac=00:1A:79:2F:CE:56
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:7 group-title=”Germany4”,
+
+#EXTINF:-1,RTL Regional NRW 
+http://46.249.60.210:50001/play/a05z 
+#EXTINF:-1,SUNDANCE 
+http://46.249.60.210:50001/play/a04u 
+#EXTINF:-1,kanal0 
+http://46.249.60.210:50001/play/a03k 
+#EXTINF:-1,NICK JR 
+http://46.249.60.210:50001/play/a04i 
+#EXTINF:-1,GOL 
+http://46.249.60.210:50001/play/a01p 
+#EXTINF:-1,Pro7 MAXX 
+http://46.249.60.210:50001/play/a06f 
+#EXTINF:-1,MEZZO 
+http://46.249.60.210:50001/play/a04k 
+#EXTINF:-1,M. SERIESXTRA 
+http://46.249.60.210:50001/play/a02r 
+#EXTINF:-1,ARAGON TV 
+http://46.249.60.210:50001/play/a03o 
+#EXTINF:-1,KiKA 
+http://46.249.60.210:50001/play/a06m 
+#EXTINF:-1,CALLE 13 
+http://46.249.60.210:50001/play/a021 
+#EXTINF:-1,M. Cine Espa?ol 
+http://46.249.60.210:50001/play/a035 
+#EXTINF:-1,HOLLYWOOD 
+http://46.249.60.210:50001/play/a02c 
+#EXTINF:-1,BOING 
+http://46.249.60.210:50001/play/a01k 
+#EXTINF:-1,TNT 
+http://46.249.60.210:50001/play/a02i 
+#EXTINF:-1,ZDF 
+http://46.249.60.210:50001/play/a06k 
+#EXTINF:-1,A&E 
+http://46.249.60.210:50001/play/a02z 
+#EXTINF:-1,SAT.1 Bayern 
+http://46.249.60.210:50001/play/a007 
+#EXTINF:-1,TCM 
+http://46.249.60.210:50001/play/a02o 
+#EXTINF:-1,CLAN TVE 
+http://46.249.60.210:50001/play/a029 
+#EXTINF:-1,VIAJAR 
+http://46.249.60.210:50001/play/a02q 
+#EXTINF:-1,SAT.1 NRW 
+http://46.249.60.210:50001/play/a008 
+#EXTINF:-1,kabel eins 
+http://46.249.60.210:50001/play/a06c 
+#EXTINF:-1,kabel eins Doku 
+http://46.249.60.210:50001/play/a009 
+#EXTINF:-1,M. DEP 1 
+http://46.249.60.210:50001/play/a020 
+#EXTINF:-1,LALIGATV BAR1 
+http://46.249.60.210:50001/play/a023 
+#EXTINF:-1,NAT GEO WILD 
+http://46.249.60.210:50001/play/a02j 
+#EXTINF:-1,R. MADRID TV 
+http://46.249.60.210:50001/play/a03r 
+#EXTINF:-1,NAT GEO WILD 
+http://46.249.60.210:50001/play/a05j 
+#EXTINF:-1,M. XTRA 
+http://46.249.60.210:50001/play/a02g 
+#EXTINF:-1,FDF 
+http://46.249.60.210:50001/play/a05g 
+#EXTINF:-1,FOX 
+http://46.249.60.210:50001/play/a03h 
+#EXTINF:-1,ANTENA 3 
+http://46.249.60.210:50001/play/a03t 
+#EXTINF:-1,CLASSICA 
+http://46.249.60.210:50001/play/a03s 
+#EXTINF:-1,EUROSPORT 2 
+http://46.249.60.210:50001/play/a03v 
+#EXTINF:-1,DISCOVERY 
+http://46.249.60.210:50001/play/a031 
+#EXTINF:-1,NOVA 
+http://46.249.60.210:50001/play/a03b 
+#EXTINF:-1,Pro7 MAXX 
+http://46.249.60.210:50001/play/a006 
+#EXTINF:-1,M. DCINE 
+http://46.249.60.210:50001/play/a03g 
+#EXTINF:-1,NEOX 
+http://46.249.60.210:50001/play/a03p 
+#EXTINF:-1,TELEDEPORTE 
+http://46.249.60.210:50001/play/a02s 
+#EXTINF:-1,COSMO 
+http://46.249.60.210:50001/play/a032 
+#EXTINF:-1,RTL FS 
+http://46.249.60.210:50001/play/a061 
+#EXTINF:-1,ProSieben 
+http://46.249.60.210:50001/play/a06b 
+#EXTINF:-1,ZDFinfo 
+http://46.249.60.210:50001/play/a06n 
+#EXTINF:-1,FOX NEWS 
+http://46.249.60.210:50001/play/a01h 
+#EXTINF:-1,N24 
+http://46.249.60.210:50001/play/a004 
+#EXTINF:-1,n-tv 
+http://46.249.60.210:50001/play/a068 
+#EXTINF:-1,AXN WHITE 
+http://46.249.60.210:50001/play/a03i 
+#EXTINF:-1,M. ACCI?N 
+http://46.249.60.210:50001/play/a03e 
+#EXTINF:-1,CANAL ODISEA 
+http://46.249.60.210:50001/play/a01v 
+#EXTINF:-1,COMEDY CENTRAL 
+http://46.249.60.210:50001/play/a02p 
+#EXTINF:-1,M. F.TBOL 
+http://46.249.60.210:50001/play/a01z 
+#EXTINF:-1,RTL Television 
+http://46.249.60.210:50001/play/a05y 
+#EXTINF:-1,SAT.1 
+http://46.249.60.210:50001/play/a06a 
+#EXTINF:-1,M. MOTOGP 
+http://46.249.60.210:50001/play/a037 
+#EXTINF:-1,CAZA Y PESCA 
+http://46.249.60.210:50001/play/a02y 
+#EXTINF:-1,SUPER RTL 
+http://46.249.60.210:50001/play/a064 
+#EXTINF:-1,kabel eins 
+http://46.249.60.210:50001/play/a003 
+#EXTINF:-1,IBERALIA TV 
+http://46.249.60.210:50001/play/a03c 
+#EXTINF:-1,LA SEXTA 
+http://46.249.60.210:50001/play/a02a 
+#EXTINF:-1,FDF 
+http://46.249.60.210:50001/play/a028 
+#EXTINF:-1,EUROSPORT 1 
+http://46.249.60.210:50001/play/a01n 
+#EXTINF:-1,RTL2 
+http://46.249.60.210:50001/play/a062 
+#EXTINF:-1,LA 1 
+http://46.249.60.210:50001/play/a05i 
+#EXTINF:-1,DISNEY JR 
+http://46.249.60.210:50001/play/a03d 
+#EXTINF:-1,HISTORIA 
+http://46.249.60.210:50001/play/a033 
+#EXTINF:-1,TELECINCO 
+http://46.249.60.210:50001/play/a02e 
+#EXTINF:-1,M. ESTRENOS 
+http://46.249.60.210:50001/play/a02l 
+#EXTINF:-1,NAT GEOGRAPH 
+http://46.249.60.210:50001/play/a01y 
+#EXTINF:-1,MTV ESPA?A 
+http://46.249.60.210:50001/play/a01o 
+#EXTINF:-1,RTL HB NDS 
+http://46.249.60.210:50001/play/a060 
+#EXTINF:-1,24 HORAS 
+http://46.249.60.210:50001/play/a036 
+#EXTINF:-1,kabel eins Doku 
+http://46.249.60.210:50001/play/a06i 
+#EXTINF:-1,DISNEY 😆 
+http://46.249.60.210:50001/play/a02x 
+#EXTINF:-1,M. GOLF 
+http://46.249.60.210:50001/play/a01u 
+#EXTINF:-1,CANAL SUR A. 
+http://46.249.60.210:50001/play/a02w 
+#EXTINF:-1,SYFY 
+http://46.249.60.210:50001/play/a025 
+#EXTINF:-1,CANAL PANDA 
+http://46.249.60.210:50001/play/a03q 
+#EXTINF:-1,ENERGY 
+http://46.249.60.210:50001/play/a01l 
+#EXTINF:-1,Nick/Spike 
+http://46.249.60.210:50001/play/a05v 
+#EXTINF:-1,SAT.1 
+http://46.249.60.210:50001/play/a001 
+#EXTINF:-1,CANAL DECASA 
+http://46.249.60.210:50001/play/a024 
+#EXTINF:-1,LA 2 
+http://46.249.60.210:50001/play/a02d 
+#EXTINF:-1,BAR.A TV 
+http://46.249.60.210:50001/play/a01m 
+#EXTINF:-1,N24 
+http://46.249.60.210:50001/play/a06d 
+#EXTINF:-1,M. SERIES 
+http://46.249.60.210:50001/play/a04h 
+#EXTINF:-1,CANAL COCINA 
+http://46.249.60.210:50001/play/a02t 
+#EXTINF:-1,BABY TV 
+http://46.249.60.210:50001/play/a01i 
+#EXTINF:-1,AXN 
+http://46.249.60.210:50001/play/a03j 
+#EXTINF:-1,Los40 
+http://46.249.60.210:50001/play/a02n 
+#EXTINF:-1,AMC 
+http://46.249.60.210:50001/play/a02u 
+#EXTINF:-1,RTLNITRO 
+http://46.249.60.210:50001/play/a066 
+#EXTINF:-1,3sat 
+http://46.249.60.210:50001/play/a06l 
+#EXTINF:-1,RTLplus 
+http://46.249.60.210:50001/play/a067 
+#EXTINF:-1,M. COMEDIA 
+http://46.249.60.210:50001/play/a03f 
+#EXTINF:-1,DIVINITY 
+http://46.249.60.210:50001/play/a01g 
+#EXTINF:-1,LTC 
+http://46.249.60.210:50001/play/a01j 
+#EXTINF:-1,SAT.1 NRW 
+http://46.249.60.210:50001/play/a06h 
+#EXTINF:-1,BEIN LALIGA1 
+http://46.249.60.210:50001/play/a026 
+#EXTINF:-1,CUATRO 
+http://46.249.60.210:50001/play/a02h 
+#EXTINF:-1,M.FORMULA1 
+http://46.249.60.210:50001/play/a01q 
+#EXTINF:-1,VOX 
+http://46.249.60.210:50001/play/a065 
+#EXTINF:-1,SAT.1 Bayern 
+http://46.249.60.210:50001/play/a06g 
+#EXTINF:-1,TOGGO plus 
+http://46.249.60.210:50001/play/a063 
+#EXTINF:-1,Nickelodeon 
+http://46.249.60.210:50001/play/a05m 
+#EXTINF:-1,SAT.1 Gold 
+http://46.249.60.210:50001/play/a06e 
+#EXTINF:-1,zdf_neo 
+http://46.249.60.210:50001/play/a06o 
+#EXTINF:-1,DISNEY CH. 
+http://46.249.60.210:50001/play/a02m 
+#EXTINF:-1,FOX LIFE 
+http://46.249.60.210:50001/play/a03a 
+#EXTINF:-1,PARAMOUNT 
+http://46.249.60.210:50001/play/a03m 
+#EXTINF:-1,CRIMEN+INVES 
+http://46.249.60.210:50001/play/a034
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:8 group-title=”Germany-LOOP_ONE”,
@@ -2545,20 +3689,98 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
 
-#EXTINF:8 group-title=”Spain2”,
+#EXTINF:8 group-title=”Spain2-Latino”,
 
+#EXTINF:-1,EURO NEWS  LATINO
+http://dns1.theplayersklub.host:2095/live/number1/number1/439.ts
+#EXTINF:-1,UNIVISION LATINO
+http://dns1.theplayersklub.host:2095/live/number1/number1/437.ts
+#EXTINF:-1,TELEMUNDO LATINO
+http://dns1.theplayersklub.host:2095/live/number1/number1/433.ts
+#EXTINF:-1,LEVANTE TV  LATINO
+http://dns1.theplayersklub.host:2095/live/number1/number1/432.ts
+#EXTINF:-1,UNIVERSAL LATINO
+http://dns1.theplayersklub.host:2095/live/number1/number1/445.ts
 #EXTINF:-1,SyFy Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1079.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1079.ts
 #EXTINF:-1,A&E Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1127.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1127.ts
 #EXTINF:-1,Animal Planet Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1126.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1126.ts
 #EXTINF:-1,AXN Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1125.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1125.ts
+#EXTINF:-1,Canal De Las Estrellas
+http://dns1.theplayersklub.host:2095/live/number1/number1/1124.ts
 #EXTINF:-1,Cartoon Network Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1123.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1123.ts
+#EXTINF:-1,Cinecanal
+http://dns1.theplayersklub.host:2095/live/number1/number1/1122.ts
+#EXTINF:-1,Comedy Central Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1121.ts
+#EXTINF:-1,De Pelicula
+http://dns1.theplayersklub.host:2095/live/number1/number1/1120.ts
+#EXTINF:-1,Discovery Civilization Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1118.ts
+#EXTINF:-1,Discovery en Español
+http://dns1.theplayersklub.host:2095/live/number1/number1/1119.ts
+#EXTINF:-1,Discovery H&H Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1117.ts
+#EXTINF:-1,Discovery Kids America Latina
+http://dns1.theplayersklub.host:2095/live/number1/number1/1116.ts
+#EXTINF:-1,Discovery TLC Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1114.ts
+#EXTINF:-1,Discovery Turbo Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1113.ts
+#EXTINF:-1,ESPN 2 Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1110.ts
+#EXTINF:-1,ESPN 3 Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1109.ts
+#EXTINF:-1,ESPN Deportes
+http://dns1.theplayersklub.host:2095/live/number1/number1/1108.ts
+#EXTINF:-1,ESPN Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1111.ts
+#EXTINF:-1,Fox 1 Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1106.ts
+#EXTINF:-1,Fox Action Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1105.ts
+#EXTINF:-1,Fox Cinema Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1104.ts
+#EXTINF:-1,Fox Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1107.ts
+#EXTINF:-1,Fox Movies Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1103.ts
+#EXTINF:-1,Fox Sports 2 Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1101.ts
+#EXTINF:-1,Fox Sports Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1102.ts
+#EXTINF:-1,Glitz
+http://dns1.theplayersklub.host:2095/live/number1/number1/1100.ts
+#EXTINF:-1,Golden Edge
+http://dns1.theplayersklub.host:2095/live/number1/number1/1098.ts
+#EXTINF:-1,Golden
+http://dns1.theplayersklub.host:2095/live/number1/number1/1099.ts
+#EXTINF:-1,Gourmet
+http://dns1.theplayersklub.host:2095/live/number1/number1/1097.ts
+#EXTINF:-1,History en Español
+http://dns1.theplayersklub.host:2095/live/number1/number1/1096.ts
+#EXTINF:-1,Investigation Discovery Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1095.ts
 #EXTINF:-1,NatGeo Wild Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1094.ts
+http://dns1.theplayersklub.host:2095/live/number1/number1/1094.ts
+#EXTINF:-1,Space Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1093.ts
+#EXTINF:-1,TNT Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1091.ts
+#EXTINF:-1,TNT Series Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1090.ts
+#EXTINF:-1,Tru TV Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1089.ts
+#EXTINF:-1,Unicable
+http://dns1.theplayersklub.host:2095/live/number1/number1/1088.ts
+#EXTINF:-1,Unimas
+http://dns1.theplayersklub.host:2095/live/number1/number1/1087.ts
+#EXTINF:-1,Warner Latinoamerica
+http://dns1.theplayersklub.host:2095/live/number1/number1/1085.ts
 
 
 
@@ -2582,137 +3804,6 @@ http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1
 http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
 
 
-
-#EXTINF:-1,LALIGATV BAR
-http://62.167.57.5:1001/play/a007
-#EXTINF:-1,BEIN MAX 2
-http://62.167.57.5:1001/play/a00b
-#EXTINF:-1,M.PartidazoHD
-http://62.167.57.5:1001/play/a008
-#EXTINF:-1,AXN HD
-http://62.167.57.5:1001/play/a005
-#EXTINF:-1,BEINLALIGA1
-http://62.167.57.5:1001/play/a002
-#EXTINF:-1,BEINLALIGA2
-http://62.167.57.5:1001/play/a004
-#EXTINF:-1,M.COMEDIA HD
-http://62.167.57.5:1001/play/a006
-#EXTINF:-1,BEIN MAX 1
-http://62.167.57.5:1001/play/a009
-#EXTINF:-1,LA 1 HD
-http://62.167.57.5:1001/play/a00a
-#EXTINF:-1,HOLLYWOODHD
-http://62.167.57.5:1002/play/a007
-#EXTINF:-1,M. DCINE HD
-http://62.167.57.5:1002/play/a006
-#EXTINF:-1,FOX HD
-http://62.167.57.5:1002/play/a004
-#EXTINF:-1,M. ACCI©N HD
-http://62.167.57.5:1002/play/a005
-#EXTINF:-1,M. F.TBOL HD
-http://62.167.57.5:1002/play/a002
-#EXTINF:-1,BEIN LALIGA
-http://62.167.57.5:1002/play/a008
-#EXTINF:-1,BEIN LALIGA
-http://62.167.57.5:1002/play/a003
-#EXTINF:-1,LA SEXTA HD
-http://62.167.57.5:1003/play/a008
-#EXTINF:-1,M.MOTOGPHD
-http://62.167.57.5:1003/play/a003
-#EXTINF:-1,AMC HD
-http://62.167.57.5:1003/play/a004
-#EXTINF:-1,ANTENA 3 HD
-http://62.167.57.5:1003/play/a005
-#EXTINF:-1,M.FORMULA1HD
-http://62.167.57.5:1003/play/a002
-#EXTINF:-1,TELECINCO HD
-http://62.167.57.5:1003/play/a007
-#EXTINF:-1,CUATRO HD
-http://62.167.57.5:1003/play/a006
-#EXTINF:-1,TCM HD
-http://62.167.57.5:1005/play/a004
-#EXTINF:-1,TNT HD
-http://62.167.57.5:1005/play/a005
-#EXTINF:-1,#0 HD
-http://62.167.57.5:1005/play/a008
-#EXTINF:-1,DISNEY CH HD
-http://62.167.57.5:1005/play/a007
-#EXTINF:-1,NG WILD HD
-http://62.167.57.5:1005/play/a006
-#EXTINF:-1,CAZAyPESCA HD
-http://62.167.57.5:1005/play/a009
-#EXTINF:-1,M. SERIES HD
-http://62.167.57.5:1005/play/a003
-#EXTINF:-1,M. GOLF HD
-http://62.167.57.5:1006/play/a005
-#EXTINF:-1,COSMO HD
-http://62.167.57.5:1006/play/a006
-#EXTINF:-1,BEIN SPORTS
-http://62.167.57.5:1006/play/a002
-#EXTINF:-1,M. SeriesXtraHD
-http://62.167.57.5:1006/play/a004
-#EXTINF:-1,COMEDYCENTRALHD
-http://62.167.57.5:1006/play/a007
-#EXTINF:-1,FOX LIFE HD
-http://62.167.57.5:1006/play/a003
-#EXTINF:-1,AXN WHITE HD
-http://62.167.57.5:1007/play/a007
-#EXTINF:-1,M. XTRA HD
-http://62.167.57.5:1007/play/a006
-#EXTINF:-1,M.ESTRENOSHD
-http://62.167.57.5:1007/play/a004
-#EXTINF:-1,SYFY HD
-http://62.167.57.5:1007/play/a002
-#EXTINF:-1,M. DEP 2 HD
-http://62.167.57.5:1007/play/a005
-#EXTINF:-1,VIAJAR HD
-http://62.167.57.5:1007/play/a003
-#EXTINF:-1,COSMO
-http://62.167.57.5:1008/play/a008
-#EXTINF:-1,CRIMEN+INVES
-http://62.167.57.5:1008/play/a00a
-#EXTINF:-1,A&E
-http://62.167.57.5:1008/play/a005
-#EXTINF:-1,NONSTOPEOPLE
-http://62.167.57.5:1008/play/a006
-#EXTINF:-1,HISTORIA
-http://62.167.57.5:1008/play/a009
-#EXTINF:-1,CAZA Y PESCA
-http://62.167.57.5:1008/play/a004
-#EXTINF:-1,DISCOVERY
-http://62.167.57.5:1008/play/a007
-#EXTINF:-1,M. MOTOGP
-http://62.167.57.5:1008/play/a00d
-#EXTINF:-1,24 HORAS
-http://62.167.57.5:1008/play/a00c
-#EXTINF:-1,M. Cine Espaæol
-http://62.167.57.5:1008/play/a00b
-#EXTINF:-1,DISNEY XD
-http://62.167.57.5:1008/play/a003
-#EXTINF:-1,CANAL SUR A.
-http://62.167.57.5:1008/play/a002
-#EXTINF:-1,FOX NEWS
-http://62.167.57.5:1009/play/a003
-#EXTINF:-1,ENERGY
-http://62.167.57.5:1009/play/a007
-#EXTINF:-1,BAR.A TV
-http://62.167.57.5:1009/play/a008
-#EXTINF:-1,DIVINITY
-http://62.167.57.5:1009/play/a002
-#EXTINF:-1,MTV ESPA¹A
-http://62.167.57.5:1009/play/a00a
-#EXTINF:-1,GOL
-http://62.167.57.5:1009/play/a00b
-#EXTINF:-1,EUROSPORT 1
-http://62.167.57.5:1009/play/a009
-#EXTINF:-1,M.FORMULA1
-http://62.167.57.5:1009/play/a00c
-#EXTINF:-1,BOING
-http://62.167.57.5:1009/play/a006
-#EXTINF:-1,LTC
-http://62.167.57.5:1009/play/a005
-#EXTINF:-1,BABY TV
-http://62.167.57.5:1009/play/a004
 
 
 
@@ -2792,152 +3883,6 @@ http://wse5.player.tv.br:1935/9157/9157/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”Latino/Spain-LOOP_ONE”,
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:-1,SP: La 1
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/482.ts
-#EXTINF:-1,SP: La 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
-#EXTINF:-1,SP: Antena 3
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/484.ts
-#EXTINF:-1,SP: Cuatro
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/485.ts
-#EXTINF:-1,SP: Telecino
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts
-#EXTINF:-1,SP: La Sexta
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts
-#EXTINF:-1,SP: Clan TVE
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
-#EXTINF:-1,SP: Nova
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts
-#EXTINF:-1,SP: Neox
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts
-#EXTINF:-1,SP: Canal Sur
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts
-#EXTINF:-1,SP: C+ Estrenos
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
-#EXTINF:-1,SP: C+ Xtra
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
-#EXTINF:-1,SP: C+ Accion HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
-#EXTINF:-1,SP:  C+ Comedia HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
-#EXTINF:-1,SP: C+ Dcine HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
-#EXTINF:-1,SP: Hollywood
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
-#EXTINF:-1,SP: TNT
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts
-#EXTINF:-1,SP: Tcm
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
-#EXTINF:-1,SP: C+ Series
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
-#EXTINF:-1,SP: C+ Series Xtra
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts
-#EXTINF:-1,SP: Fox HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts
-#EXTINF:-1,SP: Amc
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
-#EXTINF:-1,SP: Axn HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
-#EXTINF:-1,SP: Syfy
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
-#EXTINF:-1,SP: Calle 13
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/540.ts
-#EXTINF:-1,SP: Comedy Central
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
-#EXTINF:-1,SP: FDF
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts
-#EXTINF:-1,SP: Divinity
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts
-#EXTINF:-1,SP: Energy
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts
-#EXTINF:-1,SP: C+ Toros
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts
-#EXTINF:-1,SP: Ltc
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts
-#EXTINF:-1,SP: C+ Deportes
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts
-#EXTINF:-1,SP: C+ Deportes 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts
-#EXTINF:-1,SP: C+ Futbol HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/505.ts
-#EXTINF:-1,SP: C + Futbol
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts
-#EXTINF:-1,SP: Teledeporte
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts
-#EXTINF:-1,SP: Bein Sports
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/523.ts
-#EXTINF:-1,SP: Real Madrid TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts
-#EXTINF:-1,SP: Barca TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
-#EXTINF:-1,SP: Euro Sport 1
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts
-#EXTINF:-1,SP: Euro Sport 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
-#EXTINF:-1,SP: Moto GP
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts
-#EXTINF:-1,SP: C+ Golf
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
-#EXTINF:-1,SP: Canal Odisea
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
-#EXTINF:-1,SP: National Geographic
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
-#EXTINF:-1,SP: National Geographic Wild HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
-#EXTINF:-1,SP: Discovery
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
-#EXTINF:-1,SP: Historia
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
-#EXTINF:-1,SP: Canal Decasa
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
-#EXTINF:-1,SP: Caza Y Pesca
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
-#EXTINF:-1,SP: Viajar
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
-#EXTINF:-1,SP: Canal Cocina
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
-#EXTINF:-1,SP: Mtv Espana
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
-#EXTINF:-1,SP: Mezzo
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/487.ts
-#EXTINF:-1,SP: Classica
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts
-#EXTINF:-1,SP: Disney Channel
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts
-#EXTINF:-1,SP: Disney XD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
-#EXTINF:-1,SP: Boing
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts
-#EXTINF:-1,SP: Canal Panda
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
-#EXTINF:-1,SP: Baby TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
-#EXTINF:-1,SP: Canal 24 Horas
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts
-#EXTINF:-1,SP: 24 Horas
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts
-#EXTINF:-1,SP: Fox News
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts
-#EXTINF:-1,SP: TV International Europa
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts
-#EXTINF:-1,SP: C+ Liga
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
 
 
 
@@ -2950,8 +3895,7 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
 
 
 
-
-#EXTINF:8 group-title=”Latino/Spain2-LOOP_ONE”,
+#EXTINF:8 group-title=”Latino/Spain1-LOOP_ONE”,
 
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
 http://.....
@@ -3213,153 +4157,6 @@ http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
 
 
 
-
-#EXTINF:8 group-title=”Latino/Spain3-LOOP_ONE”,
-
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
-#EXTINF:-1 ,
-http://.....
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:-1,SP: La 1
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/482.ts
-#EXTINF:-1,SP: La 2
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/483.ts
-#EXTINF:-1,SP: Antena 3
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/484.ts
-#EXTINF:-1,SP: Cuatro
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/485.ts
-#EXTINF:-1,SP: Telecino
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/518.ts
-#EXTINF:-1,SP: La Sexta
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/539.ts
-#EXTINF:-1,SP: Clan TVE
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/545.ts
-#EXTINF:-1,SP: Nova
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1858.ts
-#EXTINF:-1,SP: Neox
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/527.ts
-#EXTINF:-1,SP: Canal Sur
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/542.ts
-#EXTINF:-1,SP: C+ Estrenos
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/509.ts
-#EXTINF:-1,SP: C+ Xtra
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/534.ts
-#EXTINF:-1,SP: C+ Accion HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/512.ts
-#EXTINF:-1,SP:  C+ Comedia HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/513.ts
-#EXTINF:-1,SP: C+ Dcine HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/511.ts
-#EXTINF:-1,SP: Hollywood
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/538.ts
-#EXTINF:-1,SP: TNT
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/520.ts
-#EXTINF:-1,SP: Tcm
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/517.ts
-#EXTINF:-1,SP: C+ Series
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/503.ts
-#EXTINF:-1,SP: C+ Series Xtra
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/514.ts
-#EXTINF:-1,SP: Fox HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/492.ts
-#EXTINF:-1,SP: Amc
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/500.ts
-#EXTINF:-1,SP: Axn HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/550.ts
-#EXTINF:-1,SP: Syfy
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/516.ts
-#EXTINF:-1,SP: Calle 13
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/540.ts
-#EXTINF:-1,SP: Comedy Central
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/528.ts
-#EXTINF:-1,SP: FDF
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/535.ts
-#EXTINF:-1,SP: Divinity
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/489.ts
-#EXTINF:-1,SP: Energy
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/490.ts
-#EXTINF:-1,SP: C+ Toros
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/501.ts
-#EXTINF:-1,SP: Ltc
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/491.ts
-#EXTINF:-1,SP: C+ Deportes
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/507.ts
-#EXTINF:-1,SP: C+ Deportes 2
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/508.ts
-#EXTINF:-1,SP: C+ Futbol HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/505.ts
-#EXTINF:-1,SP: C + Futbol
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/504.ts
-#EXTINF:-1,SP: Teledeporte
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/519.ts
-#EXTINF:-1,SP: Bein Sports
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts
-#EXTINF:-1,SP: Real Madrid TV
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/525.ts
-#EXTINF:-1,SP: Barca TV
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/524.ts
-#EXTINF:-1,SP: Euro Sport 1
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/529.ts
-#EXTINF:-1,SP: Euro Sport 2
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/530.ts
-#EXTINF:-1,SP: Moto GP
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/493.ts
-#EXTINF:-1,SP: C+ Golf
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/510.ts
-#EXTINF:-1,SP: Canal Odisea
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/541.ts
-#EXTINF:-1,SP: National Geographic
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/548.ts
-#EXTINF:-1,SP: National Geographic Wild HD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/547.ts
-#EXTINF:-1,SP: Discovery
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/532.ts
-#EXTINF:-1,SP: Historia
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/537.ts
-#EXTINF:-1,SP: Canal Decasa
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/496.ts
-#EXTINF:-1,SP: Caza Y Pesca
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/549.ts
-#EXTINF:-1,SP: Viajar
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/526.ts
-#EXTINF:-1,SP: Canal Cocina
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/495.ts
-#EXTINF:-1,SP: Mtv Espana
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/546.ts
-#EXTINF:-1,SP: Mezzo
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/487.ts
-#EXTINF:-1,SP: Classica
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/531.ts
-#EXTINF:-1,SP: Disney Channel
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/533.ts
-#EXTINF:-1,SP: Disney XD
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/488.ts
-#EXTINF:-1,SP: Boing
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/1446.ts
-#EXTINF:-1,SP: Canal Panda
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/486.ts
-#EXTINF:-1,SP: Baby TV
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/544.ts
-#EXTINF:-1,SP: Canal 24 Horas
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/494.ts
-#EXTINF:-1,SP: 24 Horas
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/498.ts
-#EXTINF:-1,SP: Fox News
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/536.ts
-#EXTINF:-1,SP: TV International Europa
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/521.ts
-#EXTINF:-1,SP: C+ Liga
-http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/506.ts
 
 
 
@@ -3719,7 +4516,158 @@ rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 
 #EXTINF:4 group-title=”Portugal2”,
 
-
+#EXTINF:-1,CaĿavision
+http://46.249.60.210:16000/play/a02s
+#EXTINF:-1,FTV
+http://46.249.60.210:16000/play/a02f
+#EXTINF:-1,ARTV
+http://46.249.60.210:16000/play/a00i
+#EXTINF:-1,MCS Lifestyle
+http://46.249.60.210:16000/play/a02t
+#EXTINF:-1,Jim Jam
+http://46.249.60.210:16000/play/a00m
+#EXTINF:-1,SIC Radical
+http://46.249.60.210:16000/play/a028
+#EXTINF:-1,A Bola TV
+http://46.249.60.210:16000/play/a01c
+#EXTINF:-1,MCM POP
+http://46.249.60.210:16000/play/a02p
+#EXTINF:-1,PFC
+http://46.249.60.210:16000/play/a02l
+#EXTINF:-1,RTP 2
+http://46.249.60.210:16000/play/a003
+#EXTINF:-1,Kombat Sport
+http://46.249.60.210:16000/play/a02v
+#EXTINF:-1,FOX Comedy
+http://46.249.60.210:16000/play/a02c
+#EXTINF:-1,TVCine 2
+http://46.249.60.210:16000/play/a00e
+#EXTINF:-1,RTP 1
+http://46.249.60.210:16000/play/a002
+#EXTINF:-1,Eurosport 2
+http://46.249.60.210:16000/play/a02o
+#EXTINF:-1,Playboy TV
+http://46.249.60.210:16000/play/a02n
+#EXTINF:-1,TVI
+http://46.249.60.210:16000/play/a01e
+#EXTINF:-1,Real Madrid TV
+http://46.249.60.210:16000/play/a00p
+#EXTINF:-1,Baby TV
+http://46.249.60.210:16000/play/a00c
+#EXTINF:-1,Disney Channel
+http://46.249.60.210:16000/play/a019
+#EXTINF:-1,BTV 1 HD
+http://46.249.60.210:16000/play/a03a
+#EXTINF:-1,AXN HD
+http://46.249.60.210:16000/play/a038
+#EXTINF:-1,E! Entertainment
+http://46.249.60.210:16000/play/a02e
+#EXTINF:-1,AMC
+http://46.249.60.210:16000/play/a00f
+#EXTINF:-1,Discovery Channel
+http://46.249.60.210:16000/play/a00z
+#EXTINF:-1,Globo Premium
+http://46.249.60.210:16000/play/a02m
+#EXTINF:-1,SPORT TV 4
+http://46.249.60.210:16000/play/a00l
+#EXTINF:-1,SPORT TV 1 HD
+http://46.249.60.210:16000/play/a034
+#EXTINF:-1,MCS Extreme
+http://46.249.60.210:16000/play/a00x
+#EXTINF:-1,FOX News
+http://46.249.60.210:16000/play/a011
+#EXTINF:-1,Histðria
+http://46.249.60.210:16000/play/a00b
+#EXTINF:-1,SIC
+http://46.249.60.210:16000/play/a00t
+#EXTINF:-1,Hollywood
+http://46.249.60.210:16000/play/a00d
+#EXTINF:-1,motorsport.tv
+http://46.249.60.210:16000/play/a00y
+#EXTINF:-1,Nat Geo Wild
+http://46.249.60.210:16000/play/a027
+#EXTINF:-1,Cartoon Network
+http://46.249.60.210:16000/play/a02a
+#EXTINF:-1,TVCine 4
+http://46.249.60.210:16000/play/a00n
+#EXTINF:-1,RTP .frica
+http://46.249.60.210:16000/play/a02g
+#EXTINF:-1,CNBC Europe
+http://46.249.60.210:16000/play/a02i
+#EXTINF:-1,SIC K
+http://46.249.60.210:16000/play/a00j
+#EXTINF:-1,National Geographic HD
+http://46.249.60.210:16000/play/a037
+#EXTINF:-1,TV FÆtima
+http://46.249.60.210:16000/play/a005
+#EXTINF:-1,Porto Canal
+http://46.249.60.210:16000/play/a029
+#EXTINF:-1,RTP Memðria
+http://46.249.60.210:16000/play/a02b
+#EXTINF:-1,SIC Caras
+http://46.249.60.210:16000/play/a02d
+#EXTINF:-1,FOX Life HD
+http://46.249.60.210:16000/play/a01i
+#EXTINF:-1,SPORT TV 2 HD
+http://46.249.60.210:16000/play/a035
+#EXTINF:-1,Canal Panda
+http://46.249.60.210:16000/play/a01l
+#EXTINF:-1,TVCine 3
+http://46.249.60.210:16000/play/a015
+#EXTINF:-1,SPORT TV 3
+http://46.249.60.210:16000/play/a012
+#EXTINF:-1,RTP Madeira
+http://46.249.60.210:16000/play/a00g
+#EXTINF:-1,Bloomberg
+http://46.249.60.210:16000/play/a02h
+#EXTINF:-1,SPORT TV 2
+http://46.249.60.210:16000/play/a00w
+#EXTINF:-1,TVCine 1
+http://46.249.60.210:16000/play/a014
+#EXTINF:-1,TVI FicĿªo
+http://46.249.60.210:16000/play/a01b
+#EXTINF:-1,TV Record
+http://46.249.60.210:16000/play/a004
+#EXTINF:-1,CBS Reality
+http://46.249.60.210:16000/play/a017
+#EXTINF:-1,Canal Q
+http://46.249.60.210:16000/play/a02j
+#EXTINF:-1,C-Music
+http://46.249.60.210:16000/play/a00q
+#EXTINF:-1,RTP 3
+http://46.249.60.210:16000/play/a006
+#EXTINF:-1,Odisseia
+http://46.249.60.210:16000/play/a010
+#EXTINF:-1,Hollywood HD
+http://46.249.60.210:16000/play/a02u
+#EXTINF:-1,NBA TV
+http://46.249.60.210:16000/play/a01g
+#EXTINF:-1,TVSØries
+http://46.249.60.210:16000/play/a016
+#EXTINF:-1,SPORT TV 1
+http://46.249.60.210:16000/play/a01f
+#EXTINF:-1,Syfy
+http://46.249.60.210:16000/play/a00v
+#EXTINF:-1,Venus
+http://46.249.60.210:16000/play/a013
+#EXTINF:-1,TV Galicia
+http://46.249.60.210:16000/play/a02k
+#EXTINF:-1,Cinemundo
+http://46.249.60.210:16000/play/a00a
+#EXTINF:-1,Trace TV
+http://46.249.60.210:16000/play/a01a
+#EXTINF:-1,SIC NotŦcias
+http://46.249.60.210:16000/play/a00u
+#EXTINF:-1,MTV Portugal
+http://46.249.60.210:16000/play/a00k
+#EXTINF:-1,SPORT TV 3 HD
+http://46.249.60.210:16000/play/a036
+#EXTINF:-1,RTP AĿores
+http://46.249.60.210:16000/play/a00h
+#EXTINF:-1,Eurosport 1
+http://46.249.60.210:16000/play/a009
+#EXTINF:-1,Afro Music
+http://46.249.60.210:16000/play/a018
 
 
 
@@ -3767,6 +4715,228 @@ http://.....
 http://.....
 
 
+#EXTINF:-1,RTP 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts
+#EXTINF:-1,RTP 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1402.ts
+#EXTINF:-1,SIC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.ts
+#EXTINF:-1,SIC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts
+#EXTINF:-1,TVI
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/891.ts
+#EXTINF:-1,TVI Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts
+#EXTINF:-1,RTP 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/882.ts
+#EXTINF:-1,RTP 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1454.ts
+#EXTINF:-1,RTP 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/886.ts
+#EXTINF:-1,RTP 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1444.ts
+#EXTINF:-1,TVI 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/877.ts
+#EXTINF:-1,TVI 24 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1443.ts
+#EXTINF:-1,SIC NOTICIAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/883.ts
+#EXTINF:-1,SIC NOTICIAS Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.ts
+#EXTINF:-1,CMTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.ts
+#EXTINF:-1,BTV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.ts
+#EXTINF:-1,BTV Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1442.ts
+#EXTINF:-1,BTV HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.ts
+#EXTINF:-1,SPORT TV 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.ts
+#EXTINF:-1,Sport TV 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.ts
+#EXTINF:-1,SPORT TV 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.ts
+#EXTINF:-1,SPORT TV 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.ts
+#EXTINF:-1,SPORT TV 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.ts
+#EXTINF:-1,SPORT TV 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.ts
+#EXTINF:-1,SPORT TV 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.ts
+#EXTINF:-1,SPORT TV 5
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.ts
+#EXTINF:-1,SPORT TV + HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.ts
+#EXTINF:-1,PORTO CANAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.ts
+#EXTINF:-1,SPORTING TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.ts
+#EXTINF:-1,AXN HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/857.ts
+#EXTINF:-1,AXN Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1456.ts
+#EXTINF:-1,AXN WHITE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1129.ts
+#EXTINF:-1,AMC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1096.ts
+#EXTINF:-1,AMC Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1453.ts
+#EXTINF:-1,AMC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/866.ts
+#EXTINF:-1,HOLLYWOOD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.ts
+#EXTINF:-1,HOLLYWOOD Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1083.ts
+#EXTINF:-1,FOX HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1081.ts
+#EXTINF:-1,FOX MOVIES
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.ts
+#EXTINF:-1,FOX MOVIES Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.ts
+#EXTINF:-1,TV CINE 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1084.ts
+#EXTINF:-1,TV CINE 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1085.ts
+#EXTINF:-1,TV CINE 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1452.ts
+#EXTINF:-1,TV CINE 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1086.ts
+#EXTINF:-1,TV CINE 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.ts
+#EXTINF:-1,TV CINE 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1087.ts
+#EXTINF:-1,TV CINE 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.ts
+#EXTINF:-1,TV CINE 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1303.ts
+#EXTINF:-1,TV CINE 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.ts
+#EXTINF:-1,TV CINE 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1304.ts
+#EXTINF:-1,TV SERIES HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1526.ts
+#EXTINF:-1,CINEMUNDO
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1527.ts
+#EXTINF:-1,SYFY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1090.ts
+#EXTINF:-1,SYFY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.ts
+#EXTINF:-1,CINEMUNDO HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.ts
+#EXTINF:-1,MOV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.ts
+#EXTINF:-1,TVI FICCÃO
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts
+#EXTINF:-1,TVI REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.ts
+#EXTINF:-1,SIC MULHER
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.ts
+#EXTINF:-1,SIC RADICAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1092.ts
+#EXTINF:-1,SIC CARAS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1524.ts
+#EXTINF:-1,RTP MEMORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1093.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/878.ts
+#EXTINF:-1,FRANCE 24
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/862.ts
+#EXTINF:-1,CNN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/856.ts
+#EXTINF:-1,KOMBAT SPORT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.ts
+#EXTINF:-1,MOTORVISION HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.ts
+#EXTINF:-1,EUROSPORT 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.ts
+#EXTINF:-1,A BOLA TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/889.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.ts
+#EXTINF:-1,ODISSEIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.ts
+#EXTINF:-1,ODISSEIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1440.ts
+#EXTINF:-1,CANAL HISTORIA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.ts
+#EXTINF:-1,CANAL HISTORIA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1457.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/869.ts
+#EXTINF:-1,DISCOVERY CHANNEL Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.ts
+#EXTINF:-1,CAÇAVISION
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.ts
+#EXTINF:-1,CAÇA E PESCA 
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.ts
+#EXTINF:-1,TOROS TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.ts
+#EXTINF:-1,TRACE URBAN
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.ts
+#EXTINF:-1,AXN BLACK HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1522.ts
+#EXTINF:-1,FOX CRIME
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1080.ts
+#EXTINF:-1,FOX COMEDY HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1079.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/881.ts
+#EXTINF:-1,CBS REALITY
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1525.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1082.ts
+#EXTINF:-1,TLC
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1068.ts
+#EXTINF:-1,CANAL Q
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1101.ts
+#EXTINF:-1,A&E
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1095.ts
+#EXTINF:-1,VH1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1062.ts
+#EXTINF:-1,MTV PORTUGAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/871.ts
+#EXTINF:-1,MTV DANCE
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1076.ts
+#EXTINF:-1,SIC K
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1091.ts
+#EXTINF:-1,CANAL PANDA
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/884.ts
+#EXTINF:-1,CANAL PANDA Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1436.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1291.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/860.ts
+#EXTINF:-1,NICKELODEON
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1078.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1102.ts
+#EXTINF:-1,JIM JAM
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1300.ts
+#EXTINF:-1,PANDA BIGGS
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1139.ts
 
 
 
@@ -3904,9 +5074,220 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 
 
+#EXTINF:8 group-title=”Serbia”,
 
-
-
+#EXTINF:-1,ATV 
+http://185.152.65.130:8080/atv/mpegts 
+#EXTINF:-1,KanalD 
+http://185.152.65.130:8080/kanald/mpegts 
+#EXTINF:-1,TRT1 
+http://185.152.65.130:8080/trt1/mpegts 
+#EXTINF:-1,VIVA 
+http://185.152.65.130:8080/viva/mpegts 
+#EXTINF:-1,FOX 
+http://185.152.65.130:8080/fox/mpegts 
+#EXTINF:-1,FOXlife 
+http://185.152.65.130:8080/foxlife/mpegts 
+#EXTINF:-1,MTV 
+http://185.152.65.130:8080/mtv/mpegts 
+#EXTINF:-1,PrvaPlus 
+http://185.152.65.130:8080/prvaplus/mpegts 
+#EXTINF:-1,RTRS 
+http://185.152.65.130:8080/rtrs/mpegts 
+#EXTINF:-1,RTS1 
+http://185.152.65.130:8080/rts1/mpegts 
+#EXTINF:-1,PINK3 
+http://185.152.65.130:8080/pink3/mpegts 
+#EXTINF:-1,PINKKids 
+http://185.152.65.130:8080/pinkkids/mpegts 
+#EXTINF:-1,PinkReality 
+http://185.152.65.130:8080/pinkreality/mpegts 
+#EXTINF:-1,SK2 
+http://185.152.65.130:8080/sk2/mpegts 
+#EXTINF:-1,PinkAction 
+http://185.152.65.130:8080/pinkaction/mpegts 
+#EXTINF:-1,PinkComedy 
+http://185.152.65.130:8080/pinkcomedy/mpegts 
+#EXTINF:-1,PinkRomance 
+http://185.152.65.130:8080/pinkromance/mpegts 
+#EXTINF:-1,PinkSoar 
+http://185.152.65.130:8080/pinksoap/mpegts 
+#EXTINF:-1,PinkThriller 
+http://185.152.65.130:8080/pinkthriller/mpegts 
+#EXTINF:-1,Cufo 
+http://185.152.65.130:8080/cufo/mpegts 
+#EXTINF:-1,EraTV 
+http://185.152.65.130:8080/eratv/mpegts 
+#EXTINF:-1,FOXCrime 
+http://185.152.65.130:8080/foxcrime/mpegts 
+#EXTINF:-1,KTV 
+http://185.152.65.130:8080/ktv/mpegts 
+#EXTINF:-1,NEWS24 
+http://185.152.65.130:8080/news24/mpegts 
+#EXTINF:-1,TOPChannelHD 
+http://185.152.65.130:8080/topchannelhd/mpegts 
+#EXTINF:-1,MyMusic 
+http://185.152.65.130:8080/mymusic/mpegts 
+#EXTINF:-1,TringHistory 
+http://185.152.65.130:8080/tringhistory/mpegts 
+#EXTINF:-1,TringPlanet 
+http://185.152.65.130:8080/tringplanet/mpegts 
+#EXTINF:-1,TringWorld 
+http://185.152.65.130:8080/tringworld/mpegts 
+#EXTINF:-1,JollyHD 
+http://185.152.65.130:8080/jollyhd/mpegts 
+#EXTINF:-1,TringComedy 
+http://185.152.65.130:8080/tringcomedy/mpegts 
+#EXTINF:-1,TringFantasy 
+http://185.152.65.130:8080/tringfantasy/mpegts 
+#EXTINF:-1,TringLife 
+http://185.152.65.130:8080/tringlife/mpegts 
+#EXTINF:-1,TringMax 
+http://185.152.65.130:8080/tringmax/mpegts 
+#EXTINF:-1,TringShqip 
+http://185.152.65.130:8080/tringshqip/mpegts 
+#EXTINF:-1,TringSuper 
+http://185.152.65.130:8080/tringsuper/mpegts 
+#EXTINF:-1,HRT3 
+http://185.152.65.130:8080/hrt3/mpegts 
+#EXTINF:-1,HRT4 
+http://185.152.65.130:8080/hrt4/mpegts 
+#EXTINF:-1,MiniMax 
+http://185.152.65.130:8080/minimax/mpegts 
+#EXTINF:-1,CMC 
+http://185.152.65.130:8080/cmc/mpegts 
+#EXTINF:-1,HayatPLUS 
+http://185.152.65.130:8080/hayatplus/mpegts 
+#EXTINF:-1,HayatFOLK 
+http://185.152.65.130:8080/hayatfolk/mpegts 
+#EXTINF:-1,BNmusic 
+http://185.152.65.130:8080/bnmusic/mpegts 
+#EXTINF:-1,HayatMusic 
+http://185.152.65.130:8080/hayatmusic/mpegts 
+#EXTINF:-1,B1BiH 
+http://185.152.65.130:8080/n1bih/mpegts 
+#EXTINF:-1,TV1 
+http://185.152.65.130:8080/tv1/mpegts 
+#EXTINF:-1,Sitel3 
+http://185.152.65.130:8080/sitel3/mpegts 
+#EXTINF:-1,Telma 
+http://185.152.65.130:8080/telma/mpegts 
+#EXTINF:-1,RTCG 
+http://185.152.65.130:8080/rtcg/mpegts 
+#EXTINF:-1,SAT1 
+http://185.152.65.130:8080/sat1/mpegts 
+#EXTINF:-1,ZDF 
+http://185.152.65.130:8080/zdf/mpegts 
+#EXTINF:-1,EuroSport1 
+http://185.152.65.130:8080/eurosport1/mpegts 
+#EXTINF:-1,OTV 
+http://185.152.65.130:8080/otv/mpegts 
+#EXTINF:-1,PeaceTV 
+http://185.152.65.130:8080/peacetv/mpegts 
+#EXTINF:-1,BNsat 
+http://185.152.65.130:8080/bnsat/mpegts 
+#EXTINF:-1,PinkHoror 
+http://185.152.65.130:8080/pinkhoror/mpegts 
+#EXTINF:-1,Kabel1 
+http://185.152.65.130:8080/kabel1/mpegts 
+#EXTINF:-1,RTL2DE 
+http://185.152.65.130:8080/rtl2de/mpegts 
+#EXTINF:-1,KCN3 
+http://185.152.65.130:8080/kcn3/mpegts 
+#EXTINF:-1,PinkHits2 
+http://185.152.65.130:8080/pinkhits2/mpegts 
+#EXTINF:-1,PinkCrime 
+http://185.152.65.130:8080/pinkcrime/mpegts 
+#EXTINF:-1,Arena1 
+http://185.152.65.130:8080/arena1/mpegts 
+#EXTINF:-1,Arena2 
+http://185.152.65.130:8080/arena2/mpegts 
+#EXTINF:-1,Arena3 
+http://185.152.65.130:8080/arena3/mpegts 
+#EXTINF:-1,Arena4 
+http://185.152.65.130:8080/arena4/mpegts 
+#EXTINF:-1,PinkRoll 
+http://185.152.65.130:8080/pinkroll/mpegts 
+#EXTINF:-1,SOS 
+http://185.152.65.130:8080/sos/mpegts 
+#EXTINF:-1,RTSSAT 
+http://185.152.65.130:8080/rtssat/mpegts 
+#EXTINF:-1,Pro7 
+http://185.152.65.130:8080/pro7/mpegts 
+#EXTINF:-1,TVT 
+http://185.152.65.130:8080/tvt/mpegts 
+#EXTINF:-1,Filmnje 
+http://185.152.65.130:8080/filmnje/mpegts 
+#EXTINF:-1,Hits 
+http://185.152.65.130:8080/hits/mpegts 
+#EXTINF:-1,Komedi 
+http://185.152.65.130:8080/komedi/mpegts 
+#EXTINF:-1,RAI2 
+http://185.152.65.130:8080/rai2/mpegts 
+#EXTINF:-1,Hits1 
+http://185.152.65.130:8080/hits1/mpegts 
+#EXTINF:-1,Thriller 
+http://185.152.65.130:8080/thriller/mpegts 
+#EXTINF:-1,PlusHD 
+http://185.152.65.130:8080/plushd/mpegts 
+#EXTINF:-1,Junior 
+http://185.152.65.130:8080/junior/mpegts 
+#EXTINF:-1,Natyra 
+http://185.152.65.130:8080/natyra/mpegts 
+#EXTINF:-1,Shkence 
+http://185.152.65.130:8080/shkence/mpegts 
+#EXTINF:-1,TVKlandD 
+http://185.152.65.130:8080/tvklanhd/mpegts 
+#EXTINF:-1,MRT1 
+http://185.152.65.130:8080/mrt1/mpegts 
+#EXTINF:-1,TOPSound 
+http://185.152.65.130:8080/topsound/mpegts 
+#EXTINF:-1,Duga 
+http://185.152.65.130:8080/duga/mpegts 
+#EXTINF:-1,Palma 
+http://185.152.65.130:8080/palma/mpegts 
+#EXTINF:-1,B92info 
+http://185.152.65.130:8080/b92info/mpegts 
+#EXTINF:-1,AlfaMK 
+http://185.152.65.130:8080/alfamk/mpegts 
+#EXTINF:-1,24Vesti 
+http://185.152.65.130:8080/24vesti/mpegts 
+#EXTINF:-1,Disney 
+http://185.152.65.130:8080/disney/mpegts 
+#EXTINF:-1,Vojvodina1 
+http://185.152.65.130:8080/vojvodina1/mpegts 
+#EXTINF:-1,KCN2 
+http://185.152.65.130:8080/kcn2/mpegts 
+#EXTINF:-1,DMsat 
+http://185.152.65.130:8080/dasmatv/mpegts 
+#EXTINF:-1,RTK2 
+http://185.152.65.130:8080/rtk2/mpegts 
+#EXTINF:-1,RTK3 
+http://185.152.65.130:8080/rtk3/mpegts 
+#EXTINF:-1,RTK5 
+http://185.152.65.130:8080/rtk4/mpegts 
+#EXTINF:-1,RTV21 
+http://185.152.65.130:8080/rtv21popullore/mpegts 
+#EXTINF:-1,RTVIslam 
+http://185.152.65.130:8080/rtvislam/mpegts 
+#EXTINF:-1,TIPTV 
+http://185.152.65.130:8080/tiptv/mpegts 
+#EXTINF:-1,Smile 
+http://185.152.65.130:8080/smile/mpegts 
+#EXTINF:-1,Gold 
+http://185.152.65.130:8080/gold/mpegts 
+#EXTINF:-1,arena5 
+http://185.152.65.130:8080/arena5/mpegts 
+#EXTINF:-1,arena5 
+http://185.59.220.134:8080/arena5/mpegts 
+#EXTINF:-1,pinkhits2 
+http://185.152.65.129:8080/pinkhits2/mpegts 
+#EXTINF:-1,pinkhits2 
+http://185.152.65.131:8080/pinkhits2/mpegts 
+#EXTINF:-1,pinkhits2 
+http://185.152.65.132:8080/pinkhits2/mpegts 
+#EXTINF:-1,pinkhits2 
+http://185.152.65.133:8080/pinkhits2/mpegts
 
 
 
@@ -4778,260 +6159,7 @@ http://174.36.155.34:4000/live/287/287.m3u8
 
 
 
-#EXTINF:10 group-title=”Czech2”,
 
-#EXTINF:-1,Czech: HBO
-http://pvr.rete.netforms.cz/master_180.m3u8
-#EXTINF:-1,Czech: arena sport1
-http://pvr.rete.netforms.cz/master_386.m3u8
-#EXTINF:-1,Czech: arena sport2
-http://pvr.rete.netforms.cz/master_388.m3u8
-#EXTINF:-1,CT 1 HD
-http://pvr.rete.netforms.cz/master_191.m3u8
-#EXTINF:-1,CT 2 HD
-http://pvr.rete.netforms.cz/master_338.m3u8
-#EXTINF:-1,CT SPORT HD
-http://pvr.rete.netforms.cz/hls/CT4HD_low.m3u8
-#EXTINF:-1,CT :D/ART
-http://pvr.rete.netforms.cz/master_374.m3u8
-#EXTINF:-1,CT 24
-http://pvr.rete.netforms.cz/master_4.m3u8
-#EXTINF:-1,NOVA HD
-http://pvr.rete.netforms.cz/hls/NovaHD_low.m3u8
-#EXTINF:-1,NOVA 2 HD
-http://pvr.rete.netforms.cz/hls/SmichovHD_low.m3u8
-#EXTINF:-1,NOVA ACTION HD
-http://pvr.rete.netforms.cz/hls/Nova_Fanda_HD_low.m3u8
-#EXTINF:-1,NOVA CINEMA HD
-http://pvr.rete.netforms.cz/hls/Nova_Cinema_HD_low.m3u8
-#EXTINF:-1,NOVA GOLD HD
-http://pvr.rete.netforms.cz/hls/TelkaHD_low.m3u8
-#EXTINF:-1,NOVA SPORT 1 HD
-http://pvr.rete.netforms.cz/master_72.m3u8
-#EXTINF:-1,NOVA SPORT 2 HD
-http://pvr.rete.netforms.cz/hls/NovaSport2HD_low.m3u8
-#EXTINF:-1,PRIMA HD
-http://pvr.rete.netforms.cz/hls/PrimaHD_low.m3u8
-#EXTINF:-1,PRIMA COOL HD
-http://pvr.rete.netforms.cz/master_355.m3u8
-#EXTINF:-1,PRIMA MAX HD
-http://pvr.rete.netforms.cz/hls/PrimaMaxHD_low.m3u8
-#EXTINF:-1,PRIMA LOVE HD
-http://pvr.rete.netforms.cz/hls/Prima_LOVE_HD_low.m3u8
-#EXTINF:-1,PRIMA ZOOM HD
-http://pvr.rete.netforms.cz/hls/Prima_ZOOM_HD_low.m3u8
-#EXTINF:-1,BARRANDOV HD
-http://pvr.rete.netforms.cz/hls/BarrandovHD_low.m3u8
-#EXTINF:-1,KINO BARRANDOV HD
-http://pvr.rete.netforms.cz/hls/KinoBarrandovHD_low.m3u8
-#EXTINF:-1,BARRANDOV PLUS HD
-http://pvr.rete.netforms.cz/hls/BarrandovPlusHD_low.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://pvr.rete.netforms.cz/hls/Discovery_low.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://pvr.rete.netforms.cz/master_25.m3u8
-#EXTINF:-1,DTX
-http://pvr.rete.netforms.cz/master_26.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://pvr.rete.netforms.cz/master_27.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://pvr.rete.netforms.cz/master_29.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://pvr.rete.netforms.cz/master_30.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://pvr.rete.netforms.cz/master_31.m3u8
-#EXTINF:-1,FISHING HUNTING
-http://pvr.rete.netforms.cz/master_32.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
-http://pvr.rete.netforms.cz/master_41.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://pvr.rete.netforms.cz/master_71.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://pvr.rete.netforms.cz/master_43.m3u8
-#EXTINF:-1,FILMBOX
-http://pvr.rete.netforms.cz/master_55.m3u8
-#EXTINF:-1,FILMBOX PLUS
-http://pvr.rete.netforms.cz/master_329.m3u8
-#EXTINF:-1,FILMBOX FAMILY
-http://pvr.rete.netforms.cz/master_328.m3u8
-#EXTINF:-1,FILMBOX PREMIUM
-http://pvr.rete.netforms.cz/master_56.m3u8
-#EXTINF:-1,FILMBOX EXTRA HD
-http://pvr.rete.netforms.cz/master_57.m3u8
-#EXTINF:-1,CESKOSLOVENSKO/FESTIVAL HD
-http://pvr.rete.netforms.cz/master_60.m3u8
-#EXTINF:-1,AXN
-http://pvr.rete.netforms.cz/master_64.m3u8
-#EXTINF:-1,AXN WHITE
-http://pvr.rete.netforms.cz/master_65.m3u8
-#EXTINF:-1,AXN BLACK
-http://pvr.rete.netforms.cz/master_66.m3u8
-#EXTINF:-1,HBO 1 HD
-http://pvr.rete.netforms.cz/hls/HBOHD_low.m3u8
-#EXTINF:-1,HBO 2 HD
-http://pvr.rete.netforms.cz/master_68.m3u8
-#EXTINF:-1,HBO 3 HD
-http://pvr.rete.netforms.cz/master_67.m3u8
-#EXTINF:-1,CINEMAX 1 HD
-http://pvr.rete.netforms.cz/master_73.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://pvr.rete.netforms.cz/master_74.m3u8
-#EXTINF:-1,AMC HD
-http://pvr.rete.netforms.cz/master_555.m3u8
-#EXTINF:-1,CS FILM
-http://pvr.rete.netforms.cz/master_75.m3u8
-#EXTINF:-1,TLC
-http://pvr.rete.netforms.cz/master_379.m3u8
-#EXTINF:-1,MNAM
-http://pvr.rete.netforms.cz/master_81.m3u8
-#EXTINF:-1,NICKELODEON
-http://pvr.rete.netforms.cz/master_174.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://pvr.rete.netforms.cz/master_175.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://pvr.rete.netforms.cz/hls/Disney_low.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://pvr.rete.netforms.cz/master_378.m3u8
-#EXTINF:-1,MINIMAX
-http://pvr.rete.netforms.cz/master_552.m3u8
-#EXTINF:-1,MEGAMAX
-http://pvr.rete.netforms.cz/master_553.m3u8
-#EXTINF:-1,BABY TV
-http://pvr.rete.netforms.cz/hls/BabyTV_low.m3u8
-#EXTINF:-1,STV 1
-http://pvr.rete.netforms.cz/master_169.m3u8
-#EXTINF:-1,STV 2
-http://pvr.rete.netforms.cz/master_13.m3u8
-#EXTINF:-1,MARKIZA INT. HD
-http://pvr.rete.netforms.cz/master_556.m3u8
-#EXTINF:-1,JOJ PLUS
-http://pvr.rete.netforms.cz/hls/JojPlus_low.m3u8
-#EXTINF:-1,JOJ FAMILY
-http://pvr.rete.netforms.cz/master_10.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD
-http://pvr.rete.netforms.cz/hls/SlovakSport1_low.m3u8
-#EXTINF:-1,SPORT 1
-http://pvr.rete.netforms.cz/master_497.m3u8
-#EXTINF:-1,SPORT 2 HD
-http://pvr.rete.netforms.cz/master_498.m3u8
-#EXTINF:-1,TA3
-http://pvr.rete.netforms.cz/master_184.m3u8
-#EXTINF:-1,RELAX
-http://pvr.rete.netforms.cz/master_354.m3u8
-#EXTINF:-1,OCKO TV
-http://pvr.rete.netforms.cz/master_18.m3u8
-#EXTINF:-1,OCKO GOLD
-http://pvr.rete.netforms.cz/master_353.m3u8
-#EXTINF:-1,SLAGR TV
-http://pvr.rete.netforms.cz/master_334.m3u8
-#EXTINF:-1,SLUSNEJ ROCK KANAL
-http://pvr.rete.netforms.cz/master_531.m3u8
-#EXTINF:-1,RETRO TV
-http://pvr.rete.netforms.cz/master_363.m3u8
-#EXTINF:-1,REBEL
-http://pvr.rete.netforms.cz/master_389.m3u8
-#EXTINF:-1,MTV
-http://pvr.rete.netforms.cz/master_19.m3u8
-#EXTINF:-1,DELUXE MUSIC
-http://pvr.rete.netforms.cz/master_392.m3u8
-#EXTINF:-1,360TUNE BOX HD
-http://pvr.rete.netforms.cz/master_367.m3u8
-#EXTINF:-1,TVP 1
-http://pvr.rete.netforms.cz/master_365.m3u8
-#EXTINF:-1,TVP 2
-http://pvr.rete.netforms.cz/master_366.m3u8
-#EXTINF:-1,TVP 3
-http://pvr.rete.netforms.cz/master_541.m3u8
-#EXTINF:-1,TVP INFO
-http://pvr.rete.netforms.cz/master_540.m3u8
-#EXTINF:-1,TVP HISTORIA
-http://pvr.rete.netforms.cz/master_539.m3u8
-#EXTINF:-1,TVP KULTURA
-http://pvr.rete.netforms.cz/master_337.m3u8
-#EXTINF:-1,TVP ROZRYWKA
-http://pvr.rete.netforms.cz/master_542.m3u8
-#EXTINF:-1,TVN
-http://pvr.rete.netforms.cz/master_549.m3u8
-#EXTINF:-1,TVN 7
-http://pvr.rete.netforms.cz/master_550.m3u8
-#EXTINF:-1,POLSAT
-http://pvr.rete.netforms.cz/master_543.m3u8
-#EXTINF:-1,SUPER POLSAT
-http://pvr.rete.netforms.cz/master_544.m3u8
-#EXTINF:-1,TV PULS
-http://pvr.rete.netforms.cz/master_545.m3u8
-#EXTINF:-1,TV PULS 2
-http://pvr.rete.netforms.cz/master_546.m3u8
-#EXTINF:-1,ATM ROZRYWKA
-http://pvr.rete.netforms.cz/master_547.m3u8
-#EXTINF:-1,PERVIY KANAL
-http://pvr.rete.netforms.cz/master_336.m3u8
-#EXTINF:-1,DW
-http://pvr.rete.netforms.cz/master_52.m3u8
-#EXTINF:-1,REGION TV
-http://pvr.rete.netforms.cz/master_362.m3u8
-#EXTINF:-1,TVS
-http://pvr.rete.netforms.cz/master_364.m3u8
-#EXTINF:-1,PRAHA TV
-http://pvr.rete.netforms.cz/master_528.m3u8
-#EXTINF:-1,SPORT 5
-http://pvr.rete.netforms.cz/master_44.m3u8
-#EXTINF:-1,KINO SVET
-http://pvr.rete.netforms.cz/master_381.m3u8
-#EXTINF:-1,NOE
-http://pvr.rete.netforms.cz/master_47.m3u8
-#EXTINF:-1,V1
-http://pvr.rete.netforms.cz/master_393.m3u8
-#EXTINF:-1,JTV
-http://pvr.rete.netforms.cz/master_530.m3u8
-#EXTINF:-1,PODA TV
-http://pvr.rete.netforms.cz/master_532.m3u8
-#EXTINF:-1,BTV
-http://pvr.rete.netforms.cz/master_535.m3u8
-#EXTINF:-1,ZDF
-http://pvr.rete.netforms.cz/master_536.m3u8
-#EXTINF:-1,ORF EINS
-http://pvr.rete.netforms.cz/master_189.m3u8
-#EXTINF:-1,ORF 2
-http://pvr.rete.netforms.cz/master_190.m3u8
-#EXTINF:-1,VTV 4
-http://pvr.rete.netforms.cz/master_538.m3u8
-#EXTINF:-1,ATV 2
-http://pvr.rete.netforms.cz/master_548.m3u8
-#EXTINF:-1,EURONEWS
-http://pvr.rete.netforms.cz/master_34.m3u8
-#EXTINF:-1,FRANCE 24
-http://pvr.rete.netforms.cz/master_39.m3u8
-#EXTINF:-1,CT 1
-http://pvr.rete.netforms.cz/master_1.m3u8
-#EXTINF:-1,CT 2
-http://pvr.rete.netforms.cz/master_2.m3u8
-#EXTINF:-1,CT SPORT
-http://pvr.rete.netforms.cz/master_3.m3u8
-#EXTINF:-1,NOVA
-http://pvr.rete.netforms.cz/master_5.m3u8
-#EXTINF:-1,NOVA 2
-http://pvr.rete.netforms.cz/master_333.m3u8
-#EXTINF:-1,NOVA CINEMA
-http://pvr.rete.netforms.cz/master_6.m3u8
-#EXTINF:-1,NOVA GOLD
-http://pvr.rete.netforms.cz/master_335.m3u8
-#EXTINF:-1,NOVA ACTION
-http://pvr.rete.netforms.cz/master_193.m3u8
-#EXTINF:-1,NOVA SPORT 1
-http://pvr.rete.netforms.cz/master_7.m3u8
-#EXTINF:-1,PRIMA
-http://pvr.rete.netforms.cz/master_8.m3u8
-#EXTINF:-1,PRIMA COOL
-http://pvr.rete.netforms.cz/master_9.m3u8
-#EXTINF:-1,PRIMA MAX
-http://pvr.rete.netforms.cz/master_527.m3u8
-#EXTINF:-1,PRIMA LOVE
-http://pvr.rete.netforms.cz/master_77.m3u8
-#EXTINF:-1,PRIMA ZOOM
-http://pvr.rete.netforms.cz/master_331.m3u8
-#EXTINF:-1,AMC
-http://pvr.rete.netforms.cz/master_554.m3u8
 
 
 
