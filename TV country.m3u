@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,13/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -482,11 +482,9 @@ http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1,Discovery Science 
 http://94.158.80.117:9000/play/ch_206_1 
-#EXTINF:-1,Animal Planet 
-http://149.62.176.220:8089/udp/239.100.2.2:3001
 #EXTINF:0,History 
 http://93.91.113.8:8080/Apple/History/.m3u8 
-#EXTINF:-1, History 
+#EXTINF:-1,History 
 http://93.91.113.8:9999/play/a06z 
 #EXTINF:0,JimJam 
 http://93.91.113.8:8080/Apple/JimJam/.m3u8 
@@ -699,6 +697,14 @@ http://s01.iptvsolution.net/live?channelId=131&uid=4287&deviceMac=00:1A:79:2F:CE
 http://s01.iptvsolution.net/live?channelId=133&uid=4287&deviceMac=00:1A:79:2F:CE:56
 
 
+#EXTINF:-1,BT Sport 1 HD
+http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
 
 
 
@@ -718,17 +724,28 @@ http://s01.iptvsolution.net/live?channelId=133&uid=4287&deviceMac=00:1A:79:2F:CE
 
 #EXTINF:3 group-title=”UK3”, 
 
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:DUAL
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,LANGUAGE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
 
 #EXTINF:-1,Discovery Science 
 http://94.158.80.117:9000/play/ch_206_1 
-#EXTINF:-1,Animal Planet 
-http://149.62.176.220:8089/udp/239.100.2.2:3001
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
 #EXTINF:0,History 
 http://93.91.113.8:8080/Apple/History/.m3u8 
 #EXTINF:-1, History 
 http://93.91.113.8:9999/play/a06z 
+#EXTINF:-1,History Channel
+http://193.8.246.202:8800/play/a017
 #EXTINF:0,JimJam 
 http://93.91.113.8:8080/Apple/JimJam/.m3u8 
 #EXTINF:-1, JimJam 
@@ -738,14 +755,16 @@ http://93.91.113.8:9999/play/a06l
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
 
-#EXTINF:-1,BT Sport 1 HD
-http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 3 HD
-http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://130.185.248.19:53337/play/a02c
+#EXTINF:-1,Disney Channel
+http://130.185.248.19:53337/play/a046
+#EXTINF:-1,Nat Geo Wild HD
+http://130.185.248.19:53337/play/a03c
+#EXTINF:-1,Animal Planet HU
+http://130.185.248.19:53337/play/a04e
+#EXTINF:-1,Discovery HD Showcase
+http://130.185.248.19:53337/play/a06g
 
 
 
@@ -1088,6 +1107,107 @@ http://81.196.0.126:80/digi24edge/digi24timislivehls/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:4 group-title=”Romania2”,
+
+#EXTINF:-1,TVH RO
+http://130.185.248.19:53337/play/a04c
+#EXTINF:-1,DIGI Sport 2 HD Romania
+http://130.185.248.19:53337/play/a035
+#EXTINF:-1,Filmbox Family HU CZ RO
+http://130.185.248.19:53337/play/a04r
+#EXTINF:-1,Acasa TV Romania
+http://130.185.248.19:53337/play/a02a
+#EXTINF:-1,Disney Channel RO
+http://130.185.248.19:53337/play/a046
+#EXTINF:-1,H!T Music RO
+http://130.185.248.19:53337/play/a05m
+#EXTINF:-1,Nat Geo Wild HD RO HU CZ
+http://130.185.248.19:53337/play/a03c
+#EXTINF:-1,TLC RO
+http://130.185.248.19:53337/play/TLC RO
+#EXTINF:-1,Boomerang Romania
+http://130.185.248.19:53337/play/a02c
+#EXTINF:-1,Mooz RO!
+http://130.185.248.19:53337/play/a06p
+#EXTINF:-1,b1 TV Romania
+http://130.185.248.19:53337/play/a02b
+#EXTINF:-1,Animal Planet HU CZ SK RO
+http://130.185.248.19:53337/play/a04e
+#EXTINF:-1,Etno TV RO
+http://130.185.248.19:53337/play/a05h
+#EXTINF:-1,Kanal D Romania
+http://130.185.248.19:53337/play/a02d
+#EXTINF:-1,Prima TV Romania
+http://130.185.248.19:53337/play/a02i
+#EXTINF:-1,U TV RO
+http://130.185.248.19:53337/play/a04d
+#EXTINF:-1,Digi Sport 1 RO
+http://130.185.248.19:53337/play/a05l
+#EXTINF:-1,Extreme Sports Channel HU CZ RO
+http://130.185.248.19:53337/play/a04g
+#EXTINF:-1,National Geographic RO
+http://130.185.248.19:53337/play/a047
+#EXTINF:-1,National TV Romania
+http://130.185.248.19:53337/play/a02e
+#EXTINF:-1,HBO 3 RO
+http://130.185.248.19:53337/play/a04a
+#EXTINF:-1,Romania TV
+http://130.185.248.19:53337/play/a05n
+#EXTINF:-1,Digi Sport 3 RO
+http://130.185.248.19:53337/play/a057
+#EXTINF:-1,Sport Ro Romania
+http://130.185.248.19:53337/play/a02h
+#EXTINF:-1,Disney Junior RO HU
+http://130.185.248.19:53337/play/a058
+#EXTINF:-1,Animal Planet HD RO HU CZ
+http://130.185.248.19:53337/play/a06f
+#EXTINF:-1,Pro Cinema Romania
+http://130.185.248.19:53337/play/a02f
+#EXTINF:-1,Digi Animal World RO HU
+http://130.185.248.19:53337/play/a05j
+#EXTINF:-1,Trinitas RO
+http://130.185.248.19:53337/play/a05g
+#EXTINF:-1,Taraf TV RO
+http://130.185.248.19:53337/play/a05f
+#EXTINF:-1,NG Wild RO
+http://130.185.248.19:53337/play/a05e
+#EXTINF:-1,Discovery HD Showcase RO HU CZ
+http://130.185.248.19:53337/play/a06g
+#EXTINF:-1,Music Channel RO
+http://130.185.248.19:53337/play/a05d
+#EXTINF:-1,Look Plus RO
+http://130.185.248.19:53337/play/a05b
+#EXTINF:-1,HBO 3 HU RO CZ
+http://130.185.248.19:53337/play/a05a
+#EXTINF:-1,Agro TV RO
+http://130.185.248.19:53337/play/a056
+#EXTINF:-1,Digi Film RO
+http://130.185.248.19:53337/play/a05k
+#EXTINF:-1,Realitatea TV RO
+http://130.185.248.19:53337/play/a04b
+#EXTINF:-1,HBO 2 HU CZ RO
+http://130.185.248.19:53337/play/a03v
+#EXTINF:-1,Cinemax HU CZ RO
+http://130.185.248.19:53337/play/a06b
+#EXTINF:-1,Boomerang HU RO PL RU
+http://130.185.248.19:53337/play/a04f
+#EXTINF:-1,Minimax RO
+http://130.185.248.19:53337/play/a049
+#EXTINF:-1,Digi Sport 4 RO
+http://130.185.248.19:53337/play/a05x
+#EXTINF:-1,Digi Sport 2 RO
+http://130.185.248.19:53337/play/a045
+#EXTINF:-1,Digi 24 RO
+http://130.185.248.19:53337/play/a05i
 
 
 
@@ -2348,7 +2468,7 @@ http://s01.iptvsolution.net/live?channelId=130&uid=4287&deviceMac=00:1A:79:2F:CE
 
 
 
-#EXTINF:7 group-title=”Germany4”,
+#EXTINF:7 group-title=”Germany4/Spain”,
 
 #EXTINF:-1,RTL Regional NRW 
 http://46.249.60.210:50001/play/a05z 
@@ -2712,7 +2832,6 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 #EXTINF:8 group-title=”Spain2”,
 
 
-
 #EXTINF:-1,SyFy Latinoamerica
 http://thepk.co:2095/live/husham/isaplayer/1079.ts
 #EXTINF:-1,A&E Latinoamerica
@@ -2725,26 +2844,6 @@ http://thepk.co:2095/live/husham/isaplayer/1125.ts
 http://thepk.co:2095/live/husham/isaplayer/1123.ts
 #EXTINF:-1,NatGeo Wild Latinoamerica
 http://thepk.co:2095/live/husham/isaplayer/1094.ts
-#EXTINF:-1,TBS
-http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,SYFY
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,E
-http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,NICK JR
-http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,NICKELODEON
-http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-#EXTINF:-1,DISNEY XD
-http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
-
-
 
 
 
@@ -4411,6 +4510,812 @@ mms://62.162.58.55/TVOrbis
 
 
 
+
+
+
+
+
+
+#EXTINF:9 group-title=”Hungary”,
+
+#EXTINF:-1,Győrplusz 
+rtmp://91.82.85.44/liverelay/gyorplusz.sdp 
+#EXTINF:-1,Jász Trió 
+rtmp://91.82.85.44/liverelay/jasztriotv.sdp 
+#EXTINF:-1,Supra-Balaton 
+rtmp://91.82.85.44/liverelay/supratv.sdp
+
+
+
+#EXTINF:-1,Cartoon Network 
+http://91.224.178.9:5000/08 
+#EXTINF:-1,National Geographic 
+http://91.224.178.9:5000/09 
+#EXTINF:-1,Filmbox 
+http://91.224.178.9:5000/10 
+#EXTINF:-1,Eurosport 
+http://91.224.178.9:5000/11 
+#EXTINF:-1,Mozi+ 
+http://91.224.178.9:5000/12 
+#EXTINF:-1,Izaura TV 
+http://91.224.178.9:5000/13 
+#EXTINF:-1,Zenebutik 
+http://91.224.178.9:5000/14 
+#EXTINF:-1,FEM3 
+http://91.224.178.9:5000/15 
+#EXTINF:-1,C8 
+http://91.224.178.9:5000/16
+#EXTINF:-1,VIASAT3 
+http://91.224.178.9:5000/02 
+#EXTINF:-1,RTL+ 
+http://91.224.178.9:5000/03 
+#EXTINF:-1,AXN 
+http://91.224.178.9:5000/01 
+#EXTINF:-1,Da Vinci Learning 
+http://91.224.178.9:5000/05 
+#EXTINF:-1,Comedy Central 
+http://91.224.178.9:5000/06 
+#EXTINF:-1,PRIME 
+http://91.224.178.9:5000/04 
+#EXTINF:-1,Nickelodeon 
+http://91.224.178.9:5000/07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”Hungary/Chez/Slovak/Romania”,
+
+
+#EXTM3U
+#EXTINF:-1,JOJ PLUS HD Slovak
+http://130.185.248.19:53337/play/a021
+#EXTINF:-1,Film1 Premiere HD NL
+http://130.185.248.19:53337/play/a00s
+#EXTINF:-1,Sundance Channel Europe HD
+http://130.185.248.19:53337/play/a05w
+#EXTINF:-1,TV Slovenia 3
+http://130.185.248.19:53337/play/a031
+#EXTINF:-1,E! Entertainment CZ
+http://130.185.248.19:53337/play/a005
+#EXTINF:-1,Viasat3 HU
+http://130.185.248.19:53337/play/a04k
+#EXTINF:-1,Filmbox Extra HD CZ HU
+http://130.185.248.19:53337/play/a007
+#EXTINF:-1,BN BIH
+http://130.185.248.19:53337/play/a02j
+#EXTINF:-1,HRT 3
+http://130.185.248.19:53337/play/a02u
+#EXTINF:-1,CT Sport HD CZ
+http://130.185.248.19:53337/play/a01y
+#EXTINF:-1,Disney Channel HU SK CZ
+http://130.185.248.19:53337/play/a03r
+#EXTINF:-1,BN Sat
+http://130.185.248.19:53337/play/a02l
+#EXTINF:-1,Horse & Country TV
+http://130.185.248.19:53337/play/a06l
+#EXTINF:-1,Sport 2 HD CZ SK
+http://130.185.248.19:53337/play/a03j
+#EXTINF:-1,DIGI Sport 2 HD Romania
+http://130.185.248.19:53337/play/a035
+#EXTINF:-1,DIGI Sport 1 HD Hungary
+http://130.185.248.19:53337/play/a032
+#EXTINF:-1,Fishing&Hunting CZ
+http://130.185.248.19:53337/play/a01p
+#EXTINF:-1,Sport1 CZ Slo
+http://130.185.248.19:53337/play/a01t
+#EXTINF:-1,LookTV
+http://130.185.248.19:53337/play/a06e
+#EXTINF:-1,M3 Anno HU
+http://130.185.248.19:53337/play/a04h
+#EXTINF:-1,Filmbox Family HU CZ RO
+http://130.185.248.19:53337/play/a04r
+#EXTINF:-1,Viasat History HD/Nature HD CZ
+http://130.185.248.19:53337/play/a00n
+#EXTINF:-1,Nova CZ
+http://130.185.248.19:53337/play/a022
+#EXTINF:-1,FOX Channel NL
+http://130.185.248.19:53337/play/a00u
+#EXTINF:-1,Reality Kings
+http://130.185.248.19:53337/play/a062
+#EXTINF:-1,Sport 1 HD HU
+http://130.185.248.19:53337/play/a03i
+#EXTINF:-1,MTV NL
+http://130.185.248.19:53337/play/a00z
+#EXTINF:-1,Barrandov Plus HD CZ
+http://130.185.248.19:53337/play/a01v
+#EXTINF:-1,NRK Super - NRK3
+http://130.185.248.19:53337/play/a06a
+#EXTINF:-1,Fox Sports Eredivisie 3 NL
+http://130.185.248.19:53337/play/a00v
+#EXTINF:-1,Filmbox Plus CZ
+http://130.185.248.19:53337/play/a008
+#EXTINF:-1,BN Music
+http://130.185.248.19:53337/play/a02k
+#EXTINF:-1,Disney Channel RO
+http://130.185.248.19:53337/play/a046
+#EXTINF:-1,H!T Music RO
+http://130.185.248.19:53337/play/a05m
+#EXTINF:-1,Prima MAX HD CZ
+http://130.185.248.19:53337/play/a06o
+#EXTINF:-1,TV2 Norway
+http://130.185.248.19:53337/play/a050
+#EXTINF:-1,Retro Music TV CZ
+http://130.185.248.19:53337/play/a00j
+#EXTINF:-1,Nat Geo Wild HD RO HU CZ
+http://130.185.248.19:53337/play/a03c
+#EXTINF:-1,Universal Channel CZ
+http://130.185.248.19:53337/play/a01u
+#EXTINF:-1,Prima HD CZ
+http://130.185.248.19:53337/play/a026
+#EXTINF:-1,TV JOJ HD
+http://130.185.248.19:53337/play/a066
+#EXTINF:-1,NPO2 HD NL
+http://130.185.248.19:53337/play/a012
+#EXTINF:-1,TLC RO
+http://130.185.248.19:53337/play/TLC RO
+#EXTINF:-1,Boomerang Romania
+http://130.185.248.19:53337/play/a02c
+#EXTINF:-1,SPORT 2 HU
+http://130.185.248.19:53337/play/a04v
+#EXTINF:-1,Investigation Discovery NL
+http://130.185.248.19:53337/play/a00x
+#EXTINF:-1,Mooz RO!
+http://130.185.248.19:53337/play/a06p
+#EXTINF:-1,Discovery CZ
+http://130.185.248.19:53337/play/a003
+#EXTINF:-1,CT2 HD CZ
+http://130.185.248.19:53337/play/a01x
+#EXTINF:-1,Mnam TV CZ
+http://130.185.248.19:53337/play/a00e
+#EXTINF:-1,SF Kanalen
+http://130.185.248.19:53337/play/a06n
+#EXTINF:-1,Prima COOL HD CZ
+http://130.185.248.19:53337/play/a025
+#EXTINF:-1,TV6 HD SWE
+http://130.185.248.19:53337/play/a06m
+#EXTINF:-1,b1 TV Romania
+http://130.185.248.19:53337/play/a02b
+#EXTINF:-1,Travel Channel CZ HU EN/Playboy
+http://130.185.248.19:53337/play/a05o
+#EXTINF:-1,Arena Sport 1 HD SK
+http://130.185.248.19:53337/play/a03h
+#EXTINF:-1,Viasat Fotboll HD
+http://130.185.248.19:53337/play/a06j
+#EXTINF:-1,Hayatovci
+http://130.185.248.19:53337/play/a02r
+#EXTINF:-1,CT HD CZ
+http://130.185.248.19:53337/play/a05y
+#EXTINF:-1,Animal Planet HU CZ SK RO
+http://130.185.248.19:53337/play/a04e
+#EXTINF:-1,docuCS CZ
+http://130.185.248.19:53337/play/a01o
+#EXTINF:-1,Viasat Sport HD N
+http://130.185.248.19:53337/play/a06i
+#EXTINF:-1,ONS NL
+http://130.185.248.19:53337/play/a063
+#EXTINF:-1,DIGI World HD Hungary
+http://130.185.248.19:53337/play/a036
+#EXTINF:-1,Kanal 7 TR
+http://130.185.248.19:53337/play/a06c
+#EXTINF:-1,Etno TV RO
+http://130.185.248.19:53337/play/a05h
+#EXTINF:-1,Kanal D Romania
+http://130.185.248.19:53337/play/a02d
+#EXTINF:-1,FOX Sports2 HD int NL
+http://130.185.248.19:53337/play/a01i
+#EXTINF:-1,STV1 HD Slovak
+http://130.185.248.19:53337/play/a028
+#EXTINF:-1,Prima TV Romania
+http://130.185.248.19:53337/play/a02i
+#EXTINF:-1,Echo TV HU
+http://130.185.248.19:53337/play/a04p
+#EXTINF:-1,U TV RO
+http://130.185.248.19:53337/play/a04d
+#EXTINF:-1,EDGE HD
+http://130.185.248.19:53337/play/a00p
+#EXTINF:-1,Fashion TV
+http://130.185.248.19:53337/play/a03d
+#EXTINF:-1,Digi Sport 1 RO
+http://130.185.248.19:53337/play/a05l
+#EXTINF:-1,Nova Action HD CZ
+http://130.185.248.19:53337/play/a020
+#EXTINF:-1,Ziggo Sport Golf
+http://130.185.248.19:53337/play/a015
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://130.185.248.19:53337/play/a016
+#EXTINF:-1,RTL Klub HD HU
+http://130.185.248.19:53337/play/a03g
+#EXTINF:-1,TV Paprika CZ HU
+http://130.185.248.19:53337/play/a00m
+#EXTINF:-1,Viasat Hockey HD
+http://130.185.248.19:53337/play/a06k
+#EXTINF:-1,HRT 4
+http://130.185.248.19:53337/play/a02v
+#EXTINF:-1,HRT 2
+http://130.185.248.19:53337/play/a02t
+#EXTINF:-1,HRT 1
+http://130.185.248.19:53337/play/a02s
+#EXTINF:-1,Hayat Folk
+http://130.185.248.19:53337/play/a02n
+#EXTINF:-1,Extreme Sports Channel HU CZ RO
+http://130.185.248.19:53337/play/a04g
+#EXTINF:-1,Hayat Music
+http://130.185.248.19:53337/play/a02p
+#EXTINF:-1,Hayat Plus
+http://130.185.248.19:53337/play/a02q
+#EXTINF:-1,TV2 HU
+http://130.185.248.19:53337/play/a04z
+#EXTINF:-1,Magyar 2 HD
+http://130.185.248.19:53337/play/a03f
+#EXTINF:-1,SBS 6 HD NL
+http://130.185.248.19:53337/play/a013
+#EXTINF:-1,Film1 Sundance NL
+http://130.185.248.19:53337/play/a00t
+#EXTINF:-1,Nova Sport 1 HD CZ
+http://130.185.248.19:53337/play/a024
+#EXTINF:-1,DIGI Sport 2 HD Hungary
+http://130.185.248.19:53337/play/a034
+#EXTINF:-1,m4 HD HU
+http://130.185.248.19:53337/play/a05v
+#EXTINF:-1,National Geographic RO
+http://130.185.248.19:53337/play/a047
+#EXTINF:-1,Nautical Channel HD
+http://130.185.248.19:53337/play/a00f
+#EXTINF:-1,Spektrum HD CZ HU
+http://130.185.248.19:53337/play/a01s
+#EXTINF:-1,Duna HD HU
+http://130.185.248.19:53337/play/a05q
+#EXTINF:-1,National TV Romania
+http://130.185.248.19:53337/play/a02e
+#EXTINF:-1,HBO 3 RO
+http://130.185.248.19:53337/play/a04a
+#EXTINF:-1,CT1 HD CZ
+http://130.185.248.19:53337/play/a01w
+#EXTINF:-1,Romania TV
+http://130.185.248.19:53337/play/a05n
+#EXTINF:-1,Spektrum TV HU
+http://130.185.248.19:53337/play/a040
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://130.185.248.19:53337/play/a064
+#EXTINF:-1,Nick Junior HU
+http://130.185.248.19:53337/play/a05s
+#EXTINF:-1,HBO HD NL
+http://130.185.248.19:53337/play/a01j
+#EXTINF:-1,Brava HD
+http://130.185.248.19:53337/play/a01f
+#EXTINF:-1,Digi Sport 3 RO
+http://130.185.248.19:53337/play/a057
+#EXTINF:-1,AXN CZ
+http://130.185.248.19:53337/play/a065
+#EXTINF:-1,Sport Ro Romania
+http://130.185.248.19:53337/play/a02h
+#EXTINF:-1,SBS 9 NL
+http://130.185.248.19:53337/play/a014
+#EXTINF:-1,TV Oranje NL
+http://130.185.248.19:53337/play/a01a
+#EXTINF:-1,Disney Junior RO HU
+http://130.185.248.19:53337/play/a058
+#EXTINF:-1,Animal Planet HD RO HU CZ
+http://130.185.248.19:53337/play/a06f
+#EXTINF:-1,TV2 Humor Norway
+http://130.185.248.19:53337/play/a052
+#EXTINF:-1,Pro Cinema Romania
+http://130.185.248.19:53337/play/a02f
+#EXTINF:-1,Duna HU
+http://130.185.248.19:53337/play/a03s
+#EXTINF:-1,Music Channel HU
+http://130.185.248.19:53337/play/a044
+#EXTINF:-1,Golf Channell CZ
+http://130.185.248.19:53337/play/a00a
+#EXTINF:-1,NR1 Turk HD
+http://130.185.248.19:53337/play/a06h
+#EXTINF:-1,Pro TV HD
+http://130.185.248.19:53337/play/a038
+#EXTINF:-1,TV JOJ SK
+http://130.185.248.19:53337/play/a04y
+#EXTINF:-1,Digi Animal World RO HU
+http://130.185.248.19:53337/play/a05j
+#EXTINF:-1,Digi 24 RO
+http://130.185.248.19:53337/play/a05i
+#EXTINF:-1,TLC NL
+http://130.185.248.19:53337/play/a019
+#EXTINF:-1,Trinitas RO
+http://130.185.248.19:53337/play/a05g
+#EXTINF:-1,Taraf TV RO
+http://130.185.248.19:53337/play/a05f
+#EXTINF:-1,NG Wild RO
+http://130.185.248.19:53337/play/a05e
+#EXTINF:-1,Discovery HD Showcase RO HU CZ
+http://130.185.248.19:53337/play/a06g
+#EXTINF:-1,REBEL CZ
+http://130.185.248.19:53337/play/a00h
+#EXTINF:-1,Nova Cinema CZ
+http://130.185.248.19:53337/play/a023
+#EXTINF:-1,Music Channel RO
+http://130.185.248.19:53337/play/a05d
+#EXTINF:-1,M4 Sport HU
+http://130.185.248.19:53337/play/a05c
+#EXTINF:-1,Filmbox Premium CZ
+http://130.185.248.19:53337/play/a009
+#EXTINF:-1,Nova Sport 1 CZ
+http://130.185.248.19:53337/play/a04t
+#EXTINF:-1,Look Plus RO
+http://130.185.248.19:53337/play/a05b
+#EXTINF:-1,RTRS Plus
+http://130.185.248.19:53337/play/a02x
+#EXTINF:-1,NRK1
+http://130.185.248.19:53337/play/a068
+#EXTINF:-1,HBO 3 HU RO CZ
+http://130.185.248.19:53337/play/a05a
+#EXTINF:-1,RELAX Pohoda CZ
+http://130.185.248.19:53337/play/a00i
+#EXTINF:-1,RiK CZ
+http://130.185.248.19:53337/play/a027
+#EXTINF:-1,Filmbox Family CZ
+http://130.185.248.19:53337/play/a006
+#EXTINF:-1,STORY4 HU
+http://130.185.248.19:53337/play/a043
+#EXTINF:-1,Film Cafe HU
+http://130.185.248.19:53337/play/a03t
+#EXTINF:-1,Sport 1 HU
+http://130.185.248.19:53337/play/a041
+#EXTINF:-1,FOX TR
+http://130.185.248.19:53337/play/a06d
+#EXTINF:-1,C More Live HD
+http://130.185.248.19:53337/play/a067
+#EXTINF:-1,NRK2
+http://130.185.248.19:53337/play/a069
+#EXTINF:-1,TV2 HD Hungary
+http://130.185.248.19:53337/play/a039
+#EXTINF:-1,Agro TV RO
+http://130.185.248.19:53337/play/a056
+#EXTINF:-1,Nickelodeon CZ
+http://130.185.248.19:53337/play/a00g
+#EXTINF:-1,NPO Doc NL
+http://130.185.248.19:53337/play/a011
+#EXTINF:-1,TV2 Nyhetskanalen Norway
+http://130.185.248.19:53337/play/a053
+#EXTINF:-1,TV2 Livsstil Norway
+http://130.185.248.19:53337/play/a051
+#EXTINF:-1,Veronica DisneyXD HD NL
+http://130.185.248.19:53337/play/a01n
+#EXTINF:-1,TV2 Sport Norway
+http://130.185.248.19:53337/play/a054
+#EXTINF:-1,NET5 HD NL
+http://130.185.248.19:53337/play/a01k
+#EXTINF:-1,TV2 Zebra Norway
+http://130.185.248.19:53337/play/a055
+#EXTINF:-1,Digi Film RO
+http://130.185.248.19:53337/play/a05k
+#EXTINF:-1,National Geographic Channel HD NL
+http://130.185.248.19:53337/play/a010
+#EXTINF:-1,the QYOU HD NL
+http://130.185.248.19:53337/play/a018
+#EXTINF:-1,Film1 Action NL
+http://130.185.248.19:53337/play/a00q
+#EXTINF:-1,RTRS Sat
+http://130.185.248.19:53337/play/a02y
+#EXTINF:-1,Sport2 CZ SK
+http://130.185.248.19:53337/play/a04w
+#EXTINF:-1,een HD NL
+http://130.185.248.19:53337/play/a01h
+#EXTINF:-1,Sport2 HD CZ SLO
+http://130.185.248.19:53337/play/a00k
+#EXTINF:-1,RTL Klub HU
+http://130.185.248.19:53337/play/a04u
+#EXTINF:-1,HBO HU CZ
+http://130.185.248.19:53337/play/a04s
+#EXTINF:-1,kinoCS CZ
+http://130.185.248.19:53337/play/a01q
+#EXTINF:-1,Film+ HU
+http://130.185.248.19:53337/play/a04q
+#EXTINF:-1,Duna World HU
+http://130.185.248.19:53337/play/a04o
+#EXTINF:-1,M2 HU
+http://130.185.248.19:53337/play/a03y
+#EXTINF:-1,CT2 CZ
+http://130.185.248.19:53337/play/a04n
+#EXTINF:-1,ATV HU
+http://130.185.248.19:53337/play/a04m
+#EXTINF:-1,Realitatea TV RO
+http://130.185.248.19:53337/play/a04b
+#EXTINF:-1,TV Slovenija 2
+http://130.185.248.19:53337/play/a030
+#EXTINF:-1,HBO 2 HU CZ RO
+http://130.185.248.19:53337/play/a03v
+#EXTINF:-1,Vitaya NL
+http://130.185.248.19:53337/play/a01c
+#EXTINF:-1,Cinemax HU CZ RO
+http://130.185.248.19:53337/play/a06b
+#EXTINF:-1,RTRS
+http://130.185.248.19:53337/play/a02w
+#EXTINF:-1,Boomerang HU RO PL RU
+http://130.185.248.19:53337/play/a04f
+#EXTINF:-1,HBO 3 NL
+http://130.185.248.19:53337/play/a00w
+#EXTINF:-1,Jim NL
+http://130.185.248.19:53337/play/a00y
+#EXTINF:-1,M1 HD Hungary
+http://130.185.248.19:53337/play/a037
+#EXTINF:-1,KinoSvet CZ
+http://130.185.248.19:53337/play/a00c
+#EXTINF:-1,HBO HD HU EN
+http://130.185.248.19:53337/play/a05r
+#EXTINF:-1,TV Barrandov CZ
+http://130.185.248.19:53337/play/a04x
+#EXTINF:-1,C More Sport
+http://130.185.248.19:53337/play/a03p
+#EXTINF:-1,Face TV
+http://130.185.248.19:53337/play/a02m
+#EXTINF:-1,Bloomberg
+http://130.185.248.19:53337/play/a03a
+#EXTINF:-1,Sport5 CZ
+http://130.185.248.19:53337/play/a00l
+#EXTINF:-1,Nova HD CZ
+http://130.185.248.19:53337/play/a05t
+#EXTINF:-1,Viasat 6 HU
+http://130.185.248.19:53337/play/a04l
+#EXTINF:-1,Minimax RO
+http://130.185.248.19:53337/play/a049
+#EXTINF:-1,Digi Sport 4 RO
+http://130.185.248.19:53337/play/a05x
+#EXTINF:-1,iConcerts CZ
+http://130.185.248.19:53337/play/a01r
+#EXTINF:-1,Digi Sport 2 RO
+http://130.185.248.19:53337/play/a045
+#EXTINF:-1,TV Slovenija 1
+http://130.185.248.19:53337/play/a02z
+#EXTINF:-1,Pro TV Romania
+http://130.185.248.19:53337/play/a02g
+#EXTINF:-1,NPO1 HD NL
+http://130.185.248.19:53337/play/a01l
+#EXTINF:-1,Minimax HU SK
+http://130.185.248.19:53337/play/a03z
+#EXTINF:-1,JOJ Cinema CZ
+http://130.185.248.19:53337/play/a00b
+#EXTINF:-1,Film1 Comedy & Kids NL
+http://130.185.248.19:53337/play/a00r
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://130.185.248.19:53337/play/a033
+#EXTINF:-1,Canvas HD NL
+http://130.185.248.19:53337/play/a01g
+#EXTINF:-1,STV2 HD Slovak
+http://130.185.248.19:53337/play/a029
+#EXTINF:-1,VIJF NL
+http://130.185.248.19:53337/play/a01b
+#EXTINF:-1,M1 HU
+http://130.185.248.19:53337/play/a03x
+#EXTINF:-1,Boomerang NL
+http://130.185.248.19:53337/play/a00o
+#EXTINF:-1,AT5 NL
+http://130.185.248.19:53337/play/a01e
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://130.185.248.19:53337/play/a017
+#EXTINF:-1,Film+ CZ
+http://130.185.248.19:53337/play/a00d
+#EXTINF:-1,DAJTO HD Slovak
+http://130.185.248.19:53337/play/a01z
+#EXTINF:-1,NPO3 HD NL
+http://130.185.248.19:53337/play/a01m
+#EXTINF:-1,H!T Music Channel HU
+http://130.185.248.19:53337/play/a03u
+#EXTINF:-1,Filmbox Premium HU
+http://130.185.248.19:53337/play/a03e
+#EXTINF:-1,HBO HU
+http://130.185.248.19:53337/play/a03w
+#EXTINF:-1,CNBC Europe
+http://130.185.248.19:53337/play/a03b
+#EXTINF:-1,24 Kitchen NL
+http://130.185.248.19:53337/play/a01d
+#EXTINF:-1,Magyar SlÃ¡ger TV
+http://130.185.248.19:53337/play/a04i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”Netherlands”,
+
+#EXTINF:-1,NPO 1
+http://82.151.55.82/output/NPO1-KB/playlist.m3u8
+#EXTINF:-1,NPO 2
+http://82.151.55.82/output/NPO2-KB/playlist.m3u8
+#EXTINF:-1,NPO 3
+http://82.151.55.82/output/NPO3-KB/playlist.m3u8
+#EXTINF:RTV DRENTHE
+rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+#EXTINF:OMROEP ZEELAND
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
+#EXTINF:SALTO 1 TV
+mms://195.169.148.57/A1
+#EXTINF:SALTO 2 TV
+mms://195.169.148.57/A2
+#EXTINF:MAHARISHI CH 3
+rtsp://streaming.mou.org/videodialup
+#EXTINF:OMROEP BRABAND
+http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
+#EXTINF:RTV DRENTHE
+http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8
+#EXTINF:3ML
+rtmp://fms1.3ml.nl/livepkgr/livetv
+#EXTINF:3ML
+http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
+#EXTINF: 538 TV.NL
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1,538 TV
+http://hlscdn.538.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1,EDE TV
+rtmp://live.streamone.nl/livestream/yEr2XzzAi311
+#EXTINF:-1,Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:-1,MLA TV
+rtmp://live.streamone.nl/livestream/u2SioS02Af77
+#EXTINF:-1,MerweTV
+rtmp://fm-live.prostream.nl/merwertv/live
+#EXTINF:-1,N1
+rtmp://live.streamone.nl/livestream/n1D8eGo3zY
+#EXTINF:-1,RTV Drenthe
+http://stream.rtvdrenthe.nl/tv/:tvstream1/chunklist.m3u8
+#EXTINF:-1,TV Ellef
+rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:10 group-title=”Slovakia”,
+
+#EXTINF:-1, JOJ 
+http://http-stream.joj.sk/joj/joj/index-hq.m3u8 
+#EXTINF:-1, JOJ Plus 
+http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8 
+#EXTINF:-1, WAU 
+http://http-stream.joj.sk/joj/wau/index-hq.m3u8
+#EXTINF:-1,Joj hd
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1,Joj hq
+http://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1,Joj lq
+http://nn.geo.joj.sk/hls/joj-360.m3u8
+#EXTINF:-1,Joj family sd
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1,Rik sd
+http://nn.geo.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1,Rik lq
+http://nn.geo.joj.sk/hls/rik-360.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:10 group-title=”Czech”,
+
+
+
+
+#EXTINF:-1,Ceskoslovensko HD 
+http://65.254.55.10:4000/live/196/196.m3u8 
+#EXTINF:-1,DokuCZ 
+http://65.254.55.10:4000/live/195/195.m3u8 
+#EXTINF:-1,Eurosport 
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1,STV 1
+http://174.36.220.217:5000/live/177/177.m3u8
+#EXTINF:-1,STV 1
+http://199.195.199.196:5000/live/365/365.m3u8
+#EXTINF:-1,STV 2
+http://199.195.199.196:5000/live/366/366.m3u8
+#EXTINF:-1,STV 2
+http://174.36.220.217:5000/live/79/79.m3u8
+#EXTINF:-1,Markiza
+http://69.39.239.166:5000/live/36/36.m3u8
+#EXTINF:-1,Markiza HD
+http://5.63.149.252:5000/live/418/418.m3u8
+#EXTINF:-1,Doma
+http://pluto4.onlinetv1.com:5000/live/368/368.m3u8
+#EXTINF:-1,Doma
+http://69.4.230.139:5000/live/199/199.m3u8
+#EXTINF:-1,Doma
+http://199.195.199.196:5000/live/368/368.m3u8
+#EXTINF:-1,JOJ
+http://174.36.220.217:5000/live/141/141.m3u8
+#EXTINF:-1,JOJ
+http://69.4.230.139:5000/live/141/141.m3u8
+#EXTINF:-1,JOJ HD
+http://http-stream.joj.sk/joj/joj/index-hq.m3u8
+#EXTINF:-1,JOJ+
+http://199.195.199.196:5000/live/367/367.m3u8
+#EXTINF:-1,JOJ+ HD
+http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
+#EXTINF:-1,WAU
+http://69.4.230.139:5000/live/382/382.m3u8
+#EXTINF:-1,WAU HD
+http://http-stream.joj.sk/joj/wau/index-hq.m3u8
+#EXTINF:-1,DAJTO
+http://174.36.155.34:4000/live/340/340.m3u8
+#EXTINF:-1,CT 1
+http://5.63.149.252:5000/live/62/62.m3u8
+#EXTINF:-1,CT 2
+http://5.63.149.252:5000/live/63/63.m3u8
+#EXTINF:-1,CT Sport
+http://92.62.234.206/104/mystream.m3u8
+#EXTINF:-1,CT Sport HD
+http://5.63.149.252:5000/live/299/299.m3u8
+#EXTINF:-1,PRIMA
+http://69.4.230.139:5000/live/115/115.m3u8
+#EXTINF:-1,PRIMA HD
+http://69.39.239.166:5000/live/115/115.m3u8
+#EXTINF:-1,Prima COOL
+http://208.43.120.148:5000/live/116/116.m3u8
+#EXTINF:-1,Prima COOL HD
+http://84.47.113.9:4022/udp/234.1.1.17:1234
+#EXTINF:-1,Prima LOVE
+http://208.43.120.148:5000/live/193/193.m3u8
+#EXTINF:-1,Prima ZOOM
+http://184.173.146.7:5000/live/377/377.m3u8
+#EXTINF:-1,Prima Max
+http://74.208.44.158:5000/live/518/518.m3u8
+#EXTINF:-1,NOVA
+http://69.39.239.166:5000/live/60/60.m3u8
+#EXTINF:-1,NOVA HD
+http://108.168.175.182:5000/live/156/156.m3u8
+#EXTINF:-1,NOVA 2
+http://208.43.120.148:5000/live/854/854.m3u8
+#EXTINF:-1,NOVA 2
+http://174.36.220.217:5000/live/854/854.m3u8
+#EXTINF:-1,NOVA GOLD
+http://69.4.230.139:5000/live/380/380.m3u8
+#EXTINF:-1,NOVA Cinema
+http://174.36.220.217:5000/live/120/120.m3u8
+#EXTINF:-1",NOVA Cinema
+http://208.43.120.148:5000/live/120/120.m3u8
+#EXTINF:-1,NOVA Cinema HD
+http://109.69.210.13:3000/novacinemahd
+#EXTINF:-1,NOVA Action
+http://109.69.210.13:3000/fanda
+#EXTINF:-1,NOVA Action
+http://174.36.163.12:4000/live/304/304.m3u8
+#EXTINF:-1,NOVA Sport 1
+http://174.36.220.217:5000/live/173/173.m3u8
+#EXTINF:-1,NOVA Sport 1 HD
+http://5.63.149.252:5000/live/117/117.m3u8
+#EXTINF:-1,DISCOVERY
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://69.39.239.166:5000/live/284/284.m3u8
+#EXTINF:-1,National Geographic Wild
+http://109.69.210.13:3000/ngcwild
+#EXTINF:-1,CSmini-CS film
+http://174.36.220.217:5000/live/122/122.m3u8
+#EXTINF:-1,CSfilm_Horor
+http://208.43.120.148:5000/live/122/122.m3u8
+#EXTINF:-1,AXN
+http://69.39.239.166:5000/live/205/205.m3u8
+#EXTINF:-1,AXN White
+http://69.39.239.166:5000/live/281/281.m3u8
+#EXTINF:-1,AXN Black
+http://69.39.239.166:5000/live/282/282.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://174.36.220.217:5000/live/197/197.m3u8
+#EXTINF:-1,Eurosport
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://174.36.220.217:5000/live/197/197.m3u8
+#EXTINF:-1,Sport 1 HD
+http://108.168.175.182:5000/live/103/103.m3u8
+#EXTINF:-1,Sport 2
+http://108.168.175.182:5000/live/279/279.m3u8
+#EXTINF:-1,Sport 2 HD
+http://69.39.239.166:5000/live/390/390.m3u8
+#EXTINF:-1,SPEKTRUM
+http://174.36.155.34:4000/live/189/189.m3u8
+#EXTINF:-1,Spektrum HOME
+http://199.195.199.196:5000/live/312/312.m3u8
+#EXTINF:-1,TV Barrandov
+http://174.36.220.217:5000/live/121/121.m3u8
+#EXTINF:-1,TV Barrandov
+http://208.43.120.148:5000/live/121/121.m3u8
+#EXTINF:-1,FILM+
+http://184.173.146.7:5000/live/204/204.m3u8
+#EXTINF:-1,FILMBOX
+http://184.173.146.7:5000/live/202/202.m3u8
+#EXTINF:-1,FILMBOX+
+http://184.173.146.7:5000/live/203/203.m3u8
+#EXTINF:-1,OCKO
+http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,OCKO GOLD
+http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,OCKO EXPRES
+http://se04.se.ocko-live.service.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1,JIM JAM
+http://184.173.146.7:5000/live/201/201.m3u8
+#EXTINF:-1,MINIMAX
+http://108.168.175.182:5000/live/278/278.m3u8
+#EXTINF:-1,RiK
+http://5.63.149.252:5000/live/499/499.m3u8
+#EXTINF:-1,Fine Living
+http://69.39.239.166:5000/live/543/543.m3u8
+#EXTINF:-1,RebeL
+http://199.195.199.196:5000/live/410/410.m3u8
+#EXTINF:-1,Retro
+http://199.195.199.196:5000/live/412/412.m3u8
+#EXTINF:-1,DokuCZ
+http://65.254.55.10:4000/live/195/195.m3u8
+#EXTINF:-1,Ceskoslovensko HD
+http://65.254.55.10:4000/live/196/196.m3u8
+#EXTINF:-1,HISTORY
+http://174.36.155.34:4000/live/287/287.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:9 group-title=”China-Taiwan”,
 
 #EXTINF:-1,GTV
@@ -4772,326 +5677,6 @@ http://.....
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”Hungary”,
-
-#EXTINF:-1,Győrplusz 
-rtmp://91.82.85.44/liverelay/gyorplusz.sdp 
-#EXTINF:-1,Jász Trió 
-rtmp://91.82.85.44/liverelay/jasztriotv.sdp 
-#EXTINF:-1,Supra-Balaton 
-rtmp://91.82.85.44/liverelay/supratv.sdp
-
-
-
-#EXTINF:-1,Cartoon Network 
-http://91.224.178.9:5000/08 
-#EXTINF:-1,National Geographic 
-http://91.224.178.9:5000/09 
-#EXTINF:-1,Filmbox 
-http://91.224.178.9:5000/10 
-#EXTINF:-1,Eurosport 
-http://91.224.178.9:5000/11 
-#EXTINF:-1,Mozi+ 
-http://91.224.178.9:5000/12 
-#EXTINF:-1,Izaura TV 
-http://91.224.178.9:5000/13 
-#EXTINF:-1,Zenebutik 
-http://91.224.178.9:5000/14 
-#EXTINF:-1,FEM3 
-http://91.224.178.9:5000/15 
-#EXTINF:-1,C8 
-http://91.224.178.9:5000/16
-#EXTINF:-1,VIASAT3 
-http://91.224.178.9:5000/02 
-#EXTINF:-1,RTL+ 
-http://91.224.178.9:5000/03 
-#EXTINF:-1,AXN 
-http://91.224.178.9:5000/01 
-#EXTINF:-1,Da Vinci Learning 
-http://91.224.178.9:5000/05 
-#EXTINF:-1,Comedy Central 
-http://91.224.178.9:5000/06 
-#EXTINF:-1,PRIME 
-http://91.224.178.9:5000/04 
-#EXTINF:-1,Nickelodeon 
-http://91.224.178.9:5000/07
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”Netherlands”,
-
-#EXTINF:-1,NPO 1
-http://82.151.55.82/output/NPO1-KB/playlist.m3u8
-#EXTINF:-1,NPO 2
-http://82.151.55.82/output/NPO2-KB/playlist.m3u8
-#EXTINF:-1,NPO 3
-http://82.151.55.82/output/NPO3-KB/playlist.m3u8
-#EXTINF:RTV DRENTHE
-rtmp://stream.rtvdrenthe.nl/tv/tvstream1
-#EXTINF:OMROEP ZEELAND
-rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
-#EXTINF:SALTO 1 TV
-mms://195.169.148.57/A1
-#EXTINF:SALTO 2 TV
-mms://195.169.148.57/A2
-#EXTINF:MAHARISHI CH 3
-rtsp://streaming.mou.org/videodialup
-#EXTINF:OMROEP BRABAND
-http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
-#EXTINF:RTV DRENTHE
-http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8
-#EXTINF:3ML
-rtmp://fms1.3ml.nl/livepkgr/livetv
-#EXTINF:3ML
-http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
-#EXTINF: 538 TV.NL
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:-1,538 TV
-http://hlscdn.538.nl/content/538tv/538tv_0.m3u8
-#EXTINF:-1,EDE TV
-rtmp://live.streamone.nl/livestream/yEr2XzzAi311
-#EXTINF:-1,Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:-1,MLA TV
-rtmp://live.streamone.nl/livestream/u2SioS02Af77
-#EXTINF:-1,MerweTV
-rtmp://fm-live.prostream.nl/merwertv/live
-#EXTINF:-1,N1
-rtmp://live.streamone.nl/livestream/n1D8eGo3zY
-#EXTINF:-1,RTV Drenthe
-http://stream.rtvdrenthe.nl/tv/:tvstream1/chunklist.m3u8
-#EXTINF:-1,TV Ellef
-rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:10 group-title=”Slovakia”,
-
-#EXTINF:-1, JOJ 
-http://http-stream.joj.sk/joj/joj/index-hq.m3u8 
-#EXTINF:-1, JOJ Plus 
-http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8 
-#EXTINF:-1, WAU 
-http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-#EXTINF:-1,Joj hd
-http://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1,Joj hq
-http://nn.geo.joj.sk/hls/joj-540.m3u8
-#EXTINF:-1,Joj lq
-http://nn.geo.joj.sk/hls/joj-360.m3u8
-#EXTINF:-1,Joj family sd
-http://nn.geo.joj.sk/hls/family-360.m3u8
-#EXTINF:-1,Rik sd
-http://nn.geo.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1,Rik lq
-http://nn.geo.joj.sk/hls/rik-360.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:10 group-title=”Czech”,
-
-
-
-
-#EXTINF:-1,Ceskoslovensko HD 
-http://65.254.55.10:4000/live/196/196.m3u8 
-#EXTINF:-1,DokuCZ 
-http://65.254.55.10:4000/live/195/195.m3u8 
-#EXTINF:-1,Eurosport 
-http://65.254.55.10:4000/live/197/197.m3u8
-
-#EXTINF:-1,STV 1
-http://174.36.220.217:5000/live/177/177.m3u8
-#EXTINF:-1,STV 1
-http://199.195.199.196:5000/live/365/365.m3u8
-#EXTINF:-1,STV 2
-http://199.195.199.196:5000/live/366/366.m3u8
-#EXTINF:-1,STV 2
-http://174.36.220.217:5000/live/79/79.m3u8
-#EXTINF:-1,Markiza
-http://69.39.239.166:5000/live/36/36.m3u8
-#EXTINF:-1,Markiza HD
-http://5.63.149.252:5000/live/418/418.m3u8
-#EXTINF:-1,Doma
-http://pluto4.onlinetv1.com:5000/live/368/368.m3u8
-#EXTINF:-1,Doma
-http://69.4.230.139:5000/live/199/199.m3u8
-#EXTINF:-1,Doma
-http://199.195.199.196:5000/live/368/368.m3u8
-#EXTINF:-1,JOJ
-http://174.36.220.217:5000/live/141/141.m3u8
-#EXTINF:-1,JOJ
-http://69.4.230.139:5000/live/141/141.m3u8
-#EXTINF:-1,JOJ HD
-http://http-stream.joj.sk/joj/joj/index-hq.m3u8
-#EXTINF:-1,JOJ+
-http://199.195.199.196:5000/live/367/367.m3u8
-#EXTINF:-1,JOJ+ HD
-http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
-#EXTINF:-1,WAU
-http://69.4.230.139:5000/live/382/382.m3u8
-#EXTINF:-1,WAU HD
-http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-#EXTINF:-1,DAJTO
-http://174.36.155.34:4000/live/340/340.m3u8
-#EXTINF:-1,CT 1
-http://5.63.149.252:5000/live/62/62.m3u8
-#EXTINF:-1,CT 2
-http://5.63.149.252:5000/live/63/63.m3u8
-#EXTINF:-1,CT Sport
-http://92.62.234.206/104/mystream.m3u8
-#EXTINF:-1,CT Sport HD
-http://5.63.149.252:5000/live/299/299.m3u8
-#EXTINF:-1,PRIMA
-http://69.4.230.139:5000/live/115/115.m3u8
-#EXTINF:-1,PRIMA HD
-http://69.39.239.166:5000/live/115/115.m3u8
-#EXTINF:-1,Prima COOL
-http://208.43.120.148:5000/live/116/116.m3u8
-#EXTINF:-1,Prima COOL HD
-http://84.47.113.9:4022/udp/234.1.1.17:1234
-#EXTINF:-1,Prima LOVE
-http://208.43.120.148:5000/live/193/193.m3u8
-#EXTINF:-1,Prima ZOOM
-http://184.173.146.7:5000/live/377/377.m3u8
-#EXTINF:-1,Prima Max
-http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1,NOVA
-http://69.39.239.166:5000/live/60/60.m3u8
-#EXTINF:-1,NOVA HD
-http://108.168.175.182:5000/live/156/156.m3u8
-#EXTINF:-1,NOVA 2
-http://208.43.120.148:5000/live/854/854.m3u8
-#EXTINF:-1,NOVA 2
-http://174.36.220.217:5000/live/854/854.m3u8
-#EXTINF:-1,NOVA GOLD
-http://69.4.230.139:5000/live/380/380.m3u8
-#EXTINF:-1,NOVA Cinema
-http://174.36.220.217:5000/live/120/120.m3u8
-#EXTINF:-1",NOVA Cinema
-http://208.43.120.148:5000/live/120/120.m3u8
-#EXTINF:-1,NOVA Cinema HD
-http://109.69.210.13:3000/novacinemahd
-#EXTINF:-1,NOVA Action
-http://109.69.210.13:3000/fanda
-#EXTINF:-1,NOVA Action
-http://174.36.163.12:4000/live/304/304.m3u8
-#EXTINF:-1,NOVA Sport 1
-http://174.36.220.217:5000/live/173/173.m3u8
-#EXTINF:-1,NOVA Sport 1 HD
-http://5.63.149.252:5000/live/117/117.m3u8
-#EXTINF:-1,DISCOVERY
-http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://69.39.239.166:5000/live/284/284.m3u8
-#EXTINF:-1,National Geographic Wild
-http://109.69.210.13:3000/ngcwild
-#EXTINF:-1,CSmini-CS film
-http://174.36.220.217:5000/live/122/122.m3u8
-#EXTINF:-1,CSfilm_Horor
-http://208.43.120.148:5000/live/122/122.m3u8
-#EXTINF:-1,AXN
-http://69.39.239.166:5000/live/205/205.m3u8
-#EXTINF:-1,AXN White
-http://69.39.239.166:5000/live/281/281.m3u8
-#EXTINF:-1,AXN Black
-http://69.39.239.166:5000/live/282/282.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://174.36.220.217:5000/live/197/197.m3u8
-#EXTINF:-1,Eurosport
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://174.36.220.217:5000/live/197/197.m3u8
-#EXTINF:-1,Sport 1 HD
-http://108.168.175.182:5000/live/103/103.m3u8
-#EXTINF:-1,Sport 2
-http://108.168.175.182:5000/live/279/279.m3u8
-#EXTINF:-1,Sport 2 HD
-http://69.39.239.166:5000/live/390/390.m3u8
-#EXTINF:-1,SPEKTRUM
-http://174.36.155.34:4000/live/189/189.m3u8
-#EXTINF:-1,Spektrum HOME
-http://199.195.199.196:5000/live/312/312.m3u8
-#EXTINF:-1,TV Barrandov
-http://174.36.220.217:5000/live/121/121.m3u8
-#EXTINF:-1,TV Barrandov
-http://208.43.120.148:5000/live/121/121.m3u8
-#EXTINF:-1,FILM+
-http://184.173.146.7:5000/live/204/204.m3u8
-#EXTINF:-1,FILMBOX
-http://184.173.146.7:5000/live/202/202.m3u8
-#EXTINF:-1,FILMBOX+
-http://184.173.146.7:5000/live/203/203.m3u8
-#EXTINF:-1,OCKO
-http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,OCKO GOLD
-http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,OCKO EXPRES
-http://se04.se.ocko-live.service.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,JIM JAM
-http://184.173.146.7:5000/live/201/201.m3u8
-#EXTINF:-1,MINIMAX
-http://108.168.175.182:5000/live/278/278.m3u8
-#EXTINF:-1,RiK
-http://5.63.149.252:5000/live/499/499.m3u8
-#EXTINF:-1,Fine Living
-http://69.39.239.166:5000/live/543/543.m3u8
-#EXTINF:-1,RebeL
-http://199.195.199.196:5000/live/410/410.m3u8
-#EXTINF:-1,Retro
-http://199.195.199.196:5000/live/412/412.m3u8
-#EXTINF:-1,DokuCZ
-http://65.254.55.10:4000/live/195/195.m3u8
-#EXTINF:-1,Ceskoslovensko HD
-http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1,HISTORY
-http://174.36.155.34:4000/live/287/287.m3u8
 
 
 
@@ -6731,30 +7316,16 @@ rtmp://stream.taksimbilisim.com/ztv/bant1
 #EXTINF:0,ZTV BİLGİ rtmp 480*320
 rtmp://stream.taksimbilisim.com/ztv/bant1
 
-#EXTINF:0,TRT 1 SD 
-http://185.56.30.204/live/trt1.m3u8 
-#EXTINF:-1, Atv HD 
-http://185.56.30.204/live/atv.m3u8 
-#EXTINF:-1, Show TV SD 
-http://185.56.30.204/live/showtv.m3u8 
-#EXTINF:-1, A2 
-http://185.56.30.204/live/a2.m3u8 
-#EXTINF:-1, Star TV HD 
-http://185.56.30.204/live/star.m3u8
-#EXTINF:-1, Tring Comedy 
-http://streams.iptv.zone:80/p/145737/c/1/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex 
-#EXTINF:-1, TRING LIFE 
-http://streams.iptv.zone:80/p/145737/c/2/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex 
-#EXTINF:-1, KANALI 7 
-http://streams.iptv.zone:80/p/145737/c/3/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex 
-#EXTINF:-1, 3 PLUS 
-http://streams.iptv.zone:80/p/145737/c/4/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex 
-#EXTINF:-1, TRING SHQIP 
-http://streams.iptv.zone:80/p/145737/c/5/u/155/9cjsZNwfGkR52rDqyCGC5wpFmTPYex
 
-
-
-
-
+#EXTINF:-1,SMARTSPOR 
+http://91.121.58.28:8085/smartspor 
+#EXTINF:-1,STARSPORT 
+http://91.121.58.28:8090/starsport 
+#EXTINF:-1,TELESPOR 
+http://46.105.233.106:8050/telesport 
+#EXTINF:-1,BEINSPORT TR 
+http://bit.ly/2uG9Ivd 
+#EXTINF:-1,PREMİERSPORT 
+http://46.105.233.106:8090/premier
 
 
