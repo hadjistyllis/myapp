@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -161,7 +161,7 @@ http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/WSfOWs ,NEA
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/xAKXNn1.png ,FLASH TV
-http://www.dailymotion.com/video/x5d9lwu_flashtv_people
+http://www.dailymotion.com/embed/video/x5d9lwu?autoPlay=1
 #EXTINF:-1 tvg-logo=http://i.imgur.com/GdgekUL.png ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,MAKEDONIA / M.TV HD
@@ -480,8 +480,7 @@ http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8?
 #EXTINF:0, mbc action (Public-Family) (US) (English)
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,Discovery Science 
-http://94.158.80.117:9000/play/ch_206_1 
+
 #EXTINF:0,History 
 http://93.91.113.8:8080/Apple/History/.m3u8 
 #EXTINF:-1,History 
@@ -736,16 +735,13 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,Discovery Science 
-http://94.158.80.117:9000/play/ch_206_1 
+
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
 #EXTINF:0,History 
 http://93.91.113.8:8080/Apple/History/.m3u8 
 #EXTINF:-1, History 
 http://93.91.113.8:9999/play/a06z 
-#EXTINF:-1,History Channel
-http://193.8.246.202:8800/play/a017
 #EXTINF:0,JimJam 
 http://93.91.113.8:8080/Apple/JimJam/.m3u8 
 #EXTINF:-1, JimJam 
@@ -754,17 +750,28 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
+#EXTINF:-1, National Geographic 
+http://195.189.249.6:8000/play/a005/index.m3u8 
+#EXTINF:-1, Discovery HD 
+http://195.189.249.6:8000/play/a004/index.m3u8 
+#EXTINF:-1, Animal Planet 
+http://195.189.249.6:8000/play/a007/index.m3u8 
+#EXTINF:-1, Discovery Science 
+http://195.189.249.6:8000/play/a006/index.m3u8 
+#EXTINF:-1, Nat Geo Wild 
+http://195.189.249.6:8000/play/a008/index.m3u8 
+#EXTINF:-1, Fox 
+http://195.189.249.6:8000/play/a00f/index.m3u8 
+#EXTINF:-1, Eurosport 1 
+http://195.189.249.6:8000/play/a00d/index.m3u8 
+#EXTINF:-1, Eurosport 2 
+http://195.189.249.6:8000/play/a00e/index.m3u8 
+#EXTINF:-1, English Club 
+http://195.189.249.6:8000/play/a00c/index.m3u8 
+#EXTINF:-1, Cartoon Network 
+http://195.189.249.6:8000/play/a00h/index.m3u8 
 
-#EXTINF:-1,Boomerang
-http://130.185.248.19:53337/play/a02c
-#EXTINF:-1,Disney Channel
-http://130.185.248.19:53337/play/a046
-#EXTINF:-1,Nat Geo Wild HD
-http://130.185.248.19:53337/play/a03c
-#EXTINF:-1,Animal Planet HU
-http://130.185.248.19:53337/play/a04e
-#EXTINF:-1,Discovery HD Showcase
-http://130.185.248.19:53337/play/a06g
+
 
 
 
@@ -788,71 +795,149 @@ http://46.249.60.210:15099/play/a005
 http://46.249.60.210:15099/play/a01n 
 #EXTINF:-1,e4 
 http://46.249.60.210:15099/play/a00h 
-#EXTINF:-1,ITV 
-http://46.249.60.210:15099/play/a00j 
-#EXTINF:-1,ITVi Stream 44 
-http://46.249.60.210:15099/play/a00n 
-#EXTINF:-1,c4 l 
-http://46.249.60.210:15099/play/a008 
-#EXTINF:-1,4Music 
-http://46.249.60.210:15099/play/a007 
-#EXTINF:-1,ITV2 
-http://46.249.60.210:15099/play/a00o 
-#EXTINF:-1,ITV4+1 
-http://46.249.60.210:15099/play/a00r 
-#EXTINF:-1,E4+1 
-http://46.249.60.210:15099/play/a00a 
-#EXTINF:-1,Channel 4 
-http://46.249.60.210:15099/play/a002 
-#EXTINF:-1,More4 +1 
-http://46.249.60.210:15099/play/a006 
-#EXTINF:-1,5 USA 
-http://46.249.60.210:15099/play/a01o 
-#EXTINF:-1,Channel 5+1 
-http://46.249.60.210:15099/play/a01t 
-#EXTINF:-1,More4 
-http://46.249.60.210:15099/play/a00f 
-#EXTINF:-1,ITV2+1 
-http://46.249.60.210:15099/play/a01j 
+#EXTINF:-1,BBC RB1 
+http://46.249.60.210:15099/play/a013 
 #EXTINF:-1,BBC One Lon 
 http://46.249.60.210:15099/play/a00w 
-#EXTINF:-1,Channel 4 +1 
-http://46.249.60.210:15099/play/a00c 
+#EXTINF:-1,BBC Two Eng 
+http://46.249.60.210:15099/play/a00x 
+#EXTINF:-1,ITVBe 
+http://46.249.60.210:15099/play/a00u 
+#EXTINF:-1,ITVBe+1 
+http://46.249.60.210:15099/play/a01c
+#EXTINF:-1,ITV 
+http://46.249.60.210:15099/play/a00j 
+#EXTINF:-1,ITV +1 
+http://46.249.60.210:15099/play/a00l 
+#EXTINF:-1,ITV2 
+http://46.249.60.210:15099/play/a00o 
+#EXTINF:-1,ITV2+1 
+http://46.249.60.210:15099/play/a01j 
+#EXTINF:-1,ITV4 
+http://46.249.60.210:15099/play/a00p 
+#EXTINF:-1,ITV4+1 
+http://46.249.60.210:15099/play/a00r 
+#EXTINF:-1,ITVi 
+http://46.249.60.210:15099/play/a00n 
 #EXTINF:-1,ITV Border 
 http://46.249.60.210:15099/play/a01d 
 #EXTINF:-1,ETV1 
 http://46.249.60.210:15099/play/a017 
+#EXTINF:-1,c4 l 
+http://46.249.60.210:15099/play/a008 
+#EXTINF:-1,4Music 
+http://46.249.60.210:15099/play/a007 
+#EXTINF:-1,E4+1 
+http://46.249.60.210:15099/play/a00a 
+#EXTINF:-1,Channel 4 
+http://46.249.60.210:15099/play/a002 
+#EXTINF:-1,Channel 4 +1 
+http://46.249.60.210:15099/play/a00c 
+#EXTINF:-1,Channel 5+1 
+http://46.249.60.210:15099/play/a01t 
+#EXTINF:-1,More4 +1 
+http://46.249.60.210:15099/play/a006 
+#EXTINF:-1,5 USA 
+http://46.249.60.210:15099/play/a01o 
+#EXTINF:-1,More4 
+http://46.249.60.210:15099/play/a00f 
 #EXTINF:-1,Spike 
 http://46.249.60.210:15099/play/a01u 
 #EXTINF:-1,JUS Punjabi 
 http://46.249.60.210:15099/play/a00y 
 #EXTINF:-1,Film4 
 http://46.249.60.210:15099/play/a004 
-#EXTINF:-1,ITV4 
-http://46.249.60.210:15099/play/a00p 
 #EXTINF:-1,&TV 
 http://46.249.60.210:15099/play/a00k 
 #EXTINF:-1,5 USA +1 
 http://46.249.60.210:15099/play/a01p 
-#EXTINF:-1,ITV +1 
-http://46.249.60.210:15099/play/a00l 
-#EXTINF:-1,BBC Two Eng 
-http://46.249.60.210:15099/play/a00x 
-#EXTINF:-1,ITVBe 
-http://46.249.60.210:15099/play/a00u 
 #EXTINF:-1,5STAR +1 
 http://46.249.60.210:15099/play/a01s 
 #EXTINF:-1,My5 
 http://46.249.60.210:15099/play/a01r 
-#EXTINF:-1,BBC RB1 
-http://46.249.60.210:15099/play/a013 
-#EXTINF:-1,ITVBe+1 
-http://46.249.60.210:15099/play/a01c
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK5”, 
+
+#EXTINF:0,TLC 
+http://185.22.78.72:9001/play/a00j 
+#EXTINF:0,ID 
+http://185.22.78.72:9001/play/a00p 
+#EXTINF:0,Disc.History 
+http://185.22.78.72:9001/play/a00l 
+#EXTINF:0,Home & Health 
+http://185.22.78.72:9001/play/a00m 
+#EXTINF:0,Discovery 
+http://185.22.78.72:9001/play/a00h 
+#EXTINF:0,Disc.Science 
+http://185.22.78.72:9001/play/a00k 
+#EXTINF:0,Animal Planet 
+http://185.22.78.72:9001/play/a00i 
+#EXTINF:0,Disc.Turbo 
+http://185.22.78.72:9001/play/a00n 
+#EXTINF:0,BoxNation 
+http://185.22.78.72:9002/play/a032 
+#EXTINF:0,BT Sport Extra 4 
+http://185.22.78.72:9002/play/a02r 
+#EXTINF:0,BT Sport//ESPN 
+http://185.22.78.72:9002/play/a02x 
+#EXTINF:0,BT Sport Extra 6 
+http://185.22.78.72:9002/play/a02t 
+#EXTINF:0,BT Sport Extra 3 
+http://185.22.78.72:9002/play/a02q 
+#EXTINF:0,BT Sport Extra 2 
+http://185.22.78.72:9002/play/a02p 
+#EXTINF:0,BT Sport Extra 5 
+http://185.22.78.72:9002/play/a02s 
+#EXTINF:0,Motorsport TV 
+http://185.22.78.72:9002/play/a02v 
+#EXTINF:0,BT Sport 2 
+http://185.22.78.72:9002/play/a02y 
+#EXTINF:0,STV 
+http://185.22.78.72:9003/play/a02s 
+#EXTINF:0,talkSPORT 
+http://185.22.78.72:9003/play/a02q 
+#EXTINF:0,UTV 
+http://185.22.78.72:9003/play/a02t 
+#EXTINF:0,ITV 
+http://185.22.78.72:9003/play/a02r 
+#EXTINF:0,ITV3 
+http://185.22.78.72:9003/play/a02u 
+#EXTINF:7200,Movies 24 
+http://185.22.78.72:9004/play/a03b 
+#EXTINF:0,Syfy 
+http://185.22.78.72:9004/play/a039 
+#EXTINF:0,Universal 
+http://185.22.78.72:9004/play/a037 
+#EXTINF:0,E! 
+http://185.22.78.72:9004/play/a03a 
+#EXTINF:0,S4C HD 
+http://185.22.78.72:9004/play/a038 
+#EXTINF:0,Bike 
+http://185.22.78.72:9004/play/a03c
 
 
 
@@ -1117,97 +1202,6 @@ http://81.196.0.126:80/digi24edge/digi24timislivehls/index.m3u8
 
 
 #EXTINF:4 group-title=”Romania2”,
-
-#EXTINF:-1,TVH RO
-http://130.185.248.19:53337/play/a04c
-#EXTINF:-1,DIGI Sport 2 HD Romania
-http://130.185.248.19:53337/play/a035
-#EXTINF:-1,Filmbox Family HU CZ RO
-http://130.185.248.19:53337/play/a04r
-#EXTINF:-1,Acasa TV Romania
-http://130.185.248.19:53337/play/a02a
-#EXTINF:-1,Disney Channel RO
-http://130.185.248.19:53337/play/a046
-#EXTINF:-1,H!T Music RO
-http://130.185.248.19:53337/play/a05m
-#EXTINF:-1,Nat Geo Wild HD RO HU CZ
-http://130.185.248.19:53337/play/a03c
-#EXTINF:-1,TLC RO
-http://130.185.248.19:53337/play/TLC RO
-#EXTINF:-1,Boomerang Romania
-http://130.185.248.19:53337/play/a02c
-#EXTINF:-1,Mooz RO!
-http://130.185.248.19:53337/play/a06p
-#EXTINF:-1,b1 TV Romania
-http://130.185.248.19:53337/play/a02b
-#EXTINF:-1,Animal Planet HU CZ SK RO
-http://130.185.248.19:53337/play/a04e
-#EXTINF:-1,Etno TV RO
-http://130.185.248.19:53337/play/a05h
-#EXTINF:-1,Kanal D Romania
-http://130.185.248.19:53337/play/a02d
-#EXTINF:-1,Prima TV Romania
-http://130.185.248.19:53337/play/a02i
-#EXTINF:-1,U TV RO
-http://130.185.248.19:53337/play/a04d
-#EXTINF:-1,Digi Sport 1 RO
-http://130.185.248.19:53337/play/a05l
-#EXTINF:-1,Extreme Sports Channel HU CZ RO
-http://130.185.248.19:53337/play/a04g
-#EXTINF:-1,National Geographic RO
-http://130.185.248.19:53337/play/a047
-#EXTINF:-1,National TV Romania
-http://130.185.248.19:53337/play/a02e
-#EXTINF:-1,HBO 3 RO
-http://130.185.248.19:53337/play/a04a
-#EXTINF:-1,Romania TV
-http://130.185.248.19:53337/play/a05n
-#EXTINF:-1,Digi Sport 3 RO
-http://130.185.248.19:53337/play/a057
-#EXTINF:-1,Sport Ro Romania
-http://130.185.248.19:53337/play/a02h
-#EXTINF:-1,Disney Junior RO HU
-http://130.185.248.19:53337/play/a058
-#EXTINF:-1,Animal Planet HD RO HU CZ
-http://130.185.248.19:53337/play/a06f
-#EXTINF:-1,Pro Cinema Romania
-http://130.185.248.19:53337/play/a02f
-#EXTINF:-1,Digi Animal World RO HU
-http://130.185.248.19:53337/play/a05j
-#EXTINF:-1,Trinitas RO
-http://130.185.248.19:53337/play/a05g
-#EXTINF:-1,Taraf TV RO
-http://130.185.248.19:53337/play/a05f
-#EXTINF:-1,NG Wild RO
-http://130.185.248.19:53337/play/a05e
-#EXTINF:-1,Discovery HD Showcase RO HU CZ
-http://130.185.248.19:53337/play/a06g
-#EXTINF:-1,Music Channel RO
-http://130.185.248.19:53337/play/a05d
-#EXTINF:-1,Look Plus RO
-http://130.185.248.19:53337/play/a05b
-#EXTINF:-1,HBO 3 HU RO CZ
-http://130.185.248.19:53337/play/a05a
-#EXTINF:-1,Agro TV RO
-http://130.185.248.19:53337/play/a056
-#EXTINF:-1,Digi Film RO
-http://130.185.248.19:53337/play/a05k
-#EXTINF:-1,Realitatea TV RO
-http://130.185.248.19:53337/play/a04b
-#EXTINF:-1,HBO 2 HU CZ RO
-http://130.185.248.19:53337/play/a03v
-#EXTINF:-1,Cinemax HU CZ RO
-http://130.185.248.19:53337/play/a06b
-#EXTINF:-1,Boomerang HU RO PL RU
-http://130.185.248.19:53337/play/a04f
-#EXTINF:-1,Minimax RO
-http://130.185.248.19:53337/play/a049
-#EXTINF:-1,Digi Sport 4 RO
-http://130.185.248.19:53337/play/a05x
-#EXTINF:-1,Digi Sport 2 RO
-http://130.185.248.19:53337/play/a045
-#EXTINF:-1,Digi 24 RO
-http://130.185.248.19:53337/play/a05i
 
 
 
@@ -1736,132 +1730,7 @@ http://193.8.246.202:8800/play/a00u
 
 
 
-#EXTINF:4 group-title=”Bulgaria3”,
 
-#EXTINF:-1,Sofia 
-http://46.99.139.139:8000/play/a0ac 
-#EXTINF:-1,21 Plus HD 
-http://46.99.139.139:8000/play/a0bx 
-#EXTINF:-1,Info Channel 
-http://46.99.139.139:8000/play/a0bn 
-#EXTINF:-1,Sky Star HD 
-http://46.99.139.139:8000/play/a0ay 
-#EXTINF:-1,Disney 
-http://46.99.139.139:8000/play/a0af 
-#EXTINF:-1,RTV21 Popullore HD 
-http://46.99.139.139:8000/play/a0by 
-#EXTINF:-1,Klan HD 
-http://46.99.139.139:8000/play/a0bi 
-#EXTINF:-1,Tring Tring 
-http://46.99.139.139:8000/play/a0a9 
-#EXTINF:-1,Sky 7 HD 
-http://46.99.139.139:8000/play/a0ax 
-#EXTINF:-1,FOX MOVIE 
-http://46.99.139.139:8000/play/a0aw 
-#EXTINF:-1,FOX CRIME 
-http://46.99.139.139:8000/play/a0av 
-#EXTINF:-1,Tring World 
-http://46.99.139.139:8000/play/a0ag 
-#EXTINF:-1,Sky Aksion 
-http://46.99.139.139:8000/play/a0az 
-#EXTINF:-1,RTK3 
-http://46.99.139.139:8000/play/a0bq 
-#EXTINF:-1,RTV 21 Junior 
-http://46.99.139.139:8000/play/a0ae 
-#EXTINF:-1,RTV21 Popullore HD 
-http://46.99.139.139:8000/play/a0b9 
-#EXTINF:-1,FOX LIFE 
-http://46.99.139.139:8000/play/a0au 
-#EXTINF:-1,Sky Shqip 
-http://46.99.139.139:8000/play/a0b3 
-#EXTINF:-1,Vizion Plus HD 
-http://46.99.139.139:8000/play/a0bk 
-#EXTINF:-1,TRING HISTORY 
-http://46.99.139.139:8000/play/a0ai 
-#EXTINF:-1,Sky Novela 
-http://46.99.139.139:8000/play/a0b2 
-#EXTINF:-1,RTV 21 M 
-http://46.99.139.139:8000/play/a0bv 
-#EXTINF:-1,21 MiX HD 
-http://46.99.139.139:8000/play/a0b7 
-#EXTINF:-1,Tring Life 
-http://46.99.139.139:8000/play/a0c2 
-#EXTINF:-1,Baby TV 
-http://46.99.139.139:8000/play/a0ad 
-#EXTINF:-1,Alsat M 
-http://46.99.139.139:8000/play/a0bl 
-#EXTINF:-1,Jolly HD 
-http://46.99.139.139:8000/play/a0c1 
-#EXTINF:-1,21 MiX HD 
-http://46.99.139.139:8000/play/a0bw 
-#EXTINF:-1,N. Geo Wild HD 
-http://46.99.139.139:8000/play/a0am 
-#EXTINF:-1,TIP TV 
-http://46.99.139.139:8000/play/a0aa 
-#EXTINF:-1,FOX 
-http://46.99.139.139:8000/play/a0at 
-#EXTINF:-1,Tring Planet 
-http://46.99.139.139:8000/play/a0ah 
-#EXTINF:-1,Tring International 
-http://46.99.139.139:8000/play/a0bz 
-#EXTINF:-1,Tring Comedy 
-http://46.99.139.139:8000/play/a0ap 
-#EXTINF:-1,Living HD 
-http://46.99.139.139:8000/play/a0c0 
-#EXTINF:-1,Tribuna Channel HD 
-http://46.99.139.139:8000/play/a0bj 
-#EXTINF:-1,Tring Max 
-http://46.99.139.139:8000/play/a0c3 
-#EXTINF:-1,TV Mitrovica 
-http://46.99.139.139:8000/play/a0bu 
-#EXTINF:-1,Klan Kosova HD 
-http://46.99.139.139:8000/play/a0bh 
-#EXTINF:-1,RTV 21 M 
-http://46.99.139.139:8000/play/a0b6 
-#EXTINF:-1,RTK2 
-http://46.99.139.139:8000/play/a0bp 
-#EXTINF:-1,Sky Histori 
-http://46.99.139.139:8000/play/a0ak 
-#EXTINF:-1,RTK HD 
-http://46.99.139.139:8000/play/a0bo 
-#EXTINF:-1,RTK4 
-http://46.99.139.139:8000/play/a0br 
-#EXTINF:-1,KTV HD 
-http://46.99.139.139:8000/play/a0bs 
-#EXTINF:-1,21 Plus HD 
-http://46.99.139.139:8000/play/a0b8 
-#EXTINF:-1,N. Geographic HD 
-http://46.99.139.139:8000/play/a0al 
-#EXTINF:-1,RTV 21 HD 
-http://46.99.139.139:8000/play/a0bg 
-#EXTINF:-1,Tring Max 
-http://46.99.139.139:8000/play/a0be 
-#EXTINF:-1,Tring Shqip 
-http://46.99.139.139:8000/play/a0as 
-#EXTINF:-1,Kids 
-http://46.99.139.139:8000/play/a0ab 
-#EXTINF:-1,Tring Life 
-http://46.99.139.139:8000/play/a0bd 
-#EXTINF:-1,TV Mitrovica 
-http://46.99.139.139:8000/play/a0b5 
-#EXTINF:-1,Jolly HD 
-http://46.99.139.139:8000/play/a0bc 
-#EXTINF:-1,Living HD 
-http://46.99.139.139:8000/play/a0bb 
-#EXTINF:-1,Sky Comedy 
-http://46.99.139.139:8000/play/a0b1 
-#EXTINF:-1,Tring Super 
-http://46.99.139.139:8000/play/a0ao 
-#EXTINF:-1,Tring International 
-http://46.99.139.139:8000/play/a0ba 
-#EXTINF:-1,3 Plus 
-http://46.99.139.139:8000/play/a0ar 
-#EXTINF:-1,TRING FANTASY 
-http://46.99.139.139:8000/play/a0aq 
-#EXTINF:-1,Sky Shkence 
-http://46.99.139.139:8000/play/a0aj 
-#EXTINF:-1,Sky Max 
-http://46.99.139.139:8000/play/a0b0
 
 
 
@@ -1912,35 +1781,35 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 
 
-
-#EXTINF:-1,Rai Movie
-http://144.2.100.111:8000/play/a009
+#EXTINF:-1,Rai 1
+http://144.2.100.111:8000/play/a00a
+#EXTINF:-1,Rai 2
+http://144.2.100.111:8000/play/a00b
+#EXTINF:-1,Rai 3
+http://144.2.100.111:8000/play/a00c
+#EXTINF:-1,Rai 4
+http://144.2.100.111:8000/play/a00d
 #EXTINF:-1,Rai 5
 http://144.2.100.111:8000/play/a00e
+#EXTINF:-1,Rai Movie
+http://144.2.100.111:8000/play/a009
+#EXTINF:-1,Rai Premium
+http://144.2.100.111:8000/play/a008
+#EXTINF:-1,Rai Sport 2
+http://144.2.100.111:8000/play/a007
 #EXTINF:-1,ab3
 http://144.2.100.111:8000/play/a005
 #EXTINF:-1,RTL9
 http://144.2.100.111:8000/play/a006
-#EXTINF:-1,Rai Sport 2
-http://144.2.100.111:8000/play/a007
-#EXTINF:-1,Rai 1
-http://144.2.100.111:8000/play/a00a
 #EXTINF:-1,NT1 HD
 http://144.2.100.111:8000/play/a002
-#EXTINF:-1,Rai 3
-http://144.2.100.111:8000/play/a00c
-#EXTINF:-1,Rai Premium
-http://144.2.100.111:8000/play/a008
 #EXTINF:-1,France0
 http://144.2.100.111:8000/play/a001
-#EXTINF:-1,Rai 4
-http://144.2.100.111:8000/play/a00d
 #EXTINF:-1,D17
 http://144.2.100.111:8000/play/a003
 #EXTINF:-1,6ter
 http://144.2.100.111:8000/play/a004
-#EXTINF:-1,Rai 2
-http://144.2.100.111:8000/play/a00b
+
 
 
 
@@ -2008,22 +1877,57 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
 #EXTINF:0,Eurosport fr
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:0,WEO
-rtmp://str81.creacast.com:80/weo/high
+#EXTINF:0,BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
+#EXTINF:0,Canal 9
+rtmp://84.16.66.106:1935/livecast/livehd
+#EXTINF:0,Chasse et PÃªche
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_8.m3u8
+#EXTINF:0,Mirabelle TV
+http://str81.creacast.com/mirabelletv_bal/high/f1tv.m3u8
 #EXTINF:-1,GONG
 rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1,GONG
+http://ec.playmedia.fr:1935/gong-base/live/chunklist_w48075205.m3u8
 #EXTINF:-1,LA CHAINENORMANDIE
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1,GRAND LILLE
-rtmp://str81.creacast.com/grandlilletv/high
 #EXTINF:-1,TV LUX
 http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist.m3u8
 #EXTINF:-1,Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1,TVPI Bayonne
 rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
-cTelesambre
+#EXTINF:-1,cTelesambre
 http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:-1,Action
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1796000.m3u8
+#EXTINF:-1,Matele
+http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
+#EXTINF:-1,Weo
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,Animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Trek TV
+http://live-trl01.abweb.com/livetrl01/ngrp:trek.stream_bis/chunklist_b1796000.m3u8
+#EXTINF:-1,Mangas TV
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b2096000.m3u8
+#EXTINF:-1,Toute L'Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Science and Vie
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b2096000.m3u8
+#EXTINF:-1,CNA
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+#EXTINF:-1,GRAND LILLE TV
+rtmp://str81.creacast.com:80/grandlilletv/high
+#EXTINF:-1,TV7
+rtmp://62.210.204.108:1935/livtv7vo/mystream700.sdp
+#EXTINF:-1,Cinema world
+http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,France 24
+https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g&showinfo=0&color=white&autoplay=1&hl=fr
+
 #EXTINF:-1,BE-ACTV
 rtmp://vm109.imust.org/live//livestream
 #EXTINF:-1,BE-ATV
@@ -2468,7 +2372,143 @@ http://s01.iptvsolution.net/live?channelId=130&uid=4287&deviceMac=00:1A:79:2F:CE
 
 
 
-#EXTINF:7 group-title=”Germany4/Spain”,
+
+
+
+
+#EXTINF:7 group-title=”Germany4”,
+
+#EXTINF:-1,Canvas HD
+http://46.249.60.210:8666/play/a01m
+#EXTINF:-1,TLC
+http://46.249.60.210:8666/play/a013
+#EXTINF:-1,Ziggo Sport Voetbal
+http://46.249.60.210:8666/play/a00y
+#EXTINF:-1,NGC HD
+http://46.249.60.210:8666/play/a018
+#EXTINF:-1,NPO Politiek
+http://46.249.60.210:8666/play/a002
+#EXTINF:-1,TV Drenthe
+http://46.249.60.210:8666/play/a01y
+#EXTINF:-1,RTL8 HD
+http://46.249.60.210:8666/play/a00k
+#EXTINF:-1,Ziggo Sport Golf
+http://46.249.60.210:8666/play/a00z
+#EXTINF:-1,KADET
+http://46.249.60.210:8666/play/a01a
+#EXTINF:-1,Investigation Discovery
+http://46.249.60.210:8666/play/a006
+#EXTINF:-1,SBS6 HD
+http://46.249.60.210:8666/play/a008
+#EXTINF:-1,ZES
+http://46.249.60.210:8666/play/a00p
+#EXTINF:-1,Vitaya
+http://46.249.60.210:8666/play/a01d
+#EXTINF:-1,Film1 Action
+http://46.249.60.210:8666/play/a00x
+#EXTINF:-1,Boomerang
+http://46.249.60.210:8666/play/a005
+#EXTINF:-1,NET5 HD
+http://46.249.60.210:8666/play/a01k
+#EXTINF:-1,VTMKazoom/Kanaal Z
+http://46.249.60.210:8666/play/a03c
+#EXTINF:-1,RTL4 HD
+http://46.249.60.210:8666/play/a00h
+#EXTINF:-1,FOX Channel
+http://46.249.60.210:8666/play/a004
+#EXTINF:-1,FOX Sports EDL 1 HD
+http://46.249.60.210:8666/play/a00c
+#EXTINF:-1,Disney Channel
+http://46.249.60.210:8666/play/a007
+#EXTINF:-1,Travel Channel HD NL
+http://46.249.60.210:8666/play/a026
+#EXTINF:-1,RTL Z
+http://46.249.60.210:8666/play/a00l
+#EXTINF:-1,AT5
+http://46.249.60.210:8666/play/a01q
+#EXTINF:-1,RTL7 HD
+http://46.249.60.210:8666/play/a00j
+#EXTINF:-1,FOX Sports EDL 3
+http://46.249.60.210:8666/play/a010
+#EXTINF:-1,Film1 Comedy & Kids
+http://46.249.60.210:8666/play/a00v
+#EXTINF:-1,Eurosport 1HD NL
+http://46.249.60.210:8666/play/a017
+#EXTINF:-1,Film1 Premiere HD
+http://46.249.60.210:8666/play/a014
+#EXTINF:-1,een HD
+http://46.249.60.210:8666/play/a01l
+#EXTINF:-1,VIJF
+http://46.249.60.210:8666/play/a01f
+#EXTINF:-1,Ziggo Sport Select HD
+http://46.249.60.210:8666/play/a016
+#EXTINF:-1,RTL lounge
+http://46.249.60.210:8666/play/a00n
+#EXTINF:-1,VIER HD
+http://46.249.60.210:8666/play/a00s
+#EXTINF:-1,NPO3 HD
+http://46.249.60.210:8666/play/a01o
+#EXTINF:-1,L1MBURG
+http://46.249.60.210:8666/play/a00o
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://46.249.60.210:8666/play/a003
+#EXTINF:-1,TV Gelderland
+http://46.249.60.210:8666/play/a020
+#EXTINF:-1,TV Noord
+http://46.249.60.210:8666/play/a01x
+#EXTINF:-1,SBS9
+http://46.249.60.210:8666/play/a012
+#EXTINF:-1,TV Oost
+http://46.249.60.210:8666/play/a01z
+#EXTINF:-1,NPO2 HD
+http://46.249.60.210:8666/play/a00a
+#EXTINF:-1,Discovery Channel
+http://46.249.60.210:8666/play/a00e
+#EXTINF:-1,KetOp12
+http://46.249.60.210:8666/play/a01b
+#EXTINF:-1,NPO1 HD
+http://46.249.60.210:8666/play/a01j
+#EXTINF:-1,Q2 HD
+http://46.249.60.210:8666/play/a00r
+#EXTINF:-1,RTL5 HD
+http://46.249.60.210:8666/play/a00i
+#EXTINF:-1,VTM HD
+http://46.249.60.210:8666/play/a00q
+#EXTINF:-1,Omroep Brabant Televisie
+http://46.249.60.210:8666/play/a022
+#EXTINF:-1,CAZ
+http://46.249.60.210:8666/play/a01e
+#EXTINF:-1,Veronica/DisneyXD HD
+http://46.249.60.210:8666/play/a01n
+#EXTINF:-1,Film1 Sundance
+http://46.249.60.210:8666/play/a00w
+#EXTINF:-1,24Kitchen
+http://46.249.60.210:8666/play/a01r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:7 group-title=”Germany5/Spain”,
 
 #EXTINF:-1,RTL Regional NRW 
 http://46.249.60.210:50001/play/a05z 
@@ -2831,19 +2871,6 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 #EXTINF:8 group-title=”Spain2”,
 
-
-#EXTINF:-1,SyFy Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1079.ts
-#EXTINF:-1,A&E Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1127.ts
-#EXTINF:-1,Animal Planet Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1126.ts
-#EXTINF:-1,AXN Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1125.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1123.ts
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://thepk.co:2095/live/husham/isaplayer/1094.ts
 
 
 
@@ -4460,6 +4487,49 @@ http://185.59.220.134:8080/eurosport2/mpegts
 
 
 
+
+
+
+
+
+
+#EXTINF:8 group-title=”Albania2”,
+
+
+#EXTINF:-1,Abc News HD
+http://109.104.129.196:8000/play/s23
+#EXTINF:-1,Klan Kosova HD
+http://109.104.129.196:8000/play/s24
+#EXTINF:-1,Klan Plus HD
+http://109.104.129.196:8000/play/s25
+#EXTINF:-1,Klan Shop
+http://109.104.129.196:8000/play/s26
+#EXTINF:-1,Klan Test
+http://109.104.129.196:8000/play/s27
+#EXTINF:-1,ORA NEWS HD
+http://109.104.129.196:8001/play/s49
+#EXTINF:-1,TEMA TV
+http://109.104.129.196:8001/play/s48
+#EXTINF:-1,TELESPORT
+http://109.104.129.196:8001/play/s47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:8 group-title=”Albania/Republic_of_Macedonia”,
 
 #EXTINF:-1,Rrokum TV
@@ -4570,455 +4640,6 @@ http://91.224.178.9:5000/07
 
 
 
-
-
-
-#EXTINF:9 group-title=”Hungary/Chez/Slovak/Romania”,
-
-
-#EXTM3U
-#EXTINF:-1,JOJ PLUS HD Slovak
-http://130.185.248.19:53337/play/a021
-#EXTINF:-1,Film1 Premiere HD NL
-http://130.185.248.19:53337/play/a00s
-#EXTINF:-1,Sundance Channel Europe HD
-http://130.185.248.19:53337/play/a05w
-#EXTINF:-1,TV Slovenia 3
-http://130.185.248.19:53337/play/a031
-#EXTINF:-1,E! Entertainment CZ
-http://130.185.248.19:53337/play/a005
-#EXTINF:-1,Viasat3 HU
-http://130.185.248.19:53337/play/a04k
-#EXTINF:-1,Filmbox Extra HD CZ HU
-http://130.185.248.19:53337/play/a007
-#EXTINF:-1,BN BIH
-http://130.185.248.19:53337/play/a02j
-#EXTINF:-1,HRT 3
-http://130.185.248.19:53337/play/a02u
-#EXTINF:-1,CT Sport HD CZ
-http://130.185.248.19:53337/play/a01y
-#EXTINF:-1,Disney Channel HU SK CZ
-http://130.185.248.19:53337/play/a03r
-#EXTINF:-1,BN Sat
-http://130.185.248.19:53337/play/a02l
-#EXTINF:-1,Horse & Country TV
-http://130.185.248.19:53337/play/a06l
-#EXTINF:-1,Sport 2 HD CZ SK
-http://130.185.248.19:53337/play/a03j
-#EXTINF:-1,DIGI Sport 2 HD Romania
-http://130.185.248.19:53337/play/a035
-#EXTINF:-1,DIGI Sport 1 HD Hungary
-http://130.185.248.19:53337/play/a032
-#EXTINF:-1,Fishing&Hunting CZ
-http://130.185.248.19:53337/play/a01p
-#EXTINF:-1,Sport1 CZ Slo
-http://130.185.248.19:53337/play/a01t
-#EXTINF:-1,LookTV
-http://130.185.248.19:53337/play/a06e
-#EXTINF:-1,M3 Anno HU
-http://130.185.248.19:53337/play/a04h
-#EXTINF:-1,Filmbox Family HU CZ RO
-http://130.185.248.19:53337/play/a04r
-#EXTINF:-1,Viasat History HD/Nature HD CZ
-http://130.185.248.19:53337/play/a00n
-#EXTINF:-1,Nova CZ
-http://130.185.248.19:53337/play/a022
-#EXTINF:-1,FOX Channel NL
-http://130.185.248.19:53337/play/a00u
-#EXTINF:-1,Reality Kings
-http://130.185.248.19:53337/play/a062
-#EXTINF:-1,Sport 1 HD HU
-http://130.185.248.19:53337/play/a03i
-#EXTINF:-1,MTV NL
-http://130.185.248.19:53337/play/a00z
-#EXTINF:-1,Barrandov Plus HD CZ
-http://130.185.248.19:53337/play/a01v
-#EXTINF:-1,NRK Super - NRK3
-http://130.185.248.19:53337/play/a06a
-#EXTINF:-1,Fox Sports Eredivisie 3 NL
-http://130.185.248.19:53337/play/a00v
-#EXTINF:-1,Filmbox Plus CZ
-http://130.185.248.19:53337/play/a008
-#EXTINF:-1,BN Music
-http://130.185.248.19:53337/play/a02k
-#EXTINF:-1,Disney Channel RO
-http://130.185.248.19:53337/play/a046
-#EXTINF:-1,H!T Music RO
-http://130.185.248.19:53337/play/a05m
-#EXTINF:-1,Prima MAX HD CZ
-http://130.185.248.19:53337/play/a06o
-#EXTINF:-1,TV2 Norway
-http://130.185.248.19:53337/play/a050
-#EXTINF:-1,Retro Music TV CZ
-http://130.185.248.19:53337/play/a00j
-#EXTINF:-1,Nat Geo Wild HD RO HU CZ
-http://130.185.248.19:53337/play/a03c
-#EXTINF:-1,Universal Channel CZ
-http://130.185.248.19:53337/play/a01u
-#EXTINF:-1,Prima HD CZ
-http://130.185.248.19:53337/play/a026
-#EXTINF:-1,TV JOJ HD
-http://130.185.248.19:53337/play/a066
-#EXTINF:-1,NPO2 HD NL
-http://130.185.248.19:53337/play/a012
-#EXTINF:-1,TLC RO
-http://130.185.248.19:53337/play/TLC RO
-#EXTINF:-1,Boomerang Romania
-http://130.185.248.19:53337/play/a02c
-#EXTINF:-1,SPORT 2 HU
-http://130.185.248.19:53337/play/a04v
-#EXTINF:-1,Investigation Discovery NL
-http://130.185.248.19:53337/play/a00x
-#EXTINF:-1,Mooz RO!
-http://130.185.248.19:53337/play/a06p
-#EXTINF:-1,Discovery CZ
-http://130.185.248.19:53337/play/a003
-#EXTINF:-1,CT2 HD CZ
-http://130.185.248.19:53337/play/a01x
-#EXTINF:-1,Mnam TV CZ
-http://130.185.248.19:53337/play/a00e
-#EXTINF:-1,SF Kanalen
-http://130.185.248.19:53337/play/a06n
-#EXTINF:-1,Prima COOL HD CZ
-http://130.185.248.19:53337/play/a025
-#EXTINF:-1,TV6 HD SWE
-http://130.185.248.19:53337/play/a06m
-#EXTINF:-1,b1 TV Romania
-http://130.185.248.19:53337/play/a02b
-#EXTINF:-1,Travel Channel CZ HU EN/Playboy
-http://130.185.248.19:53337/play/a05o
-#EXTINF:-1,Arena Sport 1 HD SK
-http://130.185.248.19:53337/play/a03h
-#EXTINF:-1,Viasat Fotboll HD
-http://130.185.248.19:53337/play/a06j
-#EXTINF:-1,Hayatovci
-http://130.185.248.19:53337/play/a02r
-#EXTINF:-1,CT HD CZ
-http://130.185.248.19:53337/play/a05y
-#EXTINF:-1,Animal Planet HU CZ SK RO
-http://130.185.248.19:53337/play/a04e
-#EXTINF:-1,docuCS CZ
-http://130.185.248.19:53337/play/a01o
-#EXTINF:-1,Viasat Sport HD N
-http://130.185.248.19:53337/play/a06i
-#EXTINF:-1,ONS NL
-http://130.185.248.19:53337/play/a063
-#EXTINF:-1,DIGI World HD Hungary
-http://130.185.248.19:53337/play/a036
-#EXTINF:-1,Kanal 7 TR
-http://130.185.248.19:53337/play/a06c
-#EXTINF:-1,Etno TV RO
-http://130.185.248.19:53337/play/a05h
-#EXTINF:-1,Kanal D Romania
-http://130.185.248.19:53337/play/a02d
-#EXTINF:-1,FOX Sports2 HD int NL
-http://130.185.248.19:53337/play/a01i
-#EXTINF:-1,STV1 HD Slovak
-http://130.185.248.19:53337/play/a028
-#EXTINF:-1,Prima TV Romania
-http://130.185.248.19:53337/play/a02i
-#EXTINF:-1,Echo TV HU
-http://130.185.248.19:53337/play/a04p
-#EXTINF:-1,U TV RO
-http://130.185.248.19:53337/play/a04d
-#EXTINF:-1,EDGE HD
-http://130.185.248.19:53337/play/a00p
-#EXTINF:-1,Fashion TV
-http://130.185.248.19:53337/play/a03d
-#EXTINF:-1,Digi Sport 1 RO
-http://130.185.248.19:53337/play/a05l
-#EXTINF:-1,Nova Action HD CZ
-http://130.185.248.19:53337/play/a020
-#EXTINF:-1,Ziggo Sport Golf
-http://130.185.248.19:53337/play/a015
-#EXTINF:-1,Ziggo Sport Select HD NL
-http://130.185.248.19:53337/play/a016
-#EXTINF:-1,RTL Klub HD HU
-http://130.185.248.19:53337/play/a03g
-#EXTINF:-1,TV Paprika CZ HU
-http://130.185.248.19:53337/play/a00m
-#EXTINF:-1,Viasat Hockey HD
-http://130.185.248.19:53337/play/a06k
-#EXTINF:-1,HRT 4
-http://130.185.248.19:53337/play/a02v
-#EXTINF:-1,HRT 2
-http://130.185.248.19:53337/play/a02t
-#EXTINF:-1,HRT 1
-http://130.185.248.19:53337/play/a02s
-#EXTINF:-1,Hayat Folk
-http://130.185.248.19:53337/play/a02n
-#EXTINF:-1,Extreme Sports Channel HU CZ RO
-http://130.185.248.19:53337/play/a04g
-#EXTINF:-1,Hayat Music
-http://130.185.248.19:53337/play/a02p
-#EXTINF:-1,Hayat Plus
-http://130.185.248.19:53337/play/a02q
-#EXTINF:-1,TV2 HU
-http://130.185.248.19:53337/play/a04z
-#EXTINF:-1,Magyar 2 HD
-http://130.185.248.19:53337/play/a03f
-#EXTINF:-1,SBS 6 HD NL
-http://130.185.248.19:53337/play/a013
-#EXTINF:-1,Film1 Sundance NL
-http://130.185.248.19:53337/play/a00t
-#EXTINF:-1,Nova Sport 1 HD CZ
-http://130.185.248.19:53337/play/a024
-#EXTINF:-1,DIGI Sport 2 HD Hungary
-http://130.185.248.19:53337/play/a034
-#EXTINF:-1,m4 HD HU
-http://130.185.248.19:53337/play/a05v
-#EXTINF:-1,National Geographic RO
-http://130.185.248.19:53337/play/a047
-#EXTINF:-1,Nautical Channel HD
-http://130.185.248.19:53337/play/a00f
-#EXTINF:-1,Spektrum HD CZ HU
-http://130.185.248.19:53337/play/a01s
-#EXTINF:-1,Duna HD HU
-http://130.185.248.19:53337/play/a05q
-#EXTINF:-1,National TV Romania
-http://130.185.248.19:53337/play/a02e
-#EXTINF:-1,HBO 3 RO
-http://130.185.248.19:53337/play/a04a
-#EXTINF:-1,CT1 HD CZ
-http://130.185.248.19:53337/play/a01w
-#EXTINF:-1,Romania TV
-http://130.185.248.19:53337/play/a05n
-#EXTINF:-1,Spektrum TV HU
-http://130.185.248.19:53337/play/a040
-#EXTINF:-1,NPO Zapp Xtra/NPO Best
-http://130.185.248.19:53337/play/a064
-#EXTINF:-1,Nick Junior HU
-http://130.185.248.19:53337/play/a05s
-#EXTINF:-1,HBO HD NL
-http://130.185.248.19:53337/play/a01j
-#EXTINF:-1,Brava HD
-http://130.185.248.19:53337/play/a01f
-#EXTINF:-1,Digi Sport 3 RO
-http://130.185.248.19:53337/play/a057
-#EXTINF:-1,AXN CZ
-http://130.185.248.19:53337/play/a065
-#EXTINF:-1,Sport Ro Romania
-http://130.185.248.19:53337/play/a02h
-#EXTINF:-1,SBS 9 NL
-http://130.185.248.19:53337/play/a014
-#EXTINF:-1,TV Oranje NL
-http://130.185.248.19:53337/play/a01a
-#EXTINF:-1,Disney Junior RO HU
-http://130.185.248.19:53337/play/a058
-#EXTINF:-1,Animal Planet HD RO HU CZ
-http://130.185.248.19:53337/play/a06f
-#EXTINF:-1,TV2 Humor Norway
-http://130.185.248.19:53337/play/a052
-#EXTINF:-1,Pro Cinema Romania
-http://130.185.248.19:53337/play/a02f
-#EXTINF:-1,Duna HU
-http://130.185.248.19:53337/play/a03s
-#EXTINF:-1,Music Channel HU
-http://130.185.248.19:53337/play/a044
-#EXTINF:-1,Golf Channell CZ
-http://130.185.248.19:53337/play/a00a
-#EXTINF:-1,NR1 Turk HD
-http://130.185.248.19:53337/play/a06h
-#EXTINF:-1,Pro TV HD
-http://130.185.248.19:53337/play/a038
-#EXTINF:-1,TV JOJ SK
-http://130.185.248.19:53337/play/a04y
-#EXTINF:-1,Digi Animal World RO HU
-http://130.185.248.19:53337/play/a05j
-#EXTINF:-1,Digi 24 RO
-http://130.185.248.19:53337/play/a05i
-#EXTINF:-1,TLC NL
-http://130.185.248.19:53337/play/a019
-#EXTINF:-1,Trinitas RO
-http://130.185.248.19:53337/play/a05g
-#EXTINF:-1,Taraf TV RO
-http://130.185.248.19:53337/play/a05f
-#EXTINF:-1,NG Wild RO
-http://130.185.248.19:53337/play/a05e
-#EXTINF:-1,Discovery HD Showcase RO HU CZ
-http://130.185.248.19:53337/play/a06g
-#EXTINF:-1,REBEL CZ
-http://130.185.248.19:53337/play/a00h
-#EXTINF:-1,Nova Cinema CZ
-http://130.185.248.19:53337/play/a023
-#EXTINF:-1,Music Channel RO
-http://130.185.248.19:53337/play/a05d
-#EXTINF:-1,M4 Sport HU
-http://130.185.248.19:53337/play/a05c
-#EXTINF:-1,Filmbox Premium CZ
-http://130.185.248.19:53337/play/a009
-#EXTINF:-1,Nova Sport 1 CZ
-http://130.185.248.19:53337/play/a04t
-#EXTINF:-1,Look Plus RO
-http://130.185.248.19:53337/play/a05b
-#EXTINF:-1,RTRS Plus
-http://130.185.248.19:53337/play/a02x
-#EXTINF:-1,NRK1
-http://130.185.248.19:53337/play/a068
-#EXTINF:-1,HBO 3 HU RO CZ
-http://130.185.248.19:53337/play/a05a
-#EXTINF:-1,RELAX Pohoda CZ
-http://130.185.248.19:53337/play/a00i
-#EXTINF:-1,RiK CZ
-http://130.185.248.19:53337/play/a027
-#EXTINF:-1,Filmbox Family CZ
-http://130.185.248.19:53337/play/a006
-#EXTINF:-1,STORY4 HU
-http://130.185.248.19:53337/play/a043
-#EXTINF:-1,Film Cafe HU
-http://130.185.248.19:53337/play/a03t
-#EXTINF:-1,Sport 1 HU
-http://130.185.248.19:53337/play/a041
-#EXTINF:-1,FOX TR
-http://130.185.248.19:53337/play/a06d
-#EXTINF:-1,C More Live HD
-http://130.185.248.19:53337/play/a067
-#EXTINF:-1,NRK2
-http://130.185.248.19:53337/play/a069
-#EXTINF:-1,TV2 HD Hungary
-http://130.185.248.19:53337/play/a039
-#EXTINF:-1,Agro TV RO
-http://130.185.248.19:53337/play/a056
-#EXTINF:-1,Nickelodeon CZ
-http://130.185.248.19:53337/play/a00g
-#EXTINF:-1,NPO Doc NL
-http://130.185.248.19:53337/play/a011
-#EXTINF:-1,TV2 Nyhetskanalen Norway
-http://130.185.248.19:53337/play/a053
-#EXTINF:-1,TV2 Livsstil Norway
-http://130.185.248.19:53337/play/a051
-#EXTINF:-1,Veronica DisneyXD HD NL
-http://130.185.248.19:53337/play/a01n
-#EXTINF:-1,TV2 Sport Norway
-http://130.185.248.19:53337/play/a054
-#EXTINF:-1,NET5 HD NL
-http://130.185.248.19:53337/play/a01k
-#EXTINF:-1,TV2 Zebra Norway
-http://130.185.248.19:53337/play/a055
-#EXTINF:-1,Digi Film RO
-http://130.185.248.19:53337/play/a05k
-#EXTINF:-1,National Geographic Channel HD NL
-http://130.185.248.19:53337/play/a010
-#EXTINF:-1,the QYOU HD NL
-http://130.185.248.19:53337/play/a018
-#EXTINF:-1,Film1 Action NL
-http://130.185.248.19:53337/play/a00q
-#EXTINF:-1,RTRS Sat
-http://130.185.248.19:53337/play/a02y
-#EXTINF:-1,Sport2 CZ SK
-http://130.185.248.19:53337/play/a04w
-#EXTINF:-1,een HD NL
-http://130.185.248.19:53337/play/a01h
-#EXTINF:-1,Sport2 HD CZ SLO
-http://130.185.248.19:53337/play/a00k
-#EXTINF:-1,RTL Klub HU
-http://130.185.248.19:53337/play/a04u
-#EXTINF:-1,HBO HU CZ
-http://130.185.248.19:53337/play/a04s
-#EXTINF:-1,kinoCS CZ
-http://130.185.248.19:53337/play/a01q
-#EXTINF:-1,Film+ HU
-http://130.185.248.19:53337/play/a04q
-#EXTINF:-1,Duna World HU
-http://130.185.248.19:53337/play/a04o
-#EXTINF:-1,M2 HU
-http://130.185.248.19:53337/play/a03y
-#EXTINF:-1,CT2 CZ
-http://130.185.248.19:53337/play/a04n
-#EXTINF:-1,ATV HU
-http://130.185.248.19:53337/play/a04m
-#EXTINF:-1,Realitatea TV RO
-http://130.185.248.19:53337/play/a04b
-#EXTINF:-1,TV Slovenija 2
-http://130.185.248.19:53337/play/a030
-#EXTINF:-1,HBO 2 HU CZ RO
-http://130.185.248.19:53337/play/a03v
-#EXTINF:-1,Vitaya NL
-http://130.185.248.19:53337/play/a01c
-#EXTINF:-1,Cinemax HU CZ RO
-http://130.185.248.19:53337/play/a06b
-#EXTINF:-1,RTRS
-http://130.185.248.19:53337/play/a02w
-#EXTINF:-1,Boomerang HU RO PL RU
-http://130.185.248.19:53337/play/a04f
-#EXTINF:-1,HBO 3 NL
-http://130.185.248.19:53337/play/a00w
-#EXTINF:-1,Jim NL
-http://130.185.248.19:53337/play/a00y
-#EXTINF:-1,M1 HD Hungary
-http://130.185.248.19:53337/play/a037
-#EXTINF:-1,KinoSvet CZ
-http://130.185.248.19:53337/play/a00c
-#EXTINF:-1,HBO HD HU EN
-http://130.185.248.19:53337/play/a05r
-#EXTINF:-1,TV Barrandov CZ
-http://130.185.248.19:53337/play/a04x
-#EXTINF:-1,C More Sport
-http://130.185.248.19:53337/play/a03p
-#EXTINF:-1,Face TV
-http://130.185.248.19:53337/play/a02m
-#EXTINF:-1,Bloomberg
-http://130.185.248.19:53337/play/a03a
-#EXTINF:-1,Sport5 CZ
-http://130.185.248.19:53337/play/a00l
-#EXTINF:-1,Nova HD CZ
-http://130.185.248.19:53337/play/a05t
-#EXTINF:-1,Viasat 6 HU
-http://130.185.248.19:53337/play/a04l
-#EXTINF:-1,Minimax RO
-http://130.185.248.19:53337/play/a049
-#EXTINF:-1,Digi Sport 4 RO
-http://130.185.248.19:53337/play/a05x
-#EXTINF:-1,iConcerts CZ
-http://130.185.248.19:53337/play/a01r
-#EXTINF:-1,Digi Sport 2 RO
-http://130.185.248.19:53337/play/a045
-#EXTINF:-1,TV Slovenija 1
-http://130.185.248.19:53337/play/a02z
-#EXTINF:-1,Pro TV Romania
-http://130.185.248.19:53337/play/a02g
-#EXTINF:-1,NPO1 HD NL
-http://130.185.248.19:53337/play/a01l
-#EXTINF:-1,Minimax HU SK
-http://130.185.248.19:53337/play/a03z
-#EXTINF:-1,JOJ Cinema CZ
-http://130.185.248.19:53337/play/a00b
-#EXTINF:-1,Film1 Comedy & Kids NL
-http://130.185.248.19:53337/play/a00r
-#EXTINF:-1,DIGI Sport 1 HD RO
-http://130.185.248.19:53337/play/a033
-#EXTINF:-1,Canvas HD NL
-http://130.185.248.19:53337/play/a01g
-#EXTINF:-1,STV2 HD Slovak
-http://130.185.248.19:53337/play/a029
-#EXTINF:-1,VIJF NL
-http://130.185.248.19:53337/play/a01b
-#EXTINF:-1,M1 HU
-http://130.185.248.19:53337/play/a03x
-#EXTINF:-1,Boomerang NL
-http://130.185.248.19:53337/play/a00o
-#EXTINF:-1,AT5 NL
-http://130.185.248.19:53337/play/a01e
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://130.185.248.19:53337/play/a017
-#EXTINF:-1,Film+ CZ
-http://130.185.248.19:53337/play/a00d
-#EXTINF:-1,DAJTO HD Slovak
-http://130.185.248.19:53337/play/a01z
-#EXTINF:-1,NPO3 HD NL
-http://130.185.248.19:53337/play/a01m
-#EXTINF:-1,H!T Music Channel HU
-http://130.185.248.19:53337/play/a03u
-#EXTINF:-1,Filmbox Premium HU
-http://130.185.248.19:53337/play/a03e
-#EXTINF:-1,HBO HU
-http://130.185.248.19:53337/play/a03w
-#EXTINF:-1,CNBC Europe
-http://130.185.248.19:53337/play/a03b
-#EXTINF:-1,24 Kitchen NL
-http://130.185.248.19:53337/play/a01d
-#EXTINF:-1,Magyar SlÃ¡ger TV
-http://130.185.248.19:53337/play/a04i
 
 
 
@@ -5451,10 +5072,1022 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be08
 
 #EXTINF:9 group-title=”India2”,
 
+#EXTINF:-1,DD1
 
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD235L240P/playlist.m3u8
 
+#EXTINF:-1,DD1 National
 
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_National/DD_National.m3u8
 
+#EXTINF:-1,DD ODIA
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Oriya/DD_Oriya.m3u8
+
+#EXTINF:-1, ETV Odia News
+
+http://etv_oriya-lh.akamaihd.net/i/etv_odia_news_n_1@179753/index_3_av-b.m3u8
+
+#EXTINF:-1,Taranga TV1
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Tarang_TV/Tarang_TV.m3u8
+
+#EXTINF:-1,Taranga TV
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD95L240P/playlist.m3u8
+
+#EXTINF:-1,Taranga Music
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Tarang_Music/Tarang_Music.m3u8
+
+#EXTINF:-1,Colors ODIA
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Oriya/Colors_Oriya.m3u8
+
+#EXTINF:-1,Sarthak ODIA
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sarthak_TV/Sarthak_TV.m3u8
+
+#EXTINF:-1,OTV News MID
+
+http://otvdigitalhd.in:1935/unevent/otvsmil.smil/chunklist.m3u8
+
+#EXTINF:-1,OTV News-HQ
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD93L240P/playlist.m3u8
+
+#EXTINF:-1, Prathana TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Prathana_TV/Prathana_TV.m3u8
+
+#EXTINF:-1, Prathana TV2
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD94L240P/playlist.m3u8
+
+#EXTINF:-1,Alankar TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Alankar_TV/Alankar_TV.m3u8
+
+#EXTINF:-1,Naxatra TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Naxatra_News/Naxatra_News.m3u8
+
+#EXTINF:-1,Kanak NEWS
+
+http://139.59.13.228:8081/live/stream/playlist.m3u8
+
+#EXTINF:-1,ZEE Kalinga
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Kalinga/Zee_Kalinga.m3u8
+
+#EXTINF:-1,MBC Odia TV
+
+http://live-fs.wmncdn.net/mbctv1/live1.stream/playlist.m3u8
+
+#EXTINF:-1,News 7 Odiya
+
+http://34.192.163.239:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1,Kalinga TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kalinga_TV/Kalinga_TV.m3u8
+
+#EXTINF:-1,NEWS WORLD ODIA TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_World_Odisha/News_World_Odisha.m3u8
+
+#EXTINF:-1,Radio Chocolate odia
+
+http://216.158.233.134:8000/airtime_128
+
+#EXTINF:-1,Radio Disha odia
+
+http://192.64.83.67:8000/airtime_128
+
+#EXTINF:-1,DD NEWS
+
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_3_av-b.m3u8
+
+#EXTINF:-1,AajTak
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
+
+#EXTINF:-1,AajTak link2
+
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1,ABP News
+
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1,NEWS IND24x7
+
+http://jiotv.live.cdn.jio.com/News_India_24_X_7/News_India_24_X_7.m3u8
+
+#EXTINF:-1,VTV Guju
+
+http://139.162.45.160:1935/trans/inewsup.stream_aac/playlist.m3u8
+
+#EXTINF:-1,Live Today
+
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/playlist.m3u8
+
+#EXTINF:-1, India TV
+
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:-1, NEWS 24 Hindi
+
+http://multitvlive.multitvsolution.com/multitvcdn/smil:News24.smil/chunklist_b2096000_sleng.m3u8
+
+#EXTINF:-1, IBN7 News
+
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+
+#EXTINF:-1, News18 Ind
+
+http://live.wmncdn.net/news18india/c2b04f69640309776f357ac2516bf512.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, National Voice Hindi
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/National_Voice/National_Voice.m3u8
+
+#EXTINF:-1, News Nation-Hindi
+
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+
+#EXTINF:-1, ChannelOne News-Hindi
+
+rtmp://edge-ind.inapcdn.in/vivo/190smart.stream_aac
+
+#EXTINF:-1, SamacharTime24-Hindi
+
+http://live.globalgroupsindia.in:10005/live/gb506/playlist.m3u8
+
+#EXTINF:-1,  1IndiaNews-Hindi
+
+rtmp://live-fs.wmncdn.net/firstindianewstv1/live.stream
+
+#EXTINF:-1,CNBC AWAZ
+
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+
+#EXTINF:-1,ZEE BUSINESS
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business.m3u8
+
+#EXTINF:-1,ZEE NEWS
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News.m3u8
+
+#EXTINF:-1,CNBC PRIME HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD.m3u8
+
+#EXTINF:-1,BTVi NEWS
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BTVi/BTVi.m3u8
+
+#EXTINF:-1,NewsWorld-Hindi
+
+http://d3qq55hfqumji3.cloudfront.net/nworg/smil:newsworld.smil/playlist.m3u8
+
+#EXTINF:-1,India News TV-Hindi
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+
+#EXTINF:-1,REPUBLIC NEWS(Arnab)
+
+http://sshds5-lh.akamaihd.net/i/pcrepublichs_3@503842/index_1300_av-p.m3u8
+
+#EXTINF:-1,NDTV GoodTimes(x)
+
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvgoodtimelive.smil/playlist.m3u8
+
+#EXTINF:-1,NDTV GoodTimes(ok)
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times.m3u8
+
+#EXTINF:-1,NDTV khabar
+
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8
+
+#EXTINF:-1,NDTV 24×7
+
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+
+#EXTINF:-1,NDTV Profit
+
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
+
+#EXTINF:-1, Headlines Today
+
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:-1,ET NOW
+
+http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+
+#EXTINF:-1, CNN NEWS
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+
+#EXTINF:-1, CNN NEWS2
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN/CNN.m3u8
+
+#EXTINF:-1,ABC NEWS
+
+http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
+
+#EXTINF:-1,CNNIBN
+
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+
+#EXTINF:-1,NEWSX HD
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+#EXTINF:-1,TIMESNOW
+
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/index_600_av-p.m3u8
+
+#EXTINF:-1,TIMESNOW HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Times_Now_HD/Times_Now_HD.m3u8
+
+#EXTINF:-1,MIRROR NOW
+
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+
+#EXTINF:-1,Bloomberg US
+
+https://mediauseast.akamaized.net/us/us1_live.m3u8
+
+#EXTINF:-1,RTNEWS GLOBAL
+
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+#EXTINF:-1,SKYNEWS UK
+
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1, BBC World
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1,BBCWORLD NEWS
+
+http://jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News.m3u8
+
+#EXTINF:-1,Channel News Asia
+
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1,Euro News
+
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1,Euro2 News
+
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+
+#EXTINF:-1,France24 News
+
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+
+#EXTINF:-1,CBN US
+
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1,DW NEWS
+
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,Aljazeera News
+
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1,HomeShop18
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18.m3u8
+
+#EXTINF:-1, WB1 TV
+
+http://my2.videodb.in:8081/english/moviesnow-b2/playlist.m3u8
+
+#EXTINF:-1, WB TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB.m3u8
+
+#EXTINF:-1, StarMovies
+
+http://87.98.150.108:1935/live/aurohd_fr.stream/playlist.m3u8
+
+#EXTINF:-1, London Live
+
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1, AXN HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD.m3u8
+
+#EXTINF:-1, HBO
+
+http://my2.videodb.in:8081/english/hbo-b2/playlist.m3u8
+
+#EXTINF:-1, HBO HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD.m3u8
+
+#EXTINF:-1, MOVIES NOW
+
+http://my2.videodb.in:8081/english/moviesnow-b2/playlist.m3u8
+
+#EXTINF:-1, MOVIES NOW HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD.m3u8
+
+#EXTINF:-1, MOVIES NOW2 HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD.m3u8
+
+#EXTINF:-1, MBC ACTION
+
+http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+
+#EXTINF:-1, MBC MAX
+
+http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
+
+#EXTINF:-1, MBC 2
+
+http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
+
+#EXTINF:-1, Sony BBC Earth HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD.m3u8
+
+#EXTINF:-1, Sony Le PLEX HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD.m3u8
+
+#EXTINF:-1, Sony PIX HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD.m3u8
+
+#EXTINF:-1, MN Plus HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS.m3u8
+
+#EXTINF:-1, Romedy Now HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD.m3u8
+
+#EXTINF:-1, Travel XP HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD.m3u8
+
+#EXTINF:-1, TLC HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World.m3u8
+
+#EXTINF:-1, Animal Planet HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD.m3u8
+
+#EXTINF:-1, HISTORY TV HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD.m3u8
+
+#EXTINF:-1, Discovery World HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World.m3u8
+
+#EXTINF:-1, FYI TV18 HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18.m3u8
+
+#EXTINF:-1, TLC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_Hindi/TLC_Hindi_600.m3u8
+
+#EXTINF:-1, Living Foodz
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Living_Foodz/Living_Foodz.m3u8
+
+#EXTINF:-1, INSIGHT HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Insight/Insight.m3u8
+
+#EXTINF:-1, Dubai ONE
+
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1, Dubai TV
+
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+#EXTINF:-1, Mello TV
+
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+
+#EXTINF:-1, SONY ROX Music HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Rox_HD/Sony_Rox_HD.m3u8
+
+#EXTINF:-1, ANDTV HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD.m3u8
+
+#EXTINF:-1, SonyTV HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD.m3u8
+
+#EXTINF:-1, SonyTV
+
+https://hls.ssh101.com/live/sonytv/index.m3u8
+
+#EXTINF:-1, ZeeTV HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD.m3u8
+
+#EXTINF:-1, ZeeTV HD2
+
+https://hls.ssh101.com/live/zeetv/index.m3u8
+
+#EXTINF:-1, LifeOK HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Life_OK_HD/Life_OK_HD.m3u8
+
+#EXTINF:-1,StarPlus HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD.m3u8
+
+#EXTINF:-1,StarGOLD HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD.m3u8
+
+#EXTINF:-1,Sony MAX HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD.m3u8
+
+#EXTINF:-1,Colors TV HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD.m3u8
+
+#EXTINF:-1,Colors TV
+
+https://hls.ssh101.com/live/colors/index.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD.m3u8
+
+#EXTINF:-1,ZEE CINEMA
+
+https://hls.ssh101.com/live/zeecinema/index.m3u8
+
+#EXTINF:-1,ZEE CLASSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Classic/Zee_Classic_600.m3u8
+
+#EXTINF:-1,ZEE ANMOL
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol/Zee_Anmol.m3u8
+
+#EXTINF:-1, Sony Sab HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD.m3u8
+
+#EXTINF:-1, Sony Sab
+
+https://hls.ssh101.com/live/sonysab/index.m3u8
+
+#EXTINF:-1, Rishtay
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey.m3u8
+
+#EXTINF:-1, Rishtay Cineplex
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex.m3u8
+
+#EXTINF:-1, B4U Movies
+
+http://my2.videodb.in:8081/hindi/b4umovies-b7/playlist.m3u8
+
+#EXTINF:-1, AndPicture HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD.m3u8
+
+#EXTINF:-1, Movies OK
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Movies_OK/Movies_OK.m3u8
+
+#EXTINF:-1, EPIC HD
+
+http://jiotv.live.cdn.jio.com/Epic_HD/Epic_HD.m3u8
+
+#EXTINF:-1, MTV SD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV.m3u8
+
+#EXTINF:-1, MTV Beats HD
+
+http://jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD.m3u8
+
+#EXTINF:-1, Sony MIX
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix.m3u8
+
+#EXTINF:-1, B4U MUSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/B4U_Music/B4U_Music.m3u8
+
+#EXTINF:-1, ZEE ETC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc.m3u8
+
+#EXTINF:-1, ZING MUSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zing/Zing.m3u8
+
+#EXTINF:-1, MASTII MUSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Mastiii/Mastiii.m3u8
+
+#EXTINF:-1, E24 MUSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/E_24/E_24.m3u8
+
+#EXTINF:-1, MUSIC INDIA
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Music_India/Music_India.m3u8
+
+#EXTINF:-1, 9X JALWA
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Jalwa/9X_Jalwa.m3u8
+
+#EXTINF:-1, 9XM MUSIC
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM.m3u8
+
+#EXTINF:-1, 9X TASHAN
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Tashan/9X_Tashan.m3u8
+
+#EXTINF:-1, 9X JHAKAAS
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas.m3u8
+
+#EXTINF:-1, Zoom TV
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD160L240P/playlist.m3u8
+
+#EXTINF:-1, Zoom TV2
+
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/index_600_av-p.m3u8
+
+#EXTINF:-1, ID TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ID/ID_600.m3u8
+
+#EXTINF:-1, Discovery Science TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science.m3u8
+
+#EXTINF:-1, Discovery TURBO TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo.m3u8
+
+#EXTINF:-1, SONY PAL TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal.m3u8
+
+#EXTINF:-1, ZEE ACTION
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action.m3u8
+
+#EXTINF:-1, Zindegi
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zindagi/Zindagi.m3u8
+
+#EXTINF:-1, JOO Music
+
+http://wowzacontrol.com:1935/8038/8038/playlist.m3u8
+
+#EXTINF:-1, D3 HD Music TV
+
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:-1, Desi Channel
+
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1, Star Utsav
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Utsav/Star_Utsav.m3u8
+
+#EXTINF:-1, Channel V
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_V/Channel_V.m3u8
+
+#EXTINF:-1, FOOD FOOD TV
+
+http://87.98.150.108:1935/live/foodfood_fr.stream/playlist.m3u8
+
+#EXTINF:-1, Dillagi TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Dillagi_TV/Dillagi_TV_600.m3u8
+
+#EXTINF:-1, Dhamaal TV
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Dhamaal_TV/Dhamaal_TV.m3u8
+
+#EXTINF:-1, Star Sports 1 SD(WORKING)
+
+https://live9.userapi.com/639914/live/rR5fnBtWaQfwyqom/playlist.m3u8
+
+#EXTINF:-1, Star Sports1 HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_1/Star_Sports_HD_1.m3u8
+
+#EXTINF:-1, Star Sports2 HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_2/Star_Sports_HD_2.m3u8
+
+#EXTINF:-1, Star Sports HINDI HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_3/Star_Sports_3.m3u8
+
+#EXTINF:-1, Star Sports Select 1 HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1.m3u8
+
+#EXTINF:-1, Star Sports Select 2 HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2.m3u8
+
+#EXTINF:-1, EuroSports1
+
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1, TEN1 HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD.m3u8
+
+#EXTINF:-1, TEN SP1 SD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_1/Ten_1.m3u8
+
+#EXTINF:-1, TEN Sports
+
+https://live.tune.tv/tensports/ten-sports/playlist.m3u8
+
+#EXTINF:-1, TEN SP3
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_3/Ten_3.m3u8
+
+#EXTINF:-1, Sony SIX HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD.m3u8
+
+#EXTINF:-1, Sony ESPN
+
+http://87.98.150.108:1935/live/jaikrishna_fr.stream/chunklist.m3u8
+
+#EXTINF:-1, Sony ESPN HD
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD.m3u8
+
+#EXTINF:-1, Sony SIX
+
+https://hls.ssh101.com/live/sonysix4/index.m3u8
+
+#EXTINF:-1, DD Sports
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports.m3u8
+#EXTINF:-1, NEO Sports
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Sports/Neo_Sports.m3u8
+#EXTINF:-1, NEO PRIME
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Prime/Neo_Prime.m3u8
+#EXTINF:-1, Sky Sports 2 HD
+https://live9.userapi.com/639908/live/wjJz81lAf0U/playlist.m3u8
+#EXTINF:-1, PTV SP1
+https://live9.userapi.com/616313/live/wjJz81lAf0U/playlist.m3u8
+#EXTINF:-1, Mahua Plus BhojPuri
+http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:-1, Jonack
+rtmp://edge-ap2.cloudfrontcdn.in/edge1//smartsh2.stream_aac
+#EXTINF:-1, ETV Bihar
+http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-b.m3u8
+#EXTINF:-1, ETV Rajastan
+http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
+#EXTINF:-1, ETV UP
+http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+#EXTINF:-1, ETV MP
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
+#EXTINF:-1, ETV URDU
+http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
+#EXTINF:-1, Speed Records Punjabi Music
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD260L240P/playlist.m3u8
+#EXTINF:-1, A One Punjab
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD201L240P/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD28L240P/playlist.m3u8
+#EXTINF:-1, Pogo
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD29L240P/playlist.m3u8
+#EXTINF:-1, Toonami
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+#EXTINF:-1, RT Movies
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.m3u8
+#EXTINF:-1, TV9 Telugu
+http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/playlist.m3u8
+#EXTINF:-1, MAA Gold2 Tel
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold.m3u8
+#EXTINF:-1, MAA MOVIES Telugu
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Movies/Maa_Movies.m3u8
+#EXTINF:-1, Star MAATV HD Telugu
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV.m3u8
+#EXTINF:-1, Gemini TV Telugu
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_TV/Gemini_TV.m3u8
+#EXTINF:-1, Gemini Life Telugu
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Life/Gemini_Life.m3u8
+#EXTINF:-1, Gemini Music Telugu
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Music/Gemini_Music_600.m3u8
+#EXTINF:-1, Gemini Comedy Telugu
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Comedy/Gemini_Comedy.m3u8
+#EXTINF:-1, Telangana TV Telugu
+http://367449830.r.cdnsun.net/367449830/_definst_/sneha/playlist.m3u8
+#EXTINF:-1, BharatToday TV Telugu
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:-1, Kalaignar Seithigal TV Tamil
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+#EXTINF:-1, MakkalTV Tamil
+http://45.79.203.234:1935/makkal/myStream/playlist.m3u8
+#EXTINF:-1, Polimer TV Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Polimer_TV/Polimer_TV.m3u8
+#EXTINF:-1, Isaiaruvi Tamil
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+#EXTINF:-1, Madha Tamil TV
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:-1, Raj Musix Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_Musix/Raj_Musix.m3u8
+#EXTINF:-1, Raj NEWS 24X7 Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_24x7/Raj_News_24x7.m3u8
+#EXTINF:-1, Raj TV Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_TV/Raj_TV.m3u8
+#EXTINF:-1, Raj DigiPlus TV Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_Digital_Plus/Raj_Digital_Plus.m3u8
+#EXTINF:-1, Vendharm TV Tamil
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+#EXTINF:-1, Dheeran Tamil
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+#EXTINF:-1, IBC Tamil
+https://wowzaprod123-i.akamaihd.net/hls/live/500320/IBC/chunklist.m3u8
+#EXTINF:-1, Star VIJAY Tamil
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay.m3u8
+#EXTINF:-1, VIJAY Super Tamil
+http://87.98.150.108:1935/live/vijaysuper_fr.stream/playlist.m3u8
+#EXTINF:-1, SunNews Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_Life/Sun_Life.m3u8
+#EXTINF:-1, Sun Music Tamil
+https://hls.ssh101.com/live/sunmusic/index.m3u8
+#EXTINF:-1, Sun Music2 Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_Music/Sun_Music.m3u8
+#EXTINF:-1, Sun Life Tamil
+http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
+#EXTINF:-1, SUNTV Tamil
+https://hls.ssh101.com/live/suntv/index.m3u8
+#EXTINF:-1, SUNTV2 Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_TV/Sun_TV.m3u8
+#EXTINF:-1, KTV Tamil
+https://hls.ssh101.com/live/ktvlive/index.m3u8
+#EXTINF:-1, ZEE Tamil
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Tamil/Zee_Tamil.m3u8
+#EXTINF:-1, Jaya TV HD Tamil
+https://hls.ssh101.com/live/jayatv/index.m3u8
+#EXTINF:-1, Jaya MAX Tamil
+https://hls.ssh101.com/live/jayamax/index.m3u8
+#EXTINF:-1, Jaya Movies Tamil
+https://hls.ssh101.com/live/jayamovies/index.m3u8
+#EXTINF:-1, Vanavil Tamil
+rtmp://server.maxwellstreaming.com/vanavil/myStream
+#EXTINF:-1, Colors HD Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Kannada_HD/Colors_Kannada_HD.m3u8
+#EXTINF:-1, Colors Super Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Super/Colors_Super.m3u8
+#EXTINF:-1, Udaya Movies Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Udaya_Movies/Udaya_Movies.m3u8
+#EXTINF:-1, Udaya News Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Udaya_News/Udaya_News.m3u8
+#EXTINF:-1, Udaya TV Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Udaya_TV/Udaya_TV.m3u8
+#EXTINF:-1, Udaya Music Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Udaya_Music/Udaya_Music.m3u8
+#EXTINF:-1, Zee Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Kannada/Zee_Kannada.m3u8
+#EXTINF:-1, Public Music Kannada
+http://87.98.150.108:1935/live/ajktv_fr.stream/playlist.m3u8
+#EXTINF:-1, V4 News Kannada
+rtmp://studiosystem.co.in/v4news//livestream
+#EXTINF:-1, Star Suvarna Kannada
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Suvarna/Suvarna.m3u8
+#EXTINF:-1, Daiji TV Kannada
+http://live.wmncdn.net/daijiworld24x7/9e8d2ee8ddf0223a8a2c0b78cc58d555.sdp/playlist.m3u8
+#EXTINF:-1, NAMMA KUDLA TV Kannada
+http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1, RAJNEWS Kannada
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD50L240P/playlist.m3u8
+#EXTINF:-1, NEWSTV9 Kannada
+http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
+#EXTINF:-1, Asianet TV Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet/Asianet.m3u8
+#EXTINF:-1, Asianet Plus Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Plus/Asianet_Plus.m3u8
+#EXTINF:-1, Asianet Plus2 Malayalam
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/playlist.m3u8
+#EXTINF:-1, Asianet HD Malayalam
+http://live-fs.wmncdn.net/amsqasianet/asianetlive.stream/playlist.m3u8
+#EXTINF:-1, Asianet Movies Malayalam
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD.m3u8
+#EXTINF:-1, Asianet News Malayalam
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1, Kairali People Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kairali_TV/Kairali_TV.m3u8
+#EXTINF:-1, DD Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Malayalam/DD_Malayalam.m3u8
+#EXTINF:-1, Kiran TV Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV.m3u8
+#EXTINF:-1, Matrubhumi Malayalam
+http://llnwlive.prasaria.com/pr_live_origin_mathrubhumi/stream8042/chunklist.m3u8
+#EXTINF:-1, MediaOne Malayalam
+http://llnwlive.prasaria.com/pr_live_origin_mediaone/stream713/chunklist.m3u8
+#EXTINF:-1, Manoroma HD Malayalam
+http://live-fs.wmncdn.net/amsqmazhavil/mazhavillive.stream/playlist.m3u8
+#EXTINF:-1, Surya Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_TV/Surya_TV.m3u8
+#EXTINF:-1, Surya2 Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV.m3u8
+#EXTINF:-1, Surya Music Malayalam
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_Music/Surya_Music.m3u8
+#EXTINF:-1, Malayalam TV
+http://62.210.149.2:1935/7206/7206/playlist.m3u8
+#EXTINF:-1, Magna TV Malayalam
+http://livestream.5centscdn.com/magnatv/461580541e92155766bee9d9e8f672ea.sdp/index.m3u8
+#EXTINF:-1, Kaumudi Malayalam
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:-1, Tune 6(Mallu Songs)
+rtmp://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp
+#EXTINF:-1, Amrita TV Malayalam
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/playlist.m3u8
+#EXTINF:-1, Jaihind TV Malayalam
+http://llnwlive.prasaria.com/pr_live_origin_jaihind/stream29917/playlist.m3u8
+#EXTINF:-1, Jeevan TV Malayalam
+http://livestream.5centscdn.com/amsqjeevan/jeevantvlive.stream/playlist.m3u8
+#EXTINF:-1, Safari TV Malayalam
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:-1, ACV JukeBox Malayalam
+http://acvonline.asianetmobiletvplus.com/channels/jukebox/jukebox_ksgetqxwxwakuwrafvzq_master.m3u8
+#EXTINF:-1, Raj Musix Malayalam
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD104L240P/playlist.m3u8
+#EXTINF:-1, FlowerTV Malayalam
+http://live-fs.wmncdn.net/amsqflowers/flowerslive.stream/playlist.m3u8
+#EXTINF:-1, NTV HD Malayalam
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:-1, Pravasi HD Malayalam
+http://lax.globaliptv.net/pravasi/wzqsjszoeajnqnbanmpn/playlist.m3u8
+#EXTINF:-1, AnandMedia HD Malayalam
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:-1, TwentyFour Malayalam
+http://roku.cinesoft.net/Live_Origin_Elemental/smil:twentyfour.smil/playlist.m3u8
+#EXTINF:-1, Kappa Malayalam
+http://llnwlive.prasaria.com/pr_live_origin_others/stream667756/playlist.m3u8
+#EXTINF:-1, Janan TV Malayalam
+http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
+#EXTINF:-1, Jai Maharastra Marathi
+rtmp://edge-ind.inapcdn.in/vivo/semacb.stream_aac
+#EXTINF:-1, Maharastra1
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maharashtra1/Maharashtra1.m3u8
+#EXTINF:-1, TV9 Marathi
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD207L240P/chunklist.m3u8
+#EXTINF:-1, ETV Marathi
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:-1, Colors Marathi HD
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD.m3u8
+#EXTINF:-1, IBN Lokmat Marathi
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:-1, Fakt Marathi
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi.m3u8
+#EXTINF:-1,ABP Majha
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
+#EXTINF:-1, Star Pravah Marathi
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Pravah/Star_Pravah.m3u8
+#EXTINF:-1, ZEE Marathi
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi.m3u8
+#EXTINF:-1, ZEE Talkies Marathi
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies.m3u8
+#EXTINF:-1, Maiboli Marathi
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli.m3u8
+#EXTINF:-1, Saam TV Marathi
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv.m3u8
+#EXTINF:-1,DD LokSabha
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1,DD RajyaSabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1,DD Punjab
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+#EXTINF:-1,DD Bharti
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD251L240P/playlist.m3u8
+#EXTINF:-1,DD Podhigai Tamil Link1
+rtmp://live.wmncdn.net/ddpodigailive1/live1.stream
+#EXTINF:-1,DD Podhigai Tamil
+http://live.wmncdn.net/ddpodigailive2/live2.stream/index.m3u8
+#EXTINF:-1,DD Malayalam
+http://50.7.1.178/indialive_wsn6dd76/ddmalayalam/playlist.m3u8
+#EXTINF:-1,India NewsUP TV-Hindi
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:-1,India NewsHaryana TV-Hindi
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+#EXTINF:-1,India NewsRajasthan TV-Hindi
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:-1,India NewsMPCG TV-Hindi
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
+#EXTINF:-1,Sadhana TV
+http://live-fs.wmncdn.net/sadhanatv/live.stream/playlist.m3u8
+#EXTINF:-1,Ishwar TV
+http://live-fs.wmncdn.net/ishwartv10/live.stream/playlist.m3u8
+#EXTINF:-1,Sadhana NEWS
+http://live-fs.wmncdn.net/sadhananewsmp1/live.stream/playlist.m3u8
+#EXTINF:-1,Sadhana Plus
+http://live-fs.wmncdn.net/sadhanaplus1/live.stream/playlist.m3u8
+#EXTINF:-1,Sadhna Bangla
+http://live-fs.wmncdn.net/aryantv1/live1.stream/playlist.m3u8
+#EXTINF:-1,Star Jalsa Bangla
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsa MOVIES
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Jalsa_Movies_HD/Jalsa_Movies_HD.m3u8
+#EXTINF:-1,ABP Bangla
+http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/index_300_av-b.m3u8
+#EXTINF:-1,Bangla Times
+http://edge-ind.inapcdn.in:1935/berry1/smarts2.stream_aac/.m3u8
+#EXTINF:-1,Kolkata News Bangla
+rtmp://edge-ap2.cloudfrontcdn.in/terry/ctvn.stream
+#EXTINF:-1, COLORS BANGLA HD(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Bengali_HD/Colors_Bengali_HD.m3u8
+#EXTINF:-1, ZEE BANGLA(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla/Zee_Bangla.m3u8
+#EXTINF:-1, 24 Ghanta(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/24_Ghanta_TV/24_Ghanta_TV.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema.m3u8
+#EXTINF:-1,SONY AATH
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla.m3u8
+#EXTINF:-1, MUSIC FATAFATI TV
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Music_Fatafati/Music_Fatafati.m3u8
+#EXTINF:-1,Aakaash Bangla
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash_bangla.m3u8
+#EXTINF:-1, Yoga TV -Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1, Yoga TV -Nityananda
+http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:-1,NFL HD
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1,Fashion1 HD
+http://vs7.cdn.ott.otautv.kz/dtv/id20_KTR_SG–7Kazakhstan/03/plst.m3u8
+#EXTINF:-1,Sports2 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,Sports12 HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,Sports3 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,IndiesMusic HD
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,PowerTV HD
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:-1, KIDS – NICK(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nickelodeon/Nickelodeon.m3u8
+#EXTINF:-1, KIDS – NICK JR(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr.m3u8
+#EXTINF:-1, KIDS – SONIC(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sonic_Nickelodeon/Sonic_Nickelodeon.m3u8
+#EXTINF:-1, KIDS – DISCOVERY KIDs(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_1/Discovery_Kids_1.m3u8
+#EXTINF:-1, KIDS – TOONAMI(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Toonami/Toonami.m3u8
+#EXTINF:-1, KIDS – SONY YAY(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi.m3u8
+#EXTINF:-1, KIDS – POGO(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi.m3u8
+#EXTINF:-1, KIDS – CARTOON NETWORK(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi.m3u8
+#EXTINF:-1, KIDS – NICK JR(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior.m3u8
+#EXTINF:-1, KIDS – MAHA CARTOON(Ind)
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maha_Cartoon/Maha_Cartoon.m3u8
 
 
 
@@ -5618,8 +6251,8 @@ http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8
 http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" ,beIN Sports 6
 http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8
-
-
+#EXTINF:-1  tvg-logo="" ,beIN Sports
+http://91.121.58.28:8085/smartspor
 
 
 
@@ -5635,7 +6268,34 @@ http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8
 
 #EXTINF:9 group-title=”United.Arab.Emirates2”,
 
-
+#EXTINF:NEW
+http://62.68.66.247:9001
+#EXTINF:NEW
+http://62.68.66.247:9015
+#EXTINF:NEW
+http://62.68.66.247:9021
+#EXTINF:NEW
+http://62.68.66.247:9022
+#EXTINF:NEW
+http://62.68.66.250:9003
+#EXTINF:NEW
+http://62.68.66.250:9004
+#EXTINF:NEW
+http://62.68.66.250:9005
+#EXTINF:NEW
+http://62.68.66.250:9006
+#EXTINF:NEW
+http://62.68.66.250:9007
+#EXTINF:NEW
+http://62.68.66.250:9008
+#EXTINF:NEW
+http://62.68.66.250:9009
+#EXTINF:NEW
+http://62.68.66.250:9010
+#EXTINF:NEW
+http://62.68.66.250:9013
+#EXTINF:NEW
+http://62.68.66.250:9015
 
 
 
