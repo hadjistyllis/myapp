@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -48,8 +48,6 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet
 http://89.160.222.14:1957/ramdisk/animal.m3u8
-#EXTINF:-1,Animal Planet
-http://130.185.248.19:53337/play/a04e
 #EXTINF:-1,Animal Planet HD 
 http://185.162.141.69:9065/animal
 #EXTINF:0,National Geographic
@@ -64,8 +62,6 @@ http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 http://195.189.249.6:8000/play/a008/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD 
 http://185.162.141.69:9007/natgeowild 
-#EXTINF:-1,Nat Geo Wild HD
-http://130.185.248.19:53337/play/a03c
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery Channel HD 
@@ -84,14 +80,10 @@ http://89.160.222.14:1957/ramdisk/discovery_science.m3u8
 http://195.189.249.6:8000/play/a006/index.m3u8
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:-1,Discovery HD Showcase
-http://130.185.248.19:53337/play/a06g
 #EXTINF:0,History
 http://93.91.113.8:8080/Apple/History/.m3u8
 #EXTINF:-1, History
 http://93.91.113.8:9999/play/a06z
-#EXTINF:-1,Nat Geo Wild HD
-http://130.185.248.19:53337/play/a03c
 #EXTINF:-1,History HD 
 http://185.162.141.69:9001/history 
 #EXTINF:0,FOX
@@ -160,8 +152,6 @@ http://93.91.113.8:8080/Apple/JimJam/.m3u8
 http://134.19.154.179:9669/udp/239.195.1.8:1234
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1,Boomerang
-http://130.185.248.19:53337/play/a02c
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -170,8 +160,6 @@ http://195.189.249.6:8000/play/a00h/index.m3u8
 http://185.162.141.69:9002/cartoon 
 #EXTINF:-1,Cartoon Network 
 http://185.162.141.69:9014/cartoon 
-#EXTINF:-1,Disney Channel
-http://130.185.248.19:53337/play/a046
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
@@ -341,6 +329,21 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=o10-vQokBuI
+#EXTINF:-1  tvg-logo="" ,beIN Sports
+http://91.121.58.28:8085/smartspor
+#EXTINF:-1  tvg-logo="" ,beIN Deportes 1
+http://livetv.khaozap.com/bein_sports_1_480p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Deportes 2
+http://livetv.khaozap.com/bein_sports_2_480p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Sports 3
+http://livetv.khaozap.com/bein_sports_3_480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,beIN Sports 4
+http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,beIN Deportes 5
+http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" ,beIN Sports 6
+http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8
+
 
 #EXTINF:-1,Telesports
 http://46.105.233.106:8050/telesport
@@ -647,4 +650,5 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 #EXTINF:-1 ,RELOAD Play
 http://bit.ly/2l0o6Os
-
+#EXTINF:-1,Cinema world
+http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
