@@ -999,7 +999,7 @@ http://.....
 
 #EXTINF:4 group-title=”Romania”,
 
-#EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/romania_1287.jpg ,==ROMANIA==
+#EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/romania_1287.jpg ,=ROMANIA=
 http://..........
 
 #EXTINF:-1,GTV
@@ -3765,7 +3765,7 @@ http://109.104.129.196:8001/play/s47
 
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
 http://..........
-#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/mklarge.gif ,==ROM==
+#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/mklarge.gif ,==R.O.M==
 http://..........
 
 #EXTINF:-1,Rrokum TV
@@ -3897,7 +3897,7 @@ http://91.224.178.9:5000/07
 
 #EXTINF:9 group-title=”Netherlands”,
 
-#EXTINF:1 tvg-logo=http://www.flags.net/images/largeflags/NETH0001.GIF ,==Netherlands==
+#EXTINF:1 tvg-logo=http://www.flags.net/images/largeflags/NETH0001.GIF ,=Netherlands=
 http://..........
 
 #EXTINF:-1,NPO 1
@@ -5626,35 +5626,34 @@ http://5.39.188.207:4022/udp/224.84.207.201:21009
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
 
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.247:9001
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.247:9015
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.247:9021
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.247:9022
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9003
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9004
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9005
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9006
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9007
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9008
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9009
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9010
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9013
-#EXTINF:NEW
+#EXTINF:-1,NEW
 http://62.68.66.250:9015
-
 
 
 
