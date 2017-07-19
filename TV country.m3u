@@ -138,8 +138,8 @@ http://4.31.30.145:9080
 http://bit.ly/extragr1
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0 tvg-name="ΑΡΤ" tvg-logo="http://www.omke.gr/wp-content/uploads/art.png",ART
-http://bit.ly/artgr1 (MxPlayer)
+#EXTINF:0 tvg-name="ΑΡΤ" tvg-logo="http://www.omke.gr/wp-content/uploads/art.png",ART (MxPlayer)
+http://bit.ly/artgr1
 #EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART Sportzone
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
