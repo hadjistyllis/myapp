@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -48,6 +48,8 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet
 http://89.160.222.14:1957/ramdisk/animal.m3u8
+#EXTINF:-1,Animal Planet HD
+http://185.102.219.40:8010/play/a00m
 #EXTINF:-1,Animal Planet HD 
 http://185.162.141.69:9065/animal
 #EXTINF:0,National Geographic
@@ -60,6 +62,8 @@ http://185.162.141.69:9001/natgeo
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,Nat Geo Wild
 http://195.189.249.6:8000/play/a008/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,Nat Geo Wild HD 
 http://185.162.141.69:9007/natgeowild 
 #EXTINF:0,Discovery Channel
@@ -72,7 +76,7 @@ http://195.189.249.6:8000/play/a004/index.m3u8
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:0, DISCOVERY Science
+#EXTINF:-1, Discovery Science 
 http://94.158.80.117:9000/play/ch_206_1
 #EXTINF:-1,Discovery Science
 http://89.160.222.14:1957/ramdisk/discovery_science.m3u8
@@ -84,6 +88,8 @@ http://37.194.121.4:1234/udp/239.1.2.8:1234
 http://93.91.113.8:8080/Apple/History/.m3u8
 #EXTINF:-1, History
 http://93.91.113.8:9999/play/a06z
+#EXTINF:-1, History 
+http://185.102.219.40:8011/play/a00p
 #EXTINF:-1,History HD 
 http://185.162.141.69:9001/history 
 #EXTINF:0,FOX
@@ -92,6 +98,10 @@ http://37.194.121.4:1234/udp/239.1.4.5:1234
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox
 http://195.189.249.6:8000/play/a00f/index.m3u8
+#EXTINF:-1,FOX HD
+http://185.102.219.40:8010/play/a00n
+#EXTINF:-1,Fox Life HD
+http://185.102.219.40:8010/play/a00o
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
@@ -100,6 +110,8 @@ http://37.194.121.4:1234/udp/239.1.3.11:1234
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1, TLC
 http://195.189.249.6:8000/play/a00b/index.m3u8
+#EXTINF:-1,TLC HD
+http://185.102.219.40:8010/play/a00s
 #EXTINF:-1,food network 
 http://185.62.86.6:8081/hls/foodnetwork.m3u8 
 #EXTINF:-1,Viasat Nature 
@@ -165,8 +177,10 @@ http://185.162.141.69:9014/cartoon
 http://5.32.183.177:4080/udp/224.0.0.120:1235
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
+#EXTINF:-1,Nickelodeon HD
+http://185.102.219.40:8010/play/a00l
 #EXTINF:0,Nickelodeon
 http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
 #EXTINF:0,nickelodeon (GREEK)
@@ -328,21 +342,9 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 
 #EXTINF:-1,AR: BEIN SPORT NEWS
-https://www.youtube.com/watch?v=o10-vQokBuI
-#EXTINF:-1  tvg-logo="" ,beIN Sports
+https://www.youtube.com/watch?v=9A6j2L2fEM8
+#EXTINF:-1,beIN Sports
 http://91.121.58.28:8085/smartspor
-#EXTINF:-1  tvg-logo="" ,beIN Deportes 1
-http://livetv.khaozap.com/bein_sports_1_480p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,beIN Deportes 2
-http://livetv.khaozap.com/bein_sports_2_480p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,beIN Sports 3
-http://livetv.khaozap.com/bein_sports_3_480p.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,beIN Sports 4
-http://livetv.khaozap.com/bein_sports_4_480p.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,beIN Deportes 5
-http://livetv.khaozap.com/bein_sports_5_360p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,beIN Sports 6
-http://livetv.khaozap.com/bein_sports_6_360p.stream/playlist.m3u8
 
 
 #EXTINF:-1,Telesports
@@ -411,15 +413,6 @@ http://185.142.239.164:3135/Super/2/index.m3u8
 http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4
 http://185.142.239.164:3135/Super/4/index.m3u8
-
-#EXTINF:-1  tvg-logo="" ,BT Sport 1 HD
-http://livetv.khaozap.com/bt_sport_1_hd_360p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,BT Sport 2 HD
-http://livetv.khaozap.com/bt_sport_2_hd_360p.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,BT Sport 3 HD
-http://livetv.khaozap.com/bt_sport_3_hd_360p.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,BT Sport ESPN
-http://livetv.khaozap.com/bt_sport_espn_360p.stream/playlist.m3u8
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
