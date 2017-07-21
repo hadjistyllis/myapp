@@ -354,6 +354,22 @@ http://91.121.58.28:8085/smartspor
 #EXTINF:-1,Star Sports
 http://91.121.58.28:8090/starsport
 
+#EXTINF:-1, SPORT 1 HD
+http://51.15.43.134:10101/hl/176_.m3u8
+#EXTINF:-1, SPORT 2 HD
+http://51.15.43.134:10101/hl/178_.m3u8
+#EXTINF:-1, SPORT 4 HD
+http://51.15.43.134:10101/hl/180_.m3u8
+#EXTINF:-1, SPORT 5 HD
+http://51.15.43.134:10101/hl/181_.m3u8
+#EXTINF:-1, SPORT 5
+http://51.15.43.134:10101/hl/182_.m3u8
+#EXTINF:-1, SPORT 5+
+http://51.15.43.134:10101/hl/184_.m3u8
+#EXTINF:-1, SPORT 5 Live
+http://51.15.43.134:10101/hl/183_.m3u8
+#EXTINF:-1, SPORT One
+http://51.15.43.134:10101/hl/186_.m3u8
 
 #EXTINF:-1, UK:BT Sports 1
 http://185.142.239.164:3135/BT/1/index.m3u8
