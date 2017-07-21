@@ -745,11 +745,15 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 #EXTINF:0,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:0,Amazing Facts TV
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1,Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1, Heart TV
+#EXTINF:-1,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1,NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
@@ -800,6 +804,43 @@ http://streams.tvknob.com/tvloops/CH6/ch6.wsx
 http://www.scgov.net/appVideo/scgovtv.asx
 #EXTINF:0,University of California TV
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" ,NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" ,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0 tvg-logo="http://wmub.tv/www/tv-wmub/images/france24-logo-english.jpg" ,France 24
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+#EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg" ,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" , MyHit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" ,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" ,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 tvg-logo="http://scholarships.istitutomarangoni.com/upload/dream/573a9db65187d8.174338942FRTW%20logo.png" ,World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+ 
+#EXTINF:0,MELLO TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
+#EXTINF:0, QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" ,Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Beauty
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" ,IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+
 #EXTINF:-1,Brit Asia TV 
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
 #EXTINF:-1,Clubbing TV 
@@ -1711,16 +1752,20 @@ http://..........
 http://live.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
 #EXTINF:-1,Sky TG24
 rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
-#EXTINF:-1,SKY TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/742930771451752449/vwz5HyGw.jpg" ,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:-1,Rai Movie (576p) 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_800_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1,RAI Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 tvg-logo="https://www.firstonetv.eu/images/logos/it/RAI_MOVIE.png" ,RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
 #EXTINF:-1,Rai Premium (352p) 
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1,RAI Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 tvg-logo="http://www.sotel.tv/ui/sotel/images/19_c.png" ,RAI Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,Rai YoYo (404p) 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,RAI YoYo
@@ -1729,6 +1774,28 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,RAI News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:0 tvg-logo="http://www.cremona1.it/wp-content/uploads/2013/05/logo-cremona1.png" ,Cremona1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-logo="http://www.musiconfestival.it/wp-content/themes/musiconfestival/img/lucaniatv_logo.png" ,Lucania tv
+http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.orler.it/orlertv/wp-content/uploads/2015/12/orlertvlogo.png" ,ORLER
+http://77.92.76.135:1935/orler/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/99/Ondatv.jpg" ,Onda tv
+rtmp://live.streamcaster.net:1935/ondatv_live/ondatv
+#EXTINF:0 tvg-logo="http://english-club.tv/wp-content/uploads/2016/04/rai-scuola.jpg" ,Rai Scuola
+http://originstream6.rai.it:80/italy/raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:0 tvg-logo="http://riviste.newbusinessmedia.it/wp-content/uploads/sites/16/2015/05/Trm.png" ,TRM h24
+http://77.92.76.135:1935/TRM/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" ,TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png" ,Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.operadifirenze.it/code/wp-content/uploads/Rai-5-440x240-257x140.png" ,RAI 5
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+
+
+
+
 
 
 #EXTINF:-1,Rai 1
@@ -1960,140 +2027,6 @@ http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/4353.ts
 #EXTINF:-1,Tg Com 24
 http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/4347.ts
 
-#EXTINF:-1,CA: TSC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14969.ts
-#EXTINF:-1,USA: A&E
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9315.ts
-#EXTINF:-1,USA: ABC News
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/2931.ts
-#EXTINF:-1,USA: ABC Spark HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15243.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9516.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10166.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10167.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9488.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9517.ts
-#EXTINF:-1,USA: ABC W HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15244.ts
-#EXTINF:-1,USA: 360 North
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3863.ts
-#EXTINF:-1,USA: Animal Planet
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15250.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9520.ts
-#EXTINF:-1,USA: ASD TV
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3861.ts
-#EXTINF:-1,USA: AMC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8415.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9518.ts
-#EXTINF:-1,USA: Church Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9536.ts
-#EXTINF:-1,USA: Discovery Science
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9546.ts
-#EXTINF:-1,USA: DTX
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9547.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8681.ts
-#EXTINF:-1,USA: Comedy Central
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15249.ts
-#EXTINF:-1,USA: Discovery Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15248.ts
-#EXTINF:-1,USA: Food Network
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9337.ts
-#EXTINF:-1,USA: Family CHRGD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15246.ts
-#EXTINF:-1,USA: Bloomberg
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9510.ts
-#EXTINF:-1,USA: Eurosport 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14079.ts
-#EXTINF:-1,USA: Family Junior HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15247.ts
-#EXTINF:-1,USA: CNN HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8692.ts
-#EXTINF:-1,USA: Bravo
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8691.ts
-#EXTINF:-1,USA: ESPN 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13230.ts
-#EXTINF:-1,USA: Channel 11
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3860.ts
-#EXTINF:-1,USA: Country Music Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3859.ts
-#EXTINF:-1,USA: CBS News HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9508.ts
-#EXTINF:-1,USA: Fight Sport
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8308.ts
-#EXTINF:-1,USA: E!
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8417.ts
-#EXTINF:-1,USA: C-SPAN
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9318.ts
-#EXTINF:-1,USA: CSPAN 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9319.ts
-#EXTINF:-1,USA: C-SPAN 3
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9320.ts
-#EXTINF:-1,USA: E! Network HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9321.ts
-#EXTINF:-1,USA: BeIN Sports USA HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13227.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9519.ts
-#EXTINF:-1,USA: Fox Sport 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9391.ts
-#EXTINF:-1,USA: NBA TV
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8309.ts
-#EXTINF:-1,USA: HBO FAMILY
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8414.ts
-#EXTINF:-1,USA: HBO HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8411.ts
-#EXTINF:-1,USA: HBO ZONE
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8412.ts
-#EXTINF:-1,USA: NBC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8393.ts
-#EXTINF:-1,USA: Fox Sports 506 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9528.ts
-#EXTINF:-1,USA: LIFE TIME
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8687.ts
-#EXTINF:-1,USA: HBO Comedy
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9831.ts
-#EXTINF:-1,USA: History HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15245.ts
-#EXTINF:-1,USA: Mello TV
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9502.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9523.ts
-#EXTINF:-1,USA: MLB Network HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15239.ts
-#EXTINF:-1,USA: Fox 43
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10174.ts
-#EXTINF:-1,USA: CBN News
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3872.ts
-#EXTINF:-1,USA: Starz  Edge
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10171.ts
-#EXTINF:-1,USA: TLC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9480.ts
-#EXTINF:-1,USA: NHL Network
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12479.ts
-#EXTINF:-1,USA: RT Documentary
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9497.ts
-#EXTINF:-1,USA: RT America HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9498.ts
-#EXTINF:-1,USA: Nick
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9333.ts
-#EXTINF:-1,USA: NBCSN Golf HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9526.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9499.ts
-#EXTINF:-1,USA: Spike HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13179.ts
-#EXTINF:-1,USA: Sportsnet West HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13232.ts
-
-
 
 
 
@@ -2178,6 +2111,21 @@ rtmp://62.210.204.108:1935/livtv7vo/mystream700.sdp
 http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1,France 24
 https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g&showinfo=0&color=white&autoplay=1&hl=fr
+#EXTINF:0 tvg-name="France24.fr" tvg-id="France24.fr" tvg-logo="http://compass.xboxlive.com/assets/70/e3/70e37e36-acf0-4f53-adcc-4bcd68b64388.png?n=FRANCE%2024.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:0 tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png",INDIES LIVE
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0 tvg-name="BFMTV.fr" tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BFMTV.png/450px-BFMTV.png",BFM
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:0 tvg-name="Francophonie.fr" tvg-id="Francophonie.fr" tvg-logo="https://yt3.ggpht.com/-wnJaGZ8lmAM/AAAAAAAAAAI/AAAAAAAAAAA/MJ2gYbaCMAk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 tvg-name="Alsace20" tvg-id="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png",Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-qJ0LcuQL8fE/UgBBdKilQoI/AAAAAAAAA-c/IsEfZk1dnek/grand+lille+tv+live.png",Grand Lille
+rtmp://str81.creacast.com/grandlilletv/high
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/557183277614628865/y6M76XIm.jpeg",TV Lux
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+
 
 #EXTINF:-1,BE-ACTV
 rtmp://vm109.imust.org/live//livestream
@@ -2374,8 +2322,6 @@ http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
 #EXTINF:0,ELBEKANAL rtmp
 rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:0,EURONEWS
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 #EXTINF:0,FILSTALWELLE
 rtmp://62.113.210.27/filstalwelle-live/livestream
 #EXTINF:0,Halle
@@ -2390,6 +2336,8 @@ rtmp://streamer1.streamhost.org/salive//lctvde
 mms://wmsstream22.v4.mytv.ris.at/live/stream_156
 #EXTINF:0,MUNCHEN TV
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/1280px-NDR_Dachmarke.svg.png" ,NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
 #EXTINF:0,NDR Hamburg
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_1992_av-p.m3u8
 #EXTINF:0,NDR Hamburg HD
@@ -2412,36 +2360,8 @@ http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 #EXTINF:0,OK Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
-#EXTINF:0,Ran 1 
-rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 #EXTINF:0,RBW
 rtmp://62.113.210.250/medienasa-live/rbw_high
-#EXTINF:0,RIC
-http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
-#EXTINF:0,TAGESSCHAU 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0,Tv Touring de
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:0,W 24 Wien
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
-#EXTINF:0,WDR
-http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
-#EXTINF:0,Donau TV 
-rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
-#EXTINF:0,ELBEKANAL
-rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:0,EURONEWS
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-#EXTINF:0,FILSTALWELLE
-rtmp://62.113.210.27/filstalwelle-live/livestream
-#EXTINF:0,HALLE TV
-rtmp://62.113.210.250/medienasa-live/tvhalle_high
-#EXTINF:0,Light Channel TV Deutschland
-rtmp://streamer1.streamhost.org/salive//lctvde
-#EXTINF:0,MUNCHEN TV
-rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
-#EXTINF:0,NDR
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
 #EXTINF:0,OK Dessau 
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0,OK Magdeburg 
@@ -2458,10 +2378,28 @@ rtmp://62.113.210.250/medienasa-live/punktum_high
 rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 #EXTINF:0,RAN 1 Dessau
 rtmp://62.113.210.250/medienasa-live/ran1_high
-#EXTINF:0,RBW
-rtmp://62.113.210.250/medienasa-live/rbw_high
 #EXTINF:0,RFH TV
 rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:0,ELBEKANAL
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:0,FILSTALWELLE
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:0,HALLE TV
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:0,RIC
+http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
+#EXTINF:0,TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0,Tv Touring de
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:0,W 24 Wien
+rtmp://ms01.w24.at:1935/livepkgr/livestream2
+#EXTINF:0,Donau TV 
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
+#EXTINF:0,Light Channel TV Deutschland
+rtmp://streamer1.streamhost.org/salive//lctvde
+#EXTINF:0,MUNCHEN TV
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF:0,RIC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
 #EXTINF:0,Suedtirol TV
@@ -2474,9 +2412,28 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
 #EXTINF:0,TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:0,WDR
-http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
-
+#EXTINF:0 tvg-name="ARD.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="ARD.de" tvg-logo="http://afd-portal.de/wp-content/uploads/2016/12/ard-1267087_960_720.png" ,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="WeltDerWunderTV.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="WeltDerWunderTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/2000px-Logo_Welt_der_Wunder_neu.svg.png" ,Welt Der Wunder
+http://live.vidoo.de/live/weltderwunder/playlist.m3u8
+#EXTINF: tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" ,Kronehit
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
+#EXTINF: tvg-logo="http://www.msa-online.de/cms/upload/Sender/TV/gfx_tv_MDF1.gif" ,MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF: tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png" ,TVA
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+#EXTINF: tvg-logo="https://pbs.twimg.com/profile_images/527362055704018946/MOAH_ozE.png" ,Tirol
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TV_M%C3%BCnchen_Logo.svg/648px-TV_M%C3%BCnchen_Logo.svg.png" ,Muenchen
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u
+#EXTINF: tvg-logo="https://i.vimeocdn.com/portfolio_header/163524" ,Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TV_touring_Logo.svg/2000px-TV_touring_Logo.svg.png" ,Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF: tvg-logo="http://www.muszynski.de/sender/tv/tv_oberfranken.png" ,Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:0 tvg-name="Baden TV" tvg-id="Baden TV" tvg-logo="http://golden-paws.de/wp-content/uploads/2014/04/baden_tv1-704x340.png" ,Baden
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 
 
@@ -3920,7 +3877,8 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_540_av-b.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-b.m3u8
 #EXTINF:-1,SPORT TV 1
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
-
+#EXTINF:0 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
 
 
 
