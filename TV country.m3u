@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -499,6 +499,28 @@ http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
 
+
+#EXTINF:3600,Disc.Science
+http://185.22.78.72:9001/play/a00k
+#EXTINF:0,Home & Health
+http://185.22.78.72:9001/play/a00m
+#EXTINF:3600,ID
+http://185.22.78.72:9001/play/a00p
+#EXTINF:0,Disc.History
+http://185.22.78.72:9001/play/a00l
+#EXTINF:0,Discovery
+http://185.22.78.72:9001/play/a00h
+#EXTINF:0,TLC
+http://185.22.78.72:9001/play/a00j
+#EXTINF:0,Animal Planet
+http://185.22.78.72:9001/play/a00i
+#EXTINF:0,Disc.Turbo
+http://185.22.78.72:9001/play/a00n
+
+
+
+
+
 #EXTINF:-1,FOX Sports 1(FS1)
 http://185.142.239.164:3135/1/FOX/index.m3u8
 #EXTINF:-1,FOX Sports 2(FS2)
@@ -969,7 +991,8 @@ http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,FOX HD
 http://185.102.219.40:8010/play/a00n
 
-
+#EXTINF:-1,BeIN-SKY ENG-FR-DE
+http://91.121.58.28:8085/live
 
 
 
@@ -2984,116 +3007,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 #EXTINF:7 group-title=”Germany2”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1,Canvas HD
-http://46.249.60.210:8666/play/a01m
-#EXTINF:-1,TLC
-http://46.249.60.210:8666/play/a013
-#EXTINF:-1,Ziggo Sport Voetbal
-http://46.249.60.210:8666/play/a00y
-#EXTINF:-1,NGC HD
-http://46.249.60.210:8666/play/a018
-#EXTINF:-1,NPO Politiek
-http://46.249.60.210:8666/play/a002
-#EXTINF:-1,TV Drenthe
-http://46.249.60.210:8666/play/a01y
-#EXTINF:-1,RTL8 HD
-http://46.249.60.210:8666/play/a00k
-#EXTINF:-1,Ziggo Sport Golf
-http://46.249.60.210:8666/play/a00z
-#EXTINF:-1,KADET
-http://46.249.60.210:8666/play/a01a
-#EXTINF:-1,Investigation Discovery
-http://46.249.60.210:8666/play/a006
-#EXTINF:-1,SBS6 HD
-http://46.249.60.210:8666/play/a008
-#EXTINF:-1,ZES
-http://46.249.60.210:8666/play/a00p
-#EXTINF:-1,Vitaya
-http://46.249.60.210:8666/play/a01d
-#EXTINF:-1,Film1 Action
-http://46.249.60.210:8666/play/a00x
-#EXTINF:-1,Boomerang
-http://46.249.60.210:8666/play/a005
-#EXTINF:-1,NET5 HD
-http://46.249.60.210:8666/play/a01k
-#EXTINF:-1,VTMKazoom/Kanaal Z
-http://46.249.60.210:8666/play/a03c
-#EXTINF:-1,RTL4 HD
-http://46.249.60.210:8666/play/a00h
-#EXTINF:-1,FOX Channel
-http://46.249.60.210:8666/play/a004
-#EXTINF:-1,FOX Sports EDL 1 HD
-http://46.249.60.210:8666/play/a00c
-#EXTINF:-1,Disney Channel
-http://46.249.60.210:8666/play/a007
-#EXTINF:-1,Travel Channel HD NL
-http://46.249.60.210:8666/play/a026
-#EXTINF:-1,RTL Z
-http://46.249.60.210:8666/play/a00l
-#EXTINF:-1,AT5
-http://46.249.60.210:8666/play/a01q
-#EXTINF:-1,RTL7 HD
-http://46.249.60.210:8666/play/a00j
-#EXTINF:-1,FOX Sports EDL 3
-http://46.249.60.210:8666/play/a010
-#EXTINF:-1,Film1 Comedy & Kids
-http://46.249.60.210:8666/play/a00v
-#EXTINF:-1,Eurosport 1HD NL
-http://46.249.60.210:8666/play/a017
-#EXTINF:-1,Film1 Premiere HD
-http://46.249.60.210:8666/play/a014
-#EXTINF:-1,een HD
-http://46.249.60.210:8666/play/a01l
-#EXTINF:-1,VIJF
-http://46.249.60.210:8666/play/a01f
-#EXTINF:-1,Ziggo Sport Select HD
-http://46.249.60.210:8666/play/a016
-#EXTINF:-1,RTL lounge
-http://46.249.60.210:8666/play/a00n
-#EXTINF:-1,VIER HD
-http://46.249.60.210:8666/play/a00s
-#EXTINF:-1,NPO3 HD
-http://46.249.60.210:8666/play/a01o
-#EXTINF:-1,L1MBURG
-http://46.249.60.210:8666/play/a00o
-#EXTINF:-1,NPO Zapp Xtra/NPO Best
-http://46.249.60.210:8666/play/a003
-#EXTINF:-1,TV Gelderland
-http://46.249.60.210:8666/play/a020
-#EXTINF:-1,TV Noord
-http://46.249.60.210:8666/play/a01x
-#EXTINF:-1,SBS9
-http://46.249.60.210:8666/play/a012
-#EXTINF:-1,TV Oost
-http://46.249.60.210:8666/play/a01z
-#EXTINF:-1,NPO2 HD
-http://46.249.60.210:8666/play/a00a
-#EXTINF:-1,Discovery Channel
-http://46.249.60.210:8666/play/a00e
-#EXTINF:-1,KetOp12
-http://46.249.60.210:8666/play/a01b
-#EXTINF:-1,NPO1 HD
-http://46.249.60.210:8666/play/a01j
-#EXTINF:-1,Q2 HD
-http://46.249.60.210:8666/play/a00r
-#EXTINF:-1,RTL5 HD
-http://46.249.60.210:8666/play/a00i
-#EXTINF:-1,VTM HD
-http://46.249.60.210:8666/play/a00q
-#EXTINF:-1,Omroep Brabant Televisie
-http://46.249.60.210:8666/play/a022
-#EXTINF:-1,CAZ
-http://46.249.60.210:8666/play/a01e
-#EXTINF:-1,Veronica/DisneyXD HD
-http://46.249.60.210:8666/play/a01n
-#EXTINF:-1,Film1 Sundance
-http://46.249.60.210:8666/play/a00w
-#EXTINF:-1,24Kitchen
-http://46.249.60.210:8666/play/a01r
-
 
 
 
@@ -3415,156 +3328,6 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 #EXTINF:8 group-title=”Spain2”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1,COMEDY CENTRAL
-http://46.249.60.210:50001/play/a02p
-#EXTINF:-1,SUNDANCE
-http://46.249.60.210:50001/play/a04u
-#EXTINF:-1,CANAL PANDA
-http://46.249.60.210:50001/play/a03q
-#EXTINF:-1,NEOX
-http://46.249.60.210:50001/play/a03p
-#EXTINF:-1,TELECINCO
-http://46.249.60.210:50001/play/a02e
-#EXTINF:-1,CUATRO
-http://46.249.60.210:50001/play/a02h
-#EXTINF:-1,NICK JR
-http://46.249.60.210:50001/play/a04i
-#EXTINF:-1,M. ACCI?N
-http://46.249.60.210:50001/play/a03e
-#EXTINF:-1,SYFY
-http://46.249.60.210:50001/play/a025
-#EXTINF:-1,EUROSPORT 2
-http://46.249.60.210:50001/play/a03v
-#EXTINF:-1,PARAMOUNT
-http://46.249.60.210:50001/play/a03m
-#EXTINF:-1,ARAGON TV
-http://46.249.60.210:50001/play/a03o
-#EXTINF:-1,GOL
-http://46.249.60.210:50001/play/a01p
-#EXTINF:-1,DISNEY CH.
-http://46.249.60.210:50001/play/a02m
-#EXTINF:-1,CLAN  TVE
-http://46.249.60.210:50001/play/a029
-#EXTINF:-1,TCM
-http://46.249.60.210:50001/play/a02o
-#EXTINF:-1,Nickelodeon
-http://46.249.60.210:50001/play/a05m
-#EXTINF:-1,NAT GEOGRAPH
-http://46.249.60.210:50001/play/a01y
-#EXTINF:-1,LTC
-http://46.249.60.210:50001/play/a01j
-#EXTINF:-1,M. DCINE
-http://46.249.60.210:50001/play/a03g
-#EXTINF:-1,CANAL COCINA
-http://46.249.60.210:50001/play/a02t
-#EXTINF:-1,FOX LIFE
-http://46.249.60.210:50001/play/a03a
-#EXTINF:-1,A&E
-http://46.249.60.210:50001/play/a02z
-#EXTINF:-1,M. SERIES
-http://46.249.60.210:50001/play/a04h
-#EXTINF:-1,HISTORIA
-http://46.249.60.210:50001/play/a033
-#EXTINF:-1,M. COMEDIA
-http://46.249.60.210:50001/play/a03f
-#EXTINF:-1,TNT
-http://46.249.60.210:50001/play/a02i
-#EXTINF:-1,CLASSICA
-http://46.249.60.210:50001/play/a03s
-#EXTINF:-1,IBERALIA TV
-http://46.249.60.210:50001/play/a03c
-#EXTINF:-1,CRIMEN+INVES
-http://46.249.60.210:50001/play/a034
-#EXTINF:-1,DISNEY JR
-http://46.249.60.210:50001/play/a03d
-#EXTINF:-1,CANAL ODISEA
-http://46.249.60.210:50001/play/a01v
-#EXTINF:-1,BOING
-http://46.249.60.210:50001/play/a01k
-#EXTINF:-1,TELEDEPORTE
-http://46.249.60.210:50001/play/a02s
-#EXTINF:-1,MEZZO
-http://46.249.60.210:50001/play/a04k
-#EXTINF:-1,CANAL SUR A.
-http://46.249.60.210:50001/play/a02w
-#EXTINF:-1,M. F.TBOL
-http://46.249.60.210:50001/play/a01z
-#EXTINF:-1,FDF
-http://46.249.60.210:50001/play/a028
-#EXTINF:-1,VIAJAR
-http://46.249.60.210:50001/play/a02q
-#EXTINF:-1,kanal0
-http://46.249.60.210:50001/play/a03k
-#EXTINF:-1,ENERGY
-http://46.249.60.210:50001/play/a01l
-#EXTINF:-1,DIVINITY
-http://46.249.60.210:50001/play/a01g
-#EXTINF:-1,FOX
-http://46.249.60.210:50001/play/a03h
-#EXTINF:-1,COSMO
-http://46.249.60.210:50001/play/a032
-#EXTINF:-1,AXN WHITE
-http://46.249.60.210:50001/play/a03i
-#EXTINF:-1,CAZA Y PESCA
-http://46.249.60.210:50001/play/a02y
-#EXTINF:-1,AMC
-http://46.249.60.210:50001/play/a02u
-#EXTINF:-1,M. ESTRENOS
-http://46.249.60.210:50001/play/a02l
-#EXTINF:-1,M.FORMULA1
-http://46.249.60.210:50001/play/a01q
-#EXTINF:-1,M. XTRA
-http://46.249.60.210:50001/play/a02g
-#EXTINF:-1,BAR.A TV
-http://46.249.60.210:50001/play/a01m
-#EXTINF:-1,LA SEXTA
-http://46.249.60.210:50001/play/a02a
-#EXTINF:-1,LA 2
-http://46.249.60.210:50001/play/a02d
-#EXTINF:-1,M. SERIESXTRA
-http://46.249.60.210:50001/play/a02r
-#EXTINF:-1,M. GOLF
-http://46.249.60.210:50001/play/a01u
-#EXTINF:-1,CALLE 13
-http://46.249.60.210:50001/play/a021
-#EXTINF:-1,M. DEP 1
-http://46.249.60.210:50001/play/a020
-#EXTINF:-1,BABY TV
-http://46.249.60.210:50001/play/a01i
-#EXTINF:-1,ANTENA 3
-http://46.249.60.210:50001/play/a03t
-#EXTINF:-1,HOLLYWOOD
-http://46.249.60.210:50001/play/a02c
-#EXTINF:-1,M. MOTOGP
-http://46.249.60.210:50001/play/a037
-#EXTINF:-1,MTV ESPA?A
-http://46.249.60.210:50001/play/a01o
-#EXTINF:-1,FOX NEWS
-http://46.249.60.210:50001/play/a01h
-#EXTINF:-1,NAT GEO WILD
-http://46.249.60.210:50001/play/a02j
-#EXTINF:-1,M. Cine Espa?ol
-http://46.249.60.210:50001/play/a035
-#EXTINF:-1,EUROSPORT 1
-http://46.249.60.210:50001/play/a01n
-#EXTINF:-1,24 HORAS
-http://46.249.60.210:50001/play/a036
-#EXTINF:-1,NOVA
-http://46.249.60.210:50001/play/a03b
-#EXTINF:-1,BEIN LALIGA1
-http://46.249.60.210:50001/play/a026
-#EXTINF:-1,CANAL DECASA
-http://46.249.60.210:50001/play/a024
-#EXTINF:-1,R. MADRID TV
-http://46.249.60.210:50001/play/a03r
-#EXTINF:-1,DISNEY XD
-http://46.249.60.210:50001/play/a02x
-#EXTINF:-1,DISCOVERY
-http://46.249.60.210:50001/play/a031
-
 
 
 
@@ -3589,7 +3352,6 @@ http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/pla
 http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Fox Sports 3
 http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESPN
 http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESPN 2
@@ -3598,8 +3360,6 @@ http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlis
 http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", TDN
 http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DISC
 http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",NATG
@@ -3782,245 +3542,6 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,#0 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
-#EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
-#EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
-#EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
-#EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
-#EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
-#EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
-#EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
-#EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
-#EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
-#EXTINF:-1,M.ESTRENOSHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
-#EXTINF:-1,M.COMEDIA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
-#EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
-#EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
-#EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
-#EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
-#EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
-#EXTINF:-1,FDF
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
-#EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
-#EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
-#EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
-#EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
-#EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
-#EXTINF:-1,BEIN SPORT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
-#EXTINF:-1,BEIN LALIGA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
-#EXTINF:-1,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
-#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
-#EXTINF:-1,M.MOTOGPHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
-#EXTINF:-1,M.FORMULA1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
-#EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
-#EXTINF:-1,M. F.TBOL HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
-#EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
-#EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
-#EXTINF:-1,GOL TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
-#EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
-#EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
-#EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
-#EXTINF:-1,BEINLALIGA1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
-#EXTINF:-1,BEINLALIGA2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
-#EXTINF:-1,BEIN MAX 1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
-#EXTINF:-1,BEIN MAX 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
-#EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
-#EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
-#EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
-#EXTINF:-1,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
-#EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
-#EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
-#EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
-#EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
-#EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
-#EXTINF:-1,LTC
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
-#EXTINF:-1,Canal Extremadura SAT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/344.ts
-#EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
-#EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
-#EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
-#EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
-#EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
-#EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
-#EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
-#EXTINF:-1,C&I
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
-#EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
-#EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
-#EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
-#EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
-#EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
-#EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
-#EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
-#EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
-#EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
-#EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
-#EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
-#EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
-#EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
-#EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
-#EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
-#EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
-#EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
-#EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
-#EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
-#EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
-#EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
-#EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
-#EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
-#EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
-#EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
-#EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
-#EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
-#EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
-#EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
-#EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
-#EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
-#EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
-#EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
-#EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
-#EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
-#EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
-#EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
-#EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
-#EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
-#EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
-
 
 
 
@@ -4052,6 +3573,11 @@ http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
 http://..........
 #EXTINF:1 tvg-logo=https://s-media-cache-ak0.pinimg.com/originals/f6/50/e5/f650e55febc39dbb589c078a9fad77ee.jpg ,==Latino==
 http://..........
+
+#EXTINF:-1,3ABN Latino
+http://moiptvus-lh.akamaihd.net:80/i/latlive_1@328342/index_400_av-p.m3u8
+#EXTINF:-1,3ABN Latino
+http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/index_400_av-p.m3u8
 
 #EXTINF:-1,13 TV LATINO
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
@@ -5021,7 +4547,67 @@ http://91.224.178.9:5000/04
 #EXTINF:-1,Nickelodeon 
 http://91.224.178.9:5000/07
 
-
+http://188.24.53.178:8000/play/a00a 
+#EXTINF:-1,M1 Europe 
+http://188.24.53.178:8000/play/a04t 
+#EXTINF:-1,FILM+ 
+http://188.24.53.178:8000/play/a00d 
+#EXTINF:-1,Cartoon Network / TNT 
+http://188.24.53.178:8000/play/a00c 
+#EXTINF:-1,Magyar Slager TV 
+http://188.24.53.178:8000/play/a00b 
+#EXTINF:-1,VH1 
+http://188.24.53.178:8000/play/a03q 
+#EXTINF:-1,Happy Channel 
+http://188.24.53.178:8000/play/a009 
+#EXTINF:-1,Magyar ATV 
+http://188.24.53.178:8000/play/a03s 
+#EXTINF:-1,AXN Black 
+http://188.24.53.178:8000/play/a03o 
+#EXTINF:-1,M4 Sport Europe 
+http://188.24.53.178:8000/play/a03z 
+#EXTINF:-1,Cool TV 
+http://188.24.53.178:8000/play/a04x 
+#EXTINF:-1,TV2 
+http://188.24.53.178:8000/play/a03x 
+#EXTINF:-1,CCTV News 
+http://188.24.53.178:8000/play/a03v 
+#EXTINF:-1,RTL2 
+http://188.24.53.178:8000/play/a045 
+#EXTINF:-1,Sorozat+ 
+http://188.24.53.178:8000/play/a040 
+#EXTINF:-1,Antena 1 
+http://188.24.53.178:8000/play/a005 
+#EXTINF:-1,Comedy Central Extra 
+http://188.24.53.178:8000/play/a03p 
+#EXTINF:-1,FEM3 
+http://188.24.53.178:8000/play/a048 
+#EXTINF:-1,Viasat 3 
+http://188.24.53.178:8000/play/a03y 
+#EXTINF:-1,Erdely TV 
+http://188.24.53.178:8000/play/a04m 
+#EXTINF:-1,Echo TV 
+http://188.24.53.178:8000/play/a044 
+#EXTINF:-1,Antena 3 
+http://188.24.53.178:8000/play/a007 
+#EXTINF:-1,M2 
+http://188.24.53.178:8000/play/a03r 
+#EXTINF:-1,Sport.ro 
+http://188.24.53.178:8000/play/a008 
+#EXTINF:-1,STV 1 
+http://188.24.53.178:8000/play/a04c 
+#EXTINF:-1,RTL Klub 
+http://188.24.53.178:8000/play/a03w 
+#EXTINF:-1,Fashion TV 
+http://188.24.53.178:8000/play/a03t 
+#EXTINF:-1,SUPER RTL 
+http://188.24.53.178:8000/play/a03u 
+#EXTINF:-1,Kanal D 
+http://188.24.53.178:8000/play/a006 
+#EXTINF:-1,NCN 
+http://188.24.53.178:8000/play/a04e 
+#EXTINF:-1,Mozi+ 
+http://188.24.53.178:8000/play/a04a
 
 
 
@@ -6048,20 +5634,31 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,DUBAI TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
-#EXTINF:-1,MBC ACTION
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC MAX
-http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,MBC 2
-http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 4
-http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,GEM MIFA
-http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:-1,MERCI TV
-http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1,TEN TV
-http://63.237.48.23/ios/TEN_TV/TEN_TV.m3u8
+
+
+
+
+#EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
+http://62.68.66.244:8000/play/s65
+#EXTINF:-1,MESat
+http://62.68.66.244:8001/play/s77
+#EXTINF:-1,SHA3BEYAT
+http://62.68.66.244:8001/play/s74
+#EXTINF:-1,ELMOLED
+http://62.68.66.244:8001/play/s73
+#EXTINF:-1,MODY KIDS
+http://62.68.66.244:8001/play/s78
+#EXTINF:-1,AGHAPY TV
+http://62.68.66.244:8002/play/s82
+#EXTINF:-1,CTV
+http://62.68.66.244:8002/play/s86
+#EXTINF:-1,Miracle TV
+http://62.68.66.244:8002/play/s81
+
+
+
+
+
 
 #EXTINF:-1,NO NAME
 http://5.39.188.207:4022/udp/224.84.207.201:20601
