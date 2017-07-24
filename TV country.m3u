@@ -1176,6 +1176,106 @@ http://185.22.78.72:9004/play/a03c
 
 
 
+
+#EXTINF:3 group-title=”UK5”, 
+
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
+
+
+#EXTINF:-1,Animal Family HD 
+http://188.35.168.60:6666/mnogo-tv.by/AnimalFamilyHD 
+#EXTINF:-1,Animal Planet HD 
+http://188.35.168.60:6666/mnogo-tv.by/AnimalPlanetHD 
+#EXTINF:-1,eureka hd 
+http://188.35.168.60:6666/mnogo-tv.by/eurekahd 
+#EXTINF:-1,Evrosport 2 hd 
+http://188.35.168.60:6666/mnogo-tv.by/Evrosport2hd 
+#EXTINF:-1,History hd 
+http://188.35.168.60:6666/mnogo-tv.by/Historyhd 
+#EXTINF:-1,discovery hd 
+http://188.35.168.60:6666/mnogo-tv.by/discoveryhd 
+#EXTINF:-1,discovery science hd 
+http://188.35.168.60:6666/mnogo-tv.by/sciencehd 
+#EXTINF:-1,C Music 
+http://188.35.168.60:6666/mnogo-tv.by/CMusic 
+#EXTINF:-1,CBS Sports Network 
+http://188.35.168.60:6666/mnogo-tv.by/CBSSportsNetwork 
+#EXTINF:-1,CHS 
+http://188.35.168.60:6666/mnogo-tv.by/CHS 
+#EXTINF:-1,ESPN NEWS 
+http://188.35.168.60:6666/mnogo-tv.by/ESPNNEWS 
+#EXTINF:-1,MCM Pop 
+http://188.35.168.60:6666/mnogo-tv.by/MCMPop 
+#EXTINF:-1,MLB Network 
+http://188.35.168.60:6666/mnogo-tv.by/MLBNetwork 
+#EXTINF:-1,NBA HD 
+http://188.35.168.60:6666/mnogo-tv.by/NBAHD 
+#EXTINF:-1,NBCSN 
+http://188.35.168.60:6666/mnogo-tv.by/NBCSN 
+#EXTINF:-1,NFL Network 
+http://188.35.168.60:6666/mnogo-tv.by/NFLNetwork 
+#EXTINF:-1,NHL Network 
+http://188.35.168.60:6666/mnogo-tv.by/NHLNetwork 
+#EXTINF:-1,BT Sports 1 
+http://188.35.168.60:6666/mnogo-tv.by/BTSports1 
+#EXTINF:-1,BT Sport 2 
+http://188.35.168.60:6666/mnogo-tv.by/BTSport2 
+#EXTINF:-1,BT Sport 3 
+http://188.35.168.60:6666/mnogo-tv.by/BTSport3 
+#EXTINF:-1,eirSport1 
+http://188.35.168.60:6666/mnogo-tv.by/eirSport1 
+#EXTINF:-1,eirSport2 
+http://188.35.168.60:6666/mnogo-tv.by/eirSport2 
+#EXTINF:-1,Sky Movies Thriller 
+http://188.35.168.60:6666/mnogo-tv.by/SkyMoviesThriller 
+#EXTINF:-1,Sky Atlantic 
+http://188.35.168.60:6666/mnogo-tv.by/SkyAtlantic 
+#EXTINF:-1,Sky Disney 
+http://188.35.168.60:6666/mnogo-tv.by/SkyDisney 
+#EXTINF:-1,Sky Living 
+http://188.35.168.60:6666/mnogo-tv.by/SkyLiving 
+#EXTINF:-1,Sky Premiere 
+http://188.35.168.60:6666/mnogo-tv.by/SkyPremiere 
+#EXTINF:-1,ScFi Horror 
+http://188.35.168.60:6666/mnogo-tv.by/ScFiHorror 
+#EXTINF:-1,Sky Sports F1 
+http://188.35.168.60:6666/mnogo-tv.by/SkySportsF1 
+#EXTINF:-1,Sky1 
+http://188.35.168.60:6666/mnogo-tv.by/Sky1 
+#EXTINF:-1,Sky2 
+http://188.35.168.60:6666/mnogo-tv.by/Sky2 
+#EXTINF:-1,Sky Comedy 
+http://188.35.168.60:6666/mnogo-tv.by/SkyComedy 
+#EXTINF:-1,Sky Family 
+http://188.35.168.60:6666/mnogo-tv.by/SkyFamily 
+#EXTINF:-1,Sky Thriller 
+http://188.35.168.60:6666/mnogo-tv.by/SkyThriller 
+#EXTINF:-1,WWE Network 
+http://188.35.168.60:6666/mnogo-tv.by/WWENetwork
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:8 group-title=”UK-LOOP_ONE”,
 
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
@@ -2699,51 +2799,6 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 #EXTINF:6 group-title=”France2”,
 
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-
-#EXTINF:-1,France 2 HD 
-http://46.249.60.210:10100/play/a04y 
-#EXTINF:-1,ANIMAUX 
-http://46.249.60.210:10100/play/a05s 
-#EXTINF:-1,BFM TV 
-http://46.249.60.210:10100/play/a05j 
-#EXTINF:-1,RTL-TVi HD 
-http://46.249.60.210:10100/play/a074 
-#EXTINF:-1,CNL 
-http://46.249.60.210:10100/play/a06b 
-#EXTINF:-1,Science et Vie 
-http://46.249.60.210:10100/play/a060 
-#EXTINF:-1,AB1 
-http://46.249.60.210:10100/play/a05q 
-#EXTINF:-1,La Deux 
-http://46.249.60.210:10100/play/a072 
-#EXTINF:-1,TREK 
-http://46.249.60.210:10100/play/a05w 
-#EXTINF:-1,France 5 
-http://46.249.60.210:10100/play/a050 
-#EXTINF:-1,VTV4 
-http://46.249.60.210:10100/play/a06g 
-#EXTINF:-1,The Word Network 
-http://46.249.60.210:10100/play/a06j 
-#EXTINF:-1,TOUTE L’HISTOIRE 
-http://46.249.60.210:10100/play/a05x 
-#EXTINF:-1,HSE24 HD 
-http://46.249.60.210:10100/play/a06y 
-#EXTINF:-1,France 3 
-http://46.249.60.210:10100/play/a04z 
-#EXTINF:-1,Fashion 
-http://46.249.60.210:10100/play/a06c 
-#EXTINF:-1,NT1 
-http://46.249.60.210:10100/play/a056 
-#EXTINF:-1,Shant TV Premium 
-http://46.249.60.210:10100/play/a06x 
-#EXTINF:-1,France 4 
-http://46.249.60.210:10100/play/a059 
-#EXTINF:-1,Arte HD 
-http://46.249.60.210:10100/play/a052 
-#EXTINF:-1,TF1 HD 
-http://46.249.60.210:10100/play/a04x
 
 
 
@@ -5660,52 +5715,6 @@ http://62.68.66.244:8002/play/s81
 
 
 
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20601
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20602
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20603
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20604
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20605
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20607
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20606
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20703
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20802
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20804
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20809
-#EXTINF:-1,Ten
-http://5.39.188.207:4022/udp/224.84.207.201:20812
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20901
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20904
-#EXTINF:-1,KSA 24
-http://5.39.188.207:4022/udp/224.84.207.201:20907
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20909
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20911
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:20913
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:21001
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:21005
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:21006
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:21008
-#EXTINF:-1,NO NAME
-http://5.39.188.207:4022/udp/224.84.207.201:21009
 
 
 
