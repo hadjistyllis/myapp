@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -47,7 +47,7 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 #EXTINF:-1, Animal Planet
 http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet
-http://89.160.222.14:1957/ramdisk/animal.m3u8
+http://91.214.82.201:8800/8
 #EXTINF:-1,Animal Planet HD
 http://185.102.219.40:8010/play/a00m
 #EXTINF:-1,Animal Planet HD 
@@ -56,36 +56,52 @@ http://185.162.141.69:9065/animal
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic
 http://195.189.249.6:8000/play/a005/index.m3u8
+#EXTINF:-1,National Geographic
+http://185.102.219.25:8009/play/a009
 #EXTINF:-1,National Geographic HD 
 http://185.162.141.69:9001/natgeo
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,Nat Geo Wild
 http://195.189.249.6:8000/play/a008/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://31.130.49.145:4022/udp/224.0.90.50:1234
 #EXTINF:-1,Nat Geo Wild HD
 http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,Nat Geo Wild HD 
 http://185.162.141.69:9007/natgeowild 
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:0,Discovery Channel
+http://82.200.127.58:8080/udp/239.54.6.199:1224
+#EXTINF:0,Discovery Channel
+http://185.22.78.72:9001/play/a00h
 #EXTINF:-1,Discovery Channel HD 
 http://185.162.141.69:9013/discovery 
 #EXTINF:-1,Discovery HD
 http://195.189.249.6:8000/play/a004/index.m3u8
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
+#EXTINF:0,Discovery World
+http://31.130.49.145:4022/udp/224.0.90.43:1234
+#EXTINF:0,Discovery Turbo
+http://185.22.78.72:9001/play/a00n
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:-1, Discovery Science 
+#EXTINF:0,Discovery Science
+http://185.22.78.72:9001/play/a00k
+#EXTINF:-1,Discovery Science 
 http://94.158.80.117:9000/play/ch_206_1
 #EXTINF:-1,Discovery Science
-http://89.160.222.14:1957/ramdisk/discovery_science.m3u8
-#EXTINF:-1,Discovery Science
 http://195.189.249.6:8000/play/a006/index.m3u8
+#EXTINF:-1,Discovery History
+http://185.22.78.72:9001/play/a00l
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:0,History
-http://93.91.113.8:8080/Apple/History/.m3u8
+#EXTINF:0,Investigation Discovery
+http://185.22.78.72:9001/play/a00p
+#EXTINF:0,Investigation Discovery
+http://31.130.49.145:4022/udp/224.0.90.10:1234
 #EXTINF:-1, History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:-1, History 
@@ -108,6 +124,8 @@ http://95.82.241.148:81//udp/239.255.2.58:1234
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
+#EXTINF:-1,TLC
+http://31.130.49.145:4022/udp/224.0.90.5:1234
 #EXTINF:-1, TLC
 http://195.189.249.6:8000/play/a00b/index.m3u8
 #EXTINF:-1,TLC HD
@@ -115,13 +133,9 @@ http://185.102.219.40:8010/play/a00s
 #EXTINF:-1,food network 
 http://185.62.86.6:8081/hls/foodnetwork.m3u8 
 #EXTINF:-1,Viasat Nature 
-http://193.151.192.10:9215 
+http://185.102.219.25:8010/play/a005
 #EXTINF:-1,Viasat Explore 
-http://193.151.192.10:9217 
-#EXTINF:-1,Viasat History 
-http://193.151.192.10:9218 
-#EXTINF:-1,Viasat Sport 
-http://193.151.192.10:9220 
+http://185.102.219.25:8009/play/a00l
 #EXTINF:0,World Fashion
 http://93.91.113.8:8080/Apple/World-Fashion/.m3u8
 #EXTINF:-1,Amazing Facts TV
@@ -159,11 +173,13 @@ http://bit.ly/2rvaV7Q
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
-http://93.91.113.8:8080/Apple/JimJam/.m3u8
-#EXTINF:0,JimJam
-http://134.19.154.179:9669/udp/239.195.1.8:1234
+http://93.91.113.8:9999/play/a06n
+#EXTINF:0,Baby TV
+http://178.46.162.115:8888/udp/225.23.1.102:5000
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
+#EXTINF:-1,Boomerang
+http://178.46.162.115:8888/udp/225.23.1.103:5000
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -181,8 +197,6 @@ http://37.194.121.4:1234/udp/239.1.3.4:1234
 http://93.91.113.8:9999/play/a06k
 #EXTINF:-1,Nickelodeon HD
 http://185.102.219.40:8010/play/a00l
-#EXTINF:0,Nickelodeon
-http://93.91.113.8:8080/Apple/Nickelodeon/.m3u8
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
 #EXTINF:0,Nick Jr
@@ -191,6 +205,8 @@ http://37.49.213.11:81/udp/239.54.7.5:1224
 http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
+#EXTINF:-1,Nick Jr.
+http://82.200.127.58:8080/udp/233.12.144.85:5050
 #EXTINF:0,Toonami
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 #EXTINF:-1,TiJi (RU)
@@ -232,13 +248,21 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1,VH1 Classic 
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
 #EXTINF:-1,MTV Hits
-#EXTVLCOPT:network-caching=2000
 http://95.82.241.148:81//udp/239.255.2.214:1234
+#EXTINF:-1,MTV Hits
+http://31.130.49.145:4022/udp/224.0.90.170:1234
 #EXTINF:-1,MTV Dance 
-#EXTVLCOPT:network-caching=2000
 http://185.162.141.69:9014/mtvdance 
+#EXTINF:-1,MTV Dance 
+http://178.46.162.115:8888/udp/225.23.1.124:5000
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
+#EXTINF:-1,MTV DANCE
+http://31.130.49.145:4022/udp/224.0.90.46:1234
+#EXTINF:-1,MTV Rocks
+http://178.46.162.115:8888/udp/225.23.1.126:5000
+#EXTINF:-1,MTV Russia
+http://31.130.49.145:4022/udp/239.255.2.30:1234
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -345,31 +369,6 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 https://www.youtube.com/watch?v=9A6j2L2fEM8
 #EXTINF:-1,beIN Sports
 http://91.121.58.28:8085/smartspor
-
-
-#EXTINF:-1,Telesports
-http://46.105.233.106:8050/telesport
-#EXTINF:-1,Smart Sports
-http://91.121.58.28:8085/smartspor
-#EXTINF:-1,Star Sports
-http://91.121.58.28:8090/starsport
-
-#EXTINF:-1, SPORT 1 HD
-http://51.15.43.134:10101/hl/176_.m3u8
-#EXTINF:-1, SPORT 2 HD
-http://51.15.43.134:10101/hl/178_.m3u8
-#EXTINF:-1, SPORT 4 HD
-http://51.15.43.134:10101/hl/180_.m3u8
-#EXTINF:-1, SPORT 5 HD
-http://51.15.43.134:10101/hl/181_.m3u8
-#EXTINF:-1, SPORT 5
-http://51.15.43.134:10101/hl/182_.m3u8
-#EXTINF:-1, SPORT 5+
-http://51.15.43.134:10101/hl/184_.m3u8
-#EXTINF:-1, SPORT 5 Live
-http://51.15.43.134:10101/hl/183_.m3u8
-#EXTINF:-1, SPORT One
-http://51.15.43.134:10101/hl/186_.m3u8
 
 #EXTINF:-1, UK:BT Sports 1
 http://185.142.239.164:3135/BT/1/index.m3u8
