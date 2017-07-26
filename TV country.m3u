@@ -4755,6 +4755,9 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
 
 #EXTINF:4 group-title=”Portugal2”,
 
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+
 #EXTINF:-1,FOX 
 http://185.26.174.67:44444/play/a010 
 #EXTINF:-1,APPALCO 
