@@ -3768,6 +3768,9 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 #EXTINF:8 group-title=”Spain2”,
 
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+
 #EXTINF:-1,FOX 
 http://185.26.174.67:44444/play/a010 
 #EXTINF:-1,APPALCO 
@@ -3856,7 +3859,7 @@ http://185.26.174.67:44444/play/a016
 
 
 
-#EXTINF:8 group-title=”Spain2”,
+#EXTINF:8 group-title=”Spain3”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
