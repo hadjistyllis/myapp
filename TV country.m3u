@@ -1039,6 +1039,28 @@ http://185.102.219.40:8010/play/a00o
 http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,FOX HD
 http://185.102.219.40:8010/play/a00n
+#EXTINF:-1, UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+#EXTINF:-1, UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+#EXTINF:-1, BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+#EXTINF:-1, UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1, UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
 
 #EXTINF:0,Sky Sports 2
 http://35.194.159.185:8000/play/a017
