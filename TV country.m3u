@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -35,32 +35,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
-
-#EXTINF:1 group-title=”MESSAGE”,
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WILL BE
-http://.....
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OUT UNTIL
-http://.....
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/7/17.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,MAY NOT 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,POSSIBLE.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,THANK YOU
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
@@ -142,6 +116,8 @@ https://www.youtube.com/watch?v=O3Hs5AZqi4U
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/Ba4voPNmZUU/maxresdefault_live.jpg ,ERT Play WorldWide WebTV
 https://www.youtube.com/watch?v=Ba4voPNmZUU
+#EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV 
+rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (MxPlayer)
 http://bit.ly/ant1gr1
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
@@ -534,6 +510,19 @@ http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/1500.m3u8
 http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/3000.m3u8
 
 
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”USA2”, 
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+
 #EXTINF:-1,History 
 http://93.91.113.8:9999/play/a06z 
 #EXTINF:-1, JimJam 
@@ -596,9 +585,27 @@ http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4
 http://185.142.239.164:3135/Super/4/index.m3u8
 
+#EXTINF:0,Arena Sport 1
+http://35.194.159.185:8000/play/a00c
+#EXTINF:0,Arena Sport 2
+http://35.194.159.185:8000/play/a00d
+#EXTINF:0,Arena Sport 3
+http://35.194.159.185:8000/play/a00e
+#EXTINF:0,Arena Sport 4
+http://35.194.159.185:8000/play/a00f
+#EXTINF:0,Arena Sport 5
+http://35.194.159.185:8000/play/a00g
 
-
-
+#EXTINF:1,Arena1
+http://185.152.65.131:8080/arena1/mpegts
+#EXTINF:1,Arena2
+http://185.152.65.131:8080/arena2/mpegts
+#EXTINF:1,Arena3
+http://185.152.65.131:8080/arena3/mpegts
+#EXTINF:1,Arena4
+http://185.152.65.131:8080/arena4/mpegts
+#EXTINF:1,Arena5
+http://185.152.65.131:8080/arena5/mpegts
 
 
 
@@ -623,13 +630,13 @@ http://..........
 
 
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
-http://.....
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 #EXTINF:-1 ,
@@ -1033,11 +1040,13 @@ http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,FOX HD
 http://185.102.219.40:8010/play/a00n
 
-#EXTINF:-1,BeIN-SKY ENG-FR-DE
-http://91.121.58.28:8085/live
+#EXTINF:0,Sky Sports 2
+http://35.194.159.185:8000/play/a017
 
-
-
+#EXTINF:1,Eurosport1
+http://185.152.65.131:8080/eurosport1/mpegts
+#EXTINF:1,Eurosport2
+http://185.152.65.131:8080/eurosport2/mpegts
 
 
 
@@ -2288,7 +2297,40 @@ mms://100automoto.tv/channel_porsche
 
 #EXTINF:4 group-title=”Bulgaria2”,
 
-
+#EXTINF:-1, FOX 
+http://185.53.163.216:12000/play/a01f/index.m3u8 
+#EXTINF:-1, Fen Folk TV 
+http://185.53.163.216:12000/play/a01d/index.m3u8 
+#EXTINF:-1, Alfa TV 
+http://185.53.163.216:12000/play/a018/index.m3u8 
+#EXTINF:-1, bTV Lady 
+http://185.53.163.216:12000/play/a01m/index.m3u8 
+#EXTINF:-1, FAN TV 
+http://185.53.163.216:12000/play/a01i/index.m3u8 
+#EXTINF:-1, Kanal 3 
+http://185.53.163.216:12000/play/a01h/index.m3u8 
+#EXTINF:-1, XYPLUS 
+http://185.53.163.216:12000/play/a01n/index.m3u8 
+#EXTINF:-1, CN 
+http://185.53.163.216:12000/play/a01b/index.m3u8 
+#EXTINF:-1, Planeta Folk 
+http://185.53.163.216:12000/play/a01o/index.m3u8 
+#EXTINF:-1, Viasat Explorer 
+http://185.53.163.216:12000/play/a019/index.m3u8 
+#EXTINF:-1, DM Sat 
+http://185.53.163.216:12000/play/a01l/index.m3u8 
+#EXTINF:-1, Folklor TV 
+http://185.53.163.216:12000/play/a01g/index.m3u8 
+#EXTINF:-1, Balkanika 
+http://185.53.163.216:12000/play/a01k/index.m3u8 
+#EXTINF:-1, Disney Channel 
+http://185.53.163.216:12000/play/a01a/index.m3u8 
+#EXTINF:-1, ID Xtra 
+http://185.53.163.216:12000/play/a01j/index.m3u8 
+#EXTINF:-1, Nick 
+http://185.53.163.216:12000/play/a017/index.m3u8 
+#EXTINF:-1, NG WILD 
+http://185.53.163.216:12000/play/a01e/index.m3u8
 
 
 
@@ -2930,7 +2972,12 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
-
+#EXTINF:0,Bein Sports 1 France
+http://35.194.159.185:8000/play/a00z
+#EXTINF:0,Bein Sports 2 France
+http://35.194.159.185:8000/play/a010
+#EXTINF:0,Bein Sports 3 France
+http://35.194.159.185:8000/play/a011
 
 
 
@@ -4702,6 +4749,66 @@ http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
 
 
 
+#EXTINF:8 group-title=”Latino”,
+
+
+#EXTINF:1 tvg-logo=https://s-media-cache-ak0.pinimg.com/originals/f6/50/e5/f650e55febc39dbb589c078a9fad77ee.jpg ,==Latino==
+http://.........
+
+#EXTINF:-1,Latino | Fox Movies HD.
+https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+#EXTINF:-1,Bet Safe Star Sixes
+https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass
+https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Fox Comedy HD.
+https://freedom.dreamsmx.com/freedom/foxcomedy/playlist.m3u8
+#EXTINF:-1,Fox Family EN
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:-1,Liga de Ascenso Mx TVC HD
+https://freedom.dreamsmx.com/freedom/nick2/playlist.m3u8
+#EXTINF:-1,Max UP-
+https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
+#EXTINF:-1,A&E
+https://freedom.dreamsmx.com/freedom/eventos4/playlist.m3u8
+#EXTINF:-1,ESPN +
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+#EXTINF:-1,Fox Action HD.
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net:80/i/ch_1@325635/master.m3u8
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4879,228 +4986,204 @@ http://.....
 http://.....
 
 
-#EXTINF:-1,RTP 1
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts
-#EXTINF:-1,RTP 1 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1402.ts
-#EXTINF:-1,SIC
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.ts
-#EXTINF:-1,SIC Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts
-#EXTINF:-1,TVI
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/891.ts
-#EXTINF:-1,TVI Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts
-#EXTINF:-1,RTP 2
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/882.ts
-#EXTINF:-1,RTP 2 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1454.ts
-#EXTINF:-1,RTP 3
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/886.ts
-#EXTINF:-1,RTP 3 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1444.ts
-#EXTINF:-1,TVI 24
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/877.ts
-#EXTINF:-1,TVI 24 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1443.ts
-#EXTINF:-1,SIC NOTICIAS
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/883.ts
-#EXTINF:-1,SIC NOTICIAS Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.ts
-#EXTINF:-1,CMTV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.ts
-#EXTINF:-1,BTV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.ts
-#EXTINF:-1,BTV Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1442.ts
-#EXTINF:-1,BTV HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.ts
-#EXTINF:-1,SPORT TV 1
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.ts
-#EXTINF:-1,Sport TV 1 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.ts
-#EXTINF:-1,SPORT TV 2
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.ts
-#EXTINF:-1,SPORT TV 2 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.ts
-#EXTINF:-1,SPORT TV 3
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.ts
-#EXTINF:-1,SPORT TV 3 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.ts
-#EXTINF:-1,SPORT TV 4
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.ts
-#EXTINF:-1,SPORT TV 5
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.ts
-#EXTINF:-1,SPORT TV + HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.ts
-#EXTINF:-1,PORTO CANAL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.ts
-#EXTINF:-1,SPORTING TV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.ts
-#EXTINF:-1,AXN HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/857.ts
-#EXTINF:-1,AXN Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1456.ts
-#EXTINF:-1,AXN WHITE
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1129.ts
-#EXTINF:-1,AMC
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1096.ts
-#EXTINF:-1,AMC Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1453.ts
-#EXTINF:-1,AMC HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/866.ts
-#EXTINF:-1,HOLLYWOOD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.ts
-#EXTINF:-1,HOLLYWOOD Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1083.ts
-#EXTINF:-1,FOX HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1081.ts
-#EXTINF:-1,FOX MOVIES
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.ts
-#EXTINF:-1,FOX MOVIES Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.ts
-#EXTINF:-1,TV CINE 1
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1084.ts
-#EXTINF:-1,TV CINE 1 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1085.ts
-#EXTINF:-1,TV CINE 1 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1452.ts
-#EXTINF:-1,TV CINE 2
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1086.ts
-#EXTINF:-1,TV CINE 2 Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.ts
-#EXTINF:-1,TV CINE 2 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1087.ts
-#EXTINF:-1,TV CINE 3
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.ts
-#EXTINF:-1,TV CINE 3 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1303.ts
-#EXTINF:-1,TV CINE 4
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.ts
-#EXTINF:-1,TV CINE 4 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1304.ts
-#EXTINF:-1,TV SERIES HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1526.ts
-#EXTINF:-1,CINEMUNDO
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1527.ts
-#EXTINF:-1,SYFY
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1090.ts
-#EXTINF:-1,SYFY HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.ts
-#EXTINF:-1,CINEMUNDO HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.ts
-#EXTINF:-1,MOV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.ts
-#EXTINF:-1,TVI FICCÃO
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts
-#EXTINF:-1,TVI REALITY
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.ts
-#EXTINF:-1,SIC MULHER
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.ts
-#EXTINF:-1,SIC RADICAL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1092.ts
-#EXTINF:-1,SIC CARAS
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1524.ts
-#EXTINF:-1,RTP MEMORIA
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1093.ts
-#EXTINF:-1,TV GLOBO PREMIUM
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/878.ts
-#EXTINF:-1,FRANCE 24
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/862.ts
-#EXTINF:-1,CNN
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/856.ts
-#EXTINF:-1,KOMBAT SPORT
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.ts
-#EXTINF:-1,MOTORVISION HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.ts
-#EXTINF:-1,EUROSPORT 1
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.ts
-#EXTINF:-1,A BOLA TV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.ts
-#EXTINF:-1,NAT GEO WILD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/889.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.ts
-#EXTINF:-1,ODISSEIA
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.ts
-#EXTINF:-1,ODISSEIA Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1440.ts
-#EXTINF:-1,CANAL HISTORIA
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.ts
-#EXTINF:-1,CANAL HISTORIA Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1457.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/869.ts
-#EXTINF:-1,DISCOVERY CHANNEL Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.ts
-#EXTINF:-1,CAÇAVISION
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.ts
-#EXTINF:-1,CAÇA E PESCA 
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.ts
-#EXTINF:-1,TOROS TV
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.ts
-#EXTINF:-1,TRACE URBAN
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.ts
-#EXTINF:-1,AXN BLACK HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1522.ts
-#EXTINF:-1,FOX CRIME
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1080.ts
-#EXTINF:-1,FOX COMEDY HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1079.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/881.ts
-#EXTINF:-1,CBS REALITY
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1525.ts
-#EXTINF:-1,FOX LIFE HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1082.ts
-#EXTINF:-1,TLC
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1068.ts
-#EXTINF:-1,CANAL Q
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1101.ts
-#EXTINF:-1,A&E
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1095.ts
-#EXTINF:-1,VH1
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1062.ts
-#EXTINF:-1,MTV PORTUGAL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/871.ts
-#EXTINF:-1,MTV DANCE
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1076.ts
-#EXTINF:-1,SIC K
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1091.ts
-#EXTINF:-1,CANAL PANDA
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/884.ts
-#EXTINF:-1,CANAL PANDA Mobile
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1436.ts
-#EXTINF:-1,CARTOON NETWORK
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1291.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/860.ts
-#EXTINF:-1,NICKELODEON
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1078.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1102.ts
-#EXTINF:-1,JIM JAM
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1300.ts
-#EXTINF:-1,PANDA BIGGS
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1139.ts
+#EXTINF:-1,PT: 24 Kitchen HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8408.ts
+#EXTINF:-1,PT: A&E
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7837.ts
+#EXTINF:-1,PT: ABOLA TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7771.ts
+#EXTINF:-1,PT: Afro Music
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7750.ts
+#EXTINF:-1,PT: AMC
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15357.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7749.ts
+#EXTINF:-1,PT: AXN HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7830.ts
+#EXTINF:-1,PT: AXN WHITE
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7748.ts
+#EXTINF:-1,PT: AXN WHITE FHD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15994.ts
+#EXTINF:-1,PT: Baby First
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15358.ts
+#EXTINF:-1,PT: Baby Tv
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15359.ts
+#EXTINF:-1,PT: Biggs
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15370.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7742.ts
+#EXTINF:-1,PT: Caca & Pesca
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7833.ts
+#EXTINF:-1,PT: Canal Historia
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7832.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7815.ts
+#EXTINF:-1,PT: Cancao Nova
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15381.ts
+#EXTINF:-1,PT: Cartoon NetWork
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7814.ts
+#EXTINF:-1,PT: CBS Reality
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7831.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7740.ts
+#EXTINF:-1,PT: CMTV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7829.ts
+#EXTINF:-1,PT: Discovery Channel
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13858.ts
+#EXTINF:-1,PT: Discovery Showcase HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15360.ts
+#EXTINF:-1,PT: Disney Channel
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7813.ts
+#EXTINF:-1,PT: Disney Junior
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7747.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7828.ts
+#EXTINF:-1,PT: EUroNews
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15361.ts
+#EXTINF:-1,PT: EUROSPORT 1
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7743.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7739.ts
+#EXTINF:-1,PT: EuroSport 2 XTRA HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15339.ts
+#EXTINF:-1,PT: EUROSPORT NEWS
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7769.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8473.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7826.ts
+#EXTINF:-1,PT: FOX HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7768.ts
+#EXTINF:-1,PT: Fox Life HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7825.ts
+#EXTINF:-1,PT: FOX Movies
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7824.ts
+#EXTINF:-1,PT: FTV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15372.ts
+#EXTINF:-1,PT: Fuel TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15373.ts
+#EXTINF:-1,PT: FX
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7823.ts
+#EXTINF:-1,PT: Globo
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15362.ts
+#EXTINF:-1,PT: Globo Premium
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15374.ts
+#EXTINF:-1,PT: Historia
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15363.ts
+#EXTINF:-1,PT: Hollywood HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7767.ts
+#EXTINF:-1,PT: MCM Pop
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15365.ts
+#EXTINF:-1,PT: MCM Top
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15366.ts
+#EXTINF:-1,PT: Motors TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7822.ts
+#EXTINF:-1,PT: Motorvision
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15364.ts
+#EXTINF:-1,PT: MOV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7766.ts
+#EXTINF:-1,PT: MTV Portugal
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15367.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7821.ts
+#EXTINF:-1,PT: National Geographic HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8406.ts
+#EXTINF:-1,PT: Nickelodeon
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7812.ts
+#EXTINF:-1,PT: Odisseia
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7765.ts
+#EXTINF:-1,PT: Panda Biggs
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7811.ts
+#EXTINF:-1,PT: PFC
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7764.ts
+#EXTINF:-1,PT: Porto Canal
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7763.ts
+#EXTINF:-1,PT: Record News
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15375.ts
+#EXTINF:-1,PT: RTP 1
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7762.ts
+#EXTINF:-1,PT: RTP 2
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7761.ts
+#EXTINF:-1,PT: RTP 3
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7803.ts
+#EXTINF:-1,PT: RTP Acores
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7804.ts
+#EXTINF:-1,PT: RTP Ãfrica
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7805.ts
+#EXTINF:-1,PT: RTP Madeira
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7806.ts
+#EXTINF:-1,PT: RTP Memoria
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7807.ts
+#EXTINF:-1,PT: SIC
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15376.ts
+#EXTINF:-1,PT: SIC Caras
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15377.ts
+#EXTINF:-1,PT: SIC HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7760.ts
+#EXTINF:-1,PT: SIC K
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15378.ts
+#EXTINF:-1,PT: SIC Kids HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7810.ts
+#EXTINF:-1,PT: SIC Mulher
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15379.ts
+#EXTINF:-1,PT: SIC Noticias
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7820.ts
+#EXTINF:-1,PT: SIC Noticias HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8409.ts
+#EXTINF:-1,PT: SIC Radical
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15380.ts
+#EXTINF:-1,PT: SPORT TV +
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15368.ts
+#EXTINF:-1,PT: SPORT TV + HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7816.ts
+#EXTINF:-1,PT: SPORTING TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7759.ts
+#EXTINF:-1,PT: SPORTTV 1 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7758.ts
+#EXTINF:-1,PT: SPORTTV 1 SD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8469.ts
+#EXTINF:-1,PT: SPORTTV 2 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7746.ts
+#EXTINF:-1,PT: SPORTTV 2 SD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8470.ts
+#EXTINF:-1,PT: SPORTTV 3 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7757.ts
+#EXTINF:-1,PT: SPORTTV 3 SD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8471.ts
+#EXTINF:-1,PT: SPORTTV 4 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7756.ts
+#EXTINF:-1,PT: SPORTTV 5 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7745.ts
+#EXTINF:-1,PT: SyFy
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7819.ts
+#EXTINF:-1,PT: TLC
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15369.ts
+#EXTINF:-1,PT: TPA Angola
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7808.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8407.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7818.ts
+#EXTINF:-1,PT: TVCINE 1 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7809.ts
+#EXTINF:-1,PT: TVCINE 2 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7755.ts
+#EXTINF:-1,PT: TVCINE 3 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7754.ts
+#EXTINF:-1,PT: TVCINE 4 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7753.ts
+#EXTINF:-1,PT: TVE Internacional
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15382.ts
+#EXTINF:-1,PT: TVI
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7744.ts
+#EXTINF:-1,PT: Tvi 24
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7752.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7751.ts
+#EXTINF:-1,PT: TVI REALITY
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8494.ts
+#EXTINF:-1,PT:TVC Series HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15993.ts
 
 
 
@@ -5302,10 +5385,6 @@ http://84.243.221.164:8000/play/a01e
 http://84.243.221.164:8000/play/a013
 #EXTINF:-1,CANAL+ FAMILY HD
 http://84.243.221.164:8000/play/a01y
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a019
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a00e
 #EXTINF:-1,SciFi Universal
 http://84.243.221.164:8000/play/a01t
 #EXTINF:-1,TBN Europe
@@ -5326,12 +5405,8 @@ http://84.243.221.164:8000/play/a02j
 http://84.243.221.164:8000/play/a01d
 #EXTINF:-1,TVP 1 HD
 http://84.243.221.164:8000/play/a02n
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a008
 #EXTINF:-1,TVP 1 HD
 http://84.243.221.164:8000/play/a02p
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a01p
 #EXTINF:-1,CANAL+ SPORT HD
 http://84.243.221.164:8000/play/a01l
 #EXTINF:-1,Eurosport 1 HD
@@ -5340,16 +5415,8 @@ http://84.243.221.164:8000/play/a01r
 http://84.243.221.164:8000/play/a00w
 #EXTINF:-1,TBN Poland
 http://84.243.221.164:8000/play/a014
-#EXTINF:-1,Hustler HD
-http://84.243.221.164:8000/play/a02g
-#EXTINF:-1,Redlight HD
-http://84.243.221.164:8000/play/a02f
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a00u
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a00a
-#EXTINF:-1,Alice
-http://84.243.221.164:8000/play/a00b
+
+
 
 
 
@@ -5569,68 +5636,6 @@ http://91.224.178.9:5000/06
 http://91.224.178.9:5000/04 
 #EXTINF:-1,Nickelodeon 
 http://91.224.178.9:5000/07
-
-http://188.24.53.178:8000/play/a00a 
-#EXTINF:-1,M1 Europe 
-http://188.24.53.178:8000/play/a04t 
-#EXTINF:-1,FILM+ 
-http://188.24.53.178:8000/play/a00d 
-#EXTINF:-1,Cartoon Network / TNT 
-http://188.24.53.178:8000/play/a00c 
-#EXTINF:-1,Magyar Slager TV 
-http://188.24.53.178:8000/play/a00b 
-#EXTINF:-1,VH1 
-http://188.24.53.178:8000/play/a03q 
-#EXTINF:-1,Happy Channel 
-http://188.24.53.178:8000/play/a009 
-#EXTINF:-1,Magyar ATV 
-http://188.24.53.178:8000/play/a03s 
-#EXTINF:-1,AXN Black 
-http://188.24.53.178:8000/play/a03o 
-#EXTINF:-1,M4 Sport Europe 
-http://188.24.53.178:8000/play/a03z 
-#EXTINF:-1,Cool TV 
-http://188.24.53.178:8000/play/a04x 
-#EXTINF:-1,TV2 
-http://188.24.53.178:8000/play/a03x 
-#EXTINF:-1,CCTV News 
-http://188.24.53.178:8000/play/a03v 
-#EXTINF:-1,RTL2 
-http://188.24.53.178:8000/play/a045 
-#EXTINF:-1,Sorozat+ 
-http://188.24.53.178:8000/play/a040 
-#EXTINF:-1,Antena 1 
-http://188.24.53.178:8000/play/a005 
-#EXTINF:-1,Comedy Central Extra 
-http://188.24.53.178:8000/play/a03p 
-#EXTINF:-1,FEM3 
-http://188.24.53.178:8000/play/a048 
-#EXTINF:-1,Viasat 3 
-http://188.24.53.178:8000/play/a03y 
-#EXTINF:-1,Erdely TV 
-http://188.24.53.178:8000/play/a04m 
-#EXTINF:-1,Echo TV 
-http://188.24.53.178:8000/play/a044 
-#EXTINF:-1,Antena 3 
-http://188.24.53.178:8000/play/a007 
-#EXTINF:-1,M2 
-http://188.24.53.178:8000/play/a03r 
-#EXTINF:-1,Sport.ro 
-http://188.24.53.178:8000/play/a008 
-#EXTINF:-1,STV 1 
-http://188.24.53.178:8000/play/a04c 
-#EXTINF:-1,RTL Klub 
-http://188.24.53.178:8000/play/a03w 
-#EXTINF:-1,Fashion TV 
-http://188.24.53.178:8000/play/a03t 
-#EXTINF:-1,SUPER RTL 
-http://188.24.53.178:8000/play/a03u 
-#EXTINF:-1,Kanal D 
-http://188.24.53.178:8000/play/a006 
-#EXTINF:-1,NCN 
-http://188.24.53.178:8000/play/a04e 
-#EXTINF:-1,Mozi+ 
-http://188.24.53.178:8000/play/a04a
 
 
 
@@ -6190,7 +6195,98 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be08
 
 
 
+
+
+
+
+
+
 #EXTINF:9 group-title=”India2”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
+http://..........
+
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
+#EXTINF:-1,IndiaNews-Hindi
+rtmp://live-fs.wmncdn.net:1935/firstindianewstv1/live.stream
+#EXTINF:-1,IndiaNews-Hindi
+rtmp://live-fs.wmncdn.net:1935/firstindianewstv2/live.stream
+#EXTINF:-1,Ishwar TV
+rtmp://live-fs.wmncdn.net:1935/ishwartv10/live.stream
+#EXTINF:-1,Sadhana TV
+rtmp://live-fs.wmncdn.net:1935/sadhanatv/live.stream
+#EXTINF:-1,Sadhana NEWS
+rtmp://live-fs.wmncdn.net:1935/sadhananewsmp1/live.stream
+#EXTINF:-1,Sadhana Plus
+rtmp://live-fs.wmncdn.net:1935/sadhanaplus1/live.stream
+#EXTINF:-1,Sadhna Bangla
+rtmp://live-fs.wmncdn.net:1935/aryantv1/live1.stream
+
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv1/live1.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv2/live2.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv3/live3.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv2/live2.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv3/live3.stream
+#EXTINF:-1,MBC TV
+rtsp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
+
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
+
+#EXTINF:-1,Saras TV
+rtmp://live.streamjo.com/sarastv/sarastv
+#EXTINF:-1,Saras TV
+rtmp://live.streamjo.com/sarastv/_definst_/sarastv
+#EXTINF:-1,Saras TV
+rtmp://live.streamjo.com:1935/sarastv/_definst_/sarastv
+#EXTINF:-1,Saras TV
+rtsp://live.streamjo.com:1935/sarastv/sarastv
+#EXTINF:-1,Saras TV
+rtsp://live.streamjo.com:1935/sarastv/_definst_/sarastv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”India3”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
 http://..........
@@ -6225,27 +6321,23 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1,ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1,NEWS IND24x7
-http://jiotv.live.cdn.jio.com/News_India_24_X_7/News_India_24_X_7.m3u8
 #EXTINF:-1,VTV Guju
 http://139.162.45.160:1935/trans/inewsup.stream_aac/playlist.m3u8
 #EXTINF:-1,Live Today
 http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/playlist.m3u8
-#EXTINF:-1, India TV
+#EXTINF:-1,India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:-1, NEWS 24 Hindi
+#EXTINF:-1,NEWS 24 Hindi
 http://multitvlive.multitvsolution.com/multitvcdn/smil:News24.smil/chunklist_b2096000_sleng.m3u8
-#EXTINF:-1, IBN7 News
+#EXTINF:-1,IBN7 News
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
-#EXTINF:-1, News18 Ind
+#EXTINF:-1,News18 Ind
 http://live.wmncdn.net/news18india/c2b04f69640309776f357ac2516bf512.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, News Nation-Hindi
+#EXTINF:-1,News Nation-Hindi
 http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
-#EXTINF:-1, ChannelOne News-Hindi
+#EXTINF:-1,ChannelOne News-Hindi
 rtmp://edge-ind.inapcdn.in/vivo/190smart.stream_aac
-#EXTINF:-1, SamacharTime24-Hindi
-http://live.globalgroupsindia.in:10005/live/gb506/playlist.m3u8
-#EXTINF:-1,  1IndiaNews-Hindi
+#EXTINF:-1,1IndiaNews-Hindi
 rtmp://live-fs.wmncdn.net/firstindianewstv1/live.stream
 #EXTINF:-1,CNBC AWAZ
 http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
@@ -6263,11 +6355,11 @@ http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindial
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 #EXTINF:-1,NDTV Profit
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
-#EXTINF:-1, Headlines Today
+#EXTINF:-1,Headlines Today
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:-1,ET NOW
 http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:-1, CNN NEWS
+#EXTINF:-1,CNN NEWS
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
@@ -6293,10 +6385,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 http://jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News.m3u8
 #EXTINF:-1,Channel News Asia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1,Euro News
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-#EXTINF:-1,Euro2 News
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 #EXTINF:-1,France24 News
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
 #EXTINF:-1,CBN US
@@ -6311,11 +6399,7 @@ http://my2.videodb.in:8081/english/moviesnow-b2/playlist.m3u8
 http://87.98.150.108:1935/live/aurohd_fr.stream/playlist.m3u8
 #EXTINF:-1, London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1, HBO
-http://my2.videodb.in:8081/english/hbo-b2/playlist.m3u8
-#EXTINF:-1, MOVIES NOW
-http://my2.videodb.in:8081/english/moviesnow-b2/playlist.m3u8
-#EXTINF:-1, MBC ACTION
+#EXTINF:-1,MBC ACTION
 http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
 #EXTINF:-1, MBC MAX
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
@@ -6327,22 +6411,8 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-#EXTINF:-1, SonyTV
-https://hls.ssh101.com/live/sonytv/index.m3u8
-#EXTINF:-1, ZeeTV HD2
-https://hls.ssh101.com/live/zeetv/index.m3u8
-#EXTINF:-1,Colors TV
-https://hls.ssh101.com/live/colors/index.m3u8
-#EXTINF:-1,ZEE CINEMA
-https://hls.ssh101.com/live/zeecinema/index.m3u8
-#EXTINF:-1, Sony Sab
-https://hls.ssh101.com/live/sonysab/index.m3u8
 #EXTINF:-1, B4U Movies
 http://my2.videodb.in:8081/hindi/b4umovies-b7/playlist.m3u8
-#EXTINF:-1, EPIC HD
-http://jiotv.live.cdn.jio.com/Epic_HD/Epic_HD.m3u8
-#EXTINF:-1, MTV Beats HD
-http://jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD.m3u8
 #EXTINF:-1, Zoom TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD160L240P/playlist.m3u8
 #EXTINF:-1, Zoom TV2
@@ -6355,20 +6425,10 @@ http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1, FOOD FOOD TV
 http://87.98.150.108:1935/live/foodfood_fr.stream/playlist.m3u8
-#EXTINF:-1, Star Sports 1 SD(WORKING)
-https://live9.userapi.com/639914/live/rR5fnBtWaQfwyqom/playlist.m3u8
 #EXTINF:-1, EuroSports1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1, TEN Sports
 https://live.tune.tv/tensports/ten-sports/playlist.m3u8
-#EXTINF:-1, Sony ESPN
-http://87.98.150.108:1935/live/jaikrishna_fr.stream/chunklist.m3u8
-#EXTINF:-1, Sony SIX
-https://hls.ssh101.com/live/sonysix4/index.m3u8
-#EXTINF:-1, Sky Sports 2 HD
-https://live9.userapi.com/639908/live/wjJz81lAf0U/playlist.m3u8
-#EXTINF:-1, PTV SP1
-https://live9.userapi.com/616313/live/wjJz81lAf0U/playlist.m3u8
 #EXTINF:-1, Mahua Plus BhojPuri
 http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
 #EXTINF:-1, Jonack
@@ -6417,20 +6477,8 @@ http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3
 https://wowzaprod123-i.akamaihd.net/hls/live/500320/IBC/chunklist.m3u8
 #EXTINF:-1, VIJAY Super Tamil
 http://87.98.150.108:1935/live/vijaysuper_fr.stream/playlist.m3u8
-#EXTINF:-1, Sun Music Tamil
-https://hls.ssh101.com/live/sunmusic/index.m3u8
 #EXTINF:-1, Sun Life Tamil
 http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
-#EXTINF:-1, SUNTV Tamil
-https://hls.ssh101.com/live/suntv/index.m3u8
-#EXTINF:-1, KTV Tamil
-https://hls.ssh101.com/live/ktvlive/index.m3u8
-#EXTINF:-1, Jaya TV HD Tamil
-https://hls.ssh101.com/live/jayatv/index.m3u8
-#EXTINF:-1, Jaya MAX Tamil
-https://hls.ssh101.com/live/jayamax/index.m3u8
-#EXTINF:-1, Jaya Movies Tamil
-https://hls.ssh101.com/live/jayamovies/index.m3u8
 #EXTINF:-1, Vanavil Tamil
 rtmp://server.maxwellstreaming.com/vanavil/myStream
 #EXTINF:-1, Public Music Kannada
@@ -6445,62 +6493,26 @@ http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD50L240P/playlist.m3u8
 #EXTINF:-1, NEWSTV9 Kannada
 http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
-#EXTINF:-1, Asianet Plus2 Malayalam
-http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/playlist.m3u8
-#EXTINF:-1, Asianet HD Malayalam
-http://live-fs.wmncdn.net/amsqasianet/asianetlive.stream/playlist.m3u8
 #EXTINF:-1, Asianet News Malayalam
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1, Matrubhumi Malayalam
-http://llnwlive.prasaria.com/pr_live_origin_mathrubhumi/stream8042/chunklist.m3u8
-#EXTINF:-1, MediaOne Malayalam
-http://llnwlive.prasaria.com/pr_live_origin_mediaone/stream713/chunklist.m3u8
-#EXTINF:-1, Manoroma HD Malayalam
-http://live-fs.wmncdn.net/amsqmazhavil/mazhavillive.stream/playlist.m3u8
-#EXTINF:-1, Malayalam TV
-http://62.210.149.2:1935/7206/7206/playlist.m3u8
-#EXTINF:-1, Magna TV Malayalam
-http://livestream.5centscdn.com/magnatv/461580541e92155766bee9d9e8f672ea.sdp/index.m3u8
 #EXTINF:-1, Kaumudi Malayalam
 http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
-#EXTINF:-1, Tune 6(Mallu Songs)
-rtmp://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp
-#EXTINF:-1, Amrita TV Malayalam
-http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/playlist.m3u8
-#EXTINF:-1, Jaihind TV Malayalam
-http://llnwlive.prasaria.com/pr_live_origin_jaihind/stream29917/playlist.m3u8
-#EXTINF:-1, Jeevan TV Malayalam
-http://livestream.5centscdn.com/amsqjeevan/jeevantvlive.stream/playlist.m3u8
-#EXTINF:-1, Safari TV Malayalam
-http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
-#EXTINF:-1, ACV JukeBox Malayalam
+#EXTINF:-1,ACV JukeBox Malayalam
 http://acvonline.asianetmobiletvplus.com/channels/jukebox/jukebox_ksgetqxwxwakuwrafvzq_master.m3u8
-#EXTINF:-1, Raj Musix Malayalam
+#EXTINF:-1,Raj Musix Malayalam
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD104L240P/playlist.m3u8
-#EXTINF:-1, FlowerTV Malayalam
-http://live-fs.wmncdn.net/amsqflowers/flowerslive.stream/playlist.m3u8
-#EXTINF:-1, NTV HD Malayalam
+#EXTINF:-1,NTV HD Malayalam
 http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
-#EXTINF:-1, Pravasi HD Malayalam
-http://lax.globaliptv.net/pravasi/wzqsjszoeajnqnbanmpn/playlist.m3u8
-#EXTINF:-1, AnandMedia HD Malayalam
+#EXTINF:-1,AnandMedia HD Malayalam
 http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
-#EXTINF:-1, TwentyFour Malayalam
-http://roku.cinesoft.net/Live_Origin_Elemental/smil:twentyfour.smil/playlist.m3u8
-#EXTINF:-1, Kappa Malayalam
-http://llnwlive.prasaria.com/pr_live_origin_others/stream667756/playlist.m3u8
-#EXTINF:-1, Janan TV Malayalam
+#EXTINF:-1,Janan TV Malayalam
 http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
-#EXTINF:-1, Jai Maharastra Marathi
+#EXTINF:-1,Jai Maharastra Marathi
 rtmp://edge-ind.inapcdn.in/vivo/semacb.stream_aac
-#EXTINF:-1, TV9 Marathi
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD207L240P/chunklist.m3u8
-#EXTINF:-1, ETV Marathi
+#EXTINF:-1,ETV Marathi
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 #EXTINF:-1, IBN Lokmat Marathi
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:-1,ABP Majha
-http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
 #EXTINF:-1,DD LokSabha
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,DD RajyaSabha
@@ -6509,12 +6521,8 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:-1,DD Bharti
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD251L240P/playlist.m3u8
-#EXTINF:-1,DD Podhigai Tamil Link1
-rtmp://live.wmncdn.net/ddpodigailive1/live1.stream
 #EXTINF:-1,DD Podhigai Tamil
 http://live.wmncdn.net/ddpodigailive2/live2.stream/index.m3u8
-#EXTINF:-1,DD Malayalam
-http://50.7.1.178/indialive_wsn6dd76/ddmalayalam/playlist.m3u8
 #EXTINF:-1,India NewsUP TV-Hindi
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
 #EXTINF:-1,India NewsHaryana TV-Hindi
@@ -6545,8 +6553,6 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
 #EXTINF:-1,NFL HD
 https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-#EXTINF:-1,Fashion1 HD
-http://vs7.cdn.ott.otautv.kz/dtv/id20_KTR_SG–7Kazakhstan/03/plst.m3u8
 #EXTINF:-1,Sports2 HD
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,Sports12 HD
@@ -6611,9 +6617,6 @@ http://.....
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
-
-#EXTINF:-1,beIN Sports
-http://91.121.58.28:8085/smartspor
 
 #EXTINF:-1,bbc arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
@@ -6733,6 +6736,212 @@ http://62.68.66.250:9013
 http://62.68.66.250:9015
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”United.Arab.Emirates3”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:0,Bein Sports 1 HD
+http://35.194.159.185:8000/play/a00h
+#EXTINF:0,Bein Sports 2 HD
+http://35.194.159.185:8000/play/a00i
+#EXTINF:0,Bein Sports 3 HD
+http://35.194.159.185:8000/play/a00j
+#EXTINF:0,Bein Sports 4 HD
+http://35.194.159.185:8000/play/a00q
+#EXTINF:0,Bein Sports 5 HD
+http://35.194.159.185:8000/play/a00r
+#EXTINF:0,Bein Sports 6 HD
+http://35.194.159.185:8000/play/a00s
+#EXTINF:0,Bein Sports 7 HD
+http://35.194.159.185:8000/play/a00t
+#EXTINF:0,Bein Sports 8 HD
+http://35.194.159.185:8000/play/a00u
+#EXTINF:0,Bein Sports 9 HD
+http://35.194.159.185:8000/play/a00v
+#EXTINF:0,Bein Sports 10 HD
+http://35.194.159.185:8000/play/a00w
+#EXTINF:0,Bein Sports 11 HD
+http://35.194.159.185:8000/play/a00x
+#EXTINF:0,Bein Sports 12 HD
+http://35.194.159.185:8000/play/a00y
+
+#EXTINF:1,BeinSport1
+http://185.152.65.131:8080/sportspecial1/mpegts
+#EXTINF:1,BeinSport2
+http://185.152.65.131:8080/sportspecial2/mpegts
+#EXTINF:1,BeinSport3
+http://185.152.65.131:8080/sportspecial3/mpegts
+#EXTINF:1,BeinSport4
+http://185.152.65.131:8080/sportspecial4/mpegts
+
+#EXTINF:0,Al Aoula Inter
+http://149.100.19.146:8000/play/a002
+#EXTINF:0,Mekameleen TV
+http://149.100.19.146:8000/play/a02i
+#EXTINF:0,Al Magharibia
+http://149.100.19.146:8000/play/a02e
+#EXTINF:0,Arrabiaa
+http://149.100.19.146:8000/play/a005
+#EXTINF:0,AD SPORT1
+http://149.100.19.146:8000/play/a01p
+#EXTINF:0,YAS Sports
+http://149.100.19.146:8000/play/a01q
+#EXTINF:0,TV CORAN
+http://149.100.19.146:8000/play/a00e
+#EXTINF:0,Al Arabia
+http://149.100.19.146:8000/play/a01t
+#EXTINF:0,TRT TURK
+http://149.100.19.146:8000/play/a00o
+#EXTINF:0,RUSBestseller
+http://149.100.19.146:8000/play/a00m
+#EXTINF:0,Ganj e Hozour TV
+http://149.100.19.146:8000/play/a00q
+#EXTINF:0,Rai 5
+http://149.100.19.146:8000/play/a01a
+#EXTINF:0,Rai YoYo
+http://149.100.19.146:8000/play/a016
+#EXTINF:0,Rai Sport
+http://149.100.19.146:8000/play/a013
+#EXTINF:0,TPAI
+http://149.100.19.146:8000/play/a01h
+#EXTINF:0,NTV MIR
+http://149.100.19.146:8000/play/a00p
+#EXTINF:0,Medi1TV
+http://149.100.19.146:8000/play/a00a
+#EXTINF:0,mta -muslim tv
+http://149.100.19.146:8000/play/a02j
+#EXTINF:0,Sama Dubai
+http://149.100.19.146:8000/play/a01n
+#EXTINF:0,Shanson TV
+http://149.100.19.146:8000/play/a00h
+#EXTINF:0,Al Aoula Inter+L
+http://149.100.19.146:8000/play/a003
+#EXTINF:0,Assadissa
+http://149.100.19.146:8000/play/a007
+#EXTINF:0,Rai Storia
+http://149.100.19.146:8000/play/a014
+#EXTINF:0,THT
+http://149.100.19.146:8000/play/a00g
+#EXTINF:0,CGTN
+http://149.100.19.146:8000/play/a00j
+#EXTINF:0,Rai News 24
+http://149.100.19.146:8000/play/a010
+#EXTINF:0,Rai 3 TGR FVG
+http://149.100.19.146:8000/play/a00u
+#EXTINF:0,Al Jazeera
+http://149.100.19.146:8000/play/a02c
+#EXTINF:0,Rai Gulp
+http://149.100.19.146:8000/play/a015
+#EXTINF:0,AL-MAYADEEN
+http://149.100.19.146:8000/play/a02g
+#EXTINF:0,Radio Med VI
+http://149.100.19.146:8000/play/a009
+#EXTINF:0,Qatar TV
+http://149.100.19.146:8000/play/a01w
+#EXTINF:0,Saamen Tv
+http://149.100.19.146:8000/play/a02k
+#EXTINF:0,Rai 3
+http://149.100.19.146:8000/play/a00y
+#EXTINF:0,Dubai Sports 3
+http://149.100.19.146:8000/play/a01m
+#EXTINF:0,Al Maghribia
+http://149.100.19.146:8000/play/a006
+#EXTINF:0,IQRAA
+http://149.100.19.146:8000/play/a01z
+#EXTINF:0,AL SHARQIYA
+http://149.100.19.146:8000/play/a01s
+#EXTINF:0,Rai 2
+http://149.100.19.146:8000/play/a00x
+#EXTINF:0,SAUDI-QURAN
+http://149.100.19.146:8000/play/a026
+#EXTINF:0,RIKSat
+http://149.100.19.146:8000/play/a02h
+#EXTINF:0,TFM Senegal
+http://149.100.19.146:8000/play/a01e
+#EXTINF:0,Rai 4
+http://149.100.19.146:8000/play/a00z
+#EXTINF:0,STS International
+http://149.100.19.146:8000/play/a00k
+#EXTINF:0,R.ItaliaTV
+http://149.100.19.146:8000/play/a02d
+#EXTINF:0,Libya ALwatneh
+http://149.100.19.146:8000/play/a027
+#EXTINF:0,SAUDI1
+http://149.100.19.146:8000/play/a01x
+#EXTINF:0,Al Jazeera Documentary
+http://149.100.19.146:8000/play/a02a
+#EXTINF:0,Tayba TV
+http://149.100.19.146:8000/play/a028
+#EXTINF:0,RTS 1
+http://149.100.19.146:8000/play/a01f
+#EXTINF:0,Arriadia
+http://149.100.19.146:8000/play/a004
+#EXTINF:0,Al Jazeera Mubasher
+http://149.100.19.146:8000/play/a02b
+#EXTINF:0,JORDAN TV
+http://149.100.19.146:8000/play/a024
+#EXTINF:0,Iraqia News
+http://149.100.19.146:8000/play/a023
+#EXTINF:0,TV TAMAZIGHT
+http://149.100.19.146:8000/play/a00f
+#EXTINF:0,2M Monde
+http://149.100.19.146:8000/play/a00i
+#EXTINF:0,Senato
+http://149.100.19.146:8000/play/a01b
+#EXTINF:0,Tamazight
+http://149.100.19.146:8000/play/a008
+#EXTINF:0,AL SHARJAH
+http://149.100.19.146:8000/play/a01o
+#EXTINF:0,ESC
+http://149.100.19.146:8000/play/a022
+#EXTINF:0,OMAN
+http://149.100.19.146:8000/play/a021
+#EXTINF:0,Rai 1
+http://149.100.19.146:8000/play/a00w
+#EXTINF:0,Sky News Arabia
+http://149.100.19.146:8000/play/a01u
+#EXTINF:0,8 TV RU
+http://149.100.19.146:8000/play/a00r
+#EXTINF:0,Al Aoula Inter HD
+http://149.100.19.146:8000/play/a00c
+#EXTINF:0,Rai Movie
+http://149.100.19.146:8000/play/a00v
+#EXTINF:0,Rai Scuola
+http://149.100.19.146:8000/play/a017
+#EXTINF:0,ZAD TV
+http://149.100.19.146:8000/play/a01r
+#EXTINF:0,Rai Premium
+http://149.100.19.146:8000/play/a019
+#EXTINF:0,Dubai TV
+http://149.100.19.146:8000/play/a01l
+#EXTINF:0,ROSSIYA24
+http://149.100.19.146:8000/play/a00n
+#EXTINF:0,TVGE INTERNATIONAL
+http://149.100.19.146:8000/play/a01i
+#EXTINF:0,IRANEFARDA
+http://149.100.19.146:8000/play/a01j
+#EXTINF:0,RTR
+http://149.100.19.146:8000/play/a00l
+#EXTINF:0,ORTM
+http://149.100.19.146:8000/play/a01g
+#EXTINF:0,SUDAN TV
+http://149.100.19.146:8000/play/a020
 
 
 
@@ -8267,16 +8476,9 @@ rtmp://stream.taksimbilisim.com/ztv/bant1
 rtmp://stream.taksimbilisim.com/ztv/bant1
 
 
-#EXTINF:-1,SMARTSPOR 
-http://91.121.58.28:8085/smartspor 
-#EXTINF:-1,STARSPORT 
-http://91.121.58.28:8090/starsport 
-#EXTINF:-1,TELESPOR 
-http://46.105.233.106:8050/telesport 
+
 #EXTINF:-1,BEINSPORT TR 
 http://bit.ly/2uG9Ivd 
-#EXTINF:-1,PREMİERSPORT 
-http://46.105.233.106:8090/premier
 
 
 
