@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -44,10 +44,8 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1, Animal Planet
-http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet
-http://91.214.82.201:8800/8
+http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://185.102.219.40:8010/play/a00m
 #EXTINF:-1,Animal Planet HD 
@@ -64,8 +62,6 @@ http://185.162.141.69:9001/natgeo
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,Nat Geo Wild
 http://195.189.249.6:8000/play/a008/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://31.130.49.145:4022/udp/224.0.90.50:1234
 #EXTINF:-1,Nat Geo Wild HD
 http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,Nat Geo Wild HD 
@@ -162,6 +158,14 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:2 group-title=”KIDS”,
 
 
@@ -253,16 +257,13 @@ http://95.82.241.148:81//udp/239.255.2.214:1234
 http://31.130.49.145:4022/udp/224.0.90.170:1234
 #EXTINF:-1,MTV Dance 
 http://185.162.141.69:9014/mtvdance 
-#EXTINF:-1,MTV Dance 
-http://178.46.162.115:8888/udp/225.23.1.124:5000
 #EXTINF:-1,MTV DANCE
 http://inetcom.tv/get_channel.php?id=70.m3u8
 #EXTINF:-1,MTV DANCE
 http://31.130.49.145:4022/udp/224.0.90.46:1234
-#EXTINF:-1,MTV Rocks
-http://178.46.162.115:8888/udp/225.23.1.126:5000
-#EXTINF:-1,MTV Russia
-http://31.130.49.145:4022/udp/239.255.2.30:1234
+
+#EXTINF:0,trace urban 
+http://m3u8.artv.watch/traceurban.m3u8
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -428,6 +429,133 @@ http://185.142.239.164:3135/Super/2/index.m3u8
 http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4
 http://185.142.239.164:3135/Super/4/index.m3u8
+
+#EXTINF:0,Bein Sports 1 HD
+http://35.194.159.185:8000/play/a00h
+#EXTINF:0,Bein Sports 2 HD
+http://35.194.159.185:8000/play/a00i
+#EXTINF:0,Bein Sports 3 HD
+http://35.194.159.185:8000/play/a00j
+#EXTINF:0,Bein Sports 4 HD
+http://35.194.159.185:8000/play/a00q
+#EXTINF:0,Bein Sports 5 HD
+http://35.194.159.185:8000/play/a00r
+#EXTINF:0,Bein Sports 6 HD
+http://35.194.159.185:8000/play/a00s
+#EXTINF:0,Bein Sports 7 HD
+http://35.194.159.185:8000/play/a00t
+#EXTINF:0,Bein Sports 8 HD
+http://35.194.159.185:8000/play/a00u
+#EXTINF:0,Bein Sports 9 HD
+http://35.194.159.185:8000/play/a00v
+#EXTINF:0,Bein Sports 10 HD
+http://35.194.159.185:8000/play/a00w
+#EXTINF:0,Bein Sports 11 HD
+http://35.194.159.185:8000/play/a00x
+#EXTINF:0,Bein Sports 12 HD
+http://35.194.159.185:8000/play/a00y
+#EXTINF:0,Bein Sports 1 France
+http://35.194.159.185:8000/play/a00z
+#EXTINF:0,Bein Sports 2 France
+http://35.194.159.185:8000/play/a010
+#EXTINF:0,Bein Sports 3 France
+http://35.194.159.185:8000/play/a011
+#EXTINF:0,Bein Sports News
+http://35.194.159.185:8000/play/a00k
+#EXTINF:0,Arena Sport 1
+http://35.194.159.185:8000/play/a00c
+#EXTINF:0,Arena Sport 2
+http://35.194.159.185:8000/play/a00d
+#EXTINF:0,Arena Sport 3
+http://35.194.159.185:8000/play/a00e
+#EXTINF:0,Arena Sport 4
+http://35.194.159.185:8000/play/a00f
+#EXTINF:0,Arena Sport 5
+http://35.194.159.185:8000/play/a00g
+#EXTINF:0,SKYNET SPORTS HD
+http://35.194.159.185:8000/play/a001
+#EXTINF:0,SKYNET SPORTS-1
+http://35.194.159.185:8000/play/a002
+#EXTINF:0,SKYNET SPORTS-2
+http://35.194.159.185:8000/play/a009
+#EXTINF:0,SKYNET SPORTS-3
+http://35.194.159.185:8000/play/a00l
+#EXTINF:0,SKYNET SPORTS-4
+http://35.194.159.185:8000/play/a00m
+#EXTINF:0,SKYNET SPORTS-5
+http://35.194.159.185:8000/play/a00n
+#EXTINF:0,SKYNET SPORTS-6
+http://35.194.159.185:8000/play/a00o
+#EXTINF:0,Sky Sports 2
+http://35.194.159.185:8000/play/a017
+#EXTINF:0,SS Kosova 1 HD
+http://35.194.159.185:8000/play/a00a
+#EXTINF:0,SS Kosova 2 HD
+http://35.194.159.185:8000/play/a00b
+#EXTINF:0,VTV1
+http://35.194.159.185:8000/play/a005
+#EXTINF:0,NHK World HD
+http://35.194.159.185:8000/play/a00p
+#EXTINF:0,FOX SPORTS 1 HD
+http://35.194.159.185:8000/play/a012
+#EXTINF:0,FOX SPORTS 2 HD
+http://35.194.159.185:8000/play/a013
+
+#EXTINF:1,ss1hd
+http://185.152.65.131:8080/ss1hd/mpegts
+#EXTINF:1,ss2hd
+http://185.152.65.131:8080/ss2hd/mpegts
+#EXTINF:1,ss3hd
+http://185.152.65.131:8080/ss3hd/mpegts
+#EXTINF:1,ss4hd
+http://185.152.65.131:8080/ss4hd/mpegts
+#EXTINF:1,ss5hd
+http://185.152.65.131:8080/ss5hd/mpegts
+#EXTINF:1,ss6hd
+http://185.152.65.131:8080/ss6hd/mpegts
+#EXTINF:1,ss1sd
+http://185.152.65.131:8080/ss1sd/mpegts
+#EXTINF:1,ss2sd
+http://185.152.65.131:8080/ss2sd/mpegts
+#EXTINF:1,ss3sd
+http://185.152.65.131:8080/ss3sd/mpegts
+#EXTINF:1,ss4sd1
+http://185.152.65.131:8080/ss4sd/mpegts
+#EXTINF:1,sk1
+http://185.152.65.131:8080/sk1/mpegts
+#EXTINF:1,sk2
+http://185.152.65.131:8080/sk2/mpegts
+#EXTINF:1,sk3
+http://185.152.65.131:8080/sk3/mpegts
+#EXTINF:1,sk4
+http://185.152.65.131:8080/sk4/mpegts
+#EXTINF:1,sk5
+http://185.152.65.131:8080/sk5/mpegts
+#EXTINF:1,/s6
+http://185.152.65.131:8080/sk6/mpegts
+#EXTINF:1,Arena1
+http://185.152.65.131:8080/arena1/mpegts
+#EXTINF:1,Arena2
+http://185.152.65.131:8080/arena2/mpegts
+#EXTINF:1,Arena3
+http://185.152.65.131:8080/arena3/mpegts
+#EXTINF:1,Arena4
+http://185.152.65.131:8080/arena4/mpegts
+#EXTINF:1,Arena5
+http://185.152.65.131:8080/arena5/mpegts
+#EXTINF:1,Eurosport1
+http://185.152.65.131:8080/eurosport1/mpegts
+#EXTINF:1,Eurosport2
+http://185.152.65.131:8080/eurosport2/mpegts
+#EXTINF:1,BeinSport1
+http://185.152.65.131:8080/sportspecial1/mpegts
+#EXTINF:1,BeinSport2
+http://185.152.65.131:8080/sportspecial2/mpegts
+#EXTINF:1,BeinSport3
+http://185.152.65.131:8080/sportspecial3/mpegts
+#EXTINF:1,BeinSport4
+http://185.152.65.131:8080/sportspecial4/mpegts
+
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
