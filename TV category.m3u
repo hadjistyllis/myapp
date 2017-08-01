@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,31/7/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -132,8 +132,6 @@ http://185.62.86.6:8081/hls/foodnetwork.m3u8
 http://185.102.219.25:8010/play/a005
 #EXTINF:-1,Viasat Explore 
 http://185.102.219.25:8009/play/a00l
-#EXTINF:0,World Fashion
-http://93.91.113.8:8080/Apple/World-Fashion/.m3u8
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,London Live
@@ -178,12 +176,11 @@ http://bit.ly/2rvaV7Q
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
-#EXTINF:0,Baby TV
-http://178.46.162.115:8888/udp/225.23.1.102:5000
+
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1,Boomerang
-http://178.46.162.115:8888/udp/225.23.1.103:5000
+#EXTINF:-1, Boomerang 
+http://31.43.255.13:8585/play/a051 
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
@@ -249,8 +246,6 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1,VH1 Classic 
-http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8 
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Hits
@@ -262,7 +257,7 @@ http://inetcom.tv/get_channel.php?id=70.m3u8
 #EXTINF:-1,MTV DANCE
 http://31.130.49.145:4022/udp/224.0.90.46:1234
 
-#EXTINF:0,trace urban 
+#EXTINF:0,Trace Urban 
 http://m3u8.artv.watch/traceurban.m3u8
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
@@ -371,28 +366,7 @@ https://www.youtube.com/watch?v=9A6j2L2fEM8
 #EXTINF:-1,beIN Sports
 http://91.121.58.28:8085/smartspor
 
-#EXTINF:-1, UK:BT Sports 1
-http://185.142.239.164:3135/BT/1/index.m3u8
-#EXTINF:-1, UK:BT Sports 2
-http://185.142.239.164:3135/BT/2/index.m3u8
-#EXTINF:-1, BT Sports 3
-http://185.142.239.164:3135/BT/3/index.m3u8
-#EXTINF:-1, UK:BT Espn
-http://185.142.239.164:3135/BT/Espn/index.m3u8
-#EXTINF:-1, UK:Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports F1
-http://185.142.239.164:3135/F1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports news
-http://185.142.239.164:3135/News.Sports/index.m3u8
+
 #EXTINF:-1, EURO SPORT 1
 http://185.142.239.164:3135/Euro/1/index.m3u8
 #EXTINF:-1, EURO SPORT 2 HD
@@ -401,34 +375,28 @@ http://185.142.239.164:3135/Euro/2/index.m3u8
 http://185.142.239.164:3135/1/FOX/index.m3u8
 #EXTINF:-1, USA:FOX Sports 2(FS2)
 http://185.142.239.164:3135/2/FOX/index.m3u8
-#EXTINF:-1, Setanta Sports
-http://185.142.239.164:3135/Setanta/Sports/index.m3u8
-#EXTINF:-1, Premiere Sports
-http://185.142.239.164:3135/Premiere/Sports/index.m3u8
-#EXTINF:-1, Boxing & Wrestling
-http://185.142.239.164:3135/BT/2/index.m3u
-#EXTINF:-1, Ten Sports 1
-http://185.142.239.164:3135/Ten/1/index.m3u8
-#EXTINF:-1, Ten Sports 2
-http://185.142.239.164:3135/Ten/2/index.m3u8
-#EXTINF:-1, Ten Sports 3
-http://185.142.239.164:3135/Ten/3/index.m3u8
-#EXTINF:-1, NFL Network
-http://185.142.239.164:3135/NFL/Network/index.m3u8
-#EXTINF:-1, ESPN 1
-http://185.142.239.164:3135/Espn/1/index.m3u8
-#EXTINF:-1, ESPN 2
-http://185.142.239.164:3135/Espn/2/index.m3u8
-#EXTINF:-1, PTV Sports
-http://185.142.239.164:3135/Ptv/Sports/index.m3u8
-#EXTINF:-1, Super 1
-http://185.142.239.164:3135/Super/1/index.m3u8
-#EXTINF:-1, Super 2
-http://185.142.239.164:3135/Super/2/index.m3u8
-#EXTINF:-1, Super 3
-http://185.142.239.164:3135/Super/3/index.m3u8
-#EXTINF:-1, Super 4
-http://185.142.239.164:3135/Super/4/index.m3u8
+
+
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 
 #EXTINF:0,Bein Sports 1 HD
 http://35.194.159.185:8000/play/a00h
@@ -454,107 +422,9 @@ http://35.194.159.185:8000/play/a00w
 http://35.194.159.185:8000/play/a00x
 #EXTINF:0,Bein Sports 12 HD
 http://35.194.159.185:8000/play/a00y
-#EXTINF:0,Bein Sports 1 France
-http://35.194.159.185:8000/play/a00z
-#EXTINF:0,Bein Sports 2 France
-http://35.194.159.185:8000/play/a010
-#EXTINF:0,Bein Sports 3 France
-http://35.194.159.185:8000/play/a011
-#EXTINF:0,Bein Sports News
-http://35.194.159.185:8000/play/a00k
-#EXTINF:0,Arena Sport 1
-http://35.194.159.185:8000/play/a00c
-#EXTINF:0,Arena Sport 2
-http://35.194.159.185:8000/play/a00d
-#EXTINF:0,Arena Sport 3
-http://35.194.159.185:8000/play/a00e
-#EXTINF:0,Arena Sport 4
-http://35.194.159.185:8000/play/a00f
-#EXTINF:0,Arena Sport 5
-http://35.194.159.185:8000/play/a00g
-#EXTINF:0,SKYNET SPORTS HD
-http://35.194.159.185:8000/play/a001
-#EXTINF:0,SKYNET SPORTS-1
-http://35.194.159.185:8000/play/a002
-#EXTINF:0,SKYNET SPORTS-2
-http://35.194.159.185:8000/play/a009
-#EXTINF:0,SKYNET SPORTS-3
-http://35.194.159.185:8000/play/a00l
-#EXTINF:0,SKYNET SPORTS-4
-http://35.194.159.185:8000/play/a00m
-#EXTINF:0,SKYNET SPORTS-5
-http://35.194.159.185:8000/play/a00n
-#EXTINF:0,SKYNET SPORTS-6
-http://35.194.159.185:8000/play/a00o
-#EXTINF:0,Sky Sports 2
-http://35.194.159.185:8000/play/a017
-#EXTINF:0,SS Kosova 1 HD
-http://35.194.159.185:8000/play/a00a
-#EXTINF:0,SS Kosova 2 HD
-http://35.194.159.185:8000/play/a00b
-#EXTINF:0,VTV1
-http://35.194.159.185:8000/play/a005
-#EXTINF:0,NHK World HD
-http://35.194.159.185:8000/play/a00p
-#EXTINF:0,FOX SPORTS 1 HD
-http://35.194.159.185:8000/play/a012
-#EXTINF:0,FOX SPORTS 2 HD
-http://35.194.159.185:8000/play/a013
 
-#EXTINF:1,ss1hd
-http://185.152.65.131:8080/ss1hd/mpegts
-#EXTINF:1,ss2hd
-http://185.152.65.131:8080/ss2hd/mpegts
-#EXTINF:1,ss3hd
-http://185.152.65.131:8080/ss3hd/mpegts
-#EXTINF:1,ss4hd
-http://185.152.65.131:8080/ss4hd/mpegts
-#EXTINF:1,ss5hd
-http://185.152.65.131:8080/ss5hd/mpegts
-#EXTINF:1,ss6hd
-http://185.152.65.131:8080/ss6hd/mpegts
-#EXTINF:1,ss1sd
-http://185.152.65.131:8080/ss1sd/mpegts
-#EXTINF:1,ss2sd
-http://185.152.65.131:8080/ss2sd/mpegts
-#EXTINF:1,ss3sd
-http://185.152.65.131:8080/ss3sd/mpegts
-#EXTINF:1,ss4sd1
-http://185.152.65.131:8080/ss4sd/mpegts
-#EXTINF:1,sk1
-http://185.152.65.131:8080/sk1/mpegts
-#EXTINF:1,sk2
-http://185.152.65.131:8080/sk2/mpegts
-#EXTINF:1,sk3
-http://185.152.65.131:8080/sk3/mpegts
-#EXTINF:1,sk4
-http://185.152.65.131:8080/sk4/mpegts
-#EXTINF:1,sk5
-http://185.152.65.131:8080/sk5/mpegts
-#EXTINF:1,/s6
-http://185.152.65.131:8080/sk6/mpegts
-#EXTINF:1,Arena1
-http://185.152.65.131:8080/arena1/mpegts
-#EXTINF:1,Arena2
-http://185.152.65.131:8080/arena2/mpegts
-#EXTINF:1,Arena3
-http://185.152.65.131:8080/arena3/mpegts
-#EXTINF:1,Arena4
-http://185.152.65.131:8080/arena4/mpegts
-#EXTINF:1,Arena5
-http://185.152.65.131:8080/arena5/mpegts
-#EXTINF:1,Eurosport1
-http://185.152.65.131:8080/eurosport1/mpegts
-#EXTINF:1,Eurosport2
-http://185.152.65.131:8080/eurosport2/mpegts
-#EXTINF:1,BeinSport1
-http://185.152.65.131:8080/sportspecial1/mpegts
-#EXTINF:1,BeinSport2
-http://185.152.65.131:8080/sportspecial2/mpegts
-#EXTINF:1,BeinSport3
-http://185.152.65.131:8080/sportspecial3/mpegts
-#EXTINF:1,BeinSport4
-http://185.152.65.131:8080/sportspecial4/mpegts
+
+
 
 
 #EXTINF:-1,ADSport 1HD 
