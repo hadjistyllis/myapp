@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/7/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,1/8/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=O3Hs5AZqi4U
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/Ba4voPNmZUU/maxresdefault_live.jpg ,ERT Play WorldWide WebTV
 https://www.youtube.com/watch?v=Ba4voPNmZUU
-#EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV 
+#EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV TORONTO
 rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (MxPlayer)
 http://bit.ly/ant1gr1
@@ -140,8 +140,6 @@ https://www.youtube.com/watch?v=a67XGboEcdw
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0,ALPHA SAT
 http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/5j4BfAu.png ,NETV TORONTO
-http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E (MxPlayer)
@@ -497,8 +495,6 @@ http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
 #EXTINF:0, CBS Boston (WBZ) (Public-News) (US) 
 http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8? 
-#EXTINF:0, mbc action (Public-Family) (US) 
-http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1,KIROE 1
 http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8
@@ -585,27 +581,7 @@ http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4
 http://185.142.239.164:3135/Super/4/index.m3u8
 
-#EXTINF:0,Arena Sport 1
-http://35.194.159.185:8000/play/a00c
-#EXTINF:0,Arena Sport 2
-http://35.194.159.185:8000/play/a00d
-#EXTINF:0,Arena Sport 3
-http://35.194.159.185:8000/play/a00e
-#EXTINF:0,Arena Sport 4
-http://35.194.159.185:8000/play/a00f
-#EXTINF:0,Arena Sport 5
-http://35.194.159.185:8000/play/a00g
 
-#EXTINF:1,Arena1
-http://185.152.65.131:8080/arena1/mpegts
-#EXTINF:1,Arena2
-http://185.152.65.131:8080/arena2/mpegts
-#EXTINF:1,Arena3
-http://185.152.65.131:8080/arena3/mpegts
-#EXTINF:1,Arena4
-http://185.152.65.131:8080/arena4/mpegts
-#EXTINF:1,Arena5
-http://185.152.65.131:8080/arena5/mpegts
 
 
 
@@ -1039,6 +1015,8 @@ http://185.102.219.40:8010/play/a00o
 http://185.102.219.40:8010/play/a00g
 #EXTINF:-1,FOX HD
 http://185.102.219.40:8010/play/a00n
+
+
 #EXTINF:-1, UK:BT Sports 1
 http://185.142.239.164:3135/BT/1/index.m3u8
 #EXTINF:-1, UK:BT Sports 2
@@ -1062,13 +1040,13 @@ http://185.142.239.164:3135/F1/Sports/index.m3u8
 #EXTINF:-1, UK:Sky Sports news
 http://185.142.239.164:3135/News.Sports/index.m3u8
 
-#EXTINF:0,Sky Sports 2
-http://35.194.159.185:8000/play/a017
 
-#EXTINF:1,Eurosport1
-http://185.152.65.131:8080/eurosport1/mpegts
-#EXTINF:1,Eurosport2
-http://185.152.65.131:8080/eurosport2/mpegts
+
+
+
+
+
+
 
 
 
@@ -2993,13 +2971,6 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8
 #EXTINF:-1,BE-TV Oost
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
-
-#EXTINF:0,Bein Sports 1 France
-http://35.194.159.185:8000/play/a00z
-#EXTINF:0,Bein Sports 2 France
-http://35.194.159.185:8000/play/a010
-#EXTINF:0,Bein Sports 3 France
-http://35.194.159.185:8000/play/a011
 
 
 
@@ -5391,10 +5362,7 @@ http://..........
 http://84.243.221.164:8000/play/a01n
 #EXTINF:-1,SCT PROMO d
 http://84.243.221.164:8000/play/a00i
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a00d
-#EXTINF:-1,CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
+
 #EXTINF:-1,BBC Brit
 http://84.243.221.164:8000/play/a01f
 #EXTINF:-1,CANAL+ HD
@@ -5974,90 +5942,6 @@ http://174.36.155.34:4000/live/287/287.m3u8
 
 
 
-#EXTINF:9 group-title=”Israel”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/234px-Flag_of_Israel.svg.png ,==Israel==
-http://..........
-
-#EXTINF:-1,yes 1
-http://s1-p3.peer5.net/edge/1-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 2
-http://s1-p3.peer5.net/edge/2-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 3
-http://s1-p3.peer5.net/edge/3-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 4
-http://s1-p3.peer5.net/edge/4-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 5
-http://s1-p3.peer5.net/edge/5-1.stream/chunklist.m3u8
-#EXTINF:-1,yes drama
-http://s1-p3.peer5.net/edge/6-1.stream/chunklist.m3u8
-#EXTINF:-1,yes action
-http://s1-p3.peer5.net/edge/7-1.stream/chunklist.m3u8
-#EXTINF:-1,yes oh
-http://s1-p3.peer5.net/edge/8-1.stream/chunklist.m3u8
-#EXTINF:-1,yes קולנוע ישראלי
-http://s1-p3.peer5.net/edge/9-1.stream/chunklist.m3u8
-#EXTINF:-1,yes comedy
-http://s1-p3.peer5.net/edge/10-1.stream/chunklist.m3u8
-#EXTINF:-1,yes bolywood
-http://s1-p3.peer5.net/edge/11-1.stream/chunklist.m3u8
-#EXTINF:-1,yes doco
-http://s1-p3.peer5.net/edge/12-1.stream/chunklist.m3u8
-#EXTINF:-1,yes n.g.
-http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
-#EXTINF:-1,yes n.G.wild
-http://s1-p3.peer5.net/edge/14-1.stream/chunklist.m3u8
-#EXTINF:-1,yes history HD
-http://s1-p3.peer5.net/edge/15-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ הטיולים
-http://s1-p3.peer5.net/edge/16-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ הבריאות
-http://s1-p3.peer5.net/edge/17-1.stream/chunklist.m3u8
-#EXTINF:-1,בית+
-http://s1-p3.peer5.net/edge/18-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ החיים הטובים
-http://s1-p3.peer5.net/edge/19-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ האוכל
-http://s1-p3.peer5.net/edge/20-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ הדברות
-http://s1-p3.peer5.net/edge/21-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ E
-http://s1-p3.peer5.net/edge/22-1.stream/chunklist.m3u8
-#EXTINF:-1,viva
-http://s1-p3.peer5.net/edge/23-1.stream/chunklist.m3u8
-#EXTINF:-1,viva+
-http://s1-p3.peer5.net/edge/24-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ ים תיכוני
-http://s1-p3.peer5.net/edge/25-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ 24
-http://s1-p3.peer5.net/edge/26-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ 2
-http://s1-p3.peer5.net/edge/27-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ 10
-http://s1-p3.peer5.net/edge/28-1.stream/chunklist.m3u8
-#EXTINF:-1,כאן 11
-http://s1-p3.peer5.net/edge/29-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ 20
-http://s1-p3.peer5.net/edge/30-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ 9
-http://s1-p3.peer5.net/edge/31-1.stream/chunklist.m3u8
-#EXTINF:-1,hot 3
-http://s1-p3.peer5.net/edge/70-1.stream/chunklist.m3u8
-#EXTINF:-1, hot action
-http://s1-p3.peer5.net/edge/71-1.stream/chunklist.m3u8
-#EXTINF:-1, hot fun
-http://s1-p3.peer5.net/edge/72-1.stream/chunklist.m3u8
-#EXTINF:-1, hot gold
-http://s1-p3.peer5.net/edge/73-1.stream/chunklist.m3u8
-#EXTINF:-1,hot drama
-http://s1-p3.peer5.net/edge/74-1.stream/chunklist.m3u8
-#EXTINF:-1,ערוץ הילדים
-http://s1-p3.peer5.net/edge/75-1.stream/chunklist.m3u8
-
-
-
-
-
 
 
 
@@ -6238,6 +6122,7 @@ rtmp://studiosystem.co.in/v4news/_definst_/livestream
 rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
 #EXTINF:-1,V4 News
 rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
+
 #EXTINF:-1,IndiaNews-Hindi
 rtmp://live-fs.wmncdn.net:1935/firstindianewstv1/live.stream
 #EXTINF:-1,IndiaNews-Hindi
@@ -6267,17 +6152,6 @@ rtmp://live-fs.wmncdn.net:1935/mbctv2/live2.stream
 rtmp://live-fs.wmncdn.net:1935/mbctv3/live3.stream
 #EXTINF:-1,MBC TV
 rtsp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
-
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in:1935/v4news/livestream
-#EXTINF:-1,V4 News
-rtsp://studiosystem.co.in:1935/v4news/livestream
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in/v4news/_definst_/livestream
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
-#EXTINF:-1,V4 News
-rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
 
 #EXTINF:-1,Saras TV
 rtmp://live.streamjo.com/sarastv/sarastv
