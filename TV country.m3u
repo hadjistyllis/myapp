@@ -2297,6 +2297,9 @@ mms://100automoto.tv/channel_porsche
 
 #EXTINF:4 group-title=”Bulgaria2”,
 
+#EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/bulgaria_1309.jpg ,==Bulgaria==
+http://..........
+
 #EXTINF:-1, FOX 
 http://185.53.163.216:12000/play/a01f/index.m3u8 
 #EXTINF:-1, Fen Folk TV 
@@ -2348,6 +2351,71 @@ http://185.53.163.216:12000/play/a01e/index.m3u8
 
 
 
+#EXTINF:4 group-title=”Bulgaria3”,
+
+#EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/bulgaria_1309.jpg ,==Bulgaria==
+http://..........
+
+#EXTINF:-1,Diema Family 
+http://185.53.163.216:3100 
+#EXTINF:-1,BNT 2 
+http://185.53.163.216:3102 
+#EXTINF:-1,National Geographic 
+http://185.53.163.216:3101 
+#EXTINF:-1,Nova Sport 
+http://185.53.163.216:3103 
+#EXTINF:-1,Eurosport 2 
+http://185.53.163.216:3104 
+#EXTINF:-1,BiT 
+http://185.53.163.216:3105 
+#EXTINF:-1,AXN 
+http://185.53.163.216:3106 
+#EXTINF:-1,Skat TV 
+http://185.53.163.216:3107 
+#EXTINF:-1,FOX Life 
+http://185.53.163.216:3108 
+#EXTINF:-1,bTV Cinema 
+http://185.53.163.216:3110 
+#EXTINF:-1,FOX Crime 
+http://185.53.163.216:3109 
+#EXTINF:-1,bTV Comedy 
+http://185.53.163.216:3111 
+#EXTINF:-1,TLC 
+http://185.53.163.216:3113 
+#EXTINF:-1,bTV Action 
+http://185.53.163.216:3114 
+#EXTINF:-1,BNT World 
+http://185.53.163.216:3112
+#EXTINF:-1,Destination BG 
+http://185.53.163.216:33100 
+#EXTINF:-1,Hobby lov 
+http://185.53.163.216:33101 
+#EXTINF:-1,Animal Planet 
+http://185.53.163.216:33102 
+#EXTINF:-1,History Channel 
+http://185.53.163.216:33105 
+#EXTINF:-1,Perviy Kanal 
+http://185.53.163.216:33103 
+#EXTINF:-1,24 Kitchen 
+http://185.53.163.216:33104 
+#EXTINF:-1,Diema Sport 2 
+http://185.53.163.216:33106 
+#EXTINF:-1,Fine Living 
+http://185.53.163.216:33108 
+#EXTINF:-1,MTV Hits 
+http://185.53.163.216:33107 
+#EXTINF:-1,Bulgaria on Air 
+http://185.53.163.216:33109 
+#EXTINF:-1,Eurosport 
+http://185.53.163.216:33111 
+#EXTINF:-1,Diema Sport 
+http://185.53.163.216:33110 
+#EXTINF:-1,Penthouse 
+http://185.53.163.216:33112 
+#EXTINF:-1,Disney Junior 
+http://185.53.163.216:33113 
+#EXTINF:-1,Tiankov TV 
+http://185.53.163.216:33114
 
 
 
@@ -5763,6 +5831,12 @@ http://nn.geo.joj.sk/hls/rik-360.m3u8
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png ,==Czech==
 http://..........
 
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem3.flv
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem2.flv
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem1.flv
 
 #EXTINF:-1,Ceskoslovensko HD 
 http://65.254.55.10:4000/live/196/196.m3u8 
@@ -6601,6 +6675,27 @@ http://62.68.66.244:8002/play/s81
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
+
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 
 #EXTINF:-1,NEW
 http://62.68.66.247:9001
