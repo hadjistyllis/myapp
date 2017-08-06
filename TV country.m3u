@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,4/8/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,6/8/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -792,6 +792,87 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1307.ts
 
 
 
+#EXTINF:8 group-title=”USA2-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+
+
+#EXTINF:-1,USA: ABC HD
+http://basic.ioiptv.com:8000/live/santi/santi/3158.ts
+#EXTINF:-1,USA: Bein Sports USA HD
+http://basic.ioiptv.com:8000/live/santi/santi/3157.ts
+#EXTINF:-1,USA: BTN Sport HD
+http://basic.ioiptv.com:8000/live/santi/santi/3156.ts
+#EXTINF:-1,USA: ESPN
+http://basic.ioiptv.com:8000/live/santi/santi/3155.ts
+#EXTINF:-1,USA: ESPN 2
+http://basic.ioiptv.com:8000/live/santi/santi/3154.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://basic.ioiptv.com:8000/live/santi/santi/3151.ts
+#EXTINF:-1,USA: MLB Network
+http://basic.ioiptv.com:8000/live/santi/santi/3148.ts
+#EXTINF:-1,USA: NBA SD
+http://basic.ioiptv.com:8000/live/santi/santi/3147.ts
+#EXTINF:-1,USA: NBA TV HD
+http://basic.ioiptv.com:8000/live/santi/santi/3146.ts
+#EXTINF:-1,USA: NBC Golf
+http://basic.ioiptv.com:8000/live/santi/santi/3145.ts
+#EXTINF:-1,USA: NFL Network 1
+http://basic.ioiptv.com:8000/live/santi/santi/3143.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://basic.ioiptv.com:8000/live/santi/santi/3142.ts
+#EXTINF:-1,USA: TNT HD
+http://basic.ioiptv.com:8000/live/santi/santi/3141.ts
+#EXTINF:-1,USA: WWE HD
+http://basic.ioiptv.com:8000/live/santi/santi/3140.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1225,53 +1306,50 @@ http://185.22.78.72:9004/play/a03c
 
 #EXTINF:3 group-title=”UK5”, 
 
+
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
 
-#EXTINF:-1, Sky Sports Main Event HD
-http://11gb.gcdn.co/live/online/tv/1760.m3u8
-#EXTINF:-1, Sky Sports Cricket HD
-http://11gb.gcdn.co/live/online/tv/1761.m3u8
-#EXTINF:-1, Sky Sports Action HD
-http://11gb.gcdn.co/live/online/tv/1762.m3u8
-#EXTINF:-1, Sky Sports Golf HD
-http://11gb.gcdn.co/live/online/tv/1763.m3u8
-#EXTINF:-1, Sky Sports Premier League HD
-http://11gb.gcdn.co/live/online/tv/1764.m3u8
-#EXTINF:-1,BT SPORT 1
-http://11gb.gcdn.co/live/online/tv/1765.m3u8
-#EXTINF:-1,BT SPORT 2
-http://11gb.gcdn.co/live/online/tv/162.m3u8
-#EXTINF:-1,BT SPORT 2
-http://11gb.gcdn.co/live/online/tv/1766.m3u8
-#EXTINF:-1, BT Sport ESPN
-http://11gb.gcdn.co/live/online/tv/1767.m3u8
-#EXTINF:-1, UK Eurosport 1
-http://11gb.gcdn.co/live/online/tv/165.m3u8
-#EXTINF:-1, Chelsea TV
-http://11gb.gcdn.co/live/online/tv/168.m3u8
-#EXTINF:-1, MU TV
-http://11gb.gcdn.co/live/online/tv/169.m3u8
-#EXTINF:-1, Box Nation UK HD
-http://11gb.gcdn.co/live/online/tv/180.m3u8
-#EXTINF:-1, Sky Sports News UK HD
-http://11gb.gcdn.co/live/online/tv/153.m3u8
-#EXTINF:-1, Sky Sports News SD
-http://11gb.gcdn.co/live/online/tv/154.m3u8
-#EXTINF:-1, Sky Sports Cricket HD
-http://11gb.gcdn.co/live/online/tv/155.m3u8
-#EXTINF:-1, Sky Sports Action HD
-http://11gb.gcdn.co/live/online/tv/156.m3u8
-#EXTINF:-1, Sky Sports Golf HD
-http://11gb.gcdn.co/live/online/tv/157.m3u8
-#EXTINF:-1, Sky Sports Premier League
-http://11gb.gcdn.co/live/online/tv/158.m3u8
-#EXTINF:-1, Sky Sports F1
-http://11gb.gcdn.co/live/online/tv/159.m3u8
-
-
-
-
+#EXTINF:-1,Manchester United TV
+http://185.102.219.25:8008/play/a00a
+#EXTINF:-1,Sky Atlantic UK
+http://185.102.219.25:8008/play/a002
+#EXTINF:-1,Sky Premiere UK
+http://185.102.219.25:8008/play/a00h
+#EXTINF:-1,Sky Crime Thriller UK
+http://185.102.219.25:8008/play/a00e
+#EXTINF:-1,E! UK
+http://185.102.219.25:8008/play/a00c
+#EXTINF:-1,Sky 1 UK
+http://185.102.219.25:8008/play/a004
+#EXTINF:-1,Chelsea TV
+http://185.102.219.25:8008/play/a00b
+#EXTINF:-1,Sky Select UK
+http://185.102.219.25:8008/play/a003
+#EXTINF:-1,Sky Sports F1 UK
+http://185.102.219.25:8008/play/a00d
+#EXTINF:-1,Acasa in Moldova MD
+http://185.102.219.25:8008/play/a00j
+#EXTINF:-1,Sky Living UK
+http://185.102.219.25:8008/play/a006
+#EXTINF:-1,Pro TV RO
+http://185.102.219.25:8008/play/a00k
+#EXTINF:-1,Sky Sport News HQ UK
+http://185.102.219.25:8008/play/a001
+#EXTINF:-1,Eir Sport 1 UK
+http://185.102.219.25:8008/play/a008
+#EXTINF:-1,Prime MD
+http://185.102.219.25:8008/play/a00i
+#EXTINF:-1,Sky 2 UK
+http://185.102.219.25:8008/play/a005
+#EXTINF:-1,Premier Sports UK
+http://185.102.219.25:8008/play/a009
+#EXTINF:-1,Sky Action Adventure UK
+http://185.102.219.25:8008/play/a00g
+#EXTINF:-1,Sky Family UK
+http://185.102.219.25:8008/play/a00f
+#EXTINF:-1,Sky Disney UK
+http://185.102.219.25:8008/play/a007
 
 
 
@@ -3761,6 +3839,547 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1138.ts
 
 
 
+#EXTINF:8 group-title=”Latino/Spain2-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+#EXTINF:1 tvg-logo=https://s-media-cache-ak0.pinimg.com/originals/f6/50/e5/f650e55febc39dbb589c078a9fad77ee.jpg ,==Latino==
+http://..........
+
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:ENABLE
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,or it will stop
+http://.....
+#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,every few seconds
+http://.....
+#EXTINF:-1 ,
+http://.....
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,ES: TAQUILLAS 1
+http://basic.ioiptv.com:8000/live/santi/santi/5614.ts
+#EXTINF:-1,ES: TAQUILLAS 2
+http://basic.ioiptv.com:8000/live/santi/santi/5615.ts
+#EXTINF:-1,ES: TAQUILLAS 3
+http://basic.ioiptv.com:8000/live/santi/santi/5616.ts
+#EXTINF:-1,ES: TAQUILLAS 4
+http://basic.ioiptv.com:8000/live/santi/santi/5617.ts
+#EXTINF:-1,ES: TAQUILLAS 5
+http://basic.ioiptv.com:8000/live/santi/santi/5618.ts
+#EXTINF:-1,----- ES Deportes -----
+http://basic.ioiptv.com:8000/live/santi/santi/3529.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://basic.ioiptv.com:8000/live/santi/santi/3528.ts
+#EXTINF:-1,ES: Bein Sports HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4506.ts
+#EXTINF:-1,ES: Bein Sports SD
+http://basic.ioiptv.com:8000/live/santi/santi/4493.ts
+#EXTINF:-1,ES: Bein Sports LaLiga HD
+http://basic.ioiptv.com:8000/live/santi/santi/4534.ts
+#EXTINF:-1,ES: Bein Sports LaLiga HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4505.ts
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+http://basic.ioiptv.com:8000/live/santi/santi/4504.ts
+#EXTINF:-1,ES: La Liga TV BAR HD
+http://basic.ioiptv.com:8000/live/santi/santi/3530.ts
+#EXTINF:-1,ES: La Liga TV BAR HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4447.ts
+#EXTINF:-1,ES: La Liga TV BAR SD
+http://basic.ioiptv.com:8000/live/santi/santi/4446.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 HD (TEST)
+http://basic.ioiptv.com:8000/live/santi/santi/3526.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 1
+http://basic.ioiptv.com:8000/live/santi/santi/4443.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 2
+http://basic.ioiptv.com:8000/live/santi/santi/4442.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 3
+http://basic.ioiptv.com:8000/live/santi/santi/4441.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 4
+http://basic.ioiptv.com:8000/live/santi/santi/4440.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3519.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4429.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4428.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3518.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4427.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4426.ts
+#EXTINF:-1,ES: Movistar  Formula 1 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3522.ts
+#EXTINF:-1,ES: Movistar  Formula 1 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4422.ts
+#EXTINF:-1,ES: Movistar  Formula 1 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4421.ts
+#EXTINF:-1,ES: Movistar  Futbol HD
+http://basic.ioiptv.com:8000/live/santi/santi/3525.ts
+#EXTINF:-1,ES: Movistar  Futbol HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4420.ts
+#EXTINF:-1,ES: Movistar  Futbol SD
+http://basic.ioiptv.com:8000/live/santi/santi/4419.ts
+#EXTINF:-1,ES: Movistar  Golf HD
+http://basic.ioiptv.com:8000/live/santi/santi/3517.ts
+#EXTINF:-1,ES: Movistar  Golf
+http://basic.ioiptv.com:8000/live/santi/santi/4418.ts
+#EXTINF:-1,ES: Movistar  Moto GP HD
+http://basic.ioiptv.com:8000/live/santi/santi/3516.ts
+#EXTINF:-1,ES: Movistar  Moto GP HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4417.ts
+#EXTINF:-1,ES: Movistar  Moto GP SD
+http://basic.ioiptv.com:8000/live/santi/santi/4416.ts
+#EXTINF:-1,ES: Movistar  Partidazo HD (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/santi/santi/3524.ts
+#EXTINF:-1,ES: Movistar  Partidazo HD 720p (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/santi/santi/4415.ts
+#EXTINF:-1,ES: Movistar  Partidazo SD (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/santi/santi/4414.ts
+#EXTINF:-1,ES: Movistar  eSports HD
+http://basic.ioiptv.com:8000/live/santi/santi/4425.ts
+#EXTINF:-1,ES: Real Madrid HD
+http://basic.ioiptv.com:8000/live/santi/santi/3523.ts
+#EXTINF:-1,ES: Real Madrid HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4386.ts
+#EXTINF:-1,ES: Real Madrid SD
+http://basic.ioiptv.com:8000/live/santi/santi/4385.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3521.ts
+#EXTINF:-1,ES: Eurosport 1 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4466.ts
+#EXTINF:-1,ES: Eurosport 1 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4465.ts
+#EXTINF:-1,ES: Eurosport 2 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3520.ts
+#EXTINF:-1,ES: Eurosport 2 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4464.ts
+#EXTINF:-1,ES: Gol HD
+http://basic.ioiptv.com:8000/live/santi/santi/3469.ts
+#EXTINF:-1,ES: Gol HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4455.ts
+#EXTINF:-1,ES: Gol SD
+http://basic.ioiptv.com:8000/live/santi/santi/4454.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4515.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 HD (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4514.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 SD (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4513.ts
+#EXTINF:-1,ES: Bein LaLiga Max 2 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4512.ts
+#EXTINF:-1,ES: Bein LaLiga Max 2 HD (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4511.ts
+#EXTINF:-1,ES: Bein LaLiga Max 3 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4510.ts
+#EXTINF:-1,ES: Bein LaLiga Max 4 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4509.ts
+#EXTINF:-1,ES: Bein LaLiga Max 5 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4508.ts
+#EXTINF:-1,ES: Bein LaLiga Max 6 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4507.ts
+#EXTINF:-1,ES: Bein Sports Max 1 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4503.ts
+#EXTINF:-1,ES: Bein Sports Max 1 HD (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4502.ts
+#EXTINF:-1,ES: Bein Sports Max 2 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4501.ts
+#EXTINF:-1,ES: Bein Sports Max 2 HD (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4500.ts
+#EXTINF:-1,ES: Bein Sports Max 3 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4499.ts
+#EXTINF:-1,ES: Bein Sports Max 4 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4498.ts
+#EXTINF:-1,ES: Bein Sports Max 5 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4497.ts
+#EXTINF:-1,ES: Bein Sports Max 6 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4496.ts
+#EXTINF:-1,ES: Bein Sports Max 7 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4495.ts
+#EXTINF:-1,ES: Bein Sports Max 8 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4494.ts
+#EXTINF:-1,ES: Multideporte 1 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4407.ts
+#EXTINF:-1,ES: Multideporte 2 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4406.ts
+#EXTINF:-1,ES: Multideporte 3 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4405.ts
+#EXTINF:-1,ES: Multideporte 4 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4404.ts
+#EXTINF:-1,ES: Multideporte 5 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4403.ts
+#EXTINF:-1,ES: Multifutbol 1 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4402.ts
+#EXTINF:-1,ES: Multifutbol 2 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4401.ts
+#EXTINF:-1,ES: Multifutbol 3 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4400.ts
+#EXTINF:-1,ES: Multifutbol 4 (Match Time)
+http://basic.ioiptv.com:8000/live/santi/santi/4399.ts
+#EXTINF:-1,----- ES Entretenimiento -----
+http://basic.ioiptv.com:8000/live/santi/santi/3515.ts
+#EXTINF:-1,ES: A&E
+http://basic.ioiptv.com:8000/live/santi/santi/4525.ts
+#EXTINF:-1,ES: #0 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3505.ts
+#EXTINF:-1,ES: #0
+http://basic.ioiptv.com:8000/live/santi/santi/4532.ts
+#EXTINF:-1,ES: #0 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4531.ts
+#EXTINF:-1,ES: AMC HD
+http://basic.ioiptv.com:8000/live/santi/santi/3504.ts
+#EXTINF:-1,ES: AMC HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4524.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3503.ts
+#EXTINF:-1,ES: Antena 3 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4522.ts
+#EXTINF:-1,ES: Antena 3 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4521.ts
+#EXTINF:-1,ES: AXN HD
+http://basic.ioiptv.com:8000/live/santi/santi/3502.ts
+#EXTINF:-1,ES: AXN HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4519.ts
+#EXTINF:-1,ES: AXN SD
+http://basic.ioiptv.com:8000/live/santi/santi/4518.ts
+#EXTINF:-1,ES: AXN White HD
+http://basic.ioiptv.com:8000/live/santi/santi/3501.ts
+#EXTINF:-1,ES: AXN White HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4517.ts
+#EXTINF:-1,ES: AXN White SD
+http://basic.ioiptv.com:8000/live/santi/santi/4516.ts
+#EXTINF:-1,ES: Comedy Central HD
+http://basic.ioiptv.com:8000/live/santi/santi/3499.ts
+#EXTINF:-1,ES: Comedy Central HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4483.ts
+#EXTINF:-1,ES: Comedy Central SD
+http://basic.ioiptv.com:8000/live/santi/santi/4482.ts
+#EXTINF:-1,ES: Crime & Investigation
+http://basic.ioiptv.com:8000/live/santi/santi/3483.ts
+#EXTINF:-1,ES: Dark
+http://basic.ioiptv.com:8000/live/santi/santi/3514.ts
+#EXTINF:-1,ES: Discovery Channel HD
+http://basic.ioiptv.com:8000/live/santi/santi/3490.ts
+#EXTINF:-1,ES: Discovery Channel (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4478.ts
+#EXTINF:-1,ES: Discovery Channel SD
+http://basic.ioiptv.com:8000/live/santi/santi/4477.ts
+#EXTINF:-1,ES: Discovery Max
+http://basic.ioiptv.com:8000/live/santi/santi/4476.ts
+#EXTINF:-1,ES: Fox HD
+http://basic.ioiptv.com:8000/live/santi/santi/3497.ts
+#EXTINF:-1,ES: Fox HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4461.ts
+#EXTINF:-1,ES: Fox SD
+http://basic.ioiptv.com:8000/live/santi/santi/4458.ts
+#EXTINF:-1,ES: Fox Life HD
+http://basic.ioiptv.com:8000/live/santi/santi/3496.ts
+#EXTINF:-1,ES: Fox Life HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4460.ts
+#EXTINF:-1,ES: Fox Life SD
+http://basic.ioiptv.com:8000/live/santi/santi/4459.ts
+#EXTINF:-1,ES: Historia HD
+http://basic.ioiptv.com:8000/live/santi/santi/3489.ts
+#EXTINF:-1,ES: Historia HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4453.ts
+#EXTINF:-1,ES: Hollywood HD
+http://basic.ioiptv.com:8000/live/santi/santi/3513.ts
+#EXTINF:-1,ES: Hollywood
+http://basic.ioiptv.com:8000/live/santi/santi/4452.ts
+#EXTINF:-1,ES: Movistar  Accion HD
+http://basic.ioiptv.com:8000/live/santi/santi/3512.ts
+#EXTINF:-1,ES: Movistar  Accion HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4436.ts
+#EXTINF:-1,ES: Movistar  Accion SD
+http://basic.ioiptv.com:8000/live/santi/santi/4435.ts
+#EXTINF:-1,ES: Movistar  Comedia HD
+http://basic.ioiptv.com:8000/live/santi/santi/3511.ts
+#EXTINF:-1,ES: Movistar  Comedia HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4433.ts
+#EXTINF:-1,ES: Movistar  Comedia SD
+http://basic.ioiptv.com:8000/live/santi/santi/4432.ts
+#EXTINF:-1,ES: Movistar  Dcine HD
+http://basic.ioiptv.com:8000/live/santi/santi/3510.ts
+#EXTINF:-1,ES: Movistar  Dcine HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4431.ts
+#EXTINF:-1,ES: Movistar  Dcine SD
+http://basic.ioiptv.com:8000/live/santi/santi/4430.ts
+#EXTINF:-1,ES: Movistar  Cine N
+http://basic.ioiptv.com:8000/live/santi/santi/4434.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD
+http://basic.ioiptv.com:8000/live/santi/santi/3509.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4424.ts
+#EXTINF:-1,ES: Movistar  Estrenos SD
+http://basic.ioiptv.com:8000/live/santi/santi/4423.ts
+#EXTINF:-1,ES: Movistar  Series HD
+http://basic.ioiptv.com:8000/live/santi/santi/3495.ts
+#EXTINF:-1,ES: Movistar  Series HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4413.ts
+#EXTINF:-1,ES: Movistar  Series SD
+http://basic.ioiptv.com:8000/live/santi/santi/4412.ts
+#EXTINF:-1,ES: Movistar  Series Xtra HD
+http://basic.ioiptv.com:8000/live/santi/santi/3494.ts
+#EXTINF:-1,ES: Movistar  Series Xtra HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4411.ts
+#EXTINF:-1,ES: Movistar  Series Xtra SD
+http://basic.ioiptv.com:8000/live/santi/santi/4410.ts
+#EXTINF:-1,ES: Movistar  Xtra HD
+http://basic.ioiptv.com:8000/live/santi/santi/3508.ts
+#EXTINF:-1,ES: Movistar  Xtra HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4408.ts
+#EXTINF:-1,ES: Movistar  Xtra
+http://basic.ioiptv.com:8000/live/santi/santi/4409.ts
+#EXTINF:-1,ES: MTV Espana
+http://basic.ioiptv.com:8000/live/santi/santi/3493.ts
+#EXTINF:-1,ES: MTV Rocks
+http://basic.ioiptv.com:8000/live/santi/santi/3453.ts
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://basic.ioiptv.com:8000/live/santi/santi/3488.ts
+#EXTINF:-1,ES: Nat Geo Wild HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4398.ts
+#EXTINF:-1,ES: Nat Geo Wild SD
+http://basic.ioiptv.com:8000/live/santi/santi/4397.ts
+#EXTINF:-1,ES: National Geoghraphic HD
+http://basic.ioiptv.com:8000/live/santi/santi/3487.ts
+#EXTINF:-1,ES: National Geoghraphic HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4396.ts
+#EXTINF:-1,ES: National Geoghraphic SD
+http://basic.ioiptv.com:8000/live/santi/santi/4395.ts
+#EXTINF:-1,ES: Paramount Channel
+http://basic.ioiptv.com:8000/live/santi/santi/4387.ts
+#EXTINF:-1,ES: Sundance TV
+http://basic.ioiptv.com:8000/live/santi/santi/3507.ts
+#EXTINF:-1,ES: SyFy HD
+http://basic.ioiptv.com:8000/live/santi/santi/3492.ts
+#EXTINF:-1,ES: SYFY HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4383.ts
+#EXTINF:-1,ES: SyFy SD
+http://basic.ioiptv.com:8000/live/santi/santi/4382.ts
+#EXTINF:-1,ES: TCM HD
+http://basic.ioiptv.com:8000/live/santi/santi/3506.ts
+#EXTINF:-1,ES: TCM HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4381.ts
+#EXTINF:-1,ES: TCM SD
+http://basic.ioiptv.com:8000/live/santi/santi/4380.ts
+#EXTINF:-1,ES: Televisa HD
+http://basic.ioiptv.com:8000/live/santi/santi/3452.ts
+#EXTINF:-1,ES: TNT HD
+http://basic.ioiptv.com:8000/live/santi/santi/3491.ts
+#EXTINF:-1,ES: TNT HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4373.ts
+#EXTINF:-1,ES: TNT SD
+http://basic.ioiptv.com:8000/live/santi/santi/4372.ts
+#EXTINF:-1,ES: Toros HD
+http://basic.ioiptv.com:8000/live/santi/santi/3451.ts
+#EXTINF:-1,ES: Toros HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4370.ts
+#EXTINF:-1,ES: Toros
+http://basic.ioiptv.com:8000/live/santi/santi/4371.ts
+#EXTINF:-1,ES: Travel HD
+http://basic.ioiptv.com:8000/live/santi/santi/4533.ts
+#EXTINF:-1,----- ES Infantil -----
+http://basic.ioiptv.com:8000/live/santi/santi/3480.ts
+#EXTINF:-1,ES: Baby TV
+http://basic.ioiptv.com:8000/live/santi/santi/3479.ts
+#EXTINF:-1,ES: Boing
+http://basic.ioiptv.com:8000/live/santi/santi/4491.ts
+#EXTINF:-1,ES: Canal Panda
+http://basic.ioiptv.com:8000/live/santi/santi/3478.ts
+#EXTINF:-1,ES: Disney Channel HD
+http://basic.ioiptv.com:8000/live/santi/santi/3477.ts
+#EXTINF:-1,ES: Disney Channel HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4475.ts
+#EXTINF:-1,ES: Disney Channel SD
+http://basic.ioiptv.com:8000/live/santi/santi/4474.ts
+#EXTINF:-1,ES: Disney Junior
+http://basic.ioiptv.com:8000/live/santi/santi/3476.ts
+#EXTINF:-1,ES: Disney XD
+http://basic.ioiptv.com:8000/live/santi/santi/4473.ts
+#EXTINF:-1,ES: Nick JR
+http://basic.ioiptv.com:8000/live/santi/santi/3475.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://basic.ioiptv.com:8000/live/santi/santi/3474.ts
+#EXTINF:-1,ES: Nickelodeon
+http://basic.ioiptv.com:8000/live/santi/santi/4393.ts
+#EXTINF:-1,----- ES Varios -----
+http://basic.ioiptv.com:8000/live/santi/santi/3473.ts
+#EXTINF:-1,ES: 24H
+http://basic.ioiptv.com:8000/live/santi/santi/4530.ts
+#EXTINF:-1,ES: 3/24 CAT
+http://basic.ioiptv.com:8000/live/santi/santi/4529.ts
+#EXTINF:-1,ES: 8TV
+http://basic.ioiptv.com:8000/live/santi/santi/4526.ts
+#EXTINF:-1,ES: A3series HD
+http://basic.ioiptv.com:8000/live/santi/santi/4536.ts
+#EXTINF:-1,ES: Andalucia TV
+http://basic.ioiptv.com:8000/live/santi/santi/4523.ts
+#EXTINF:-1,ES: Aragon TV
+http://basic.ioiptv.com:8000/live/santi/santi/4520.ts
+#EXTINF:-1,ES: Atreseries HD
+http://basic.ioiptv.com:8000/live/santi/santi/4535.ts
+#EXTINF:-1,ES: Barca TV
+http://basic.ioiptv.com:8000/live/santi/santi/3462.ts
+#EXTINF:-1,ES: Be Mad TV HD
+http://basic.ioiptv.com:8000/live/santi/santi/3471.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3500.ts
+#EXTINF:-1,ES: Calle 13
+http://basic.ioiptv.com:8000/live/santi/santi/4490.ts
+#EXTINF:-1,ES: Canal Cocina
+http://basic.ioiptv.com:8000/live/santi/santi/3484.ts
+#EXTINF:-1,ES: Canal Sur HD
+http://basic.ioiptv.com:8000/live/santi/santi/3461.ts
+#EXTINF:-1,ES: Canal Sur
+http://basic.ioiptv.com:8000/live/santi/santi/4488.ts
+#EXTINF:-1,ES: Castilla La Mancha Media
+http://basic.ioiptv.com:8000/live/santi/santi/4487.ts
+#EXTINF:-1,ES: Caza y Pesca HD
+http://basic.ioiptv.com:8000/live/santi/santi/3460.ts
+#EXTINF:-1,ES: Caza y Pesca HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4486.ts
+#EXTINF:-1,ES: Classica HD
+http://basic.ioiptv.com:8000/live/santi/santi/3459.ts
+#EXTINF:-1,ES: Classica
+http://basic.ioiptv.com:8000/live/santi/santi/4484.ts
+#EXTINF:-1,ES: Cosmo TV HD
+http://basic.ioiptv.com:8000/live/santi/santi/3498.ts
+#EXTINF:-1,ES: Cosmo TV HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4481.ts
+#EXTINF:-1,ES: Cosmo TV SD
+http://basic.ioiptv.com:8000/live/santi/santi/4480.ts
+#EXTINF:-1,ES: Cuatro HD
+http://basic.ioiptv.com:8000/live/santi/santi/3470.ts
+#EXTINF:-1,ES: Cuatro HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4479.ts
+#EXTINF:-1,ES: Clan TVE
+http://basic.ioiptv.com:8000/live/santi/santi/4485.ts
+#EXTINF:-1,ES: Decasa
+http://basic.ioiptv.com:8000/live/santi/santi/3482.ts
+#EXTINF:-1,ES: Dkiss
+http://basic.ioiptv.com:8000/live/santi/santi/3458.ts
+#EXTINF:-1,ES: Divinity
+http://basic.ioiptv.com:8000/live/santi/santi/4472.ts
+#EXTINF:-1,ES: El Correo TV
+http://basic.ioiptv.com:8000/live/santi/santi/4471.ts
+#EXTINF:-1,ES: El Garage TV
+http://basic.ioiptv.com:8000/live/santi/santi/3481.ts
+#EXTINF:-1,ES: Energy
+http://basic.ioiptv.com:8000/live/santi/santi/4469.ts
+#EXTINF:-1,ES: Esport 3 CAT
+http://basic.ioiptv.com:8000/live/santi/santi/4468.ts
+#EXTINF:-1,ES: ETB1
+http://basic.ioiptv.com:8000/live/santi/santi/4467.ts
+#EXTINF:-1,ES: Extremadura TV
+http://basic.ioiptv.com:8000/live/santi/santi/4463.ts
+#EXTINF:-1,ES: FDF
+http://basic.ioiptv.com:8000/live/santi/santi/4462.ts
+#EXTINF:-1,ES: Galicia TV
+http://basic.ioiptv.com:8000/live/santi/santi/4456.ts
+#EXTINF:-1,ES: Interconomia
+http://basic.ioiptv.com:8000/live/santi/santi/4451.ts
+#EXTINF:-1,ES: IB3 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3457.ts
+#EXTINF:-1,ES: Iberalia
+http://basic.ioiptv.com:8000/live/santi/santi/3456.ts
+#EXTINF:-1,ES: Intereconomia
+http://basic.ioiptv.com:8000/live/santi/santi/3455.ts
+#EXTINF:-1,ES: Lancelot TV
+http://basic.ioiptv.com:8000/live/santi/santi/4439.ts
+#EXTINF:-1,ES: LA 1 
+http://basic.ioiptv.com:8000/live/santi/santi/3472.ts
+#EXTINF:-1,ES: LA 1 HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4450.ts
+#EXTINF:-1,ES: LA 1 SD
+http://basic.ioiptv.com:8000/live/santi/santi/4449.ts
+#EXTINF:-1,ES: LA 2
+http://basic.ioiptv.com:8000/live/santi/santi/4448.ts
+#EXTINF:-1,ES: La Sexta HD
+http://basic.ioiptv.com:8000/live/santi/santi/3468.ts
+#EXTINF:-1,ES: La Sexta HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4445.ts
+#EXTINF:-1,ES: La Sexta SD
+http://basic.ioiptv.com:8000/live/santi/santi/4444.ts
+#EXTINF:-1,ES: Mega HD
+http://basic.ioiptv.com:8000/live/santi/santi/3467.ts
+#EXTINF:-1,ES: Mega HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4438.ts
+#EXTINF:-1,ES: Mezzo Live HD
+http://basic.ioiptv.com:8000/live/santi/santi/3454.ts
+#EXTINF:-1,ES: Mezzo Live HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4437.ts
+#EXTINF:-1,ES: Neox
+http://basic.ioiptv.com:8000/live/santi/santi/4394.ts
+#EXTINF:-1,ES: Nova
+http://basic.ioiptv.com:8000/live/santi/santi/4391.ts
+#EXTINF:-1,ES: Non Stop People
+http://basic.ioiptv.com:8000/live/santi/santi/3531.ts
+#EXTINF:-1,ES: Nonstopeople
+http://basic.ioiptv.com:8000/live/santi/santi/4392.ts
+#EXTINF:-1,ES: Odisea HD
+http://basic.ioiptv.com:8000/live/santi/santi/3486.ts
+#EXTINF:-1,ES: Odisea HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4390.ts
+#EXTINF:-1,ES: Odisea SD
+http://basic.ioiptv.com:8000/live/santi/santi/4389.ts
+#EXTINF:-1,ES: Onda Azul
+http://basic.ioiptv.com:8000/live/santi/santi/4388.ts
+#EXTINF:-1,ES: Super3. CAT HD
+http://basic.ioiptv.com:8000/live/santi/santi/3463.ts
+#EXTINF:-1,ES: Telecinco HD
+http://basic.ioiptv.com:8000/live/santi/santi/3466.ts
+#EXTINF:-1,ES: Telecinco HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4379.ts
+#EXTINF:-1,ES: Telecinco SD
+http://basic.ioiptv.com:8000/live/santi/santi/4378.ts
+#EXTINF:-1,ES: Teledeporte HD
+http://basic.ioiptv.com:8000/live/santi/santi/3465.ts
+#EXTINF:-1,ES: Teledeporte HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4377.ts
+#EXTINF:-1,ES: Teledeporte SD
+http://basic.ioiptv.com:8000/live/santi/santi/4376.ts
+#EXTINF:-1,ES: TV3. CAT HD
+http://basic.ioiptv.com:8000/live/santi/santi/3464.ts
+#EXTINF:-1,ES: Viajar HD
+http://basic.ioiptv.com:8000/live/santi/santi/3485.ts
+#EXTINF:-1,ES: Viajar HD (720p)
+http://basic.ioiptv.com:8000/live/santi/santi/4367.ts
+#EXTINF:-1,ES: Viajar SD
+http://basic.ioiptv.com:8000/live/santi/santi/4366.ts
+#EXTINF:-1,ES: Sevilla FC
+http://basic.ioiptv.com:8000/live/santi/santi/4384.ts
+#EXTINF:-1,ES: Telesur
+http://basic.ioiptv.com:8000/live/santi/santi/4375.ts
+#EXTINF:-1,ES: TEN
+http://basic.ioiptv.com:8000/live/santi/santi/4374.ts
+#EXTINF:-1,ES: VH1
+http://basic.ioiptv.com:8000/live/santi/santi/4369.ts
+#EXTINF:-1,ES: VH1 Classic
+http://basic.ioiptv.com:8000/live/santi/santi/4368.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://basic.ioiptv.com:8000/live/santi/santi/4489.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4241,460 +4860,6 @@ https://cdn.opencable.es/hls/live/boing/index.m3u8
 #EXTINF:8 group-title=”Latino3”,
 
 
-#EXTINF:1 tvg-logo=https://s-media-cache-ak0.pinimg.com/originals/f6/50/e5/f650e55febc39dbb589c078a9fad77ee.jpg ,==Latino==
-http://.........
-
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png",13tv
-http://live.tvplayerlatino.com/usuarios/src4/13tv/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png",A&E HD
-http://live.tvplayerlatino.com/usuarios/src1/AEHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reOMY/299b932afa.png" ,ABC News
-http://live.tvplayerlatino.com/usuarios/src4/ABCNews/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rePoj/7d9227ef45.png",Alcance TV
-http://live.tvplayerlatino.com/usuarios/src4/AlcanceTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reISf/109c22d7a8.png" ,Amazing Music
-http://live.tvplayerlatino.com/usuarios/src4/AmazingMusic/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png",AMC
-http://live.tvplayerlatino.com/usuarios/src1/AMC/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/uZobT/a86c94ccc6.png",América TV
-http://live.tvplayerlatino.com/usuarios/src4/AmericaTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png",Animal Planet
-http://live.tvplayerlatino.com/usuarios/src1/AnimalPlanet/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png",Anime 24H
-http://live.tvplayerlatino.com/usuarios/src4/Anime24H/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png",Antena 3
-http://live.tvplayerlatino.com/usuarios/src4/Antena3/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNoV/a0a6c77c7c.png",Aparecida Brasil
-http://live.tvplayerlatino.com/usuarios/src4/AparecidaBrasil/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tqWGU/8642e69f30.png" ,Aristegui Noticias
-http://live.tvplayerlatino.com/usuarios/src4/AristeguiNoticias/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png",AXN
-http://live.tvplayerlatino.com/usuarios/src4/AXN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png",Az Corazón
-http://live.tvplayerlatino.com/usuarios/src1/AzCorazon/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wcPRU/132561d945.png",Azteca +
-http://live.tvplayerlatino.com/usuarios/src4/AztecaMas/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png",Azteca 13
-http://live.tvplayerlatino.com/usuarios/src4/Azteca13/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png",Azteca 7
-http://live.tvplayerlatino.com/usuarios/src1/Azteca7/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" ,Bandamax
-http://live.tvplayerlatino.com/usuarios/src1/Bandamax/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png",BBC Entertainment
-http://live.tvplayerlatino.com/usuarios/src1/BBCEntertainment/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLqS/76e86da5c3.png",BeinSports
-http://live.tvplayerlatino.com/usuarios/src5/BeinSports/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/thRs2/371b37bd98.png",BeinSports Ñ
-http://live.tvplayerlatino.com/usuarios/src5/BeinSportsN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/uZoIA/e0c858397b.png",BHTV Peru
-http://live.tvplayerlatino.com/usuarios/src4/BHTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reMzt/5760bb9648.png" ,Bloomberg
-http://live.tvplayerlatino.com/usuarios/src4/Bloomberg/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png",Boomerang
-http://live.tvplayerlatino.com/usuarios/src1/Boomerang/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png",Cali TV
-http://live.tvplayerlatino.com/usuarios/src4/CaliTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png",Canal 2 Televicentro
-http://live.tvplayerlatino.com/usuarios/src4/Canal2Televicentro/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB4aq/6b5ee1d45c.png",Canal 22
-http://live.tvplayerlatino.com/usuarios/src4/Canal22/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png",Canal 5
-http://live.tvplayerlatino.com/usuarios/src1/Canal5/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",Canal de las Estrellas
-http://live.tvplayerlatino.com/usuarios/src4/CanaldelasEstrellas2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",Canal de las Estrellas
-http://live.tvplayerlatino.com/usuarios/src5/CanaldelasEstrellas/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",Canal de las Estrellas Latinoamerica
-http://live.tvplayerlatino.com/usuarios/src4/CanaldelasEstrellas2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcJl2/2d75fc4a4e.png",Canal+ Accion
-http://live.tvplayerlatino.com/usuarios/src5/MoviAccion/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcOG4/b50561a985.png",Canal+ Toros
-http://live.tvplayerlatino.com/usuarios/src5/Toros/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" ,Cantinazo TV
-http://live.tvplayerlatino.com/usuarios/src4/CantinazoTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB47o/1193f4ab34.png",Capital 21 CDMX
-http://live.tvplayerlatino.com/usuarios/src4/Capital21CDMX/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNIz/9bf443e55b.png" ,Capital TV
-http://live.tvplayerlatino.com/usuarios/src4/CapitalTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/ue7h2/8abe1668dc.png",Caracol
-http://live.tvplayerlatino.com/usuarios/src5/Caracol/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png",Cartoon Network
-http://live.tvplayerlatino.com/usuarios/src1/CartoonNetwork/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nC0HE/3b9c4c7f0a.png",CB24 Noticias
-http://live.tvplayerlatino.com/usuarios/src4/CB24Noticias/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdGb/5d2fd767c6.png",CBeebies
-http://live.tvplayerlatino.com/usuarios/src1/CBeebies/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qd28n/94dbf1c3c2.png",CDF Premium
-http://live.tvplayerlatino.com/usuarios/src5/CDFPremium/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nu1Z9/cfd308d7b6.png",CDN Sportmax
-http://live.tvplayerlatino.com/usuarios/src5/CDNSportmax/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vxksw/b00f44cfc3.png",CDO Premium
-http://live.tvplayerlatino.com/usuarios/src4/CDOPremium/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nib8d/ebcc035c90.png",Chilevision
-http://live.tvplayerlatino.com/usuarios/src4/Chilevision/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reQhT/5c3eb70d1f.png",Cinecanal+
-http://live.tvplayerlatino.com/usuarios/src1/CinecanalHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png",Cinemax
-http://live.tvplayerlatino.com/usuarios/src1/Cinemax/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qGjUo/a7147ac326.png",Claro Sports
-http://live.tvplayerlatino.com/usuarios/src5/ClaroSports/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qVQKz/7853e8dd01.png",CMD Peru
-http://live.tvplayerlatino.com/usuarios/src4/CMDPeru/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/momMK/a1f10ea8a4.png" ,CNN en Español
-http://live.tvplayerlatino.com/usuarios/src5/CNNenEspanol/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reQTV/a720355f03.png",Comedy Central HD
-http://live.tvplayerlatino.com/usuarios/src1/ComedyCentralHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png",CTNI
-http://live.tvplayerlatino.com/usuarios/src4/CTNI/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png",De Película
-http://live.tvplayerlatino.com/usuarios/src1/DePelicula/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reQVU/0c8e61f2a0.png",DeporTV
-http://live.tvplayerlatino.com/usuarios/src4/DeporTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvXth/4031f19cf5.png",DirectTV Sports
-http://live.tvplayerlatino.com/usuarios/src5/DirectTVSports/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png",Discovery Channel
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png",Discovery Channel Opcion 2
-http://live.tvplayerlatino.com/usuarios/src5/DiscoveryChannel2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRVX/09b104b39b.png",Discovery Civilization
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryCivilization/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png",Discovery H&H
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryHH/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png",Discovery Kids
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryKids/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRYB/986cacfcf9.png",Discovery SCI
-http://live.tvplayerlatino.com/usuarios/src1/DiscoverySCI/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRZf/b724b419e5.png",Discovery Theater HD
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTheaterHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRZC/14ff477422.png",Discovery Turbo
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTurbo/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reS0X/3496f4a93c.png",Discovery World
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryWorld/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png",Disney Channel
-http://live.tvplayerlatino.com/usuarios/src1/DisneyChannel/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png",Disney Junior
-http://live.tvplayerlatino.com/usuarios/src1/DisneyJunior/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png",Disney XD
-http://live.tvplayerlatino.com/usuarios/src1/DisneyXD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSse/a7ab00d18b.png",Distrito Comedia
-http://live.tvplayerlatino.com/usuarios/src1/DistritoComedia/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reX5m/b3add2d39c.png" ,Djing Ibiza
-http://live.tvplayerlatino.com/usuarios/src4/DjingIbiza/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qGkkr/73e0bc98cc.png",Dragon Ball Z 24/7
-http://live.tvplayerlatino.com/usuarios/src4/DragonBallZ/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wcPrG/9210f60017.png" ,DW Latinoamerica
-http://live.tvplayerlatino.com/usuarios/src4/DW/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKPy9/b41ea1c700.png",E!
-http://live.tvplayerlatino.com/usuarios/src1/EEntertainment/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qdjzc/80bea07471.png" ,Ecuavisa
-http://live.tvplayerlatino.com/usuarios/src5/Ecuavisa/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png" ,Efekto TV
-http://live.tvplayerlatino.com/usuarios/src4/EfektoTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrsi/e45af55c18.png" ,El 13 Argentina
-http://live.tvplayerlatino.com/usuarios/src4/El13Argentina/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png",El Chavo del 8 24/7
-http://live.tvplayerlatino.com/usuarios/src4/ElChavoDel8/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB9sC/7f84152b4b.png",El Gourmet
-http://live.tvplayerlatino.com/usuarios/src1/ElGourmet/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFvL/1137b892f2.png",Enlace Juvenil
-http://live.tvplayerlatino.com/usuarios/src4/EnlaceJuvenil/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFtG/9926077bd4.png",Enlace TV
-http://live.tvplayerlatino.com/usuarios/src4/EnlaceTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png",ESPN
-http://live.tvplayerlatino.com/usuarios/src1/ESPN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png",ESPN 2
-http://live.tvplayerlatino.com/usuarios/src1/ESPN2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLku/738fa2b5a4.png",ESPN 3
-http://live.tvplayerlatino.com/usuarios/src1/ESPN3/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVU2h/af6a5cd998.png",ESPN HD
-http://live.tvplayerlatino.com/usuarios/src1/ESPNHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mOIol/245d8b9954.png",Estrella TV
-http://live.tvplayerlatino.com/usuarios/src5/EstrellaTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8YqX/a6422189de.png" ,Euronews
-http://live.tvplayerlatino.com/usuarios/src4/Euronews/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbHgb/7d8bedf60f.png",Eurosport
-http://live.tvplayerlatino.com/usuarios/src4/Eurosport/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbHiL/103f904674.png",Eurosport 2
-http://live.tvplayerlatino.com/usuarios/src4/Eurosport2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwe48/0f14e712dd.png",EWTN
-http://live.tvplayerlatino.com/usuarios/src4/EWTN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSZn/64f2fe6f36.png",F1 TV
-http://live.tvplayerlatino.com/usuarios/src5/F1TV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSLS/97643a87ce.png",Fashion TV
-http://live.tvplayerlatino.com/usuarios/src1/FashionTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbG2w/8a16d4b59b.png",Film Zone HD
-http://live.tvplayerlatino.com/usuarios/src1/FilmZoneHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdQ0/1427230969.png" ,Foro TV HD
-http://live.tvplayerlatino.com/usuarios/src1/ForoTVHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png",Fox
-http://live.tvplayerlatino.com/usuarios/src5/Fox/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKOoW/0e3448eeac.png",Fox 1 HD
-http://live.tvplayerlatino.com/usuarios/src1/Fox1HD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4pE/77c3c0b2aa.png",Fox Action
-http://live.tvplayerlatino.com/usuarios/src1/FoxAction/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png",Fox Cinema
-http://live.tvplayerlatino.com/usuarios/src1/FoxCinema/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4Hb/88acf9ec83.png",Fox Classics
-http://live.tvplayerlatino.com/usuarios/src1/FoxClassics/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4BK/4af992eec0.png",Fox Family
-http://live.tvplayerlatino.com/usuarios/src5/FoxFamily/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4LG/2fce542af7.png",Fox Life
-http://live.tvplayerlatino.com/usuarios/src1/FoxLife/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4te/63dc524e5b.png",Fox Movies
-http://live.tvplayerlatino.com/usuarios/src1/FoxMovies/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png",Fox Op. 2
-http://live.tvplayerlatino.com/usuarios/src5/Fox2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png",Fox Sports
-http://live.tvplayerlatino.com/usuarios/src1/FoxSports/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png",Fox Sports 2
-http://live.tvplayerlatino.com/usuarios/src1/FoxSports2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png",Fox Sports Sur
-http://live.tvplayerlatino.com/usuarios/src5/FoxSportsSur/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png",Fox Sports Sur 2
-http://live.tvplayerlatino.com/usuarios/src5/FoxSportsSur2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4NT/0decb9f5fd.png",FX
-http://live.tvplayerlatino.com/usuarios/src1/FX/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tXlaB/2147bff587.png",FX HD
-http://live.tvplayerlatino.com/usuarios/src1/FXHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw4Uk/65b3f604c7.png",Gala TV
-http://live.tvplayerlatino.com/usuarios/src1/GalaTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB9id/079a770640.png",Garage TV
-http://live.tvplayerlatino.com/usuarios/src1/GarageTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB9Dx/327016dd4e.png",Glitz
-http://live.tvplayerlatino.com/usuarios/src1/Glitz/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qVR6U/e11cf88129.png",Gol Peru
-http://live.tvplayerlatino.com/usuarios/src4/GolPeru/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/q9uFo/422344b611.png",Gol TV
-http://live.tvplayerlatino.com/usuarios/src5/GolTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGed/1b8cc10b54.png",Golden Edge
-http://live.tvplayerlatino.com/usuarios/src1/GoldenEdge/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw4XE/6a57b1ac9a.png",Golden HD
-http://live.tvplayerlatino.com/usuarios/src1/GoldenHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbMeZ/0502ebe188.png",Golden Premier
-http://live.tvplayerlatino.com/usuarios/src5/GoldenPremier1/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbMih/f670253ae9.png",Golden Premier 2
-http://live.tvplayerlatino.com/usuarios/src5/GoldenPremier2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wXpBG/491f7e6a2e.png",HBO
-http://live.tvplayerlatino.com/usuarios/src5/HBO/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wXpDv/c09197c8e2.png",HBO 2
-http://live.tvplayerlatino.com/usuarios/src5/HBO2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLYD/9b9363b223.png",HBO Family
-http://live.tvplayerlatino.com/usuarios/src5/HBOFamily/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLPA/58fceaae81.png",HBO Plus
-http://live.tvplayerlatino.com/usuarios/src5/HBOPlus/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" ,Heart TV
-http://live.tvplayerlatino.com/usuarios/src4/HeartTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png",History Channel
-http://live.tvplayerlatino.com/usuarios/src1/HistoryChannel/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nsW7K/e33f64daeb.png" ,Hit TV
-http://live.tvplayerlatino.com/usuarios/src4/HitTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSAn/0b7f7011de.png",HMX
-http://live.tvplayerlatino.com/usuarios/src1/HMX/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSCC/1dcc9fd950.png",Hola TV
-http://live.tvplayerlatino.com/usuarios/src1/HolaTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLLx/11d03250f6.png" ,HTV
-http://live.tvplayerlatino.com/usuarios/src5/HTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB8rQ/e887276399.png",I.Sat
-http://live.tvplayerlatino.com/usuarios/src1/ISat/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdyP/2a4e5a7045.png",Investigation Discovery
-http://live.tvplayerlatino.com/usuarios/src1/InvestigationDiscovery/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB44g/098e405622.png" ,Juce TV
-http://live.tvplayerlatino.com/usuarios/src4/JuceTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reI44/c226288315.png",La Luz Peru
-http://live.tvplayerlatino.com/usuarios/src4/LaLuzPeru/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qwMC0/376cc81b30.png",La Sexta
-http://live.tvplayerlatino.com/usuarios/src4/LaSexta/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qd17J/aefa929565.png",Latina Peru
-http://live.tvplayerlatino.com/usuarios/src4/LatinaPeru/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwqy1/9feaee8770.png",Lifetime
-http://live.tvplayerlatino.com/usuarios/src1/Lifetime/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png",Los Simpson 24/7
-http://live.tvplayerlatino.com/usuarios/src4/LosSimpson/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" ,m2o TV
-http://live.tvplayerlatino.com/usuarios/src4/m2oTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mP20o/154ed6c1a3.png",Más chic
-http://live.tvplayerlatino.com/usuarios/src1/Maschic/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png",Max Prime
-http://live.tvplayerlatino.com/usuarios/src5/MaxPrime/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png",Max Up
-http://live.tvplayerlatino.com/usuarios/src5/MaxUp/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8N3/9ca59d233e.png",Mega (España)
-http://live.tvplayerlatino.com/usuarios/src4/MegaEspana/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mNvBc/cad6baaa87.png" ,Mi Musica HD
-http://live.tvplayerlatino.com/usuarios/src4/MiMusicaHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png",Miami TV
-http://live.tvplayerlatino.com/usuarios/src4/MiamiTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" ,Milenio
-http://live.tvplayerlatino.com/usuarios/src1/Milenio/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcPyX/933e3b17e1.png",Movistar Comedia
-http://live.tvplayerlatino.com/usuarios/src5/MoviComedia/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png",Movistar Deportes
-http://live.tvplayerlatino.com/usuarios/src5/MoviDeportes/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png",Movistar Deportes 2
-http://live.tvplayerlatino.com/usuarios/src5/MoviDeportes2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png",Movistar Futbol
-http://live.tvplayerlatino.com/usuarios/src5/MoviFutbol/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png",Movistar Xtra
-http://live.tvplayerlatino.com/usuarios/src5/MoviXtra/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" ,MTV
-http://live.tvplayerlatino.com/usuarios/src1/MTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" ,MTV Hits
-http://live.tvplayerlatino.com/usuarios/src1/MTVHits/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" ,MTV Live HD
-http://live.tvplayerlatino.com/usuarios/src1/MTVLive/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB993/e7befece5a.png",Multimedios
-http://live.tvplayerlatino.com/usuarios/src1/Multimedios/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/pIdJh/69253eb40c.png",MultiPremier
-http://live.tvplayerlatino.com/usuarios/src5/MultiPremier/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png",Mundo Fox
-http://live.tvplayerlatino.com/usuarios/src5/MundoFox/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/moONA/fcb99b4ee9.jpg",MundoMax
-http://live.tvplayerlatino.com/usuarios/src5/MundoMax/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png",Nat Geo
-http://live.tvplayerlatino.com/usuarios/src1/NatGeo/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wZVOI/399ecc3f7e.png",Nat Geo Kids
-http://live.tvplayerlatino.com/usuarios/src1/NatGeoKids/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png",Nat Geo Wild
-http://live.tvplayerlatino.com/usuarios/src1/NatGeoWild/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png",Neox
-http://live.tvplayerlatino.com/usuarios/src4/Neox/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png",Nick HD
-http://live.tvplayerlatino.com/usuarios/src1/NickHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png",Nick JR
-http://live.tvplayerlatino.com/usuarios/src1/NickJR/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png",Nick Toons
-http://live.tvplayerlatino.com/usuarios/src1/NickToons/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVS4R/93935891ed.png",Nickelodeon
-http://live.tvplayerlatino.com/usuarios/src1/Nickelodeon/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nC0OX/b5081cfda8.png" ,ORBE 21
-http://live.tvplayerlatino.com/usuarios/src4/ORBE21/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nsW5e/6bbcc438c7.png",Paramount
-http://live.tvplayerlatino.com/usuarios/src5/Paramount/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reI1O/492bd7c058.png",Plus TV
-http://live.tvplayerlatino.com/usuarios/src4/PlusTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVT4M/a54f2b8fcb.png",PX TV
-http://live.tvplayerlatino.com/usuarios/src1/PXTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8KU/39046fe455.png",RCG TV Coahuila
-http://live.tvplayerlatino.com/usuarios/src4/RCGTVCoahuila/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8XAY/f5067b3a35.png",RCN
-http://live.tvplayerlatino.com/usuarios/src5/RCN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png",Real Madrid TV
-http://live.tvplayerlatino.com/usuarios/src4/RealMadridTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mB8FA/fd9624cae2.png" ,Ritmoson Latino
-http://live.tvplayerlatino.com/usuarios/src1/RitmosonLatino/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reHZ3/31606bea77.png",RPP
-http://live.tvplayerlatino.com/usuarios/src4/RPP/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/moPpf/233d651bab.png" ,RT HD
-http://live.tvplayerlatino.com/usuarios/src4/RTHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png",Sony HD
-http://live.tvplayerlatino.com/usuarios/src1/SonyHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reX9a/e5e9972612.png",Space HD
-http://live.tvplayerlatino.com/usuarios/src1/SpaceHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8Yp1/08f8449b14.png",STB Brasil
-http://live.tvplayerlatino.com/usuarios/src4/STBBrasil/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png",Studio Universal
-http://live.tvplayerlatino.com/usuarios/src1/StudioUniversal/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwqrg/e525edd989.png",SyFy
-http://live.tvplayerlatino.com/usuarios/src1/SyFy/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKOP3/c19fcde9b2.png",TBS Very Funny
-http://live.tvplayerlatino.com/usuarios/src1/TBSVeryFunny/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mP1b6/411b64dc27.png",TCM
-http://live.tvplayerlatino.com/usuarios/src1/TCM/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png",TDN
-http://live.tvplayerlatino.com/usuarios/src5/TDN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mP29u/cbd4d7f5c3.png",TeleFórmula
-http://live.tvplayerlatino.com/usuarios/src1/TeleFormula/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGI5/21150fe27d.png" ,Telehit
-http://live.tvplayerlatino.com/usuarios/src1/Telehit/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/ngQ15/fc7caebab2.png",Telemedellin
-http://live.tvplayerlatino.com/usuarios/src4/Telemedellin/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png",Telemundo
-http://live.tvplayerlatino.com/usuarios/src5/Telemundo/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/sYgKe/3afff28554.png",Telemundo 33
-http://live.tvplayerlatino.com/usuarios/src1/Telemundo33/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png",Telemundo 49
-http://live.tvplayerlatino.com/usuarios/src4/Telemundo2/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nC0Re/ee57b9e394.png" ,Telpin Tv
-http://live.tvplayerlatino.com/usuarios/src4/TelpinTv/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mNvUJ/fe599e7cee.png" ,Tigo Music
-http://live.tvplayerlatino.com/usuarios/src4/TigoMusic/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png",Tiin
-http://live.tvplayerlatino.com/usuarios/src1/Tiin/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLF3/ceac7e3575.png",TLC
-http://live.tvplayerlatino.com/usuarios/src1/TLC/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png",Tlnovelas
-http://live.tvplayerlatino.com/usuarios/src5/Tlnovelas/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/uDFJx/6709e1008e.png",TLT Venezuela
-http://live.tvplayerlatino.com/usuarios/src4/TLTVenezuela/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrtc/1387c3c004.png" ,TN Canal
-http://live.tvplayerlatino.com/usuarios/src4/TNCanal/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKP8k/b5666df9d4.png",TNT
-http://live.tvplayerlatino.com/usuarios/src1/TNT/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKPjD/a69e3834b7.png",TNT HD
-http://live.tvplayerlatino.com/usuarios/src1/TNTHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/vKOIx/06a80881a6.png",TNT Series
-http://live.tvplayerlatino.com/usuarios/src1/TNTSeries/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png",Tooncast
-http://live.tvplayerlatino.com/usuarios/src1/Tooncast/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrtY/d94dbb6ccd.png",TRT
-http://live.tvplayerlatino.com/usuarios/src4/TRT/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5r2/486241bb2e.png",TruTV
-http://live.tvplayerlatino.com/usuarios/src1/TruTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8YpV/f18d1a478e.png",TVBrasil
-http://live.tvplayerlatino.com/usuarios/src4/TVBrasil/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVTf6/f3116d0280.png",TVE
-http://live.tvplayerlatino.com/usuarios/src1/TVE/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8IK/364a13e4d7.png",TVMas Veracruz
-http://live.tvplayerlatino.com/usuarios/src4/TVMasVeracruz/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qmd5g/43e67c54db.png" ,TVN Ecuador
-http://live.tvplayerlatino.com/usuarios/src4/TVNEcuador/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrvp/3eaf3d4de0.png",TVO Canal 23
-http://live.tvplayerlatino.com/usuarios/src4/TVOCanal23/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8K9/06191357cf.png",TVT (TV Tlaxcala)
-http://live.tvplayerlatino.com/usuarios/src4/TVTlaxcala/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="" ,UCSG TV
-http://live.tvplayerlatino.com/usuarios/src4/UCSGTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLoc/e5d45c354b.png",UFC Network
-http://live.tvplayerlatino.com/usuarios/src5/UFCNetwork/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png",Unicable
-http://live.tvplayerlatino.com/usuarios/src1/Unicable/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png",Universal
-http://live.tvplayerlatino.com/usuarios/src1/Universal/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mP22k/d11bfadf26.png",Universal HD
-http://live.tvplayerlatino.com/usuarios/src1/UniversalHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLcu/7ea24f7b73.png",Univision
-http://live.tvplayerlatino.com/usuarios/src5/Univision/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/tdSaI/025a963e05.png",Univisión Deportes
-http://live.tvplayerlatino.com/usuarios/src5/UnivisionDeportes/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png",Univisión TDN
-http://live.tvplayerlatino.com/usuarios/src5/UnivisionTDN/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrwb/338b2694eb.png",Vale TV
-http://live.tvplayerlatino.com/usuarios/src4/ValeTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mNQWC/4153202368.png" ,VH1 Classic
-http://live.tvplayerlatino.com/usuarios/src1/VH1Classic/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" ,VH1 HD
-http://live.tvplayerlatino.com/usuarios/src1/VH1HD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/sY4jC/1a83dde158.png" ,Video Rola
-http://live.tvplayerlatino.com/usuarios/src5/VideoRola/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/q9uoz/89d364b29e.png" ,Virgin TV
-http://live.tvplayerlatino.com/usuarios/src4/VirginTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qez5F/ea76437016.png",VTV2 Chile
-http://live.tvplayerlatino.com/usuarios/src4/VTV2Chile/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png",Warner Channel HD
-http://live.tvplayerlatino.com/usuarios/src1/WarnerChannelHD/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reHTY/cd49899b1c.png",Willax TV
-http://live.tvplayerlatino.com/usuarios/src4/WillaxTV/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports
-http://live.tvplayerlatino.com/usuarios/src5/WinSports/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSP4/eb8b0a0e90.png" ,WOBI
-http://live.tvplayerlatino.com/usuarios/src1/WOBI/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/p9MDp/5a6d5fec70.png",WWE Network
-http://live.tvplayerlatino.com/usuarios/src5/WWENetwork/Elarqi/7qe.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/q8sLF/beeb9d54a2.png",XEWT Tijuana
-http://live.tvplayerlatino.com/usuarios/src1/XEWTTijuana/Elarqi/7qe.m3u8
-
-
-
 
 
 
@@ -4965,6 +5130,13 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1098.ts
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1100.ts
 #EXTINF:-1,|PT| TVI Ficcao
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1099.ts
+
+
+
+
+
+
+
 
 
 
@@ -5277,51 +5449,25 @@ http://109.104.129.196:8001/play/s47
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
 http://..........
 
+#EXTINF:-1,Tring news
+http://91.205.173.193:8081/Shqiptvhd.com/tnews/playlist.m3u8
+#EXTINF:-1,Aksion
+http://91.205.173.193:8081/Shqiptvhd.com/aksion/playlist.m3u8
+#EXTINF:-1,Drame
+http://91.205.173.193:8081/Shqiptvhd.com/drame/playlist.m3u8
+#EXTINF:-1,Komedi
+http://91.205.173.193:8081/Shqiptvhd.com/komedi/playlist.m3u8
+#EXTINF:-1,Triller
+http://91.205.173.193:8081/Shqiptvhd.com/thriller/playlist.m3u8
+#EXTINF:-1,T shqip
+http://91.205.173.193:8081/Shqiptvhd.com/tshqip/playlist.m3u8
+#EXTINF:-1,Shkenc
+http://91.205.173.193:8081/Shqiptvhd.com/shkence/playlist.m3u8
+#EXTINF:-1,Natyra
+http://91.205.173.193:8081/Shqiptvhd.com/natyre/playlist.m3u8
+#EXTINF:-1,Histori
+http://91.205.173.193:8081/Shqiptvhd.com/histori/playlist.m3u8
 
-#EXTINF:-1,ALB:ABC
-http://80.90.84.226:9999/udp/228.2.2.2:30000
-#EXTINF:-1,ALB:KOSOVA
-http://80.90.84.226:9999/udp/228.2.2.3:30000
-#EXTINF:-1,ALB:K PLUS
-http://80.90.84.226:9999/udp/228.2.2.4:30000
-#EXTINF:-1,ALB:ORA NEWS
-http://80.90.84.226:9999/udp/228.2.2.16:30000
-#EXTINF:-1,ALB:1
-http://80.90.84.226:9999/udp/228.2.2.17:30000
-#EXTINF:-1,ALB:1
-http://80.90.84.226:9999/udp/228.2.2.21:30000
-#EXTINF:0,ALB:TRING AUTOR
-http://80.90.84.226:9999/udp/228.2.2.22:30000
-#EXTINF:0,ALB:TRING HITS
-http://80.90.84.226:9999/udp/228.2.2.23:30000
-#EXTINF:0,ALB:TRING THRILLER
-http://80.90.84.226:9999/udp/228.2.2.24:30000
-#EXTINF:0,ALB:TRING DRAME
-http://80.90.84.226:9999/udp/228.2.2.25:30000
-#EXTINF:0,ALB:TRING AKSION
-http://80.90.84.226:9999/udp/228.2.2.26:30000¸
-#EXTINF:0,ALB:TRING KOMEDI
-http://80.90.84.226:9999/udp/228.2.2.27:30000
-#EXTINF:0,ALB:IRING TRING
-http://80.90.84.226:9999/udp/228.2.2.104:30000
-#EXTINF:0,ALB:MY MUSIC
-http://80.90.84.226:9999/udp/228.2.2.221:30000
-#EXTINF:0,ALB:TRING NATYRA
-http://80.90.84.226:9999/udp/228.2.2.227:30000
-#EXTINF:0,ALB:TRING HISTORI
-http://80.90.84.226:9999/udp/228.2.2.226:30000
-#EXTINF:0,ALB:TRING SHKENCE
-http://80.90.84.226:9999/udp/228.2.2.225:30000
-#EXTINF:0,ALB:JUNIOR
-http://80.90.84.226:9999/udp/228.2.2.224:30000
-#EXTINF:0,ALB:CUFO
-http://80.90.84.226:9999/udp/228.2.2.223:30000
-#EXTINF:0,ALB:BANG BANG
-http://80.90.84.226:9999/udp/228.2.2.222:30000
-#EXTINF:0,ALB:MY MUSIC
-http://80.90.84.226:9999/udp/228.2.2.221:30000
-#EXTINF:0,ALB:TOP NEWS
-http://80.90.84.226:9999/udp/228.2.2.220:30000
 
 
 
@@ -9185,371 +9331,50 @@ http://109.235.208.89:1212/udp/224.0.91.226:1234
 #EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
 http://..........
 
-#EXTINF:-1,DTX
-http://188.120.245.65:8000/play/a00j/index.m3u8
-#EXTINF:-1,Домашний
-http://188.120.245.65:8000/play/a00f/index.m3u8
-#EXTINF:-1,Discovery Science
-http://188.120.245.65:8000/play/a00i/index.m3u8
-#EXTINF:-1,Охота и рыбалка
-http://188.120.245.65:8000/play/a00r/index.m3u8
-#EXTINF:-1,National Geographic
-http://188.120.245.65:8000/play/a00k/index.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://188.120.245.65:8000/play/a00o/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://188.120.245.65:8000/play/a00l/index.m3u8
-#EXTINF:-1,Че
-http://188.120.245.65:8000/play/a00q/index.m3u8
-#EXTINF:-1,СТС
-http://188.120.245.65:8000/play/a00d/index.m3u8
-#EXTINF:-1,РОССИЯ 24
-http://188.120.245.65:8000/play/a00g/index.m3u8
-#EXTINF:-1,FOX Life
-http://188.120.245.65:8000/play/a003/index.m3u8
-#EXTINF:-1,Мир
-http://188.120.245.65:8000/play/a005/index.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://188.120.245.65:8000/play/a00n/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://188.120.245.65:8000/play/a00p/index.m3u8
-#EXTINF:-1,Звезда
-http://188.120.245.65:8000/play/a007/index.m3u8
-#EXTINF:-1,ТНТ
-http://188.120.245.65:8000/play/a009/index.m3u8
-#EXTINF:-1,Кинопоказ
-http://188.120.245.65:8000/play/a002/index.m3u8
-#EXTINF:-1,Ю
-http://188.120.245.65:8000/play/a00m/index.m3u8
-#EXTINF:-1,Первый канал
-http://188.120.245.65:8000/play/a00c/index.m3u8
-#EXTINF:-1, Planeta RTR
-http://188.120.245.65:8000/play/a001/index.m3u8
-#EXTINF:-1,НТВ
-http://188.120.245.65:8000/play/a00b/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://188.120.245.65:8000/play/a00h/index.m3u8
-#EXTINF:-1,МУЗ ТВ
-http://188.120.245.65:8000/play/a00e/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:11 group-title=”Russian5”,
-
-#EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
-http://..........
-
-#EXTINF:-1,Россия 1
-http://188.122.235.96:4022/udp/232.0.1.5:1234
-#EXTINF:-1,Россия 24
-http://188.122.235.96:4022/udp/232.0.1.1:1234
-#EXTINF:-1,Россия К
-http://188.122.235.96:4022/udp/232.0.1.6:1234
-#EXTINF:-1,НТВ
-http://188.122.235.96:4022/udp/232.0.1.4:1234
-#EXTINF:-1,Пятый Канал
-http://188.122.235.96:4022/udp/232.0.1.7:1234
-#EXTINF:-1,Самара ГИС
-http://188.122.235.96:4022/udp/232.0.1.8:1234
-#EXTINF:-1,THT Скат
-http://188.122.235.96:4022/udp/232.0.1.9:1234
-#EXTINF:-1,ТВ Центр
-http://188.122.235.96:4022/udp/232.0.1.10:1234
-#EXTINF:-1,Домашний
-http://188.122.235.96:4022/udp/232.0.1.11:1234
-#EXTINF:-1,CTC
-http://188.122.235.96:4022/udp/232.0.1.12:1234
-#EXTINF:-1,Че
-http://188.122.235.96:4022/udp/232.0.1.13:1234
-#EXTINF:-1,РБК
-http://188.122.235.96:4022/udp/232.0.1.14:1234
-#EXTINF:-1,Матч!
-http://188.122.235.96:4022/udp/232.0.1.15:1234
-#EXTINF:-1,M1
-http://188.122.235.96:4022/udp/232.0.1.16:1234
-#EXTINF:-1,Мир
-http://188.122.235.96:4022/udp/232.0.1.17:1234
-#EXTINF:-1,Bridge TV
-http://188.122.235.96:4022/udp/232.0.1.3:1234
-#EXTINF:-1,Bridge TV Dance
-http://188.122.235.96:4022/udp/232.0.1.18:1234
-#EXTINF:-1,Юмор
-http://188.122.235.96:4022/udp/232.0.1.19:1234
-#EXTINF:-1,Карусель
-http://188.122.235.96:4022/udp/232.0.1.20:1234
-#EXTINF:-1,ОТР
-http://188.122.235.96:4022/udp/232.0.1.21:1234
-#EXTINF:-1,XXI
-http://188.122.235.96:4022/udp/232.0.1.22:1234
-#EXTINF:-1,Рен ТВ Терра
-http://188.122.235.96:4022/udp/232.0.1.23:1234
-#EXTINF:-1,ТВ3
-http://188.122.235.96:4022/udp/232.0.1.24:1234
-#EXTINF:-1,Ю ТВ
-http://188.122.235.96:4022/udp/232.0.1.25:1234
-#EXTINF:-1,1HD
-http://188.122.235.96:4022/udp/232.0.1.26:1234
-#EXTINF:-1,Bridge TV Classic
-http://188.122.235.96:4022/udp/232.0.1.27:1234
-#EXTINF:-1,Первый канал
-http://188.122.235.96:4022/udp/232.0.1.28:1234
-#EXTINF:-1,Amedia1
-http://188.122.235.96:4022/udp/232.0.1.29:1234
-#EXTINF:-1,SET HD
-http://188.122.235.96:4022/udp/232.0.1.30:1234
-#EXTINF:-1,Музыка Первого
-http://188.122.235.96:4022/udp/232.0.1.31:1234
-#EXTINF:-1,Русский Роман
-http://188.122.235.96:4022/udp/232.0.1.32:1234
-#EXTINF:-1,Teletravel HD
-http://188.122.235.96:4022/udp/232.0.1.33:1234
-#EXTINF:-1,Матч! Игра
-http://188.122.235.96:4022/udp/232.0.1.34:1234
-#EXTINF:-1,Fox HD
-http://188.122.235.96:4022/udp/232.0.1.35:1234
-#EXTINF:-1,Russia Today HD
-http://188.122.235.96:4022/udp/232.0.1.36:1234
-#EXTINF:-1,Охотник и рыболов HD
-http://188.122.235.96:4022/udp/232.0.1.37:1234
-#EXTINF:-1,Рен ТВ Терра
-http://188.122.235.96:4022/udp/232.0.1.38:1234
-#EXTINF:-1,Nickelodeon
-http://188.122.235.96:4022/udp/232.0.1.39:1234
-#EXTINF:-1,TPO
-http://188.122.235.96:4022/udp/232.0.1.40:1234
-#EXTINF:-1,КХЛ ТВ HD
-http://188.122.235.96:4022/udp/232.0.1.41:1234
-#EXTINF:-1,Мама
-http://188.122.235.96:4022/udp/232.0.1.42:1234
-#EXTINF:-1,Русский Бестселлер
-http://188.122.235.96:4022/udp/232.0.1.43:1234
-#EXTINF:-1,RT
-http://188.122.235.96:4022/udp/232.0.1.44:1234
-#EXTINF:-1,Fashion One HD
-http://188.122.235.96:4022/udp/232.0.1.45:1234
-#EXTINF:-1,Сарафан
-http://188.122.235.96:4022/udp/232.0.1.46:1234
-#EXTINF:-1,Мультимания
-http://188.122.235.96:4022/udp/232.0.1.47:1234
-#EXTINF:-1,Animal Planet
-http://188.122.235.96:4022/udp/232.0.1.48:1234
-#EXTINF:-1,Cartoon Network
-http://188.122.235.96:4022/udp/232.0.1.49:1234
-#EXTINF:-1,Дом Кино
-http://188.122.235.96:4022/udp/232.0.1.50:1234
-#EXTINF:-1,Мир 24
-http://188.122.235.96:4022/udp/232.0.1.51:1234
-#EXTINF:-1,Время
-http://188.122.235.96:4022/udp/232.0.1.52:1234
-#EXTINF:-1,ТелеКафе
-http://188.122.235.96:4022/udp/232.0.1.53:1234
-#EXTINF:-1,RTG HD
-http://188.122.235.96:4022/udp/232.0.1.54:1234
-#EXTINF:-1,Страна
-http://188.122.235.96:4022/udp/232.0.1.55:1234
-#EXTINF:-1,Q HD
-http://188.122.235.96:4022/udp/232.0.1.56:1234
-#EXTINF:-1,Россия 1 HD
-http://188.122.235.96:4022/udp/232.0.1.57:1234
-#EXTINF:-1,Мир HD
-http://188.122.235.96:4022/udp/232.0.1.58:1234
-#EXTINF:-1,Матч! Боец
-http://188.122.235.96:4022/udp/232.0.1.60:1234
-#EXTINF:-1,Санкт-Петербург
-http://188.122.235.96:4022/udp/232.0.1.61:1234
-#EXTINF:-1,ZooПарк
-http://188.122.235.96:4022/udp/232.0.1.62:1234
-#EXTINF:-1,DW
-http://188.122.235.96:4022/udp/232.0.1.63:1234
-#EXTINF:-1,Ani
-http://188.122.235.96:4022/udp/232.0.1.65:1234
-#EXTINF:-1,Russian Music Box
-http://188.122.235.96:4022/udp/232.0.2.1:1234
-#EXTINF:-1,Fashion TV
-http://188.122.235.96:4022/udp/232.0.2.2:1234
-#EXTINF:-1,Россия РТР
-http://188.122.235.96:4022/udp/232.0.2.3:1234
-#EXTINF:-1,2×2
-http://188.122.235.96:4022/udp/232.0.2.4:1234
-#EXTINF:-1,Global Star TV
-http://188.122.235.96:4022/udp/232.0.2.5:1234
-#EXTINF:-1,Раз ТВ
-http://188.122.235.96:4022/udp/232.0.2.6:1234
-#EXTINF:-1,Первый Образовательный
-http://188.122.235.96:4022/udp/232.0.2.8:1234
-#EXTINF:-1,Пятница!
-http://188.122.235.96:4022/udp/232.0.2.9:1234
-#EXTINF:-1,Звезда
-http://188.122.235.96:4022/udp/232.0.2.10:1234
-#EXTINF:-1,ТНВ Планета
-http://188.122.235.96:4022/udp/232.0.2.12:1234
-#EXTINF:-1,ТРО
-http://188.122.235.96:4022/udp/232.0.2.13:1234
-#EXTINF:-1,ТТС
-http://188.122.235.96:4022/udp/232.0.2.14:1234
-#EXTINF:-1,LifeNews
-http://188.122.235.96:4022/udp/232.0.2.15:1234
-#EXTINF:-1,Губерния ТВ
-http://188.122.235.96:4022/udp/232.0.2.16:1234
-#EXTINF:-1,A2
-http://188.122.235.96:4022/udp/232.0.2.17:1234
-#EXTINF:-1,Русский Детектив
-http://188.122.235.96:4022/udp/232.0.2.18:1234
-#EXTINF:-1,RU TV
-http://188.122.235.96:4022/udp/232.0.2.19:1234
-#EXTINF:-1,RUSONG TV
-http://188.122.235.96:4022/udp/232.0.2.20:1234
-#EXTINF:-1,ТНТ Music
-http://188.122.235.96:4022/udp/232.0.2.21:1234
-#EXTINF:-1,Shop 24
-http://188.122.235.96:4022/udp/232.0.2.22:1234
-#EXTINF:-1,Disney Channel
-http://188.122.235.96:4022/udp/232.0.2.23:1234
-#EXTINF:-1,Nano TV
-http://188.122.235.96:4022/udp/232.0.2.24:1234
-#EXTINF:-1,Радость Моя
-http://188.122.235.96:4022/udp/232.0.2.25:1234
-#EXTINF:-1,Союз
-http://188.122.235.96:4022/udp/232.0.2.26:1234
-#EXTINF:-1,Кинопоказ
-http://188.122.235.96:4022/udp/232.0.2.27:1234
-#EXTINF:-1,ДожДь ТВ
-http://188.122.235.96:4022/udp/232.0.2.28:1234
-#EXTINF:-1,EuroNews
-http://188.122.235.96:4022/udp/232.0.2.29:1234
-#EXTINF:-1,Русский Экстрим
-http://188.122.235.96:4022/udp/232.0.2.30:1234
-#EXTINF:-1,Ностальгия
-http://188.122.235.96:4022/udp/232.0.2.31:1234
-#EXTINF:-1,365 дней
-http://188.122.235.96:4022/udp/232.0.2.32:1234
-#EXTINF:-1,Кинокомедия
-http://188.122.235.96:4022/udp/232.0.2.33:1234
-#EXTINF:-1,Индийское Кино
-http://188.122.235.96:4022/udp/232.0.2.34:1234
-#EXTINF:-1,ТБН
-http://188.122.235.96:4022/udp/232.0.2.35:1234
-#EXTINF:-1,Киносерия
-http://188.122.235.96:4022/udp/232.0.2.36:1234
-#EXTINF:-1,Муз ТВ
-http://188.122.235.96:4022/udp/232.0.2.37:1234
-#EXTINF:-1,Кухня ТВ
-http://188.122.235.96:4022/udp/232.0.2.38:1234
-#EXTINF:-1,Авто Плюс
-http://188.122.235.96:4022/udp/232.0.2.39:1234
-#EXTINF:-1,Кино ТВ
-http://188.122.235.96:4022/udp/232.0.2.40:1234
-#EXTINF:-1,Матч! Арена HD
-http://188.122.235.96:4022/udp/232.0.2.41:1234
-#EXTINF:-1,Fox Life HD
-http://188.122.235.96:4022/udp/232.0.2.43:1234
-#EXTINF:-1,Охотник и Рыболов
-http://188.122.235.96:4022/udp/232.0.2.44:1234
-#EXTINF:-1,Телепутешествия
-http://188.122.235.96:4022/udp/232.0.2.45:1234
-#EXTINF:-1,Рыжий
-http://188.122.235.96:4022/udp/232.0.2.46:1234
-#EXTINF:-1,Fox Life
-http://188.122.235.96:4022/udp/232.0.2.47:1234
-#EXTINF:-1,CTC Love
-http://188.122.235.96:4022/udp/232.0.2.48:1234
-#EXTINF:-1,Детский
-http://188.122.235.96:4022/udp/232.0.2.49:1234
-#EXTINF:-1,Life 78
-http://188.122.235.96:4022/udp/232.0.2.50:1234
-#EXTINF:-1,MTV Live HD
-http://188.122.235.96:4022/udp/232.0.2.51:1234
-#EXTINF:-1,TLC
-http://188.122.235.96:4022/udp/232.0.2.52:1234
-#EXTINF:-1,Моя Планета
-http://188.122.235.96:4022/udp/232.0.2.53:1234
-#EXTINF:-1,Amedia Premium HD
-http://188.122.235.96:4022/udp/232.0.2.54:1234
-#EXTINF:-1,Тонус ТВ
-http://188.122.235.96:4022/udp/232.0.2.55:1234
-#EXTINF:-1,Пятый канал
-http://188.122.235.96:4022/udp/232.0.2.56:1234
-#EXTINF:-1,Русский Иллюзион
-http://188.122.235.96:4022/udp/232.0.2.57:1234
-#EXTINF:-1,Еда HD
-http://188.122.235.96:4022/udp/232.0.2.58:1234
-#EXTINF:-1,Иллюзион+
-http://188.122.235.96:4022/udp/232.0.2.59:1234
-#EXTINF:-1,История
-http://188.122.235.96:4022/udp/232.0.2.60:1234
-#EXTINF:-1,Russia Today Doc
-http://188.122.235.96:4022/udp/232.0.2.61:1234
-#EXTINF:-1,Russia Today Doc HD
-http://188.122.235.96:4022/udp/232.0.2.62:1234
-#EXTINF:-1,Luxury
-http://188.122.235.96:4022/udp/232.0.2.63:1234
-#EXTINF:-1,Футбол
-http://188.122.235.96:4022/udp/232.0.2.64:1234
-#EXTINF:-1,Первый канал HD
-http://188.122.235.96:4022/udp/232.1.20.4:1234
-#EXTINF:-1,8 канал
-http://188.122.235.96:4022/udp/232.1.22.1:1234
-#EXTINF:-1,Кубань 24
-http://188.122.235.96:4022/udp/232.1.22.2:1234
-#EXTINF:-1,Music Box
-http://188.122.235.96:4022/udp/232.0.2.1:1235
-#EXTINF:-1,Авто 24
-http://188.122.235.96:4022/udp/232.0.2.11:1235
-#EXTINF:-1,КХЛ ТВ
-http://188.122.235.96:4022/udp/232.0.2.17:1235
-#EXTINF:-1,RU TV
-http://188.122.235.96:4022/udp/232.0.2.19:1235
-#EXTINF:-1,Звезда
-http://188.122.235.96:4022/udp/232.0.2.18:1235
-#EXTINF:-1,MB Самара
-http://188.122.235.96:4022/udp/232.0.2.35:1235
-#EXTINF:-1,BBC World News
-http://188.122.235.96:4022/udp/232.0.2.42:1235
-#EXTINF:-1,Спас
-http://188.122.235.96:4022/udp/232.0.2.59:1235
-#EXTINF:-1,WBC HD
-http://188.122.235.96:4022/udp/232.0.2.63:1235
-#EXTINF:-1,Россия 1
-http://188.122.235.96:4022/udp/232.0.1.5:1235
-#EXTINF:-1,ТСМ Самара
-http://188.122.235.96:4022/udp/232.0.1.8:1235
-#EXTINF:-1,THT
-http://188.122.235.96:4022/udp/232.0.1.9:1235
-#EXTINF:-1,Домашний
-http://188.122.235.96:4022/udp/232.0.1.11:1235
-#EXTINF:-1,CTC
-http://188.122.235.96:4022/udp/232.0.1.12:1235
-#EXTINF:-1,Матч!
-http://188.122.235.96:4022/udp/232.0.1.15:1235
-#EXTINF:-1,РЖД ТВ HD
-http://188.122.235.96:4022/udp/232.0.1.22:1235
-#EXTINF:-1,Рен ТВ
-http://188.122.235.96:4022/udp/232.0.1.23:1235
-#EXTINF:-1,ЕвроКино
-http://188.122.235.96:4022/udp/232.0.1.62:1235
-#EXTINF:-1,France 24
-http://188.122.235.96:4022/udp/232.0.1.63:1235
-#EXTINF:-1,Discovery Channel
-http://188.122.235.96:4022/udp/232.0.1.64:1235
-#EXTINF:-1,Europa Plus TV
-http://188.122.235.96:4022/udp/232.1.4.2:1235
-#EXTINF:-1,Инфоканал
-http://188.122.235.96:4022/udp/232.1.10.1:1234
+#EXTINF:-1, 10 Матч! Боец
+http://84.201.238.108:5055/play/10/index.m3u8
+#EXTINF:-1, 13 Матч! Футбол 1 HD
+http://84.201.238.108:5055/play/13/index.m3u8
+#EXTINF:-1, 02 Setanta HD
+http://84.201.238.108:5055/play/02/index.m3u8
+#EXTINF:-1, 16 Матч! Арена HD
+http://84.201.238.108:5055/play/16/index.m3u8
+#EXTINF:-1, 15 Матч! Футбол 3 HD
+http://84.201.238.108:5055/play/15/index.m3u8
+#EXTINF:-1, 14 Матч! Футбол 2 HD
+http://84.201.238.108:5055/play/14/index.m3u8
+#EXTINF:-1, 18 Наш Футбол HD
+http://84.201.238.108:5055/play/18/index.m3u8
+#EXTINF:-1, 17 Матч! ТВ HD
+http://84.201.238.108:5055/play/17/index.m3u8
+#EXTINF:-1, 11 Матч! Наш спорт
+http://84.201.238.108:5055/play/11/index.m3u8
+#EXTINF:-1, 19 Viasat
+http://84.201.238.108:5055/play/19/index.m3u8
+#EXTINF:-1, 09 Eurosport 2 HD
+http://84.201.238.108:5055/play/09/index.m3u8
+#EXTINF:-1, Bet eng page 2
+http://84.201.238.108:5055/play/a001/index.m3u8
+#EXTINF:-1, 07 КХЛ ТВ
+http://84.201.238.108:5055/play/07/index.m3u8
+#EXTINF:-1, 08 Eurosport HD
+http://84.201.238.108:5055/play/08/index.m3u8
+#EXTINF:-1, 04 Спорт 1 (Укр)
+http://84.201.238.108:5055/play/04/index.m3u8
+#EXTINF:-1, 03 Setanta+ HD
+http://84.201.238.108:5055/play/03/index.m3u8
+#EXTINF:-1, 06 КХЛ HD
+http://84.201.238.108:5055/play/06/index.m3u8
+#EXTINF:-1, 05 Спорт 2 (Укр)
+http://84.201.238.108:5055/play/05/index.m3u8
+#EXTINF:-1, 12 Матч! Игра HD
+http://84.201.238.108:5055/play/12/index.m3u8
+#EXTINF:-1, 00 Infochannel Crowne Plaza Minsk
+http://84.201.238.108:5055/play/00/index.m3u8
+#EXTINF:-1, 01 Беларусь 5
+http://84.201.238.108:5055/play/01/index.m3u8
+#EXTINF:-1, Bet eng page 1
+http://84.201.238.108:5055/play/bet01/index.m3u8
 
 
 
