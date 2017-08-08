@@ -240,6 +240,54 @@ sop://broker.sopcast.com:3912/148252
 
 
 
+#EXTINF:1 group-title=”Bulgaria/Acestream”, 
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Choose Acestream
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,as player if
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,not open
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,automatically
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+
+#EXTINF:-1,bTV BG 
+acestream://666c78c333a28126b8ae4e119c6be99d998bae83
+#EXTINF:-1,CITY TV BG 
+acestream://0bcf6dfeae0174e9e5bdd012083c2b3371e356fa
+#EXTINF:-1,TV EVROPA 
+acestream://5d8f17e50ff9111d540a20b3ffc1c1889035375f
+#EXTINF:-1,BG on AIR 
+acestream://3a4172e5ea528417d5bd89d219e43066f06a9b56
+#EXTINF:-1,BiT 
+acestream://fe58bfb229c131c1e19b11d42b8c2fccb5aed080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:1 group-title=”KIDS-1 (Russian-English)/Acestream”, 
 
