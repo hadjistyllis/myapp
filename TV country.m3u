@@ -149,14 +149,14 @@ rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (MxPlayer)
 http://bit.ly/ant1gr1
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1000_av-p.m3u8?sd=10&rebase=on
+http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (MxPlayer)
 http://bit.ly/megagr1
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 http://bit.ly/grmega3
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 https://www.youtube.com/watch?v=tug1qABlQ-M
-#EXTINF:0,MEGA COSMOS
+#EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (MxPlayer)
 http://bit.ly/skaigr1
@@ -172,7 +172,7 @@ http://bit.ly/gralpha3
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
-#EXTINF:0,ALPHA SAT
+#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
 http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
