@@ -63,26 +63,40 @@ http://bit.ly/2lsCEqq
 https://hls.fearfulale.xyz/s/rik1gjk34395/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2 (MxPlayer)
 http://bit.ly/2mrZ5vq
+#EXTINF:0 tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2 
+https://hls.fearfulale.xyz/s/rik2as6630/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA (MxPlayer)
 http://bit.ly/2lL7u8Z
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-https://hls.fearfulale.xyz/s/sigmamy4617/22a3687fa0f4048a2d8a671d5122b15c.m3u8?
+https://hls.fearfulale.xyz/s/sigmamy4617/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://primetel.com.cy/tvg/logos/295.png ,ALPHA CY
 http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://primetel.com.cy/tvg/logos/295.png ,ALPHA CY
+http://81.171.14.113/alphacy/acy/l4/a2/playlist.m3u8
 #EXTINF:0 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE (MxPlayer)
 http://bit.ly/2maGWBj
 #EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
 http://bit.ly/megaone1
+#EXTINF:-1 tvg-logo=http://thefaq.gr/wp-content/uploads/2016/10/mega-one.jpg ,MEGAONE
+https://hls.fearfulale.xyz/s/mega987/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1 (MxPlayer)
 http://bit.ly/2mskYL9
+#EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1
+https://hls.fearfulale.xyz/s/ant1b641/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital (MxPlayer)
 http://bit.ly/2m7JW00
+#EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital 
+https://hls.fearfulale.xyz/s/capf888/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus (MxPlayer)
 http://bit.ly/2lsBlrE
+#EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus
+https://hls.fearfulale.xyz/s/plusj843/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA (MxPlayer)
 http://bit.ly/2mpLp3F
+#EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
+https://hls.fearfulale.xyz/s/extraj500/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/images/logo2.png ,TV Mall
 https://youtu.be/46k1mMe_DYE
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
