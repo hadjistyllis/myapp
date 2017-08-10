@@ -304,7 +304,7 @@ rtmp://stream2.svbllc.com:1935/4e/4e.stream
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/ablVkW ,WZRA KID'S GR
 mmsh://wpso.com:200/kids?MSWMExt=.asf
-#EXTINF:-1,Smile
+#EXTINF:-1 tvg-logo=http://1.bp.blogspot.com/-Ir5RdKuI8cs/URzrgEvpHPI/AAAAAAAAMig/oUocPKd5Gy4/s1600/smilecartoons.jpg ,Smile
 http://bit.ly/grsmile3
 #EXTINF:0,Nickelodeon
 http://bit.ly/2lLgg6P
