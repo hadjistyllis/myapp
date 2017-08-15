@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,11/8/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,15/8/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -47,39 +47,29 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 #EXTINF:-1,Animal Planet
 http://195.189.249.6:8000/play/a007/index.m3u8
 #EXTINF:-1,Animal Planet
-http://95.158.3.34:8888/udp/239.8.0.7:1234
-#EXTINF:-1,Animal Planet
-http://62.106.116.20:4022/udp/232.0.1.48:1234
-#EXTINF:-1,Animal Planet HD
-http://95.158.3.34:8888/udp/239.8.0.49:1234
+http://5.28.29.57:4022/udp/232.0.1.48:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/citekipafile.jpg" tvg-id="dc8709e02223e4a5f91d93ee855bc5d3",Animal Planet
+http://212.232.62.136:29981/stream/channelid/1611237340?ticket=3DCC80DFFC4A6BC3C7E277082B7ACED9BD577ECF&profile=pass
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic
 http://195.189.249.6:8000/play/a005/index.m3u8
-#EXTINF:-1,National Geographic
-http://95.158.3.34:8888/udp/239.8.0.9:1234
-#EXTINF:-1,National Geographic HD
-http://95.158.3.34:8888/udp/239.8.0.20:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/mekecadakapu.jpg" tvg-id="a27ab2f4da0218de07cf0776f4472d4b",National Geographic
+http://212.232.62.136:29981/stream/channelid/1957853858?ticket=7A3ED44E01DD6AC161F41E738DF4C996A337A004&profile=pass
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
 #EXTINF:-1,Nat Geo Wild
 http://195.189.249.6:8000/play/a008/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://95.158.3.34:8888/udp/239.8.0.10:1234
-#EXTINF:-1,Nat Geo Wild HD
-http://95.158.3.34:8888/udp/239.8.0.46:1234
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:0,Discovery Channel
 http://82.200.127.58:8080/udp/239.54.6.199:1224
+#EXTINF:-1,Discovery Channel
+http://5.28.29.57:4022/udp/232.0.1.64:1235
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/xitatotemovo.jpg" tvg-id="56ebc427dfbbd9791b5557d64d72bf9c",Discovery Channel
+http://212.232.62.136:29981/stream/channelid/667216726?ticket=C419E1F245908E3783045935EC255C4D30FFD730&profile=pass
 #EXTINF:0,Discovery Channel
 http://185.22.78.72:9001/play/a00h
-#EXTINF:-1,Discovery Channel
-http://95.158.3.34:8888/udp/239.8.0.8:1234
-#EXTINF:-1,Discovery Channel
-http://62.106.116.20:4022/udp/232.0.1.64:1235
-#EXTINF:-1,Discovery HD
-http://95.158.3.34:8888/udp/239.8.0.14:1234
 #EXTINF:-1,Discovery HD
 http://195.189.249.6:8000/play/a004/index.m3u8
 #EXTINF:0,Discovery World
@@ -92,18 +82,18 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 http://185.22.78.72:9001/play/a00k
 #EXTINF:-1,Discovery Science
 http://195.189.249.6:8000/play/a006/index.m3u8
-#EXTINF:-1,Discovery Science
-http://95.158.3.34:8888/udp/239.8.0.4:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/jicaxijopede.jpg" tvg-id="98b511d72217404640ba02fddab57905",Discovery Science
+http://212.232.62.136:29981/stream/channelid/1460778392?ticket=176AE65C32FDFBC2CF7224AC3228CBA595883D3C&profile=pass
 #EXTINF:-1,Discovery History
 http://185.22.78.72:9001/play/a00l
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Investigation Discovery
 http://185.22.78.72:9001/play/a00p
-#EXTINF:-1,ID Xtra
-http://95.158.3.34:8888/udp/239.8.0.5:1234
-#EXTINF:-1,DTX
-http://95.158.3.34:8888/udp/239.8.0.6:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/lozewasoguru.jpeg" tvg-id="b5f60dfd70165cc686d4f7628034c251",ID Xtra
+http://212.232.62.136:29981/stream/channelid/2098067125?ticket=D2CB3DA907B57154291D41180D7E33B06756D6AC&profile=pass
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/sodunogagafe.jpeg" tvg-id="a0ef11ce81f27bc0d597259b2097bd2f",DTX
+http://212.232.62.136:29981/stream/channelid/1309798304?ticket=67EBCACBBD58A56191FCD5C9F1AC85A433B03441&profile=pass
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:0,FOX
@@ -112,24 +102,22 @@ http://37.194.121.4:1234/udp/239.1.4.5:1234
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox
 http://195.189.249.6:8000/play/a00f/index.m3u8
-#EXTINF:-1,Fox HD
-http://62.106.116.20:4022/udp/232.0.1.35:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,Fox Life
-http://62.106.116.20:4022/udp/232.0.2.47:1234
+http://5.28.29.57:4022/udp/232.0.2.47:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/lotakejilegu.png" tvg-id="62806e8e979fb6098a019ee3d618eb48",Fox Life
+http://212.232.62.136:29981/stream/channelid/242122850?ticket=68BFF393A88BE2C9221A3A08F8625542B510A137&profile=pass
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,TLC
+http://5.28.29.57:4022/udp/232.0.2.52:1234
+#EXTINF:-1,TLC
 http://195.189.249.6:8000/play/a00b/index.m3u8
-#EXTINF:-1,TLC
-http://95.158.3.34:8888/udp/239.8.0.58:1234
-#EXTINF:-1,TLC
-http://62.106.116.20:4022/udp/232.0.2.52:1234
-#EXTINF:-1,TLC HD
-http://95.158.3.34:8888/udp/239.8.0.59:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/tojicadegiri.jpg" tvg-id="1baf5c42cbcdb3d97c04614c14217df9",TLC
+http://212.232.62.136:29981/stream/channelid/1113370395?ticket=6C687D348FFD287246A99FAF9692B9118CBEC95E&profile=pass
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,London Live
@@ -179,9 +167,11 @@ http://95.82.241.148:81//udp/239.255.2.144:1234
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
-http://62.106.116.20:4022/udp/232.0.1.49:1234
+http://5.28.29.57:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://195.189.249.6:8000/play/a00h/index.m3u8
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/jagijoloxamo.gif" tvg-id="053dd684a50ae7f39e0d9a841cb01a84",Cartoon Network
+http://212.232.62.136:29981/stream/channelid/81149189?ticket=B350FDC4EB39EC524ED121CE10280ABE639B1334&profile=pass
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
@@ -190,7 +180,9 @@ http://37.194.121.4:1234/udp/239.1.3.4:1234
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
 #EXTINF:-1,Nickelodeon
-http://62.106.116.20:4022/udp/232.0.1.39:1234
+http://5.28.29.57:4022/udp/232.0.1.39:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/mopabiritazo.jpg" tvg-id="82e7caeb7e34d30a6002d80e900353a1",Nickelodeon
+http://212.232.62.136:29981/stream/channelid/1808459650?ticket=705CA5815DB77973F066A827AF545E5705985E1A&profile=pass
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
 #EXTINF:0,Nick Jr
@@ -199,8 +191,6 @@ http://37.49.213.11:81/udp/239.54.7.5:1224
 http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
-#EXTINF:-1,Nick jr.
-http://95.158.3.34:8888/udp/239.7.0.4:1234
 #EXTINF:0,Toonami
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 #EXTINF:-1,TiJi (RU)
@@ -239,12 +229,14 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1,MTV Live HD
-http://62.106.116.20:4022/udp/232.0.2.51:1234
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Hits 
 http://185.53.163.216:33107 
+#EXTINF:-1,MTV Live HD
+http://5.28.29.57:4022/udp/232.0.2.51:1234
+#EXTINF:-1 logo="http://tv.yarnet.ru/resources/images/channels/razeremesiro.jpg" tvg-id="3e7861afefbd3f29063b01936aa0cb54",MTV Dance
+http://212.232.62.136:29981/stream/channelid/794916926?ticket=8B3A3FCBA3E0A13D4643EDB91021F3354F885FDB&profile=pass
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -410,6 +402,20 @@ http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1,Superport 4 
 http://81.7.13.162/hls/ss4/index.m3u8
 
+#EXTINF:-1,SPORT 4
+https://hls.fearfulale.xyz/s/fod4572/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=DHFNE5j–cxcPH7EFJdwJg
+#EXTINF:-1,SPORT 5
+https://hls.fearfulale.xyz/s/fod5555954/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=A9LjO9T52aA-Z68yoL2LPw
+#EXTINF:-1,SPORT 6
+https://hls.fearfulale.xyz/s/fod6338/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=F1LPbQOdJ4geVX3UA4Y5_A
+#EXTINF:-1,SPORT 7
+https://hls.fearfulale.xyz/s/fod7697/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=KiBa3YPALXZlOCF3gZg_Hw
+#EXTINF:-1,SPORT 8
+https://hls.fearfulale.xyz/s/fod8664/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=xd8BqFKnz4-YkKX9zNGyQw
+#EXTINF:-1,SPORT 9
+https://hls.fearfulale.xyz/s/my011787/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=cZJVe91mXSZN3n88pd9AQw
+#EXTINF:-1,SPORT 10
+https://hls.fearfulale.xyz/s/my012635/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=Ax7ivyJaFoGDwLee0Pii1w
 
 #EXTINF:-1, SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
