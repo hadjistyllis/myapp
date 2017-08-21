@@ -48,16 +48,30 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 http://5.28.29.57:4022/udp/232.0.1.48:1234
 #EXTINF:0,Animal Planet
 http://37.9.154.4:4022/udp/232.0.1.48:1234
+#EXTINF:0,Animal Planet
+http://62.106.113.207:4022/udp/232.0.1.48:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
+#EXTINF:0,National Geographic
+http://89.23.171.65:3371/udp/239.1.10.29:1234
+#EXTINF:0,National Geographic
+http://185.37.168.6:7284//udp/239.255.4.11:15100
 #EXTINF:0,National Geographic HD
 http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
+#EXTINF:0,Nat Geo WILD
+http://185.37.168.6:7284//udp/239.255.4.9:15103
+#EXTINF:0,Nat Geo WILD
+http://178.216.177.47:8122/udp/239.1.11.27:1234
+#EXTINF:0,Nat Geo WILD
+http://89.23.171.65:3371/udp/239.1.11.27:1234
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:0,Discovery Channel
 http://82.200.127.58:8080/udp/239.54.6.199:1224
 #EXTINF:-1,Discovery Channel
 http://5.28.29.57:4022/udp/232.0.1.64:1235
+#EXTINF:-1,Discovery Channel
+http://109.226.118.41:4022/udp/232.0.1.64:1235
 #EXTINF:0,Discovery Channel
 http://185.22.78.72:9001/play/a00h
 #EXTINF:0,Discovery World
@@ -67,11 +81,15 @@ http://185.22.78.72:9001/play/a00n
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:0,Discovery Science
+http://194.28.155.227:81/udp/238.0.3.29:1234
+#EXTINF:0,Discovery Science
 http://185.22.78.72:9001/play/a00k
 #EXTINF:-1,Discovery History
 http://185.22.78.72:9001/play/a00l
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
+#EXTINF:0,Investigation Discovery
+http://185.37.168.6:7284//udp/239.255.4.11:15106
 #EXTINF:0,Investigation Discovery
 http://185.22.78.72:9001/play/a00p
 #EXTINF:0,DTX
