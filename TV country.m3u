@@ -6271,7 +6271,14 @@ http://s01-test.ml/lstream4/get/infinity/ship/317.flv
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
 
-
+#EXTINF:-1,RTP 1
+http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,SIC
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+#EXTINF:-1,TVI
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1,CANÇÃO NOVA [144p] 
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_162_av-b.m3u8 
 #EXTINF:-1,CANÇÃO NOVA [240p] 
