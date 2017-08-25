@@ -6624,6 +6624,10 @@ http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
 #EXTINF:-1,TVI
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 #EXTINF:-1,CANÇÃO NOVA [144p] 
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_162_av-b.m3u8 
 #EXTINF:-1,CANÇÃO NOVA [240p] 
@@ -6886,6 +6890,292 @@ http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7745.ts
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Portugal2-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it will stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WILL WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+
+#EXTINF:-1,PT| 24 KITCHEN
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17874.ts
+#EXTINF:-1,PT| A & E
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17873.ts
+#EXTINF:-1,PT| A Bola TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17832.ts
+#EXTINF:-1,PT| Afro Music
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17851.ts
+#EXTINF:-1,PT| AMC
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17831.ts
+#EXTINF:-1,PT| ARTV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17830.ts
+#EXTINF:-1,PT| AXN
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17872.ts
+#EXTINF:-1,PT| AXN Black HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17886.ts
+#EXTINF:-1,PT| AXN HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17888.ts
+#EXTINF:-1,PT| AXN WHITE HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17887.ts
+#EXTINF:-1,PT| Baby TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17829.ts
+#EXTINF:-1,PT| Benfica Tv 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17899.ts
+#EXTINF:-1,PT| Benfica Tv 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17898.ts
+#EXTINF:-1,PT| BTV 1 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17850.ts
+#EXTINF:-1,PT| CAÇA & PESCA
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17871.ts
+#EXTINF:-1,PT| Canal de Historia
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17845.ts
+#EXTINF:-1,PT| CANAL Q
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17870.ts
+#EXTINF:-1,PT| CARTON NETWORK
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17839.ts
+#EXTINF:-1,PT| CARTOON  NETWORK
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17869.ts
+#EXTINF:-1,PT| CBS REALITY
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17868.ts
+#EXTINF:-1,PT| Chelsea TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17846.ts
+#EXTINF:-1,PT| CINE MUNDO HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17838.ts
+#EXTINF:-1,PT| CMTV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17877.ts
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17878.ts
+#EXTINF:-1,PT| Discovery HD Showcase
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17867.ts
+#EXTINF:-1,PT| Disney Channel
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17827.ts
+#EXTINF:-1,PT| DISNEY JUNIOR
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17866.ts
+#EXTINF:-1,PT| E! Entertainment
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17893.ts
+#EXTINF:-1,PT| Económico TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17875.ts
+#EXTINF:-1,PT| Eurosport
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17894.ts
+#EXTINF:-1,PT| EUROSPORT 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17897.ts
+#EXTINF:-1,PT| Fox
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17876.ts
+#EXTINF:-1,PT| Fox Comedy
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17865.ts
+#EXTINF:-1,PT| Fox Crime
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17890.ts
+#EXTINF:-1,PT| FOX LIFE
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17864.ts
+#EXTINF:-1,PT| FOX MOVE
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17889.ts
+#EXTINF:-1,PT| FOX MOVIES
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17834.ts
+#EXTINF:-1,PT| FOX TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17863.ts
+#EXTINF:-1,PT| FUEL TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17862.ts
+#EXTINF:-1,PT| GLOBO TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17883.ts
+#EXTINF:-1,PT| HOLLYWOOD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17861.ts
+#EXTINF:-1,PT| Jim Jam
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17835.ts
+#EXTINF:-1,PT| JimJam EMEA
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17828.ts
+#EXTINF:-1,PT| KOMBAT SPORTS
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17837.ts
+#EXTINF:-1,PT| MCM TOP
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17849.ts
+#EXTINF:-1,PT| Motors TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17895.ts
+#EXTINF:-1,PT| MOTORVISION TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17860.ts
+#EXTINF:-1,PT| MOV HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17891.ts
+#EXTINF:-1,PT| MTV Dance
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17848.ts
+#EXTINF:-1,PT| MTV PORTUGAL
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17833.ts
+#EXTINF:-1,PT| Nat Geo Wild
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17879.ts
+#EXTINF:-1,PT| Nat Geographic
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17842.ts
+#EXTINF:-1,PT| NICKELODEON
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17844.ts
+#EXTINF:-1,PT| Odisseia
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17880.ts
+#EXTINF:-1,PT| PANDA BIGGS
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17881.ts
+#EXTINF:-1,PT| PANDA HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17843.ts
+#EXTINF:-1,PT| PFC
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17859.ts
+#EXTINF:-1,PT| PORTO CANAL
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17858.ts
+#EXTINF:-1,PT| RTP 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17910.ts
+#EXTINF:-1,PT| RTP 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17909.ts
+#EXTINF:-1,PT| RTP 3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17841.ts
+#EXTINF:-1,PT| RTP Acores
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17905.ts
+#EXTINF:-1,PT| RTP Africa
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17906.ts
+#EXTINF:-1,PT| RTP Madeira
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17907.ts
+#EXTINF:-1,PT| RTP Memoria
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17908.ts
+#EXTINF:-1,PT| SIC
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17916.ts
+#EXTINF:-1,PT| SIC CARAS
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17911.ts
+#EXTINF:-1,PT| SIC Kids
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17913.ts
+#EXTINF:-1,PT| SIC MULHER
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17912.ts
+#EXTINF:-1,PT| SIC NOTICIAS
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17914.ts
+#EXTINF:-1,PT| SIC RADICAL
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17915.ts
+#EXTINF:-1,PT| SPORT TV 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17904.ts
+#EXTINF:-1,PT| Sport TV 1 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17896.ts
+#EXTINF:-1,PT| SPORT TV 5
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17900.ts
+#EXTINF:-1,PT| Sporting TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17884.ts
+#EXTINF:-1,PT| SYFY
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17892.ts
+#EXTINF:-1,PT| TLC
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17857.ts
+#EXTINF:-1,PT| TOUROS TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17856.ts
+#EXTINF:-1,PT| TV CINE 1  HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17855.ts
+#EXTINF:-1,PT| TV CINE 2  HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17854.ts
+#EXTINF:-1,PT| TV CINE 3 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17853.ts
+#EXTINF:-1,PT| TV CINE 4
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17852.ts
+#EXTINF:-1,PT| TV Globo Premium
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17885.ts
+#EXTINF:-1,PT| TV RECORD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17847.ts
+#EXTINF:-1,PT| TVC 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17922.ts
+#EXTINF:-1,PT| TVC 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17921.ts
+#EXTINF:-1,PT| TVC 3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17920.ts
+#EXTINF:-1,PT| TVC 4
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17919.ts
+#EXTINF:-1,PT| TVC SERIES
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17836.ts
+#EXTINF:-1,PT| TVI
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17923.ts
+#EXTINF:-1,PT| TVI 24
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17918.ts
+#EXTINF:-1,PT| TVI Ficção
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17840.ts
+#EXTINF:-1,PT| TVI REALITY
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17917.ts
+#EXTINF:-1,PT| VH1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17882.ts
+#EXTINF:-1,PT: Sport TV2 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16659.ts
+#EXTINF:-1,PT: Sport TV3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16655.ts
+#EXTINF:-1,PT: Sporting TV
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16652.ts
+#EXTINF:-1,PT| Sport TV 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16812.ts
+#EXTINF:-1,PT| Sport TV 3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16811.ts
+#EXTINF:-1,PT| Sport TV 4
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16809.ts
+#EXTINF:-1,PT| Sport TV1 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16814.ts
+#EXTINF:-1,PT| Sport TV2 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16813.ts
+#EXTINF:-1,PT| Sport TV3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16810.ts
+#EXTINF:-1,PT: Sport TV 1
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16658.ts
+#EXTINF:-1,PT: Sport TV 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16657.ts
+#EXTINF:-1,PT: Sport TV 3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16656.ts
+#EXTINF:-1,PT: Sport TV 4
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16654.ts
+#EXTINF:-1,PT: Sport TV 5
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16653.ts
+#EXTINF:-1,PT: Sport TV1 HD
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/16660.ts
+#EXTINF:-1,PT-SPORT TV 2
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17903.ts
+#EXTINF:-1,PT-SPORT TV 3
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17902.ts
+#EXTINF:-1,PT|SPORT TV 4
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/17901.ts
+#EXTINF:-1,PT| DISCOVERY SHOWCASE HD (Backup)
+http://portal.softclientarea.com:9100/live/m5p9Hijcno/XPUMnVr5bX/19046.ts
 
 
 
