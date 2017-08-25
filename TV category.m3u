@@ -363,40 +363,7 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1,AR: BEIN SPORT NEWS
 https://www.youtube.com/watch?v=9A6j2L2fEM8
 
-#EXTINF:-1,bein 1
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-#EXTINF:-1,bein 2
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
-#EXTINF:-1,bein 3
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
-#EXTINF:-1,bein 4
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
-#EXTINF:-1,bein 5
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
-#EXTINF:-1,bein 6
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
-#EXTINF:-1,bein 7
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
-#EXTINF:-1,bein 8
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
-#EXTINF:-1,bein 9
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
-#EXTINF:-1,bein 10
-http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
-#EXTINF:-1,Falcon Eye
-http://sstvb1.vdmscdn.com/local-Falcon-HD/tracks-v1a1/index.m3u8
-#EXTINF:-1,Falcon Eye 2
-http://sstvb1.vdmscdn.com/local-Falcon-Eye2-HD/tracks-v1a1/index.m3u8
-#EXTINF:-1,Biaban Sport
-http://sstvb1.vdmscdn.com:80/local-Biaban-Sport/tracks-v1a1/index.m3u8
-#EXTINF:-1,Aso Sport
-http://sstvb1.vdmscdn.com/local-AsoSport/tracks-v1a1/index.m3u8
-#EXTINF:-1,ASport
-http://sstvb1.vdmscdn.com/local-ASport/tracks-v1a1/index.m3u8
-#EXTINF:-1,Kurdistan Sport
-http://sstvb1.vdmscdn.com/local-KurdistanSport/tracks-v1a1/index.m3u8
-#EXTINF:-1,Gk Sport
-http://sstvb1.vdmscdn.com/local-GK-Sport/tracks-v1a1/index.m3u8
+
 
 
 #EXTINF:-1,ADSport 1HD 
