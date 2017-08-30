@@ -118,21 +118,21 @@ http://..........
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 (MxPlayer)
 http://bit.ly/ert1gr1
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1
-http://bit.do/grert1
+mmsh://38.99.163.111:80/net?sid=BD5F4322-59A4-3D9K-8B5A-61DC29EA64EE&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 (MxPlayer)
 http://bit.ly/ert2gr1
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 
-http://bit.do/grert2
+mmsh://38.99.163.111:80/ERT2?sid=36368084-829E-3D9K-863E-EE4751AC1789&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WorldWide WebTV
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 (MxPlayer)
 http://bit.ly/ert3gr1
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3
-http://bit.do/grert3
+mmsh://38.99.163.111:80/ERTHD?sid=45D848CE-34E4-3D9K-AFFC-07AA04621130&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV
-https://www.youtube.com/watch?v=O3Hs5AZqi4U
+https://www.youtube.com/watch?v=ECbJrjrcCUE
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/Ba4voPNmZUU/maxresdefault_live.jpg ,ERT Play WorldWide WebTV
@@ -158,7 +158,7 @@ http://bit.ly/skaigr1
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://bit.do/grskai1
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
-https://www.youtube.com/watch?v=E3objzlER3s
+https://www.youtube.com/watch?v=vXDT-96pkD4
 #EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (MxPlayer)
 http://bit.ly/alphagr1
 #EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (MxPlayer)
