@@ -1175,7 +1175,12 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-
+#EXTINF:-1, BT Sports 1 
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8 
+#EXTINF:-1, BT Sports 2 
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8 
+#EXTINF:-1, BT Sports 3 
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/index.m3u8
 
 
 
@@ -6679,16 +6684,7 @@ mms://62.162.58.55/TVOrbis
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
 http://..........
 
-#EXTINF:-1,Abc News HD
-http://109.104.129.196:8000/play/s23
-#EXTINF:-1,Klan Kosova HD
-http://109.104.129.196:8000/play/s24
-#EXTINF:-1,Klan Plus HD
-http://109.104.129.196:8000/play/s25
-#EXTINF:-1,Klan Shop
-http://109.104.129.196:8000/play/s26
-#EXTINF:-1,Klan Test
-http://109.104.129.196:8000/play/s27
+
 #EXTINF:-1,ORA NEWS HD
 http://109.104.129.196:8001/play/s49
 #EXTINF:-1,TEMA TV
@@ -6696,7 +6692,52 @@ http://109.104.129.196:8001/play/s48
 #EXTINF:-1,TELESPORT
 http://109.104.129.196:8001/play/s47
 
-
+#EXTINF:-1,alsat m
+http://5.135.92.130:3689/out/u/206_6.m3u8
+#EXTINF:-1,klan kosova
+http://5.135.92.130:4462/out/u/281_1.m3u8
+#EXTINF:-1,rtv 21 mix
+http://5.135.92.130:5749/out/u/343_1.m3u8
+#EXTINF:-1,tring sport 1
+http://5.135.92.130:4462/out/u/399_2.m3u8
+#EXTINF:-1,tring sport 2
+http://5.135.92.130:4462/out/u/404_2.m3u8
+#EXTINF:-1,tring sport 3
+http://5.135.92.130:5749/out/u/27_6.m3u8
+#EXTINF:-1,tring sport 4
+http://5.135.92.130:5749/out/u/31_6.m3u8
+#EXTINF:-1,tring history
+http://5.135.92.130:4462/out/u/266_1.m3u8
+#EXTINF:-1,tring planet
+http://5.135.92.130:4462/out/u/269_1.m3u8
+#EXTINF:-1,tring world
+http://5.135.92.130:4462/out/u/299_1.m3u8
+#EXTINF:-1,nat-geo channel
+http://5.135.92.130:5749/out/u/268_200.m3u8
+#EXTINF:-1,tring shqip
+http://5.135.92.130:5749/out/u/225_178.m3u8
+#EXTINF:-1,tring jolly
+http://5.135.92.130:4462/out/u/232_1.m3u8
+#EXTINF:-1,tring 3 plus
+http://5.135.92.130:5749/out/u/235_182.m3u8
+#EXTINF:-1,tring super
+http://5.135.92.130:5749/out/u/214_173.m3u8
+#EXTINF:-1,tring action
+http://5.135.92.130:5749/out/u/220_175.m3u8
+#EXTINF:-1,tring life
+http://5.135.92.130:5749/out/u/231_180.m3u8
+#EXTINF:-1,tring comedy
+http://5.135.92.130:4462/out/u/220_4.m3u8
+#EXTINF:-1,tring fantasy
+http://5.135.92.130:4462/out/u/217_1.m3u8
+#EXTINF:-1,fox tv
+http://5.135.92.130:4462/out/u/272_1.m3u8
+#EXTINF:-1,fox life
+http://5.135.92.130:4462/out/u/275_1.m3u8
+#EXTINF:-1,fox crime
+http://5.135.92.130:4462/out/u/277_1.m3u8
+#EXTINF:-1,rtsh film
+http://5.135.92.130:4462/out/u/360_1.m3u8
 
 
 
@@ -6761,6 +6802,10 @@ rtmp://91.82.85.44/liverelay/gyorplusz.sdp
 rtmp://91.82.85.44/liverelay/jasztriotv.sdp 
 #EXTINF:-1,Supra-Balaton 
 rtmp://91.82.85.44/liverelay/supratv.sdp
+#EXTINF:-1,Fix SD 
+rtmp://video.fixhd.tv:1935/fix/_definst_/sd.stream 
+#EXTINF:-1,Fix HD 
+rtmp://video.fixhd.tv:1935/fix/_definst_/hd.stream
 
 #EXTINF:-1,Cartoon Network 
 http://91.224.178.9:5000/08 
@@ -7193,6 +7238,37 @@ http://111.13.42.8/PLTV/88888888/224/3221225939/index.m3u8
 http://111.13.42.8/PLTV/88888888/224/3221225864/index.m3u8
 #EXTINF:-1,CCTV-08 HD
 http://111.13.42.8/PLTV/88888888/224/3221226035/index.m3u8
+
+#EXTINF:-1,CCTV-1
+http://14.17.78.96/live/hls/201706223000000b899/desc.m3u8
+#EXTINF:-1,CCTV-2
+http://14.17.78.96/live/hls/201706223000000bc99/desc.m3u8
+#EXTINF:-1,CCTV-3
+http://14.17.78.96/live/hls/201706223000000bf99/desc.m3u8
+#EXTINF:-1,CCTV-4
+http://14.17.78.96/live/hls/201706223000000bk99/desc.m3u8
+#EXTINF:-1,CCTV-5
+http://14.17.78.96/live/hls/201706223000000bp99/desc.m3u8
+#EXTINF:-1,CCTV-6
+http://14.17.78.96/live/hls/201706223000000br99/desc.m3u8
+#EXTINF:-1,CCTV-7
+http://14.17.78.96/live/hls/201706223000000bu99/desc.m3u8
+#EXTINF:-1,CCTV-8
+http://14.17.78.96/live/hls/201706223000000bv99/desc.m3u8
+#EXTINF:-1,CCTV-9
+http://14.17.78.96/live/hls/201706223000000bz99/desc.m3u8
+#EXTINF:-1,CCTV-10
+http://14.17.78.96/live/hls/201706223000000c199/desc.m3u8
+#EXTINF:-1,CCTV-11
+http://14.17.78.96/live/hls/201706223000000c499/desc.m3u8
+#EXTINF:-1,CCTV-12
+http://14.17.78.96/live/hls/201706223000000c599/desc.m3u8
+#EXTINF:-1,CCTV-13
+http://14.17.78.96/live/hls/201706223000000c699/desc.m3u8
+#EXTINF:-1,CCTV-14
+http://14.17.78.96/live/hls/201706223000000ca99/desc.m3u8
+#EXTINF:-1,CCTV-15
+http://14.17.78.96/live/hls/201706223000000cc99/desc.m3u8
 
 #EXTINF:-1,CCTV-1
 http://r.gslb.lecloud.com/live/hls/201706223000000b899/desc.m3u8
@@ -9552,11 +9628,12 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WILL WORK
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
-
 #EXTINF:0,TVM
 http://94.228.201.117:8000/play/a002
 #EXTINF:0,ПроБизнес
@@ -9613,6 +9690,20 @@ http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/7/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:11 group-title=”Russian4”,
 
 #EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
@@ -9626,7 +9717,9 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WILL WORK
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
@@ -9877,6 +9970,36 @@ http://93.91.113.8:9999/play/a072
 http://93.91.113.8:9999/play/a09e
 #EXTINF:-1,Звезда
 http://93.91.113.8:9999/play/a06c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
