@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,2/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -570,6 +570,15 @@ http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
 
+#EXTINF:-1,Arena 1 
+http://185.152.65.132:8080/arena1/mpegts 
+#EXTINF:-1,Arena 2 
+http://185.152.65.132:8080/arena2/mpegts 
+#EXTINF:-1,Arena 3 
+http://185.152.65.132:8080/arena3/mpegts 
+#EXTINF:-1,Arena 4 
+http://185.152.65.132:8080/arena4/mpegts 
+
 
 #EXTINF:0,Disc.Science
 http://185.22.78.72:9001/play/a00k
@@ -674,166 +683,540 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,|US| ABC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1389.ts
-#EXTINF:-1,|US| ABC News
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1388.ts
-#EXTINF:-1,|US| Action Max
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1387.ts
-#EXTINF:-1,|US| AMC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1386.ts
-#EXTINF:-1,|US| Animal Planet
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1385.ts
-#EXTINF:-1,|US| Bein Sports
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1384.ts
-#EXTINF:-1,|US| Bloomberg
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1383.ts
-#EXTINF:-1,|US| Cartoon Network
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1382.ts
-#EXTINF:-1,|US| CBS HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1381.ts
-#EXTINF:-1,|US| CBS Sports Network
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1380.ts
-#EXTINF:-1,|US| Cinemax
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1379.ts
-#EXTINF:-1,|US| CNBC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1378.ts
-#EXTINF:-1,|US| CNN
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1377.ts
-#EXTINF:-1,|US| Comedy Central
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1376.ts
-#EXTINF:-1,|US| CW HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1375.ts
-#EXTINF:-1,|US| Discovery HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1374.ts
-#EXTINF:-1,|US| Discovery Science HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1373.ts
-#EXTINF:-1,|US| E!
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1372.ts
-#EXTINF:-1,|US| ESPN 2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1371.ts
-#EXTINF:-1,|US| ESPN Deportes
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1370.ts
-#EXTINF:-1,|US| ESPN News HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1369.ts
-#EXTINF:-1,|US| ESPN U HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1368.ts
-#EXTINF:-1,|US| ESPN USA HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1367.ts
-#EXTINF:-1,|US| Fight Network
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1366.ts
-#EXTINF:-1,|US| Fox HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1365.ts
-#EXTINF:-1,|US| Fox News HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1364.ts
-#EXTINF:-1,|US| Fox Sports 1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1363.ts
-#EXTINF:-1,|US| Fox Sports 2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1362.ts
-#EXTINF:-1,|US| Fox Sports West
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1360.ts
-#EXTINF:-1,|US| FX
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1358.ts
-#EXTINF:-1,|US| FXX
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1357.ts
-#EXTINF:-1,|US| Golf HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1356.ts
-#EXTINF:-1,|US| HBO
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1355.ts
-#EXTINF:-1,|US| HBO Comedy
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1354.ts
-#EXTINF:-1,|US| HBO Signature
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1353.ts
-#EXTINF:-1,|US| HBO Zone
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1352.ts
-#EXTINF:-1,|US| HGTV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1351.ts
-#EXTINF:-1,|US| History
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1350.ts
-#EXTINF:-1,|US| Investigation Discovery
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1349.ts
-#EXTINF:-1,|US| MLB Network HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1347.ts
-#EXTINF:-1,|US| MoreMax HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1346.ts
-#EXTINF:-1,|US| National Geographic
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1345.ts
-#EXTINF:-1,|US| NBA HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1344.ts
-#EXTINF:-1,|US| NBC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1343.ts
-#EXTINF:-1,|US| NBC Sports Network HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1342.ts
-#EXTINF:-1,|US| NFL Channel HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1341.ts
-#EXTINF:-1,|US| NHL Network HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1340.ts
-#EXTINF:-1,|US| Nickelodeon HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1339.ts
-#EXTINF:-1,|US| PAC-12 Arizona HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1337.ts
-#EXTINF:-1,|US| PAC-12 Bay Area HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1336.ts
-#EXTINF:-1,|US| PAC-12 Los Angeles HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1335.ts
-#EXTINF:-1,|US| PAC-12 Mountain HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1334.ts
-#EXTINF:-1,|US| PAC-12 Oregon HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1333.ts
-#EXTINF:-1,|US| PAC-12 Washington HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1332.ts
-#EXTINF:-1,|US| Showtime
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1331.ts
-#EXTINF:-1,|US| Spike HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1330.ts
-#EXTINF:-1,|US| Sports Net 360 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1329.ts
-#EXTINF:-1,|US| Sports Net One HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1328.ts
-#EXTINF:-1,|US| Sports Net Ontario HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1327.ts
-#EXTINF:-1,|US| Sports Net Pacific HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1326.ts
-#EXTINF:-1,|US| Sports Net West HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1325.ts
-#EXTINF:-1,|US| Sports Net World HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1324.ts
-#EXTINF:-1,|US| Starz Cinema HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1323.ts
-#EXTINF:-1,|US| Starz HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1322.ts
-#EXTINF:-1,|US| Syfy HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1321.ts
-#EXTINF:-1,|US| TBS HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1320.ts
-#EXTINF:-1,|US| Tennis Channel HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1319.ts
-#EXTINF:-1,|US| TLC HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1318.ts
-#EXTINF:-1,|US| TNT HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1317.ts
-#EXTINF:-1,|US| TSN 1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1316.ts
-#EXTINF:-1,|US| TSN 2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1315.ts
-#EXTINF:-1,|US| TSN 3 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1314.ts
-#EXTINF:-1,|US| TSN 4 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1313.ts
-#EXTINF:-1,|US| TSN 5 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1312.ts
-#EXTINF:-1,|US| Univision Deportes
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1311.ts
-#EXTINF:-1,|US| USA NETWORK HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1310.ts
-#EXTINF:-1,|US| Viceland
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1309.ts
-#EXTINF:-1,|US| Willow Cricket HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1308.ts
-#EXTINF:-1,|US| WWE Network HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/1307.ts
-
-
+#EXTINF:-1,USA| beIN Sports 12 HD English
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33005.ts
+#EXTINF:-1,US| Bein Sports USA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34150.ts
+#EXTINF:-1,US| Investigation Discovery HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34149.ts
+#EXTINF:-1,US| NBC GOLF HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34161.ts
+#EXTINF:-1,US| NFL Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34160.ts
+#EXTINF:-1,US| PAC Mountain
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34159.ts
+#EXTINF:-1,US| PAC-12 Net Los Angeles
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34158.ts
+#EXTINF:-1,US| Sportsnet 360
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34156.ts
+#EXTINF:-1,US| Sportsnet World
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34155.ts
+#EXTINF:-1,US| TBS 64
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34154.ts
+#EXTINF:-1,US| TSN 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34153.ts
+#EXTINF:-1,US| TSN 4 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34152.ts
+#EXTINF:-1,US| TSN 5 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34151.ts
+#EXTINF:-1,US| UTV IE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34147.ts
+#EXTINF:-1,US| 24/7 SOUTHPARK HD SERIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32423.ts
+#EXTINF:-1,US| A&E HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32449.ts
+#EXTINF:-1,US| ABC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32396.ts
+#EXTINF:-1,US| ABC Action News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32393.ts
+#EXTINF:-1,US| ABC FAMILY/SPARK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32397.ts
+#EXTINF:-1,US| ABC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32392.ts
+#EXTINF:-1,US| ABC News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32394.ts
+#EXTINF:-1,US| AFN Family Movie
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32398.ts
+#EXTINF:-1,US| AFN Movie
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32400.ts
+#EXTINF:-1,US| AFN News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32401.ts
+#EXTINF:-1,US| AFN Prime Atlantic
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32402.ts
+#EXTINF:-1,US| AFN Prime Pacific
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32403.ts
+#EXTINF:-1,US| AL JAZEERA U.S HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32448.ts
+#EXTINF:-1,US| AMC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32527.ts
+#EXTINF:-1,US| Americas Auction TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32383.ts
+#EXTINF:-1,US| ANIMAL PLANET
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32543.ts
+#EXTINF:-1,US| Astro Sports 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32514.ts
+#EXTINF:-1,US| Astro Sports 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32515.ts
+#EXTINF:-1,US| Astro Sports 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32516.ts
+#EXTINF:-1,US| BBC WORLD NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32447.ts
+#EXTINF:-1,US| BEIN SPORTS U.S.A
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32446.ts
+#EXTINF:-1,US| Big Ten Network HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32431.ts
+#EXTINF:-1,US| BLOOMBERG TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32517.ts
+#EXTINF:-1,US| BOX OFFICE MOVIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32422.ts
+#EXTINF:-1,US| Bravo HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32451.ts
+#EXTINF:-1,US| BT SPORT | ESPN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32547.ts
+#EXTINF:-1,US| C-SPAN 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32456.ts
+#EXTINF:-1,US| C-SPAN 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32455.ts
+#EXTINF:-1,US| C-SPAN 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32454.ts
+#EXTINF:-1,US| CAPITAL TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32458.ts
+#EXTINF:-1,US| CARTOON NETWORK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32444.ts
+#EXTINF:-1,US| CBS HD-US
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32541.ts
+#EXTINF:-1,US| CBS News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32528.ts
+#EXTINF:-1,US| CBSN News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32461.ts
+#EXTINF:-1,US| Cinemax 5 Max
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32427.ts
+#EXTINF:-1,US| Cinemax 5 Star Max
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32450.ts
+#EXTINF:-1,US| Cinemax ActionMax
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32464.ts
+#EXTINF:-1,US| Cinemax East
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32465.ts
+#EXTINF:-1,US| Cinemax Moremax
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32443.ts
+#EXTINF:-1,US| CITY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32466.ts
+#EXTINF:-1,US| CNBC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32426.ts
+#EXTINF:-1,US| CNN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32521.ts
+#EXTINF:-1,US| CNN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32522.ts
+#EXTINF:-1,US| CNN HD INTERNATIONAL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32520.ts
+#EXTINF:-1,US| COMEDY CENTRAL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32442.ts
+#EXTINF:-1,US| Crime & Investigation
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32441.ts
+#EXTINF:-1,US| CW 11 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32525.ts
+#EXTINF:-1,US| CW Channel 11
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32462.ts
+#EXTINF:-1,US| DEPORTES HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32420.ts
+#EXTINF:-1,US| DISCOVERY CHANNEL HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32534.ts
+#EXTINF:-1,US| DISCOVERY SCIENCE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32546.ts
+#EXTINF:-1,US| DISCOVERY SHOWCASE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32545.ts
+#EXTINF:-1,US| DISCOVERY VELOCITY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32440.ts
+#EXTINF:-1,US| DISNEY JR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32479.ts
+#EXTINF:-1,US| E! Network HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32439.ts
+#EXTINF:-1,US| ESPN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32551.ts
+#EXTINF:-1,US| ESPN 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32550.ts
+#EXTINF:-1,US| ESPN 3 TRE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32549.ts
+#EXTINF:-1,US| ESPN NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32548.ts
+#EXTINF:-1,US| EURO NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32519.ts
+#EXTINF:-1,US| Fight Network / MMA Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32484.ts
+#EXTINF:-1,US| Fight Sport 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32470.ts
+#EXTINF:-1,US| Fight Sport 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32467.ts
+#EXTINF:-1,US| FOOD NETWORK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32438.ts
+#EXTINF:-1,US| FOX MOTOSPORT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32391.ts
+#EXTINF:-1,US| Fox News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32471.ts
+#EXTINF:-1,US| FOX NY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32518.ts
+#EXTINF:-1,US| FOX SOCCER SUN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32419.ts
+#EXTINF:-1,US| FOX SPORTS ONE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32544.ts
+#EXTINF:-1,US| FOX SPORTS TWO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32460.ts
+#EXTINF:-1,US| FX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32472.ts
+#EXTINF:-1,US| GRIT TV MOVIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32512.ts
+#EXTINF:-1,US| GSN TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32425.ts
+#EXTINF:-1,US| HALLMARK HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32474.ts
+#EXTINF:-1,US| HBO 2 COMEDY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32475.ts
+#EXTINF:-1,US| HBO Family HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32424.ts
+#EXTINF:-1,US| HBO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32476.ts
+#EXTINF:-1,US| HBO SIGNATURE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32477.ts
+#EXTINF:-1,US| HBO ZONE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32478.ts
+#EXTINF:-1,US| HEART TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32457.ts
+#EXTINF:-1,US| HGTV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32417.ts
+#EXTINF:-1,US| HISTORY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32535.ts
+#EXTINF:-1,US| HSN YT LIVE 1080p HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32388.ts
+#EXTINF:-1,US| KIDS READING TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32387.ts
+#EXTINF:-1,US| LIFE TIME
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32480.ts
+#EXTINF:-1,US| LIFETIME HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32459.ts
+#EXTINF:-1,US| LMN HDTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32415.ts
+#EXTINF:-1,US| MLB HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32483.ts
+#EXTINF:-1,US| MOVIETIME
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32463.ts
+#EXTINF:-1,US| MSNBC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32418.ts
+#EXTINF:-1,US| MTV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32530.ts
+#EXTINF:-1,US| MTV HITS LA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32395.ts
+#EXTINF:-1,US| MTV LIVE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32533.ts
+#EXTINF:-1,US| MTV LIVE USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32531.ts
+#EXTINF:-1,US| Music Choice RAP
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32482.ts
+#EXTINF:-1,US| Music Choice Rap2k
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32481.ts
+#EXTINF:-1,US| MY9 TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32414.ts
+#EXTINF:-1,US| NASA TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32390.ts
+#EXTINF:-1,US| NASA TV MEDIA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32389.ts
+#EXTINF:-1,US| NAT GEO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32532.ts
+#EXTINF:-1,US| NBA TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32473.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32502.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32501.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32500.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32499.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32498.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32497.ts
+#EXTINF:-1,US| NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32496.ts
+#EXTINF:-1,US| NBC GOLF
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32437.ts
+#EXTINF:-1,US| NBC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32504.ts
+#EXTINF:-1,US| NBCSN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32503.ts
+#EXTINF:-1,US| NFL Network HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32553.ts
+#EXTINF:-1,US| NFL Network HDTV 1080i
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32413.ts
+#EXTINF:-1,US| NFL Now
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32554.ts
+#EXTINF:-1,US| NFL RedZone (Live on GameDay)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32552.ts
+#EXTINF:-1,US| NHL NETWORK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32436.ts
+#EXTINF:-1,US| NHLTV NETWORK HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32416.ts
+#EXTINF:-1,US| NICK HD (kids)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32412.ts
+#EXTINF:-1,US| NICKELODEON KIDS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32445.ts
+#EXTINF:-1,US| NICKTOONS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32411.ts
+#EXTINF:-1,US| Nursery Rhymes (Baby Songs)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32429.ts
+#EXTINF:-1,US| OWN HD (Oprah Winfrey TV)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32410.ts
+#EXTINF:-1,US| P.B.S Kids
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32430.ts
+#EXTINF:-1,US| QVC Beauty IQ
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32386.ts
+#EXTINF:-1,US| QVC Live
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32385.ts
+#EXTINF:-1,US| QVC Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32384.ts
+#EXTINF:-1,US| Redbull TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32399.ts
+#EXTINF:-1,US| RT DOCUMENTARY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32435.ts
+#EXTINF:-1,US| Showtime 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32505.ts
+#EXTINF:-1,US| Showtime Extreme HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32409.ts
+#EXTINF:-1,US| Showtime HDTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32506.ts
+#EXTINF:-1,US| Showtime Showcase
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32408.ts
+#EXTINF:-1,US| SPIKE TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32529.ts
+#EXTINF:-1,US| SportsNet One HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32507.ts
+#EXTINF:-1,US| Starz Cinema
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32508.ts
+#EXTINF:-1,US| Starz Comedy
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32509.ts
+#EXTINF:-1,US| Starz East
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32510.ts
+#EXTINF:-1,US| Starz Edge HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32511.ts
+#EXTINF:-1,US| Starz Encore East
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32469.ts
+#EXTINF:-1,US| Starz Encore HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32468.ts
+#EXTINF:-1,US| Starz West
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32513.ts
+#EXTINF:-1,US| SYFY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32434.ts
+#EXTINF:-1,US| T.N.T
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32524.ts
+#EXTINF:-1,US| TBS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32523.ts
+#EXTINF:-1,US| TBS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32536.ts
+#EXTINF:-1,US| TENNIS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32407.ts
+#EXTINF:-1,US| THE WALKING DEAD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32421.ts
+#EXTINF:-1,US| The Weather Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32453.ts
+#EXTINF:-1,US| TLC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32537.ts
+#EXTINF:-1,US| Toon Kids
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32428.ts
+#EXTINF:-1,US| TRAVEL CHANNEL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32539.ts
+#EXTINF:-1,US| TRU TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32406.ts
+#EXTINF:-1,US| TRUE MOVIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32433.ts
+#EXTINF:-1,US| TV SERIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32432.ts
+#EXTINF:-1,US| TV SKY ONE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32405.ts
+#EXTINF:-1,US| University of California TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32452.ts
+#EXTINF:-1,US| USA Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32526.ts
+#EXTINF:-1,US| Versus | NBA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32538.ts
+#EXTINF:-1,US| VH1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32404.ts
+#EXTINF:-1,US| WEATHERNATION
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32542.ts
+#EXTINF:-1,US| WWE Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32540.ts
+#EXTINF:-1,VIP:|US| * NBA TV LEAGUE PASS LIVE DURING GAMES ONLY *
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32495.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32494.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 10
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32485.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32493.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32492.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32491.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32490.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 6
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32489.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32488.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 8
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32487.ts
+#EXTINF:-1,VIP:|US| NBA LEAGUE PASS 9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32486.ts
+#EXTINF:-1,CANADA|MUCH MUSIC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30215.ts
+#EXTINF:-1,CA: CP24 HD (BackUp)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32240.ts
+#EXTINF:-1,CA: SportsNet 360
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32264.ts
+#EXTINF:-1,CA: SportsNet East
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32263.ts
+#EXTINF:-1,CA: Super Ecran 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32279.ts
+#EXTINF:-1,CA: Super Ecran 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32278.ts
+#EXTINF:-1,CA: Super Ecran 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32277.ts
+#EXTINF:-1,CA: Super Ecran 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32276.ts
+#EXTINF:-1,CA| abc spark
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32230.ts
+#EXTINF:-1,CA| BET -  black entertainment television
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32231.ts
+#EXTINF:-1,CA| Bnn HDTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32233.ts
+#EXTINF:-1,CA| Bravo HDTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32232.ts
+#EXTINF:-1,CA| cbc toronto
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32234.ts
+#EXTINF:-1,CA| CHCH HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32235.ts
+#EXTINF:-1,CA| City TV Vancouver
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32236.ts
+#EXTINF:-1,CA| Comedy Gold TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32237.ts
+#EXTINF:-1,CA| country music television
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32238.ts
+#EXTINF:-1,CA| CP24 TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32239.ts
+#EXTINF:-1,CA| E! HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32241.ts
+#EXTINF:-1,CA| fox 25 hd
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32242.ts
+#EXTINF:-1,CA| fxx hd
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32243.ts
+#EXTINF:-1,CA| fyi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32244.ts
+#EXTINF:-1,CA| G4 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32245.ts
+#EXTINF:-1,CA| golf channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32246.ts
+#EXTINF:-1,CA| gsn
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32247.ts
+#EXTINF:-1,CA| HBO 2_CA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32281.ts
+#EXTINF:-1,CA| HBO_CA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32282.ts
+#EXTINF:-1,CA| History_HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32248.ts
+#EXTINF:-1,CA| ici artv
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32249.ts
+#EXTINF:-1,CA| ici rdi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32250.ts
+#EXTINF:-1,CA| Movietime TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32251.ts
+#EXTINF:-1,CA| MTV Canada HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32252.ts
+#EXTINF:-1,CA| MTV_CANADA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32283.ts
+#EXTINF:-1,CA| much music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32253.ts
+#EXTINF:-1,CA| NBA TV_CA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32284.ts
+#EXTINF:-1,CA| nick
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32254.ts
+#EXTINF:-1,CA| omni 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32255.ts
+#EXTINF:-1,CA| omni 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32256.ts
+#EXTINF:-1,CA| own (oprah winfrew network)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32257.ts
+#EXTINF:-1,CA| Peachtree HDTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32258.ts
+#EXTINF:-1,CA| RDS2 HD TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32259.ts
+#EXTINF:-1,CA| shopping channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32260.ts
+#EXTINF:-1,CA| silver screen classics
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32261.ts
+#EXTINF:-1,CA| Spike HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32262.ts
+#EXTINF:-1,CA| Sportnet Ontario HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32265.ts
+#EXTINF:-1,CA| Sportnet Pacific HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32285.ts
+#EXTINF:-1,CA| Sportsnet One HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32266.ts
+#EXTINF:-1,CA| Sportsnet West HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32267.ts
+#EXTINF:-1,CA| sportsnet world hd
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32268.ts
+#EXTINF:-1,CA| Teletoon HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32269.ts
+#EXTINF:-1,CA| TMN TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32270.ts
+#EXTINF:-1,CA| Travel Channel HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32271.ts
+#EXTINF:-1,CA| tree house
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32272.ts
+#EXTINF:-1,CA| Vrak TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32273.ts
+#EXTINF:-1,CA| w network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32274.ts
+#EXTINF:-1,CA| World Fishing TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32275.ts
+#EXTINF:-1,CA|YTV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32280.ts
+#EXTINF:-1,CA/USA : CartoonNetwork
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/17928.ts
+#EXTINF:-1,CA| ABC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30254.ts
+#EXTINF:-1,CA| BET
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30253.ts
+#EXTINF:-1,CA| BRAVO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30252.ts
+#EXTINF:-1,CA| CBS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30251.ts
+#EXTINF:-1,CA| CITY VANCOUVER
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30250.ts
+#EXTINF:-1,CA| COMEDY GOLD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30249.ts
+#EXTINF:-1,CA| COTTAGE LIFE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30247.ts
+#EXTINF:-1,CA| CP24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30246.ts
+#EXTINF:-1,CA| CTV TORONTO
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30245.ts
+#EXTINF:-1,CA| DEJA VIEW
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30244.ts
+#EXTINF:-1,CA| FOX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30241.ts
+#EXTINF:-1,CA| FOX NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30240.ts
+#EXTINF:-1,CA| FX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30239.ts
+#EXTINF:-1,CA| HISTORY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30234.ts
+#EXTINF:-1,CA| MOVIE TIME
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30233.ts
+#EXTINF:-1,CA| NBC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30231.ts
+#EXTINF:-1,CA| RDS 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30226.ts
+#EXTINF:-1,CA| SLICE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30224.ts
+#EXTINF:-1,CA| SPORTS NET WORLD HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30223.ts
+#EXTINF:-1,CA| TELETOON
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30222.ts
+#EXTINF:-1,CA| TRAVEL CHANNEL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30221.ts
+#EXTINF:-1,CA| TREE HOUSE SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30220.ts
+#EXTINF:-1,CA| YTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/30216.ts
 
 
 
@@ -1293,222 +1676,374 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,|UK| AMC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3591.ts
-#EXTINF:-1,|UK| Animal planet
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3600.ts
-#EXTINF:-1,|UK| AT THE RACES
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3491.ts
-#EXTINF:-1,|UK| BBC Entertainment
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3592.ts
-#EXTINF:-1,|UK| BBC Four
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3593.ts
-#EXTINF:-1,|UK| BBC Two HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3560.ts
-#EXTINF:-1,|UK| BBC1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3561.ts
-#EXTINF:-1,|UK| BBC3/CBBC HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3559.ts
-#EXTINF:-1,|UK| Bloomberg
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3514.ts
-#EXTINF:-1,|UK| BT Sport EXTRA HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3496.ts
-#EXTINF:-1,|UK| BT Sports 1 FHD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3502.ts
-#EXTINF:-1,|UK| BT Sports 2 FHD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3501.ts
-#EXTINF:-1,|UK| BT Sports 3 FHD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3500.ts
-#EXTINF:-1,|UK| BT Sports ESPN
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3499.ts
-#EXTINF:-1,|UK| Cartoon Network
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3534.ts
-#EXTINF:-1,|UK| CBBC HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3535.ts
-#EXTINF:-1,|UK| Channel 5 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3557.ts
-#EXTINF:-1,|UK| Chelsea FC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3494.ts
-#EXTINF:-1,|UK| Cinema Box Office 1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3576.ts
-#EXTINF:-1,|UK| Cinema Box Office 2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3575.ts
-#EXTINF:-1,|UK| Cinema Box Office 3 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3574.ts
-#EXTINF:-1,|UK| Cinema Box Office 3D
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3572.ts
-#EXTINF:-1,|UK| Cinema Box Office 4 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3573.ts
-#EXTINF:-1,|UK| Comedy Central
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3556.ts
-#EXTINF:-1,|UK| CRIME & INVESTIGATION
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3545.ts
-#EXTINF:-1,|UK| Discovery HD Showcase
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3546.ts
-#EXTINF:-1,|UK| Disney Junior
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3532.ts
-#EXTINF:-1,|UK| Disney XD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3533.ts
-#EXTINF:-1,|UK| Djazz TV HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3520.ts
-#EXTINF:-1,|UK| DocuBox HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3540.ts
-#EXTINF:-1,|UK| ELEVEN HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3513.ts
-#EXTINF:-1,|UK| English Club TV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3590.ts
-#EXTINF:-1,|UK| Fast&FunBox HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3589.ts
-#EXTINF:-1,|UK| FilmBox Arthouse
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3587.ts
-#EXTINF:-1,|UK| FilmBox plus
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3588.ts
-#EXTINF:-1,|UK| Five
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3550.ts
-#EXTINF:-1,|UK| FRANCE 24 Eng
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3516.ts
-#EXTINF:-1,|UK| GOLD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3548.ts
-#EXTINF:-1,|UK| H2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3601.ts
-#EXTINF:-1,|UK| History HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3541.ts
-#EXTINF:-1,|UK| Home & Leisure
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3542.ts
-#EXTINF:-1,|UK| horror ch  1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3571.ts
-#EXTINF:-1,|UK| ID
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3544.ts
-#EXTINF:-1,|UK| ID Xtra HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3543.ts
-#EXTINF:-1,|UK| Investigation Discovery
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3599.ts
-#EXTINF:-1,|UK| ITV Encore HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3562.ts
-#EXTINF:-1,|UK| ITV1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3566.ts
-#EXTINF:-1,|UK| ITV2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3565.ts
-#EXTINF:-1,|UK| ITV3 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3564.ts
-#EXTINF:-1,|UK| ITV4 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3563.ts
-#EXTINF:-1,|UK| LFC TV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3493.ts
-#EXTINF:-1,|UK| Living UK
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3537.ts
-#EXTINF:-1,|UK| Motorsport TV HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3492.ts
-#EXTINF:-1,|UK| Movies 24  1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3570.ts
-#EXTINF:-1,|UK| MTV   1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3529.ts
-#EXTINF:-1,|UK| MTV Base
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3524.ts
-#EXTINF:-1,|UK| MTV Classic
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3525.ts
-#EXTINF:-1,|UK| MTV Hits
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3527.ts
-#EXTINF:-1,|UK| MTV LIVE HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3526.ts
-#EXTINF:-1,|UK| MTV Rocks
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3528.ts
-#EXTINF:-1,|UK| Nat Geo
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3547.ts
-#EXTINF:-1,|UK| Nat Geo Wild
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3598.ts
-#EXTINF:-1,|UK| Nautical Channel HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3539.ts
-#EXTINF:-1,|UK| nick jr too
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3530.ts
-#EXTINF:-1,|UK| Nick.Jr   1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3531.ts
-#EXTINF:-1,|UK| Nollywood
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3567.ts
-#EXTINF:-1,|UK| Premier Sports FHD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3495.ts
-#EXTINF:-1,|UK| PTV Prime
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3517.ts
-#EXTINF:-1,|UK| QUEST RED
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3536.ts
-#EXTINF:-1,|UK| Really
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3602.ts
-#EXTINF:-1,|UK| RTÉ News Now
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3551.ts
-#EXTINF:-1,|UK| RTE ONE
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3553.ts
-#EXTINF:-1,|UK| RTE TWO
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3552.ts
-#EXTINF:-1,|UK| S4C
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3554.ts
-#EXTINF:-1,|UK| SKY 1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3594.ts
-#EXTINF:-1,|UK| SKY 2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3558.ts
-#EXTINF:-1,|UK| Sky Cinema Action & Adventure HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3585.ts
-#EXTINF:-1,|UK| Sky Cinema Comedy HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3577.ts
-#EXTINF:-1,|UK| Sky Cinema Crime & Thriller HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3578.ts
-#EXTINF:-1,|UK| Sky Cinema Disney HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3579.ts
-#EXTINF:-1,|UK| Sky Cinema Drama & Romance HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3580.ts
-#EXTINF:-1,|UK| Sky Cinema Family HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3583.ts
-#EXTINF:-1,|UK| Sky Cinema Hits HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3582.ts
-#EXTINF:-1,|UK| Sky Cinema Premiere HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3586.ts
-#EXTINF:-1,|UK| Sky Cinema SciFi & Horror HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3584.ts
-#EXTINF:-1,|UK| Sky Cinema Select HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3581.ts
-#EXTINF:-1,|UK| Sky Living
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3595.ts
-#EXTINF:-1,|UK| Sky News
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3604.ts
-#EXTINF:-1,|UK| Sky Sport Arena HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3512.ts
-#EXTINF:-1,|UK| Sky Sport Football HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3511.ts
-#EXTINF:-1,|UK| Sky Sports Action HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3509.ts
-#EXTINF:-1,|UK| Sky Sports Cricket HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3507.ts
-#EXTINF:-1,|UK| SKY Sports F1 HD*
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3505.ts
-#EXTINF:-1,|UK| Sky Sports Golf HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3508.ts
-#EXTINF:-1,|UK| Sky Sports Main Events HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3506.ts
-#EXTINF:-1,|UK| Sky Sports Mix HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3504.ts
-#EXTINF:-1,|UK| Sky Sports News HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3503.ts
-#EXTINF:-1,|UK| Sky Sports Premier League HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3510.ts
-#EXTINF:-1,|UK| Spike
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3596.ts
-#EXTINF:-1,|UK| STV HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3555.ts
-#EXTINF:-1,|UK| TLC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3603.ts
-#EXTINF:-1,|UK| Travel Channel
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3538.ts
-#EXTINF:-1,|UK| VH1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3523.ts
-#EXTINF:-1,|UK| VH1 Classic
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3522.ts
-#EXTINF:-1,|UK| YESTERDAY
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3597.ts
-#EXTINF:-1,|UK| Zee Living
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3549.ts
-#EXTINF:-1,|UK| EIR SPORT 1 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3498.ts
-#EXTINF:-1,|UK| EIR SPORT 2 HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/3497.ts
+#EXTINF:-1,UK| SKY SPORTS 1HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34126.ts
+#EXTINF:-1,UK| SKY SPORTS 1SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34125.ts
+#EXTINF:-1,UK| SKY SPORTS 2HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34124.ts
+#EXTINF:-1,UK| SKY SPORTS 2SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34123.ts
+#EXTINF:-1,UK| SKY SPORTS 3HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34122.ts
+#EXTINF:-1,UK| SKY SPORTS 3SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34121.ts
+#EXTINF:-1,UK| SKY SPORTS 4HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34120.ts
+#EXTINF:-1,UK| SKY SPORTS 5HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34119.ts
+#EXTINF:-1,UK| BT Sport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34117.ts
+#EXTINF:-1,UK| BT SPORT 1HD 1080P
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34118.ts
+#EXTINF:-1,UK| BT Sport 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34115.ts
+#EXTINF:-1,UK| BT SPORT 2HD 1080P
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34116.ts
+#EXTINF:-1,UK| BT Sport 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34113.ts
+#EXTINF:-1,UK| Sky Sports Box Office PPV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33957.ts
+#EXTINF:-1,UK| SKY SPORTS CRICKET  HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33956.ts
+#EXTINF:-1,UK| SKY SPORTS F1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33955.ts
+#EXTINF:-1,UK| SKY SPORTS MIX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33954.ts
+#EXTINF:-1,UK| SKY SPORTS MIX FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33953.ts
+#EXTINF:-1,UK| SKY SPORTS MIX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33952.ts
+#EXTINF:-1,UK| At The Races UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34108.ts
+#EXTINF:-1,UK| BOX_OFFICE_1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34139.ts
+#EXTINF:-1,UK| BOX_OFFICE_2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34138.ts
+#EXTINF:-1,UK| BOX_OFFICE_3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34137.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34136.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34135.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34134.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34133.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34132.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_6
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34131.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34130.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_8
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34129.ts
+#EXTINF:-1,UK| BOX_OFFICE_3D_9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34128.ts
+#EXTINF:-1,UK| Chelsea TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34106.ts
+#EXTINF:-1,UK| Motors TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34107.ts
+#EXTINF:-1,UK| MUTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34110.ts
+#EXTINF:-1,UK| Premier Sport
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34111.ts
+#EXTINF:-1,UK| SETANTA SPORTS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34112.ts
+#EXTINF:-1,UK| SKY SPORT NEWS HQ
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34127.ts
+#EXTINF:-1,UK| SKY SPORT PREMIER LEAGUE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33958.ts
+#EXTINF:-1,UK| Sky Sports News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34027.ts
+#EXTINF:-1,UK| Sky Sports News HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33951.ts
+#EXTINF:-1,UK| Sky Sports News HQ.
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33950.ts
+#EXTINF:-1,UK| SKY SPORTS OPEN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33949.ts
+#EXTINF:-1,UK| SKY SPORTS PREMIERE LEAGUE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33948.ts
+#EXTINF:-1,UK|  Cinema Disney HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34014.ts
+#EXTINF:-1,UK|  SKY SPORTS ACTON
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34013.ts
+#EXTINF:-1,UK| 5 STAR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34011.ts
+#EXTINF:-1,UK| Alibi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34092.ts
+#EXTINF:-1,UK| Baby Tv
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34091.ts
+#EXTINF:-1,UK| BBC 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34009.ts
+#EXTINF:-1,UK| BBC 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34103.ts
+#EXTINF:-1,UK| BBC 4 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34102.ts
+#EXTINF:-1,UK| BBC ALBA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34090.ts
+#EXTINF:-1,UK| BBC Entertainment
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34089.ts
+#EXTINF:-1,UK| BBC News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34088.ts
+#EXTINF:-1,UK| BBC One HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34105.ts
+#EXTINF:-1,UK| BBC2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34104.ts
+#EXTINF:-1,UK| BOOMERANG  1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34008.ts
+#EXTINF:-1,UK| BoxNation
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34086.ts
+#EXTINF:-1,UK| BOXNation HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34007.ts
+#EXTINF:-1,UK| British Eurosport
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34085.ts
+#EXTINF:-1,UK| British Eurosport 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34084.ts
+#EXTINF:-1,UK| BT Sport 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34083.ts
+#EXTINF:-1,UK| BT Sport 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34082.ts
+#EXTINF:-1,UK| BT SPORT 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34081.ts
+#EXTINF:-1,UK| BT SPORTS ESPN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34006.ts
+#EXTINF:-1,UK| Cartoon Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34079.ts
+#EXTINF:-1,UK| Cartoonito
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34005.ts
+#EXTINF:-1,UK| CBS Action
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34078.ts
+#EXTINF:-1,UK| CBS Drama
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34077.ts
+#EXTINF:-1,UK| CBS Reality
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34076.ts
+#EXTINF:-1,UK| Celtic TV (Live During SPL)
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34004.ts
+#EXTINF:-1,UK| Channel 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34003.ts
+#EXTINF:-1,UK| CHANNEL 5 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34002.ts
+#EXTINF:-1,UK| Chelsea
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34075.ts
+#EXTINF:-1,UK| Cnn Int
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34074.ts
+#EXTINF:-1,UK| Comedy Central
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34073.ts
+#EXTINF:-1,UK| Discovery Channel HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33926.ts
+#EXTINF:-1,UK| Discovery HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34001.ts
+#EXTINF:-1,UK| Disney Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34071.ts
+#EXTINF:-1,UK| DISNEY JUNIOR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34070.ts
+#EXTINF:-1,UK| Disney XD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34069.ts
+#EXTINF:-1,UK| Dmax
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34068.ts
+#EXTINF:-1,UK| Drama
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34067.ts
+#EXTINF:-1,UK| E4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34000.ts
+#EXTINF:-1,UK| Eir Sport 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34065.ts
+#EXTINF:-1,UK| Eir Sport 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33999.ts
+#EXTINF:-1,UK| EIR Sports 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33998.ts
+#EXTINF:-1,UK| EIR Sports 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33997.ts
+#EXTINF:-1,UK| ESPN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34064.ts
+#EXTINF:-1,UK| EURO NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33996.ts
+#EXTINF:-1,UK| Eurosport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33995.ts
+#EXTINF:-1,UK| Film 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33931.ts
+#EXTINF:-1,UK| Film 4 UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34063.ts
+#EXTINF:-1,UK| Food Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34062.ts
+#EXTINF:-1,UK| Fox
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34061.ts
+#EXTINF:-1,UK| Fox News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34060.ts
+#EXTINF:-1,UK| Gold
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34059.ts
+#EXTINF:-1,UK| H2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33994.ts
+#EXTINF:-1,UK| History Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33993.ts
+#EXTINF:-1,UK| Horror Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34057.ts
+#EXTINF:-1,UK| Irish TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34056.ts
+#EXTINF:-1,UK| ITV 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34101.ts
+#EXTINF:-1,UK| ITV 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34100.ts
+#EXTINF:-1,UK| ITV 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34099.ts
+#EXTINF:-1,UK| ITV 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34098.ts
+#EXTINF:-1,UK| ITV BE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34055.ts
+#EXTINF:-1,UK| ITV One SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34053.ts
+#EXTINF:-1,UK| ITV4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33992.ts
+#EXTINF:-1,UK| Life Time
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33930.ts
+#EXTINF:-1,UK| Liverpool
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34052.ts
+#EXTINF:-1,UK| More4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34051.ts
+#EXTINF:-1,UK| Motor TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34050.ts
+#EXTINF:-1,UK| Movies 4 Men
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34049.ts
+#EXTINF:-1,UK| MOVIES ACTION FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33989.ts
+#EXTINF:-1,UK| MOVIES COMEDY FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33988.ts
+#EXTINF:-1,UK| MOVIES DRAMA & ROMANCE FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33987.ts
+#EXTINF:-1,UK| MOVIES HITS FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33985.ts
+#EXTINF:-1,UK| MOVIES PREMIER FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33984.ts
+#EXTINF:-1,UK| MOVIES SCI-FI/HORROR Full-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33983.ts
+#EXTINF:-1,UK| MOVIES SELECT FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33982.ts
+#EXTINF:-1,UK| MOVIES SUPERHEROS FHD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33981.ts
+#EXTINF:-1,UK| MOVIES THRILLER Full-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33928.ts
+#EXTINF:-1,UK| MOVIES24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34048.ts
+#EXTINF:-1,UK| MTV Rocks
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33980.ts
+#EXTINF:-1,UK| Nick Junior
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33979.ts
+#EXTINF:-1,UK| Nick UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33978.ts
+#EXTINF:-1,UK| Nickelodeon Jr
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34046.ts
+#EXTINF:-1,UK| NickJr Too
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34045.ts
+#EXTINF:-1,UK| Nicktoons
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34044.ts
+#EXTINF:-1,UK| Pick TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33977.ts
+#EXTINF:-1,UK| Premier Sports
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34043.ts
+#EXTINF:-1,UK| Premier Sports HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33976.ts
+#EXTINF:-1,UK| Premiere Sport HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33975.ts
+#EXTINF:-1,UK| Racing UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34042.ts
+#EXTINF:-1,UK| REAL Lives
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34041.ts
+#EXTINF:-1,UK| REALLY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33974.ts
+#EXTINF:-1,UK| RealMadrid
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34040.ts
+#EXTINF:-1,UK| ROK TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33973.ts
+#EXTINF:-1,UK| RTS 1 PPV-BOXING
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33929.ts
+#EXTINF:-1,UK| Sky 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33970.ts
+#EXTINF:-1,UK| Sky 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33969.ts
+#EXTINF:-1,UK| Sky Action
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34039.ts
+#EXTINF:-1,UK| Sky Atlantic
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34038.ts
+#EXTINF:-1,UK| Sky Atlantic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33927.ts
+#EXTINF:-1,UK| Sky Comedy
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34037.ts
+#EXTINF:-1,UK| Sky Disney
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34036.ts
+#EXTINF:-1,UK| Sky Drama
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34035.ts
+#EXTINF:-1,UK| Sky Family
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34034.ts
+#EXTINF:-1,UK| Sky Living
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34033.ts
+#EXTINF:-1,UK| SKY MOVIES CHRISTMAS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33968.ts
+#EXTINF:-1,UK| SKY MOVIES COMEDY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33967.ts
+#EXTINF:-1,UK| SKY MOVIES DRAMA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33966.ts
+#EXTINF:-1,UK| SKY MOVIES HORROR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33965.ts
+#EXTINF:-1,UK| SKY MOVIES SELECT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33964.ts
+#EXTINF:-1,UK| Sky Movies ShowCase
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34032.ts
+#EXTINF:-1,UK| SKY MOVIES SHOWCASE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33963.ts
+#EXTINF:-1,UK| SKY NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33962.ts
+#EXTINF:-1,UK| Sky One HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33961.ts
+#EXTINF:-1,UK| Sky Premiere
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34031.ts
+#EXTINF:-1,UK| SKY ScFi HORROR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33960.ts
+#EXTINF:-1,UK| Sky Scifi and horror
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34030.ts
+#EXTINF:-1,UK| Sky Select
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34029.ts
+#EXTINF:-1,UK| SKY SELECT HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33959.ts
+#EXTINF:-1,UK| Sky ShowCase
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34028.ts
+#EXTINF:-1,UK| Sky Thriller
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34026.ts
+#EXTINF:-1,UK| SkyNews
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34025.ts
+#EXTINF:-1,UK| Sonic Nickelodeon
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33947.ts
+#EXTINF:-1,UK| Sony Movie Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34024.ts
+#EXTINF:-1,UK| Spike
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34023.ts
+#EXTINF:-1,UK| SyFy
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34022.ts
+#EXTINF:-1,UK| TCM
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34021.ts
+#EXTINF:-1,UK| THE VAULT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33944.ts
+#EXTINF:-1,UK| Travel Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33943.ts
+#EXTINF:-1,UK| True Entertainment
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34019.ts
+#EXTINF:-1,UK| True Movies
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34018.ts
+#EXTINF:-1,UK| True Movies 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34017.ts
+#EXTINF:-1,UK| Universal
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34016.ts
+#EXTINF:-1,UK| Universal Channel  1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/34015.ts
+#EXTINF:-1,UK| VH 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33942.ts
+#EXTINF:-1,UK| VIVA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33941.ts
+#EXTINF:-1,UK| Watch
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33940.ts
+#EXTINF:-1,UK| WWE Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33939.ts
+#EXTINF:-1,UK| Yesterday
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33938.ts
  
 
 
@@ -2892,226 +3427,374 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,|FR| 13Emerue
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2179.ts
-#EXTINF:-1,|FR| 6TER
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2228.ts
-#EXTINF:-1,|FR| AB Moteurs
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2204.ts
-#EXTINF:-1,|FR| AB1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2205.ts
-#EXTINF:-1,|FR| Animaux
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2210.ts
-#EXTINF:-1,|FR| ARTE
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2229.ts
-#EXTINF:-1,|FR| Bein Sport 1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2196.ts
-#EXTINF:-1,|FR| Bein Sport 2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2195.ts
-#EXTINF:-1,|FR| Bein Sport 3
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2194.ts
-#EXTINF:-1,|FR| BFM TV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2226.ts
-#EXTINF:-1,|FR| Boing
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2162.ts
-#EXTINF:-1,|FR| Boomerang
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2171.ts
-#EXTINF:-1,|FR| C-NEWS
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2223.ts
-#EXTINF:-1,|FR| C-STAR
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2222.ts
-#EXTINF:-1,|FR| C8
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2236.ts
-#EXTINF:-1,|FR| Canal+
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2230.ts
-#EXTINF:-1,|FR| Canal+  Cinema
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2192.ts
-#EXTINF:-1,|FR| Canal+ Decale
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2190.ts
-#EXTINF:-1,|FR| Canal+  Series
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2191.ts
-#EXTINF:-1,|FR| Canal+  Sport
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2193.ts
-#EXTINF:-1,|FR| Canal J
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2164.ts
-#EXTINF:-1,|FR| Cartoon Network
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2169.ts
-#EXTINF:-1,|FR| CCTV France
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2212.ts
-#EXTINF:-1,|FR| Chasse&Peche
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2209.ts
-#EXTINF:-1,|FR| Cherie 25
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2219.ts
-#EXTINF:-1,|FR| Cine+ Classic
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2188.ts
-#EXTINF:-1,|FR| Cine+ Club
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2184.ts
-#EXTINF:-1,|FR| Cine  Emotion
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2189.ts
-#EXTINF:-1,|FR| Cine  Frisson
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2186.ts
-#EXTINF:-1,|FR| Cine  FX
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2183.ts
-#EXTINF:-1,|FR| Cine  Polar
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2185.ts
-#EXTINF:-1,|FR| Cine+ Premiere
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2187.ts
-#EXTINF:-1,|FR| Comedie Plus
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2180.ts
-#EXTINF:-1,|FR| Crime District
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2206.ts
-#EXTINF:-1,|FR| Discovery
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2159.ts
-#EXTINF:-1,|FR| Discovery Science
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2158.ts
-#EXTINF:-1,|FR| Disney Channel
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2168.ts
-#EXTINF:-1,|FR| Disney Cinema
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2166.ts
-#EXTINF:-1,|FR| Disney Junior
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2165.ts
-#EXTINF:-1,|FR| Disney XD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2167.ts
-#EXTINF:-1,|FR| Entertainment
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2144.ts
-#EXTINF:-1,|FR| Equidia
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2203.ts
-#EXTINF:-1,|FR| Equidia Life
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2145.ts
-#EXTINF:-1,|FR| Equidia Live
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2146.ts
-#EXTINF:-1,|FR| Eurosport 1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2155.ts
-#EXTINF:-1,|FR| Eurosport 2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2154.ts
-#EXTINF:-1,|FR| Extreme Sports
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2151.ts
-#EXTINF:-1,|FR| France 0
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2243.ts
-#EXTINF:-1,|FR| France 2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2242.ts
-#EXTINF:-1,|FR| France 24
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2220.ts
-#EXTINF:-1,|FR| France 3
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2241.ts
-#EXTINF:-1,|FR| France 4
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2240.ts
-#EXTINF:-1,|FR| France 5
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2239.ts
-#EXTINF:-1,|FR| France Info
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2132.ts
-#EXTINF:-1,|FR| Game One
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2135.ts
-#EXTINF:-1,|FR| Golf Channel
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2202.ts
-#EXTINF:-1,|FR| Golf Plus
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2150.ts
-#EXTINF:-1,|FR| Gulli
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2201.ts
-#EXTINF:-1,|FR| HD1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2234.ts
-#EXTINF:-1,|FR| Histoire
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2156.ts
-#EXTINF:-1,|FR| Info Sport
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2149.ts
-#EXTINF:-1,|FR| L' equipe
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2218.ts
-#EXTINF:-1,|FR| L'equipe 21
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2147.ts
-#EXTINF:-1,|FR| LCI
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2224.ts
-#EXTINF:-1,|FR| LCP
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2231.ts
-#EXTINF:-1,|FR| M6
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2238.ts
-#EXTINF:-1,|FR| Mangas
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2200.ts
-#EXTINF:-1,|FR| MCM
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2137.ts
-#EXTINF:-1,|FR| MCM Top
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2136.ts
-#EXTINF:-1,|FR| Mezzo
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2139.ts
-#EXTINF:-1,|FR| Mezzo Live
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2138.ts
-#EXTINF:-1,|FR| MTV France
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2140.ts
-#EXTINF:-1,|FR| Nat Geo WILD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2160.ts
-#EXTINF:-1,|FR| National Geographic
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2161.ts
-#EXTINF:-1,|FR| Nickelodeon
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2170.ts
-#EXTINF:-1,|FR| NRJ12
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2232.ts
-#EXTINF:-1,|FR| NT1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2237.ts
-#EXTINF:-1,|FR| Numero 23
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2221.ts
-#EXTINF:-1,|FR| Paramount Channel
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2216.ts
-#EXTINF:-1,|FR| Piwi
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2134.ts
-#EXTINF:-1,|FR| Planete
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2177.ts
-#EXTINF:-1,|FR| Planete AE
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2176.ts
-#EXTINF:-1,|FR| Planete CI
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2175.ts
-#EXTINF:-1,|FR| RFM TV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2142.ts
-#EXTINF:-1,|FR| RMC Decouverte
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2217.ts
-#EXTINF:-1,|FR| RTL 9
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2225.ts
-#EXTINF:-1,|FR| RTS Deux
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2173.ts
-#EXTINF:-1,|FR| RTS Un
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2174.ts
-#EXTINF:-1,|FR| Science & Vie
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2199.ts
-#EXTINF:-1,|FR| Season
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2143.ts
-#EXTINF:-1,|FR| SFR Sport 1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2153.ts
-#EXTINF:-1,|FR| SFR Sport 2
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2152.ts
-#EXTINF:-1,|FR| SYFY
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2182.ts
-#EXTINF:-1,|FR| TCM Cinema
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2181.ts
-#EXTINF:-1,|FR| Teletoon
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2163.ts
-#EXTINF:-1,|FR| Teva
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2208.ts
-#EXTINF:-1,|FR| TF1
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2233.ts
-#EXTINF:-1,|FR| Tiji
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2133.ts
-#EXTINF:-1,|FR| TMC
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2227.ts
-#EXTINF:-1,|FR| Toute Histoire
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2207.ts
-#EXTINF:-1,|FR| Trace Sport
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2148.ts
-#EXTINF:-1,|FR| Trace Urban
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2141.ts
-#EXTINF:-1,|FR| Trek HD
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2211.ts
-#EXTINF:-1,|FR| TV Breizh
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2172.ts
-#EXTINF:-1,|FR| TV5 Monde Europe
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2214.ts
-#EXTINF:-1,|FR| TV5 Monde FBS
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2215.ts
-#EXTINF:-1,|FR| TV5 Monde Maghreb
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2213.ts
-#EXTINF:-1,|FR| Ushuaia TV
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2157.ts
-#EXTINF:-1,|FR| Voyage
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2178.ts
-#EXTINF:-1,|FR| W9
-http://drop1.ipfox.co/live/winsor_i7EThk/Gl6qLJPE/2235.ts
+#EXTINF:-1,VIP|FR| Bein Sport 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32978.ts
+#EXTINF:-1,VIP|FR| Bein Sport 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32977.ts
+#EXTINF:-1,VIP|FR| Bein Sport 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32976.ts
+#EXTINF:-1,FR| beiN Sport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33004.ts
+#EXTINF:-1,FR| beiN Sport 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33003.ts
+#EXTINF:-1,FR| beiN Sport 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33002.ts
+#EXTINF:-1,FR| beIN SPORTS 4 MAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33001.ts
+#EXTINF:-1,FR| beIN SPORTS 5 MAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33000.ts
+#EXTINF:-1,FR| beIN SPORTS 6 MAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32999.ts
+#EXTINF:-1,FR| beIN SPORTS 7 MAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32998.ts
+#EXTINF:-1,FR| beIN SPORTS NBA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32997.ts
+#EXTINF:-1,FR| BEiN SPORT 1 Backup
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29443.ts
+#EXTINF:-1,FR| BEiN SPORT 2 Backup
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29442.ts
+#EXTINF:-1,FR| BEiN SPORT 3 Backup
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29441.ts
+#EXTINF:-1,FR| beINSport  3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29444.ts
+#EXTINF:-1,FR| beINSport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29446.ts
+#EXTINF:-1,FR| beINSport 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29445.ts
+#EXTINF:-1,FR| BEIN MAX 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29439.ts
+#EXTINF:-1,FR| BEINSPORT_MAX5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29440.ts
+#EXTINF:-1,FR : EURONEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29431.ts
+#EXTINF:-1,FR :SYFY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29406.ts
+#EXTINF:-1,FR|  LAUNE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29491.ts
+#EXTINF:-1,FR|  LCi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29361.ts
+#EXTINF:-1,FR|  Teva HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29486.ts
+#EXTINF:-1,FR| 13-RUE-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29480.ts
+#EXTINF:-1,FR| 6TER HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29484.ts
+#EXTINF:-1,FR| A LA CARTE 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29459.ts
+#EXTINF:-1,FR| A LA CARTE 10 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29460.ts
+#EXTINF:-1,FR| A LA CARTE 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29461.ts
+#EXTINF:-1,FR| A LA CARTE 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29462.ts
+#EXTINF:-1,FR| A LA CARTE 4 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29463.ts
+#EXTINF:-1,FR| A LA CARTE 5 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29464.ts
+#EXTINF:-1,FR| A LA CARTE 6 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29465.ts
+#EXTINF:-1,FR| A LA CARTE 7 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29466.ts
+#EXTINF:-1,FR| A LA CARTE 8 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29467.ts
+#EXTINF:-1,FR| A LA CARTE 9 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29469.ts
+#EXTINF:-1,FR| AB 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29495.ts
+#EXTINF:-1,FR| Action
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29360.ts
+#EXTINF:-1,FR| Action HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29362.ts
+#EXTINF:-1,FR| Animaux HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29411.ts
+#EXTINF:-1,FR| BFM
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29429.ts
+#EXTINF:-1,FR| BFM TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29430.ts
+#EXTINF:-1,FR| BOING
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29424.ts
+#EXTINF:-1,FR| BoomeRang
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29428.ts
+#EXTINF:-1,FR| C8
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29500.ts
+#EXTINF:-1,FR| Canal  Cinema HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29363.ts
+#EXTINF:-1,FR| CANAL  SPORT HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29447.ts
+#EXTINF:-1,FR| CANAL FAMILY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29374.ts
+#EXTINF:-1,FR| CANAL HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29334.ts
+#EXTINF:-1,FR| CANAL PLAY 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29393.ts
+#EXTINF:-1,FR| CANAL PLAY 13
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29384.ts
+#EXTINF:-1,FR| CANAL PLAY 14
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29383.ts
+#EXTINF:-1,FR| CANAL PLAY 15
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29382.ts
+#EXTINF:-1,FR| CANAL PLAY 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29392.ts
+#EXTINF:-1,FR| CANAL PLAY 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29391.ts
+#EXTINF:-1,FR| CANAL PLAY 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29389.ts
+#EXTINF:-1,FR| Canal Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29364.ts
+#EXTINF:-1,FR| Canal Plus Cinema HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29365.ts
+#EXTINF:-1,FR| Canal Plus Decale HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29366.ts
+#EXTINF:-1,FR| Canal Plus Series HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29367.ts
+#EXTINF:-1,FR| Canal Plus Sport HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29368.ts
+#EXTINF:-1,FR| CANAL Series HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29369.ts
+#EXTINF:-1,FR| CANALPLAY-2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29370.ts
+#EXTINF:-1,FR| CANALPLAY-7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29387.ts
+#EXTINF:-1,FR| CANALPLAY-8
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29386.ts
+#EXTINF:-1,FR| CANALPLAY-9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29385.ts
+#EXTINF:-1,FR| Cartoon NetWork
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29419.ts
+#EXTINF:-1,FR| Chasse & Peche
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29409.ts
+#EXTINF:-1,FR| CHERIE 25
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29400.ts
+#EXTINF:-1,FR| Cine Classic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29371.ts
+#EXTINF:-1,FR| CINE FX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29372.ts
+#EXTINF:-1,FR| Cine Plus Emotion HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29373.ts
+#EXTINF:-1,FR| Cine Plus Famiz HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29377.ts
+#EXTINF:-1,FR| Cine Plus Frisson HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29378.ts
+#EXTINF:-1,FR| Cine Plus Premier HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29379.ts
+#EXTINF:-1,FR| CINE POLAR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29375.ts
+#EXTINF:-1,FR| CLUB
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29493.ts
+#EXTINF:-1,FR| COMEDIE  HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29479.ts
+#EXTINF:-1,FR| CSTAR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29359.ts
+#EXTINF:-1,FR| D17
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29401.ts
+#EXTINF:-1,FR| D8 & C8 Backup
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29338.ts
+#EXTINF:-1,FR| DISCOVERY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29408.ts
+#EXTINF:-1,FR| DISCOVERY SCIENCE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29456.ts
+#EXTINF:-1,FR| Disney Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29422.ts
+#EXTINF:-1,FR| Disney Channel  1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29423.ts
+#EXTINF:-1,FR| DISNEY CINEMA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29420.ts
+#EXTINF:-1,FR| Disney XD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29425.ts
+#EXTINF:-1,FR| Disney xd  HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29421.ts
+#EXTINF:-1,FR| E! Entertainment
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29458.ts
+#EXTINF:-1,FR| Enorme
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29358.ts
+#EXTINF:-1,FR| EQUIDIA LIFE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29335.ts
+#EXTINF:-1,FR| EQUIDIA LIVE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29336.ts
+#EXTINF:-1,FR| EQUIPE 21
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29481.ts
+#EXTINF:-1,FR| EURONEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29448.ts
+#EXTINF:-1,FR| EuroSport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29450.ts
+#EXTINF:-1,FR| Eurosport-2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29449.ts
+#EXTINF:-1,FR| FOOT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29339.ts
+#EXTINF:-1,FR| FRANCE 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29474.ts
+#EXTINF:-1,FR| FRANCE 24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29376.ts
+#EXTINF:-1,FR| FRANCE 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29473.ts
+#EXTINF:-1,FR| FRANCE 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29482.ts
+#EXTINF:-1,FR| France-4-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29476.ts
+#EXTINF:-1,FR| France-O-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29475.ts
+#EXTINF:-1,FR| Game One
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29357.ts
+#EXTINF:-1,FR| Gulli-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29489.ts
+#EXTINF:-1,FR| HD1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29340.ts
+#EXTINF:-1,FR| HISTOIRE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29341.ts
+#EXTINF:-1,FR| I 24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29342.ts
+#EXTINF:-1,FR| I tele
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29316.ts
+#EXTINF:-1,FR| INFO SPORT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29452.ts
+#EXTINF:-1,FR| InfosportPlus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29356.ts
+#EXTINF:-1,FR| KTO
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29355.ts
+#EXTINF:-1,FR| LA CHAINE NORMANDIE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29399.ts
+#EXTINF:-1,FR| LA TELE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29485.ts
+#EXTINF:-1,FR| LCP
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29354.ts
+#EXTINF:-1,FR| LOCAL 6ter HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29317.ts
+#EXTINF:-1,FR| LOCAL Canal
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29318.ts
+#EXTINF:-1,FR| LOCAL Canal  Sport
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29319.ts
+#EXTINF:-1,FR| LOCAL Euronews Fr
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29320.ts
+#EXTINF:-1,FR| LOCAL France 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29321.ts
+#EXTINF:-1,FR| LOCAL France 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29322.ts
+#EXTINF:-1,FR| LOCAL France 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29323.ts
+#EXTINF:-1,FR| LOCAL France 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29324.ts
+#EXTINF:-1,FR| LOCAL France Ô
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29325.ts
+#EXTINF:-1,FR| LOCAL Gulli
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29327.ts
+#EXTINF:-1,FR| LOCAL L'équipe 21
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29328.ts
+#EXTINF:-1,FR| LOCAL M6 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29326.ts
+#EXTINF:-1,FR| LOCAL RTS Deux
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29329.ts
+#EXTINF:-1,FR| LOCAL RTS Un
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29330.ts
+#EXTINF:-1,FR| LOCAL TF1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29331.ts
+#EXTINF:-1,FR| LOCAL TMC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29332.ts
+#EXTINF:-1,FR| LOCAL W9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29333.ts
+#EXTINF:-1,FR| M 6
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29498.ts
+#EXTINF:-1,FR| M6 Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29436.ts
+#EXTINF:-1,FR| Ma Chaine Sport
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29451.ts
+#EXTINF:-1,FR| Mangas
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29487.ts
+#EXTINF:-1,FR| MTV France
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29343.ts
+#EXTINF:-1,FR| MTV Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29437.ts
+#EXTINF:-1,FR| National Geo
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29416.ts
+#EXTINF:-1,FR| National Geo Wild
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29412.ts
+#EXTINF:-1,FR| NRJ  12
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29435.ts
+#EXTINF:-1,FR| NT 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29496.ts
+#EXTINF:-1,FR| NUMERO 23
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29344.ts
+#EXTINF:-1,FR| Numero-23
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29353.ts
+#EXTINF:-1,FR| O L TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29492.ts
+#EXTINF:-1,FR| OCS CHOC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29404.ts
+#EXTINF:-1,FR| OCS CITY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29405.ts
+#EXTINF:-1,FR| OCS MAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29403.ts
+#EXTINF:-1,FR| OLTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29402.ts
+#EXTINF:-1,FR| Orange Cine Action HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29394.ts
+#EXTINF:-1,FR| Orange Cine Comedie HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29396.ts
+#EXTINF:-1,FR| Paramount Channel
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29352.ts
+#EXTINF:-1,FR| PARIS PREMIERE  HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29398.ts
+#EXTINF:-1,FR| Paris-Premiere
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29351.ts
+#EXTINF:-1,FR| Piwi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29494.ts
+#EXTINF:-1,FR| PLANETE_CI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29472.ts
+#EXTINF:-1,FR| Planete-A-and-E-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29413.ts
+#EXTINF:-1,FR| Planete-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29414.ts
+#EXTINF:-1,FR| Rmc Decouverte
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29434.ts
+#EXTINF:-1,FR| RTL 9 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29483.ts
+#EXTINF:-1,FR| RTS La Deux HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29471.ts
+#EXTINF:-1,FR| RTS La Une HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29470.ts
+#EXTINF:-1,FR| SCIENCE ET VIE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29417.ts
+#EXTINF:-1,FR| Science-et-Vie-TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29350.ts
+#EXTINF:-1,FR| Season_HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29477.ts
+#EXTINF:-1,FR| Seasons
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29349.ts
+#EXTINF:-1,FR| SERIE CLUB HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29381.ts
+#EXTINF:-1,FR| SFR Sport 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29455.ts
+#EXTINF:-1,FR| SFR SPORT 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29468.ts
+#EXTINF:-1,FR| SFR_Sport_2_HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29454.ts
+#EXTINF:-1,FR| SPORTS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29453.ts
+#EXTINF:-1,FR| TCM CINEMA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29478.ts
+#EXTINF:-1,FR| TELETOON
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29432.ts
+#EXTINF:-1,FR| TF 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29497.ts
+#EXTINF:-1,FR| TIJI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29426.ts
+#EXTINF:-1,FR| TMC HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29490.ts
+#EXTINF:-1,FR| TOUTE l'HISTOIRE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29415.ts
+#EXTINF:-1,FR| TV Breizh
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29348.ts
+#EXTINF:-1,FR| TV5 Monde Europe HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29457.ts
+#EXTINF:-1,FR| USHUAIA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29410.ts
+#EXTINF:-1,FR| Voyage-TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29347.ts
+#EXTINF:-1,FR| W9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29499.ts
+#EXTINF:-1,FR| WEO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29488.ts
+#EXTINF:-1,FR| Zouzous
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/29346.ts
  
 
 
@@ -3417,165 +4100,368 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,==== Germany Basic ====
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3725.ts
-#EXTINF:-1,DE: Das Erste (ARD)
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2921.ts
-#EXTINF:-1,DE: Zdf
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/555.ts
-#EXTINF:-1,DE: 3 Sat
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3707.ts
-#EXTINF:-1,DE: Goldstar TV
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2974.ts
-#EXTINF:-1,DE: Kika
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/561.ts
-#EXTINF:-1,DE: N24
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/558.ts
-#EXTINF:-1,DE: A&E
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3708.ts
-#EXTINF:-1,==== Germany HD+ ====
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3726.ts
-#EXTINF:-1,DE: Rtl HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2580.ts
-#EXTINF:-1,DE: Rtl Crime HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/556.ts
-#EXTINF:-1,DE: Rtl 2 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2582.ts
-#EXTINF:-1,DE: Super Rtl HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/557.ts
-#EXTINF:-1,DE: ProSieben HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2579.ts
-#EXTINF:-1,DE: Prosieben Maxx HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/564.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2577.ts
-#EXTINF:-1,DE: Vox HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2581.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2578.ts
-#EXTINF:-1,DE: Sixx HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3719.ts
-#EXTINF:-1,DE: RTL Crime
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3718.ts
-#EXTINF:-1,DE: RTL Passion
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/589.ts
-#EXTINF:-1,DE: Rtl Nitro
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/553.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/560.ts
-#EXTINF:-1,==== Sky Germany HD ====
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3727.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3705.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/597.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/599.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3048.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3050.ts
-#EXTINF:-1,DE: Sky Cinema Emotion
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/592.ts
-#EXTINF:-1,DE: Sky Cinema Nostalgie
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/591.ts
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/590.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2574.ts
-#EXTINF:-1,DE: Sky Disney Cinemagic HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3054.ts
-#EXTINF:-1,DE: Sky Krimi
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/594.ts
-#EXTINF:-1,DE: Sky TNT Serie
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/588.ts
-#EXTINF:-1,DE: FOX HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2573.ts
-#EXTINF:-1,DE: Fox Serie
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/570.ts
-#EXTINF:-1,DE: SyFy HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2576.ts
-#EXTINF:-1,DE: Syfy
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/576.ts
-#EXTINF:-1,DE: TNT Film
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/581.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2575.ts
-#EXTINF:-1,DE: 13th Street HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2550.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2549.ts
-#EXTINF:-1,DE: E! Entertainment
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3712.ts
-#EXTINF:-1,DE: Jukebox
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3715.ts
-#EXTINF:-1,DE: Heimat Kanal
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/567.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3049.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/573.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/572.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/571.ts
-#EXTINF:-1,DE: Boomerang
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3709.ts
-#EXTINF:-1,DE: Cartoon Network
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3710.ts
-#EXTINF:-1,DE: Universal HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3722.ts
-#EXTINF:-1,DE: Discovery HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/580.ts
-#EXTINF:-1,DE: History HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3051.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/569.ts
-#EXTINF:-1,DE: National Geographic HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3053.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/578.ts
-#EXTINF:-1,DE: National Geographic
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3717.ts
-#EXTINF:-1,DE: Discovery Channel
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3711.ts
-#EXTINF:-1,==== Germany Sports HD====
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3729.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3713.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3714.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/582.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3052.ts
-#EXTINF:-1,DE: Motorvision
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3716.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/586.ts
-#EXTINF:-1,==== Sky Germany Bundesliga HD====
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3728.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2563.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 2
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2564.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 3
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2565.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 4
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2566.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 5
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2567.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 6
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2568.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 7
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2569.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 8
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2570.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 9
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/2571.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 10
-http://xc.cobra-iptv.com:25461/live/germany-v2/axoo8EExQv/3724.ts
-
+#EXTINF:-1,♣DE | Sky Deutschland♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10435.ts
+#EXTINF:-1,DE| 3 Sat HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13146.ts
+#EXTINF:-1,DE| Augsburg TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13135.ts
+#EXTINF:-1,DE| Das Erste
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13148.ts
+#EXTINF:-1,DE| Kabel 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13151.ts
+#EXTINF:-1,DE| Kabel Classic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13150.ts
+#EXTINF:-1,DE| Kabel1 Doku
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13149.ts
+#EXTINF:-1,DE| Munchen TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13137.ts
+#EXTINF:-1,DE| N24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13154.ts
+#EXTINF:-1,DE| Pro7 Maxx HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13155.ts
+#EXTINF:-1,DE| Prosieben Fun HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13156.ts
+#EXTINF:-1,DE| Prosieben HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13158.ts
+#EXTINF:-1,DE| RTL 2 SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13163.ts
+#EXTINF:-1,DE| RTL Passion
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13162.ts
+#EXTINF:-1,DE| RTL SD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13164.ts
+#EXTINF:-1,DE| Sat 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13147.ts
+#EXTINF:-1,DE| Sixx
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13138.ts
+#EXTINF:-1,DE| Super RTL HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13159.ts
+#EXTINF:-1,DE| Tele 5 tv HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13141.ts
+#EXTINF:-1,DE| ZDF
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13153.ts
+#EXTINF:-1,DE| ZDF Info HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13152.ts
+#EXTINF:-1,DE|RTL NITRO
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13160.ts
+#EXTINF:-1,DE|RTL You HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13161.ts
+#EXTINF:-1,DE| DAS ERSTE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10445.ts
+#EXTINF:-1,DE| ZDF HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10444.ts
+#EXTINF:-1,DE| NDR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10441.ts
+#EXTINF:-1,DE| SAT 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10470.ts
+#EXTINF:-1,DE| RTL HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10468.ts
+#EXTINF:-1,DE| RTL 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10467.ts
+#EXTINF:-1,DE| PROSIEBEN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10446.ts
+#EXTINF:-1,DE| KABEL 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10454.ts
+#EXTINF:-1,DE| SIXX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10459.ts
+#EXTINF:-1,DE| VOX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10450.ts
+#EXTINF:-1,DE| PRO 7 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10456.ts
+#EXTINF:-1,DE| Sat 1 Gold
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10469.ts
+#EXTINF:-1,DE| Rtl Nitro
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10466.ts
+#EXTINF:-1,DE| PRO 7 MAXX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10451.ts
+#EXTINF:-1,DE| WDR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10440.ts
+#EXTINF:-1,DE| TELE BAERN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10563.ts
+#EXTINF:-1,DE| ProSieben Max
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10453.ts
+#EXTINF:-1,DE| MTV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10559.ts
+#EXTINF:-1,DE| MTV Hits
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10560.ts
+#EXTINF:-1,DE| N24 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10449.ts
+#EXTINF:-1,DE|  ORF 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10555.ts
+#EXTINF:-1,DE| Phoenix
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10566.ts
+#EXTINF:-1,DE| SERVUS TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10567.ts
+#EXTINF:-1,DE| ARTE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10439.ts
+#EXTINF:-1,DE| SAT 3 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10458.ts
+#EXTINF:-1,DE| Sky Germany Atlantic
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10482.ts
+#EXTINF:-1,DE| FOX HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10500.ts
+#EXTINF:-1,DE| TNT_SERIE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10502.ts
+#EXTINF:-1,DE| SYFY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10474.ts
+#EXTINF:-1,DE| Sky Germany 13 Street HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10497.ts
+#EXTINF:-1,DE| SKY KRIMI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10475.ts
+#EXTINF:-1,DE| RTL_PASSION
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10462.ts
+#EXTINF:-1,DE| RTL LIVING HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10463.ts
+#EXTINF:-1,DE| KIKA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10457.ts
+#EXTINF:-1,♣Doku♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/12417.ts
+#EXTINF:-1,DE| Discovery HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10513.ts
+#EXTINF:-1,DE| National Geograph HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10508.ts
+#EXTINF:-1,DE| Spiegel Geschichte
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10511.ts
+#EXTINF:-1,DE| HISTORY CHANNEL HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10507.ts
+#EXTINF:-1,DE| NAT GEO WILD HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10510.ts
+#EXTINF:-1,DE| NATIONAL GEOGRAPHICS PEOPLE HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10504.ts
+#EXTINF:-1,DE| DMAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10515.ts
+#EXTINF:-1,DE| Kinowelt
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10460.ts
+#EXTINF:-1,♣SKY Filme♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/12418.ts
+#EXTINF:-1,DE| Sky Gemany Cinema
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10479.ts
+#EXTINF:-1,DE| Sky Germany Cinema  1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10485.ts
+#EXTINF:-1,DE| Sky Germany Cinema  24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10484.ts
+#EXTINF:-1,DE|MGM HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10473.ts
+#EXTINF:-1,DE| TNT_FILM HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10501.ts
+#EXTINF:-1,♣DE | Sky Select♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10551.ts
+#EXTINF:-1,DE| A&E HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13193.ts
+#EXTINF:-1,DE| RTL Crime
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10465.ts
+#EXTINF:-1,DE| SUPER RTL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10464.ts
+#EXTINF:-1,DE| ARD HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10443.ts
+#EXTINF:-1,DE| HR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10442.ts
+#EXTINF:-1,DE| SWR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10438.ts
+#EXTINF:-1,DE| TECTIME TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10436.ts
+#EXTINF:-1,♣DE | HD+ Deutsch♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10471.ts
+#EXTINF:-1,DE| Austria 24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10447.ts
+#EXTINF:-1,DE| KIKA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10448.ts
+#EXTINF:-1,DE| PRO MAX 7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10461.ts
+#EXTINF:-1,DE| SONY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10455.ts
+#EXTINF:-1,♣Private & Öffentlich♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10472.ts
+#EXTINF:-1,♣DE | Sky Kino♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10486.ts
+#EXTINF:-1,DE| SKY EMOTION HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10478.ts
+#EXTINF:-1,DE| Sky Germany Action
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10483.ts
+#EXTINF:-1,DE| Sky Germany Comedy
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10480.ts
+#EXTINF:-1,DE| Sky Germany Comedy HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10481.ts
+#EXTINF:-1,DE| SKY HITS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10477.ts
+#EXTINF:-1,DE|Sky Nostalgie
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10476.ts
+#EXTINF:-1,♣DE | Sky Kinder♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10493.ts
+#EXTINF:-1,DE| 13th Street HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13191.ts
+#EXTINF:-1,DE| AXN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13187.ts
+#EXTINF:-1,DE| Boomerang HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13169.ts
+#EXTINF:-1,DE| Disney Cinemagic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13173.ts
+#EXTINF:-1,DE| Heimat Kanal HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13174.ts
+#EXTINF:-1,DE| Junior HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13171.ts
+#EXTINF:-1,DE| Kinowelt TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13175.ts
+#EXTINF:-1,DE| Nick JR HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13167.ts
+#EXTINF:-1,DE| Nickelodeon HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13168.ts
+#EXTINF:-1,DE| Romance TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13176.ts
+#EXTINF:-1,DE| Sky Atlantic
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13177.ts
+#EXTINF:-1,DE| Sky Cartoon Network HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13170.ts
+#EXTINF:-1,DE| Sky Cinema  1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13184.ts
+#EXTINF:-1,DE| Sky Cinema  24 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13183.ts
+#EXTINF:-1,DE| Sky Cinema Action HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13181.ts
+#EXTINF:-1,DE| Sky Cinema Comedy HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13179.ts
+#EXTINF:-1,DE| Sky Cinema Emotion HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13180.ts
+#EXTINF:-1,DE| Sky Cinema HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13185.ts
+#EXTINF:-1,DE| Sky Cinema Hits HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13182.ts
+#EXTINF:-1,DE| Sky Cinema Nostalgie HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13178.ts
+#EXTINF:-1,DE| TNT Comedy HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13188.ts
+#EXTINF:-1,DE| TNT Film
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13190.ts
+#EXTINF:-1,DE| TNT Serie HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13189.ts
+#EXTINF:-1,DE| Zee one HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13166.ts
+#EXTINF:-1,DE|Disney Junior
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13172.ts
+#EXTINF:-1,DE| Disney Channel HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10489.ts
+#EXTINF:-1,DE| DISNEY CINEMAGIC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10488.ts
+#EXTINF:-1,DE| DISNEY XD HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10491.ts
+#EXTINF:-1,DE| JUNIOR
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10492.ts
+#EXTINF:-1,DE| NICKLODEON HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10490.ts
+#EXTINF:-1,DE| Sky Disney Cinemagic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10487.ts
+#EXTINF:-1,♣Unterhaltung/Series♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10494.ts
+#EXTINF:-1,DE| SKY AXN
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10499.ts
+#EXTINF:-1,♣DE | Sky Kultur♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10503.ts
+#EXTINF:-1,DE| Anixe HD Series
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13226.ts
+#EXTINF:-1,DE| Discovery Channel HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13230.ts
+#EXTINF:-1,DE| E! HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13232.ts
+#EXTINF:-1,DE| Motorvision HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13225.ts
+#EXTINF:-1,DE| Nat Geo People HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13229.ts
+#EXTINF:-1,DE| National Geographic HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13231.ts
+#EXTINF:-1,DE| PLANET HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13227.ts
+#EXTINF:-1,DE| Sky DMAX
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/13228.ts
+#EXTINF:-1,DE| A$E TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10514.ts
+#EXTINF:-1,DE| ANIMAL PLANET HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10509.ts
+#EXTINF:-1,DE| Auto Motor Sport TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10506.ts
+#EXTINF:-1,DE| Welt der Wunder
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10512.ts
+#EXTINF:-1,DE| WELT DER WUNDER TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10505.ts
+#EXTINF:-1,♣DE | SKY Bundesliga♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10516.ts
+#EXTINF:-1,DE| Sky BundesLiga HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10519.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10518.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 2-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33739.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 3-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33738.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 4-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33737.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 5-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33736.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 6- HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33735.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 7-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33734.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 8-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33733.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 9- HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33732.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 10-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33731.ts
+#EXTINF:-1,♣SKY Sports♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10528.ts
+#EXTINF:-1,DE| EUROSPORT 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33741.ts
+#EXTINF:-1,DE| EUROSPORT 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33740.ts
+#EXTINF:-1,DE| SKY SPORT 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33730.ts
+#EXTINF:-1,DE| SKY SPORT 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33729.ts
+#EXTINF:-1,DE| SKY SPORT 3-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33728.ts
+#EXTINF:-1,DE| SKY SPORT 4-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33727.ts
+#EXTINF:-1,DE| SKY SPORT 5-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33726.ts
+#EXTINF:-1,DE| SKY SPORT 6-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33725.ts
+#EXTINF:-1,DE| SKY SPORT 7-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33724.ts
+#EXTINF:-1,DE| SKY SPORT 8-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33723.ts
+#EXTINF:-1,DE| SKY SPORT 9-HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33722.ts
+#EXTINF:-1,DE| SKY SPORT AUSTRIA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33720.ts
+#EXTINF:-1,DE| SKY SPORT NEWS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33719.ts
+#EXTINF:-1,DE| Sport 1  US HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33716.ts
+#EXTINF:-1,DE| SPORT 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10523.ts
+#EXTINF:-1,DE| SPORT1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33718.ts
+#EXTINF:-1,DE| SPORTDIGITAL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33717.ts
+#EXTINF:-1,♣DE | Österreich♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10552.ts
+#EXTINF:-1,DE|  ORF 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10556.ts
+#EXTINF:-1,DE|  SRF_1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10554.ts
+#EXTINF:-1,DE|  SRF_2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10553.ts
+#EXTINF:-1,♣♣♣♣♣DE | Music♣♣♣♣♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10557.ts
+#EXTINF:-1,DE|  VIVA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10558.ts
+#EXTINF:-1,♣DE | Others♣
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10570.ts
+#EXTINF:-1,DE| Canale 5 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10569.ts
+#EXTINF:-1,DE| Eins Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10565.ts
+#EXTINF:-1,DE| LIGT CHANNEL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/10564.ts
 
 
 
@@ -4038,325 +4924,150 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,[FTA] Azteca 13
-http://66.70.178.201:25461/live/demo/70w/14.ts
-#EXTINF:-1,[IZ] Las Estrellas
-http://66.70.178.201:25461/live/demo/70w/66.ts
-#EXTINF:-1,[IZ] Canal 5
-http://66.70.178.201:25461/live/demo/70w/10.ts
-#EXTINF:-1,[FTA] Canal Once
-http://66.70.178.201:25461/live/demo/70w/8.ts
-#EXTINF:-1,[FTA] Tv Unam
-http://66.70.178.201:25461/live/demo/70w/151.ts
-#EXTINF:-1,[FTA] Las Estrellas Latinoamerica
-http://66.70.178.201:25461/live/demo/70w/12.ts
-#EXTINF:-1,[FTA] Foro Tv
-http://66.70.178.201:25461/live/demo/70w/7.ts
-#EXTINF:-1,[PNG] Mexiquense
-http://66.70.178.201:25461/live/demo/70w/79.ts
-#EXTINF:-1,[FTA] Milenio Tv
-http://66.70.178.201:25461/live/demo/70w/41.ts
-#EXTINF:-1,[FTA] ADN 40
-http://66.70.178.201:25461/live/demo/70w/4.ts
-#EXTINF:-1,[PNG] Excelsior Tv
-http://66.70.178.201:25461/live/demo/70w/147.ts
-#EXTINF:-1,[FTA] CAPITAL 21 CDMX
-http://66.70.178.201:25461/live/demo/70w/3.ts
-#EXTINF:-1,[FTA] TVP
-http://66.70.178.201:25461/live/demo/70w/137.ts
-#EXTINF:-1,[FTA] Ve Plus Tv
-http://66.70.178.201:25461/live/demo/70w/141.ts
-#EXTINF:-1,[FTA] 88 Stereo Tv
-http://66.70.178.201:25461/live/demo/70w/86.ts
-#EXTINF:-1,[FTA] Az Honduras
-http://66.70.178.201:25461/live/demo/70w/148.ts
-#EXTINF:-1,[FTA] Canal 13
-http://66.70.178.201:25461/live/demo/70w/85.ts
-#EXTINF:-1,[FTA] Canal 26 – Argentina
-http://66.70.178.201:25461/live/demo/70w/104.ts
-#EXTINF:-1,[FTA] Colosal Tv
-http://66.70.178.201:25461/live/demo/70w/87.ts
-#EXTINF:-1,[FTA] Guatevision
-http://66.70.178.201:25461/live/demo/70w/149.ts
-#EXTINF:-1,[FTA] Pat – Bolivia
-http://66.70.178.201:25461/live/demo/70w/94.ts
-#EXTINF:-1,[FTA] Tele Oro
-http://66.70.178.201:25461/live/demo/70w/153.ts
-#EXTINF:-1,[FTA] TyC Sports
-http://66.70.178.201:25461/live/demo/70w/9.ts
-#EXTINF:-1,[FTA] Ticavision
-http://66.70.178.201:25461/live/demo/70w/136.ts
-#EXTINF:-1,[FTA] Tv Peru
-http://66.70.178.201:25461/live/demo/70w/80.ts
-#EXTINF:-1,[CLA] Az Click
-http://66.70.178.201:25461/live/demo/70w/113.ts
-#EXTINF:-1,[CLA] Az Corazon
-http://66.70.178.201:25461/live/demo/70w/114.ts
-#EXTINF:-1,[CLA] Latin Angels
-http://66.70.178.201:25461/live/demo/70w/127.ts
-#EXTINF:-1,[CLA] RPC 4
-http://66.70.178.201:25461/live/demo/70w/74.ts
-#EXTINF:-1,[CLA] Señales Tv RD
-http://66.70.178.201:25461/live/demo/70w/154.ts
-#EXTINF:-1,[CLA] Sun Channel
-http://66.70.178.201:25461/live/demo/70w/156.ts
-#EXTINF:-1,[CLA] Telemetro
-http://66.70.178.201:25461/live/demo/70w/75.ts
-#EXTINF:-1,[CLA] TeleUniverso RD
-http://66.70.178.201:25461/live/demo/70w/155.ts
-#EXTINF:-1,[FTA] Univision Puerto Rico
-http://66.70.178.201:25461/live/demo/70w/78.ts
-#EXTINF:-1,[PNG] Canal 13 Guatemala
-http://66.70.178.201:25461/live/demo/70w/145.ts
-#EXTINF:-1,[PNG] Canal 2
-http://66.70.178.201:25461/live/demo/70w/157.ts
-#EXTINF:-1,[PNG] Canal 26 Argentina
-http://66.70.178.201:25461/live/demo/70w/99.ts
-#EXTINF:-1,[PNG] Telefe
-http://66.70.178.201:25461/live/demo/70w/91.ts
-#EXTINF:-1,[PNG] Telemicro
-http://66.70.178.201:25461/live/demo/70w/57.ts
-#EXTINF:-1,[PNG] TN
-http://66.70.178.201:25461/live/demo/70w/105.ts
-#EXTINF:-1,[PNG] Vivo Argentina
-http://66.70.178.201:25461/live/demo/70w/93.ts
-#EXTINF:-1,[PNG] America Tv
-http://66.70.178.201:25461/live/demo/70w/101.ts
-#EXTINF:-1,[CLA] Caracol
-http://66.70.178.201:25461/live/demo/70w/71.ts
-#EXTINF:-1,[CLA] RCN
-http://66.70.178.201:25461/live/demo/70w/24.ts
-#EXTINF:-1,[CLA] RCN Novelas
-http://66.70.178.201:25461/live/demo/70w/107.ts
-#EXTINF:-1,[CLA] Fox
-http://66.70.178.201:25461/live/demo/70w/68.ts
-#EXTINF:-1,[PNG] Sony
-http://66.70.178.201:25461/live/demo/70w/73.ts
-#EXTINF:-1,[IZ] Unicable
-http://66.70.178.201:25461/live/demo/70w/64.ts
-#EXTINF:-1,[PNG] E! Entertainment
-http://66.70.178.201:25461/live/demo/70w/36.ts
-#EXTINF:-1,[CLA] FX
-http://66.70.178.201:25461/live/demo/70w/125.ts
-#EXTINF:-1,[PNG] SyFy
-http://66.70.178.201:25461/live/demo/70w/123.ts
-#EXTINF:-1,[CLA] Investigation Discovery
-http://66.70.178.201:25461/live/demo/70w/20.ts
-#EXTINF:-1,[PNG] A&E
-http://66.70.178.201:25461/live/demo/70w/31.ts
-#EXTINF:-1,[PNG] AXN
-http://66.70.178.201:25461/live/demo/70w/15.ts
-#EXTINF:-1,[DSH] Telemundo | WKAQ
-http://66.70.178.201:25461/live/demo/70w/133.ts
-#EXTINF:-1,[FTA] Telemundo
-http://66.70.178.201:25461/live/demo/70w/159.ts
-#EXTINF:-1,[DSH] Univision | WLII
-http://66.70.178.201:25461/live/demo/70w/132.ts
-#EXTINF:-1,[DSH] WAPA
-http://66.70.178.201:25461/live/demo/70w/135.ts
-#EXTINF:-1,[ATSC]Unimas
-http://66.70.178.201:25461/live/demo/70w/115.ts
-#EXTINF:-1,[PNG] EuroChannel
-http://66.70.178.201:25461/live/demo/70w/77.ts
-#EXTINF:-1,[CLA] Discovery Home & Health
-http://66.70.178.201:25461/live/demo/70w/69.ts
-#EXTINF:-1,[IZ] HOLA TV HD
-http://66.70.178.201:25461/live/demo/70w/55.ts
-#EXTINF:-1,[PNG] H2
-http://66.70.178.201:25461/live/demo/70w/97.ts
-#EXTINF:-1,[IZ] EL GOURMET
-http://66.70.178.201:25461/live/demo/70w/56.ts
-#EXTINF:-1,[PNG] FOX Life
-http://66.70.178.201:25461/live/demo/70w/17.ts
-#EXTINF:-1,[PNG] Comedy Central
-http://66.70.178.201:25461/live/demo/70w/37.ts
-#EXTINF:-1,[PNG] Efekto Tv
-http://66.70.178.201:25461/live/demo/70w/1.ts
-#EXTINF:-1,[PNG] Multimedios Monterrey
-http://66.70.178.201:25461/live/demo/70w/129.ts
-#EXTINF:-1,[FTA] A Plus
-http://66.70.178.201:25461/live/demo/70w/146.ts
-#EXTINF:-1,[IZ] Fusion
-http://66.70.178.201:25461/live/demo/70w/63.ts
-#EXTINF:-1,[IZ] NATGEO WILD HD
-http://66.70.178.201:25461/live/demo/70w/53.ts
-#EXTINF:-1,[CLA] Discovery Turbo
-http://66.70.178.201:25461/live/demo/70w/120.ts
-#EXTINF:-1,[PNG] History
-http://66.70.178.201:25461/live/demo/70w/89.ts
-#EXTINF:-1,[IZ] NatGeo
-http://66.70.178.201:25461/live/demo/70w/40.ts
-#EXTINF:-1,[PNG] Lifetime
-http://66.70.178.201:25461/live/demo/70w/21.ts
-#EXTINF:-1,[PNG] TVE
-http://66.70.178.201:25461/live/demo/70w/139.ts
-#EXTINF:-1,[FTA] Antena 3
-http://66.70.178.201:25461/live/demo/70w/13.ts
-#EXTINF:-1,[IZ] A3Series
-http://66.70.178.201:25461/live/demo/70w/6.ts
-#EXTINF:-1,[FTA] La Sexta España
-http://66.70.178.201:25461/live/demo/70w/100.ts
-#EXTINF:-1,[FTA] MEGA España
-http://66.70.178.201:25461/live/demo/70w/98.ts
-#EXTINF:-1,[FTA] Music Choice
-http://66.70.178.201:25461/live/demo/70w/128.ts
-#EXTINF:-1,[FTA] Neox
-http://66.70.178.201:25461/live/demo/70w/11.ts
-#EXTINF:-1,[FTA] Nova – España
-http://66.70.178.201:25461/live/demo/70w/95.ts
-#EXTINF:-1,[FTA] DW Latinoamerica
-http://66.70.178.201:25461/live/demo/70w/102.ts
-#EXTINF:-1,[CLA] Discovery Kids
-http://66.70.178.201:25461/live/demo/70w/117.ts
-#EXTINF:-1,[CLA] Nick
-http://66.70.178.201:25461/live/demo/70w/28.ts
-#EXTINF:-1,[CLA] Disney XD
-http://66.70.178.201:25461/live/demo/70w/29.ts
-#EXTINF:-1,[PNG] Cartoon Network
-http://66.70.178.201:25461/live/demo/70w/26.ts
-#EXTINF:-1,[IZ] TIIN
-http://66.70.178.201:25461/live/demo/70w/54.ts
-#EXTINF:-1,[CLA] Disney Channel
-http://66.70.178.201:25461/live/demo/70w/110.ts
-#EXTINF:-1,[CLA] Boomerang
-http://66.70.178.201:25461/live/demo/70w/112.ts
-#EXTINF:-1,[PNG] Baby Tv
-http://66.70.178.201:25461/live/demo/70w/142.ts
-#EXTINF:-1,[PNG] Baby First
-http://66.70.178.201:25461/live/demo/70w/103.ts
-#EXTINF:-1,[PNG] Nick JR
-http://66.70.178.201:25461/live/demo/70w/27.ts
-#EXTINF:-1,[PNG] Once Niños
-http://66.70.178.201:25461/live/demo/70w/108.ts
-#EXTINF:-1,[FTA] PakaPaka
-http://66.70.178.201:25461/live/demo/70w/106.ts
-#EXTINF:-1,[FTA] TATETI
-http://66.70.178.201:25461/live/demo/70w/150.ts
-#EXTINF:-1,[CLA] NatGeo Kids
-http://66.70.178.201:25461/live/demo/70w/126.ts
-#EXTINF:-1,[CLA] Golden
-http://66.70.178.201:25461/live/demo/70w/23.ts
-#EXTINF:-1,[PNG] Golden
-http://66.70.178.201:25461/live/demo/70w/96.ts
-#EXTINF:-1,[IZ] PARAMOUNT CHANNEL HD
-http://66.70.178.201:25461/live/demo/70w/45.ts
-#EXTINF:-1,[IZ] SUNDANCE CHANNEL HD
-http://66.70.178.201:25461/live/demo/70w/44.ts
-#EXTINF:-1,[IZ] TNT HD
-http://66.70.178.201:25461/live/demo/70w/47.ts
-#EXTINF:-1,[PNG] Cinecanal
-http://66.70.178.201:25461/live/demo/70w/5.ts
-#EXTINF:-1,[PNG] Cinemax
-http://66.70.178.201:25461/live/demo/70w/140.ts
-#EXTINF:-1,[PNG] Space
-http://66.70.178.201:25461/live/demo/70w/67.ts
-#EXTINF:-1,[IZ] AMC HD
-http://66.70.178.201:25461/live/demo/70w/46.ts
-#EXTINF:-1,[PNG] Studio Universal
-http://66.70.178.201:25461/live/demo/70w/70.ts
-#EXTINF:-1,[CLA] TCM
-http://66.70.178.201:25461/live/demo/70w/131.ts
-#EXTINF:-1,[PNG] The Film Zone
-http://66.70.178.201:25461/live/demo/70w/30.ts
-#EXTINF:-1,[CLA] Cine Latino
-http://66.70.178.201:25461/live/demo/70w/81.ts
-#EXTINF:-1,[CLA] Cinema Dinamita
-http://66.70.178.201:25461/live/demo/70w/111.ts
-#EXTINF:-1,[CLA] Azteca Cinema
-http://66.70.178.201:25461/live/demo/70w/144.ts
-#EXTINF:-1,[CLA] Fox Action
-http://66.70.178.201:25461/live/demo/70w/130.ts
-#EXTINF:-1,[CLA] Fox Classics
-http://66.70.178.201:25461/live/demo/70w/122.ts
-#EXTINF:-1,[CLA] Fox Family
-http://66.70.178.201:25461/live/demo/70w/134.ts
-#EXTINF:-1,[CLA] Fox Movies
-http://66.70.178.201:25461/live/demo/70w/119.ts
-#EXTINF:-1,[CLA] Fox Series
-http://66.70.178.201:25461/live/demo/70w/25.ts
-#EXTINF:-1,[CLA] HBO
-http://66.70.178.201:25461/live/demo/70w/76.ts
-#EXTINF:-1,[CLA] HBO 2
-http://66.70.178.201:25461/live/demo/70w/72.ts
-#EXTINF:-1,[CLA] HBO Family
-http://66.70.178.201:25461/live/demo/70w/38.ts
-#EXTINF:-1,[CLA] HBO Plus
-http://66.70.178.201:25461/live/demo/70w/2.ts
-#EXTINF:-1,[CLA] Max Prime Este
-http://66.70.178.201:25461/live/demo/70w/124.ts
-#EXTINF:-1,[CLA] MultiPremier
-http://66.70.178.201:25461/live/demo/70w/116.ts
-#EXTINF:-1,[PNG] HBO Signature
-http://66.70.178.201:25461/live/demo/70w/138.ts
-#EXTINF:-1,[PNG] Max Prime
-http://66.70.178.201:25461/live/demo/70w/88.ts
-#EXTINF:-1,[CLA] Claro Sports
-http://66.70.178.201:25461/live/demo/70w/34.ts
-#EXTINF:-1,[FTA] PxSports
-http://66.70.178.201:25461/live/demo/70w/39.ts
-#EXTINF:-1,[FTA] Trendy
-http://66.70.178.201:25461/live/demo/70w/16.ts
-#EXTINF:-1,[FTA] Todo Deportes
-http://66.70.178.201:25461/live/demo/70w/82.ts
-#EXTINF:-1,[IZ] ESPN
-http://66.70.178.201:25461/live/demo/70w/52.ts
-#EXTINF:-1,[IZ] ESPN 2
-http://66.70.178.201:25461/live/demo/70w/51.ts
-#EXTINF:-1,[IZ] ESPN3 HD
-http://66.70.178.201:25461/live/demo/70w/50.ts
-#EXTINF:-1,[IZ] FORMULA 1 HD
-http://66.70.178.201:25461/live/demo/70w/48.ts
-#EXTINF:-1,[IZ] NBA TV HD
-http://66.70.178.201:25461/live/demo/70w/49.ts
-#EXTINF:-1,[PNG] Deportv
-http://66.70.178.201:25461/live/demo/70w/90.ts
-#EXTINF:-1,[PNG] Fox Sports 3
-http://66.70.178.201:25461/live/demo/70w/32.ts
-#EXTINF:-1,[PNG] Fox Sports 3[PNG]
-http://66.70.178.201:25461/live/demo/70w/19.ts
-#EXTINF:-1,[PNG] ESPN 3
-http://66.70.178.201:25461/live/demo/70w/33.ts
-#EXTINF:-1,[PNG] NFL Networks
-http://66.70.178.201:25461/live/demo/70w/121.ts
-#EXTINF:-1,[PNG] Sky Sports
-http://66.70.178.201:25461/live/demo/70w/158.ts
-#EXTINF:-1,[FTA] CNN Chile
-http://66.70.178.201:25461/live/demo/70w/65.ts
-#EXTINF:-1,[IZ] ALJAZEERA
-http://66.70.178.201:25461/live/demo/70w/42.ts
-#EXTINF:-1,[IZ] CNN HD
-http://66.70.178.201:25461/live/demo/70w/43.ts
-#EXTINF:-1,[PNG] WOBI
-http://66.70.178.201:25461/live/demo/70w/118.ts
-#EXTINF:-1,[CLA] Claro Musica
-http://66.70.178.201:25461/live/demo/70w/22.ts
-#EXTINF:-1,[FTA] WIPR
-http://66.70.178.201:25461/live/demo/70w/109.ts
-#EXTINF:-1,[CLA] VH1
-http://66.70.178.201:25461/live/demo/70w/18.ts
-#EXTINF:-1,[FTA] Banda Ancha
-http://66.70.178.201:25461/live/demo/70w/143.ts
-#EXTINF:-1,[FTA] Heartv
-http://66.70.178.201:25461/live/demo/70w/84.ts
-#EXTINF:-1,[FTA] Tigo Music
-http://66.70.178.201:25461/live/demo/70w/83.ts
-#EXTINF:-1,[IZ] BANDAMAX
-http://66.70.178.201:25461/live/demo/70w/61.ts
-#EXTINF:-1,[IZ] MTV
-http://66.70.178.201:25461/live/demo/70w/59.ts
-#EXTINF:-1,[IZ] MTV LIVE
-http://66.70.178.201:25461/live/demo/70w/58.ts
-#EXTINF:-1,[IZ] Ritmoson
-http://66.70.178.201:25461/live/demo/70w/62.ts
-#EXTINF:-1,[IZ] TELEHIT HD
-http://66.70.178.201:25461/live/demo/70w/60.ts
-#EXTINF:-1,[FTA] NIU Tv
-http://66.70.178.201:25461/live/demo/70w/92.ts
-#EXTINF:-1,[PNG] El Trece
-http://66.70.178.201:25461/live/demo/70w/152.ts
-#EXTINF:-1,[CLA] Venus
-http://66.70.178.201:25461/live/demo/70w/35.ts
-
+#EXTINF:-1,ES|  AXN White
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31722.ts
+#EXTINF:-1,ES|  C  Dcine Espanol
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31743.ts
+#EXTINF:-1,ES| :AXN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31721.ts
+#EXTINF:-1,ES| ANDALUCIA_TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31700.ts
+#EXTINF:-1,ES| Barça
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31701.ts
+#EXTINF:-1,ES| Barca TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31694.ts
+#EXTINF:-1,ES| BEIN_SPORTS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31525.ts
+#EXTINF:-1,ES| C  AMC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31744.ts
+#EXTINF:-1,ES| C  Canal Odisea
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31714.ts
+#EXTINF:-1,ES| C  Clan TVE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31745.ts
+#EXTINF:-1,ES| C  Comedy Central
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31746.ts
+#EXTINF:-1,ES| C  Cosmo
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31747.ts
+#EXTINF:-1,ES| C  Crimen Inves
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31748.ts
+#EXTINF:-1,ES| C  Deportes
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31749.ts
+#EXTINF:-1,ES| C  Discovery HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31750.ts
+#EXTINF:-1,ES| C  Disney Junior
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31751.ts
+#EXTINF:-1,ES| C  Estrenos
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31753.ts
+#EXTINF:-1,ES| C  FDF
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31754.ts
+#EXTINF:-1,ES| C  Iberalia TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31755.ts
+#EXTINF:-1,ES| C  Los40
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31756.ts
+#EXTINF:-1,ES| C  Nat Geo Wild
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31757.ts
+#EXTINF:-1,ES| C  Nonstopeople
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31758.ts
+#EXTINF:-1,ES| C  Nova
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31759.ts
+#EXTINF:-1,ES| C  Teledeporte
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31760.ts
+#EXTINF:-1,ES| C  Viajar
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31761.ts
+#EXTINF:-1,ES| C 24 Horas
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31762.ts
+#EXTINF:-1,ES| C Plus Cocina
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31727.ts
+#EXTINF:-1,ES| Calle 13
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31723.ts
+#EXTINF:-1,ES| Canal   1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31724.ts
+#EXTINF:-1,ES| Canal   Accion
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31726.ts
+#EXTINF:-1,ES| Canal   Comedia
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31698.ts
+#EXTINF:-1,ES| Canal   Dcine
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31699.ts
+#EXTINF:-1,ES| Canal   Futbol
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31716.ts
+#EXTINF:-1,ES| Canal 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31725.ts
+#EXTINF:-1,ES| Canal HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31717.ts
+#EXTINF:-1,ES| Canal Liga
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31730.ts
+#EXTINF:-1,ES| Canal Plus Golf
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31729.ts
+#EXTINF:-1,ES| Canal Plus Series Xtra
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31731.ts
+#EXTINF:-1,ES| Canal Plus Xtra
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31732.ts
+#EXTINF:-1,ES| CanalPlus Decasa
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31728.ts
+#EXTINF:-1,ES| CAZA Y PESCA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31695.ts
+#EXTINF:-1,ES| CUATRO
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31702.ts
+#EXTINF:-1,ES| DISNEY CHANNEL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31703.ts
+#EXTINF:-1,ES| Disney XD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31752.ts
+#EXTINF:-1,ES| EURONEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31704.ts
+#EXTINF:-1,ES| EUROSPORT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31705.ts
+#EXTINF:-1,ES| FOX LIFE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31706.ts
+#EXTINF:-1,ES| Fox Spain
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31718.ts
+#EXTINF:-1,ES| GALICIA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31707.ts
+#EXTINF:-1,ES| Historia
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31736.ts
+#EXTINF:-1,ES| History
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31719.ts
+#EXTINF:-1,ES| Hollywood
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31696.ts
+#EXTINF:-1,ES| LA SEXTA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31710.ts
+#EXTINF:-1,ES| La1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31708.ts
+#EXTINF:-1,ES| La2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31709.ts
+#EXTINF:-1,ES| MOVISTAR_F1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31711.ts
+#EXTINF:-1,ES| MoviStar_MotoGp
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31712.ts
+#EXTINF:-1,ES| MTV Spain
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31720.ts
+#EXTINF:-1,ES| NATIONAL_GEOGRAPHIC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31713.ts
+#EXTINF:-1,ES| REAL_MADRID
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31715.ts
+#EXTINF:-1,ES| SYFY HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31740.ts
+#EXTINF:-1,ES| Taquilla 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31733.ts
+#EXTINF:-1,ES| Taquilla 5
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31734.ts
+#EXTINF:-1,ES| Taquilla 6
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31735.ts
+#EXTINF:-1,ES| taquilla_1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31737.ts
+#EXTINF:-1,ES| taquilla_2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31738.ts
+#EXTINF:-1,ES| taquilla_3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31739.ts
+#EXTINF:-1,ES| TCM
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31741.ts
+#EXTINF:-1,ES| TELECINCO HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31697.ts
+#EXTINF:-1,ES| TNT
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/31742.ts
+#EXTINF:-1,ES| beIN LALIGA HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32975.ts
+#EXTINF:-1,ES| beIN SPORTS HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/32974.ts
 
 
 
@@ -5067,6 +5778,61 @@ http://185.26.174.67:44444/play/a00q
 http://185.26.174.67:44444/play/a016
 #EXTINF:-1,Discovery Channel
 http://185.26.174.67:44444/play/a01h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:4 group-title=”Portugal3”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+
+#EXTINF:-1,Sport TV1 HD
+rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD
+#EXTINF:-1,Sport HD
+rtmp://euro.mysoltv.com:1935/live/RTP1_HDMI
+#EXTINF:-1,Holliwood HD
+rtmp://euro.mysoltv.com:1935/live/HOLLYWOOD_HDMI
+#EXTINF:-1,Nat Geo HD
+rtmp://euro.mysoltv.com:1935/live/NAT_GEO_HDMI
+#EXTINF:-1,AXN HD
+rtmp://euro.mysoltv.com:1935/live/AXN_HDMI
+#EXTINF:-1,CM HD
+rtmp://euro.mysoltv.com:1935/live/CMTV_HDMI
+#EXTINF:-1,FOX HD
+rtmp://euro.mysoltv.com:1935/live/FOX_PORTUGAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6744,92 +7510,88 @@ http://..........
 
 
 #EXTINF:-1,ATN Bangla
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1,BanglaVision
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000O0ll8822323ll24455566.stream/playlist.m3u8
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000O0ll8822323ll24455566.stream/playlist.m3u8
 #EXTINF:-1,Channel i 
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1,Mohona TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
-
-
-
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 
 #EXTINF:-1,AL Dawah TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Asian TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,ATN Islamic TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,ATN Music
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,ATN News
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,BanglaTV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,BiJoy TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Boishakhi TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,BTV World
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg000022336565544.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg000022336565544.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Channel 24
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,DBC NEWS
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,DesheBideshe TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Ekkator TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Ekushey TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,GaanBangla TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Independent TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,IQRA BANGLA TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Jamuna TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,JonmoBhumi TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Millenium TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Movie Bangla TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,My TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv0000022323-SG.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv0000022323-SG.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Natunsomoy TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/natunsomoy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/natunsomoy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,New24 TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Nokshi TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,NRB TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Ntv Europe
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Panvision TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Rang TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,RTV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,RTV Music
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,SA TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff0000022121445566475666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff0000022121445566475666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Somoy News
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoy-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoy-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Songsad TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,TBN 24 TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tbn24dr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tbn24dr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Time Televison
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1,Varendra TV
-http://62.212.82.97:8081/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMTcgODoyMjozOCBBTSZoYXNoX3ZhbHVlPW9UMWFEaGpvNFdPdVROZXJ5eTFIK0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
-
+http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTcgNzoyODo0MCBBTSZoYXNoX3ZhbHVlPU4rcVBpY0p5MHg2dTNwRTdiRlpiQVE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 
 
 
@@ -6966,14 +7728,18 @@ rtsp://live.streamjo.com:1935/sarastv/_definst_/sarastv
 
 
 
-#EXTINF:9 group-title=”India2”,
+#EXTINF:9 group-title=”India2_MXPLAYER”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:Retry
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:USE 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,More than two
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY MXPLAYER
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,and Retry
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,More than three
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,times each 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -7386,7 +8152,348 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,HINDI VIP| Animal Planet HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33357.ts
+#EXTINF:-1,HINDI VIP| BOLLYWOOD MASALA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33375.ts
+#EXTINF:-1,HINDI VIP| ETV URDU
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33372.ts
+#EXTINF:-1,HINDI VIP| HBO HD ENGLISH
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33371.ts
+#EXTINF:-1,HINDI VIP| HISTORY 18 HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33355.ts
+#EXTINF:-1,HINDI VIP| HOUSEFULL MOVIES HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33354.ts
+#EXTINF:-1,HINDI VIP| INVESTIGATIN DISCOVERY HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33353.ts
+#EXTINF:-1,HINDI VIP| MH1 PUNJABI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33369.ts
+#EXTINF:-1,HINDI VIP| MOVIES NOW 2 ENGLISH
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33368.ts
+#EXTINF:-1,HINDI VIP| NICKELODEON HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33352.ts
+#EXTINF:-1,HINDI VIP| PRIME ASIA PUNJABI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33367.ts
+#EXTINF:-1,HINDI VIP| SAHARA AALAMI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33366.ts
+#EXTINF:-1,HINDI VIP| SAHARA FILMY HD HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33365.ts
+#EXTINF:-1,HINDI VIP| SONY EARTH HD HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33359.ts
+#EXTINF:-1,HINDI VIP| SONY ESPN HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33351.ts
+#EXTINF:-1,HINDI VIP| SONY ROX HD HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33358.ts
+#EXTINF:-1,HINDI VIP| Sony Six HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33356.ts
+#EXTINF:-1,HINDI VIP| STAR SPORTS SELECT 1 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33363.ts
+#EXTINF:-1,HINDI VIP| STAR SPORTS SELECT 2 HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33362.ts
+#EXTINF:-1,HINDI VIP| STAR UTSAV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33361.ts
+#EXTINF:-1,HINDI VIP| TLC HINDI
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/33349.ts
+#EXTINF:-1,HINDI 9x Jalwa
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23435.ts
+#EXTINF:-1,HINDI 9x Jalwa [Stream 2]
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23436.ts
+#EXTINF:-1,HINDI 9x Jhakaas
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23437.ts
+#EXTINF:-1,HINDI 9x Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23438.ts
+#EXTINF:-1,HINDI AAJ TAKK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23424.ts
+#EXTINF:-1,HINDI ABP News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23425.ts
+#EXTINF:-1,Hindi and picture hd
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23461.ts
+#EXTINF:-1,HINDI And TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23478.ts
+#EXTINF:-1,Hindi Arihant
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23414.ts
+#EXTINF:-1,HINDI B4U MOVIE
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23453.ts
+#EXTINF:-1,HINDI B4U Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23439.ts
+#EXTINF:-1,HINDI Bhakti Sagar
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23415.ts
+#EXTINF:-1,HINDI Bindass Play
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23450.ts
+#EXTINF:-1,HINDI Cartoon Network
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23468.ts
+#EXTINF:-1,HINDI Colors APAC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23479.ts
+#EXTINF:-1,HINDI Colors HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23480.ts
+#EXTINF:-1,HINDI Colors UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23481.ts
+#EXTINF:-1,HINDI Darshan24
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23416.ts
+#EXTINF:-1,HINDI ETV NOW
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23429.ts
+#EXTINF:-1,HINDI FOOD FOOD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23420.ts
+#EXTINF:-1,HINDI IBN 7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23426.ts
+#EXTINF:-1,HINDI IBN Lokmat
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23427.ts
+#EXTINF:-1,HINDI INDIA TODAY
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23430.ts
+#EXTINF:-1,HINDI INDIA TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23422.ts
+#EXTINF:-1,HINDI Life OK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23482.ts
+#EXTINF:-1,Hindi Life Ok Uk
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23484.ts
+#EXTINF:-1,HINDI Life OK USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23483.ts
+#EXTINF:-1,HINDI Mtunes HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23444.ts
+#EXTINF:-1,HINDI Mtunes HD [Stream 2]
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23445.ts
+#EXTINF:-1,HINDI MTV India
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23446.ts
+#EXTINF:-1,HINDI Music India
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23447.ts
+#EXTINF:-1,HINDI Music India [Stream 2]
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23448.ts
+#EXTINF:-1,HINDI Music Xpress
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23449.ts
+#EXTINF:-1,HINDI NDTV INDIA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23433.ts
+#EXTINF:-1,HINDI NDTV Profit
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23423.ts
+#EXTINF:-1,HINDI NEWS 9
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23431.ts
+#EXTINF:-1,HINDI Nick
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23465.ts
+#EXTINF:-1,HINDI Nick Jr
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23466.ts
+#EXTINF:-1,HINDI Pogo
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23464.ts
+#EXTINF:-1,HINDI Rishtey INDIA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23485.ts
+#EXTINF:-1,HINDI Rishtey UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23486.ts
+#EXTINF:-1,HINDI SAB TV AUD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23487.ts
+#EXTINF:-1,HINDI Sab TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23488.ts
+#EXTINF:-1,HINDI Set Max UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23463.ts
+#EXTINF:-1,HINDI Sonic Nickelodeon
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23467.ts
+#EXTINF:-1,HINDI Sony TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23490.ts
+#EXTINF:-1,HINDI STAR GOLD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23459.ts
+#EXTINF:-1,HINDI Star Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23491.ts
+#EXTINF:-1,HINDI STAR PLUS UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23493.ts
+#EXTINF:-1,HINDI Star Plus USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23492.ts
+#EXTINF:-1,HINDI STAR SPORTS 1
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23472.ts
+#EXTINF:-1,HINDI STAR SPORTS 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23471.ts
+#EXTINF:-1,HINDI STAR SPORTS 3
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23470.ts
+#EXTINF:-1,HINDI STAR SPORTS 4
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23469.ts
+#EXTINF:-1,HINDI TEN 2
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23473.ts
+#EXTINF:-1,HINDI TEN CRICKET
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23474.ts
+#EXTINF:-1,HINDI TEN SPORTS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23475.ts
+#EXTINF:-1,HINDI TIME NOW
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23432.ts
+#EXTINF:-1,HINDI UMP MOVIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23460.ts
+#EXTINF:-1,HINDI UTV Bindass
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23451.ts
+#EXTINF:-1,HINDI UTV Movies International
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23452.ts
+#EXTINF:-1,HINDI WILLOW
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23476.ts
+#EXTINF:-1,HINDI Zee Action
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23462.ts
+#EXTINF:-1,HINDI Zee Business
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23434.ts
+#EXTINF:-1,HINDI Zee Cinema
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23454.ts
+#EXTINF:-1,HINDI Zee Cinema APAC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23455.ts
+#EXTINF:-1,HINDI Zee Cinema UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23456.ts
+#EXTINF:-1,HINDI Zee Classic
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23457.ts
+#EXTINF:-1,HINDI ZEE GHANTA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23417.ts
+#EXTINF:-1,HINDI ZEE KALINGA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23418.ts
+#EXTINF:-1,HINDI Zee Living
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23458.ts
+#EXTINF:-1,HINDI ZEE LIVING FOOD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23419.ts
+#EXTINF:-1,HINDI ZEE NEWS
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23428.ts
+#EXTINF:-1,HINDI Zee Smile
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23495.ts
+#EXTINF:-1,HINDI ZEE TALKIES
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23421.ts
+#EXTINF:-1,HINDI Zee TV APAC
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23496.ts
+#EXTINF:-1,HINDI Zee TV HD
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23497.ts
+#EXTINF:-1,HINDI Zee TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23494.ts
+#EXTINF:-1,HINDI Zing
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23440.ts
+#EXTINF:-1,HINDI Zing UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23441.ts
+#EXTINF:-1,HINDI Zoom
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23442.ts
+#EXTINF:-1,HINDI Zoom UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23443.ts
+#EXTINF:-1,Tamil  Pirai TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23539.ts
+#EXTINF:-1,Tamil 7S Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23499.ts
+#EXTINF:-1,Tamil Adithya TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23500.ts
+#EXTINF:-1,Tamil Ambaal TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23501.ts
+#EXTINF:-1,Tamil Angel TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23540.ts
+#EXTINF:-1,Tamil Arra TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23502.ts
+#EXTINF:-1,Tamil Aruvi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23503.ts
+#EXTINF:-1,Tamil Athavan TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23504.ts
+#EXTINF:-1,Tamil Captain News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23505.ts
+#EXTINF:-1,Tamil Captain TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23506.ts
+#EXTINF:-1,Tamil Chithiram TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23508.ts
+#EXTINF:-1,Tamil Dan Yarl Oli
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23509.ts
+#EXTINF:-1,Tamil DD Podhigai
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23542.ts
+#EXTINF:-1,Tamil Deepam TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23510.ts
+#EXTINF:-1,Tamil Dheeran TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23511.ts
+#EXTINF:-1,Tamil EET TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23543.ts
+#EXTINF:-1,Tamil Engada TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23512.ts
+#EXTINF:-1,Tamil Isai Aruvi
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23541.ts
+#EXTINF:-1,Tamil Jaya Max
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23561.ts
+#EXTINF:-1,Tamil Jaya Max UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23560.ts
+#EXTINF:-1,Tamil Jaya Max USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23559.ts
+#EXTINF:-1,Tamil Jaya Movie
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23564.ts
+#EXTINF:-1,Tamil Jaya Movie UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23563.ts
+#EXTINF:-1,Tamil Jaya Movie USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23562.ts
+#EXTINF:-1,Tamil Jaya Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23565.ts
+#EXTINF:-1,TAMIL JAYA TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23568.ts
+#EXTINF:-1,Tamil Jaya TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23567.ts
+#EXTINF:-1,Tamil Jaya TV USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23566.ts
+#EXTINF:-1,Tamil Kalaignar TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23514.ts
+#EXTINF:-1,Tamil KTV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23545.ts
+#EXTINF:-1,Tamil KTV USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23544.ts
+#EXTINF:-1,Tamil Lotus News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23515.ts
+#EXTINF:-1,Tamil Makkal TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23516.ts
+#EXTINF:-1,Tamil Makkal TV [Stream 2]
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23517.ts
+#EXTINF:-1,Tamil MK TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23518.ts
+#EXTINF:-1,Tamil Murasu TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23519.ts
+#EXTINF:-1,Tamil News 7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23520.ts
+#EXTINF:-1,Tamil Ohm TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23538.ts
+#EXTINF:-1,Tamil Peppers
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23521.ts
+#EXTINF:-1,Tamil Polimer News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23522.ts
+#EXTINF:-1,Tamil Puthiya Thalaimurai
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23523.ts
+#EXTINF:-1,Tamil Puthuyugam TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23524.ts
+#EXTINF:-1,Tamil Raj Digital Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23548.ts
+#EXTINF:-1,Tamil Raj Digital Plus UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23547.ts
+#EXTINF:-1,Tamil Raj Digital Plus USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23546.ts
+#EXTINF:-1,Tamil Raj Musix
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23549.ts
+#EXTINF:-1,Tamil Raj News 24x7
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23550.ts
+#EXTINF:-1,Tamil Raj TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23553.ts
+#EXTINF:-1,Tamil Raj TV UK
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23552.ts
+#EXTINF:-1,Tamil Raj TV USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23551.ts
+#EXTINF:-1,Tamil Seithigal TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23525.ts
+#EXTINF:-1,Tamil Shakthi TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23526.ts
+#EXTINF:-1,Tamil Sirasa TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23498.ts
+#EXTINF:-1,Tamil Sirippoli TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23527.ts
+#EXTINF:-1,Tamil Star Vijay
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23557.ts
+#EXTINF:-1,Tamil Sun Music
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23554.ts
+#EXTINF:-1,Tamil Sun TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23556.ts
+#EXTINF:-1,Tamil Sun TV USA
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23555.ts
+#EXTINF:-1,Tamil Super Tv
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23528.ts
+#EXTINF:-1,Tamil Tamilan 24 TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23530.ts
+#EXTINF:-1,Tamil Tamilan TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23531.ts
+#EXTINF:-1,Tamil Thanthi News
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23532.ts
+#EXTINF:-1,Tamil Tunes 6
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23533.ts
+#EXTINF:-1,Tamil Vanavil Plus
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23534.ts
+#EXTINF:-1,Tamil Vannathirai TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23535.ts
+#EXTINF:-1,Tamil Vasantham TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23536.ts
+#EXTINF:-1,Tamil Vendhar TV
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23537.ts
+#EXTINF:-1,TAMIL ZEE TAMIL
+http://link.softclientarea.com:9100/live/isRlEDW2Pm/I0i0ESKzta/23558.ts
 
 
 
