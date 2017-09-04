@@ -6737,7 +6737,48 @@ http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
 
 
 #EXTINF:8 group-title=”Poland2”,
+#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif ,==Poland==
+http://..........
 
+
+#EXTINF:-1,TVP Polonia
+http://84.243.221.164:8000/play/a00n
+#EXTINF:-1,KINO POLSKA
+http://84.243.221.164:8000/play/a01v
+#EXTINF:-1,TVP SERIALE
+http://84.243.221.164:8000/play/a01g
+#EXTINF:-1,HIP HOP TV
+http://84.243.221.164:8000/play/a018
+#EXTINF:-1,Filmbox Action
+http://84.243.221.164:8000/play/a033
+#EXTINF:-1,CBS Reality
+http://84.243.221.164:8000/play/a032
+#EXTINF:-1,TELESUR
+http://84.243.221.164:8000/play/a00p
+#EXTINF:-1,VOX MUSIC TV
+http://84.243.221.164:8000/play/a034
+#EXTINF:-1,Filmbox Action
+http://84.243.221.164:8000/play/a02n
+#EXTINF:-1,BBC CBeebies
+http://84.243.221.164:8000/play/a02j
+#EXTINF:-1,Active Family
+http://84.243.221.164:8000/play/a02t
+#EXTINF:-1,BBC Lifestyle HD
+http://84.243.221.164:8000/play/a02m
+#EXTINF:-1,TVP INFO HD
+http://84.243.221.164:8000/play/a02k
+#EXTINF:-1,TV PULS HD
+http://84.243.221.164:8000/play/a02y
+#EXTINF:-1,SUPERTENNIS HD
+http://84.243.221.164:8000/play/a01a
+#EXTINF:-1,CANAL+ NOW
+http://84.243.221.164:8000/play/a02u
+#EXTINF:-1,TBN Poland
+http://84.243.221.164:8000/play/a00m
+#EXTINF:-1,Cinemax HD
+http://84.243.221.164:8000/play/a029
+#EXTINF:-1,EskaROCK TV
+http://84.243.221.164:8000/play/a031
 
 
 
@@ -9399,8 +9440,6 @@ http://93.91.113.8:9999/play/a098
 http://93.91.113.8:9999/play/a09x
 #EXTINF:-1,Мир
 http://93.91.113.8:9999/play/a06d
-#EXTINF:-1,Brazzers
-http://93.91.113.8:9999/play/a07s
 #EXTINF:-1,Amedia Premium HD
 http://93.91.113.8:9999/play/a0b6
 #EXTINF:-1,Travel+Adventure HD
@@ -9868,12 +9907,6 @@ http://212.0.202.80:4046/udp/239.100.10.83:1234
 http://212.0.202.80:4046/udp/239.100.10.85:1234
 #EXTINF:-1,Soroca IP camTV
 http://212.0.202.80:4046/udp/239.100.10.90:1234
-#EXTINF:-1,Private TV
-http://212.0.202.80:4046/udp/239.100.10.188:1234
-#EXTINF:-1,Hustler TV
-http://212.0.202.80:4046/udp/239.100.10.190:1234
-#EXTINF:-1,Blue Hustler TV
-http://212.0.202.80:4046/udp/239.100.10.192:1234
 #EXTINF:-1,GRT-FM
 http://212.0.202.80:4046/udp/239.100.10.60:1234
 #EXTINF:-1,Radio Moldova FM
