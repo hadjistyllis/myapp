@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/8/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,4/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -44,44 +44,42 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:0,Animal Planet
-http://62.106.113.207:4022/udp/232.0.1.48:1234
+
+
+
+
+#EXTINF:-1,Animal Planet
+http://212.0.202.80:4046/udp/239.100.10.153:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:0,National Geographic
 http://89.23.171.65:3371/udp/239.1.10.29:1234
 #EXTINF:0,National Geographic
 http://185.37.168.6:7284//udp/239.255.4.11:15100
-#EXTINF:0,National Geographic HD
-http://51.254.39.37/TV/RUS/flashstream.m3u8?sr=6&ch=658
+#EXTINF:-1,National Geographic
+http://212.0.202.80:4046/udp/239.100.10.138:1234
 #EXTINF:0,Nat Geo WILD
 http://185.37.168.6:7284//udp/239.255.4.9:15103
 #EXTINF:0,Nat Geo WILD
 http://89.23.171.65:3371/udp/239.1.11.27:1234
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
-#EXTINF:0,Discovery Channel
-http://82.200.127.58:8080/udp/239.54.6.199:1224
-#EXTINF:0,Discovery Channel
-http://185.22.78.72:9001/play/a00h
+#EXTINF:-1,Discovery Channel
+http://212.0.202.80:4046/udp/239.100.10.154:1234
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
-#EXTINF:0,Discovery Turbo
-http://185.22.78.72:9001/play/a00n
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:0,Discovery Science
 http://194.28.155.227:81/udp/238.0.3.29:1234
-#EXTINF:0,Discovery Science
-http://185.22.78.72:9001/play/a00k
-#EXTINF:-1,Discovery History
-http://185.22.78.72:9001/play/a00l
+#EXTINF:-1,Discovery Science
+http://212.0.202.80:4046/udp/239.100.10.174:1234
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:0,Investigation Discovery
 http://185.37.168.6:7284//udp/239.255.4.11:15106
-#EXTINF:0,Investigation Discovery
-http://185.22.78.72:9001/play/a00p
+#EXTINF:-1,ID Xtra
+http://212.0.202.80:4046/udp/239.100.10.177:1234
 #EXTINF:0,DTX
 http://89.23.171.65:3371/udp/239.1.11.6:1234
 #EXTINF:0,DTX
@@ -92,12 +90,18 @@ http://93.91.113.8:9999/play/a06z
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
+#EXTINF:-1,FOX
+http://212.0.202.80:4046/udp/239.100.10.105:1234
+#EXTINF:-1,FOX Life
+http://212.0.202.80:4046/udp/239.100.10.193:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
+#EXTINF:-1,TLC
+http://212.0.202.80:4046/udp/239.100.10.176:1234
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,London Live
@@ -142,12 +146,14 @@ http://bit.ly/2rvaV7Q
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
+#EXTINF:-1,JimJam
+http://93.91.113.8:9999/play/a06n
 #EXTINF:0,Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
 #EXTINF:-1,Boomerang
-http://185.93.3.84:5018/play/a00b
+http://212.0.202.80:4046/udp/239.100.10.169:1234
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:0,Cartoon Network
@@ -155,21 +161,25 @@ http://188.68.162.146:81/udp/239.2.100.159:4321
 #EXTINF:0,Cartoon Network
 http://95.128.162.252:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
-http://185.93.3.84:5018/play/a01h
+http://212.0.202.80:4046/udp/239.100.10.244:1234
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:-1,Disney Jr
-http://185.93.3.84:5018/play/a01e
+#EXTINF:-1,Disney Channel
+http://212.0.202.80:4046/udp/239.100.10.234:1234
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
+#EXTINF:-1,Nickelodeon
+http://212.0.202.80:4046/udp/239.100.10.183:1234
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
+#EXTINF:-1,Nick Jr
+http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
-#EXTINF:-1, Nick Jr
+#EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
@@ -209,22 +219,8 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-
-
-#EXTINF:0,MTV DANCE
-http://185.22.78.73:3331/play/a010
-#EXTINF:0,MTV ROCKS
-http://185.22.78.73:3331/play/a00t
 #EXTINF:0,MTV Rocks
 http://94.251.66.82:81/udp/239.54.7.3:1224
-#EXTINF:0,MTV MUSIC
-http://185.22.78.73:3331/play/a00z
-#EXTINF:0,MTV CLASSIC
-http://185.22.78.73:3331/play/a00w
-#EXTINF:0,MTV BASE
-http://185.22.78.73:3331/play/a00v
-#EXTINF:0,MTV HITS
-http://185.22.78.73:3331/play/a00u
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Hits 
@@ -381,20 +377,10 @@ http://u.to/WXHoCA
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0,Eurosport 1 HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosporthd
-#EXTINF:-1,EUROSPORT1
-http://89.111.247.10:99/hls/eurosport1.m3u8
-#EXTINF:-1,Eurosport
-http://83.79.134.18:9000/play/eurosport1234
-#EXTINF:-1,Eurosport HD
-http://95.82.167.252:9999/udp/239.1.1.64:11111
 #EXTINF:-1,Eurosport 2 HD (Po/EN)
 http://195.206.253.157:8001/eurosport2hd
-#EXTINF:-1,EUROSPORT2
-http://89.111.247.10:99/hls/eurosport2.m3u8
 #EXTINF:-1,Eurosport 2
 http://185.53.163.216:3104
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://83.79.134.18:9000/play/euroextrahd1234
 #EXTINF:0,Eurosport News
 http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosport_news
 #EXTINF:-1,Eurosport News
