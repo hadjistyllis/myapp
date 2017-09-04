@@ -142,6 +142,8 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
+#EXTINF:-1,Duck HD
+http://212.0.202.80:4046/udp/239.100.10.10:1234
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
