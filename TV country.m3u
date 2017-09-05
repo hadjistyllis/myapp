@@ -7752,10 +7752,13 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
+
 #EXTINF:-1,IN-zee_TV
-http://best4u.tn:8000/live/a904/r45g/1355.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+http://best4u.tn:8000/live/a904/r45g/1355.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1,IN-Zee_Cinema HD
-http://best4u.tn:8000/live/a904/r45g/553.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+http://best4u.tn:8000/live/a904/r45g/553.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1,IN-Zee_Alwan
 http://best4u.tn:8000/live/a904/r45g/145.ts
 #EXTINF:-1,IN-ZEE-AFLAM
@@ -8140,619 +8143,463 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,Arabic-TV ///
-http://best4u.tn:8000/live/a904/r45g/1684.ts
-#EXTINF:-1,MBC1HD
-http://best4u.tn:8000/live/a904/r45g/1378.ts
-#EXTINF:-1,MBC+_DRAMAHD
-http://best4u.tn:8000/live/a904/r45g/3633.ts
-#EXTINF:-1,MBC-DRAMAHD
-http://best4u.tn:8000/live/a904/r45g/1395.ts
-#EXTINF:-1,MBC+_Variety_HD
-http://best4u.tn:8000/live/a904/r45g/3612.ts
-#EXTINF:-1,MBC2_HD
-http://best4u.tn:8000/live/a904/r45g/1371.ts
-#EXTINF:-1,MBC3HD
-http://best4u.tn:8000/live/a904/r45g/3613.ts
-#EXTINF:-1,MBC4HD
-http://best4u.tn:8000/live/a904/r45g/1377.ts
-#EXTINF:-1,MBC-ACTIONHD
-http://best4u.tn:8000/live/a904/r45g/1394.ts
-#EXTINF:-1,MBC_MAX_HD
-http://best4u.tn:8000/live/a904/r45g/3614.ts
-#EXTINF:-1,RotanHD
-http://best4u.tn:8000/live/a904/r45g/3623.ts
-#EXTINF:-1,Rotana-CinemaHD
-http://best4u.tn:8000/live/a904/r45g/3624.ts
-#EXTINF:-1,Rotana-AflamHD
-http://best4u.tn:8000/live/a904/r45g/3625.ts
-#EXTINF:-1,Rotana-ClassicHD
-http://best4u.tn:8000/live/a904/r45g/3629.ts
-#EXTINF:-1,Rotan-MasriyaHD
-http://best4u.tn:8000/live/a904/r45g/3626.ts
-#EXTINF:-1,RessalaHD
-http://best4u.tn:8000/live/a904/r45g/3627.ts
-#EXTINF:-1,LBCHD
-http://best4u.tn:8000/live/a904/r45g/3628.ts
-#EXTINF:-1,AR-SeeVii-Al-Aoula
-http://best4u.tn:8000/live/a904/r45g/3902.ts
-#EXTINF:-1,AR-SeeVii-Beelink
-http://best4u.tn:8000/live/a904/r45g/3903.ts
-#EXTINF:-1,AR-SeeVii-Drama
-http://best4u.tn:8000/live/a904/r45g/3904.ts
-#EXTINF:-1,AR-SeeVii-Shamiya
-http://best4u.tn:8000/live/a904/r45g/3905.ts
-#EXTINF:-1,MBC1
-http://best4u.tn:8000/live/a904/r45g/19.ts
-#EXTINF:-1,MBC2
-http://best4u.tn:8000/live/a904/r45g/20.ts
-#EXTINF:-1,MBC3
-http://best4u.tn:8000/live/a904/r45g/21.ts
-#EXTINF:-1,MBC4
-http://best4u.tn:8000/live/a904/r45g/22.ts
-#EXTINF:-1,MBCDRAMA
-http://best4u.tn:8000/live/a904/r45g/25.ts
-#EXTINF:-1,MBCAction
-http://best4u.tn:8000/live/a904/r45g/23.ts
-#EXTINF:-1,MBCMAX
-http://best4u.tn:8000/live/a904/r45g/26.ts
-#EXTINF:-1,MBCBollywood
-http://best4u.tn:8000/live/a904/r45g/24.ts
-#EXTINF:-1,MBC_Masr2
-http://best4u.tn:8000/live/a904/r45g/28.ts
-#EXTINF:-1,MBC_MASR
-http://best4u.tn:8000/live/a904/r45g/27.ts
-#EXTINF:-1,Rotana music
-http://best4u.tn:8000/live/a904/r45g/43.ts
-#EXTINF:-1,Rotana_Cinema_KSA
-http://best4u.tn:8000/live/a904/r45g/45.ts
-#EXTINF:-1,Rotana_Cinema_EGY
-http://best4u.tn:8000/live/a904/r45g/44.ts
-#EXTINF:-1,Rotana-Masriya
-http://best4u.tn:8000/live/a904/r45g/49.ts
-#EXTINF:-1,Rotana_Clip
-http://best4u.tn:8000/live/a904/r45g/47.ts
-#EXTINF:-1,Rotana_Khalijiah
-http://best4u.tn:8000/live/a904/r45g/48.ts
-#EXTINF:-1,Rotana_Classic
-http://best4u.tn:8000/live/a904/r45g/46.ts
-#EXTINF:-1,Almajd-Space
-http://best4u.tn:8000/live/a904/r45g/2314.ts
-#EXTINF:-1,Almajd-Science
-http://best4u.tn:8000/live/a904/r45g/2312.ts
-#EXTINF:-1,Almajd-Quran
-http://best4u.tn:8000/live/a904/r45g/2313.ts
-#EXTINF:-1,Almajd-hadeeth
-http://best4u.tn:8000/live/a904/r45g/2311.ts
-#EXTINF:-1,ART_Cinema
-http://best4u.tn:8000/live/a904/r45g/53.ts
-#EXTINF:-1,Aflam_1
-http://best4u.tn:8000/live/a904/r45g/51.ts
-#EXTINF:-1,Aflam_2
-http://best4u.tn:8000/live/a904/r45g/52.ts
-#EXTINF:-1,Hekayat
-http://best4u.tn:8000/live/a904/r45g/54.ts
-#EXTINF:-1,Hekayat_2
-http://best4u.tn:8000/live/a904/r45g/75.ts
-#EXTINF:-1,Ar-HD-FILM
-http://best4u.tn:8000/live/a904/r45g/2293.ts
-#EXTINF:-1,Ar-HD-CLASSIC
-http://best4u.tn:8000/live/a904/r45g/2291.ts
-#EXTINF:-1,Ar-CINEMA2
-http://best4u.tn:8000/live/a904/r45g/2302.ts
-#EXTINF:-1,Ar-CINEMA1
-http://best4u.tn:8000/live/a904/r45g/2301.ts
-#EXTINF:-1,Ar-CINEMA-ALWAN
-http://best4u.tn:8000/live/a904/r45g/2296.ts
-#EXTINF:-1,AR-FATAFEAT
-http://best4u.tn:8000/live/a904/r45g/98.ts
-#EXTINF:-1,AR_Drama_Sudan
-http://best4u.tn:8000/live/a904/r45g/2064.ts
-#EXTINF:-1,CBC
-http://best4u.tn:8000/live/a904/r45g/56.ts
-#EXTINF:-1,CBC2
-http://best4u.tn:8000/live/a904/r45g/57.ts
-#EXTINF:-1,CBC-Drama
-http://best4u.tn:8000/live/a904/r45g/58.ts
-#EXTINF:-1,CBC-Extra
-http://best4u.tn:8000/live/a904/r45g/59.ts
-#EXTINF:-1,CBC-Sofra
-http://best4u.tn:8000/live/a904/r45g/60.ts
-#EXTINF:-1,AR-TUNISNA
-http://best4u.tn:8000/live/a904/r45g/35.ts
-#EXTINF:-1,NATIONAL1
-http://best4u.tn:8000/live/a904/r45g/29.ts
-#EXTINF:-1,National2
-http://best4u.tn:8000/live/a904/r45g/780.ts
-#EXTINF:-1,AR-hannibal
-http://best4u.tn:8000/live/a904/r45g/31.ts
-#EXTINF:-1,AR-ZAYTOONA
-http://best4u.tn:8000/live/a904/r45g/840.ts
-#EXTINF:-1,Ar-ZITOUNA-HEDAYA
-http://best4u.tn:8000/live/a904/r45g/1687.ts
-#EXTINF:-1,Ar-janoubiyya
-http://best4u.tn:8000/live/a904/r45g/112.ts
-#EXTINF:-1,AL_MUTAWASIT-TV
-http://best4u.tn:8000/live/a904/r45g/36.ts
-#EXTINF:-1,AR-ATTESSIA-TV
-http://best4u.tn:8000/live/a904/r45g/499.ts
-#EXTINF:-1,AR-ELHIWAR_ETTOUNSI
-http://best4u.tn:8000/live/a904/r45g/34.ts
-#EXTINF:-1,AR-NESMA-tv
-http://best4u.tn:8000/live/a904/r45g/32.ts
-#EXTINF:-1,AR-FIRST-tv
-http://best4u.tn:8000/live/a904/r45g/38.ts
-#EXTINF:-1,AR-TELVZA_TV
-http://best4u.tn:8000/live/a904/r45g/33.ts
-#EXTINF:-1,AR-CanalALGERIA
-http://best4u.tn:8000/live/a904/r45g/1715.ts
-#EXTINF:-1,Algeria3
-http://best4u.tn:8000/live/a904/r45g/1685.ts
-#EXTINF:-1,AR-Numidia-News
-http://best4u.tn:8000/live/a904/r45g/1599.ts
-#EXTINF:-1,Arb-EN TV-Algeria
-http://best4u.tn:8000/live/a904/r45g/1471.ts
-#EXTINF:-1,Ar-Algeria4_tv
-http://best4u.tn:8000/live/a904/r45g/1682.ts
-#EXTINF:-1,AR-heddaf
-http://best4u.tn:8000/live/a904/r45g/829.ts
-#EXTINF:-1,AR-ECHOUROUK-HD
-http://best4u.tn:8000/live/a904/r45g/1601.ts
-#EXTINF:-1,AR-Echourouk-benna
-http://best4u.tn:8000/live/a904/r45g/831.ts
-#EXTINF:-1,AR-Echourouk-News
-http://best4u.tn:8000/live/a904/r45g/203.ts
-#EXTINF:-1,AR-Coran-algerie
-http://best4u.tn:8000/live/a904/r45g/1644.ts
-#EXTINF:-1,AR-Dzair_TV
-http://best4u.tn:8000/live/a904/r45g/202.ts
-#EXTINF:-1,AR-Samira-TV
-http://best4u.tn:8000/live/a904/r45g/210.ts
-#EXTINF:-1,AR-Karameesh
-http://best4u.tn:8000/live/a904/r45g/1535.ts
-#EXTINF:-1,AR-Dzair3
-http://best4u.tn:8000/live/a904/r45g/1598.ts
-#EXTINF:-1,AR-DZAIRBILAD
-http://best4u.tn:8000/live/a904/r45g/1602.ts
-#EXTINF:-1,AR-DZAIR-news
-http://best4u.tn:8000/live/a904/r45g/1596.ts
-#EXTINF:-1,AR-beur-algerie
-http://best4u.tn:8000/live/a904/r45g/1600.ts
-#EXTINF:-1,Ar-DJAZAIRIA
-http://best4u.tn:8000/live/a904/r45g/205.ts
-#EXTINF:-1,AR-ENNAHAR-TV
-http://best4u.tn:8000/live/a904/r45g/164.ts
-#EXTINF:-1,AR-Ennahar-Laki
-http://best4u.tn:8000/live/a904/r45g/207.ts
-#EXTINF:-1,AR-KBC-ALGERIA
-http://best4u.tn:8000/live/a904/r45g/1604.ts
-#EXTINF:-1,AR-Medi1_TV
-http://best4u.tn:8000/live/a904/r45g/293.ts
-#EXTINF:-1,AR-Almaghribia
-http://best4u.tn:8000/live/a904/r45g/2028.ts
-#EXTINF:-1,Ar-AlHiwar
-http://best4u.tn:8000/live/a904/r45g/817.ts
-#EXTINF:-1,AR-Al_Magharibia
-http://best4u.tn:8000/live/a904/r45g/821.ts
-#EXTINF:-1,AlMagharibia-Two
-http://best4u.tn:8000/live/a904/r45g/1917.ts
-#EXTINF:-1,AR-2M_Maroc
-http://best4u.tn:8000/live/a904/r45g/197.ts
-#EXTINF:-1,AR-Arriadia
-http://best4u.tn:8000/live/a904/r45g/1533.ts
-#EXTINF:-1,AR-Al Rasheed
-http://best4u.tn:8000/live/a904/r45g/1532.ts
-#EXTINF:-1,AR-Assadissa
-http://best4u.tn:8000/live/a904/r45g/1645.ts
-#EXTINF:-1,AlAoula-maroc
-http://best4u.tn:8000/live/a904/r45g/1646.ts
-#EXTINF:-1,AR-Tamazight
-http://best4u.tn:8000/live/a904/r45g/1473.ts
-#EXTINF:-1,AlArabiya-Hadath
-http://best4u.tn:8000/live/a904/r45g/151.ts
-#EXTINF:-1,Ar-Arabiya
-http://best4u.tn:8000/live/a904/r45g/150.ts
-#EXTINF:-1,Ar-Hadath
-http://best4u.tn:8000/live/a904/r45g/154.ts
-#EXTINF:-1,CNBC-ARABIA
-http://best4u.tn:8000/live/a904/r45g/1916.ts
-#EXTINF:-1,Ar-JAZEERA
-http://best4u.tn:8000/live/a904/r45g/146.ts
-#EXTINF:-1,Ar-Jazeera-Documentary
-http://best4u.tn:8000/live/a904/r45g/155.ts
-#EXTINF:-1,AR-Ontv_live
-http://best4u.tn:8000/live/a904/r45g/1642.ts
-#EXTINF:-1,Ar-ONTV-sport
-http://best4u.tn:8000/live/a904/r45g/835.ts
-#EXTINF:-1,ON-E
-http://best4u.tn:8000/live/a904/r45g/3702.ts
-#EXTINF:-1,Ar-Al Masira
-http://best4u.tn:8000/live/a904/r45g/833.ts
-#EXTINF:-1,AR-SAMA-CINEMA
-http://best4u.tn:8000/live/a904/r45g/848.ts
-#EXTINF:-1,arb-TRTArabic
-http://best4u.tn:8000/live/a904/r45g/1460.ts
-#EXTINF:-1,AR-BBC-ARABIC
-http://best4u.tn:8000/live/a904/r45g/824.ts
-#EXTINF:-1,AR-FRANCE24
-http://best4u.tn:8000/live/a904/r45g/129.ts
-#EXTINF:-1,Ar-RT_arabic
-http://best4u.tn:8000/live/a904/r45g/2067.ts
-#EXTINF:-1,AR-NBN
-http://best4u.tn:8000/live/a904/r45g/826.ts
-#EXTINF:-1,Ar-Mayadeen
-http://best4u.tn:8000/live/a904/r45g/816.ts
-#EXTINF:-1,AR-ANN-News
-http://best4u.tn:8000/live/a904/r45g/828.ts
-#EXTINF:-1,AR-DW-TV
-http://best4u.tn:8000/live/a904/r45g/288.ts
-#EXTINF:-1,AD-NatGeo
-http://best4u.tn:8000/live/a904/r45g/119.ts
-#EXTINF:-1,AD-DRAMA
-http://best4u.tn:8000/live/a904/r45g/102.ts
-#EXTINF:-1,AD_ALOULA
-http://best4u.tn:8000/live/a904/r45g/105.ts
-#EXTINF:-1,AD-ALEMARAT
-http://best4u.tn:8000/live/a904/r45g/101.ts
-#EXTINF:-1,Ar-SAUDI 1
-http://best4u.tn:8000/live/a904/r45g/1530.ts
-#EXTINF:-1,AR-SAUDI_2
-http://best4u.tn:8000/live/a904/r45g/195.ts
-#EXTINF:-1,SAUDI-EKHBARIYA
-http://best4u.tn:8000/live/a904/r45g/3711.ts
-#EXTINF:-1,saudi-QUran
-http://best4u.tn:8000/live/a904/r45g/3714.ts
-#EXTINF:-1,AJIAL-saudi
-http://best4u.tn:8000/live/a904/r45g/3713.ts
-#EXTINF:-1,arb-Saudi Sunnah
-http://best4u.tn:8000/live/a904/r45g/173.ts
-#EXTINF:-1,AR-Saudi-24
-http://best4u.tn:8000/live/a904/r45g/1527.ts
-#EXTINF:-1,Iraqia-Sport
-http://best4u.tn:8000/live/a904/r45g/1705.ts
-#EXTINF:-1,Ar-Rafiden
-http://best4u.tn:8000/live/a904/r45g/1702.ts
-#EXTINF:-1,Ar-Naeem-TV
-http://best4u.tn:8000/live/a904/r45g/1869.ts
-#EXTINF:-1,Ar-Masar
-http://best4u.tn:8000/live/a904/r45g/1704.ts
-#EXTINF:-1,Ar-ASSEMA
-http://best4u.tn:8000/live/a904/r45g/1703.ts
-#EXTINF:-1,AR-KURDISTAN-TV
-http://best4u.tn:8000/live/a904/r45g/1640.ts
-#EXTINF:-1,Alrai
-http://best4u.tn:8000/live/a904/r45g/1686.ts
-#EXTINF:-1,Ar-Wanasah
-http://best4u.tn:8000/live/a904/r45g/111.ts
-#EXTINF:-1,arb-AGHANIA TV
-http://best4u.tn:8000/live/a904/r45g/1459.ts
-#EXTINF:-1,Ar--Hurra-Iraq
-http://best4u.tn:8000/live/a904/r45g/1636.ts
-#EXTINF:-1,IRQ-Al-Forat
-http://best4u.tn:8000/live/a904/r45g/1470.ts
-#EXTINF:-1,Alhurra
-http://best4u.tn:8000/live/a904/r45g/124.ts
-#EXTINF:-1,AR-AFAK-TV
-http://best4u.tn:8000/live/a904/r45g/1501.ts
-#EXTINF:-1,Ar--SHARQIYA-HD
-http://best4u.tn:8000/live/a904/r45g/1641.ts
-#EXTINF:-1,AR-Dijlah-TV
-http://best4u.tn:8000/live/a904/r45g/1634.ts
-#EXTINF:-1,Ar--Mawsleya
-http://best4u.tn:8000/live/a904/r45g/1633.ts
-#EXTINF:-1,Ar-Sumaria-TV
-http://best4u.tn:8000/live/a904/r45g/1643.ts
-#EXTINF:-1,AR-Rudaw-HD
-http://best4u.tn:8000/live/a904/r45g/1632.ts
-#EXTINF:-1,AR-CIRA-TV
-http://best4u.tn:8000/live/a904/r45g/1618.ts
-#EXTINF:-1,AR-KNN
-http://best4u.tn:8000/live/a904/r45g/1631.ts
-#EXTINF:-1,Ar-TV-kurd
-http://best4u.tn:8000/live/a904/r45g/2066.ts
-#EXTINF:-1,Ar-NRT HD
-http://best4u.tn:8000/live/a904/r45g/2969.ts
-#EXTINF:-1,AR-NRT_2
-http://best4u.tn:8000/live/a904/r45g/2968.ts
-#EXTINF:-1,AR-SHARKIA-NEWS
-http://best4u.tn:8000/live/a904/r45g/1500.ts
-#EXTINF:-1,AR-Halab Today
-http://best4u.tn:8000/live/a904/r45g/1499.ts
-#EXTINF:-1,YEMEN-TV
-http://best4u.tn:8000/live/a904/r45g/1553.ts
-#EXTINF:-1,AR-Moga-Comedy
-http://best4u.tn:8000/live/a904/r45g/1534.ts
-#EXTINF:-1,AR-Melody_Classic
-http://best4u.tn:8000/live/a904/r45g/140.ts
-#EXTINF:-1,AR-Mazzika
-http://best4u.tn:8000/live/a904/r45g/291.ts
-#EXTINF:-1,AR-NOOR-DUBAI
-http://best4u.tn:8000/live/a904/r45g/149.ts
-#EXTINF:-1,AR-MUSIC_Al_Hanen
-http://best4u.tn:8000/live/a904/r45g/131.ts
-#EXTINF:-1,AR-DUBAITV
-http://best4u.tn:8000/live/a904/r45g/128.ts
-#EXTINF:-1,AR-DUBAI-ONE
-http://best4u.tn:8000/live/a904/r45g/126.ts
-#EXTINF:-1,AR-SAMADUBAI
-http://best4u.tn:8000/live/a904/r45g/133.ts
-#EXTINF:-1,Ar-Ennahar_Algerie
-http://best4u.tn:8000/live/a904/r45g/1681.ts
-#EXTINF:-1,Ar-Abu dhabi TV
-http://best4u.tn:8000/live/a904/r45g/1469.ts
-#EXTINF:-1,AJMAN-TV
-http://best4u.tn:8000/live/a904/r45g/153.ts
-#EXTINF:-1,Ar-MANAR
-http://best4u.tn:8000/live/a904/r45g/853.ts
-#EXTINF:-1,Ar--SHARJAH
-http://best4u.tn:8000/live/a904/r45g/121.ts
-#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
-http://best4u.tn:8000/live/a904/r45g/284.ts
-#EXTINF:-1,OTV-LEBANON
-http://best4u.tn:8000/live/a904/r45g/1925.ts
-#EXTINF:-1,AR-LDC
-http://best4u.tn:8000/live/a904/r45g/1648.ts
-#EXTINF:-1,AR-LBC
-http://best4u.tn:8000/live/a904/r45g/139.ts
-#EXTINF:-1,AR-Cartoon
-http://best4u.tn:8000/live/a904/r45g/162.ts
-#EXTINF:-1,AR-FUTURE_TV
-http://best4u.tn:8000/live/a904/r45g/280.ts
-#EXTINF:-1,AR-Mickey
-http://best4u.tn:8000/live/a904/r45g/286.ts
-#EXTINF:-1,AR-mtv_lebanon
-http://best4u.tn:8000/live/a904/r45g/209.ts
-#EXTINF:-1,AR-Teleliban
-http://best4u.tn:8000/live/a904/r45g/819.ts
-#EXTINF:-1,AR-JADEED
-http://best4u.tn:8000/live/a904/r45g/813.ts
-#EXTINF:-1,AR-Al_Aqsa
-http://best4u.tn:8000/live/a904/r45g/1606.ts
-#EXTINF:-1,arb-AL-Quds
-http://best4u.tn:8000/live/a904/r45g/108.ts
-#EXTINF:-1,Ar-Al_Rayyan
-http://best4u.tn:8000/live/a904/r45g/3569.ts
-#EXTINF:-1,Ar-Hawacom(Leb)
-http://best4u.tn:8000/live/a904/r45g/3568.ts
-#EXTINF:-1,AR-Syria-News
-http://best4u.tn:8000/live/a904/r45g/825.ts
-#EXTINF:-1,Syria_TV
-http://best4u.tn:8000/live/a904/r45g/1399.ts
-#EXTINF:-1,Sriya Drama
-http://best4u.tn:8000/live/a904/r45g/1404.ts
-#EXTINF:-1,NABD-SYRIA
-http://best4u.tn:8000/live/a904/r45g/3707.ts
-#EXTINF:-1,SAMA-SYRIA
-http://best4u.tn:8000/live/a904/r45g/3708.ts
-#EXTINF:-1,Syria Ikhbaria
-http://best4u.tn:8000/live/a904/r45g/1402.ts
-#EXTINF:-1,Syria-DRAMA
-http://best4u.tn:8000/live/a904/r45g/1401.ts
-#EXTINF:-1,arb-sama_alsham
-http://best4u.tn:8000/live/a904/r45g/1458.ts
-#EXTINF:-1,Ar-EDU-SYRIA
-http://best4u.tn:8000/live/a904/r45g/2303.ts
-#EXTINF:-1,Nile_news
-http://best4u.tn:8000/live/a904/r45g/295.ts
-#EXTINF:-1,Nile_Life
-http://best4u.tn:8000/live/a904/r45g/144.ts
-#EXTINF:-1,Nile_Family
-http://best4u.tn:8000/live/a904/r45g/143.ts
-#EXTINF:-1,Nile_Drama
-http://best4u.tn:8000/live/a904/r45g/142.ts
-#EXTINF:-1,Nile_Cinema
-http://best4u.tn:8000/live/a904/r45g/294.ts
-#EXTINF:-1,Nile_Comedy
-http://best4u.tn:8000/live/a904/r45g/141.ts
-#EXTINF:-1,Ar-Hayat-Cinema
-http://best4u.tn:8000/live/a904/r45g/136.ts
-#EXTINF:-1,Alhayat-Muslsalat
-http://best4u.tn:8000/live/a904/r45g/515.ts
-#EXTINF:-1,AlNahar-Drama
-http://best4u.tn:8000/live/a904/r45g/159.ts
-#EXTINF:-1,Ar-nahar-nour
-http://best4u.tn:8000/live/a904/r45g/838.ts
-#EXTINF:-1,Ar-Nahar-Al-Youm
-http://best4u.tn:8000/live/a904/r45g/837.ts
-#EXTINF:-1,Ar-Nahar+2
-http://best4u.tn:8000/live/a904/r45g/834.ts
-#EXTINF:-1,Ar--Nahar
-http://best4u.tn:8000/live/a904/r45g/156.ts
-#EXTINF:-1,DREAM1
-http://best4u.tn:8000/live/a904/r45g/287.ts
-#EXTINF:-1,Dream2
-http://best4u.tn:8000/live/a904/r45g/163.ts
-#EXTINF:-1,Ar-Sky_News
-http://best4u.tn:8000/live/a904/r45g/2305.ts
-#EXTINF:-1,Cairo-Universal
-http://best4u.tn:8000/live/a904/r45g/106.ts
-#EXTINF:-1,Cairo-Drama
-http://best4u.tn:8000/live/a904/r45g/109.ts
-#EXTINF:-1,Cairo-cinema
-http://best4u.tn:8000/live/a904/r45g/107.ts
-#EXTINF:-1,Panorama-Drama2
-http://best4u.tn:8000/live/a904/r45g/41.ts
-#EXTINF:-1,Panorama-Drama
-http://best4u.tn:8000/live/a904/r45g/40.ts
-#EXTINF:-1,Panorama-Film
-http://best4u.tn:8000/live/a904/r45g/1555.ts
-#EXTINF:-1,Panorama-comedy
-http://best4u.tn:8000/live/a904/r45g/844.ts
-#EXTINF:-1,Panorama-FOOD
-http://best4u.tn:8000/live/a904/r45g/842.ts
-#EXTINF:-1,AR-Elbalad_Drama
-http://best4u.tn:8000/live/a904/r45g/115.ts
-#EXTINF:-1,AR-time_cinema
-http://best4u.tn:8000/live/a904/r45g/223.ts
-#EXTINF:-1,AR-TIME-COMEDY
-http://best4u.tn:8000/live/a904/r45g/849.ts
-#EXTINF:-1,STAR-CINEMA2
-http://best4u.tn:8000/live/a904/r45g/850.ts
-#EXTINF:-1,STAR-CINEMA1
-http://best4u.tn:8000/live/a904/r45g/851.ts
-#EXTINF:-1,LTC-MASR
-http://best4u.tn:8000/live/a904/r45g/845.ts
-#EXTINF:-1,AR-ElBalad-Drama
-http://best4u.tn:8000/live/a904/r45g/843.ts
-#EXTINF:-1,ALMASRAWIA-AFLAM
-http://best4u.tn:8000/live/a904/r45g/847.ts
-#EXTINF:-1,AR-imagine_moives
-http://best4u.tn:8000/live/a904/r45g/852.ts
-#EXTINF:-1,Althanya
-http://best4u.tn:8000/live/a904/r45g/199.ts
-#EXTINF:-1,AR-Mehwer
-http://best4u.tn:8000/live/a904/r45g/130.ts
-#EXTINF:-1,arb-Royatv
-http://best4u.tn:8000/live/a904/r45g/1461.ts
-#EXTINF:-1,arb-Quran TV KSA
-http://best4u.tn:8000/live/a904/r45g/1456.ts
-#EXTINF:-1,Arb-Al_Rahma
-http://best4u.tn:8000/live/a904/r45g/1454.ts
-#EXTINF:-1,arb-Libya1_TV
-http://best4u.tn:8000/live/a904/r45g/1453.ts
-#EXTINF:-1,AR-FUNoon
-http://best4u.tn:8000/live/a904/r45g/289.ts
-#EXTINF:-1,Ar-SADA-MISR
-http://best4u.tn:8000/live/a904/r45g/2299.ts
-#EXTINF:-1,Ar-NOUR-KIDS
-http://best4u.tn:8000/live/a904/r45g/2300.ts
-#EXTINF:-1,Ar-Amen_TV
-http://best4u.tn:8000/live/a904/r45g/2304.ts
-#EXTINF:-1,Ar-GNN
-http://best4u.tn:8000/live/a904/r45g/2295.ts
-#EXTINF:-1,Menhag-Alnbowa
-http://best4u.tn:8000/live/a904/r45g/1918.ts
-#EXTINF:-1,AR-HEYA
-http://best4u.tn:8000/live/a904/r45g/815.ts
-#EXTINF:-1,AR-Qatar
-http://best4u.tn:8000/live/a904/r45g/132.ts
-#EXTINF:-1,ALGHAD-ALARABI
-http://best4u.tn:8000/live/a904/r45g/198.ts
-#EXTINF:-1,Sudan-OUS
-http://best4u.tn:8000/live/a904/r45g/3710.ts
-#EXTINF:-1,Neelain-Sport-sudan
-http://best4u.tn:8000/live/a904/r45g/3709.ts
-#EXTINF:-1,AR-SUDAN-TV
-http://best4u.tn:8000/live/a904/r45g/820.ts
-#EXTINF:-1,Ar-Blue_Nile
-http://best4u.tn:8000/live/a904/r45g/1531.ts
-#EXTINF:-1,AR-Kuweit 1
-http://best4u.tn:8000/live/a904/r45g/1635.ts
-#EXTINF:-1,Ar-KTV2
-http://best4u.tn:8000/live/a904/r45g/814.ts
-#EXTINF:-1,AR-Baraem
-http://best4u.tn:8000/live/a904/r45g/55.ts
-#EXTINF:-1,AR-Ktv_Al_Arabi
-http://best4u.tn:8000/live/a904/r45g/1689.ts
-#EXTINF:-1,TAHA-atfal
-http://best4u.tn:8000/live/a904/r45g/2229.ts
-#EXTINF:-1,AlJazeera_Children
-http://best4u.tn:8000/live/a904/r45g/61.ts
-#EXTINF:-1,AR-Jeem-CartoonArabia
-http://best4u.tn:8000/live/a904/r45g/167.ts
-#EXTINF:-1,Toyor
-http://best4u.tn:8000/live/a904/r45g/1398.ts
-#EXTINF:-1,AR-Falastiniah
-http://best4u.tn:8000/live/a904/r45g/1605.ts
-#EXTINF:-1,Alruqia-TV
-http://best4u.tn:8000/live/a904/r45g/1621.ts
-#EXTINF:-1,AR-SAT7-ARABIC
-http://best4u.tn:8000/live/a904/r45g/1608.ts
-#EXTINF:-1,Ar-Al Nahar Cinema
-http://best4u.tn:8000/live/a904/r45g/194.ts
-#EXTINF:-1,arb-Abu_Dhabi_Drama
-http://best4u.tn:8000/live/a904/r45g/1397.ts
-#EXTINF:-1,Ar--MASSAR-AL-OULA
-http://best4u.tn:8000/live/a904/r45g/1914.ts
-#EXTINF:-1,AR-Iqraa
-http://best4u.tn:8000/live/a904/r45g/812.ts
-#EXTINF:-1,AL_Resala
-http://best4u.tn:8000/live/a904/r45g/161.ts
-#EXTINF:-1,AR-SPACETOON
-http://best4u.tn:8000/live/a904/r45g/134.ts
-#EXTINF:-1,AR-TOKTOK-CINEMA
-http://best4u.tn:8000/live/a904/r45g/116.ts
-#EXTINF:-1,AL_MAJD
-http://best4u.tn:8000/live/a904/r45g/285.ts
-#EXTINF:-1,Ar-cima
-http://best4u.tn:8000/live/a904/r45g/279.ts
-#EXTINF:-1,Ar-NADA-TV
-http://best4u.tn:8000/live/a904/r45g/839.ts
-#EXTINF:-1,AR-AYAAT
-http://best4u.tn:8000/live/a904/r45g/243.ts
-#EXTINF:-1,ALIMAN_TV
-http://best4u.tn:8000/live/a904/r45g/158.ts
-#EXTINF:-1,ALFATH_Quran
-http://best4u.tn:8000/live/a904/r45g/282.ts
-#EXTINF:-1,AR-Kaifa_tv
-http://best4u.tn:8000/live/a904/r45g/250.ts
-#EXTINF:-1,AR-Resalat_ALIslam
-http://best4u.tn:8000/live/a904/r45g/172.ts
-#EXTINF:-1,AR-Ummah_TV
-http://best4u.tn:8000/live/a904/r45g/1617.ts
-#EXTINF:-1,AR-Noursat
-http://best4u.tn:8000/live/a904/r45g/1622.ts
-#EXTINF:-1,AR-MODY-KIDS
-http://best4u.tn:8000/live/a904/r45g/1607.ts
-#EXTINF:-1,AR-Atfal&mawaheb
-http://best4u.tn:8000/live/a904/r45g/1623.ts
-#EXTINF:-1,ALHAYAT
-http://best4u.tn:8000/live/a904/r45g/123.ts
-#EXTINF:-1,Alhayat_2
-http://best4u.tn:8000/live/a904/r45g/157.ts
-#EXTINF:-1,Ar-Logos TV
-http://best4u.tn:8000/live/a904/r45g/2308.ts
-#EXTINF:-1,Ar-Alkarma TV
-http://best4u.tn:8000/live/a904/r45g/2310.ts
-#EXTINF:-1,Am-Assyriasat
-http://best4u.tn:8000/live/a904/r45g/3586.ts
-#EXTINF:-1,Ar-Aghapy TV
-http://best4u.tn:8000/live/a904/r45g/2307.ts
-#EXTINF:-1,Ar-SAMARRA-TV
-http://best4u.tn:8000/live/a904/r45g/2306.ts
-#EXTINF:-1,AR-HONA-BAGHDAD
-http://best4u.tn:8000/live/a904/r45g/1498.ts
-#EXTINF:-1,Ar-AMJAD-TV
-http://best4u.tn:8000/live/a904/r45g/2297.ts
-#EXTINF:-1,ALhayah-ALaan
-http://best4u.tn:8000/live/a904/r45g/1639.ts
-#EXTINF:-1,AR-AR-Noon-Tv
-http://best4u.tn:8000/live/a904/r45g/118.ts
-#EXTINF:-1,AR-AlAnwar
-http://best4u.tn:8000/live/a904/r45g/110.ts
-#EXTINF:-1,AR-Alam_News
-http://best4u.tn:8000/live/a904/r45g/1867.ts
-#EXTINF:-1,Ar-Al_Kahera_Wel_Nes
-http://best4u.tn:8000/live/a904/r45g/3204.ts
-#EXTINF:-1,Ar-Al_Kahera wal nas 2
-http://best4u.tn:8000/live/a904/r45g/3203.ts
-#EXTINF:-1,Am-Armenian_tv
-http://best4u.tn:8000/live/a904/r45g/3575.ts
-#EXTINF:-1,Am-AABC
-http://best4u.tn:8000/live/a904/r45g/3573.ts
-#EXTINF:-1,Am-ARTN
-http://best4u.tn:8000/live/a904/r45g/3572.ts
-#EXTINF:-1,Am-kentron
-http://best4u.tn:8000/live/a904/r45g/3574.ts
-#EXTINF:-1,Am-AMGA
-http://best4u.tn:8000/live/a904/r45g/3581.ts
-#EXTINF:-1,Am-ARMOUNT_TV
-http://best4u.tn:8000/live/a904/r45g/3579.ts
-#EXTINF:-1,Am-Pan_Armenian
-http://best4u.tn:8000/live/a904/r45g/3577.ts
-#EXTINF:-1,Am-shant_tv
-http://best4u.tn:8000/live/a904/r45g/3576.ts
-#EXTINF:-1,Am-H3
-http://best4u.tn:8000/live/a904/r45g/3580.ts
-#EXTINF:-1,Am-Yerkir_Media
-http://best4u.tn:8000/live/a904/r45g/3578.ts
-#EXTINF:-1,ALKAS-FOUR
-http://best4u.tn:8000/live/a904/r45g/3915.ts
-#EXTINF:-1,ALKAS-TWO
-http://best4u.tn:8000/live/a904/r45g/3914.ts
-#EXTINF:-1,ALKASS-ONE
-http://best4u.tn:8000/live/a904/r45g/3913.ts
 
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS Global",BeINSPORTS Global
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/755.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1 HD",BeINSPORTS 1 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1 SD",BeINSPORTS 1 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/753.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2 HD",BeINSPORTS 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/752.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2 SD",BeINSPORTS 2 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/751.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 HD",BeINSPORTS 3 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 SD",BeINSPORTS 3 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4 HD",BeINSPORTS 4 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/748.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4 SD",BeINSPORTS 4 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/747.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5 HD",BeINSPORTS 5 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/746.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5 SD",BeINSPORTS 5 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/745.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6 HD",BeINSPORTS 6 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/744.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6 SD",BeINSPORTS 6 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/743.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7 HD",BeINSPORTS 7 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/742.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7 SD",BeINSPORTS 7 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/741.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8 HD",BeINSPORTS 8 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/740.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8 SD",BeINSPORTS 8 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/739.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9HD",BeINSPORTS 9HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/738.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9 SD",BeINSPORTS 9 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/737.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10 HD",BeINSPORTS 10 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/736.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10 SD",BeINSPORTS 10 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/735.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 11 HD",BeINSPORTS 11 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/734.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS 12 HD",beINSPORTS 12 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/733.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" ,AD Sports 1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" ,AD Sports 2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" ,AD Sports 3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/719.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" ,AD Sports 4HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/720.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" ,AD Sports 5HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/721.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" ,AD Sports 6HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/722.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/724.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" ,BeIN Movies 3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/725.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" ,BeIN Movies 4HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/726.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/727.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" ,BeIN Baraim_HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/729.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" ,BeIN Jeem_HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/728.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" ,BeIN GROUMMET
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/730.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" ,BeIN Fatafeat
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/731.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" ,BeIN Discovery HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/732.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/630.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="2M-Monde" ,2M-Monde
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/631.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tele-Maroc" ,Tele-Maroc
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/632.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Medi-1-TV" ,Medi-1-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/633.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Maghribia" ,Al-Maghribia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/634.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Arriadia" ,Arriadia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/635.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Arrabia" ,Arrabia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/636.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Assadisa" ,Assadisa
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/637.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tamazight" ,Tamazight
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/638.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SUD24-TV" ,SUD24-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/639.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Samira-Tv",Samira-Tv
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/607.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk TV",Echorouk TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/609.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk news",Echorouk news
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/608.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk Benna",Echorouk Benna
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/610.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Programme.National",Programme.National
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/611.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Canal-Algerie",Canal-Algerie
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/612.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 3",Algeria 3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/613.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 5",Algeria 5
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/614.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="EnnahTV",EnnahTV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/615.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="EnnahLaki",EnnahLaki
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/616.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Dzair TV",Dzair TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/623.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Dzai News",Dzai News
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/622.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Beur-TV",Beur-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/618.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BAHIA TV",BAHIA TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/617.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Eljazairia-TV",Eljazairia-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/624.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Elhaddaf-TV",Elhaddaf-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/625.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Elbilad",Elbilad
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/626.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Kbc Algeria",Kbc Algeria
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/627.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-TV",Berbere-TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/619.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-Music",Berbere-Music
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/620.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-Jeuness",Berbere-Jeuness
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/621.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-1",Al Magharibia-1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/628.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-2",Al Magharibia-2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/629.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" ,Tunesia 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/597.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" ,Tunesia 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/598.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tonesna" ,Tonesna
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/599.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="El-HiwEttounsi" ,El-HiwEttounsi
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/604.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Janoubia" ,Al-Janoubia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/606.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" ,Attasiaa
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/605.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Nessma" ,Nessma
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/601.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hannibal" ,Hannibal
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/603.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Telvaza" ,Telvaza
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/600.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Zitouna" ,Zitouna
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/602.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alresalah" ,Alresalah
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/593.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alrahma" ,Alrahma
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/590.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alnas" ,Alnas
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/591.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd Quran" ,Al Majd Quran
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/594.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd Hadith" ,Al Majd Hadith
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/595.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd" ,Al Majd
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/596.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="IQRAA" ,IQRAA
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/592.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CN Arabia" ,CN Arabia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/580.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Baraeem" ,Baraeem
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/581.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" ,Toyour ElJannah
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/582.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour Baby" ,Toyour Baby
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/583.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" ,Space Toon
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/584.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Quest-Arabia" ,Quest-Arabia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/577.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="National Geo-Abudhabi" ,National Geo-Abudhabi
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/579.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera Doc" ,Aljazeera Doc
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/578.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera",Aljazeera
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/569.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alhadath",Alhadath
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/570.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia",Alarabiyia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/571.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="France 24",France 24
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/572.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Ekhbariya",Al Ekhbariya
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/576.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Skynews",Skynews
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/573.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BBC",BBC
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/574.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews",Euronews
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/575.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 1",Aflam 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/585.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 2",Aflam 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/586.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema",Cinema
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/588.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1",Hekayat 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/587.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2",Hekayat 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/589.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies HD" ,Movies HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/547.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 2 HD" ,Movies 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/548.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Action HD" ,Movies Action HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/549.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Action 2 HD" ,Movies Action 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/550.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Comedy HD" ,Movies Comedy HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/551.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Premiere" ,Movies Premiere
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/552.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Premiere 2" ,Movies Premiere 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/553.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 1HD" ,Officebox 1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/554.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 2HD" ,Officebox 2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/555.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 3HD" ,Officebox 3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/556.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Ondemand HD" ,Ondemand HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/557.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Ondemend Extra HD" ,Ondemend Extra HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/558.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala HD" ,Yahala HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/567.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala Shabab HD" ,Yahala Shabab HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/568.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala DraHD" ,Yahala DraHD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/566.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala CineHD" ,Yahala CineHD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/565.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cine1HD" ,Cine1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/560.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cine2HD" ,Cine2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/559.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii-Shamia" ,SeeVii-Shamia
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/564.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii DraHD." ,SeeVii DraHD.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/563.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii Beelink HD" ,SeeVii Beelink HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/562.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii Al oula HD" ,SeeVii Al oula HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/561.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" ,MBC 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/528.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" ,MBC 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/529.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" ,MBC 3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/530.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" ,MBC 4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/531.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" ,MBC ACTION
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/532.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" ,MBC MAX
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/539.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" ,MBC MASR 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/537.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" ,MBC MASR 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/538.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" ,MBC DRAMA
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/535.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" ,MBC DRAMA HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/536.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" ,MBC BOLLYWOOD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/534.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" ,MBC B4U AFLAM
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/533.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/540.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" ,MBC SPORT 2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/541.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" ,MBC SPORT 3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/542.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" ,MBC SPORT 4HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/543.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" ,MBC VARIETY HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/544.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" ,MBC ZEE Aflam
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/545.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" ,MBC ZEE Alwan
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/546.ts|user-agent=FreeIPTV LibVLC/3.0.0-git
 
 
 
