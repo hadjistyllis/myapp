@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,6/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,7/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -117,20 +117,14 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 http://..........
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 (MxPlayer)
 http://bit.ly/ert1gr1
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 (Wuffy Player)
-mmsh://38.99.163.111:80/net?sid=BD5F4322-59A4-3D9K-8B5A-61DC29EA64EE&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV
 https://www.youtube.com/watch?v=Zx98moCvkpU
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 (MxPlayer)
 http://bit.ly/ert2gr1
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 (Wuffy Player)
-mmsh://38.99.163.111:80/ERT2?sid=36368084-829E-3D9K-863E-EE4751AC1789&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WorldWide WebTV
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 (MxPlayer)
 http://bit.ly/ert3gr1
-#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 (Wuffy Player)
-mmsh://38.99.163.111:80/ERTHD?sid=45D848CE-34E4-3D9K-AFFC-07AA04621130&MSWMExt=.asf
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV
 https://www.youtube.com/watch?v=ECbJrjrcCUE
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV
@@ -141,31 +135,23 @@ https://www.youtube.com/watch?v=Ba4voPNmZUU
 rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
 #EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (MxPlayer)
 http://bit.ly/ant1gr1
-#EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (Wuffy Player)
-mmsh://38.99.163.111:80/ant1?sid=6A3077DD-F08B-3D9K-AB53-411EE6A74212&MSWMExt=.asf
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (MxPlayer)
 http://bit.ly/megagr1
-#EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Wuffy Player)
-mmsh://38.103.153.242:80/mega?sid=6A8DF282-940A-3D9K-89F4-576585E07D50&MSWMExt=.asf
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 https://www.youtube.com/watch?v=tug1qABlQ-M
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (MxPlayer)
 http://bit.ly/skaigr1
-#EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (Wuffy Player)
-mmsh://38.99.163.111:80/skai?sid=DC2AE07A-DFD4-3D9K-A85F-E43BD1ED90E4&MSWMExt=.asf
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
-https://www.youtube.com/watch?v=vXDT-96pkD4
+https://www.youtube.com/watch?v=vkAlx6qVwTk
 #EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (MxPlayer)
 http://bit.ly/alphagr1
-#EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (Wuffy Player)
-mmsh://38.99.163.111:80/alpha?sid=1F10F636-32BA-3D9K-916C-CFFE62DE772A&MSWMExt=.asf
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
 https://www.youtube.com/watch?v=a67XGboEcdw
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
+#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
 http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
@@ -179,8 +165,6 @@ https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://4.31.30.145:9080
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR (Wuffy Player)
-mmsh://38.99.163.111:80/star?sid=EE738802-4738-3D9K-B522-B902A7A119A3&MSWMExt=.asf
 #EXTINF:0 tvg-name="Extra" tvg-logo=https://goo.gl/DLdUJo ,EXTRA (MxPlayer)
 http://bit.ly/extragr1
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
@@ -191,8 +175,8 @@ http://bit.ly/artgr1
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
-#EXTINF:-1 tvg-name="Action 24" tvg-logo=http://greektv.pbworks.com/f/ACTION24.png ,Action 24 (Wuffy Player)
-mmsh://38.103.153.242/sport_plus?sid=98B16135-A1D9-3D9K-8A61-C48F71D85A57&MSWMExt=.asf
+#EXTINF:-1 tvg-name="Action 24" tvg-logo=http://greektv.pbworks.com/f/ACTION24.png ,Action 24
+http://stream-13.dc3.dailymotion.com/24/dm/3/x5j0ses/live-2.m3u8
 #EXTINF:-1 tvg-logo=http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png ,BEST TV 
 http://s.bizr.gr:8080/hls/best.m3u8
 #EXTINF:-1 tvg-logo=http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/02/BestTVlogo_792-150x120.png ,BEST Deal TV
@@ -542,6 +526,90 @@ http://95.82.241.148:81//udp/239.255.2.58:1234
 
 
 
+#EXTINF:3 group-title=”USA2”, 
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,JusticeTV
+http://108.232.85.212:8000/play/a027
+#EXTINF:-1,WTTW Create
+http://108.232.85.212:8000/play/a02g
+#EXTINF:-1,getTV
+http://108.232.85.212:8000/play/a025
+#EXTINF:-1,Telemundo
+http://108.232.85.212:8000/play/a01x
+#EXTINF:-1,WGN-TV
+http://108.232.85.212:8000/play/a01e
+#EXTINF:-1,This TV
+http://108.232.85.212:8000/play/a01g
+#EXTINF:-1,WTTW Prime
+http://108.232.85.212:8000/play/a02f
+#EXTINF:-1,WTTW Full
+http://108.232.85.212:8000/play/a02e
+#EXTINF:-1,WTTW Kids
+http://108.232.85.212:8000/play/a02h
+#EXTINF:-1,Antenna TV
+http://108.232.85.212:8000/play/a01f
+#EXTINF:-1,CBS
+http://108.232.85.212:8000/play/a01b
+#EXTINF:-1,Escape
+http://108.232.85.212:8000/play/a023
+#EXTINF:-1,Grit
+http://108.232.85.212:8000/play/a026
+#EXTINF:-1,Unimas
+http://108.232.85.212:8000/play/a022
+#EXTINF:-1,ABC
+http://108.232.85.212:8000/play/a02i
+#EXTINF:-1,Cozi TV
+http://108.232.85.212:8000/play/a01j
+#EXTINF:-1,LAFF
+http://108.232.85.212:8000/play/a02k
+#EXTINF:-1,Decades
+http://108.232.85.212:8000/play/a01c
+#EXTINF:-1,Telexitos
+http://108.232.85.212:8000/play/a01y
+#EXTINF:-1,Univision
+http://108.232.85.212:8000/play/a024
+#EXTINF:-1,NBC
+http://108.232.85.212:8000/play/a01i
+#EXTINF:-1,Live Well Network
+http://108.232.85.212:8000/play/a02j
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -605,514 +673,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,USA: A&E HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27492.ts
-#EXTINF:-1,USA: ABC
-http://best-anonymous.eu:8000/live/filippo1/carmine/27440.ts
-#EXTINF:-1,USA: ABC Action News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27437.ts
-#EXTINF:-1,USA: ABC FAMILY/SPARK
-http://best-anonymous.eu:8000/live/filippo1/carmine/27441.ts
-#EXTINF:-1,USA: ABC HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27436.ts
-#EXTINF:-1,USA: ABC News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27438.ts
-#EXTINF:-1,USA: AFN Family Movie
-http://best-anonymous.eu:8000/live/filippo1/carmine/27442.ts
-#EXTINF:-1,USA: AFN Movie
-http://best-anonymous.eu:8000/live/filippo1/carmine/27444.ts
-#EXTINF:-1,USA: AFN News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27445.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://best-anonymous.eu:8000/live/filippo1/carmine/27446.ts
-#EXTINF:-1,USA: AFN Prime Pacific
-http://best-anonymous.eu:8000/live/filippo1/carmine/27447.ts
-#EXTINF:-1,USA: AL JAZEERA U.S HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27491.ts
-#EXTINF:-1,USA: AMC
-http://best-anonymous.eu:8000/live/filippo1/carmine/27560.ts
-#EXTINF:-1,USA: Americas Auction TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27426.ts
-#EXTINF:-1,USA: ANIMAL PLANET
-http://best-anonymous.eu:8000/live/filippo1/carmine/27576.ts
-#EXTINF:-1,USA: Astro Sports 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/27547.ts
-#EXTINF:-1,USA: Astro Sports 3
-http://best-anonymous.eu:8000/live/filippo1/carmine/27548.ts
-#EXTINF:-1,USA: Astro Sports 4
-http://best-anonymous.eu:8000/live/filippo1/carmine/27549.ts
-#EXTINF:-1,USA: BBC WORLD NEWS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27490.ts
-#EXTINF:-1,USA: BEIN SPORTS U.S.A
-http://best-anonymous.eu:8000/live/filippo1/carmine/27489.ts
-#EXTINF:-1,USA: Big Ten Network HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27474.ts
-#EXTINF:-1,USA: BLOOMBERG TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27550.ts
-#EXTINF:-1,USA: BOX OFFICE MOVIES
-http://best-anonymous.eu:8000/live/filippo1/carmine/27513.ts
-#EXTINF:-1,USA: Bravo HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27494.ts
-#EXTINF:-1,USA: BT SPORT | ESPN
-http://best-anonymous.eu:8000/live/filippo1/carmine/27580.ts
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27499.ts
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27498.ts
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27497.ts
-#EXTINF:-1,USA: CAPITAL TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27501.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://best-anonymous.eu:8000/live/filippo1/carmine/27487.ts
-#EXTINF:-1,USA: CBS HD-US
-http://best-anonymous.eu:8000/live/filippo1/carmine/27574.ts
-#EXTINF:-1,USA: CBS News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27561.ts
-#EXTINF:-1,USA: CBSN News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27504.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://best-anonymous.eu:8000/live/filippo1/carmine/27470.ts
-#EXTINF:-1,USA: Cinemax 5 Star Max
-http://best-anonymous.eu:8000/live/filippo1/carmine/27493.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://best-anonymous.eu:8000/live/filippo1/carmine/27507.ts
-#EXTINF:-1,USA: Cinemax East
-http://best-anonymous.eu:8000/live/filippo1/carmine/27508.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://best-anonymous.eu:8000/live/filippo1/carmine/27486.ts
-#EXTINF:-1,USA: CITY HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27509.ts
-#EXTINF:-1,USA: CNBC HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27469.ts
-#EXTINF:-1,USA: CNN
-http://best-anonymous.eu:8000/live/filippo1/carmine/27554.ts
-#EXTINF:-1,USA: CNN HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27555.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://best-anonymous.eu:8000/live/filippo1/carmine/27553.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://best-anonymous.eu:8000/live/filippo1/carmine/27485.ts
-#EXTINF:-1,USA: Crime & Investigation
-http://best-anonymous.eu:8000/live/filippo1/carmine/27484.ts
-#EXTINF:-1,USA: CW 11 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27558.ts
-#EXTINF:-1,USA: CW Channel 11
-http://best-anonymous.eu:8000/live/filippo1/carmine/27505.ts
-#EXTINF:-1,USA: DEPORTES HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27464.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27567.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27579.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27578.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://best-anonymous.eu:8000/live/filippo1/carmine/27483.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27523.ts
-#EXTINF:-1,USA: E! Network HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27482.ts
-#EXTINF:-1,USA: ESPN
-http://best-anonymous.eu:8000/live/filippo1/carmine/27584.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27583.ts
-#EXTINF:-1,USA: ESPN 3 TRE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27582.ts
-#EXTINF:-1,USA: ESPN NEWS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27581.ts
-#EXTINF:-1,USA: EURO NEWS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27552.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://best-anonymous.eu:8000/live/filippo1/carmine/27528.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/27514.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/27510.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://best-anonymous.eu:8000/live/filippo1/carmine/27481.ts
-#EXTINF:-1,USA: FOX MOTOSPORT
-http://best-anonymous.eu:8000/live/filippo1/carmine/27435.ts
-#EXTINF:-1,USA: Fox News
-http://best-anonymous.eu:8000/live/filippo1/carmine/27515.ts
-#EXTINF:-1,USA: FOX NY
-http://best-anonymous.eu:8000/live/filippo1/carmine/27551.ts
-#EXTINF:-1,USA: FOX SOCCER SUN HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27463.ts
-#EXTINF:-1,USA: FOX SPORTS ONE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27577.ts
-#EXTINF:-1,USA: FOX SPORTS TWO HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27503.ts
-#EXTINF:-1,USA: FX HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27516.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://best-anonymous.eu:8000/live/filippo1/carmine/27545.ts
-#EXTINF:-1,USA: GSN TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27468.ts
-#EXTINF:-1,USA: HALLMARK HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27518.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://best-anonymous.eu:8000/live/filippo1/carmine/27519.ts
-#EXTINF:-1,USA: HBO Family HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27467.ts
-#EXTINF:-1,USA: HBO HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27520.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27521.ts
-#EXTINF:-1,USA: HBO ZONE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27522.ts
-#EXTINF:-1,USA: HEART TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27500.ts
-#EXTINF:-1,USA: HGTV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27461.ts
-#EXTINF:-1,USA: HISTORY HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27568.ts
-#EXTINF:-1,USA: HSN YT LIVE 1080p HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27432.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27430.ts
-#EXTINF:-1,USA: LIFE TIME
-http://best-anonymous.eu:8000/live/filippo1/carmine/27524.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27502.ts
-#EXTINF:-1,USA: LMN HDTV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27459.ts
-#EXTINF:-1,USA: MLB HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27527.ts
-#EXTINF:-1,USA: MOVIETIME
-http://best-anonymous.eu:8000/live/filippo1/carmine/27506.ts
-#EXTINF:-1,USA: MSNBC HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27462.ts
-#EXTINF:-1,USA: MTV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27563.ts
-#EXTINF:-1,USA: MTV HITS LA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27439.ts
-#EXTINF:-1,USA: MTV LIVE HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27566.ts
-#EXTINF:-1,USA: MTV LIVE USA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27564.ts
-#EXTINF:-1,USA: Music Choice RAP
-http://best-anonymous.eu:8000/live/filippo1/carmine/27526.ts
-#EXTINF:-1,USA: Music Choice Rap2k
-http://best-anonymous.eu:8000/live/filippo1/carmine/27525.ts
-#EXTINF:-1,USA: MY9 TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27458.ts
-#EXTINF:-1,USA: NASA TV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27434.ts
-#EXTINF:-1,USA: NASA TV MEDIA HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27433.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27565.ts
-#EXTINF:-1,USA: NBA TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27517.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27535.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27534.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27533.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27532.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27531.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27530.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27529.ts
-#EXTINF:-1,USA: NBC GOLF
-http://best-anonymous.eu:8000/live/filippo1/carmine/27480.ts
-#EXTINF:-1,USA: NBC HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27537.ts
-#EXTINF:-1,USA: NBCSN HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27536.ts
-#EXTINF:-1,USA: NEWSMAX YT LIVE HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27431.ts
-#EXTINF:-1,USA: NFL Network HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27586.ts
-#EXTINF:-1,USA: NFL Network HDTV 1080i
-http://best-anonymous.eu:8000/live/filippo1/carmine/27457.ts
-#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27585.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://best-anonymous.eu:8000/live/filippo1/carmine/27479.ts
-#EXTINF:-1,USA: NHLTV NETWORK HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27460.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27456.ts
-#EXTINF:-1,USA: NICKELODEON KIDS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27488.ts
-#EXTINF:-1,USA: NICKTOONS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27455.ts
-#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27472.ts
-#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27454.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://best-anonymous.eu:8000/live/filippo1/carmine/27473.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://best-anonymous.eu:8000/live/filippo1/carmine/27429.ts
-#EXTINF:-1,USA: QVC Live
-http://best-anonymous.eu:8000/live/filippo1/carmine/27428.ts
-#EXTINF:-1,USA: QVC Plus
-http://best-anonymous.eu:8000/live/filippo1/carmine/27427.ts
-#EXTINF:-1,USA: Redbull TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27443.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://best-anonymous.eu:8000/live/filippo1/carmine/27478.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27538.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27453.ts
-#EXTINF:-1,USA: Showtime HDTV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27539.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://best-anonymous.eu:8000/live/filippo1/carmine/27452.ts
-#EXTINF:-1,USA: SPIKE TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27562.ts
-#EXTINF:-1,USA: SportsNet One HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27540.ts
-#EXTINF:-1,USA: Starz Cinema
-http://best-anonymous.eu:8000/live/filippo1/carmine/27541.ts
-#EXTINF:-1,USA: Starz Comedy
-http://best-anonymous.eu:8000/live/filippo1/carmine/27542.ts
-#EXTINF:-1,USA: Starz East
-http://best-anonymous.eu:8000/live/filippo1/carmine/27543.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27544.ts
-#EXTINF:-1,USA: Starz Encore East
-http://best-anonymous.eu:8000/live/filippo1/carmine/27512.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27511.ts
-#EXTINF:-1,USA: Starz West
-http://best-anonymous.eu:8000/live/filippo1/carmine/27546.ts
-#EXTINF:-1,USA: SYFY HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27477.ts
-#EXTINF:-1,USA: T.N.T
-http://best-anonymous.eu:8000/live/filippo1/carmine/27557.ts
-#EXTINF:-1,USA: TBS
-http://best-anonymous.eu:8000/live/filippo1/carmine/27556.ts
-#EXTINF:-1,USA: TBS HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27569.ts
-#EXTINF:-1,USA: TENNIS HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27451.ts
-#EXTINF:-1,USA: THE WALKING DEAD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27465.ts
-#EXTINF:-1,USA: The Weather Channel
-http://best-anonymous.eu:8000/live/filippo1/carmine/27496.ts
-#EXTINF:-1,USA: TLC
-http://best-anonymous.eu:8000/live/filippo1/carmine/27570.ts
-#EXTINF:-1,USA: Toon Kids
-http://best-anonymous.eu:8000/live/filippo1/carmine/27471.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://best-anonymous.eu:8000/live/filippo1/carmine/27572.ts
-#EXTINF:-1,USA: TRU TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27450.ts
-#EXTINF:-1,USA: TRUE MOVIES
-http://best-anonymous.eu:8000/live/filippo1/carmine/27476.ts
-#EXTINF:-1,USA: TV SERIES
-http://best-anonymous.eu:8000/live/filippo1/carmine/27475.ts
-#EXTINF:-1,USA: TV SKY ONE
-http://best-anonymous.eu:8000/live/filippo1/carmine/27449.ts
-#EXTINF:-1,USA: University of California TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27495.ts
-#EXTINF:-1,USA: USA Network
-http://best-anonymous.eu:8000/live/filippo1/carmine/27559.ts
-#EXTINF:-1,USA: Versus | NBA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27571.ts
-#EXTINF:-1,USA: VH1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27448.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://best-anonymous.eu:8000/live/filippo1/carmine/27575.ts
-#EXTINF:-1,USA: WWE Network
-http://best-anonymous.eu:8000/live/filippo1/carmine/27573.ts
-#EXTINF:-1,VOD: Sky Select (Sausage Party: Es geht um die Wurst 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24455.ts
-#EXTINF:-1,CA : ABC HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27420.ts
-#EXTINF:-1,CA : abc spark
-http://best-anonymous.eu:8000/live/filippo1/carmine/27362.ts
-#EXTINF:-1,CA : BET – black entertainment television
-http://best-anonymous.eu:8000/live/filippo1/carmine/27363.ts
-#EXTINF:-1,CA : Bnn HDTV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27365.ts
-#EXTINF:-1,CA : Bravo HDTV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27364.ts
-#EXTINF:-1,CA : cbc toronto
-http://best-anonymous.eu:8000/live/filippo1/carmine/27367.ts
-#EXTINF:-1,CA : CHCH HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27368.ts
-#EXTINF:-1,CA : City TV Vancouver
-http://best-anonymous.eu:8000/live/filippo1/carmine/27369.ts
-#EXTINF:-1,CA : Comedy Gold TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27370.ts
-#EXTINF:-1,CA : cottage life
-http://best-anonymous.eu:8000/live/filippo1/carmine/27371.ts
-#EXTINF:-1,CA : country music television
-http://best-anonymous.eu:8000/live/filippo1/carmine/27372.ts
-#EXTINF:-1,CA : CP24 TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27373.ts
-#EXTINF:-1,CA : ctv toronto
-http://best-anonymous.eu:8000/live/filippo1/carmine/27375.ts
-#EXTINF:-1,CA : deja view
-http://best-anonymous.eu:8000/live/filippo1/carmine/27376.ts
-#EXTINF:-1,CA : E! HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27377.ts
-#EXTINF:-1,CA : fox 25 hd
-http://best-anonymous.eu:8000/live/filippo1/carmine/27378.ts
-#EXTINF:-1,CA : fox news
-http://best-anonymous.eu:8000/live/filippo1/carmine/27379.ts
-#EXTINF:-1,CA : fxx hd
-http://best-anonymous.eu:8000/live/filippo1/carmine/27380.ts
-#EXTINF:-1,CA : fyi
-http://best-anonymous.eu:8000/live/filippo1/carmine/27381.ts
-#EXTINF:-1,CA : G4 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27382.ts
-#EXTINF:-1,CA : golf channel
-http://best-anonymous.eu:8000/live/filippo1/carmine/27383.ts
-#EXTINF:-1,CA : gsn
-http://best-anonymous.eu:8000/live/filippo1/carmine/27384.ts
-#EXTINF:-1,CA : HBO 2_CA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27421.ts
-#EXTINF:-1,CA : HBO_CA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27422.ts
-#EXTINF:-1,CA : History_HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27385.ts
-#EXTINF:-1,CA : ici artv
-http://best-anonymous.eu:8000/live/filippo1/carmine/27386.ts
-#EXTINF:-1,CA : ici rdi
-http://best-anonymous.eu:8000/live/filippo1/carmine/27387.ts
-#EXTINF:-1,CA : Movietime TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27388.ts
-#EXTINF:-1,CA : MTV Canada HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27389.ts
-#EXTINF:-1,CA : MTV_CANADA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27423.ts
-#EXTINF:-1,CA : much music
-http://best-anonymous.eu:8000/live/filippo1/carmine/27390.ts
-#EXTINF:-1,CA : NBA TV_CA
-http://best-anonymous.eu:8000/live/filippo1/carmine/27424.ts
-#EXTINF:-1,CA : nick
-http://best-anonymous.eu:8000/live/filippo1/carmine/27391.ts
-#EXTINF:-1,CA : omni 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/27392.ts
-#EXTINF:-1,CA : omni 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/27393.ts
-#EXTINF:-1,CA : own (oprah winfrew network)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27394.ts
-#EXTINF:-1,CA : Peachtree HDTV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27395.ts
-#EXTINF:-1,CA : rds 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/27396.ts
-#EXTINF:-1,CA : RDS2 HD TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27397.ts
-#EXTINF:-1,CA : shopping channel
-http://best-anonymous.eu:8000/live/filippo1/carmine/27398.ts
-#EXTINF:-1,CA : silver screen classics
-http://best-anonymous.eu:8000/live/filippo1/carmine/27399.ts
-#EXTINF:-1,CA : slice
-http://best-anonymous.eu:8000/live/filippo1/carmine/27400.ts
-#EXTINF:-1,CA : Spike HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27401.ts
-#EXTINF:-1,CA : Sportnet Ontario HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27404.ts
-#EXTINF:-1,CA : Sportnet Pacific HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27425.ts
-#EXTINF:-1,CA : Sportsnet One HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27405.ts
-#EXTINF:-1,CA : Sportsnet West HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27406.ts
-#EXTINF:-1,CA : sportsnet world hd
-http://best-anonymous.eu:8000/live/filippo1/carmine/27407.ts
-#EXTINF:-1,CA : Teletoon HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27408.ts
-#EXTINF:-1,CA : TMN TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27409.ts
-#EXTINF:-1,CA : Travel Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27410.ts
-#EXTINF:-1,CA : tree house
-http://best-anonymous.eu:8000/live/filippo1/carmine/27411.ts
-#EXTINF:-1,CA : Vrak TV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27412.ts
-#EXTINF:-1,CA : w network
-http://best-anonymous.eu:8000/live/filippo1/carmine/27413.ts
-#EXTINF:-1,CA : World Fishing TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/27414.ts
-#EXTINF:-1,CA :YTV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/27419.ts
-#EXTINF:-1,CA: CP24 HD (BackUp)
-http://best-anonymous.eu:8000/live/filippo1/carmine/27374.ts
-#EXTINF:-1,CA: SportsNet 360
-http://best-anonymous.eu:8000/live/filippo1/carmine/27403.ts
-#EXTINF:-1,CA: SportsNet East
-http://best-anonymous.eu:8000/live/filippo1/carmine/27402.ts
-#EXTINF:-1,CA: Super Ecran 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/27418.ts
-#EXTINF:-1,CA: Super Ecran 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/27417.ts
-#EXTINF:-1,CA: Super Ecran 3
-http://best-anonymous.eu:8000/live/filippo1/carmine/27416.ts
-#EXTINF:-1,CA: Super Ecran 4
-http://best-anonymous.eu:8000/live/filippo1/carmine/27415.ts
-#EXTINF:-1,CA/USA : CartoonNetwork
-http://best-anonymous.eu:8000/live/filippo1/carmine/27366.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”USA2-LOOP_ONE”,
-#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
-http://..........
-
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it will stop
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
 
 #EXTINF:-1,US:  HBO Zone HD
 http://ckingiptv.tk:8000/live/burns/burns/27248.ts
@@ -1457,239 +1017,6 @@ http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/index.m3u8
 
 #EXTINF:3 group-title=”UK3”, 
 
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,BBC ONE East W
-http://86.155.243.227:9981/stream/channelid/182700908
-#EXTINF:-1,BBC TWO
-http://86.155.243.227:9981/stream/channelid/1325187567
-#EXTINF:-1,ITV
-http://86.155.243.227:9981/stream/channelid/1673351519
-#EXTINF:-1,Channel 4
-http://86.155.243.227:9981/stream/channelid/1504485777
-#EXTINF:-1,Channel 5
-http://86.155.243.227:9981/stream/channelid/1581384584
-#EXTINF:-1,ITV2
-http://86.155.243.227:9981/stream/channelid/1434497495
-#EXTINF:-1,BBC FOUR
-http://86.155.243.227:9981/stream/channelid/1099242553
-#EXTINF:-1,ITV3
-http://86.155.243.227:9981/stream/channelid/1721456114
-#EXTINF:-1,Pick
-http://86.155.243.227:9981/stream/channelid/2019010735
-#EXTINF:-1,Dave
-http://86.155.243.227:9981/stream/channelid/2126733621
-#EXTINF:-1,Channel 4+1
-http://86.155.243.227:9981/stream/channelid/1328747093
-#EXTINF:-1,More 4
-http://86.155.243.227:9981/stream/channelid/1646220684
-#EXTINF:-1,Film4
-http://86.155.243.227:9981/stream/channelid/1836336827
-#EXTINF:-1,QVC
-http://86.155.243.227:9981/stream/channelid/440092704
-#EXTINF:-1,Really
-http://86.155.243.227:9981/stream/channelid/1249772971
-#EXTINF:-1,4Music
-http://86.155.243.227:9981/stream/channelid/380611996
-#EXTINF:-1,Yesterday
-http://86.155.243.227:9981/stream/channelid/892438211
-#EXTINF:-1,Drama
-http://86.155.243.227:9981/stream/channelid/306470782
-#EXTINF:-1,5 USA
-http://86.155.243.227:9981/stream/channelid/354482559
-#EXTINF:-1,Ideal World
-http://86.155.243.227:9981/stream/channelid/62301367
-#EXTINF:-1,Create & Craft
-http://86.155.243.227:9981/stream/channelid/1226330480
-#EXTINF:-1,ITV4
-http://86.155.243.227:9981/stream/channelid/197445970
-#EXTINF:-1,Home
-http://86.155.243.227:9981/stream/channelid/466535011
-#EXTINF:-1,ITVBe
-http://86.155.243.227:9981/stream/channelid/1086818855
-#EXTINF:-1,ITV2 +1
-http://86.155.243.227:9981/stream/channelid/684377776
-#EXTINF:-1,E4
-http://86.155.243.227:9981/stream/channelid/783023617
-#EXTINF:-1,E4+1
-http://86.155.243.227:9981/stream/channelid/104070578
-#EXTINF:-1,5STAR
-http://86.155.243.227:9981/stream/channelid/2017819112
-#EXTINF:-1,Spike
-http://86.155.243.227:9981/stream/channelid/630428464
-#EXTINF:-1,Sony Movie Ch
-http://86.155.243.227:9981/stream/channelid/1625856429
-#EXTINF:-1,ITV +1
-http://86.155.243.227:9981/stream/channelid/1559767593
-#EXTINF:-1,ITV3+1
-http://86.155.243.227:9981/stream/channelid/1928624075
-#EXTINF:-1,QVC Beauty
-http://86.155.243.227:9981/stream/channelid/432630629
-#EXTINF:-1,QVC Style
-http://86.155.243.227:9981/stream/channelid/537691677
-#EXTINF:-1,QUEST
-http://86.155.243.227:9981/stream/channelid/1606729371
-#EXTINF:-1,Quest Red
-http://86.155.243.227:9981/stream/channelid/2054533008
-#EXTINF:-1,CBS Action
-http://86.155.243.227:9981/stream/channelid/955261405
-#EXTINF:-1,Food Network
-http://86.155.243.227:9981/stream/channelid/1124716070
-#EXTINF:-1,Travel Channel
-http://86.155.243.227:9981/stream/channelid/639595923
-#EXTINF:-1,Gems TV
-http://86.155.243.227:9981/stream/channelid/1394930899
-#EXTINF:-1,Channel 5+1
-http://86.155.243.227:9981/stream/channelid/1959226038
-#EXTINF:-1,Challenge
-http://86.155.243.227:9981/stream/channelid/1227925006
-#EXTINF:-1,4seven
-http://86.155.243.227:9981/stream/channelid/83649473
-#EXTINF:-1,movies4men
-http://86.155.243.227:9981/stream/channelid/921196268
-#EXTINF:-1,TJC
-http://86.155.243.227:9981/stream/channelid/426640146
-#EXTINF:-1,My5
-http://86.155.243.227:9981/stream/channelid/899575144
-#EXTINF:-1,ITVBe+1
-http://86.155.243.227:9981/stream/channelid/65949102
-#EXTINF:-1,ITV4+1
-http://86.155.243.227:9981/stream/channelid/1118338695
-#EXTINF:-1,True Entertainment
-http://86.155.243.227:9981/stream/channelid/1177971438
-#EXTINF:-1,Blaze
-http://86.155.243.227:9981/stream/channelid/2135017688
-#EXTINF:-1,TBN UK
-http://86.155.243.227:9981/stream/channelid/673523162
-#EXTINF:-1,CBS Reality
-http://86.155.243.227:9981/stream/channelid/1669464606
-#EXTINF:-1,truTV
-http://86.155.243.227:9981/stream/channelid/568841995
-#EXTINF:-1,truTV+1
-http://86.155.243.227:9981/stream/channelid/2104789620
-#EXTINF:-1,Horror Channel
-http://86.155.243.227:9981/stream/channelid/1535640888
-#EXTINF:-1,CBS Drama
-http://86.155.243.227:9981/stream/channelid/562503226
-#EXTINF:-1,YourTV
-http://86.155.243.227:9981/stream/channelid/1828561299
-#EXTINF:-1,YourTV+1
-http://86.155.243.227:9981/stream/channelid/949832178
-#EXTINF:-1,The Store
-http://86.155.243.227:9981/stream/channelid/524146299
-#EXTINF:-1,Jewellery Maker
-http://86.155.243.227:9981/stream/channelid/2009224697
-#EXTINF:-1,Sewing Quarter
-http://86.155.243.227:9981/stream/channelid/1648253261
-#EXTINF:-1,Dave ja vu
-http://86.155.243.227:9981/stream/channelid/1755765728
-#EXTINF:-1,Blaze+1
-http://86.155.243.227:9981/stream/channelid/683615511
-#EXTINF:-1,Hochanda
-http://86.155.243.227:9981/stream/channelid/1516566297
-#EXTINF:-1,Quest Red+1
-http://86.155.243.227:9981/stream/channelid/1036802425
-#EXTINF:-1,QUEST+1
-http://86.155.243.227:9981/stream/channelid/799954380
-#EXTINF:-1,TJC Choice
-http://86.155.243.227:9981/stream/channelid/1191174848
-#EXTINF:-1,CBBC
-http://86.155.243.227:9981/stream/channelid/216724024
-#EXTINF:-1,CBeebies
-http://86.155.243.227:9981/stream/channelid/1844226245
-#EXTINF:-1,CITV
-http://86.155.243.227:9981/stream/channelid/82444340
-#EXTINF:-1,POP
-http://86.155.243.227:9981/stream/channelid/451486661
-#EXTINF:-1,BBC NEWS
-http://86.155.243.227:9981/stream/channelid/234237004
-#EXTINF:-1,BBC Parliament
-http://86.155.243.227:9981/stream/channelid/25168185
-#EXTINF:-1,Sky News
-http://86.155.243.227:9981/stream/channelid/1361283860
-#EXTINF:-1,BBC Radio 1
-http://86.155.243.227:9981/stream/channelid/1080095554
-#EXTINF:-1,BBC R1X
-http://86.155.243.227:9981/stream/channelid/763253662
-#EXTINF:-1,BBC Radio 2
-http://86.155.243.227:9981/stream/channelid/1046072337
-#EXTINF:-1,BBC Radio 3
-http://86.155.243.227:9981/stream/channelid/1530849802
-#EXTINF:-1,BBC Radio 4
-http://86.155.243.227:9981/stream/channelid/844837235
-#EXTINF:-1,BBC R5L
-http://86.155.243.227:9981/stream/channelid/104410963
-#EXTINF:-1,BBC R5SX
-http://86.155.243.227:9981/stream/channelid/483845620
-#EXTINF:-1,BBC 6 Music
-http://86.155.243.227:9981/stream/channelid/1703513202
-#EXTINF:-1,BBC Radio 4 Ex
-http://86.155.243.227:9981/stream/channelid/1117556180
-#EXTINF:-1,BBC Asian Net.
-http://86.155.243.227:9981/stream/channelid/1156142205
-#EXTINF:-1,BBC World Sv.
-http://86.155.243.227:9981/stream/channelid/293953734
-#EXTINF:-1,The Hits Radio
-http://86.155.243.227:9981/stream/channelid/1193525329
-#EXTINF:-1,KISS FRESH
-http://86.155.243.227:9981/stream/channelid/965647747
-#EXTINF:-1,Kiss
-http://86.155.243.227:9981/stream/channelid/1137564131
-#EXTINF:-1,KISSTORY
-http://86.155.243.227:9981/stream/channelid/1466808714
-#EXTINF:-1,Magic
-http://86.155.243.227:9981/stream/channelid/551328161
-#EXTINF:-1,heat
-http://86.155.243.227:9981/stream/channelid/21696825
-#EXTINF:-1,Kerrang!
-http://86.155.243.227:9981/stream/channelid/721681989
-#EXTINF:-1,Smooth Radio
-http://86.155.243.227:9981/stream/channelid/370457768
-#EXTINF:-1,BBC Norfolk
-http://86.155.243.227:9981/stream/channelid/435338136
-#EXTINF:-1,BBC Three Counties
-http://86.155.243.227:9981/stream/channelid/584716481
-#EXTINF:-1,BBC Radio London
-http://86.155.243.227:9981/stream/channelid/706477390
-#EXTINF:-1,BBC Cambridge
-http://86.155.243.227:9981/stream/channelid/1372460819
-#EXTINF:-1,talkSPORT
-http://86.155.243.227:9981/stream/channelid/1831671526
-#EXTINF:-1,Capital
-http://86.155.243.227:9981/stream/channelid/76523523
-#EXTINF:-1,Premier Radio
-http://86.155.243.227:9981/stream/channelid/1056789153
-#EXTINF:-1,Absolute Radio
-http://86.155.243.227:9981/stream/channelid/223968028
-#EXTINF:-1,Heart
-http://86.155.243.227:9981/stream/channelid/1390769325
-#EXTINF:-1,RNIB Connect
-http://86.155.243.227:9981/stream/channelid/1210851533
-#EXTINF:-1,Classic FM
-http://86.155.243.227:9981/stream/channelid/2053499423
-#EXTINF:-1,LBC
-http://86.155.243.227:9981/stream/channelid/1047720674
-#EXTINF:-1,BBC Northampton
-http://86.155.243.227:9981/stream/channelid/742777087
-#EXTINF:-1,Rocks & Co 1
-http://86.155.243.227:9981/stream/channelid/1886092851
-#EXTINF:-1,QUEST+1
-http://86.155.243.227:9981/stream/channelid/94689624
-
-
 
 
 
@@ -1791,53 +1118,520 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
-#EXTINF:-1,UK | Baby TV
-http://iptv.dguk.co.uk/live/lewis/lewis/1315.ts
-#EXTINF:-1,UK | BBC3
-http://iptv.dguk.co.uk/live/lewis/lewis/1171.ts
-#EXTINF:-1,UK | Boomerang
-http://iptv.dguk.co.uk/live/lewis/lewis/1308.ts
-#EXTINF:-1,UK | Cartoon Network
-http://iptv.dguk.co.uk/live/lewis/lewis/5366.ts
-#EXTINF:-1,UK | CBBC
-http://iptv.dguk.co.uk/live/lewis/lewis/5364.ts
-#EXTINF:-1,UK | CBBC HD
-http://iptv.dguk.co.uk/live/lewis/lewis/5363.ts
-#EXTINF:-1,UK | CBeebies
-http://iptv.dguk.co.uk/live/lewis/lewis/5362.ts
-#EXTINF:-1,UK | Cbeebies HD
-http://iptv.dguk.co.uk/live/lewis/lewis/1406.ts
-#EXTINF:-1,UK | CITV
-http://iptv.dguk.co.uk/live/lewis/lewis/1286.ts
-#EXTINF:-1,UK | Disney Channel
-http://iptv.dguk.co.uk/live/lewis/lewis/1272.ts
-#EXTINF:-1,UK | Disney Junior
-http://iptv.dguk.co.uk/live/lewis/lewis/1271.ts
-#EXTINF:-1,UK | Disney XD
-http://iptv.dguk.co.uk/live/lewis/lewis/1270.ts
-#EXTINF:-1,UK | Cartoonito
-http://iptv.dguk.co.uk/live/lewis/lewis/5365.ts
-#EXTINF:-1,UK | Kix
-http://iptv.dguk.co.uk/live/lewis/lewis/1242.ts
-#EXTINF:-1,UK | Nick Jnr Too
-http://iptv.dguk.co.uk/live/lewis/lewis/1355.ts
-#EXTINF:-1,UK | Nick Jr
-http://iptv.dguk.co.uk/live/lewis/lewis/1227.ts
-#EXTINF:-1,UK | Nickelodeon
-http://iptv.dguk.co.uk/live/lewis/lewis/1226.ts
-#EXTINF:-1,UK | Nicktoons
-http://iptv.dguk.co.uk/live/lewis/lewis/1225.ts
-#EXTINF:-1,UK | POP
-http://iptv.dguk.co.uk/live/lewis/lewis/1223.ts
-#EXTINF:-1,UK | POP MAX
-http://iptv.dguk.co.uk/live/lewis/lewis/1222.ts
-#EXTINF:-1,UK | Sky Movies Family
-http://iptv.dguk.co.uk/live/lewis/lewis/1203.ts
-#EXTINF:-1,UK | Tiny Pop
-http://iptv.dguk.co.uk/live/lewis/lewis/1185.ts
-#EXTINF:-1,UK | Sky Movies Disney
-http://iptv.dguk.co.uk/live/lewis/lewis/12206.ts
+#EXTINF:-1,CBBC HD
+http://ckingiptv.tk:8000/live/burns/burns/23735.ts
+#EXTINF:-1,BBC HD 1
+http://ckingiptv.tk:8000/live/burns/burns/23734.ts
+#EXTINF:-1,BBC 2 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23733.ts
+#EXTINF:-1,* BBC HD 3 / CBBC HD
+http://ckingiptv.tk:8000/live/burns/burns/23732.ts
+#EXTINF:-1,* BBC HD 4 / CBEEBIES HD
+http://ckingiptv.tk:8000/live/burns/burns/23731.ts
+#EXTINF:-1,BBC NEWS HD*
+http://ckingiptv.tk:8000/live/burns/burns/23730.ts
+#EXTINF:-1,Bloomberg HD*
+http://ckingiptv.tk:8000/live/burns/burns/23745.ts
+#EXTINF:-1,CARTOON NETWORK HD*
+http://ckingiptv.tk:8000/live/burns/burns/23729.ts
+#EXTINF:-1,CHANNEL 4 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23728.ts
+#EXTINF:-1,Channel 5 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23727.ts
+#EXTINF:-1,CI HD (crime and investigation)
+http://ckingiptv.tk:8000/live/burns/burns/23744.ts
+#EXTINF:-1,CNN HD*
+http://ckingiptv.tk:8000/live/burns/burns/23726.ts
+#EXTINF:-1,COMEDY CENTRAL HD*
+http://ckingiptv.tk:8000/live/burns/burns/23725.ts
+#EXTINF:-1,DAVE HD*
+http://ckingiptv.tk:8000/live/burns/burns/23724.ts
+#EXTINF:-1,DISCOVERY HD*
+http://ckingiptv.tk:8000/live/burns/burns/23723.ts
+#EXTINF:-1,DISNEY CHANNEL HD*
+http://ckingiptv.tk:8000/live/burns/burns/23743.ts
+#EXTINF:-1,E4 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23722.ts
+#EXTINF:-1,EDEN HD*
+http://ckingiptv.tk:8000/live/burns/burns/23721.ts
+#EXTINF:-1,FILM 4 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23720.ts
+#EXTINF:-1,FOX HD*
+http://ckingiptv.tk:8000/live/burns/burns/23719.ts
+#EXTINF:-1,GOOD FOOD HD*
+http://ckingiptv.tk:8000/live/burns/burns/23718.ts
+#EXTINF:-1,HISTORY 2 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23717.ts
+#EXTINF:-1,INSIGHT UHD*
+http://ckingiptv.tk:8000/live/burns/burns/23716.ts
+#EXTINF:-1,ITV BE HD*
+http://ckingiptv.tk:8000/live/burns/burns/23715.ts
+#EXTINF:-1,ITV ENCORE HD*
+http://ckingiptv.tk:8000/live/burns/burns/23714.ts
+#EXTINF:-1,ITV HD 1*
+http://ckingiptv.tk:8000/live/burns/burns/23713.ts
+#EXTINF:-1,ITV HD 2
+http://ckingiptv.tk:8000/live/burns/burns/23712.ts
+#EXTINF:-1,ITV HD 3
+http://ckingiptv.tk:8000/live/burns/burns/23711.ts
+#EXTINF:-1,ITV HD 4
+http://ckingiptv.tk:8000/live/burns/burns/23710.ts
+#EXTINF:-1,LIFETIME HD
+http://ckingiptv.tk:8000/live/burns/burns/23709.ts
+#EXTINF:-1,MORE 4 HD
+http://ckingiptv.tk:8000/live/burns/burns/23708.ts
+#EXTINF:-1,MTV HD
+http://ckingiptv.tk:8000/live/burns/burns/23707.ts
+#EXTINF:-1,MTV LIVE HD
+http://ckingiptv.tk:8000/live/burns/burns/23706.ts
+#EXTINF:-1,NAT GEO HD*
+http://ckingiptv.tk:8000/live/burns/burns/23705.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://ckingiptv.tk:8000/live/burns/burns/23704.ts
+#EXTINF:-1,NICK HD
+http://ckingiptv.tk:8000/live/burns/burns/23703.ts
+#EXTINF:-1,RTE ONE HD*
+http://ckingiptv.tk:8000/live/burns/burns/23742.ts
+#EXTINF:-1,RTE TWO  HD
+http://ckingiptv.tk:8000/live/burns/burns/23741.ts
+#EXTINF:-1,SKY 1 HD
+http://ckingiptv.tk:8000/live/burns/burns/23702.ts
+#EXTINF:-1,SKY ARTS HD
+http://ckingiptv.tk:8000/live/burns/burns/23701.ts
+#EXTINF:-1,SKY LIVING HD
+http://ckingiptv.tk:8000/live/burns/burns/23700.ts
+#EXTINF:-1,SKY NEWS HD
+http://ckingiptv.tk:8000/live/burns/burns/23699.ts
+#EXTINF:-1,SYFY HD
+http://ckingiptv.tk:8000/live/burns/burns/23698.ts
+#EXTINF:-1,TCM HD
+http://ckingiptv.tk:8000/live/burns/burns/23697.ts
+#EXTINF:-1,TG 4 HD
+http://ckingiptv.tk:8000/live/burns/burns/23740.ts
+#EXTINF:-1,UNIVERSAL HD
+http://ckingiptv.tk:8000/live/burns/burns/23696.ts
+#EXTINF:-1,UTV HD*
+http://ckingiptv.tk:8000/live/burns/burns/23695.ts
+#EXTINF:-1,W HD
+http://ckingiptv.tk:8000/live/burns/burns/23694.ts
+#EXTINF:-1,BT SPORTS 1 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23779.ts
+#EXTINF:-1,BT SPORTS 2 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23778.ts
+#EXTINF:-1,BT SPORTS 3 HD*
+http://ckingiptv.tk:8000/live/burns/burns/23777.ts
+#EXTINF:-1,BT SPORTS ESPN HD*
+http://ckingiptv.tk:8000/live/burns/burns/23776.ts
+#EXTINF:-1,BT SPORTS 1 HD 1080p
+http://ckingiptv.tk:8000/live/burns/burns/23775.ts
+#EXTINF:-1,BT SPORTS 2 1080p
+http://ckingiptv.tk:8000/live/burns/burns/23774.ts
+#EXTINF:-1,BT SPORTS 3 1080p
+http://ckingiptv.tk:8000/live/burns/burns/23773.ts
+#EXTINF:-1,EIR SPORTS HD 2
+http://ckingiptv.tk:8000/live/burns/burns/23693.ts
+#EXTINF:-1,EUROSPORTS HD
+http://ckingiptv.tk:8000/live/burns/burns/23692.ts
+#EXTINF:-1,Sky Atlantic HD*
+http://ckingiptv.tk:8000/live/burns/burns/23746.ts
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://ckingiptv.tk:8000/live/burns/burns/23772.ts
+#EXTINF:-1,SKY MOVIES COMEDY HD
+http://ckingiptv.tk:8000/live/burns/burns/23771.ts
+#EXTINF:-1,SKY MOVIES DISNEY HD*
+http://ckingiptv.tk:8000/live/burns/burns/23770.ts
+#EXTINF:-1,SKY MOVIES DRAMA ROMANCE HD
+http://ckingiptv.tk:8000/live/burns/burns/23769.ts
+#EXTINF:-1,SKY MOVIES FAMILY HD*
+http://ckingiptv.tk:8000/live/burns/burns/23768.ts
+#EXTINF:-1,SKY MOVIES GREATS HD*
+http://ckingiptv.tk:8000/live/burns/burns/23767.ts
+#EXTINF:-1,SKY MOVIES HITS HD*
+http://ckingiptv.tk:8000/live/burns/burns/23766.ts
+#EXTINF:-1,SKY MOVIES PREMIER HD*
+http://ckingiptv.tk:8000/live/burns/burns/23765.ts
+#EXTINF:-1,SKY MOVIES SCI-FI HORROR HD*
+http://ckingiptv.tk:8000/live/burns/burns/23764.ts
+#EXTINF:-1,SKY MOVIES SELECT HD*
+http://ckingiptv.tk:8000/live/burns/burns/23763.ts
+#EXTINF:-1,SKY MOVIES SHOWCASE HD*
+http://ckingiptv.tk:8000/live/burns/burns/23762.ts
+#EXTINF:-1,SKY MOVIES THRILLER HD*
+http://ckingiptv.tk:8000/live/burns/burns/23761.ts
+#EXTINF:-1,SKY SPORTS F 1HD 1080p
+http://ckingiptv.tk:8000/live/burns/burns/23749.ts
+#EXTINF:-1,SKY SPORTS MIX HD*
+http://ckingiptv.tk:8000/live/burns/burns/23748.ts
+#EXTINF:-1,SKY SPORTS NEWS HD*
+http://ckingiptv.tk:8000/live/burns/burns/23747.ts
+#EXTINF:-1,MUTV HD*
+http://ckingiptv.tk:8000/live/burns/burns/23739.ts
+#EXTINF:-1,CHELSEA TV HD
+http://ckingiptv.tk:8000/live/burns/burns/23738.ts
+#EXTINF:-1,3E*
+http://ckingiptv.tk:8000/live/burns/burns/23984.ts
+#EXTINF:-1,* 4 SEVEN*
+http://ckingiptv.tk:8000/live/burns/burns/23983.ts
+#EXTINF:-1,* 5 Star
+http://ckingiptv.tk:8000/live/burns/burns/23982.ts
+#EXTINF:-1,* AAJ TAK
+http://ckingiptv.tk:8000/live/burns/burns/23981.ts
+#EXTINF:-1,* ABP NEWS
+http://ckingiptv.tk:8000/live/burns/burns/23980.ts
+#EXTINF:-1,* AL ARABIYA NEWS (NOT EN)
+http://ckingiptv.tk:8000/live/burns/burns/23979.ts
+#EXTINF:-1,* AL JAZEERA
+http://ckingiptv.tk:8000/live/burns/burns/23978.ts
+#EXTINF:-1,* ALIBI
+http://ckingiptv.tk:8000/live/burns/burns/23977.ts
+#EXTINF:-1,* AMC
+http://ckingiptv.tk:8000/live/burns/burns/23976.ts
+#EXTINF:-1,* ANIMAL PLANET
+http://ckingiptv.tk:8000/live/burns/burns/23975.ts
+#EXTINF:-1,* AT THE RACES
+http://ckingiptv.tk:8000/live/burns/burns/23974.ts
+#EXTINF:-1,* B4U MOVIES
+http://ckingiptv.tk:8000/live/burns/burns/23973.ts
+#EXTINF:-1,* BABY TV
+http://ckingiptv.tk:8000/live/burns/burns/23972.ts
+#EXTINF:-1,* BBC ALBA
+http://ckingiptv.tk:8000/live/burns/burns/23971.ts
+#EXTINF:-1,* BBC HD 3 / CBBC
+http://ckingiptv.tk:8000/live/burns/burns/23970.ts
+#EXTINF:-1,* BBC News
+http://ckingiptv.tk:8000/live/burns/burns/23969.ts
+#EXTINF:-1,* BBC ONE SCOTLAND
+http://ckingiptv.tk:8000/live/burns/burns/23968.ts
+#EXTINF:-1,* BBC RED BUTTON
+http://ckingiptv.tk:8000/live/burns/burns/23967.ts
+#EXTINF:-1,* BBC TWO SCOTLAND
+http://ckingiptv.tk:8000/live/burns/burns/23966.ts
+#EXTINF:-1,* BBC TWO WALES
+http://ckingiptv.tk:8000/live/burns/burns/23965.ts
+#EXTINF:-1,* BBC1
+http://ckingiptv.tk:8000/live/burns/burns/23964.ts
+#EXTINF:-1,* BBC2
+http://ckingiptv.tk:8000/live/burns/burns/23963.ts
+#EXTINF:-1,* BBC3
+http://ckingiptv.tk:8000/live/burns/burns/23962.ts
+#EXTINF:-1,* BBC4
+http://ckingiptv.tk:8000/live/burns/burns/23961.ts
+#EXTINF:-1,* BE3 IRELAND
+http://ckingiptv.tk:8000/live/burns/burns/23960.ts
+#EXTINF:-1,* BET
+http://ckingiptv.tk:8000/live/burns/burns/23959.ts
+#EXTINF:-1,* BIKE CHANNEL
+http://ckingiptv.tk:8000/live/burns/burns/23958.ts
+#EXTINF:-1,* Bloomberg
+http://ckingiptv.tk:8000/live/burns/burns/23957.ts
+#EXTINF:-1,* BOOMERANG
+http://ckingiptv.tk:8000/live/burns/burns/23956.ts
+#EXTINF:-1,BOXNATION*
+http://ckingiptv.tk:8000/live/burns/burns/23955.ts
+#EXTINF:-1,BT SPORTS 1
+http://ckingiptv.tk:8000/live/burns/burns/23954.ts
+#EXTINF:-1,BT SPORTS 2*
+http://ckingiptv.tk:8000/live/burns/burns/23953.ts
+#EXTINF:-1,BT SPORTS 3*
+http://ckingiptv.tk:8000/live/burns/burns/23952.ts
+#EXTINF:-1,BT SPORTS MOSAIC*
+http://ckingiptv.tk:8000/live/burns/burns/23951.ts
+#EXTINF:-1,CARTONITO  ( NOT 24H )
+http://ckingiptv.tk:8000/live/burns/burns/23985.ts
+#EXTINF:-1,DRAMA*
+http://ckingiptv.tk:8000/live/burns/burns/23921.ts
+#EXTINF:-1,* DUNYA NEWS
+http://ckingiptv.tk:8000/live/burns/burns/23920.ts
+#EXTINF:-1,E! ENTERTAINMENT*
+http://ckingiptv.tk:8000/live/burns/burns/23919.ts
+#EXTINF:-1,E4*
+http://ckingiptv.tk:8000/live/burns/burns/23918.ts
+#EXTINF:-1,EDEN*
+http://ckingiptv.tk:8000/live/burns/burns/23917.ts
+#EXTINF:-1,ESPN*
+http://ckingiptv.tk:8000/live/burns/burns/23916.ts
+#EXTINF:-1,EUROSPORTS 1*
+http://ckingiptv.tk:8000/live/burns/burns/23915.ts
+#EXTINF:-1,EUROSPORTS 2*
+http://ckingiptv.tk:8000/live/burns/burns/23914.ts
+#EXTINF:-1,Film 4*
+http://ckingiptv.tk:8000/live/burns/burns/23913.ts
+#EXTINF:-1,FLAVA*
+http://ckingiptv.tk:8000/live/burns/burns/23912.ts
+#EXTINF:-1,FOOD NETWORK*
+http://ckingiptv.tk:8000/live/burns/burns/23911.ts
+#EXTINF:-1,FORCES TV*
+http://ckingiptv.tk:8000/live/burns/burns/23910.ts
+#EXTINF:-1,FOX*
+http://ckingiptv.tk:8000/live/burns/burns/23909.ts
+#EXTINF:-1,FOX NEWS*
+http://ckingiptv.tk:8000/live/burns/burns/23908.ts
+#EXTINF:-1,FRANCE 24 ( ENGLISH )*
+http://ckingiptv.tk:8000/live/burns/burns/23907.ts
+#EXTINF:-1,GEO NEWS INTERNATIONAL
+http://ckingiptv.tk:8000/live/burns/burns/23906.ts
+#EXTINF:-1,GEO TV*
+http://ckingiptv.tk:8000/live/burns/burns/23905.ts
+#EXTINF:-1,GOLD*
+http://ckingiptv.tk:8000/live/burns/burns/23904.ts
+#EXTINF:-1,GOOD FOOD*
+http://ckingiptv.tk:8000/live/burns/burns/23903.ts
+#EXTINF:-1,HISTORY*
+http://ckingiptv.tk:8000/live/burns/burns/23902.ts
+#EXTINF:-1,HISTORY 2 (H2)
+http://ckingiptv.tk:8000/live/burns/burns/23901.ts
+#EXTINF:-1,HOME*
+http://ckingiptv.tk:8000/live/burns/burns/23900.ts
+#EXTINF:-1,HORROR CHANNEL
+http://ckingiptv.tk:8000/live/burns/burns/23899.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY (ID)
+http://ckingiptv.tk:8000/live/burns/burns/23898.ts
+#EXTINF:-1,ITV BE*
+http://ckingiptv.tk:8000/live/burns/burns/23897.ts
+#EXTINF:-1,ITV1
+http://ckingiptv.tk:8000/live/burns/burns/23896.ts
+#EXTINF:-1,ITV2
+http://ckingiptv.tk:8000/live/burns/burns/23895.ts
+#EXTINF:-1,ITV3*
+http://ckingiptv.tk:8000/live/burns/burns/23894.ts
+#EXTINF:-1,ITV4*
+http://ckingiptv.tk:8000/live/burns/burns/23893.ts
+#EXTINF:-1,JUS PUNJABI
+http://ckingiptv.tk:8000/live/burns/burns/23892.ts
+#EXTINF:-1,KIX
+http://ckingiptv.tk:8000/live/burns/burns/23891.ts
+#EXTINF:-1,LIFETIME*
+http://ckingiptv.tk:8000/live/burns/burns/23890.ts
+#EXTINF:-1,More4*
+http://ckingiptv.tk:8000/live/burns/burns/23889.ts
+#EXTINF:-1,MOTORS TV*
+http://ckingiptv.tk:8000/live/burns/burns/23888.ts
+#EXTINF:-1,MOVIES 24*
+http://ckingiptv.tk:8000/live/burns/burns/23887.ts
+#EXTINF:-1,MOVIES 4 MEN
+http://ckingiptv.tk:8000/live/burns/burns/23886.ts
+#EXTINF:-1,MTV BASE
+http://ckingiptv.tk:8000/live/burns/burns/23885.ts
+#EXTINF:-1,MTV CLASSIC
+http://ckingiptv.tk:8000/live/burns/burns/23884.ts
+#EXTINF:-1,MTV DANCE*
+http://ckingiptv.tk:8000/live/burns/burns/23883.ts
+#EXTINF:-1,MTV HITS*
+http://ckingiptv.tk:8000/live/burns/burns/23882.ts
+#EXTINF:-1,MTV MUSIC UK*
+http://ckingiptv.tk:8000/live/burns/burns/23881.ts
+#EXTINF:-1,MTV ONE*
+http://ckingiptv.tk:8000/live/burns/burns/23880.ts
+#EXTINF:-1,MTV ROCKS
+http://ckingiptv.tk:8000/live/burns/burns/23879.ts
+#EXTINF:-1,MUTV*
+http://ckingiptv.tk:8000/live/burns/burns/23878.ts
+#EXTINF:-1,NAT GEO*
+http://ckingiptv.tk:8000/live/burns/burns/23877.ts
+#EXTINF:-1,NAT GEO WILD*
+http://ckingiptv.tk:8000/live/burns/burns/23876.ts
+#EXTINF:-1,NICK JR TOO*
+http://ckingiptv.tk:8000/live/burns/burns/23875.ts
+#EXTINF:-1,NICK JUNIOR*
+http://ckingiptv.tk:8000/live/burns/burns/23874.ts
+#EXTINF:-1,NICK TOONS*
+http://ckingiptv.tk:8000/live/burns/burns/23873.ts
+#EXTINF:-1,NICKELODEON EUROPE*
+http://ckingiptv.tk:8000/live/burns/burns/23872.ts
+#EXTINF:-1,POP*
+http://ckingiptv.tk:8000/live/burns/burns/23867.ts
+#EXTINF:-1,PREMIER SPORTS
+http://ckingiptv.tk:8000/live/burns/burns/23866.ts
+#EXTINF:-1,PTV
+http://ckingiptv.tk:8000/live/burns/burns/23865.ts
+#EXTINF:-1,QUEST*
+http://ckingiptv.tk:8000/live/burns/burns/23864.ts
+#EXTINF:-1,RACING UK*
+http://ckingiptv.tk:8000/live/burns/burns/23863.ts
+#EXTINF:-1,REALLY*
+http://ckingiptv.tk:8000/live/burns/burns/23862.ts
+#EXTINF:-1,RISHTEY CINEPLEX*
+http://ckingiptv.tk:8000/live/burns/burns/23861.ts
+#EXTINF:-1,RISHTEY TV
+http://ckingiptv.tk:8000/live/burns/burns/23860.ts
+#EXTINF:-1,RTE JUNIOR
+http://ckingiptv.tk:8000/live/burns/burns/23859.ts
+#EXTINF:-1,RTE NEWS
+http://ckingiptv.tk:8000/live/burns/burns/23858.ts
+#EXTINF:-1,RTE ONE*
+http://ckingiptv.tk:8000/live/burns/burns/23857.ts
+#EXTINF:-1,RTE TWO*
+http://ckingiptv.tk:8000/live/burns/burns/23856.ts
+#EXTINF:-1,S4C DIGIDOL
+http://ckingiptv.tk:8000/live/burns/burns/23855.ts
+#EXTINF:-1,* SAB TV
+http://ckingiptv.tk:8000/live/burns/burns/23854.ts
+#EXTINF:-1,* Scuzz
+http://ckingiptv.tk:8000/live/burns/burns/23853.ts
+#EXTINF:-1,* SET ASIA ( SONY ENTERTAINMENT TV )
+http://ckingiptv.tk:8000/live/burns/burns/23852.ts
+#EXTINF:-1,* SET MAX
+http://ckingiptv.tk:8000/live/burns/burns/23851.ts
+#EXTINF:-1,* SKY ACTION
+http://ckingiptv.tk:8000/live/burns/burns/23850.ts
+#EXTINF:-1,* SKY ARTS 1
+http://ckingiptv.tk:8000/live/burns/burns/23849.ts
+#EXTINF:-1,* SKY ATLANTIC
+http://ckingiptv.tk:8000/live/burns/burns/23848.ts
+#EXTINF:-1,* SKY COMEDY
+http://ckingiptv.tk:8000/live/burns/burns/23847.ts
+#EXTINF:-1,* SKY DISNEY
+http://ckingiptv.tk:8000/live/burns/burns/23846.ts
+#EXTINF:-1,* SKY FAMILY
+http://ckingiptv.tk:8000/live/burns/burns/23845.ts
+#EXTINF:-1,* SKY LIVING
+http://ckingiptv.tk:8000/live/burns/burns/23844.ts
+#EXTINF:-1,* SKY MODERN GREATS
+http://ckingiptv.tk:8000/live/burns/burns/23843.ts
+#EXTINF:-1,* SKY MOVIES DRAMA
+http://ckingiptv.tk:8000/live/burns/burns/23842.ts
+#EXTINF:-1,* SKY MOVIES PREMIER
+http://ckingiptv.tk:8000/live/burns/burns/23841.ts
+#EXTINF:-1,* SKY MOVIES SCI-FI - HORROR
+http://ckingiptv.tk:8000/live/burns/burns/23840.ts
+#EXTINF:-1,* SKY NEWS
+http://ckingiptv.tk:8000/live/burns/burns/23839.ts
+#EXTINF:-1,* SKY ONE
+http://ckingiptv.tk:8000/live/burns/burns/23838.ts
+#EXTINF:-1,* SKY SELECT
+http://ckingiptv.tk:8000/live/burns/burns/23837.ts
+#EXTINF:-1,* SKY SHOWCASE
+http://ckingiptv.tk:8000/live/burns/burns/23836.ts
+#EXTINF:-1,* SKY SPORTS F1
+http://ckingiptv.tk:8000/live/burns/burns/23830.ts
+#EXTINF:-1,* SKY SPORTS NEWS
+http://ckingiptv.tk:8000/live/burns/burns/23829.ts
+#EXTINF:-1,* SKY THRILLER
+http://ckingiptv.tk:8000/live/burns/burns/23828.ts
+#EXTINF:-1,* SKY TWO
+http://ckingiptv.tk:8000/live/burns/burns/23827.ts
+#EXTINF:-1,* SONY MOVIES
+http://ckingiptv.tk:8000/live/burns/burns/23826.ts
+#EXTINF:-1,* SONY TV
+http://ckingiptv.tk:8000/live/burns/burns/23825.ts
+#EXTINF:-1,* SPIKE UK
+http://ckingiptv.tk:8000/live/burns/burns/23824.ts
+#EXTINF:-1,* STAR GOLD
+http://ckingiptv.tk:8000/live/burns/burns/23823.ts
+#EXTINF:-1,* STAR JALSHA
+http://ckingiptv.tk:8000/live/burns/burns/23822.ts
+#EXTINF:-1,* STAR LIFE OK
+http://ckingiptv.tk:8000/live/burns/burns/23821.ts
+#EXTINF:-1,* STAR PLUS
+http://ckingiptv.tk:8000/live/burns/burns/23820.ts
+#EXTINF:-1,* STAR Utsav
+http://ckingiptv.tk:8000/live/burns/burns/23819.ts
+#EXTINF:-1,* STARZ TV
+http://ckingiptv.tk:8000/live/burns/burns/23818.ts
+#EXTINF:-1,* SYFY
+http://ckingiptv.tk:8000/live/burns/burns/23817.ts
+#EXTINF:-1,* TCM
+http://ckingiptv.tk:8000/live/burns/burns/23816.ts
+#EXTINF:-1,* TG4
+http://ckingiptv.tk:8000/live/burns/burns/23815.ts
+#EXTINF:-1,* THE VAULT
+http://ckingiptv.tk:8000/live/burns/burns/23814.ts
+#EXTINF:-1,* TIMES NOW
+http://ckingiptv.tk:8000/live/burns/burns/23813.ts
+#EXTINF:-1,* TINY POP
+http://ckingiptv.tk:8000/live/burns/burns/23812.ts
+#EXTINF:-1,* TLC
+http://ckingiptv.tk:8000/live/burns/burns/23811.ts
+#EXTINF:-1,* TLC EUROPE
+http://ckingiptv.tk:8000/live/burns/burns/23810.ts
+#EXTINF:-1,* TRAVEL CHANNEL
+http://ckingiptv.tk:8000/live/burns/burns/23809.ts
+#EXTINF:-1,* TRUE CRIME
+http://ckingiptv.tk:8000/live/burns/burns/23808.ts
+#EXTINF:-1,* TRUE DRAMA
+http://ckingiptv.tk:8000/live/burns/burns/23807.ts
+#EXTINF:-1,* TRUE ENTERTAINMENT
+http://ckingiptv.tk:8000/live/burns/burns/23806.ts
+#EXTINF:-1,* TRUE MOVIES
+http://ckingiptv.tk:8000/live/burns/burns/23805.ts
+#EXTINF:-1,* TRUE MOVIES 2
+http://ckingiptv.tk:8000/live/burns/burns/23804.ts
+#EXTINF:-1,* TV3
+http://ckingiptv.tk:8000/live/burns/burns/23803.ts
+#EXTINF:-1,* Universal Channel
+http://ckingiptv.tk:8000/live/burns/burns/23802.ts
+#EXTINF:-1,* URDU 1
+http://ckingiptv.tk:8000/live/burns/burns/23801.ts
+#EXTINF:-1,* VH1
+http://ckingiptv.tk:8000/live/burns/burns/23800.ts
+#EXTINF:-1,* VICE LAND
+http://ckingiptv.tk:8000/live/burns/burns/23799.ts
+#EXTINF:-1,* VINTAGE TV
+http://ckingiptv.tk:8000/live/burns/burns/23798.ts
+#EXTINF:-1,* VIVA UK
+http://ckingiptv.tk:8000/live/burns/burns/23797.ts
+#EXTINF:-1,* WATCH
+http://ckingiptv.tk:8000/live/burns/burns/23796.ts
+#EXTINF:-1,* YESTERDAY
+http://ckingiptv.tk:8000/live/burns/burns/23795.ts
+#EXTINF:-1,* ZEE PUNJABI
+http://ckingiptv.tk:8000/live/burns/burns/23794.ts
+#EXTINF:-1,* ZEE TV
+http://ckingiptv.tk:8000/live/burns/burns/23793.ts
+#EXTINF:-1,* ZING
+http://ckingiptv.tk:8000/live/burns/burns/23792.ts
+#EXTINF:-1,*Boomerang
+http://ckingiptv.tk:8000/live/burns/burns/23783.ts
+#EXTINF:-1,*BT SPORTS EXTRA
+http://ckingiptv.tk:8000/live/burns/burns/23790.ts
+#EXTINF:-1,*CHELSEA TV
+http://ckingiptv.tk:8000/live/burns/burns/23787.ts
+#EXTINF:-1,*Discovery History
+http://ckingiptv.tk:8000/live/burns/burns/23782.ts
+#EXTINF:-1,*EIR SPORTS 1
+http://ckingiptv.tk:8000/live/burns/burns/23786.ts
+#EXTINF:-1,*EIR SPORTS 2
+http://ckingiptv.tk:8000/live/burns/burns/23785.ts
+#EXTINF:-1,*LFC TV
+http://ckingiptv.tk:8000/live/burns/burns/23788.ts
+#EXTINF:-1,*MUTV
+http://ckingiptv.tk:8000/live/burns/burns/23789.ts
+#EXTINF:-1,*TG4
+http://ckingiptv.tk:8000/live/burns/burns/23780.ts
+#EXTINF:-1,*True Entertainment  1
+http://ckingiptv.tk:8000/live/burns/burns/23784.ts
+#EXTINF:-1,*UK Gold
+http://ckingiptv.tk:8000/live/burns/burns/23791.ts
+#EXTINF:-1,*UTV IE
+http://ckingiptv.tk:8000/live/burns/burns/23781.ts
+#EXTINF:-1,Zee Cinema
+http://ckingiptv.tk:8000/live/burns/burns/24990.ts
+#EXTINF:-1,ARY NEWS UK
+http://ckingiptv.tk:8000/live/burns/burns/25080.ts
+#EXTINF:-1,GEO NEWS UK
+http://ckingiptv.tk:8000/live/burns/burns/25089.ts
+#EXTINF:-1,GEO TV UK
+http://ckingiptv.tk:8000/live/burns/burns/25062.ts
+#EXTINF:-1,Colors UK
+http://ckingiptv.tk:8000/live/burns/burns/25016.ts
+#EXTINF:-1,Life Ok Uk
+http://ckingiptv.tk:8000/live/burns/burns/25019.ts
+#EXTINF:-1,Rishtey UK
+http://ckingiptv.tk:8000/live/burns/burns/25021.ts
+#EXTINF:-1,Sab TV UK
+http://ckingiptv.tk:8000/live/burns/burns/25023.ts
+#EXTINF:-1,Sony Max UK
+http://ckingiptv.tk:8000/live/burns/burns/24997.ts
+#EXTINF:-1,Sony TV UK
+http://ckingiptv.tk:8000/live/burns/burns/25025.ts
+#EXTINF:-1,STAR PLUS UK
+http://ckingiptv.tk:8000/live/burns/burns/25028.ts
+#EXTINF:-1,Zee TV UK
+http://ckingiptv.tk:8000/live/burns/burns/25029.ts
+#EXTINF:-1,Zing UK
+http://ckingiptv.tk:8000/live/burns/burns/24975.ts
+#EXTINF:-1,Zoom UK
+http://ckingiptv.tk:8000/live/burns/burns/24977.ts
 
 
 
@@ -3025,35 +2819,6 @@ http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
 
 
 
-#EXTINF:-1,Rai 1
-http://144.2.100.111:8000/play/a00a
-#EXTINF:-1,Rai 2
-http://144.2.100.111:8000/play/a00b
-#EXTINF:-1,Rai 3
-http://144.2.100.111:8000/play/a00c
-#EXTINF:-1,Rai 4
-http://144.2.100.111:8000/play/a00d
-#EXTINF:-1,Rai 5
-http://144.2.100.111:8000/play/a00e
-#EXTINF:-1,Rai Movie
-http://144.2.100.111:8000/play/a009
-#EXTINF:-1,Rai Premium
-http://144.2.100.111:8000/play/a008
-#EXTINF:-1,Rai Sport 2
-http://144.2.100.111:8000/play/a007
-#EXTINF:-1,ab3
-http://144.2.100.111:8000/play/a005
-#EXTINF:-1,RTL9
-http://144.2.100.111:8000/play/a006
-#EXTINF:-1,NT1 HD
-http://144.2.100.111:8000/play/a002
-#EXTINF:-1,France0
-http://144.2.100.111:8000/play/a001
-#EXTINF:-1,D17
-http://144.2.100.111:8000/play/a003
-#EXTINF:-1,6ter
-http://144.2.100.111:8000/play/a004
-
 
 
 
@@ -3443,6 +3208,241 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 #EXTINF:6 group-title=”France2”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1, Canal+ (H24)
+http://185.2.83.186/canalplus/index.m3u8
+#EXTINF:-1, Canal+ Cinéma
+http://185.2.83.186/canalpluscinema/index.m3u8
+#EXTINF:-1, Canal+ Décalé
+http://185.2.83.186/canalplusdecale/index.m3u8
+#EXTINF:-1, Canal+ Family
+http://185.2.83.186/canalplusfamily/index.m3u8
+#EXTINF:-1, Canal+ Séries
+http://185.2.83.186/canalplusseries/index.m3u8
+#EXTINF:-1, Cine+ Classic
+http://185.2.83.186/cineclassic/index.m3u8
+#EXTINF:-1, Cine+ Emotion
+http://185.2.83.186/cineemotion/index.m3u8
+#EXTINF:-1, Cine+ Famiz
+http://185.2.83.186/cinefamiz/index.m3u8
+#EXTINF:-1, Cine+ Frisson
+http://185.2.83.186/cinefrisson/index.m3u8
+#EXTINF:-1, Ciné+ Premier
+http://185.2.83.186/cinepremier/index.m3u8
+#EXTINF:-1, OCS Choc
+http://185.2.83.186/ocschoc/index-1504563030-now.m3u8
+#EXTINF:-1, OCS City
+http://185.2.83.186/ocscityvf/index-1504563086-now.m3u8
+#EXTINF:-1, OCS Geants
+http://185.2.83.186/ocsgeants/index-1504563185-now.m3u8
+#EXTINF:-1, OCS Max
+http://185.2.83.186/ocsmax/index-1504563234-now.m3u8
+#EXTINF:-1, Paramount Channel
+http://185.2.83.186/paramount/index.m3u8
+#EXTINF:-1, BeIn Sports 1
+http://185.2.83.186:8080/bein1/index.m3u8
+#EXTINF:-1, BeIn Sports 2
+http://185.2.83.186:8080/bein2/index.m3u8
+#EXTINF:-1, BeIn Sports 3
+http://185.2.83.186:8080/bein3/index.m3u8
+#EXTINF:-1, Bein Sports MAX 4
+http://185.2.83.186:8080/bein4/index.m3u8
+#EXTINF:-1, Bein Sports MAX 5
+http://185.2.83.186:8080/bein5/index.m3u8
+#EXTINF:-1, Bein Sports MAX 6
+http://185.2.83.186:8080/bein6/index.m3u8
+#EXTINF:-1, Bein Sports MAX 7
+http://185.2.83.186:8080/bein7/index.m3u8
+#EXTINF:-1, Bein Sports MAX 8
+http://185.2.83.186:8080/bein8/index.m3u8
+#EXTINF:-1, Bein Sports MAX 9
+http://185.2.83.186:8080/bein9/index.m3u8
+#EXTINF:-1, Bein Sports MAX 10
+http://185.2.83.186:8080/bein10/index.m3u8
+#EXTINF:-1, Canal+ Sport
+http://185.2.83.186:8080/canalplussport/index.m3u8
+#EXTINF:-1, Equidia Live
+http://185.2.83.186:8080/equidialive/index.m3u8
+#EXTINF:-1, EuroSport 1
+http://185.2.83.186:8080/eurosport1/index.m3u8
+#EXTINF:-1, EuroSport 2
+http://185.2.83.186:8080/eurosport2/index.m3u8
+#EXTINF:-1, Foot +
+http://185.2.83.186:8080/footplus/index.m3u8
+#EXTINF:-1, Infosport+
+http://185.2.83.186:8080/infosport/index.m3u8
+#EXTINF:-1, SFR Sports 1
+http://185.2.83.186:8080/sfr1/index.m3u8
+#EXTINF:-1, SFR Sports 2
+http://185.2.83.186:8080/sfr2/index.m3u8
+#EXTINF:-1, SFR Sports 3
+http://185.2.83.186:8080/sfr3/index.m3u8
+#EXTINF:-1, SFR Sports 5
+http://185.2.83.186:8080/sfr5/index.m3u8
+#EXTINF:-1, Chasse & Pêche
+http://185.2.83.186:8080/chasseetpeche/index.m3u8
+#EXTINF:-1, Discovery
+http://185.2.83.186:8080/discovery/index.m3u8
+#EXTINF:-1, Discovery Science
+http://185.2.83.186:8080/discoveryscience/index.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://185.2.83.186:8080/natgeowild/index.m3u8
+#EXTINF:-1, National Geographic
+http://185.2.83.186:8080/natgeo/index.m3u8
+#EXTINF:-1, Planète+
+http://185.2.83.186:8080/planete/index.m3u8
+#EXTINF:-1, Planète+ A&E
+http://185.2.83.186:8080/planeteae/index.m3u8
+#EXTINF:-1, Planète+ CI
+http://185.2.83.186:8080/planeteci/index.m3u8
+#EXTINF:-1, RMC Découverte
+http://185.2.83.186:8080/rmc/index.m3u8
+#EXTINF:-1, Cnews
+http://185.2.83.186:8080/cnews/index.m3u8
+#EXTINF:-1, MCM
+http://185.2.83.186:8080/mcm/index.m3u8
+#EXTINF:-1, MCM TOP
+http://185.2.83.186:8080/mcmtop/index.m3u8
+#EXTINF:-1, MTV
+http://185.2.83.186:8080/mtv/index.m3u8
+#EXTINF:-1, NRJ HITS
+http://185.2.83.186:8080/nrjtv/index.m3u8
+#EXTINF:-1, RFM TV
+http://185.2.83.186:8080/rfmtv/index.m3u8
+#EXTINF:-1, Trace Urban
+http://185.2.83.186:8080/traceurban/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://185.2.83.186:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1, Canal J
+http://185.2.83.186:8080/canalj/index.m3u8
+#EXTINF:-1, Boomerang
+http://185.2.83.186:8080/boomerang/index.m3u8
+#EXTINF:-1, Disney Channel
+http://185.2.83.186:8080/disneychannel/index.m3u8
+#EXTINF:-1, Disney Cinema
+http://185.2.83.186:8080/disneycinema/index.m3u8
+#EXTINF:-1, Disney Junior
+http://185.2.83.186:8080/disneyjunior/index.m3u8
+#EXTINF:-1, Disney XD
+http://185.2.83.186:8080/disneyxd/index.m3u8
+#EXTINF:-1, Gulli
+http://185.2.83.186:8080/gulli/index.m3u8
+#EXTINF:-1, J-One
+http://185.2.83.186:8080/jone/index.m3u8
+#EXTINF:-1, Mangas
+http://185.2.83.186:8080/mangas/index.m3u8
+#EXTINF:-1, Nickelodeon
+http://185.2.83.186:8080/nickelodeon/index.m3u8
+#EXTINF:-1, Nickelodeon 4 Teen
+http://185.2.83.186:8080/nickelodeon4teen/index.m3u8
+#EXTINF:-1, Piwi+
+http://185.2.83.186:8080/piwi/index.m3u8
+#EXTINF:-1, Canal+ (H24)
+http://185.2.83.186:8080/canalplus/index.m3u8
+#EXTINF:-1, Canal+ Cinéma
+http://185.2.83.186:8080/canalpluscinema/index.m3u8
+#EXTINF:-1, Canal+ Décalé
+http://185.2.83.186:8080/canalplusdecale/index.m3u8
+#EXTINF:-1, Canal+ Family
+http://185.2.83.186:8080/canalplusfamily/index.m3u8
+#EXTINF:-1, Canal+ Séries
+http://185.2.83.186:8080/canalplusseries/index.m3u8
+#EXTINF:-1, Cine+ Classic
+http://185.2.83.186:8080/cineclassic/index.m3u8
+#EXTINF:-1, Cine+ Emotion
+http://185.2.83.186:8080/cineemotion/index.m3u8
+#EXTINF:-1, Cine+ Famiz
+http://185.2.83.186:8080/cinefamiz/index.m3u8
+#EXTINF:-1, Cine+ Frisson
+http://185.2.83.186:8080/cinefrisson/index.m3u8
+#EXTINF:-1, Ciné+ Premier
+http://185.2.83.186:8080/cinepremier/index.m3u8
+#EXTINF:-1, OCS Choc
+http://185.2.83.186:8080/ocschoc/index-1504563030-now.m3u8
+#EXTINF:-1, OCS City
+http://185.2.83.186:8080/ocscityvf/index-1504563086-now.m3u8
+#EXTINF:-1, OCS Geants
+http://185.2.83.186:8080/ocsgeants/index-1504563185-now.m3u8
+#EXTINF:-1, OCS Max
+http://185.2.83.186:8080/ocsmax/index-1504563234-now.m3u8
+#EXTINF:-1, Paramount Channel
+http://185.2.83.186:8080/paramount/index.m3u8
+#EXTINF:-1, TF1
+http://185.2.83.186:8080/tf1/index.m3u8
+#EXTINF:-1, France 2
+http://185.2.83.186:8080/fr2/index.m3u8
+#EXTINF:-1, France 3
+http://185.2.83.186:8080/fr3/index.m3u8
+#EXTINF:-1, France 4
+http://185.2.83.186:8080/fr4/index.m3u8
+#EXTINF:-1, France 5
+http://185.2.83.186:8080/fr5/index.m3u8
+#EXTINF:-1, France Ô
+http://185.2.83.186:8080/fro/index.m3u8
+#EXTINF:-1, HD1
+http://185.2.83.186:8080/hd1/index.m3u8
+#EXTINF:-1, M6
+http://185.2.83.186:8080/m6/index.m3u8
+#EXTINF:-1, Game One
+http://185.2.83.186:8080/gameone/index.m3u8
+#EXTINF:-1, 13Eme Rue
+http://185.2.83.186:8080/13erue/index.m3u8
+#EXTINF:-1, 6ter
+http://185.2.83.186:8080/6ter/index.m3u8
+#EXTINF:-1, AB1
+http://185.2.83.186:8080/ab1/index.m3u8
+#EXTINF:-1, AB3
+http://185.2.83.186:8080/ab3/index.m3u8
+#EXTINF:-1, C8
+http://185.2.83.186:8080/c8/index.m3u8
+#EXTINF:-1, Arte
+http://185.2.83.186:8080/arte/index.m3u8
+#EXTINF:-1, Chérie 25
+http://185.2.83.186:8080/cherie25/index.m3u8
+#EXTINF:-1, Comedie +
+http://185.2.83.186:8080/comedie/index.m3u8
+#EXTINF:-1, CStar
+http://185.2.83.186:8080/cstar/index.m3u8
+#EXTINF:-1, NRJ 12
+http://185.2.83.186:8080/nrj12/index.m3u8
+#EXTINF:-1, NT1
+http://185.2.83.186:8080/nt1/index.m3u8
+#EXTINF:-1, TMC
+http://185.2.83.186:8080/tmc/index.m3u8
+#EXTINF:-1, W9
+http://185.2.83.186:8080/w9/index.m3u8
+#EXTINF:-1, E! Entertainment
+http://185.2.83.186:8080/e-entertainment/index.m3u8
+#EXTINF:-1, Paris Première
+http://185.2.83.186:8080/parispremiere/index.m3u8
+#EXTINF:-1, RTL9
+http://185.2.83.186:8080/rtl9/index.m3u8
+#EXTINF:-1, RTS Deux
+http://185.2.83.186:8080/rts2/index.m3u8
+#EXTINF:-1, RTS Un
+http://185.2.83.186:8080/rts1/index-1504566656-now.m3u8
+#EXTINF:-1, Serie Club
+http://185.2.83.186:8080/serieclub/index.m3u8
+#EXTINF:-1, FyFy
+http://185.2.83.186:8080/syfy/index.m3u8
+#EXTINF:-1, Téva
+http://185.2.83.186:8080/teva/index.m3u8
 
 
 
@@ -6683,61 +6683,53 @@ http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:8 group-title=”Poland2”,
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif ,==Poland==
 http://..........
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
 
-#EXTINF:-1,TVP Polonia
-http://84.243.221.164:8000/play/a00n
-#EXTINF:-1,KINO POLSKA
-http://84.243.221.164:8000/play/a01v
-#EXTINF:-1,TVP SERIALE
-http://84.243.221.164:8000/play/a01g
-#EXTINF:-1,HIP HOP TV
-http://84.243.221.164:8000/play/a018
-#EXTINF:-1,Filmbox Action
-http://84.243.221.164:8000/play/a033
-#EXTINF:-1,CBS Reality
-http://84.243.221.164:8000/play/a032
-#EXTINF:-1,TELESUR
-http://84.243.221.164:8000/play/a00p
-#EXTINF:-1,VOX MUSIC TV
-http://84.243.221.164:8000/play/a034
-#EXTINF:-1,Filmbox Action
-http://84.243.221.164:8000/play/a02n
-#EXTINF:-1,BBC CBeebies
-http://84.243.221.164:8000/play/a02j
-#EXTINF:-1,Active Family
-http://84.243.221.164:8000/play/a02t
-#EXTINF:-1,BBC Lifestyle HD
-http://84.243.221.164:8000/play/a02m
-#EXTINF:-1,TVP INFO HD
-http://84.243.221.164:8000/play/a02k
-#EXTINF:-1,TV PULS HD
-http://84.243.221.164:8000/play/a02y
-#EXTINF:-1,SUPERTENNIS HD
-http://84.243.221.164:8000/play/a01a
-#EXTINF:-1,CANAL+ NOW
-http://84.243.221.164:8000/play/a02u
-#EXTINF:-1,TBN Poland
-http://84.243.221.164:8000/play/a00m
-#EXTINF:-1,Cinemax HD
-http://84.243.221.164:8000/play/a029
-#EXTINF:-1,EskaROCK TV
-http://84.243.221.164:8000/play/a031
-
-
+#EXTINF:-1,TVP1 HD
+http://62.133.156.104:9981/stream/channelid/951981955
+#EXTINF:-1,TVP2 HD
+http://62.133.156.104:9981/stream/channelid/215462120
+#EXTINF:-1,TVN
+http://62.133.156.104:9981/stream/channelid/801907168
+#EXTINF:-1,TV4
+http://62.133.156.104:9981/stream/channelid/675121848
+#EXTINF:-1,Polsat
+http://62.133.156.104:9981/stream/channelid/1280683699
+#EXTINF:-1,TV Puls
+http://62.133.156.104:9981/stream/channelid/1599960859
+#EXTINF:-1,TVN 7
+http://62.133.156.104:9981/stream/channelid/22815687
+#EXTINF:-1,Stopklatka TV
+http://62.133.156.104:9981/stream/channelid/10585932
+#EXTINF:-1,PULS 2
+http://62.133.156.104:9981/stream/channelid/443275150
+#EXTINF:-1,TV6
+http://62.133.156.104:9981/stream/channelid/1051589220
+#EXTINF:-1,Fokus TV
+http://62.133.156.104:9981/stream/channelid/107230624
+#EXTINF:-1,ESKA TV
+http://62.133.156.104:9981/stream/channelid/49498106
+#EXTINF:-1,TTV
+http://62.133.156.104:9981/stream/channelid/151702977
+#EXTINF:-1,Polo TV
+http://62.133.156.104:9981/stream/channelid/2126657896
+#EXTINF:-1,ATM Rozrywka
+http://62.133.156.104:9981/stream/channelid/1221987124
+#EXTINF:-1,TV Trwam
+http://62.133.156.104:9981/stream/channelid/1118139025
+#EXTINF:-1,Super Polsat
+http://62.133.156.104:9981/stream/channelid/419275153
+#EXTINF:-1,TVP ABC
+http://62.133.156.104:9981/stream/channelid/1997848517
+#EXTINF:-1,TVP Kultura
+http://62.133.156.104:9981/stream/channelid/934343550
+#EXTINF:-1,TVP Historia
+http://62.133.156.104:9981/stream/channelid/1721509290
+#EXTINF:-1,TVP Rozrywka
+http://62.133.156.104:9981/stream/channelid/128154501
+#EXTINF:-1,TVP Info
+http://62.133.156.104:9981/stream/channelid/1069989285
+#EXTINF:-1,TVP3 Rzeszow
+http://62.133.156.104:9981/stream/channelid/783165613
 
 
 
@@ -8232,9 +8224,37 @@ http://62.68.66.244:8002/play/s86
 #EXTINF:-1,Miracle TV
 http://62.68.66.244:8002/play/s81
 
+#EXTINF:-1,BEIN SPORTS HD 1
+http://wowza2.mysoltv.com:1992/Bein_Sports_1_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 2
+http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 3
+http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 4
+http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 5
+http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 6
+http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 7
+http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 8
+http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 9
+http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 10
+http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
 
-
-
+#EXTINF:-1,beIN sport 1SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/21.ch
+#EXTINF:-1,beIN sport 2SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/22.ch
+#EXTINF:-1,beIN sport 3SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/23.ch
+#EXTINF:-1,beIN sport 4SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/24.ch
+#EXTINF:-1,beIN sport 5SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/25.ch
 
 
 
@@ -9817,8 +9837,6 @@ http://93.91.113.8:9999/play/a07m
 http://93.91.113.8:9999/play/a07g
 #EXTINF:-1,КХЛ ТВ
 http://93.91.113.8:9999/play/a0a6
-#EXTINF:-1,Play Boy
-http://93.91.113.8:9999/play/a07t
 #EXTINF:-1,Hard Life TV
 http://93.91.113.8:9999/play/a085
 #EXTINF:-1,Муз-ТВ
