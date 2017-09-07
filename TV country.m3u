@@ -3815,34 +3815,18 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/716.ts|user-agent=FreeIPTV
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
 
-#EXTINF:0,ZDF
-http://92.62.234.221:2222/udp/239.21.1.103:1234
-#EXTINF:-1,1 HD
-http://91.197.19.4:8080/test/index.m3u8
-#EXTINF:-1,1 HD
-http://217.20.164.197:80/test/index.m3u8
-#EXTINF:-1,NDTV 24×7
-http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
-#EXTINF:-1,WDR
-http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
-#EXTINF:0,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0,ALEX-BERLIN 
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/HasBahCa.m3u8?bitrate=800
+#EXTINF:0 tvg-name="ARD.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="ARD.de" tvg-logo="http://afd-portal.de/wp-content/uploads/2016/12/ard-1267087_960_720.png" ,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Augsburg TV
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
 #EXTINF:0,Augsburg TV
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2
 #EXTINF:0,AUSTRIA 24 TV
 rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:0,DAF
-rtmp://fms.daf.tmt.de/live/dafstream100
-#EXTINF:0,ALEX-BERLIN 568*320
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/HasBahCa.m3u8?bitrate=800
-#EXTINF:0,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0,Augsburg TV rtmp
-rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
-#EXTINF:0,AUSTRIA 24 TV rtmp
-rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:0 tvg-name="Baden TV" tvg-id="Baden TV" tvg-logo="http://golden-paws.de/wp-content/uploads/2014/04/baden_tv1-704x340.png" ,Baden
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:0,DAF
 rtmp://fms.daf.tmt.de/live/dafstream100
 #EXTINF:0,Deutsche Welle (Asia)
@@ -3851,23 +3835,29 @@ http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:0,Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
-#EXTINF:0,Donau TV rtmp
+#EXTINF:0,Donau TV 
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
-#EXTINF:0,ELBEKANAL rtmp
+#EXTINF:0,ELBEKANAL 
 rtmp://62.113.210.250/medienasa-live/elbe_high
 #EXTINF:0,FILSTALWELLE
 rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF: tvg-logo="https://i.vimeocdn.com/portfolio_header/163524" ,Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:0,Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
 #EXTINF:0,HALLE TV 
 rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF: tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" ,Kronehit
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
 #EXTINF:0,Lifestyle
 rtmp://stream1.lifestyletv.se/live/livestream1
 #EXTINF:0,Light Channel TV Deutschland rtmp
 rtmp://streamer1.streamhost.org/salive//lctvde
 #EXTINF:0,LL
 mms://wmsstream22.v4.mytv.ris.at/live/stream_156
-#EXTINF:0,MUNCHEN TV
+#EXTINF: tvg-logo="http://www.msa-online.de/cms/upload/Sender/TV/gfx_tv_MDF1.gif" ,MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TV_M%C3%BCnchen_Logo.svg/648px-TV_M%C3%BCnchen_Logo.svg.png" ,Muenchen
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/1280px-NDR_Dachmarke.svg.png" ,NDR
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
@@ -3883,6 +3873,22 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
 #EXTINF:0,NDR Schleswig-Hol. HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:-1,NDTV 24×7
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
+#EXTINF:-1,NRT 1
+rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_1
+#EXTINF:-1,NRT 1
+rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_2
+#EXTINF:-1,NRT 1 
+rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_3
+#EXTINF:-1,NRT 2
+rtmp://nrttv.iptv-playoutcenter.de:/nrt2/nrt2.stream_1
+#EXTINF:-1,NRT 2
+rtmp://nrttv.iptv-playoutcenter.de/nrt2/nrt2.stream_2
+#EXTINF:-1,NRT 2
+rtmp://nrttv.iptv-playoutcenter.de/nrt2/nrt2.stream_3
+#EXTINF: tvg-logo="http://www.muszynski.de/sender/tv/tv_oberfranken.png" ,Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:0,OK Dessau
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0,OK MAGDEBURG
@@ -3893,8 +3899,6 @@ http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 #EXTINF:0,OK Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
-#EXTINF:0,RBW
-rtmp://62.113.210.250/medienasa-live/rbw_high
 #EXTINF:0,OK Dessau 
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0,OK Magdeburg 
@@ -3911,75 +3915,28 @@ rtmp://62.113.210.250/medienasa-live/punktum_high
 rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 #EXTINF:0,RAN 1 Dessau
 rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:0,RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
 #EXTINF:0,RFH TV
 rtmp://62.113.210.250/medienasa-live/RFH_high
-#EXTINF:0,ELBEKANAL
-rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:0,FILSTALWELLE
-rtmp://62.113.210.27/filstalwelle-live/livestream
-#EXTINF:0,HALLE TV
-rtmp://62.113.210.250/medienasa-live/tvhalle_high
-#EXTINF:0,RIC
-http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
 #EXTINF:0,TAGESSCHAU 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0,Tv Touring de
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:0,W 24 Wien
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
-#EXTINF:0,Donau TV 
-rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
-#EXTINF:0,Light Channel TV Deutschland
-rtmp://streamer1.streamhost.org/salive//lctvde
-#EXTINF:0,MUNCHEN TV
-rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
-#EXTINF:0,RIC
-http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:0,Suedtirol TV
-rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
-#EXTINF:0,TAGESSCHAU 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0,TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
-#EXTINF:0,TV Touring Schweinfurt
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
-#EXTINF:0,TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:0 tvg-name="ARD.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="ARD.de" tvg-logo="http://afd-portal.de/wp-content/uploads/2016/12/ard-1267087_960_720.png" ,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-name="WeltDerWunderTV.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="WeltDerWunderTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/2000px-Logo_Welt_der_Wunder_neu.svg.png" ,Welt Der Wunder
-http://live.vidoo.de/live/weltderwunder/playlist.m3u8
-#EXTINF: tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" ,Kronehit
-http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
-#EXTINF: tvg-logo="http://www.msa-online.de/cms/upload/Sender/TV/gfx_tv_MDF1.gif" ,MDF.1
-http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-#EXTINF: tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png" ,TVA
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
 #EXTINF: tvg-logo="https://pbs.twimg.com/profile_images/527362055704018946/MOAH_ozE.png" ,Tirol
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TV_M%C3%BCnchen_Logo.svg/648px-TV_M%C3%BCnchen_Logo.svg.png" ,Muenchen
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u
-#EXTINF: tvg-logo="https://i.vimeocdn.com/portfolio_header/163524" ,Hamburg
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TV_touring_Logo.svg/2000px-TV_touring_Logo.svg.png" ,Wurzburg
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF: tvg-logo="http://www.muszynski.de/sender/tv/tv_oberfranken.png" ,Oberfranken
+#EXTINF:0,TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0 tvg-name="Baden TV" tvg-id="Baden TV" tvg-logo="http://golden-paws.de/wp-content/uploads/2014/04/baden_tv1-704x340.png" ,Baden
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TV_touring_Logo.svg/2000px-TV_touring_Logo.svg.png" ,TV Touring Schweinfurt
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF: tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png" ,TVA
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:0,W 24 Wien
+rtmp://ms01.w24.at:1935/livepkgr/livestream2
+#EXTINF:0 tvg-name="WeltDerWunderTV.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="WeltDerWunderTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/2000px-Logo_Welt_der_Wunder_neu.svg.png" ,Welt Der Wunder
+http://live.vidoo.de/live/weltderwunder/playlist.m3u8
+#EXTINF:-1,WDR
+http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
 
-#EXTINF:-1,NRT 1
-rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_1
-#EXTINF:-1,NRT 1
-rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_2
-#EXTINF:-1,NRT 1 (News) (IQ) (Kurdish)
-rtmp://nrttv.iptv-playoutcenter.de/nrt1/nrt1.stream_3
-#EXTINF:-1,NRT 2
-rtmp://nrttv.iptv-playoutcenter.de:/nrt2/nrt2.stream_1
-#EXTINF:-1,NRT 2
-rtmp://nrttv.iptv-playoutcenter.de/nrt2/nrt2.stream_2
-#EXTINF:-1,NRT 2
-rtmp://nrttv.iptv-playoutcenter.de/nrt2/nrt2.stream_3
+
 
 
 
