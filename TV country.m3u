@@ -2962,78 +2962,62 @@ http://..........
 http://..........
 
 
-#EXTINF:0,Eurosport fr
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1,Action
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1796000.m3u8
+#EXTINF:0 tvg-name="Alsace20" tvg-id="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png",Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:0,BFM Sport
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
+#EXTINF:0 tvg-name="BFMTV.fr" tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BFMTV.png/450px-BFMTV.png",BFM
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 #EXTINF:0,Canal 9
 rtmp://84.16.66.106:1935/livecast/livehd
 #EXTINF:0,Chasse et PÃªche
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0,TV5 Monde
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_8.m3u8
-#EXTINF:0,Mirabelle TV
-http://str81.creacast.com/mirabelletv_bal/high/f1tv.m3u8
+#EXTINF:-1,CNA
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+#EXTINF:-1,cTelesambre
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:-1 tvg-name="France24.fr" tvg-id="France24.fr" tvg-logo="http://compass.xboxlive.com/assets/70/e3/70e37e36-acf0-4f53-adcc-4bcd68b64388.png?n=FRANCE%2024.png",France 24
+https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g&showinfo=0&color=white&autoplay=1&hl=fr
+#EXTINF:0 tvg-name="France24.fr" tvg-id="France24.fr" tvg-logo="http://compass.xboxlive.com/assets/70/e3/70e37e36-acf0-4f53-adcc-4bcd68b64388.png?n=FRANCE%2024.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:0 tvg-name="Francophonie.fr" tvg-id="Francophonie.fr" tvg-logo="https://yt3.ggpht.com/-wnJaGZ8lmAM/AAAAAAAAAAI/AAAAAAAAAAA/MJ2gYbaCMAk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1,GONG
 rtsp://ec.playmedia.fr:1935/gong-base/live
 #EXTINF:-1,GONG
 http://ec.playmedia.fr:1935/gong-base/live/chunklist_w48075205.m3u8
+#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-qJ0LcuQL8fE/UgBBdKilQoI/AAAAAAAAA-c/IsEfZk1dnek/grand+lille+tv+live.png",Grand Lille
+rtmp://str81.creacast.com/grandlilletv/high
+#EXTINF:0 tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png",INDIES LIVE
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1,LA CHAINENORMANDIE
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1,TV LUX
-http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist.m3u8
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,TVPI Bayonne
-rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
-#EXTINF:-1,cTelesambre
-http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
-#EXTINF:-1,Action
-http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1796000.m3u8
-#EXTINF:-1,Matele
-http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
-#EXTINF:-1,Weo
-rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1,Animaux
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1,Trek TV
-http://live-trl01.abweb.com/livetrl01/ngrp:trek.stream_bis/chunklist_b1796000.m3u8
 #EXTINF:-1,Mangas TV
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b2096000.m3u8
-#EXTINF:-1,Toute L'Histoire
-http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Matele
+http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
+#EXTINF:0,Mirabelle TV
+http://str81.creacast.com/mirabelletv_bal/high/f1tv.m3u8
 #EXTINF:-1,Science and Vie
 http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b2096000.m3u8
-#EXTINF:-1,CNA
-http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
-#EXTINF:-1,GRAND LILLE TV
-rtmp://str81.creacast.com:80/grandlilletv/high
+#EXTINF:-1,Toute L'Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Trek TV
+http://live-trl01.abweb.com/livetrl01/ngrp:trek.stream_bis/chunklist_b1796000.m3u8
+#EXTINF:0,TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_8.m3u8
 #EXTINF:-1,TV7
 rtmp://62.210.204.108:1935/livtv7vo/mystream700.sdp
 #EXTINF:-1,TV7 
 rtmp://tv7.hdr-tv.com/live/tv7/livestream 
-#EXTINF:-1,Cinema world
-http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1,France 24
-https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g&showinfo=0&color=white&autoplay=1&hl=fr
-#EXTINF:0 tvg-name="France24.fr" tvg-id="France24.fr" tvg-logo="http://compass.xboxlive.com/assets/70/e3/70e37e36-acf0-4f53-adcc-4bcd68b64388.png?n=FRANCE%2024.png",France 24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:-1,France Info(477p) 
-http://stream-02.dc3.dailymotion.com/32/dm/3/x4rdeu6/live-2.m3u8 
-#EXTINF:-1,France Info (720p) 
-http://stream-02.dc3.dailymotion.com/32/dm/3/x4rdeu6/live-3.m3u8
-#EXTINF:0 tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png",INDIES LIVE
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:0 tvg-name="BFMTV.fr" tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BFMTV.png/450px-BFMTV.png",BFM
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-#EXTINF:0 tvg-name="Francophonie.fr" tvg-id="Francophonie.fr" tvg-logo="https://yt3.ggpht.com/-wnJaGZ8lmAM/AAAAAAAAAAI/AAAAAAAAAAA/MJ2gYbaCMAk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:0 tvg-name="Alsace20" tvg-id="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png",Alsace20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-qJ0LcuQL8fE/UgBBdKilQoI/AAAAAAAAA-c/IsEfZk1dnek/grand+lille+tv+live.png",Grand Lille
-rtmp://str81.creacast.com/grandlilletv/high
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/557183277614628865/y6M76XIm.jpeg",TV Lux
-rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1,TVPI Bayonne
+rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
+#EXTINF:-1,Weo
+rtmp://str81.creacast.com:80/weo/high
 
 
 #EXTINF:-1,BE-ACTV
@@ -3050,8 +3034,6 @@ http://live.stream.vrt.be/vrt_mnm_live/_definst_/smil:vrt_mnm_live.smil/chunklis
 rtmp://wowza.imust.org/live//rtc-live
 #EXTINF:-1,BE-TELE BRUXELLES
 rtmp://149.202.81.107/stream//live
-#EXTINF:-1,BE-TELE MB
-http://streaming.imust.eu:1935/live/telemb-live/chunklist.m3u8
 #EXTINF:-1,BE-TELESAMBRE
 rtmp://vm109.imust.org/live//telesambre-live
 #EXTINF:-1,BE-TV LIMBURG (TVL)
