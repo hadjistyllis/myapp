@@ -1837,184 +1837,44 @@ http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1146.ts
 #EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/romania_1287.jpg ,=ROMANIA=
 http://..........
 
-#EXTINF:-1,GTV
-rtmp://gtv.arya.ro:1935/live/gtv1
-#EXTINF:-1,ploiestitv
-http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
-#EXTINF:-1,Columna
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:-1,Traditii
-rtmp://traditii1.arya.ro/live/traditiitv1
-#EXTINF:-1,Rapsodia
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1,ROMANIA TV 
-http://rtv.smcmobile.ro:8080/RTVHQ.m3u8
-
-#EXTINF:-1,Canal 3
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.14:5656
-#EXTINF:-1,Elita TV
-#EXTVLCOPT:network-caching=2000
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:-1,Jurnal TV
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.4:5656
-#EXTINF:-1,Moldova 1
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.2:5656
-#EXTINF:-1,Moldova 2
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.10:5656
-#EXTINF:-1,N4
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.5:5656
-#EXTINF:-1,Prime
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:-1,Pro TV
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.7:5656
-#EXTINF:-1,Publica TV
-#EXTVLCOPT:network-caching=2000
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1,SET
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.13:5656
-#EXTINF:-1,TV 5
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.11:5656
-#EXTINF:-1,TVC 21
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.9:5656
-#EXTINF:-1,ÐŸÐµÑ€Ð²Ñ‹Ð¹
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:-1,CTC Dixi
-#EXTVLCOPT:network-caching=2000
-http://109.185.159.215:4011/udp/239.100.0.12:5656
-#EXTINF:-1,TV Radauti\
-#EXTVLCOPT:network-caching=2000
-http://46.214.146.86:8080
-#EXTINF:-1,RO:Tele M
-#EXTVLCOPT:network-caching=2000
-http://webmobile.xdev.ro:81/tv5/playlist.m3u8?time=1466676040924
-#EXTINF:-1,mediatv Ro
-#EXTVLCOPT:network-caching=2000
-http://mediatv.novanet.ro/mediatv/mediatv.m3u8
-#EXTINF:-1,Casa Mia TV
-#EXTVLCOPT:network-caching=2000
-rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia
 #EXTINF:-1,Accenttv Romania
-#EXTVLCOPT:network-caching=2000
 http://188.173.22.231:8080/video/emisie.m3u8
-#EXTINF:-1,Banat Rum
-#EXTVLCOPT:network-caching=2000
-http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
-#EXTINF:-1,Bit TV
-#EXTVLCOPT:network-caching=2000
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:-1,ATV
-#EXTVLCOPT:network-caching=2000
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:-1,Ploiesti Tv
-#EXTVLCOPT:network-caching=2000
-http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
-#EXTINF:-1,digi24 brasov
-#EXTVLCOPT:network-caching=2000
-http://81.196.0.126:80/digi24edge/digi24brasovlive/mono.m3u8
-#EXTINF:-1,TV Cromtel HD
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv7/playlist.m3u8
-#EXTINF:-1,TV Hit
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv9/playlist.m3u8
-#EXTINF:-1,Botosani Tele Reluare
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv11/playlist.m3u8
-#EXTINF:-1,SOMAX
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv12/playlist.m3u8
-#EXTINF:-1,NExT TV
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv13/playlist.m3u8
-#EXTINF:-1,TELE reluare
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv16/playlist.m3u8
-#EXTINF:-1,NTV Neptun
-#EXTVLCOPT:network-caching=2000
-http://188.210.224.6:81/tv30/playlist.m3u8
-#EXTINF:-1,Gagiu tv
-#EXTVLCOPT:network-caching=2000
-rtmp://gtv1.arya.ro/live/gtv1
-#EXTINF:-1,Columna tv
-#EXTVLCOPT:network-caching=2000
-rtmp://v1.arya.ro/live/columnatv1
-#EXTINF:-1,Traditii tv
-#EXTVLCOPT:network-caching=2000
-rtmp://v1.arya.ro/live/traditiitv1
-#EXTINF:-1,Apollonia Tv
-#EXTVLCOPT:network-caching=2000
-http://193.239.212.6:50000/apollonia
-#EXTINF:-1,Antena 1 Arad.
-#EXTVLCOPT:network-caching=2000
-http://86.106.82.47:8134/hls-live/a1ar_lp_live/_definst_/a1arevent/a1arstream.m3u8
-#EXTINF:-1,TV SUDEST Romania
-#EXTVLCOPT:network-caching=2000
-http://iptv.tvsatrm.ro/livestream/tvse.m3u8
-#EXTINF:-1,Alfaomega Romania
-#EXTVLCOPT:network-caching=2000
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1,Stv
-http://89.45.164.235:8034
-#EXTINF:-1,N/A
-http://89.45.164.235:8040
 #EXTINF:-1,Actualitatea tv
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:-1,TeleMoldova+
-http://webmobile.xdev.ro:81/tv5/playlist.m3u8
-#EXTINF:-1,Cromtel tv
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:-1,KIT Tv
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1,NEst tv
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,Alfaomega Romania
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,Alfaomega TV2
 rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
-#EXTINF:-1,http://iptv.zone
-http://95.77.16.72:81/tv15/playlist.m3u8
+#EXTINF:-1,Apollonia Tv
+http://193.239.212.6:50000/apollonia
 #EXTINF:-1,Atomic TV
 rtmp://5.154.185.153/live/live
+#EXTINF:-1,ATV
+http://46.214.146.46:81/tv4/playlist.m3u8
 #EXTINF:-1,Banat Rum
 http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
-#EXTINF:-1,TV Cromtel HD
-http://188.210.224.6:81/tv7/playlist.m3u8
+#EXTINF:-1,Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:-1,Botosani Tele Reluare
+http://188.210.224.6:81/tv11/playlist.m3u8
+#EXTINF:-1,Canal 2 (Первый)
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Canal 3
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:-1,Casa Mia TV
+rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia
+#EXTINF:-1,Columna
+rtmp://columna1.arya.ro/live/columnatv1
 #EXTINF:-1,Columna tv
 rtmp://v1.arya.ro/live/columnatv1
 #EXTINF:-1,Cromtel tv
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:-1,Accenttv Romania
-http://188.173.22.231:8080/video/emisie.m3u8
-#EXTINF:-1,Ploiesti Tv
-http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
-#EXTINF:-1,Prahova Tv
-http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
-#EXTINF:-1,Antena 1 Arad.
-http://86.106.82.47:8134/hls-live/a1ar_lp_live/_definst_/a1arevent/a1arstream.m3u8
-#EXTINF:-1,TV SUDEST Romania
-http://iptv.tvsatrm.ro/livestream/tvse.m3u8
-#EXTINF:-1,http://iptv.zone
-http://95.77.16.72:81/tv15/playlist.m3u8
-#EXTINF:-1,M2
-rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
-#EXTINF:-1,M1
-rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
-#EXTINF:-1,Prime
-http://109.185.159.215:4011/udp/239.100.0.3:5656
-#EXTINF:-1,Pro TV
-http://109.185.159.215:4011/udp/239.100.0.7:5656
-#EXTINF:-1,ProTV
-http://hls.protv.md/hls/protv.m3u8
-
+#EXTINF:-1,Cromtel TV  HD
+http://188.210.224.6:81/tv7/playlist.m3u8
+#EXTINF:-1,CTC Dixi
+http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:-1,Digi24 brasov
+http://81.196.0.126:80/digi24edge/digi24brasovlive/mono.m3u8
 #EXTINF:0,Digi24 Oradea
 http://81.196.0.126:80/digi24edge/digi24oradealivehls/index.m3u8
 #EXTINF:0,Digi24 Iasi
@@ -2027,6 +1887,73 @@ http://81.196.0.126:80/digi24edge/digi24craiovalive/index.m3u8
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:0,Digi24 Timisoara
 http://81.196.0.126:80/digi24edge/digi24timislivehls/index.m3u8
+#EXTINF:-1,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1,Gagiu tv
+rtmp://gtv1.arya.ro/live/gtv1
+#EXTINF:-1,GTV (MXPlayer)
+rtmp://gtv.arya.ro:1935/live/gtv1
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,KIT Tv
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1,Mediatv Ro
+http://mediatv.novanet.ro/mediatv/mediatv.m3u8
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,M1
+rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
+#EXTINF:-1,M2
+rtmp://212.0.209.209:1935/live/mp4:MoldovaDoi2
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,NEst tv
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,NExT TV
+http://188.210.224.6:81/tv13/playlist.m3u8
+#EXTINF:-1,NTV Neptun
+http://188.210.224.6:81/tv30/playlist.m3u8
+#EXTINF:-1,Prahova Tv
+http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,ProTV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,Rapsodia
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:-1,ROMANIA TV 
+http://rtv.smcmobile.ro:8080/RTVHQ.m3u8
+#EXTINF:-1,SET
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:-1,SOMAX
+http://188.210.224.6:81/tv12/playlist.m3u8
+#EXTINF:-1,Stv
+http://89.45.164.235:8034
+#EXTINF:-1,TELE reluare
+http://188.210.224.6:81/tv16/playlist.m3u8
+#EXTINF:-1,Traditii
+rtmp://traditii1.arya.ro/live/traditiitv1
+#EXTINF:-1,Traditii tv
+rtmp://v1.arya.ro/live/traditiitv1
+#EXTINF:-1,TV 5
+http://109.185.159.215:4011/udp/239.100.0.11:5656
+#EXTINF:-1,TVC 21
+http://109.185.159.215:4011/udp/239.100.0.9:5656
+#EXTINF:-1,TV Hit
+http://188.210.224.6:81/tv9/playlist.m3u8
+#EXTINF:-1,TV SUDEST Romania
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,VOX regional
+http://95.77.16.72:81/tv15/playlist.m3u8
+#EXTINF:-1,UNKNOWN
+http://89.45.164.235:8040
+
 
 
 
@@ -2115,245 +2042,59 @@ http://..........
 #EXTINF:1 tvg-logo=http://www.vectorportal.com/img_novi/bulgaria_1309.jpg ,==Bulgaria==
 http://..........
 
-#EXTINF:0,Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0,Cherno More
-http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0,CITY
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:0,Community TV
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
-#EXTINF:0,DSTV
-rtmp://46.249.95.140/live/livestream
-#EXTINF:0,PPTV
-rtmp://31.13.218.108/live/mpegts.stream
-#EXTINF:0,ROMA TV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0,Tiankov Folk
-http://31.13.223.103:1935/tiankov/tiankov-folk.stream/playlist.m3u8?hash=?
-#EXTINF:0,Tiankov Orient
-http://31.13.223.103:1935/tiankov/tiankov-orient.stream/playlist.m3u8?hash=?
-#EXTINF:0,Tiankov Popfolk
-http://31.13.223.103:1935/tiankov/tiankov-popfolk.stream/playlist.m3u8
-#EXTINF:0,Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
-#EXTINF:0,TV Stoichev
-http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
-#EXTINF:0,TV7
-http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
-#EXTINF:-1,bTV
-http://5.32.183.177:4080/udp/224.0.0.110:1234
-#EXTINF:-1,NOVA
-http://5.32.183.177:4080/udp/224.0.0.110:1235
-#EXTINF:-1,Hobby TV
-http://5.32.183.177:4080/udp/224.0.0.110:1239
-#EXTINF:-1,Film Plus – Sport Plus
-http://5.32.183.177:4080/udp/224.0.0.110:1237
-#EXTINF:-1,Planeta TV
-http://5.32.183.177:4080/udp/224.0.0.110:1236
-#EXTINF:-1,Discovery Channel
-http://5.32.183.177:4080/udp/224.0.0.110:1241
-#EXTINF:-1,The Voice
-http://5.32.183.177:4080/udp/224.0.0.110:1240
-#EXTINF:-1,Viasat Explorer
-http://5.32.183.177:4080/udp/224.0.0.120:1234
-#EXTINF:-1,Disney Channel
-http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:-1,NG WILD
-http://5.32.183.177:4080/udp/224.0.0.120:1237
-#EXTINF:-1,FAN TV
-http://5.32.183.177:4080/udp/224.0.0.120:1236
-#EXTINF:-1,Balkanika
-http://5.32.183.177:4080/udp/224.0.0.120:1238
-#EXTINF:-1,Nick
-http://5.32.183.177:4080/udp/224.0.0.120:1240
-#EXTINF:-1,Folklor TV
-http://5.32.183.177:4080/udp/224.0.0.120:1239
-#EXTINF:-1,DM Sat
-http://5.32.183.177:4080/udp/224.0.0.120:1246
-#EXTINF:-1,Planeta Folk TV
-http://5.32.183.177:4080/udp/224.0.0.120:1242
-#EXTINF:-1,TV Leskovac
-http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1,AL JAZEERA Balcan
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
-#EXTINF:-1,DOT Dance
-#EXTVLCOPT:network-caching=1000
-http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
-#EXTINF:-1,4 music
-#EXTVLCOPT:network-caching=1000
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:-1,Hit tv
-#EXTVLCOPT:network-caching=1000
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live 
-#EXTINF:-1,ELECTROSOUND TV
-#EXTVLCOPT:network-caching=1000
-rtmp://www.electrosound.tv:1935/public/stream 
-#EXTINF:0,NRJ Hits
-#EXTVLCOPT:network-caching=1000
-rtsp://5.196.138.6:1935/live/nrjbelgique_360p
-#EXTINF:-1,Heart TV
-#EXTVLCOPT:network-caching=1000
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,CAPITAL TV
-#EXTVLCOPT:network-caching=1000
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Clubland TV
-#EXTVLCOPT:network-caching=1000
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,DJING IBIZA
-#EXTVLCOPT:network-caching=1000
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1,electro sound
-#EXTVLCOPT:network-caching=1000
-rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:-1,24 Vesti
 mms://62.162.58.55/24vesti
-#EXTINF:0,NOVA TV
-http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
-#EXTINF:0,TV+ Kumanovo
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1,TV+
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Balkanika
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1,FEN
-rtsp://stream.teracomm.bg/fen
-#EXTINF:-1,Planeta
-rtsp://stream.teracomm.bg/planeta
-#EXTINF:-1,Roma TV HD
-http://77.78.130.123/hls/hd.m3u8
-#EXTINF:-1,Roma TV
-http://77.78.130.123/hls/sd.m3u8
-#EXTINF:-1,TV Evropa ?
-http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
-#EXTINF:-1,BTK
-http://46.249.95.180/vtk/high.m3u8
-#EXTINF:-1,TV Zagora
-http://95.87.0.78:8080/test.m3u8
-#EXTINF:-1,Kanal 3
-http://ios.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
-#EXTINF:-1,BloombergTV Bulgaria
-http://ios.cdn.bg:2091/fls/bloomberg.stream/playlist.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,ТВ 7
-http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
-#EXTINF:-1,Евроком
+#EXTINF:0,2EK Евроком
 http://live.eurocom.bg:8080/hls/stream.m3u8
-#EXTINF:-1,BNP TV
-http://bnptv.info:10801
-#EXTINF:-1,MU-VI tv
-http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
-#EXTINF:-1,Спортал ТВ
-http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,Спортал ТВ HD
-http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,ТВ Черно Море Варна
-http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:-1,Стойчев ТВ Стара Загора
-http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
-#EXTINF:-1,ТВ Стара Загора
-http://95.87.0.78:8080/tvstz.m3u8
-#EXTINF:-1,Делта Русе
-http://deltacatv.com/delta.m3u
-#EXTINF:-1,City TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:-1,БГ Днес
-http://80.72.95.40:8088
-#EXTINF:-1,Национално-патриотична телевизия
-mms://bnptv.tv:10801
-#EXTINF:-1,ТВ Медицински Университет Варна
-http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
-#EXTINF:-1,BULGAR TRAVEL BG 
-http://stream.bulgartravel.tv/hhq.m3u8
-#EXTINF:0,BG DNES
-http://80.72.95.40:8088
-#EXTINF:0,Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0,Cherno More
-http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0,CITY
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:0,Community TV
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
-#EXTINF:0,DSTV
-rtmp://46.249.95.140/live/livestream
-#EXTINF:0,PPTV
-rtmp://31.13.218.108/live/mpegts.stream
-#EXTINF:0,TV Stoichev
-http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
-#EXTINF:0,vvv
-rtmp://vvv.bg:1935/live/vvv.flv
-#EXTINF:0,TV Shumen 3
-https://www.youtube.com/watch?v=HiEl8qRfuH0
+#EXTINF:-1,4 music
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
 #EXTINF:0,alfa ataka
 http://ataka.tv:1935/live/live/playlist.m3u8
-#EXTINF:0,ntv 1
-http://lb.blb.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u
-#EXTINF:0,ntv1
-http://hls.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u8
-#EXTINF:0,ntv 2
-http://hls.cdn.bg:2010/fls/ntv_2.stream/playlist.m3u8
+#EXTINF:-1,AL JAZEERA Balcan
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
+#EXTINF:0,Auto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,Balkanika
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,Balkanika
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.120:1238
+#EXTINF:0,BG DNES
+http://80.72.95.40:8088
 #EXTINF:0,BG-Dnes HD
 http://80.72.95.40:8088i
-#EXTINF:0,Btv
+#EXTINF:-1,BNT 1
+http://46.10.160.10:8004/play/hls/bnt/index.m3u8
+#EXTINF:-1,BNT 2
+http://46.10.160.10:8004/play/hls/bnt2/index.m3u8
+#EXTINF:-1,BNT HD
+http://46.10.160.10:8004/play/hls/bnthd/index.m3u8
+#EXTINF:-1,bTV BG
+http://46.10.160.10:8004/play/hls/btv/index.m3u8
+#EXTINF:-1,bTV
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.110:1234
+#EXTINF:0,btv
 http://46.10.150.111/alpha/alpha/playlist.m3u8
 #EXTINF:0,Btv
 http://hls.btv.bg.sof.cmestatic.com/alpha/alpha/playlist.m3u8
-#EXTINF:-1,bTV
-http://5.32.183.177:4080/udp/224.0.0.110:1234
-#EXTINF:0,Bloomberg bulgaria
-http://lb.blb.cdn.bg:2091/fls/bloomberg.stream/playlist.m3u8
-#EXTINF:0,Sportal.bg
-http://lb.blb.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:0,Sportal.Bg FHD
-http://lb.blb.cdn.bg:2001/fls/sportal_tv_fullhd.stream/playlist.m3u8
-#EXTINF:0,TV
-rtmp://79.98.109.134:1935/big/live 
-#EXTINF:0,DELTA
-http://195.34.117.125:8090/live.flv
-#EXTINF:0,DELTA
-http://deltacatv.com/delta.m3u
-#EXTINF:0,pomo
-http://80.80.158.158:8080/stream.flv
-#EXTINF:0,htv bg live
-http://stream2.htv.bg:1935/securestreaming/hd.sdp/playlist.m3u8
-#EXTINF:0,TV Zagora
-http://95.87.0.78:8080/live/tv_zagora_576p.m3u8
-#EXTINF:0,TV Stoichev
-http://lb.blb.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
-#EXTINF:0,ch more
-http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0,Roma TV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0,TV Evropa
-http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
-#EXTINF:0,Kanal 3
-http://lb.blb.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
-#EXTINF:0,2EK
-http://live.eurocom.bg:8080/hls/stream.m3u8
-#EXTINF:0,TV Bapha
-http://78.129.184.15:28119/streaming/stream/playlist.m3u8
-#EXTINF:0,Travel TV HD
-http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
-#EXTINF:0,BTK
-http://46.249.95.180/video/vtk_high/playlist.m3u8
-#EXTINF:0,Bnptv
+#EXTINF:-1,BTK
+http://46.249.95.180/vtk/high.m3u8
+#EXTINF:0,BNP TV
 mms://bnptv.tv:10801A3
-#EXTINF:0,MU-Vi tv
-http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
-#EXTINF:0,City
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:0,TV.eurofolk.com
-rtsp://live.cdn2.streamago.tv/streamago/53827/45262/?idcanale=45262
-#EXTINF:0,etv
-http://195.24.89.20/tvs/etv.m3u8
-#EXTINF:0,Auto TV
+#EXTINF:-1,BNP TV
+http://bnptv.info:10801
+#EXTINF:-1,Bulgaria on Air
+http://46.10.160.10:8004/play/hls/bgonair/index.m3u8
+#EXTINF:0,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,channel Auto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0, 100 gaz
+#EXTINF:0,channel 100 gaz
 mms://100automoto.tv/100gaz
-#EXTINF:0,bmw
+#EXTINF:0,channel bmw
 mms://100automoto.tv/bmw
 #EXTINF:0,channel electric
 mms://100automoto.tv/channel_electric
@@ -2363,19 +2104,91 @@ mms://100automoto.tv/channel_italy
 mms://100automoto.tv/channel_mercedes
 #EXTINF:0,channel porsche
 mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1,bTV BG
-http://46.10.160.10:8004/play/hls/btv/index.m3u8
+#EXTINF:0,Cherno More
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0,Cherno more
+http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0,CITY
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,DELTA
+http://deltacatv.com/delta.m3u
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.120:1235
+#EXTINF:-1,DJING IBIZA
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,DSTV
+rtmp://46.249.95.140/live/livestream
+#EXTINF:0,etv
+http://195.24.89.20/tvs/etv.m3u8
+#EXTINF:-1,FEN
+rtsp://stream.teracomm.bg/fen
+#EXTINF:-1,FEN TV
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.120:1236
+#EXTINF:-1,Folklor TV
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.120:1239
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,htv bg live
+http://stream2.htv.bg:1935/securestreaming/hd.sdp/playlist.m3u8
+#EXTINF:-1,Planeta
+rtsp://stream.teracomm.bg/planeta
+#EXTINF:-1,Planeta Folk TV
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.120:1242
+#EXTINF:-1,MU-VI tv
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
 #EXTINF:-1,Nova BG
 http://46.10.160.10:8004/play/hls/nova/index.m3u8
-#EXTINF:-1,БНТ 1
-http://46.10.160.10:8004/play/hls/bnt/index.m3u8
-#EXTINF:-1,BNT 2
-http://46.10.160.10:8004/play/hls/bnt2/index.m3u8
-#EXTINF:-1,BNT HD
-http://46.10.160.10:8004/play/hls/bnthd/index.m3u8
-#EXTINF:-1,Bulgaria on Air
-http://46.10.160.10:8004/play/hls/bgonair/index.m3u8
+#EXTINF:-1,NOVA
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.110:1235
+#EXTINF:0,NRJ Hits
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+#EXTINF:0,ntv 1
+http://lb.blb.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u
+#EXTINF:0,ntv1
+http://hls.cdn.bg:2010/fls/ntv_1.stream/playlist.m3u8
+#EXTINF:0,ntv 2
+http://hls.cdn.bg:2010/fls/ntv_2.stream/playlist.m3u8
+#EXTINF:0,pomo
+http://80.80.158.158:8080/stream.flv
+#EXTINF:0,ROMA TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-1,Roma TV
+http://77.78.130.123/hls/sd.m3u8
+#EXTINF:-1,Roma TV HD
+http://77.78.130.123/hls/hd.m3u8
+#EXTINF:-1,The Voice
+#EXTVLCOPT:network-caching=1000
+http://5.32.183.177:4080/udp/224.0.0.110:1240
+#EXTINF:0,Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:0,Travel TV HD
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:-1,TV Evropa 
+http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
+#EXTINF:-1,TV Leskovac
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:0,TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:0,TV Stoichev
+http://lb.blb.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:0,TV+ Kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,TV
+rtmp://79.98.109.134:1935/big/live 
+#EXTINF:0,vvv
+rtmp://vvv.bg:1935/live/vvv.flv
+#EXTINF:-1,Делта Русе
+http://185.134.228.141:8891
+
 
 
 
