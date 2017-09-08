@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,7/9/17 update2
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,8/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -5063,32 +5063,18 @@ http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3090.ts
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif ,==Poland==
 http://..........
 
-#EXTINF:-1 ,U-HD 4K 2144p ENG
+#EXTINF:-1 ,1-HD 4K
 http://rtmp.one.by:1400
-#EXTINF:-1 tvg-id=”Hope Poland” tvg-logo=”Hope.png” ,Hope Channel Polska HD
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id=”WP1″ tvg-logo=”WP_TV.png” ,WP TV HD
-https://av-cdn-1.wpimg.pl/tv24/ngrp:wp1/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-id=”Torun TV” tvg-logo=”https://www.tvk.torun.pl/upload/adv/51_tvtorun.jpg” ,TV Torun HD
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-id=”Dla Ciebie TV” tvg-logo=”http://www.dlaciebie.tv/assets/wysiwig/images/logo/logo_telewizji_dlaCiebietv_kolor.png” ,Dla Ciebie TV
+rtmp://wowza.artcom.pl/tv/DlaCiebieTv800.stream
 #EXTINF:-1 tvg-logo=”Eska_Party.png” ,Eska Party TV HD
 rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_720p
 #EXTINF:-1,ESKA ROCK
 http://stream.smcdn.pl/eska_rock-t/eska_rock_720p/chunklist_w1090256482.m3u8
 #EXTINF:-1,ESKA BEST MUSIC
 https://stream.smcdn.pl/best-t/best_720p/chunklist_w1247424899.m3u8
-#EXTINF:-1,WAWA TV
-http://stream.smcdn.pl/wawa-t/wawa_720p/chunklist_w628339386.m3u8
-#EXTINF:-1,VOX TV
-http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
-#EXTINF:-1,VOX TV 2
-http://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1457348893.m3u8
-#EXTINF:-1 tvg-id=”Stars” tvg-logo=”http://yoy.tv/channel/covers/2329.jpg?cache=32″ url-epg=”” ,STARS MUSIC
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
-#EXTINF:0,AMAZING MULTIMEDIA
-http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
-#EXTINF:-1,Rock One
-mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 tvg-id=”Hope Poland” tvg-logo=”Hope.png” ,Hope Channel Polska HD
+http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1,NRJ Hits TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w475134729.m3u8
 #EXTINF:-1,O2 TV
@@ -5099,44 +5085,14 @@ http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
 #EXTINF:-1,Retro
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-#EXTINF:-1 tvg-id=”Stars”  tvg-logo=”http://yoy.tv/channel/covers/2329.jpg?cache=32″ url-epg=”” ,STARS DISCO MUSIC TV HD
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
-#EXTINF:-1 tvg-id=”TV Republika”  tvg-logo=”http://tele-wizja.com/logo/tvrepublika.png” url-epg=”” ,Republika TV
-http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
-#EXTINF:0,Lech TV
-http://wtk.live-ext.e96-jw.insyscd.net/lechtv.smil/chunklist_b1004100_slpl.m3u8
-#EXTINF:-1 tvg-id=”WTK” tvg-logo=”https://pbs.twimg.com/profile_images/378800000778377432/8dea1a0c0e9c325512fce23832e5c61a_400x400.png” ,WTK TV
-http://wtk.live-ext.e55-po.insyscd.net/wtk.smil/playlist.m3u8
-#EXTINF:-1,TV KUJAWY
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1,Virgin Radio TV
-rtmp://fms.105.net:1935/live/virgin1
-#EXTINF:-1 tvg-id=”TV Trwam”  tvg-logo=”TV_Trwam.png” ,TV Trwam
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=”Dla Ciebie TV” tvg-logo=”http://www.dlaciebie.tv/assets/wysiwig/images/logo/logo_telewizji_dlaCiebietv_kolor.png” ,Dla Ciebie TV
-rtmp://wowza.artcom.pl/tv/DlaCiebieTv800.stream
-#EXTINF:-1 tvg-id=”TVP ABC” tvg-logo=”TVP_ABC.png” ,TVP ABC
-http://204.8.219.66:7005/play/a00d
-#EXTINF:-1 tvg-id=”TTV” tvg-logo=”TTV.png” ,TTV
-http://204.8.219.66:7005/play/a009
-#EXTINF:-1,Stopklatka TV
-http://204.8.219.66:7005/play/a00e
-#EXTINF:-1,ATM Rozrywka
-http://204.8.219.66:7005/play/a00b
-#EXTINF:0,Amazing
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0,Amazing 
-http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
+#EXTINF:-1,Rock One
+mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:0,TVP 1
 http://63.237.48.23/ios/TVP/TVP.m3u8
-#EXTINF:-1,TVP Polonia
+#EXTINF:-1 tvg-id=”Polonia 1″ tvg-logo=”http://dwiptv.cba.pl/ico/Polonia_1_1.png” ,TVP Polonia
 http://193.32.36.27:8005
 #EXTINF:-1,TVP Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 tvg-id=”Polonia 1″ tvg-logo=”http://dwiptv.cba.pl/ico/Polonia_1_1.png” ,Polonia
-http://193.32.36.27:8005
-#EXTINF:-1 tvg-id=”Stopklatka TV” tvg-logo=”http://dwiptv.cba.pl/ico/Stopklatka_TV_1.png” ,Stopklatka TV
-http://204.8.219.66:7005/play/a00e
 #EXTINF:0 ,TVP Sejm
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=sejm
 #EXTINF:0 ,TVP Senat
@@ -5144,25 +5100,27 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 #EXTINF:0 ,TVP Parlament Kanał 1
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
 #EXTINF:0 ,TVP Parlament Kanał 2
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2#EXTINF:0 group-title=”TVP”,TVP Sejm
-#EXTINF:-1 tvg-id=”4FUN.TV” tvg-logo=”http://static.pure-cast.net/tv4fun.png” ,4Fun.tv
-http://195.206.253.142:21017/WOXA9NBZ585JM639IM494OAIOG3KGV52-L3RtcDIvNGZ1bi50di1zdA==-1925267095-30f89f127c3e0e073987d9f0e7f8a64b/str1/stream
-#EXTINF:-1,WTK
-http://wtk.live-ext.e55-po.insyscd.net/wtk.smil/playlist.m3u8
-#EXTINF:-1,TV TORUŃ
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
+#EXTINF:0, TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id=”Torun TV” tvg-logo=”https://www.tvk.torun.pl/upload/adv/51_tvtorun.jpg” ,TV Torun HD
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1,TV KUJAWY
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1,STELLA
-rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
-#EXTINF:0,tvg-id=”WP” tvg-logo=”http://dwiptv.cba.pl/ico/WP1_1.png” ,WP
-https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
 #EXTINF:-1 tvg-id=”” tvg-logo=”http://dwiptv.cba.pl/ico/Twoja_TV_1.png” ,Twoja TV HD
 http://94.246.169.19/ttv_hls/live_720p/index.m3u8
-#EXTINF:0, TV Asta
-http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
-
-
+#EXTINF:-1,STELLA
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
+#EXTINF:-1,Virgin Radio TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:-1 tvg-id=”TV Trwam”  tvg-logo=”TV_Trwam.png” ,TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:-1,WAWA TV
+http://stream.smcdn.pl/wawa-t/wawa_720p/chunklist_w628339386.m3u8
+#EXTINF:-1 tvg-id=”WP1″ tvg-logo=”WP_TV.png” ,WP TV
+https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
+#EXTINF:-1,VOX TV
+http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
 
 
 
