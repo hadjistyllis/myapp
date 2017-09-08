@@ -5552,50 +5552,33 @@ http://37.220.128.130:9100/32
 #EXTINF:1 tvg-logo=http://www.flags.net/images/largeflags/NETH0001.GIF ,Netherlands
 http://..........
 
+
+#EXTINF:-1,538 TV.NL
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1,538 TV
+http://hlscdn.538.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1,Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:-1,MAHARISHI CH 3
+rtsp://streaming.mou.org/videodialup
 #EXTINF:-1,NPO 1
 http://82.151.55.82/output/NPO1-KB/playlist.m3u8
 #EXTINF:-1,NPO 2
 http://82.151.55.82/output/NPO2-KB/playlist.m3u8
 #EXTINF:-1,NPO 3
 http://82.151.55.82/output/NPO3-KB/playlist.m3u8
-#EXTINF:RTV DRENTHE
-rtmp://stream.rtvdrenthe.nl/tv/tvstream1
-#EXTINF:OMROEP ZEELAND
+#EXTINF:-1,OMROEP ZEELAND
 rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
-#EXTINF:SALTO 1 TV
-mms://195.169.148.57/A1
-#EXTINF:SALTO 2 TV
-mms://195.169.148.57/A2
-#EXTINF:MAHARISHI CH 3
-rtsp://streaming.mou.org/videodialup
-#EXTINF:OMROEP BRABAND
-http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
-#EXTINF:RTV DRENTHE
-http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8
-#EXTINF:3ML
-rtmp://fms1.3ml.nl/livepkgr/livetv
-#EXTINF:3ML
-http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
-#EXTINF: 538 TV.NL
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:-1,538 TV
-http://hlscdn.538.nl/content/538tv/538tv_0.m3u8
-#EXTINF:-1,EDE TV
-rtmp://live.streamone.nl/livestream/yEr2XzzAi311
-#EXTINF:-1,Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:-1,MLA TV
-rtmp://live.streamone.nl/livestream/u2SioS02Af77
-#EXTINF:-1,MerweTV
-rtmp://fm-live.prostream.nl/merwertv/live
-#EXTINF:-1,N1
-rtmp://live.streamone.nl/livestream/n1D8eGo3zY
-#EXTINF:-1,RTV Drenthe
-http://stream.rtvdrenthe.nl/tv/:tvstream1/chunklist.m3u8
-#EXTINF:-1,TV Ellef
-rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
 #EXTINF:-1,Q 
 http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
+#EXTINF:-1,RTV DRENTHE
+rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+#EXTINF:-1,SALTO 1 TV
+mms://195.169.148.57/A1
+#EXTINF:-1,SALTO 2 TV
+mms://195.169.148.57/A2
+#EXTINF:-1,TV Ellef
+rtmp://cdn22.streampartner.nl:1935/tvellef/livestream
 
 
 
@@ -5609,87 +5592,69 @@ http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
 
 
-#EXTINF:10 group-title=”Slovakia-WebTV”,
+#EXTINF:10 group-title=”Czechoslovakia-WebTV”,
 
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/flags_database/Flag_of_Slovakia.png ,==Slovakia==
 http://..........
-
-#EXTINF:-1, JOJ 
-http://http-stream.joj.sk/joj/joj/index-hq.m3u8 
-#EXTINF:-1, JOJ Plus 
-http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8 
-#EXTINF:-1, WAU 
-http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-#EXTINF:-1,Joj hd
-http://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1,Joj hq
-http://nn.geo.joj.sk/hls/joj-540.m3u8
-#EXTINF:-1,Joj lq
-http://nn.geo.joj.sk/hls/joj-360.m3u8
-#EXTINF:-1,Joj family sd
-http://nn.geo.joj.sk/hls/family-360.m3u8
-#EXTINF:-1,Rik sd
-http://nn.geo.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1,Rik lq
-http://nn.geo.joj.sk/hls/rik-360.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:10 group-title=”Czech-WebTV”,
-
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png ,==Czech==
 http://..........
 
-#EXTINF:-1,TA3
-rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem3.flv
-#EXTINF:-1,TA3
-rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem2.flv
-#EXTINF:-1,TA3
-rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem1.flv
-
+#EXTINF:-1,AXN
+http://69.39.239.166:5000/live/205/205.m3u8
+#EXTINF:-1,AXN White
+http://69.39.239.166:5000/live/281/281.m3u8
+#EXTINF:-1,AXN Black
+http://69.39.239.166:5000/live/282/282.m3u8
 #EXTINF:-1,Ceskoslovensko HD 
 http://65.254.55.10:4000/live/196/196.m3u8 
+#EXTINF:-1,CSmini-CS film
+http://174.36.220.217:5000/live/122/122.m3u8
+#EXTINF:-1,CSfilm_Horor
+http://208.43.120.148:5000/live/122/122.m3u8
+#EXTINF:-1,CT 1
+http://5.63.149.252:5000/live/62/62.m3u8
+#EXTINF:-1,CT 2
+http://5.63.149.252:5000/live/63/63.m3u8
+#EXTINF:-1,CT Sport HD
+http://5.63.149.252:5000/live/299/299.m3u8
+#EXTINF:-1,DAJTO
+http://174.36.155.34:4000/live/340/340.m3u8
+#EXTINF:-1,DISCOVERY
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:-1,DokuCZ 
 http://65.254.55.10:4000/live/195/195.m3u8 
-#EXTINF:-1,Eurosport 
-http://65.254.55.10:4000/live/197/197.m3u8
-
-#EXTINF:-1,STV 1
-http://174.36.220.217:5000/live/177/177.m3u8
-#EXTINF:-1,STV 1
-http://199.195.199.196:5000/live/365/365.m3u8
-#EXTINF:-1,STV 2
-http://199.195.199.196:5000/live/366/366.m3u8
-#EXTINF:-1,STV 2
-http://174.36.220.217:5000/live/79/79.m3u8
-#EXTINF:-1,Markiza
-http://69.39.239.166:5000/live/36/36.m3u8
-#EXTINF:-1,Markiza HD
-http://5.63.149.252:5000/live/418/418.m3u8
 #EXTINF:-1,Doma
 http://pluto4.onlinetv1.com:5000/live/368/368.m3u8
 #EXTINF:-1,Doma
 http://69.4.230.139:5000/live/199/199.m3u8
 #EXTINF:-1,Doma
 http://199.195.199.196:5000/live/368/368.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://174.36.220.217:5000/live/197/197.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://174.36.220.217:5000/live/197/197.m3u8
+#EXTINF:-1,FILM+
+http://184.173.146.7:5000/live/204/204.m3u8
+#EXTINF:-1,FILMBOX
+http://184.173.146.7:5000/live/202/202.m3u8
+#EXTINF:-1,FILMBOX+
+http://184.173.146.7:5000/live/203/203.m3u8
+#EXTINF:-1,Fine Living
+http://69.39.239.166:5000/live/543/543.m3u8
+#EXTINF:-1,HISTORY
+http://174.36.155.34:4000/live/287/287.m3u8
+#EXTINF:-1,JIM JAM
+http://184.173.146.7:5000/live/201/201.m3u8
+#EXTINF:-1,Joj (720P)
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1,Joj (540p)
+http://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1,Joj (360p)
+http://nn.geo.joj.sk/hls/joj-360.m3u8
 #EXTINF:-1,JOJ
 http://174.36.220.217:5000/live/141/141.m3u8
 #EXTINF:-1,JOJ
@@ -5700,20 +5665,40 @@ http://http-stream.joj.sk/joj/joj/index-hq.m3u8
 http://199.195.199.196:5000/live/367/367.m3u8
 #EXTINF:-1,JOJ+ HD
 http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
-#EXTINF:-1,WAU
-http://69.4.230.139:5000/live/382/382.m3u8
-#EXTINF:-1,WAU HD
-http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-#EXTINF:-1,DAJTO
-http://174.36.155.34:4000/live/340/340.m3u8
-#EXTINF:-1,CT 1
-http://5.63.149.252:5000/live/62/62.m3u8
-#EXTINF:-1,CT 2
-http://5.63.149.252:5000/live/63/63.m3u8
-#EXTINF:-1,CT Sport
-http://92.62.234.206/104/mystream.m3u8
-#EXTINF:-1,CT Sport HD
-http://5.63.149.252:5000/live/299/299.m3u8
+#EXTINF:-1,Joj family (360p)
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1,Markiza
+http://69.39.239.166:5000/live/36/36.m3u8
+#EXTINF:-1,Markiza HD
+http://5.63.149.252:5000/live/418/418.m3u8
+#EXTINF:-1,MINIMAX
+http://108.168.175.182:5000/live/278/278.m3u8
+#EXTINF:-1,NOVA
+http://69.39.239.166:5000/live/60/60.m3u8
+#EXTINF:-1,NOVA HD
+http://108.168.175.182:5000/live/156/156.m3u8
+#EXTINF:-1,NOVA 2
+http://208.43.120.148:5000/live/854/854.m3u8
+#EXTINF:-1,NOVA 2
+http://174.36.220.217:5000/live/854/854.m3u8
+#EXTINF:-1,NOVA GOLD
+http://69.4.230.139:5000/live/380/380.m3u8
+#EXTINF:-1,NOVA Cinema
+http://174.36.220.217:5000/live/120/120.m3u8
+#EXTINF:-1,NOVA Cinema
+http://208.43.120.148:5000/live/120/120.m3u8
+#EXTINF:-1,NOVA Action
+http://174.36.163.12:4000/live/304/304.m3u8
+#EXTINF:-1,NOVA Sport 1
+http://174.36.220.217:5000/live/173/173.m3u8
+#EXTINF:-1,NOVA Sport 1 HD
+http://5.63.149.252:5000/live/117/117.m3u8
+#EXTINF:-1,OCKO
+http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,OCKO GOLD
+http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,OCKO EXPRES
+http://se04.se.ocko-live.service.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1,PRIMA
 http://69.4.230.139:5000/live/115/115.m3u8
 #EXTINF:-1,PRIMA HD
@@ -5728,52 +5713,24 @@ http://208.43.120.148:5000/live/193/193.m3u8
 http://184.173.146.7:5000/live/377/377.m3u8
 #EXTINF:-1,Prima Max
 http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1,NOVA
-http://69.39.239.166:5000/live/60/60.m3u8
-#EXTINF:-1,NOVA HD
-http://108.168.175.182:5000/live/156/156.m3u8
-#EXTINF:-1,NOVA 2
-http://208.43.120.148:5000/live/854/854.m3u8
-#EXTINF:-1,NOVA 2
-http://174.36.220.217:5000/live/854/854.m3u8
-#EXTINF:-1,NOVA GOLD
-http://69.4.230.139:5000/live/380/380.m3u8
-#EXTINF:-1,NOVA Cinema
-http://174.36.220.217:5000/live/120/120.m3u8
-#EXTINF:-1",NOVA Cinema
-http://208.43.120.148:5000/live/120/120.m3u8
-#EXTINF:-1,NOVA Cinema HD
-http://109.69.210.13:3000/novacinemahd
-#EXTINF:-1,NOVA Action
-http://109.69.210.13:3000/fanda
-#EXTINF:-1,NOVA Action
-http://174.36.163.12:4000/live/304/304.m3u8
-#EXTINF:-1,NOVA Sport 1
-http://174.36.220.217:5000/live/173/173.m3u8
-#EXTINF:-1,NOVA Sport 1 HD
-http://5.63.149.252:5000/live/117/117.m3u8
-#EXTINF:-1,DISCOVERY
-http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://69.39.239.166:5000/live/284/284.m3u8
-#EXTINF:-1,National Geographic Wild
-http://109.69.210.13:3000/ngcwild
-#EXTINF:-1,CSmini-CS film
-http://174.36.220.217:5000/live/122/122.m3u8
-#EXTINF:-1,CSfilm_Horor
-http://208.43.120.148:5000/live/122/122.m3u8
-#EXTINF:-1,AXN
-http://69.39.239.166:5000/live/205/205.m3u8
-#EXTINF:-1,AXN White
-http://69.39.239.166:5000/live/281/281.m3u8
-#EXTINF:-1,AXN Black
-http://69.39.239.166:5000/live/282/282.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://174.36.220.217:5000/live/197/197.m3u8
-#EXTINF:-1,Eurosport
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://174.36.220.217:5000/live/197/197.m3u8
+#EXTINF:-1,RebeL
+http://199.195.199.196:5000/live/410/410.m3u8
+#EXTINF:-1,Retro
+http://199.195.199.196:5000/live/412/412.m3u8
+#EXTINF:-1,Rik (540p)
+http://nn.geo.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1,Rik (360p)
+http://nn.geo.joj.sk/hls/rik-360.m3u8
+#EXTINF:-1,RiK
+http://5.63.149.252:5000/live/499/499.m3u8
+#EXTINF:-1,STV 1
+http://174.36.220.217:5000/live/177/177.m3u8
+#EXTINF:-1,STV 1
+http://199.195.199.196:5000/live/365/365.m3u8
+#EXTINF:-1,STV 2
+http://199.195.199.196:5000/live/366/366.m3u8
+#EXTINF:-1,STV 2
+http://174.36.220.217:5000/live/79/79.m3u8
 #EXTINF:-1,Sport 1 HD
 http://108.168.175.182:5000/live/103/103.m3u8
 #EXTINF:-1,Sport 2
@@ -5784,40 +5741,20 @@ http://69.39.239.166:5000/live/390/390.m3u8
 http://174.36.155.34:4000/live/189/189.m3u8
 #EXTINF:-1,Spektrum HOME
 http://199.195.199.196:5000/live/312/312.m3u8
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem3.flv
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem2.flv
+#EXTINF:-1,TA3
+rtmp://212.47.12.51:1935/TA3_EDGE_M/_definst_/livem1.flv
 #EXTINF:-1,TV Barrandov
 http://174.36.220.217:5000/live/121/121.m3u8
 #EXTINF:-1,TV Barrandov
 http://208.43.120.148:5000/live/121/121.m3u8
-#EXTINF:-1,FILM+
-http://184.173.146.7:5000/live/204/204.m3u8
-#EXTINF:-1,FILMBOX
-http://184.173.146.7:5000/live/202/202.m3u8
-#EXTINF:-1,FILMBOX+
-http://184.173.146.7:5000/live/203/203.m3u8
-#EXTINF:-1,OCKO
-http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,OCKO GOLD
-http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,OCKO EXPRES
-http://se04.se.ocko-live.service.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,JIM JAM
-http://184.173.146.7:5000/live/201/201.m3u8
-#EXTINF:-1,MINIMAX
-http://108.168.175.182:5000/live/278/278.m3u8
-#EXTINF:-1,RiK
-http://5.63.149.252:5000/live/499/499.m3u8
-#EXTINF:-1,Fine Living
-http://69.39.239.166:5000/live/543/543.m3u8
-#EXTINF:-1,RebeL
-http://199.195.199.196:5000/live/410/410.m3u8
-#EXTINF:-1,Retro
-http://199.195.199.196:5000/live/412/412.m3u8
-#EXTINF:-1,DokuCZ
-http://65.254.55.10:4000/live/195/195.m3u8
-#EXTINF:-1,Ceskoslovensko HD
-http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1,HISTORY
-http://174.36.155.34:4000/live/287/287.m3u8
+#EXTINF:-1,WAU
+http://69.4.230.139:5000/live/382/382.m3u8
+#EXTINF:-1,WAU HD
+http://http-stream.joj.sk/joj/wau/index-hq.m3u8
 
 
 
