@@ -6620,15 +6620,12 @@ http://ckingiptv.tk:8000/live/burns/burns/25863.ts
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates”,
+#EXTINF:9 group-title=”United.Arab.Emirates-WebTV”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
 
-#EXTINF:-1,bbc arabic 
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,AR: BEIN SPORT NEWS
-https://www.youtube.com/watch?v=9A6j2L2fEM8
+
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
 #EXTINF:-1,ADSport 2HD 
@@ -6639,37 +6636,56 @@ http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8 
 #EXTINF:-1,ADSports 5HD 
 http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+#EXTINF:-1,Al Fady TV
+http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
+#EXTINF:-1,AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Al-Jazeera Document
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Al-Sharqiah
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1,Al-Sharqiah News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,NRT arabic
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Al-Jazeera Document
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,RT Today Arabic
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
-#EXTINF:-1,DW Arabic
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,AL HURRA
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,NOORSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
-#EXTINF:-1,Al Fady TV
-http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
 #EXTINF:-1,ALMAS TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,BEIN SPORT NEWS HD
+https://www.youtube.com/watch?v=Ram-J4i1QHQ
+#EXTINF:-1,BEIN SPORTs HD
+https://www.youtube.com/watch?v=cfmTbXgR_K0
 #EXTINF:-1,DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,DUBAI TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:-1,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,NOORSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
+#EXTINF:-1,NRT arabic
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”United.Arab.Emirates2”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
 
 #EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
 http://62.68.66.244:8000/play/s65
@@ -6736,7 +6752,7 @@ http://iptvpanel.d1d2.org/ip445208/2368154279/25.ch
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2”,
+#EXTINF:9 group-title=”United.Arab.Emirates3”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
@@ -7490,7 +7506,154 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/546.ts|user-agent=FreeIPTV
 #EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
 http://..........
 
-
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал (Днепропетровск)
+rtmp://212.3.106.230/live/livestream
+#EXTINF:-1,112 Украина (Резерв)
+http://play.lanet.tv/live/9053.m3u8
+#EXTINF:-1,112 Украина HD
+rtmp://app.live.112.events/live/112hd_mid
+#EXTINF:-1,21 канал (Ужгород)
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1,43 Канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,8 Канал (Красноярск)
+http://80.65.18.213/playlist_bonus_tv_region.m3u8
+#EXTINF:-1,8 канал Владивосток
+rtmp://37.187.27.118/live/livestream2
+#EXTINF:-1,8 канал Владивосток HD
+rtmp://37.187.27.118/live/livestream3
+#EXTINF:-1,ATV (Улан-Удэ)
+http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
+#EXTINF:-1,Brodilo TV HD
+http://brodilo.tv/channel.php
+#EXTINF:-1,FM ТВ (Симферополь)
+rtmp://193.238.110.158:1935/rtmp/neapol-hq
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Lifenews78
+http://tv78.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,One.by
+http://rtmp.one.by:1200
+#EXTINF:-1,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One.by HD (Резерв)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1,One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:-1,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1,One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Promo DJ TV
+http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8
+#EXTINF:-1,Relax.TV
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+#EXTINF:-1,Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,RTI Вільні Люди
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,Top Shop TV
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1,Zik (Резерв)
+http://play.lanet.tv/live/9050.m3u8
+#EXTINF:-1,Аверс (Луцк)
+rtmp://194.44.130.179:1935/oflaDemo/streamTest
+#EXTINF:-1,Алекс Запоріжжя
+rtmp://94.240.131.3:1935/live/livestream1
+#EXTINF:-1,Архыз 24
+http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/chunklist.m3u8
+#EXTINF:-1,Беларусь 24
+http://video.tvr.by:1935/belarus24/live/playlist.m3u8
+#EXTINF:-1,Буковина
+rtmp://gigaz.wi.com.ua/hallDemoHLS/BUKOVINA
+#EXTINF:-1,Глас
+rtmp://gigaz.wi.com.ua/hallDemo/glassua
+#EXTINF:-1,Громадське
+http://play.lanet.tv/live/1001.m3u8
+#EXTINF:-1,Дайвинг ТВ
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:-1,Еспресо
+http://play.lanet.tv/live/9060.m3u8
+#EXTINF:-1,Житомир
+rtmp://online1.tvradiozt.com.ua/rtplive/live1.stream
+#EXTINF:-1,Крик ТВ
+rtmp://rictv.cdnvideo.ru:1935/rictv/rictv.sdp
+#EXTINF:-1,Крым
+rtmp://grey.ether.tv:1935/live/krym/broadcast37
+#EXTINF:-1,Любимое.TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир +3
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир 24/Сейм
+rtmp://77.243.11.114:1935/live/live
+#EXTINF:-1,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,НВ24
+http://5.158.126.24/hls-live/livepkgr/_definst_/liveevent/nv24_2.m3u8
+#EXTINF:-1,НВК Саха
+http://saha.cdnvideo.ru:1935/saha//sahatv.sdp/playlist.m3u8
+#EXTINF:-1,Народная Дипломатия ТВ
+http://hls.goodgame.ru/hls/33226.m3u8?version=2
+#EXTINF:-1,ОНТ (Беларусь)
+rtmp://93.125.31.151/live/ont.stream_ont
+#EXTINF:-1,Общественное ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Первый/МТВ (Волгоград)
+http://volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1,Планета
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Подсекай HD
+rtmp://176.32.32.36/podsekaiTV/chanelHD
+#EXTINF:-1,Правда Севера (Архангельск)
+http://translation.atknet.ru/atkinfo/index.m3u8
+#EXTINF:-1,РЖД
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1,Россия 1 +2
+rtmp://hosting.nsktv.ru:1935/live/rossia1
+#EXTINF:-1,СТВ (Беларусь)
+http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,Самара ГИС
+http://samaragis.ru:9998/iphone.m3u8
+#EXTINF:-1,Сургут 1
+rtmp://217.8.90.68/live/stv512
+#EXTINF:-1,ТВ Пенза
+rtmp://tv-penza.ru/live/1
+#EXTINF:-1,ТВЦ (Нижнекамск)
+http://webtv.tatar-inform.ru:1935/live/nk/chunklist.m3u8
+#EXTINF:-1,ТНТ (Курск)
+rtmp://178.249.242.111:1935/live/tv6
+#EXTINF:-1,ТРК Львів
+rtmp://gigaz.wi.com.ua/hallDemoHLS/LVIV
+#EXTINF:-1,ТелеДом HD
+rtmp://91.209.128.203/live/teledom3
+#EXTINF:-1,Трейлеры ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1,Тюменское время
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1,ЧГТРК Грозный
+http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Эфир-24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:0,ОТР
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:0,КАРУСЕЛЬ
@@ -7511,6 +7674,61 @@ http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
 http://cdn-01.bonus-tv.ru/btv/zoopark/type/user/devname/LG-SmartTV/devid/LG-1469118402/eol/20200101T0000/hash/283bc4bbe498f77b14b08658942a21a4cb0edcaf/playlist.m3u8
 #EXTINF:0,Сетанта Спорт
 http://195.158.29.129/live1_360/live.stream_360p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:11 group-title=”Russian2”,
+
+#EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
 
 #EXTINF:-1,Звезда
 http://178.45.252.46:8802/hls/CH_C02_ZVEZDA/variant.m3u8?version=2
@@ -7559,540 +7777,6 @@ http://178.45.252.46:8802/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1,Россия 1
 http://178.45.252.46:8802/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:11 group-title=”Russian2-WebTV”,
-
-#EXTINF:1 tvg-logo=http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif ,==Russia==
-http://..........
-
-#EXTINF:-1,100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,11 канал (Днепропетровск)
-rtmp://212.3.106.230/live/livestream
-#EXTINF:-1,112 Украина
-rtmp://31.28.169.242/live/live112
-#EXTINF:-1,112 Украина (Резерв)
-http://play.lanet.tv/live/9053.m3u8
-#EXTINF:-1,112 Украина HD
-rtmp://app.live.112.events/live/112hd_mid
-#EXTINF:-1,12 Канал (Омск)
-http://player.bonus-tv.ru:7000/mainfest-all.m3u8
-#EXTINF:-1,15 канал (Червоноград)
-http://91.192.180.66:1935/tv-channels/stream02/playlist.m3u8
-#EXTINF:-1,21 канал (Ужгород)
-rtmp://213.174.8.15:1935/live/danio
-#EXTINF:-1,21+ (Чебоксары)
-rtmp://77.240.152.166/live/live1
-#EXTINF:-1,24 Украiна
-http://109.68.190.192:1935/ukraina24/ukraina24.stream/playlist.m3u8
-#EXTINF:-1,24 Южный (Одесса)
-http://iphone-streaming.ustream.tv/uhls/19272199/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,3S TV
-http://194.50.85.71/tv/9086.m3u8
-#EXTINF:-1,43 Канал HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1,5 канал UA
-http://stream2.5.ua:8080/tv/5tv/5tv1/playlist.m3u8
-#EXTINF:-1,7 канал (Одесса)
-http://85.238.112.10:8810/hls_sec/239.33.15.14-.m3u8
-#EXTINF:-1,8 Канал (Красноярск)
-http://80.65.18.213/playlist_bonus_tv_region.m3u8
-#EXTINF:-1,8 канал (Новосибирск)
-http://hlstv.kuz.211.ru/239.211.211.77/stream.m3u8
-#EXTINF:-1,8 канал Владивосток
-rtmp://37.187.27.118/live/livestream2
-#EXTINF:-1,8 канал Владивосток HD
-rtmp://37.187.27.118/live/livestream3
-#EXTINF:-1,9 Волна
-rtmp://176.9.127.102/live/myStream_1
-#EXTINF:-1,ANI
-http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
-#EXTINF:-1,AnyDay 3D
-http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.3d/stream.m3u8
-#EXTINF:-1,AnyDay HD
-http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.hd/stream.m3u8
-#EXTINF:-1,ATV (Улан-Удэ)
-http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
-#EXTINF:-1,Brodilo TV HD
-http://brodilo.tv/channel.php
-#EXTINF:-1,Buy Home TV
-http://live.buy-home.tv:1935/bhtvlive/live/playlist.m3u8
-#EXTINF:-1,CT
-http://80.245.113.12:1935/live/pubtalk1/playlist.m3u8
-#EXTINF:-1,Da TV
-http://krylov.cdnvideo.ru/krylov/krylov.sdp/playlist.m3u8
-#EXTINF:-1,Everlast Poker TV
-http://hls.goodgame.ru/hls/25476.m3u8
-#EXTINF:-1,FM ТВ (Симферополь)
-rtmp://193.238.110.158:1935/rtmp/neapol-hq
-#EXTINF:-1,Fresh TV
-http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
-#EXTINF:-1,Glazzela 3D
-http://streamer1.cdn.3dsmart.tv/hls/glazella.tv.3d/stream.m3u8
-#EXTINF:-1,Glazzela HD
-http://streamer1.cdn.3dsmart.tv/hls/glazella.tv.hd/stream.m3u8
-#EXTINF:-1,HD FASHION UA
-rtmp://95.67.8.43:1935/live/fashionhd
-#EXTINF:-1,Hello TV
-http://live.tvhello.ru/live/Stream1/playlist.m3u8
-#EXTINF:-1,ICTV
-http://stream.ictv.ua/live/ictv.stream/manifest.m3u8
-#EXTINF:-1,KRATU (Херсон)
-rtmp://212.113.32.169:1935/live/kratutv
-#EXTINF:-1,Life News
-http://tv.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1,Lifenews78
-http://tv78.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1,Luxury World
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,M1
-http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA
-#EXTINF:-1,Mix
-rtmp://tv-mix.ru/live/Stream1
-#EXTINF:-1,Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1,Mute 3D
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
-#EXTINF:-1,Mute HD
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
-#EXTINF:-1,Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1,Nebiset
-http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:-1,One.by
-http://rtmp.one.by:1200
-#EXTINF:-1,One.by HD
-http://rtmp.one.by:1300
-#EXTINF:-1,One.by HD (Резерв)
-rtmp://rtmp.one.by/HD/1muz
-#EXTINF:-1,One.by UHD
-http://rtmp.one.by:1400
-#EXTINF:-1,One.by Россия
-http://rtmp.one.by:2200
-#EXTINF:-1,One.by Россия HD
-http://rtmp.one.by:2300
-#EXTINF:-1,Promo DJ TV
-http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8
-#EXTINF:-1,Relax.TV
-http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
-#EXTINF:-1,Renome (Одесса)
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1,RTI Вільні Люди
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1,RU TV
-http://video03.cdnvideo.ru/video03/RUTV.sdp/playlist.m3u8
-#EXTINF:-1,Top Shop TV
-http://tv-topshop.netrack.ru/hls/topshop.m3u8
-#EXTINF:-1,WBC/ИнКС
-http://hlstv.kuz.211.ru/239.211.4.11/stream.m3u8
-#EXTINF:-1,Zik
-http://ziktv.cdnvideo.ru/ziktv/ziktv.sdp/playlist.m3u8
-#EXTINF:-1,Zik (Резерв)
-http://play.lanet.tv/live/9050.m3u8
-#EXTINF:-1,Аверс (Луцк)
-rtmp://194.44.130.179:1935/oflaDemo/streamTest
-#EXTINF:-1,Аист (Иркутск)
-http://195.206.41.230:8080/live/mystream/index.m3u8
-#EXTINF:-1,Алекс Запоріжжя
-rtmp://94.240.131.3:1935/live/livestream1
-#EXTINF:-1,Антена-Плюс (Черкасы)
-http://streamer.antenna.com.ua/hls/antenna.m3u8
-#EXTINF:-1,Архангельск
-rtmp://yellow.ether.tv/live/arkhangelsk/broadcast4
-#EXTINF:-1,Архыз 24
-http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/chunklist.m3u8
-#EXTINF:-1,Атлант Апостолове
-http://176.122.126.133:2222/list.m3u8
-#EXTINF:-1,Беларусь 1
-http://live.streaming.hoster.by:1935/belarus1/live/playlist.m3u8
-#EXTINF:-1,Беларусь 24
-http://video.tvr.by:1935/belarus24/live/playlist.m3u8
-#EXTINF:-1,Белгород
-rtmp://yellow.ether.tv/live/belgorod/broadcast4
-#EXTINF:-1,Биробиджан
-rtmp://yellow.ether.tv/live/birobidjan/broadcast4
-#EXTINF:-1,Благовещенск
-rtmp://yellow.ether.tv/live/blagoveshensk/broadcast4
-#EXTINF:-1,Буковина
-rtmp://gigaz.wi.com.ua/hallDemoHLS/BUKOVINA
-#EXTINF:-1,В.Новгород
-rtmp://grey.ether.tv/live/velikij-novgorod/broadcast4
-#EXTINF:-1,ВИКУ Geo
-rtmp://80.245.113.12/live/geo1
-#EXTINF:-1,ВПТВ Запорожье
-http://77.88.210.226/machouse.ua_live/live5.stream/playlist.m3u8
-#EXTINF:-1,Владивосток
-http://yellow.ether.tv:1935/live/vladivostok/broadcast37/chunklist.m3u8
-#EXTINF:-1,Волга ТВ (Н.Новгород)
-http://volgatv.srv.imageprom.ru:1935/live/volga/volga.stream/chunklist.m3u8
-#EXTINF:-1,Воронеж
-http://yellow.ether.tv:1935/live/voronezh/broadcast37/chunklist.m3u8
-#EXTINF:-1,Гамма
-http://gamma.tv:1935/live/1_gamma/playlist.m3u8
-#EXTINF:-1,Глас
-rtmp://gigaz.wi.com.ua/hallDemo/glassua
-#EXTINF:-1,Громадське
-http://play.lanet.tv/live/1001.m3u8
-#EXTINF:-1,Губерния (Самара)
-http://grey.ether.tv/live/samara/broadcast4/chunklist.m3u8
-#EXTINF:-1,Гумор ТБ / Бабай ТБ
-rtmp://212.26.132.86/live/gumor_babai
-#EXTINF:-1,ДНР ТВ
-http://hls.goodgame.ru/hls/20642.m3u8
-#EXTINF:-1,Дайвинг ТВ
-http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
-#EXTINF:-1,Детское ТВ
-http://46.182.25.34:1935/tv/1425/playlist.m3u8
-#EXTINF:-1,Дисней +2
-http://hlstv.kuz.211.ru/239.211.211.24/stream.m3u8
-#EXTINF:-1,Домашний (Сургут)
-rtmp://tvsever.ru/live/dom1
-#EXTINF:-1,Домашний +4
-http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
-#EXTINF:-1,Екатеринбург
-rtmp://grey.ether.tv/live/sverdlovsk/broadcast37
-#EXTINF:-1,Еспресо
-http://play.lanet.tv/live/9060.m3u8
-#EXTINF:-1,Житомир
-rtmp://online1.tvradiozt.com.ua/rtplive/live1.stream
-#EXTINF:-1,ИКС (Севастополь)
-http://iphone-streaming.ustream.tv/ustreamVideo/7958810/streams/live/playlist.m3u8
-#EXTINF:-1,ИТВ Крым
-rtmp://80.245.113.12/live/itv1
-#EXTINF:-1,Интер (Резерв)
-http://lb1.itcons.net.ua:1935/inters/redirect.hls?smil:inter.smil
-#EXTINF:-1,Интерра ТВ
-rtmp://94.190.64.24/interra/360
-#EXTINF:-1,Калуга
-rtmp://yellow.ether.tv/live/kaluga/broadcast4
-#EXTINF:-1,Камчатка
-http://yellow.ether.tv:1935/live/kamchatka/broadcast37/chunklist.m3u8
-#EXTINF:-1,Карапуз ТВ
-http://46.182.25.34:1935/tv/1370/playlist.m3u8
-#EXTINF:-1,Карусель
-http://hlstv.kuz.211.ru/239.211.211.66/stream.m3u8
-#EXTINF:-1,Кемерово
-rtmp://yellow.ether.tv/live/kemerovo/broadcast4
-#EXTINF:-1,Коломенское ТВ
-rtmp://78.25.155.85:1935/myapp/mystream
-#EXTINF:-1,Кострома
-rtmp://yellow.ether.tv/live/kostroma/broadcast4
-#EXTINF:-1,Красная Линия
-http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,Краснодар
-rtmp://yellow.ether.tv/live/krasnodar/broadcast4
-#EXTINF:-1,Красноярск
-http://yellow.ether.tv:1935/live/krasnojarsk/broadcast37/chunklist.m3u8
-#EXTINF:-1,Крик ТВ
-rtmp://rictv.cdnvideo.ru:1935/rictv/rictv.sdp
-#EXTINF:-1,Крым
-rtmp://grey.ether.tv:1935/live/krym/broadcast37
-#EXTINF:-1,Курган RU
-http://iphone-streaming.ustream.tv/ustreamVideo/18185333/streams/live/playlist.m3u8
-#EXTINF:-1,ЛДПР ТВ
-http://213.247.198.250:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1,Ленинградская область
-rtmp://grey.ether.tv/live/lenobl/broadcast4
-#EXTINF:-1,Любимое.TV
-http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
-#EXTINF:-1,Матч ТВ (Резерв)
-http://hlstv.kuz.211.ru/239.211.4.7/stream.m3u8
-#EXTINF:-1,Миколаївска ОДТРК
-rtmp://gigaz.wi.com.ua/hallDemoHLS/NICTV
-#EXTINF:-1,Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир +3
-http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8
-#EXTINF:-1,Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир 24/Сейм
-rtmp://77.243.11.114:1935/live/live
-#EXTINF:-1,Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1,Мой город (Кемерово)
-http://hlstv.kuz.211.ru/239.211.4.30/stream.m3u8
-#EXTINF:-1,Москва 24
-http://testlivestream.rfn.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Московский Образовательный
-http://195.208.64.43/hls_tv/tv.m3u8
-#EXTINF:-1,Муз ТВ
-http://hlstv.kuz.211.ru/239.211.211.5/stream.m3u8
-#EXTINF:-1,МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1,Мульт
-http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
-#EXTINF:-1,Мурманск
-rtmp://grey.ether.tv/live/murmansk/broadcast4
-#EXTINF:-1,НВ24
-http://5.158.126.24/hls-live/livepkgr/_definst_/liveevent/nv24_2.m3u8
-#EXTINF:-1,НВК Саха
-http://saha.cdnvideo.ru:1935/saha//sahatv.sdp/playlist.m3u8
-#EXTINF:-1,НТ
-http://iphone-streaming.ustream.tv/uhls/18724506/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,НТН (Резерв)
-http://lb1.itcons.net.ua:1935/ntns/redirect.hls?smil:ntn.smil
-#EXTINF:-1,Нальчик
-rtmp://yellow.ether.tv/live/kabardino-balkarija/broadcast4
-#EXTINF:-1,Народная Дипломатия ТВ
-http://hls.goodgame.ru/hls/33226.m3u8?version=2
-#EXTINF:-1,Новое ТВ
-http://novoetv.cdnvideo.ru/novoetv/novoetv.sdp/playlist.m3u8
-#EXTINF:-1,Новороссия ТВ
-http://hls.goodgame.ru/hls/23154.m3u8
-#EXTINF:-1,Новосибирск
-http://yellow.ether.tv:1935/live/novosibirsk/broadcast37/chunklist.m3u8
-#EXTINF:-1,ОДТРК Нова Волинь
-rtmp://gigaz.wi.com.ua/hallDemo/VOLYNTV
-#EXTINF:-1,ОНТ (Беларусь)
-rtmp://93.125.31.151/live/ont.stream_ont
-#EXTINF:-1,ОТВ Галичина (Украина)
-http://iphone-streaming.ustream.tv/uhls/9807474/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ОТР
-http://hlstv.kuz.211.ru/239.211.211.1/stream.m3u8
-#EXTINF:-1,Обком ТВ (Омск)
-rtmp://obkom.omsk-kprf.ru:1935/live/livestream
-#EXTINF:-1,Общественное ТВ
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1,Орбiта (Украина)
-http://iphone-streaming.ustream.tv/uhls/10366979/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Орел
-rtmp://grey.ether.tv/live/orel/broadcast4
-#EXTINF:-1,Осинники ТВ
-http://hlstv.kuz.211.ru/239.211.4.41/stream.m3u8
-#EXTINF:-1,ПИК ТВ
-rtmp://78.140.209.14:1935/live/piktv3pik3tv
-#EXTINF:-1,Пенза
-rtmp://grey.ether.tv/live/penza/broadcast4
-#EXTINF:-1,Первый +4
-http://hlstv.kuz.211.ru/239.211.4.1/stream.m3u8
-#EXTINF:-1,Первый Городской (Казань)
-http://grey.ether.tv:1935/live/tatarstan/broadcast4/chunklist.m3u8
-#EXTINF:-1,Первый Городской (Калининград)
-http://grey.ether.tv/live/kaliningrad/broadcast37/chunklist.m3u8
-#EXTINF:-1,Первый Городской (Киров)
-rtmp://yellow.ether.tv/live/kirov/broadcast4
-#EXTINF:-1,Первый Городской (Н.Новгород)
-rtmp://grey.ether.tv:1935/live/pfo/broadcast4
-#EXTINF:-1,Первый Республиканский
-http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Первый/МТВ (Волгоград)
-http://volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
-#EXTINF:-1,Перец (Сургут)
-rtmp://tvsever.ru/live/per1
-#EXTINF:-1,Пермь
-rtmp://yellow.ether.tv/live/perm/broadcast4
-#EXTINF:-1,Планета
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1,Подсекай HD
-rtmp://176.32.32.36/podsekaiTV/chanelHD
-#EXTINF:-1,Познавательное HD (Резерв)
-http://46.182.25.34:1935/tv/1456/playlist.m3u8
-#EXTINF:-1,Правда Севера (Архангельск)
-http://translation.atknet.ru/atkinfo/index.m3u8
-#EXTINF:-1,Правда тут
-http://pravdatyt.tv/pravdatythls/stream.m3u8
-#EXTINF:-1,Пятница +2
-http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
-#EXTINF:-1,Пятый канал +4
-http://hlstv.kuz.211.ru/239.211.4.5/stream.m3u8
-#EXTINF:-1,РБК
-http://hlstv.kuz.211.ru/239.211.211.76/stream.m3u8
-#EXTINF:-1,РБК (Резерв)
-http://skypark2.video.rbc.ru/skypark/rbctv_576p/index.m3u8
-#EXTINF:-1,РЖД
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1,РТС Суми
-rtmp://193.34.94.59:8134/live/my_livestream
-#EXTINF:-1,Рада
-rtmp://217.20.164.181:80/live/rada240p.stream
-#EXTINF:-1,Рен
-http://ren.cdnvideo.ru/ren/_definst_/ren1/playlist.m3u8
-#EXTINF:-1,Рен (Саранск)
-http://hlstv.kuz.211.ru/239.211.4.20/stream.m3u8
-#EXTINF:-1,Рен +4
-http://hlstv.kuz.211.ru/239.211.4.31/stream.m3u8
-#EXTINF:-1,Республика Адыгея
-rtmp://grey.ether.tv/live/adygeja/broadcast4
-#EXTINF:-1,Республика Алтай
-rtmp://grey.ether.tv/live/altai-republic/broadcast4
-#EXTINF:-1,Республика Башкортостан
-rtmp://grey.ether.tv/live/bashkirija/broadcast4
-#EXTINF:-1,Республика Бурятия
-rtmp://yellow.ether.tv/live/burjatija/broadcast4
-#EXTINF:-1,Республика Калмыкия
-rtmp://yellow.ether.tv/live/kalmykija/broadcast4
-#EXTINF:-1,Республика Карелия
-rtmp://yellow.ether.tv/live/karelija/broadcast4
-#EXTINF:-1,Республика Коми
-rtmp://grey.ether.tv/live/komi/broadcast4
-#EXTINF:-1,Республика Саха (Якутия)
-rtmp://grey.ether.tv:1935/live/sakha/broadcast37
-#EXTINF:-1,Республика Хакасия
-rtmp://yellow.ether.tv/live/khakasija/broadcast4
-#EXTINF:-1,Республика Чувашия
-rtmp://grey.ether.tv/live/chuvashija/broadcast4
-#EXTINF:-1,Риа новости
-http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
-#EXTINF:-1,Россия 1
-http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия 1 (Ингушетия)
-rtmp://grey.ether.tv/live/ingushetija/broadcast4
-#EXTINF:-1,Россия 1 (Самара)
-http://tvsamara.ru:8092/
-#EXTINF:-1,Россия 1 +2
-rtmp://hosting.nsktv.ru:1935/live/rossia1
-#EXTINF:-1,Россия 1 +4
-http://hlstv.kuz.211.ru/239.211.4.2/stream.m3u8
-#EXTINF:-1,Россия 24
-http://testlivestream.rfn.ru/live/smil:r24.smil/chunklist_b800000.m3u8
-#EXTINF:-1,Россия 24 (Регион.)
-http://hlstv.kuz.211.ru/239.211.4.3/stream.m3u8
-#EXTINF:-1,Россия К
-http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия К +4
-http://hlstv.kuz.211.ru/239.211.4.6/stream.m3u8
-#EXTINF:-1,Россия РТР
-http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Рязань
-rtmp://yellow.ether.tv/live/rjazan/broadcast4
-#EXTINF:-1,СТВ (Беларусь)
-http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
-#EXTINF:-1,СТРК HD
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-1,СТС +4
-http://hlstv.kuz.211.ru/239.211.4.9/stream.m3u8
-#EXTINF:-1,СТС Love
-http://hlstv.kuz.211.ru/239.211.211.99/stream.m3u8
-#EXTINF:-1,Самара ГИС
-http://samaragis.ru:9998/iphone.m3u8
-#EXTINF:-1,Санкт-Петербург
-http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Саратов
-rtmp://yellow.ether.tv/live/saratov/broadcast4
-#EXTINF:-1,Сахалин
-http://yellow.ether.tv:1935/live/sakhalin/broadcast37/chunklist.m3u8
-#EXTINF:-1,Свердловск
-rtmp://grey.ether.tv:1935/live/sverdlovsk/broadcast36
-#EXTINF:-1,Скіфія (Херсон)
-rtmp://77.222.138.62/live/myStream
-#EXTINF:-1,Соціальна країна
-http://sockr.cdnvideo.ru/sockr/sockr.sdp/playlist.m3u8
-#EXTINF:-1,Союз
-http://hlstv.kuz.211.ru/239.211.211.56/stream.m3u8
-#EXTINF:-1,Ставрополь
-http://yellow.ether.tv:1935/live/stavropol/broadcast37/chunklist.m3u8
-#EXTINF:-1,Сургут 1
-rtmp://217.8.90.68/live/stv512
-#EXTINF:-1,ТPK 555 Алушта
-http://193.25.120.160:8888/udp/239.255.0.1:1234
-#EXTINF:-1,ТБН
-http://109.68.190.192:1935/tbn/tbn.stream_hq/chunklist.m3u8
-#EXTINF:-1,ТВ Пенза
-rtmp://tv-penza.ru/live/1
-#EXTINF:-1,ТВ3 +3
-http://hlstv.kuz.211.ru/239.211.211.150/stream.m3u8
-#EXTINF:-1,ТВА Чернівці
-rtmp://gigaz.wi.com.ua/hallDemoHLS/TBALife
-#EXTINF:-1,ТВЦ (Нижнекамск)
-http://webtv.tatar-inform.ru:1935/live/nk/chunklist.m3u8
-#EXTINF:-1,ТНТ (Курск)
-rtmp://178.249.242.111:1935/live/tv6
-#EXTINF:-1,ТНТ +4
-http://hlstv.kuz.211.ru/239.211.4.8/stream.m3u8
-#EXTINF:-1,ТРК Львів
-rtmp://gigaz.wi.com.ua/hallDemoHLS/LVIV
-#EXTINF:-1,ТРК Репортер (Одесса)
-http://cdn4.live-tv.od.ua:8081/tv/31chod-abr/playlist.m3u8
-#EXTINF:-1,ТТРК «Круг»
-http://iphone-streaming.ustream.tv/uhls/13822645/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Тверь
-rtmp://grey.ether.tv/live/tver/broadcast4
-#EXTINF:-1,ТелПлюс
-rtmp://91.202.253.190:1935/live1/telplus.tv
-#EXTINF:-1,ТелеДом HD
-rtmp://91.209.128.203/live/teledom3
-#EXTINF:-1,Томск
-rtmp://yellow.ether.tv/live/tomsk/broadcast4
-#EXTINF:-1,Трейлеры ТВ
-http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
-#EXTINF:-1,Третий Цифровой (Одесса)
-http://cdn5.live-tv.od.ua:8081/tv/3tvod-abr/playlist.m3u8
-#EXTINF:-1,Трофей HD
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?session=5488c6087e1ea6.57082302
-#EXTINF:-1,Тува
-rtmp://yellow.ether.tv/live/tyva/broadcast39
-#EXTINF:-1,Тюменское время
-http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-#EXTINF:-1,Ульяновск
-rtmp://grey.ether.tv/live/uljanovsk/broadcast4
-#EXTINF:-1,Фестивальная-12 (Екатеринбург)
-http://78.140.209.14/unost/festival/chunklist.m3u8
-#EXTINF:-1,Хабаровск
-http://yellow.ether.tv:1935/live/khabarovsk/broadcast37/index.m3u8
-#EXTINF:-1,Ханты-Мансийский автономный округ
-rtmp://grey.ether.tv/live/hmao/broadcast4
-#EXTINF:-1,ЧГТРК Грозный
-http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
-#EXTINF:-1,ЧП Инфо (Резерв)
-http://lb1.itcons.net.ua:1935/magnolias/redirect.hls?smil:magnolia.smil
-#EXTINF:-1,Чернівецький Промінь HD
-http://77.88.210.226/buk.ua_live/promintv/playlist.m3u8
-#EXTINF:-1,Чита
-http://yellow.ether.tv:1935/live/chita/broadcast37/chunklist.m3u8
-#EXTINF:-1,Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1,Щелковское ТВ
-http://95.213.197.210:8080/hls/live-576p/index.m3u8
-#EXTINF:-1,Эфир-24
-http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
-#EXTINF:-1,Эхо 24 (Новоуральск)
-http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
-#EXTINF:-1,Эхо TV (Рязань)
-http://prioecho-live.cdn.ngenix.net:1935/live/priolive/chunklist.m3u8
-#EXTINF:-1,Ю +3
-http://hlstv.kuz.211.ru/239.211.211.29/stream.m3u8
-#EXTINF:-1,ЮУрГУ ТВ (Челябинск)
-rtmp://yellow.ether.tv/live/cheljabinsk/broadcast4
-#EXTINF:-1,Юнион
-http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Ямало-Ненецкий автономный округ
-rtmp://yellow.ether.tv/live/janao/broadcast4
-#EXTINF:-1,Ярославль
-http://grey.ether.tv:1935/live/jaroslavl/broadcast37/chunklist.m3u8
 
 
 
