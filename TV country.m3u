@@ -5289,42 +5289,32 @@ http://..........
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/mklarge.gif ,==R.O.M==
 http://..........
 
-#EXTINF:-1,Rrokum TV
-rtmp://82.114.65.202/live/rrokumtv
-#EXTINF:-1,Jug TV
-rtmp://84.20.77.50/live/livestream1
-#EXTINF:-1,Alfa TV
-rtmp://ataka.tv/live/live
-#EXTINF:-1,24 Vesti
-mms://62.162.58.55/24vesti
-#EXTINF:-1,Alfaomega TV2
-rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
-#EXTINF:-1,Alfa TV Makedon
-rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 #EXTINF:0,AlbuK HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream
-#EXTINF:0,Jug TV
+#EXTINF:-1,Alfa TV
+rtmp://ataka.tv/live/live
+#EXTINF:-1,Alfa TV Makedon
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:-1,Alfaomega TV2
+rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+#EXTINF:-1,Jug TV
 rtmp://84.20.77.50/live/livestream1
+#EXTINF:0, Mirbelogorya
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Rrokum TV
+rtmp://82.114.65.202/live/rrokumtv
 #EXTINF:0,TV JUG FIER
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0, TV Sale
+#EXTINF:0,TV Sale
 http://78.107.255.116:8080/hls/nano.m3u8
-#EXTINF:0, mirbelogorya
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0, mayak
-http://testlivestream.rfn.ru/live/smil:mayak.smil/playlist.m3u8?auth=vh&cast_id=81
-#EXTINF:0, Eska TV
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1,24 Vesti
+mms://62.162.58.55/24vesti
 #EXTINF:0, tvk6
 http://www.tvk6.ru/tv/hls/tvk6.m3u8
-#EXTINF:0,24 Vesti
-mmsh://62.162.58.55/24vesti
 #EXTINF:0,Iris
 mms://62.162.58.55/TVIris
 #EXTINF:0,KANAL 21
 mms://62.162.58.55/TVKanal21
-#EXTINF:0,Orbis
-mms://62.162.58.55/TVOrbis
 
 
 
@@ -5458,18 +5448,78 @@ http://5.135.92.130:4462/out/u/360_1.m3u8
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/hungary-flag.gif ,==Hungary==
 http://..........
 
-#EXTINF:-1,Győrplusz 
-rtmp://91.82.85.44/liverelay/gyorplusz.sdp 
-#EXTINF:-1,Jász Trió 
-rtmp://91.82.85.44/liverelay/jasztriotv.sdp 
-#EXTINF:-1,Supra-Balaton 
-rtmp://91.82.85.44/liverelay/supratv.sdp
 #EXTINF:-1,Fix SD 
 rtmp://video.fixhd.tv:1935/fix/_definst_/sd.stream 
 #EXTINF:-1,Fix HD 
 rtmp://video.fixhd.tv:1935/fix/_definst_/hd.stream
+#EXTINF:-1,Hangulat TV
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
+#EXTINF:-1,Kistersegi TV_Balatonföldvar
+rtmp://79.120.178.90:1935/btkt/tv
+#EXTINF:-1,Light Channel TV
+rtmp://streamer1.streamhost.org:1935/salive/hungarian
+#EXTINF:-1,Szozhalombatta
+rtmp://stream.battanet.hu/halom/tv
+#EXTINF:-1,Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
 
-
+#EXTINF:-1,2 CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/04
+#EXTINF:-1,2 SUPER
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/35
+#EXTINF:-1,3 FEM
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/36
+#EXTINF:-1,AMC
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/11
+#EXTINF:-1,ATV
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/05
+#EXTINF:-1,AUTO MOTOR SPORT
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/16
+#EXTINF:-1,DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/33
+#EXTINF:-1,DUNA WORLD
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/08
+#EXTINF:-1,ECHO TV
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/06
+#EXTINF:-1,EUROSPORT
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/31
+#EXTINF:-1,FILM+
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/01
+#EXTINF:-1,M1
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/12
+#EXTINF:-1,M2
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/13
+#EXTINF:-1,M4 SPORT
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/21
+#EXTINF:-1,HIR TV
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/14
+#EXTINF:-1,LIDL
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/15
+#EXTINF:-1,RTL CLUB
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/03
+#EXTINF:-1,SPORT 2 MAI
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/02
+#EXTINF:-1,TLC
+#EXTVLCOPT:network-caching=1000
+http://37.220.128.130:9100/32
 
 
 
