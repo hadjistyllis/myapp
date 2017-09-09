@@ -40,58 +40,66 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
-
-
 #EXTINF:-1,Animal Planet
-http://37.194.121.4:1234/udp/239.1.5.3:1234 
-
-
-
-
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/43.ts
 #EXTINF:-1,Animal Planet
 http://212.0.202.80:4046/udp/239.100.10.153:1234
-#EXTINF:0,National Geographic
-http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:0,National Geographic
-http://89.23.171.65:3371/udp/239.1.10.29:1234
+#EXTINF:-1,Animal Planet
+http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:0,National Geographic
 http://185.37.168.6:7284//udp/239.255.4.11:15100
 #EXTINF:-1,National Geographic
 http://212.0.202.80:4046/udp/239.100.10.138:1234
+#EXTINF:0,National Geographic
+http://37.194.121.4:1234/udp/239.1.5.8:1234 
+#EXTINF:-1,Nat Geo Wild
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/87.ts
 #EXTINF:0,Nat Geo WILD
 http://185.37.168.6:7284//udp/239.255.4.9:15103
-#EXTINF:0,Nat Geo WILD
-http://89.23.171.65:3371/udp/239.1.11.27:1234
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery Channel
 http://212.0.202.80:4046/udp/239.100.10.154:1234
+#EXTINF:-1,DISCOVERY
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1,Discovery World
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
+#EXTINF:-1,Discovery Turbo
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
+#EXTINF:-1,Discovery HD Showcase
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4425.ts
+#EXTINF:-1,Discovery History
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/49.ts
+#EXTINF:-1,Discovery SCIENCE HD
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:0,Discovery Science
-http://194.28.155.227:81/udp/238.0.3.29:1234
 #EXTINF:-1,Discovery Science
 http://212.0.202.80:4046/udp/239.100.10.174:1234
 #EXTINF:0,Investigation Discovery
-http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:0,Investigation Discovery
 http://185.37.168.6:7284//udp/239.255.4.11:15106
+#EXTINF:0,Investigation Discovery
+http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,ID Xtra
 http://212.0.202.80:4046/udp/239.100.10.177:1234
 #EXTINF:0,DTX
-http://89.23.171.65:3371/udp/239.1.11.6:1234
-#EXTINF:0,DTX
 http://185.37.168.6:7284//udp/239.255.4.9:15105
 #EXTINF:-1,History
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4427.ts
+#EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
-#EXTINF:0,FOX
-http://37.194.121.4:1234/udp/239.1.4.5:1234 
+#EXTINF:-1,HISTORY
+http://174.36.155.34:4000/live/287/287.m3u8
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,FOX
 http://212.0.202.80:4046/udp/239.100.10.105:1234
+#EXTINF:0,FOX
+http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1,FOX Life
 http://212.0.202.80:4046/udp/239.100.10.193:1234
 #EXTINF:-1,Fox Life
@@ -142,41 +150,59 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
+#EXTINF:-1,Cartoonito
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/187.ts
+#EXTINF:-1,Baby Tv
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/188.ts
 #EXTINF:-1,Duck HD
 http://212.0.202.80:4046/udp/239.100.10.10:1234
-#EXTINF:0,Jim Jam
-http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
-#EXTINF:-1,JimJam
-http://93.91.113.8:9999/play/a06n
+#EXTINF:-1,JIM JAM
+http://184.173.146.7:5000/live/201/201.m3u8
 #EXTINF:0,Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:-1,Boomerang
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/63.ts
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
 #EXTINF:-1,Boomerang
 http://212.0.202.80:4046/udp/239.100.10.169:1234
-#EXTINF:0,Cartoon Network
-http://37.194.121.4:1234/udp/239.1.3.3:1234 
+#EXTINF:-1,Cartoon Network
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/1.ts
 #EXTINF:0,Cartoon Network
 http://188.68.162.146:81/udp/239.2.100.159:4321
-#EXTINF:0,Cartoon Network
-http://95.128.162.252:4022/udp/232.0.1.49:1234
 #EXTINF:-1,Cartoon Network
 http://212.0.202.80:4046/udp/239.100.10.244:1234
+#EXTINF:0,Cartoon Network
+http://37.194.121.4:1234/udp/239.1.3.3:1234 
+#EXTINF:-1,Disney XD
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/184.ts
+#EXTINF:-1,Disney Junior
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/185.ts
+#EXTINF:-1,Disney junior
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/2.ts
+#EXTINF:-1,Disney Channel.
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/186.ts
 #EXTINF:-1,Disney Channel
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
 #EXTINF:-1,Disney Channel
 http://212.0.202.80:4046/udp/239.100.10.234:1234
-#EXTINF:0,Nickelodeon
-http://37.194.121.4:1234/udp/239.1.3.4:1234 
+#EXTINF:-1,Nickelodeon
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/156.ts
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
 #EXTINF:-1,Nickelodeon
 http://212.0.202.80:4046/udp/239.100.10.183:1234
+#EXTINF:0,Nickelodeon
+http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
+#EXTINF:-1,Nick Jr
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/183.ts
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
@@ -185,10 +211,17 @@ http://37.49.213.11:81/udp/239.54.7.5:1224
 http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
+#EXTINF:-1,NickToons
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/154.ts
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
 http://37.194.121.4:1234/udp/239.1.15.12:1234 
+
+
+
+
+
 
 
 
@@ -221,12 +254,14 @@ http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:0,MTV Rocks
-http://94.251.66.82:81/udp/239.54.7.3:1224
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
-#EXTINF:-1,MTV Hits 
-http://185.53.163.216:33107 
+#EXTINF:-1,MTV Hits
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/41.ts
+#EXTINF:-1,MTV
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/155.ts
+#EXTINF:-1,MTV Dance
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4444.ts
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -329,38 +364,54 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 
 
-#EXTINF:-1,AR: BEIN SPORT NEWS
-https://www.youtube.com/watch?v=9A6j2L2fEM8
-
-
-
+#EXTINF:-1,BEIN SPORT NEWS HD
+https://www.youtube.com/watch?v=Ram-J4i1QHQ
+#EXTINF:-1,BEIN SPORTs HD
+https://www.youtube.com/watch?v=cfmTbXgR_K0
 
 #EXTINF:-1,ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
 #EXTINF:-1,ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
-#EXTINF:-1,ADSports 3HD 
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8 
-#EXTINF:-1,ADSports 4HD 
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8 
-#EXTINF:-1,ADSports 5HD 
-http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
+#EXTINF:-1,BEIN SPORTS HD 1
+http://wowza2.mysoltv.com:1992/Bein_Sports_1_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 2
+http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 3
+http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 4
+http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 5
+http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 6
+http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 7
+http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 8
+http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 9
+http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 10
+http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
 
-#EXTINF:-1,SPORT 4
-https://hls.fearfulale.xyz/s/fod4572/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=DHFNE5j–cxcPH7EFJdwJg
-#EXTINF:-1,SPORT 5
-https://hls.fearfulale.xyz/s/fod5555954/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=A9LjO9T52aA-Z68yoL2LPw
-#EXTINF:-1,SPORT 6
-https://hls.fearfulale.xyz/s/fod6338/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=F1LPbQOdJ4geVX3UA4Y5_A
-#EXTINF:-1,SPORT 7
-https://hls.fearfulale.xyz/s/fod7697/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=KiBa3YPALXZlOCF3gZg_Hw
-#EXTINF:-1,SPORT 8
-https://hls.fearfulale.xyz/s/fod8664/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=xd8BqFKnz4-YkKX9zNGyQw
-#EXTINF:-1,SPORT 9
-https://hls.fearfulale.xyz/s/my011787/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=cZJVe91mXSZN3n88pd9AQw
-#EXTINF:-1,SPORT 10
-https://hls.fearfulale.xyz/s/my012635/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=Ax7ivyJaFoGDwLee0Pii1w
+#EXTINF:-1,beIN sport 1SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/21.ch
+#EXTINF:-1,beIN sport 2SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/22.ch
+#EXTINF:-1,beIN sport 3SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/23.ch
+#EXTINF:-1,beIN sport 4SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/24.ch
+#EXTINF:-1,beIN sport 5SD
+http://iptvpanel.d1d2.org/ip445208/2368154279/25.ch
+
+#EXTINF:-1, BT Sports 1 
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8 
+#EXTINF:-1, BT Sports 2 
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8 
+#EXTINF:-1, BT Sports 3 
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/index.m3u8
 
 
 #EXTINF:-1, SPORTS TV
@@ -562,3 +613,25 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 http://bit.ly/2l0o6Os
 #EXTINF:-1,Cinema world
 http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,Sony Movie Channel
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4433.ts
+#EXTINF:-1,Sky Movies Showcase
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4429.ts
+#EXTINF:-1,Sky Movies Crime
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/48.ts
+#EXTINF:-1,Sky Select
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/13.ts
+#EXTINF:-1,Sky Living
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/35.ts
+#EXTINF:-1,Sky Horror
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/14.ts
+#EXTINF:-1,Sky Greats
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/21.ts
+#EXTINF:-1,Sky Family
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/19.ts
+#EXTINF:-1,Sky Drama
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/15.ts
+#EXTINF:-1,Sky Disney
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/20.ts
+#EXTINF:-1,Sky Comedy
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/17.ts
