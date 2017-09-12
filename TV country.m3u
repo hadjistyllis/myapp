@@ -1055,12 +1055,6 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-#EXTINF:-1, BT Sports 1 
-http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8 
-#EXTINF:-1, BT Sports 2 
-http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8 
-#EXTINF:-1, BT Sports 3 
-http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/index.m3u8
 
 
 
@@ -4284,22 +4278,10 @@ http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
 
-#EXTINF:-1,RTP 1
-http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1,RTP 1
-rtmp://noscdn1.connectedviews.com/live/rtp1.stream
-#EXTINF:-1,RTP 2
-http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1,RTP 2
-rtmp://noscdn1.connectedviews.com/live/rtp2.stream
-#EXTINF:-1,SIC
-http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
-#EXTINF:-1,TVI
-http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
-#EXTINF:-1,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1,TVI24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" ,Agueda TV
+http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
+#EXTINF:0 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
 #EXTINF:-1,CANÇÃO NOVA [144p] 
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_162_av-b.m3u8 
 #EXTINF:-1,CANÇÃO NOVA [240p] 
@@ -4310,12 +4292,36 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_432_av-b.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_540_av-b.m3u8 
 #EXTINF:-1,CANÇÃO NOVA [720p] 
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-b.m3u8
-#EXTINF:-1,SPORT TV 1
-rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
-#EXTINF:0 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png",ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
 #EXTINF:0,Lunaa Sport
 rtmp://vs2.streamcaster.net/test_live/lunasport
+#EXTINF:-1 tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" ,Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/tcv/images/logo_tcv.jpg" ,RTC (CV)
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+#EXTINF:-1,RTP 1
+http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 1
+rtmp://noscdn1.connectedviews.com/live/rtp1.stream
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+rtmp://noscdn1.connectedviews.com/live/rtp2.stream
+#EXTINF:-1,SIC
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+#EXTINF:-1,SPORT TV 1
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:-1,TVI
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:-1,TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
+
+
+
+
 
 
 
@@ -5441,8 +5447,29 @@ http://http-stream.joj.sk/joj/wau/index-hq.m3u8
 
 
 
+#EXTINF:9 group-title=”ISRAEL”,
 
+#EXTINF:1 tvg-logo=http://www.clker.com/cliparts/O/A/W/X/3/S/israel-flag-hi.png ,==Israel==
+http://..........
 
+#EXTINF:-1  tvg-logo="http://img.mako.co.il/2014/05/18/B-news_.jpg" ,Channel 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1  tvg-logo="http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg" ,Channel 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg" ,Channel 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1  tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg" ,Hidabroot TV
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1  tvg-logo="http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg" ,Reshet
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" ,KAN 11
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://images.globes.co.il/Images/NewGlobes/big_image/2013/keshet-575.jpg" ,Keshet
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1  tvg-logo="https://soombo.com/assets/images/200_1448546266.png" ,Music 24 
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:-1  tvg-logo="https://soombo.com/assets/images/200_1457920745.png" ,ILand TV (Russian)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
 
 
