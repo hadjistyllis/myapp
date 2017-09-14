@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,13/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -488,7 +488,16 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-
+#EXTINF:-1,Arena Sport 1 
+http://87.246.0.146:61475/tv_Arena_Sport_1 
+#EXTINF:-1,Arena Sport 2 
+http://87.246.0.146:61475/tv_Arena_Sport_2 
+#EXTINF:-1,Arena Sport 3 
+http://87.246.0.146:61475/tv_Arena_Sport_3 
+#EXTINF:-1,Arena Sport 4 
+http://87.246.0.146:61475/tv_Arena_Sport_4 
+#EXTINF:-1,Arena Sport 5 
+http://87.246.0.146:61475/tv_Arena_Sport_5
 
 
 
@@ -1017,8 +1026,6 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
-
-
 #EXTINF:0,National Geographic
 http://185.37.168.6:7284//udp/239.255.4.11:15100
 #EXTINF:0,Nat Geo WILD
@@ -2679,167 +2686,167 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,FR:BFM FR
+#EXTINF:-1,BFM FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/835.ts
-#EXTINF:-1,FR:BFM FR -6h
+#EXTINF:-1,BFM FR -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/836.ts
-#EXTINF:-1,FR:France_24.
+#EXTINF:-1,France_24.
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/791.ts
-#EXTINF:-1,FR:TV5
+#EXTINF:-1,TV5
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/792.ts
-#EXTINF:-1,FR: TF1
+#EXTINF:-1,TF1
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/793.ts
-#EXTINF:-1,FR: TF1 -7h
+#EXTINF:-1,TF1 -7h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/794.ts
-#EXTINF:-1,FR:M6
+#EXTINF:-1,M6
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/795.ts
-#EXTINF:-1,FR:M6 -7h
+#EXTINF:-1,M6 -7h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/796.ts
-#EXTINF:-1,FR: France 2
+#EXTINF:-1,France 2
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/797.ts
-#EXTINF:-1,FR: France 2 -7h
+#EXTINF:-1,France 2 -7h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/798.ts
-#EXTINF:-1,FR: France  3
+#EXTINF:-1,France  3
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/799.ts
-#EXTINF:-1,FR: France  3 -7h
+#EXTINF:-1,France  3 -7h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/800.ts
-#EXTINF:-1,FR: France  4
+#EXTINF:-1,France  4
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/801.ts
-#EXTINF:-1,FR: Ushuaia
+#EXTINF:-1,Ushuaia
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/787.ts
-#EXTINF:-1,FR: Ushuaia -6h
+#EXTINF:-1,Ushuaia -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/788.ts
-#EXTINF:-1,FR: Nat Geo
+#EXTINF:-1,Nat Geo
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/789.ts
-#EXTINF:-1,FR: Nat Geo -6h
+#EXTINF:-1,Nat Geo -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/790.ts
-#EXTINF:-1,FR: Cartoon_Network_FR
+#EXTINF:-1,Cartoon_Network_FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/248.ts
-#EXTINF:-1,FR: Cartoon_Network_FR -6h
+#EXTINF:-1,Cartoon_Network_FR -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/249.ts
-#EXTINF:-1,FR: Nick junior -6h
+#EXTINF:-1,Nick junior -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/250.ts
-#EXTINF:-1,FR: Nick junior
+#EXTINF:-1,Nick junior
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/251.ts
-#EXTINF:-1,FR: Disney channel
+#EXTINF:-1,Disney channel
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/252.ts
-#EXTINF:-1,FR: Disney_channel -6h
+#EXTINF:-1,Disney_channel -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/253.ts
-#EXTINF:-1,FR: Piwi TV
+#EXTINF:-1,Piwi TV
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/254.ts
-#EXTINF:-1,FR: Piwi -6h
+#EXTINF:-1,Piwi -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/255.ts
-#EXTINF:-1,FR: Disney Junior
+#EXTINF:-1,Disney Junior
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/256.ts
-#EXTINF:-1,FR: Disney Junior -6h
+#EXTINF:-1,Disney Junior -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/257.ts
-#EXTINF:-1,FR: Disney CINEMAGIC
+#EXTINF:-1,Disney CINEMAGIC
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/258.ts
-#EXTINF:-1,FR: Disney CINEMAGIC -6h
+#EXTINF:-1,Disney CINEMAGIC -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/259.ts
-#EXTINF:-1,FR: DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/260.ts
-#EXTINF:-1,FR: DISNEY XD -6h
+#EXTINF:-1,DISNEY XD -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/261.ts
 #EXTINF:-1,FR :GULLI
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/262.ts
-#EXTINF:-1,FR: France 4 -6h
+#EXTINF:-1,France 4 -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/802.ts
-#EXTINF:-1,FR: France 5
+#EXTINF:-1,France 5
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/803.ts
-#EXTINF:-1,FR: France 5 -6h
+#EXTINF:-1,France 5 -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/804.ts
-#EXTINF:-1,FR: France o
+#EXTINF:-1,France o
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/805.ts
-#EXTINF:-1,FR: France 0 -6h
+#EXTINF:-1,France 0 -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/806.ts
-#EXTINF:-1,FR: W9
+#EXTINF:-1,W9
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/807.ts
-#EXTINF:-1,FR: W9 -7h
+#EXTINF:-1,W9 -7h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/808.ts
-#EXTINF:-1,FR:Canal+
+#EXTINF:-1,Canal+
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/809.ts
-#EXTINF:-1,FR: Canal+  -6h
+#EXTINF:-1,Canal+  -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/810.ts
-#EXTINF:-1,FR:Canal+  Cinema.
+#EXTINF:-1,Canal+  Cinema.
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/811.ts
-#EXTINF:-1,FR:Canal  Cinema -6h.
+#EXTINF:-1,Canal  Cinema -6h.
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/812.ts
-#EXTINF:-1,FR:C+ Premier
+#EXTINF:-1,C+ Premier
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/813.ts
-#EXTINF:-1,FR:C+ Premier -6h
+#EXTINF:-1,C+ Premier -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/814.ts
-#EXTINF:-1,FR:Cine Club
+#EXTINF:-1,Cine Club
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/815.ts
-#EXTINF:-1,FR:Cine Club -6h
+#EXTINF:-1,Cine Club -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/816.ts
-#EXTINF:-1,FR:C+ Decale
+#EXTINF:-1,C+ Decale
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/817.ts
-#EXTINF:-1,FR:C+ Decale -6h
+#EXTINF:-1,C+ Decale -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/818.ts
-#EXTINF:-1,FR:C+ Teva
+#EXTINF:-1,C+ Teva
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/819.ts
-#EXTINF:-1,FR:C+ Teva -6h
+#EXTINF:-1,C+ Teva -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/820.ts
-#EXTINF:-1,FR:C+ Family
+#EXTINF:-1,C+ Family
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/821.ts
-#EXTINF:-1,FR:C+ Family -6h
+#EXTINF:-1,C+ Family -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/822.ts
-#EXTINF:-1,FR:Cine Emotion
+#EXTINF:-1,Cine Emotion
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/823.ts
-#EXTINF:-1,FR:Cine Emotion -6h
+#EXTINF:-1,Cine Emotion -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/824.ts
-#EXTINF:-1,FR:Cine Frisson
+#EXTINF:-1,Cine Frisson
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/825.ts
-#EXTINF:-1,FR:Cine Frisson -6h
+#EXTINF:-1,Cine Frisson -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/826.ts
-#EXTINF:-1,FR:13_Rue
+#EXTINF:-1,13_Rue
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/827.ts
 #EXTINF:-1,13_Rue -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/828.ts
-#EXTINF:-1,FR:Comedie
+#EXTINF:-1,Comedie
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/829.ts
-#EXTINF:-1,FR:Comedie  -6h
+#EXTINF:-1,Comedie  -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/830.ts
-#EXTINF:-1,FR:Syfy
+#EXTINF:-1,Syfy
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/831.ts
-#EXTINF:-1,FR:Syfy -6h
+#EXTINF:-1,Syfy -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/832.ts
-#EXTINF:-1,FR:Nrj12 FR
+#EXTINF:-1,Nrj12 FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/833.ts
-#EXTINF:-1,FR:Nrj12 FR -6h
+#EXTINF:-1,Nrj12 FR -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/834.ts
-#EXTINF:-1,FR:NT1 FR
+#EXTINF:-1,NT1 FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/837.ts
-#EXTINF:-1,FR:NT1 FR -6h
+#EXTINF:-1,NT1 FR -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/838.ts
-#EXTINF:-1,FR:TMC FR
+#EXTINF:-1,TMC FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/839.ts
 #EXTINF:-1,TMC FR -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/840.ts
-#EXTINF:-1,FR:D8
+#EXTINF:-1,D8
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/841.ts
-#EXTINF:-1,FR:D8 -6h
+#EXTINF:-1,D8 -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/842.ts
-#EXTINF:-1,FR:OCS_GEANTS
+#EXTINF:-1,OCS_GEANTS
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/843.ts
-#EXTINF:-1,FR:OCS_GEANTS -6h
+#EXTINF:-1,OCS_GEANTS -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/844.ts
-#EXTINF:-1,FR:OCS_MAX
+#EXTINF:-1,OCS_MAX
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/845.ts
-#EXTINF:-1,FR:OCS_MAX -6h
+#EXTINF:-1,OCS_MAX -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/846.ts
-#EXTINF:-1,FR:Serie_Club
+#EXTINF:-1,Serie_Club
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/847.ts
-#EXTINF:-1,FR:Serie_Club -6h
+#EXTINF:-1,Serie_Club -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/848.ts
-#EXTINF:-1,FR:OCS CITY
+#EXTINF:-1,OCS CITY
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/849.ts
-#EXTINF:-1,FR:OCS CITY -6h
+#EXTINF:-1,OCS CITY -6h
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/850.ts
 #EXTINF:-1,AR: MEKAMELEEN_TV
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/851.ts
-#EXTINF:-1,FR:Planet_CI_FR
+#EXTINF:-1,Planet_CI_FR
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/852.ts
 
 
@@ -5845,15 +5852,14 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png ,==China==
 http://..........
 
-
+#EXTINF:-1,Edaily TV
+rtmp://edaily.flive.skcdn.com/high//livestream
 #EXTINF:-1,SEA TV from Cambodia
 rtmp://203.189.147.211/live//mp4:myStream_360p
 #EXTINF:-1,SEA Radio from Cambodia
 rtmp://203.189.147.211/RADIO//myStream
 #EXTINF:-1,UBC
 rtmp://media.tbc.co.kr/live//UBCstream
-#EXTINF:-1,Edaily TV
-rtmp://edaily.flive.skcdn.com/high//livestream
 
 #EXTINF:-1,CCTV-01 HD
 http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
@@ -5989,18 +5995,13 @@ http://..........
 
 
 #EXTINF:-1,ATN Bangla
-http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1,BanglaVision
-http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000O0ll8822323ll24455566.stream/playlist.m3u8
+http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000O0ll8822323ll24455566.stream/playlist.m3u8
 #EXTINF:-1,Channel i 
-http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1,Mohona TV
-http://88.202.231.154:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
-
-
-
-
-
+http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 
 
 
