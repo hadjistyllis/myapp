@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,16/9/17 update 2
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -546,30 +546,25 @@ http://93.91.113.8:9999/play/a06z
 http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
-
-#EXTINF:0,National Geographic
-http://185.37.168.6:7284//udp/239.255.4.11:15100
-#EXTINF:0,Nat Geo WILD
-http://185.37.168.6:7284//udp/239.255.4.9:15103
-#EXTINF:0,Investigation Discovery
-http://185.37.168.6:7284//udp/239.255.4.11:15106
-#EXTINF:0,DTX
-http://185.37.168.6:7284//udp/239.255.4.9:15105
+#EXTINF:-1,Animal Planet HD
+http://212.0.202.80:4046/udp/239.100.10.7:1234
+#EXTINF:-1,Discovery Science HD
+http://212.0.202.80:4046/udp/239.100.10.6:1234
+#EXTINF:-1,National Geographic
+http://212.0.202.80:4046/udp/239.100.10.138:1234
+#EXTINF:-1,Discovery Channel
+http://212.0.202.80:4046/udp/239.100.10.154:1234
+#EXTINF:-1,Animal Planet
+http://212.0.202.80:4046/udp/239.100.10.153:1234
+#EXTINF:-1,Discovery Science
+http://212.0.202.80:4046/udp/239.100.10.174:1234
+#EXTINF:-1,ID Xtra
+http://212.0.202.80:4046/udp/239.100.10.177:1234
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-#EXTINF:-1,Arena Sport 1 
-http://87.246.0.146:61475/tv_Arena_Sport_1 
-#EXTINF:-1,Arena Sport 2 
-http://87.246.0.146:61475/tv_Arena_Sport_2 
-#EXTINF:-1,Arena Sport 3 
-http://87.246.0.146:61475/tv_Arena_Sport_3 
-#EXTINF:-1,Arena Sport 4 
-http://87.246.0.146:61475/tv_Arena_Sport_4 
-#EXTINF:-1,Arena Sport 5 
-http://87.246.0.146:61475/tv_Arena_Sport_5
 
 
 
@@ -1098,14 +1093,20 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
-#EXTINF:0,National Geographic
-http://185.37.168.6:7284//udp/239.255.4.11:15100
-#EXTINF:0,Nat Geo WILD
-http://185.37.168.6:7284//udp/239.255.4.9:15103
-#EXTINF:0,Investigation Discovery
-http://185.37.168.6:7284//udp/239.255.4.11:15106
-#EXTINF:0,DTX
-http://185.37.168.6:7284//udp/239.255.4.9:15105
+#EXTINF:-1,Animal Planet HD
+http://212.0.202.80:4046/udp/239.100.10.7:1234
+#EXTINF:-1,Discovery Science HD
+http://212.0.202.80:4046/udp/239.100.10.6:1234
+#EXTINF:-1,National Geographic
+http://212.0.202.80:4046/udp/239.100.10.138:1234
+#EXTINF:-1,Discovery Channel
+http://212.0.202.80:4046/udp/239.100.10.154:1234
+#EXTINF:-1,Animal Planet
+http://212.0.202.80:4046/udp/239.100.10.153:1234
+#EXTINF:-1,Discovery Science
+http://212.0.202.80:4046/udp/239.100.10.174:1234
+#EXTINF:-1,ID Xtra
+http://212.0.202.80:4046/udp/239.100.10.177:1234
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
@@ -2375,62 +2376,24 @@ http://46.10.160.10:8004/play/hls/bnthd/index.m3u8
 #EXTINF:-1,Bulgaria on Air 
 http://46.10.160.10:8004/play/hls/bgonair/index.m3u8
 
-#EXTINF:-1,RingBG
-http://87.246.0.146:61475/tv_RING.BG_HD
-#EXTINF:-1,TV
-http://87.246.0.146:61475/tv_TV_Plus
-#EXTINF:-1,Planeta
-http://87.246.0.146:61475/tv_Planeta_TV
-#EXTINF:-1,TV1000
-http://87.246.0.146:61475/tv_TV_1000
-#EXTINF:-1,BNT 1
-http://87.246.0.146:61475/tv_BNT_1_HD
-#EXTINF:-1,Nova
-http://87.246.0.146:61475/tv_nova
-#EXTINF:-1,HBO
-http://87.246.0.146:61475/tv_HBO
-#EXTINF:-1,MTV
-http://87.246.0.146:61475/tv_MTV
-#EXTINF:-1,VH1
-http://87.246.0.146:61475/tv_VH1
-#EXTINF:-1,Nickelodeon
-http://87.246.0.146:61475/tv_Nickelodeon
-#EXTINF:-1,Baby TV
-http://87.246.0.146:61475/tv_Baby_TV
-#EXTINF:-1,F
-http://87.246.0.146:61475/tv_F_Plus
-#EXTINF:-1,EuroSport
-http://87.246.0.146:61475/tv_Eurosport
-#EXTINF:-1,EuroSport 2
-http://87.246.0.146:61475/tv_Eurosport_2
-#EXTINF:-1,Planeta Folk
-http://87.246.0.146:61475/tv_Planeta_Folk
-#EXTINF:-1,CityTV
-http://87.246.0.146:61475/tv_city_TV
-#EXTINF:-1,BoxTV
-http://87.246.0.146:61475/tv_Box_HD
-#EXTINF:-1,TheVoice
-http://87.246.0.146:61475/tv_The_Voice
-#EXTINF:-1,BNT 2
-http://87.246.0.146:61475/tv_BNT_2
-#EXTINF:-1,Kino Nova
-http://87.246.0.146:61475/tv_KinoNova
-#EXTINF:-1,Fox Crime
-http://87.246.0.146:61475/tv_Fox_Crime
-#EXTINF:-1,AXN
-http://87.246.0.146:61475/tv_AXN
-#EXTINF:-1,Cartoon Network
-http://87.246.0.146:61475/tv_Cartoon_Network
-#EXTINF:-1,Disney Junior
-http://87.246.0.146:61475/tv_Disney_Junior
-#EXTINF:-1,NatGeo
-http://87.246.0.146:61475/tv_Nat_Geo_HD
-#EXTINF:-1,NatGeo Wild
-http://87.246.0.146:61475/tv_Nat_Geo_Wild_HD
-#EXTINF:-1,Boomerang 
-http://87.246.0.146:61475/tv_Boomerang
-
-
+#EXTINF:-1,BTV
+http://88.118.213.226:9981/stream/channelid/2099694994
+#EXTINF:-1,Info TV
+http://88.118.213.226:9981/stream/channelid/983783282
+#EXTINF:-1,Lietuvos rytas TV
+http://88.118.213.226:9981/stream/channelid/1515615935
+#EXTINF:-1,LIUKS!
+http://88.118.213.226:9981/stream/channelid/1354711012
+#EXTINF:-1,LNK
+http://88.118.213.226:9981/stream/channelid/810969827
+#EXTINF:-1,TV1
+http://88.118.213.226:9981/stream/channelid/731235193
+#EXTINF:-1,TV3
+http://88.118.213.226:9981/stream/channelid/51859355
+#EXTINF:-1,TV6
+http://88.118.213.226:9981/stream/channelid/1552885669
+#EXTINF:-1,TV8
+http://88.118.213.226:9981/stream/channelid/1312983985
 
 
 
@@ -4212,259 +4175,224 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
-#EXTINF:-1,#0 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
-#EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
-#EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
-#EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
-#EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
-#EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
-#EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
-#EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
-#EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
-#EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
-#EXTINF:-1,M.ESTRENOSHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
-#EXTINF:-1,M.COMEDIA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
-#EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
-#EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
-#EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
-#EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
-#EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
-#EXTINF:-1,FDF
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
-#EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
-#EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
-#EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
-#EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
-#EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
-#EXTINF:-1,BEIN SPORT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
-#EXTINF:-1,BEIN LALIGA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
-#EXTINF:-1,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
-#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
-#EXTINF:-1,M.MOTOGPHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
-#EXTINF:-1,M.FORMULA1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
-#EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
-#EXTINF:-1,M. F.TBOL HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
-#EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
-#EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
-#EXTINF:-1,GOL TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
-#EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
-#EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
-#EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
-#EXTINF:-1,BEINLALIGA1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
-#EXTINF:-1,BEINLALIGA2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
-#EXTINF:-1,BEIN MAX 1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
-#EXTINF:-1,BEIN MAX 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
-#EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
-#EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
-#EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
-#EXTINF:-1,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
-#EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
-#EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
-#EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
-#EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
-#EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
-#EXTINF:-1,LTC
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
-#EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
-#EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
-#EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
-#EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
-#EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
-#EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
-#EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
-#EXTINF:-1,C&I
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
-#EXTINF:-1,SUNDANCE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
-#EXTINF:-1,NIck JR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
-#EXTINF:-1,M. deport
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
-#EXTINF:-1,FOX NEWS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
-#EXTINF:-1,DISNEY PIXAR
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
-#EXTINF:-1,CANAL ORBE21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
-#EXTINF:-1,CANAL COCINA
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
-#EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
-#EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
-#EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
-#EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
-#EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
-#EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
-#EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
-#EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
-#EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
-#EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
-#EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
-#EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
-#EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
-#EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
-#EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
-#EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
-#EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
-#EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
-#EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
-#EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
-#EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
-#EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
-#EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
-#EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
-#EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
-#EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
-#EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
-#EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
-#EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
-#EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
-#EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
-#EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
-#EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
-#EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
-#EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
-#EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
-#EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
-#EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
-#EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
-#EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
-
-
+#EXTINF:-1,SPA: LA 1
+http://www.tbs-tv.com:25461/live/eby1/eby1/687.ts
+#EXTINF:-1,MOVISTAR – LA 1
+http://www.tbs-tv.com:25461/live/eby1/eby1/3792.ts
+#EXTINF:-1,SPA: LA 2
+http://www.tbs-tv.com:25461/live/eby1/eby1/686.ts
+#EXTINF:-1,MOVISTAR – LA 2
+http://www.tbs-tv.com:25461/live/eby1/eby1/3790.ts
+#EXTINF:-1,MOVISTAR – 24 HORAS
+http://www.tbs-tv.com:25461/live/eby1/eby1/3842.ts
+#EXTINF:-1,SPA: ANTENA3
+http://www.tbs-tv.com:25461/live/eby1/eby1/703.ts
+#EXTINF:-1,MOVISTAR – ANTENA 3
+http://www.tbs-tv.com:25461/live/eby1/eby1/3840.ts
+#EXTINF:-1,SPA: CUATRO
+http://www.tbs-tv.com:25461/live/eby1/eby1/680.ts
+#EXTINF:-1,MOVISTAR – CUATRO
+http://www.tbs-tv.com:25461/live/eby1/eby1/3805.ts
+#EXTINF:-1,SPA: LA SEXTA
+http://www.tbs-tv.com:25461/live/eby1/eby1/685.ts
+#EXTINF:-1,MOVISTAR – LA SEXTA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3788.ts
+#EXTINF:-1,MOVISTAR – TELECINCO
+http://www.tbs-tv.com:25461/live/eby1/eby1/3768.ts
+#EXTINF:-1,SPA: TELECINCO HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/702.ts
+#EXTINF:-1,ES: TELECINCO
+http://www.tbs-tv.com:25461/live/eby1/eby1/298.ts
+#EXTINF:-1,SPA: CANAL #0
+http://www.tbs-tv.com:25461/live/eby1/eby1/689.ts
+#EXTINF:-1,SPA: CANAL EXTRA
+http://www.tbs-tv.com:25461/live/eby1/eby1/710.ts
+#EXTINF:-1,MOVISTAR – A&E
+http://www.tbs-tv.com:25461/live/eby1/eby1/3841.ts
+#EXTINF:-1,MOVISTAR – AXN HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3838.ts
+#EXTINF:-1,MOVISTAR – AXN WHITE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3837.ts
+#EXTINF:-1,MOVISTAR – AXN WHITE HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3836.ts
+#EXTINF:-1,MOVISTAR – BABY TV
+http://www.tbs-tv.com:25461/live/eby1/eby1/3835.ts
+#EXTINF:-1,MOVISTAR – BARCA TV
+http://www.tbs-tv.com:25461/live/eby1/eby1/3834.ts
+#EXTINF:-1,MOVISTAR – C ACCION
+http://www.tbs-tv.com:25461/live/eby1/eby1/3831.ts
+#EXTINF:-1,MOVISTAR – C COMEDIA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3829.ts
+#EXTINF:-1,MOVISTAR – C DCINE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3828.ts
+#EXTINF:-1,MOVISTAR – C DEP 2
+http://www.tbs-tv.com:25461/live/eby1/eby1/3826.ts
+#EXTINF:-1,MOVISTAR – C DEPORTES
+http://www.tbs-tv.com:25461/live/eby1/eby1/3824.ts
+#EXTINF:-1,MOVISTAR – CANAL GOL
+http://www.tbs-tv.com:25461/live/eby1/eby1/3812.ts
+#EXTINF:-1,MOVISTAR – C FUTBOL
+http://www.tbs-tv.com:25461/live/eby1/eby1/3822.ts
+#EXTINF:-1,MOVISTAR – BEINSPORTS HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3832.ts
+#EXTINF:-1,MOVISTAR – beIN LA LIGA HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3833.ts
+#EXTINF:-1,MOVISTAR – LA LIGA TV BAR
+http://www.tbs-tv.com:25461/live/eby1/eby1/3789.ts
+#EXTINF:-1,MOVISTAR – C ESTRENOS
+http://www.tbs-tv.com:25461/live/eby1/eby1/3823.ts
+#EXTINF:-1,MOVISTAR – C SERIES XTRA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3820.ts
+#EXTINF:-1,MOVISTAR – C XTRA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3819.ts
+#EXTINF:-1,MOVISTAR – LAS
+http://www.tbs-tv.com:25461/live/eby1/eby1/3816.ts
+#EXTINF:-1,MOVISTAR – CANAL COCINA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3814.ts
+#EXTINF:-1,MOVISTAR – CANAL DE LAS ESTRELLAS
+http://www.tbs-tv.com:25461/live/eby1/eby1/3813.ts
+#EXTINF:-1,MOVISTAR – CANAL PANDA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3811.ts
+#EXTINF:-1,MOVISTAR – CANAL SUR A.
+http://www.tbs-tv.com:25461/live/eby1/eby1/3810.ts
+#EXTINF:-1,MOVISTAR – CLAN TVE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3808.ts
+#EXTINF:-1,MOVISTAR – COMEDY CENTRAL
+http://www.tbs-tv.com:25461/live/eby1/eby1/3807.ts
+#EXTINF:-1,MOVISTAR – COSMO HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3806.ts
+#EXTINF:-1,MOVISTAR – DCINE ESPANOL
+http://www.tbs-tv.com:25461/live/eby1/eby1/3803.ts
+#EXTINF:-1,MOVISTAR – DISNEY JR
+http://www.tbs-tv.com:25461/live/eby1/eby1/3801.ts
+#EXTINF:-1,MOVISTAR – DISNEY XD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3800.ts
+#EXTINF:-1,MOVISTAR – DIVINITY
+http://www.tbs-tv.com:25461/live/eby1/eby1/3799.ts
+#EXTINF:-1,MOVISTAR – FDF
+http://www.tbs-tv.com:25461/live/eby1/eby1/3798.ts
+#EXTINF:-1,MOVISTAR – FOX
+http://www.tbs-tv.com:25461/live/eby1/eby1/3797.ts
+#EXTINF:-1,MOVISTAR – FOX LIFE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3795.ts
+#EXTINF:-1,MOVISTAR – HISTORIA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3794.ts
+#EXTINF:-1,MOVISTAR – HOLLYWOOD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3793.ts
+#EXTINF:-1,MOVISTAR – M GOLF HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3784.ts
+#EXTINF:-1,MOVISTAR – M. MOTOGP
+http://www.tbs-tv.com:25461/live/eby1/eby1/3782.ts
+#EXTINF:-1,MOVISTAR – MOVISTAR F1 HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3781.ts
+#EXTINF:-1,MOVISTAR – MTV ESPANA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3780.ts
+#EXTINF:-1,MOVISTAR – NAT GEO WILD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3779.ts
+#EXTINF:-1,MOVISTAR – NAT GEOGRAPHIC HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/3777.ts
+#EXTINF:-1,MOVISTAR – NEOX
+http://www.tbs-tv.com:25461/live/eby1/eby1/3776.ts
+#EXTINF:-1,MOVISTAR – NONSTOPEOPLE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3775.ts
+#EXTINF:-1,MOVISTAR – NOVA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3774.ts
+#EXTINF:-1,MOVISTAR – PARAMOUNT
+http://www.tbs-tv.com:25461/live/eby1/eby1/3773.ts
+#EXTINF:-1,MOVISTAR – REAL MADRID TV
+http://www.tbs-tv.com:25461/live/eby1/eby1/3772.ts
+#EXTINF:-1,MOVISTAR – TCM
+http://www.tbs-tv.com:25461/live/eby1/eby1/3770.ts
+#EXTINF:-1,MOVISTAR – TELEDEPORTE
+http://www.tbs-tv.com:25461/live/eby1/eby1/3766.ts
+#EXTINF:-1,MOVISTAR – TELENOVELAS
+http://www.tbs-tv.com:25461/live/eby1/eby1/3765.ts
+#EXTINF:-1,MOVISTAR – TNT
+http://www.tbs-tv.com:25461/live/eby1/eby1/3764.ts
+#EXTINF:-1,MOVISTAR – TV GALICIA
+http://www.tbs-tv.com:25461/live/eby1/eby1/3763.ts
+#EXTINF:-1,MOVISTAR – VIAJAR
+http://www.tbs-tv.com:25461/live/eby1/eby1/3762.ts
+#EXTINF:-1,SPA: MOVISTAR COMEDIA
+http://www.tbs-tv.com:25461/live/eby1/eby1/697.ts
+#EXTINF:-1,SPA: MOVISTAR ACCION
+http://www.tbs-tv.com:25461/live/eby1/eby1/701.ts
+#EXTINF:-1,SPA: MOVISTAR CINE Ã‘
+http://www.tbs-tv.com:25461/live/eby1/eby1/696.ts
+#EXTINF:-1,SPA: CANAL COCINA
+http://www.tbs-tv.com:25461/live/eby1/eby1/704.ts
+#EXTINF:-1,SPA: CANAL DECASA
+http://www.tbs-tv.com:25461/live/eby1/eby1/712.ts
+#EXTINF:-1,SPA: MOVISTAR DCINE
+http://www.tbs-tv.com:25461/live/eby1/eby1/716.ts
+#EXTINF:-1,SPA: MOVISTAR ESTRENOS
+http://www.tbs-tv.com:25461/live/eby1/eby1/715.ts
+#EXTINF:-1,SPA: MOVISTAR SERIES XTRA
+http://www.tbs-tv.com:25461/live/eby1/eby1/713.ts
+#EXTINF:-1,SPA: AXN WHITE SPAIN
+http://www.tbs-tv.com:25461/live/eby1/eby1/699.ts
+#EXTINF:-1,SPA: AXN SPAIN_coming soon
+http://www.tbs-tv.com:25461/live/eby1/eby1/700.ts
+#EXTINF:-1,SPA: HOLLYWOOD SPAIN
+http://www.tbs-tv.com:25461/live/eby1/eby1/681.ts
+#EXTINF:-1,SPA: SYFY HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2142.ts
+#EXTINF:-1,SPA: FOX
+http://www.tbs-tv.com:25461/live/eby1/eby1/708.ts
+#EXTINF:-1,SPA: FOX MOVIE HD_coming soon
+http://www.tbs-tv.com:25461/live/eby1/eby1/684.ts
+#EXTINF:-1,SPA: FOX LIFE_coming soon
+http://www.tbs-tv.com:25461/live/eby1/eby1/707.ts
+#EXTINF:-1,SPA: CALLE 13
+http://www.tbs-tv.com:25461/live/eby1/eby1/690.ts
+#EXTINF:-1,ES: A&E
+http://www.tbs-tv.com:25461/live/eby1/eby1/303.ts
+#EXTINF:-1,SPA: CANAL FUTBOL
+http://www.tbs-tv.com:25461/live/eby1/eby1/679.ts
+#EXTINF:-1,SPA: MOVISTAR DEPORTE
+http://www.tbs-tv.com:25461/live/eby1/eby1/692.ts
+#EXTINF:-1,SPA: MOVISTAR DEPORTES 2 HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2136.ts
+#EXTINF:-1,SPA: MOVISTAR LIGA
+http://www.tbs-tv.com:25461/live/eby1/eby1/695.ts
+#EXTINF:-1,SPA: MOVISTAR F1
+http://www.tbs-tv.com:25461/live/eby1/eby1/693.ts
+#EXTINF:-1,SPA: MOVISTAR MOTOGP
+http://www.tbs-tv.com:25461/live/eby1/eby1/706.ts
+#EXTINF:-1,SPA: EUROSPORT HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2134.ts
+#EXTINF:-1,SPA: BEIN SPORT N
+http://www.tbs-tv.com:25461/live/eby1/eby1/678.ts
+#EXTINF:-1,SPA: CANAL TOROS
+http://www.tbs-tv.com:25461/live/eby1/eby1/1537.ts
+#EXTINF:-1,ES: Canal Golf
+http://www.tbs-tv.com:25461/live/eby1/eby1/300.ts
+#EXTINF:-1,SPA: MOVISTAR GOLF
+http://www.tbs-tv.com:25461/live/eby1/eby1/714.ts
+#EXTINF:-1,SPA: BARCA TV
+http://www.tbs-tv.com:25461/live/eby1/eby1/698.ts
+#EXTINF:-1,SPA: REAL MADRID TV
+http://www.tbs-tv.com:25461/live/eby1/eby1/683.ts
+#EXTINF:-1,SPA: CANAL ODISEA
+http://www.tbs-tv.com:25461/live/eby1/eby1/688.ts
+#EXTINF:-1,SPA: HISTORIA
+http://www.tbs-tv.com:25461/live/eby1/eby1/682.ts
+#EXTINF:-1,SPA: NAT GEO WILD
+http://www.tbs-tv.com:25461/live/eby1/eby1/691.ts
+#EXTINF:-1,SPA: NATIONAL GEOGRAPHIC HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2138.ts
+#EXTINF:-1,SPA: NATIONAL GEO
+http://www.tbs-tv.com:25461/live/eby1/eby1/709.ts
+#EXTINF:-1,SPA: CAZA Y PESCA HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2141.ts
+#EXTINF:-1,SPA: DISCOVERY CHANNEL HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2137.ts
+#EXTINF:-1,SPA: DISNEY CHANNEL HD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2143.ts
+#EXTINF:-1,SPA: DISNEY XD
+http://www.tbs-tv.com:25461/live/eby1/eby1/2139.ts
+#EXTINF:-1,SPA: DISNEY JUNIOR
+http://www.tbs-tv.com:25461/live/eby1/eby1/694.ts
 
 
 
