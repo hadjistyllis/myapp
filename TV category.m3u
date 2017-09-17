@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,9/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -46,22 +46,20 @@ http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/43.ts
 http://212.0.202.80:4046/udp/239.100.10.153:1234
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:0,National Geographic
-http://185.37.168.6:7284//udp/239.255.4.11:15100
 #EXTINF:-1,National Geographic
 http://212.0.202.80:4046/udp/239.100.10.138:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,Nat Geo Wild
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/87.ts
-#EXTINF:0,Nat Geo WILD
-http://185.37.168.6:7284//udp/239.255.4.9:15103
-#EXTINF:0,Discovery Channel
-http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery Channel
 http://212.0.202.80:4046/udp/239.100.10.154:1234
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1,Discovery
+http://91.202.14.3:8001/play/a001
+#EXTINF:0,Discovery Channel
+http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery World
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
 #EXTINF:0,Discovery World
@@ -81,19 +79,17 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 #EXTINF:-1,Discovery Science
 http://212.0.202.80:4046/udp/239.100.10.174:1234
 #EXTINF:0,Investigation Discovery
-http://185.37.168.6:7284//udp/239.255.4.11:15106
-#EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,ID Xtra
 http://212.0.202.80:4046/udp/239.100.10.177:1234
-#EXTINF:0,DTX
-http://185.37.168.6:7284//udp/239.255.4.9:15105
 #EXTINF:-1,History
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4427.ts
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:-1,HISTORY
 http://174.36.155.34:4000/live/287/287.m3u8
+#EXTINF:-1,History
+http://91.202.14.3:8001/play/a00a
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,FOX
@@ -106,6 +102,8 @@ http://212.0.202.80:4046/udp/239.100.10.193:1234
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
+#EXTINF:-1,TLC
+http://91.202.14.3:8001/play/a00f
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,TLC
@@ -374,44 +372,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
 
-#EXTINF:-1,BEIN SPORTS HD 1
-http://wowza2.mysoltv.com:1992/Bein_Sports_1_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 2
-http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 3
-http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 4
-http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 5
-http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 6
-http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 7
-http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 8
-http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 9
-http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
-#EXTINF:-1,BEIN SPORTS HD 10
-http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
-
-#EXTINF:-1,beIN sport 1SD
-http://iptvpanel.d1d2.org/ip445208/2368154279/21.ch
-#EXTINF:-1,beIN sport 2SD
-http://iptvpanel.d1d2.org/ip445208/2368154279/22.ch
-#EXTINF:-1,beIN sport 3SD
-http://iptvpanel.d1d2.org/ip445208/2368154279/23.ch
-#EXTINF:-1,beIN sport 4SD
-http://iptvpanel.d1d2.org/ip445208/2368154279/24.ch
-#EXTINF:-1,beIN sport 5SD
-http://iptvpanel.d1d2.org/ip445208/2368154279/25.ch
-
-#EXTINF:-1, BT Sports 1 
-http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8 
-#EXTINF:-1, BT Sports 2 
-http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8 
-#EXTINF:-1, BT Sports 3 
-http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/index.m3u8
 
 
 #EXTINF:-1, SPORTS TV
