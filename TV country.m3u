@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -1112,7 +1112,10 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-
+#EXTINF:-1,BT Sport 2
+http://iptvfreeforyou.tk:8000/live/freeworldwideiptv.com/sports0213/42.ts
+#EXTINF:-1,BT Sport 1
+http://iptvfreeforyou.tk:8000/live/freeworldwideiptv.com/sports0213/41.ts
 
 
 
@@ -4175,225 +4178,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,SPA: LA 1
-http://www.tbs-tv.com:25461/live/eby1/eby1/687.ts
-#EXTINF:-1,MOVISTAR – LA 1
-http://www.tbs-tv.com:25461/live/eby1/eby1/3792.ts
-#EXTINF:-1,SPA: LA 2
-http://www.tbs-tv.com:25461/live/eby1/eby1/686.ts
-#EXTINF:-1,MOVISTAR – LA 2
-http://www.tbs-tv.com:25461/live/eby1/eby1/3790.ts
-#EXTINF:-1,MOVISTAR – 24 HORAS
-http://www.tbs-tv.com:25461/live/eby1/eby1/3842.ts
-#EXTINF:-1,SPA: ANTENA3
-http://www.tbs-tv.com:25461/live/eby1/eby1/703.ts
-#EXTINF:-1,MOVISTAR – ANTENA 3
-http://www.tbs-tv.com:25461/live/eby1/eby1/3840.ts
-#EXTINF:-1,SPA: CUATRO
-http://www.tbs-tv.com:25461/live/eby1/eby1/680.ts
-#EXTINF:-1,MOVISTAR – CUATRO
-http://www.tbs-tv.com:25461/live/eby1/eby1/3805.ts
-#EXTINF:-1,SPA: LA SEXTA
-http://www.tbs-tv.com:25461/live/eby1/eby1/685.ts
-#EXTINF:-1,MOVISTAR – LA SEXTA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3788.ts
-#EXTINF:-1,MOVISTAR – TELECINCO
-http://www.tbs-tv.com:25461/live/eby1/eby1/3768.ts
-#EXTINF:-1,SPA: TELECINCO HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/702.ts
-#EXTINF:-1,ES: TELECINCO
-http://www.tbs-tv.com:25461/live/eby1/eby1/298.ts
-#EXTINF:-1,SPA: CANAL #0
-http://www.tbs-tv.com:25461/live/eby1/eby1/689.ts
-#EXTINF:-1,SPA: CANAL EXTRA
-http://www.tbs-tv.com:25461/live/eby1/eby1/710.ts
-#EXTINF:-1,MOVISTAR – A&E
-http://www.tbs-tv.com:25461/live/eby1/eby1/3841.ts
-#EXTINF:-1,MOVISTAR – AXN HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3838.ts
-#EXTINF:-1,MOVISTAR – AXN WHITE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3837.ts
-#EXTINF:-1,MOVISTAR – AXN WHITE HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3836.ts
-#EXTINF:-1,MOVISTAR – BABY TV
-http://www.tbs-tv.com:25461/live/eby1/eby1/3835.ts
-#EXTINF:-1,MOVISTAR – BARCA TV
-http://www.tbs-tv.com:25461/live/eby1/eby1/3834.ts
-#EXTINF:-1,MOVISTAR – C ACCION
-http://www.tbs-tv.com:25461/live/eby1/eby1/3831.ts
-#EXTINF:-1,MOVISTAR – C COMEDIA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3829.ts
-#EXTINF:-1,MOVISTAR – C DCINE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3828.ts
-#EXTINF:-1,MOVISTAR – C DEP 2
-http://www.tbs-tv.com:25461/live/eby1/eby1/3826.ts
-#EXTINF:-1,MOVISTAR – C DEPORTES
-http://www.tbs-tv.com:25461/live/eby1/eby1/3824.ts
-#EXTINF:-1,MOVISTAR – CANAL GOL
-http://www.tbs-tv.com:25461/live/eby1/eby1/3812.ts
-#EXTINF:-1,MOVISTAR – C FUTBOL
-http://www.tbs-tv.com:25461/live/eby1/eby1/3822.ts
-#EXTINF:-1,MOVISTAR – BEINSPORTS HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3832.ts
-#EXTINF:-1,MOVISTAR – beIN LA LIGA HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3833.ts
-#EXTINF:-1,MOVISTAR – LA LIGA TV BAR
-http://www.tbs-tv.com:25461/live/eby1/eby1/3789.ts
-#EXTINF:-1,MOVISTAR – C ESTRENOS
-http://www.tbs-tv.com:25461/live/eby1/eby1/3823.ts
-#EXTINF:-1,MOVISTAR – C SERIES XTRA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3820.ts
-#EXTINF:-1,MOVISTAR – C XTRA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3819.ts
-#EXTINF:-1,MOVISTAR – LAS
-http://www.tbs-tv.com:25461/live/eby1/eby1/3816.ts
-#EXTINF:-1,MOVISTAR – CANAL COCINA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3814.ts
-#EXTINF:-1,MOVISTAR – CANAL DE LAS ESTRELLAS
-http://www.tbs-tv.com:25461/live/eby1/eby1/3813.ts
-#EXTINF:-1,MOVISTAR – CANAL PANDA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3811.ts
-#EXTINF:-1,MOVISTAR – CANAL SUR A.
-http://www.tbs-tv.com:25461/live/eby1/eby1/3810.ts
-#EXTINF:-1,MOVISTAR – CLAN TVE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3808.ts
-#EXTINF:-1,MOVISTAR – COMEDY CENTRAL
-http://www.tbs-tv.com:25461/live/eby1/eby1/3807.ts
-#EXTINF:-1,MOVISTAR – COSMO HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3806.ts
-#EXTINF:-1,MOVISTAR – DCINE ESPANOL
-http://www.tbs-tv.com:25461/live/eby1/eby1/3803.ts
-#EXTINF:-1,MOVISTAR – DISNEY JR
-http://www.tbs-tv.com:25461/live/eby1/eby1/3801.ts
-#EXTINF:-1,MOVISTAR – DISNEY XD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3800.ts
-#EXTINF:-1,MOVISTAR – DIVINITY
-http://www.tbs-tv.com:25461/live/eby1/eby1/3799.ts
-#EXTINF:-1,MOVISTAR – FDF
-http://www.tbs-tv.com:25461/live/eby1/eby1/3798.ts
-#EXTINF:-1,MOVISTAR – FOX
-http://www.tbs-tv.com:25461/live/eby1/eby1/3797.ts
-#EXTINF:-1,MOVISTAR – FOX LIFE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3795.ts
-#EXTINF:-1,MOVISTAR – HISTORIA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3794.ts
-#EXTINF:-1,MOVISTAR – HOLLYWOOD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3793.ts
-#EXTINF:-1,MOVISTAR – M GOLF HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3784.ts
-#EXTINF:-1,MOVISTAR – M. MOTOGP
-http://www.tbs-tv.com:25461/live/eby1/eby1/3782.ts
-#EXTINF:-1,MOVISTAR – MOVISTAR F1 HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3781.ts
-#EXTINF:-1,MOVISTAR – MTV ESPANA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3780.ts
-#EXTINF:-1,MOVISTAR – NAT GEO WILD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3779.ts
-#EXTINF:-1,MOVISTAR – NAT GEOGRAPHIC HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/3777.ts
-#EXTINF:-1,MOVISTAR – NEOX
-http://www.tbs-tv.com:25461/live/eby1/eby1/3776.ts
-#EXTINF:-1,MOVISTAR – NONSTOPEOPLE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3775.ts
-#EXTINF:-1,MOVISTAR – NOVA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3774.ts
-#EXTINF:-1,MOVISTAR – PARAMOUNT
-http://www.tbs-tv.com:25461/live/eby1/eby1/3773.ts
-#EXTINF:-1,MOVISTAR – REAL MADRID TV
-http://www.tbs-tv.com:25461/live/eby1/eby1/3772.ts
-#EXTINF:-1,MOVISTAR – TCM
-http://www.tbs-tv.com:25461/live/eby1/eby1/3770.ts
-#EXTINF:-1,MOVISTAR – TELEDEPORTE
-http://www.tbs-tv.com:25461/live/eby1/eby1/3766.ts
-#EXTINF:-1,MOVISTAR – TELENOVELAS
-http://www.tbs-tv.com:25461/live/eby1/eby1/3765.ts
-#EXTINF:-1,MOVISTAR – TNT
-http://www.tbs-tv.com:25461/live/eby1/eby1/3764.ts
-#EXTINF:-1,MOVISTAR – TV GALICIA
-http://www.tbs-tv.com:25461/live/eby1/eby1/3763.ts
-#EXTINF:-1,MOVISTAR – VIAJAR
-http://www.tbs-tv.com:25461/live/eby1/eby1/3762.ts
-#EXTINF:-1,SPA: MOVISTAR COMEDIA
-http://www.tbs-tv.com:25461/live/eby1/eby1/697.ts
-#EXTINF:-1,SPA: MOVISTAR ACCION
-http://www.tbs-tv.com:25461/live/eby1/eby1/701.ts
-#EXTINF:-1,SPA: MOVISTAR CINE Ã‘
-http://www.tbs-tv.com:25461/live/eby1/eby1/696.ts
-#EXTINF:-1,SPA: CANAL COCINA
-http://www.tbs-tv.com:25461/live/eby1/eby1/704.ts
-#EXTINF:-1,SPA: CANAL DECASA
-http://www.tbs-tv.com:25461/live/eby1/eby1/712.ts
-#EXTINF:-1,SPA: MOVISTAR DCINE
-http://www.tbs-tv.com:25461/live/eby1/eby1/716.ts
-#EXTINF:-1,SPA: MOVISTAR ESTRENOS
-http://www.tbs-tv.com:25461/live/eby1/eby1/715.ts
-#EXTINF:-1,SPA: MOVISTAR SERIES XTRA
-http://www.tbs-tv.com:25461/live/eby1/eby1/713.ts
-#EXTINF:-1,SPA: AXN WHITE SPAIN
-http://www.tbs-tv.com:25461/live/eby1/eby1/699.ts
-#EXTINF:-1,SPA: AXN SPAIN_coming soon
-http://www.tbs-tv.com:25461/live/eby1/eby1/700.ts
-#EXTINF:-1,SPA: HOLLYWOOD SPAIN
-http://www.tbs-tv.com:25461/live/eby1/eby1/681.ts
-#EXTINF:-1,SPA: SYFY HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2142.ts
-#EXTINF:-1,SPA: FOX
-http://www.tbs-tv.com:25461/live/eby1/eby1/708.ts
-#EXTINF:-1,SPA: FOX MOVIE HD_coming soon
-http://www.tbs-tv.com:25461/live/eby1/eby1/684.ts
-#EXTINF:-1,SPA: FOX LIFE_coming soon
-http://www.tbs-tv.com:25461/live/eby1/eby1/707.ts
-#EXTINF:-1,SPA: CALLE 13
-http://www.tbs-tv.com:25461/live/eby1/eby1/690.ts
-#EXTINF:-1,ES: A&E
-http://www.tbs-tv.com:25461/live/eby1/eby1/303.ts
-#EXTINF:-1,SPA: CANAL FUTBOL
-http://www.tbs-tv.com:25461/live/eby1/eby1/679.ts
-#EXTINF:-1,SPA: MOVISTAR DEPORTE
-http://www.tbs-tv.com:25461/live/eby1/eby1/692.ts
-#EXTINF:-1,SPA: MOVISTAR DEPORTES 2 HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2136.ts
-#EXTINF:-1,SPA: MOVISTAR LIGA
-http://www.tbs-tv.com:25461/live/eby1/eby1/695.ts
-#EXTINF:-1,SPA: MOVISTAR F1
-http://www.tbs-tv.com:25461/live/eby1/eby1/693.ts
-#EXTINF:-1,SPA: MOVISTAR MOTOGP
-http://www.tbs-tv.com:25461/live/eby1/eby1/706.ts
-#EXTINF:-1,SPA: EUROSPORT HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2134.ts
-#EXTINF:-1,SPA: BEIN SPORT N
-http://www.tbs-tv.com:25461/live/eby1/eby1/678.ts
-#EXTINF:-1,SPA: CANAL TOROS
-http://www.tbs-tv.com:25461/live/eby1/eby1/1537.ts
-#EXTINF:-1,ES: Canal Golf
-http://www.tbs-tv.com:25461/live/eby1/eby1/300.ts
-#EXTINF:-1,SPA: MOVISTAR GOLF
-http://www.tbs-tv.com:25461/live/eby1/eby1/714.ts
-#EXTINF:-1,SPA: BARCA TV
-http://www.tbs-tv.com:25461/live/eby1/eby1/698.ts
-#EXTINF:-1,SPA: REAL MADRID TV
-http://www.tbs-tv.com:25461/live/eby1/eby1/683.ts
-#EXTINF:-1,SPA: CANAL ODISEA
-http://www.tbs-tv.com:25461/live/eby1/eby1/688.ts
-#EXTINF:-1,SPA: HISTORIA
-http://www.tbs-tv.com:25461/live/eby1/eby1/682.ts
-#EXTINF:-1,SPA: NAT GEO WILD
-http://www.tbs-tv.com:25461/live/eby1/eby1/691.ts
-#EXTINF:-1,SPA: NATIONAL GEOGRAPHIC HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2138.ts
-#EXTINF:-1,SPA: NATIONAL GEO
-http://www.tbs-tv.com:25461/live/eby1/eby1/709.ts
-#EXTINF:-1,SPA: CAZA Y PESCA HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2141.ts
-#EXTINF:-1,SPA: DISCOVERY CHANNEL HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2137.ts
-#EXTINF:-1,SPA: DISNEY CHANNEL HD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2143.ts
-#EXTINF:-1,SPA: DISNEY XD
-http://www.tbs-tv.com:25461/live/eby1/eby1/2139.ts
-#EXTINF:-1,SPA: DISNEY JUNIOR
-http://www.tbs-tv.com:25461/live/eby1/eby1/694.ts
-
 
 
 
@@ -7173,10 +6957,34 @@ http://62.68.66.244:8002/play/s86
 #EXTINF:-1,Miracle TV
 http://62.68.66.244:8002/play/s81
 
+#EXTINF:-1, BeinSports 1
+rtmp://178.132.6.125/static/bein1
+#EXTINF:-1, BeinSports 2
+rtmp://178.132.6.125/static/bein2
+#EXTINF:-1, BeinSports 3
+rtmp://178.132.6.125/static/bein3
+#EXTINF:-1, BeinSports 4
+rtmp://178.132.6.125/static/bein4
+#EXTINF:-1, BeinSports 5
+rtmp://178.132.6.125/static/bein5
+#EXTINF:-1, BeinSports 6
+rtmp://178.132.6.125/static/bein6
+#EXTINF:-1, BeinSports 7
+rtmp://178.132.6.125/static/bein7
+#EXTINF:-1, BeinSports 8
+rtmp://178.132.6.125/static/bein8
+#EXTINF:-1, BeinSports 9
+rtmp://178.132.6.125/static/bein9
+#EXTINF:-1, BeinSports 10
+rtmp://178.132.6.125/static/bein10
 
 
-
-
+#EXTINF:-1,Bein Sport 3
+http://iptvfreeforyou.tk:8000/live/freeworldwideiptv.com/sports0213/32.ts
+#EXTINF:-1,Bein Sport 2
+http://iptvfreeforyou.tk:8000/live/freeworldwideiptv.com/sports0213/31.ts
+#EXTINF:-1,Bein Sport 1
+http://iptvfreeforyou.tk:8000/live/freeworldwideiptv.com/sports0213/30.ts
 
 
 
