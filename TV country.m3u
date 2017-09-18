@@ -77,8 +77,8 @@ http://bit.ly/2m7JW00
 http://bit.ly/2lsBlrE
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA (MxPlayer)
 http://bit.ly/2mpLp3F
-#EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV (MxPlayer)
-http://master.cystreams.com:25461/live/lakatamia/toshiba/119.m3u8|http-user-agent=http://www.lakatamia.tv/app/player/galanos.html
+#EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV (MxPlayer )
+http://master.cystreams.com:25461/live/lakatamia/toshiba/119.m3u8|user-agent=http://www.lakatamia.tv/app/player/galanos.html
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/images/logo2.png ,TV Mall
 https://youtu.be/46k1mMe_DYE
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
