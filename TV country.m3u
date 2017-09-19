@@ -6921,8 +6921,280 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 
 #EXTINF:4 group-title=”Portugal2”,
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
 
+#EXTINF:-1,RTP 1 HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2714.m3u8
+#EXTINF:-1,RTP 1
+http://sekoiptv.ddns.net:8080/live/ism/ism/2710.m3u8
+#EXTINF:-1,RTP 2 HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2713.m3u8
+#EXTINF:-1,RTP 2
+http://sekoiptv.ddns.net:8080/live/ism/ism/2709.m3u8
+#EXTINF:-1,RTP 3
+http://sekoiptv.ddns.net:8080/live/ism/ism/2708.m3u8
+#EXTINF:-1,RTP Açores
+http://sekoiptv.ddns.net:8080/live/ism/ism/2712.m3u8
+#EXTINF:-1,RTP África
+http://sekoiptv.ddns.net:8080/live/ism/ism/2711.m3u8
+#EXTINF:-1,RTP Internacional
+http://sekoiptv.ddns.net:8080/live/ism/ism/5622.m3u8
+#EXTINF:-1,RTP Madeira
+http://sekoiptv.ddns.net:8080/live/ism/ism/2707.m3u8
+#EXTINF:-1,RTP Memória
+http://sekoiptv.ddns.net:8080/live/ism/ism/2706.m3u8
+#EXTINF:-1,ARTV
+http://sekoiptv.ddns.net:8080/live/ism/ism/5619.m3u8
+#EXTINF:-1,SIC
+http://sekoiptv.ddns.net:8080/live/ism/ism/2703.m3u8
+#EXTINF:-1,SIC Notícias
+http://sekoiptv.ddns.net:8080/live/ism/ism/2701.m3u8
+#EXTINF:-1,SIC Mulher
+http://sekoiptv.ddns.net:8080/live/ism/ism/2702.m3u8
+#EXTINF:-1,SIC Radical
+http://sekoiptv.ddns.net:8080/live/ism/ism/2700.m3u8
+#EXTINF:-1,SIC Kids
+http://sekoiptv.ddns.net:8080/live/ism/ism/2704.m3u8
+#EXTINF:-1,SIC Caras
+http://sekoiptv.ddns.net:8080/live/ism/ism/2705.m3u8
+#EXTINF:-1,SIC HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2696.m3u8
+#EXTINF:-1,SIC Notícias HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2698.m3u8
+#EXTINF:-1,SIC Radical HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2699.m3u8
+#EXTINF:-1,SIC Caras HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2697.m3u8
+#EXTINF:-1,TVI HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3840.m3u8
+#EXTINF:-1,TVI
+http://sekoiptv.ddns.net:8080/live/ism/ism/3845.m3u8
+#EXTINF:-1,TVI 24
+http://sekoiptv.ddns.net:8080/live/ism/ism/3844.m3u8
+#EXTINF:-1,TVI Reality
+http://sekoiptv.ddns.net:8080/live/ism/ism/3842.m3u8
+#EXTINF:-1,TVI Ficção
+http://sekoiptv.ddns.net:8080/live/ism/ism/3846.m3u8
+#EXTINF:-1,TV Séries HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3843.m3u8
+#EXTINF:-1,TVCine 1 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2685.m3u8
+#EXTINF:-1,TVCine 1
+http://sekoiptv.ddns.net:8080/live/ism/ism/2684.m3u8
+#EXTINF:-1,TVCine 2 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2686.m3u8
+#EXTINF:-1,TVCine 2
+http://sekoiptv.ddns.net:8080/live/ism/ism/2683.m3u8
+#EXTINF:-1,TVCine 3 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2687.m3u8
+#EXTINF:-1,TVCine 3
+http://sekoiptv.ddns.net:8080/live/ism/ism/2682.m3u8
+#EXTINF:-1,TVCine 4 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2688.m3u8
+#EXTINF:-1,TVCine 4
+http://sekoiptv.ddns.net:8080/live/ism/ism/2681.m3u8
+#EXTINF:-1,SportTV+
+http://sekoiptv.ddns.net:8080/live/ism/ism/3613.m3u8
+#EXTINF:-1,SportTV 1 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3618.m3u8
+#EXTINF:-1,SportTV 1
+http://sekoiptv.ddns.net:8080/live/ism/ism/2678.m3u8
+#EXTINF:-1,SportTV 2
+http://sekoiptv.ddns.net:8080/live/ism/ism/2677.m3u8
+#EXTINF:-1,SportTV 2 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3617.m3u8
+#EXTINF:-1,SportTV 3 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3616.m3u8
+#EXTINF:-1,SportTV 3
+http://sekoiptv.ddns.net:8080/live/ism/ism/2676.m3u8
+#EXTINF:-1,SportTV 4 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3615.m3u8
+#EXTINF:-1,SportTV 4
+http://sekoiptv.ddns.net:8080/live/ism/ism/2675.m3u8
+#EXTINF:-1,SportTV 5 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/3614.m3u8
+#EXTINF:-1,SportTV 5
+http://sekoiptv.ddns.net:8080/live/ism/ism/2674.m3u8
+#EXTINF:-1,BTV 1
+http://sekoiptv.ddns.net:8080/live/ism/ism/2767.m3u8
+#EXTINF:-1,BTV 1 FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2766.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2752.m3u8
+#EXTINF:-1,Eurosport 1
+http://sekoiptv.ddns.net:8080/live/ism/ism/2753.m3u8
+#EXTINF:-1,Eurosport 2
+http://sekoiptv.ddns.net:8080/live/ism/ism/2751.m3u8
+#EXTINF:-1,Eurosport News
+http://sekoiptv.ddns.net:8080/live/ism/ism/2750.m3u8
+#EXTINF:-1,Sporting TV HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2695.m3u8
+#EXTINF:-1,Sporting TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2694.m3u8
+#EXTINF:-1,Porto Canal
+http://sekoiptv.ddns.net:8080/live/ism/ism/2716.m3u8
+#EXTINF:-1,Caça e Pesca
+http://sekoiptv.ddns.net:8080/live/ism/ism/2765.m3u8
+#EXTINF:-1,Canal Q
+http://sekoiptv.ddns.net:8080/live/ism/ism/5618.m3u8
+#EXTINF:-1,CMTV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2758.m3u8
+#EXTINF:-1,PFC
+http://sekoiptv.ddns.net:8080/live/ism/ism/2717.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/6237.m3u8
+#EXTINF:-1,24 Kitchen FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2781.m3u8
+#EXTINF:-1,Discovery Channel
+http://sekoiptv.ddns.net:8080/live/ism/ism/2757.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2756.m3u8
+#EXTINF:-1,A&E
+http://sekoiptv.ddns.net:8080/live/ism/ism/2779.m3u8
+#EXTINF:-1,AMC FHD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2776.m3u8
+#EXTINF:-1,AMC
+http://sekoiptv.ddns.net:8080/live/ism/ism/2777.m3u8
+#EXTINF:-1,Hollywood HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2734.m3u8
+#EXTINF:-1,Hollywood
+http://sekoiptv.ddns.net:8080/live/ism/ism/2733.m3u8
+#EXTINF:-1,Odisseia
+http://sekoiptv.ddns.net:8080/live/ism/ism/2718.m3u8
+#EXTINF:-1,National Geographic HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2720.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2722.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://sekoiptv.ddns.net:8080/live/ism/ism/2723.m3u8
+#EXTINF:-1,AXN HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2771.m3u8
+#EXTINF:-1,AXN Black HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2772.m3u8
+#EXTINF:-1,AXN White HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2770.m3u8
+#EXTINF:-1,Disney Junior
+http://sekoiptv.ddns.net:8080/live/ism/ism/2755.m3u8
+#EXTINF:-1,Disney Channel
+http://sekoiptv.ddns.net:8080/live/ism/ism/3841.m3u8
+#EXTINF:-1,Cartoon Network
+http://sekoiptv.ddns.net:8080/live/ism/ism/2761.m3u8
+#EXTINF:-1,JimJam
+http://sekoiptv.ddns.net:8080/live/ism/ism/2732.m3u8
+#EXTINF:-1,Canal Panda
+http://sekoiptv.ddns.net:8080/live/ism/ism/2762.m3u8
+#EXTINF:-1,Panda Biggs
+http://sekoiptv.ddns.net:8080/live/ism/ism/2763.m3u8
+#EXTINF:-1,Nickelodeon
+http://sekoiptv.ddns.net:8080/live/ism/ism/2719.m3u8
+#EXTINF:-1,BabyFirst
+http://sekoiptv.ddns.net:8080/live/ism/ism/2769.m3u8
+#EXTINF:-1,Baby TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2768.m3u8
+#EXTINF:-1,MTV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2724.m3u8
+#EXTINF:-1,TLC
+http://sekoiptv.ddns.net:8080/live/ism/ism/2691.m3u8
+#EXTINF:-1,Fashion TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2748.m3u8
+#EXTINF:-1,FOX HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2743.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2740.m3u8
+#EXTINF:-1,FOX Comedy
+http://sekoiptv.ddns.net:8080/live/ism/ism/2745.m3u8
+#EXTINF:-1,FOX Crime HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2739.m3u8
+#EXTINF:-1,FOX Life HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2741.m3u8
+#EXTINF:-1,FOX Movies HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2742.m3u8
+#EXTINF:-1,FOX Movies
+http://sekoiptv.ddns.net:8080/live/ism/ism/2746.m3u8
+#EXTINF:-1,CineMundo
+http://sekoiptv.ddns.net:8080/live/ism/ism/2759.m3u8
+#EXTINF:-1,Syfy HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2693.m3u8
+#EXTINF:-1,Syfy
+http://sekoiptv.ddns.net:8080/live/ism/ism/2692.m3u8
+#EXTINF:-1,TV Globo
+http://sekoiptv.ddns.net:8080/live/ism/ism/2737.m3u8
+#EXTINF:-1,TV Globo Premium
+http://sekoiptv.ddns.net:8080/live/ism/ism/2736.m3u8
+#EXTINF:-1,A Bola TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2780.m3u8
+#EXTINF:-1,Afro Music
+http://sekoiptv.ddns.net:8080/live/ism/ism/2778.m3u8
+#EXTINF:-1,BBC Entertainment
+http://sekoiptv.ddns.net:8080/live/ism/ism/2775.m3u8
+#EXTINF:-1,BBC World News
+http://sekoiptv.ddns.net:8080/live/ism/ism/2773.m3u8
+#EXTINF:-1,Caça Vision
+http://sekoiptv.ddns.net:8080/live/ism/ism/2764.m3u8
+#EXTINF:-1,CBS Reality
+http://sekoiptv.ddns.net:8080/live/ism/ism/2760.m3u8
+#EXTINF:-1,E!
+http://sekoiptv.ddns.net:8080/live/ism/ism/2754.m3u8
+#EXTINF:-1,Fight Network
+http://sekoiptv.ddns.net:8080/live/ism/ism/2749.m3u8
+#EXTINF:-1,LocalVisão TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2744.m3u8
+#EXTINF:-1,Fuel TV HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2747.m3u8
+#EXTINF:-1,Fuel TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2738.m3u8
+#EXTINF:-1,História
+http://sekoiptv.ddns.net:8080/live/ism/ism/2735.m3u8
+#EXTINF:-1,Kombat Sport
+http://sekoiptv.ddns.net:8080/live/ism/ism/2731.m3u8
+#EXTINF:-1,MCM POP
+http://sekoiptv.ddns.net:8080/live/ism/ism/2730.m3u8
+#EXTINF:-1,MCM TOP
+http://sekoiptv.ddns.net:8080/live/ism/ism/2729.m3u8
+#EXTINF:-1,Motorvision TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2727.m3u8
+#EXTINF:-1,Motorsport.TV HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2725.m3u8
+#EXTINF:-1,MCS LifeStyle
+http://sekoiptv.ddns.net:8080/live/ism/ism/2721.m3u8
+#EXTINF:-1,Real Madrid TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2715.m3u8
+#EXTINF:-1,Toros TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/2690.m3u8
+#EXTINF:-1,Travel Channel HD
+http://sekoiptv.ddns.net:8080/live/ism/ism/2689.m3u8
+#EXTINF:-1,TV Record
+http://sekoiptv.ddns.net:8080/live/ism/ism/2680.m3u8
+#EXTINF:-1,C-Music TV
+http://sekoiptv.ddns.net:8080/live/ism/ism/5611.m3u8
+#EXTINF:-1,Canção Nova
+http://sekoiptv.ddns.net:8080/live/ism/ism/5620.m3u8
+#EXTINF:-1,Mezzo
+http://sekoiptv.ddns.net:8080/live/ism/ism/5610.m3u8
+#EXTINF:-1,TV Fatima
+http://sekoiptv.ddns.net:8080/live/ism/ism/5617.m3u8
+#EXTINF:-1,Trace Urban
+http://sekoiptv.ddns.net:8080/live/ism/ism/5612.m3u8
+#EXTINF:-1,VH1
+http://sekoiptv.ddns.net:8080/live/ism/ism/5613.m3u8
 
 
 
