@@ -6926,6 +6926,70 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Pl
 
 
 
+#EXTINF:9 group-title=”India3”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
+http://.........
+
+#EXTINF:-1,B4U Movies
+http://my2.videodb.in:8081/HINDI/B4U_MOVIES/playlist.m3u8
+
+#EXTINF:0,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI 3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:0,TVRI 4
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+#EXTINF:0,TVRI JOGJA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
+#EXTINF:-1,Darshan Tv
+http://103.228.155.75:9981/stream/channelid/681700247
+#EXTINF:-1,INDIA VOICE
+http://103.228.155.75:9981/stream/channelid/54703366
+#EXTINF:-1,kompastv
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8
+#EXTINF:-1,E24
+http://103.228.155.75:9981/stream/channelid/719276604
+#EXTINF:-1,TV9 Gujarati
+http://103.228.155.75:9981/stream/channelid/1268574375
+#EXTINF:-1,99 PERCENT
+http://103.228.155.75:9981/stream/channelid/991162487
+#EXTINF:-1,Maha Movie
+http://103.228.155.75:9981/stream/channelid/565849216
+#EXTINF:-1,TV9 Telugu
+http://103.228.155.75:9981/stream/channelid/1318012047
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
