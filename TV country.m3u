@@ -626,12 +626,16 @@ http://95.82.241.148:81//udp/239.255.2.58:1234
 
 
 
-#EXTINF:8 group-title=”USA-PREMIUM”,
+#EXTINF:8 group-title=”USA-PREMIUM_MXplayer”,
 
 #EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -648,226 +652,374 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,CNN
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/47.ts
-#EXTINF:-1,EuroNews
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4422.ts
-#EXTINF:-1,Sky News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/45.ts
-#EXTINF:-1,BBC News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/46.ts
-#EXTINF:-1,Rte News Now
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4423.ts
-#EXTINF:-1,Nat Geo Wild
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/87.ts
-#EXTINF:-1,Fox News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/86.ts
-#EXTINF:-1,BBC 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/92.ts
-#EXTINF:-1,Nat Geo
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/44.ts
-#EXTINF:-1,Discovery History
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/49.ts
-#EXTINF:-1,Discovery SC HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.ts
-#EXTINF:-1,Animal Planet
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/43.ts
-#EXTINF:-1,Discovery World
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
-#EXTINF:-1,Discovery Turbo
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
-#EXTINF:-1,Discovery HD Showcase
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4425.ts
-#EXTINF:-1,History
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4427.ts
-#EXTINF:-1,RTE TWO
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4437.ts
+#EXTINF:-1,5STAR
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5938.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,5USA
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4439.ts
-#EXTINF:-1,Rte One
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4436.ts
-#EXTINF:-1,VH1 Europe
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4443.ts
-#EXTINF:-1,TCM 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4431.ts
-#EXTINF:-1,Sony Movie Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4433.ts
-#EXTINF:-1,Sky Movies Showcase
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4429.ts
-#EXTINF:-1,Nat Geo People
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4428.ts
-#EXTINF:-1,Sky Arts
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4434.ts
-#EXTINF:-1,Sky 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4435.ts
-#EXTINF:-1,MTV Dance
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4444.ts
-#EXTINF:-1,Movies4Men
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4432.ts
-#EXTINF:-1,More4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4440.ts
-#EXTINF:-1,Gold
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4438.ts
-#EXTINF:-1,Film 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4430.ts
-#EXTINF:-1,Eurosport 2 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4446.ts
-#EXTINF:-1,Eurosport 1 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4445.ts
-#EXTINF:-1,FOOTBALL 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4454.ts
-#EXTINF:-1,FOOTBALL 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4453.ts
-#EXTINF:-1,Viasat Sport HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4452.ts
-#EXTINF:-1,Setanta Sports
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4448.ts
-#EXTINF:-1,Premier Sports
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4450.ts
-#EXTINF:-1,Chelsea TV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4449.ts
-#EXTINF:-1,Channel 5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4442.ts
-#EXTINF:-1,Channel 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4441.ts
-#EXTINF:-1,BT Sports Europe
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4447.ts
-#EXTINF:-1,BoxNation
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4451.ts
-#EXTINF:-1,SkyAtlantic
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/176.ts
-#EXTINF:-1,Nick Jr
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/183.ts
-#EXTINF:-1,SkyAtlantic
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/176.ts
-#EXTINF:-1,Nick Jr
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/183.ts
-#EXTINF:-1,Disney XD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/184.ts
-#EXTINF:-1,Disney Junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/185.ts
-#EXTINF:-1,Disney Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/186.ts
-#EXTINF:-1,Cartoonito
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/187.ts
-#EXTINF:-1,Baby Tv
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/188.ts
-#EXTINF:-1,Nickelodeon
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/156.ts
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5760.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AAJTAK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5850.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AASTHA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5739.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ABPNEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5971.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AHLUBAYT
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5856.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AKAALCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5970.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ALIBI
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5689.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ALJAZEERAENGLISH
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5813.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ANDTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5737.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ANIMALPLANET
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5980.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BABYTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5799.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BANGLA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5849.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BBCFOUR
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5942.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BBCNEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5761.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BBCONE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5877.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BBCPARLIAMENT
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5814.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BBCTWO
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5943.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BLOOMBERG
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5692.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BOOMERANG
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5920.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BOXNATION
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5863.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BRITASIA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5848.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BRITISHMUSLIM
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5743.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BTSPORT1
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5696.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BTSPORT2
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5864.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,BTSPORT3
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5751.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CARTOONNETWORK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5922.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CBBC
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5859.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CBEEBIES
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5691.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CBSACTION
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5756.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CBSDRAMA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5701.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CBSREALITY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5759.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CCTV9DOCUMENTARY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5343.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CCTVNEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5325.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CHANNEL4
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5994.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CHANNEL5
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5702.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CHANNELAKA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5796.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CHANNELSTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5740.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CHELSEA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5862.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CNBC
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5703.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,CNN
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5941.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,COLORS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5688.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DAVE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5794.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISCOVERY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5749.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISCOVERYHISTORY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5695.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISCOVERYSCIENCE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5801.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISCTURBO
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5748.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISNEYCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5694.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISNEYCHANNELPLUS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5979.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISNEYJUNIOR
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5921.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DISNEYXD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5747.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DRAMA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5700.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,DUNYANEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5734.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,E
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5808.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,EDEN
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5974.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,EIRSPORT1
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5982.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,EIRSPORT2
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5803.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ESPN
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5750.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FASHION
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5371.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FILM4
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5758.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FOODNETWORK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5919.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FOX
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5937.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FRANCE24
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5261.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,GEONEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5736.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,GEOTEZ
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5915.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,GEOTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5968.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,GOODFOOD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5690.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HEART
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5686.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HIDAYAHTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5370.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HOME
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5809.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HOMEANDHEALTH
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5858.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HORRORCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5875.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,HUMEUROPE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5735.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,IDEALEXTRA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5976.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,IDEALWORLD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5975.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,IFILMENGLISH
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5274.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,INVESTIGATIONDISCOVERY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5861.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,IQRATV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5914.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ISLAMCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5742.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ISLAMCHURDU
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5790.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ITV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5995.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ITV2
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5763.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ITV3
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5878.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ITV4
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5705.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ITVBE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5944.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,LIVERPOOL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5924.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,LOVEWORLD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5795.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MADANICHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5967.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MATVNATIONAL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5685.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MOVIES4MEN
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5874.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MTAMUSLIMTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5911.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,MTV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/155.ts
-#EXTINF:-1,More 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/150.ts
-#EXTINF:-1,MotorsTV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/149.ts
-#EXTINF:-1,NickToons
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/154.ts
-#EXTINF:-1,POP1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/153.ts
-#EXTINF:-1,H2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/152.ts
-#EXTINF:-1,vide
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/151.ts
-#EXTINF:-1,RT
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/95.ts
-#EXTINF:-1,Tg4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/96.ts
-#EXTINF:-1,Rte 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/83.ts
-#EXTINF:-1,ITV 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/85.ts
-#EXTINF:-1,ITV 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/84.ts
-#EXTINF:-1,Film4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/91.ts
-#EXTINF:-1,Sky 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/90.ts
-#EXTINF:-1,E4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/89.ts
-#EXTINF:-1,At The Races
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/94.ts
-#EXTINF:-1,Boomerang
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/63.ts
-#EXTINF:-1,Sky Sports News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/53.ts
-#EXTINF:-1,MTV Hits
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/41.ts
-#EXTINF:-1,Sky Movies Crime
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/48.ts
-#EXTINF:-1,Espn
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/66.ts
-#EXTINF:-1,yerkir
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/52.ts
-#EXTINF:-1,Kentron
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/51.ts
-#EXTINF:-1,Disney Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/50.ts
-#EXTINF:-1,BT sport 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/64.ts
-#EXTINF:-1,BT sport 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/65.ts
-#EXTINF:-1,Yesterday
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4.ts
-#EXTINF:-1,Watch
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/34.ts
-#EXTINF:-1,Sky Movies Premier+
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/16.ts
-#EXTINF:-1,Sky Sport F1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/7.ts
-#EXTINF:-1,Sky Sport 5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/8.ts
-#EXTINF:-1,Sky Sport 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/9.ts
-#EXTINF:-1,Sky Sport 3
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/10.ts
-#EXTINF:-1,Sky Sport 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/11.ts
-#EXTINF:-1,Sky Sport 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/12.ts
-#EXTINF:-1,Sky Select
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/13.ts
-#EXTINF:-1,Sky Living
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/35.ts
-#EXTINF:-1,Sky Horror
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/14.ts
-#EXTINF:-1,Sky Greats
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/21.ts
-#EXTINF:-1,Sky Family
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/19.ts
-#EXTINF:-1,Sky Drama
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/15.ts
-#EXTINF:-1,Sky Disney
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/20.ts
-#EXTINF:-1,Sky Comedy
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/17.ts
-#EXTINF:-1,C I
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/36.ts
-#EXTINF:-1,Real Lives
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/26.ts
-#EXTINF:-1,Miracle Tv
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/27.ts
-#EXTINF:-1,Home
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/24.ts
-#EXTINF:-1,Fox
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/30.ts
-#EXTINF:-1,Eden
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/5.ts
-#EXTINF:-1,Disney junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/2.ts
-#EXTINF:-1,Dave
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/32.ts
-#EXTINF:-1,Comedy Central
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/31.ts
-#EXTINF:-1,Cartoon Network
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/1.ts
-#EXTINF:-1,Alibi
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/29.ts
-#EXTINF:-1,Sky Action
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/18.ts
-#EXTINF:-1,TSN1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/177.ts
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5793.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MTVDANCE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5918.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MTVHITS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5977.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MTVROCKS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5798.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MUTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5802.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NATIONALGEOGRAPHIC1
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5923.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NDTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5684.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NEWS18INDIA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5687.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NICK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5978.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NICKELODEON
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5860.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NICKJR
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5745.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NICKTOON
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5800.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NOORTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5912.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PEACETV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5244.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PEACETVURDU
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5683.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PREMIERSPORTS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5981.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PRESSTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5262.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PTCPUNJABI
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5853.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PTVGLOBAL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5969.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,PTVPRIME
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5916.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,RACINGUK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5925.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,REALLY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5741.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,RISHTEY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5851.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,RTEONE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5812.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,RTETWO
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5939.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,RUSSIATODAY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5324.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SAMAA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5913.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SANGAT
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5852.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SIKHCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5791.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYARTS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5757.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYATLANTICHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5990.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAACTION
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5871.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAACTIONHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5807.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMACRIME
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5992.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMACRIMEHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5932.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMADISNEY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5989.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMADISNEYHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5872.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAFAMILY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5754.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAFAMILYHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5873.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAPREMIERE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5755.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMAPREMIEREHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5933.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMASCIFI
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5753.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCINEMASCIFIHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5931.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCOMEDY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5930.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYCOMEDYHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5699.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYF1
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5926.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYF1HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5927.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYGREATS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5991.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYGREATSHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5806.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYLIVING
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5934.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYNEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5940.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTARENA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5867.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTBOXOFFICEHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5866.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS1HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5804.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS1HDVIP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5870.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS2HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5698.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS2HDVIP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5752.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS3HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5987.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS3HDVIP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5805.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS4HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5928.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS4HDVIP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5869.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS5HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5868.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTS5HDVIP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5988.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTSNETWORLDHD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5697.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYSPORTSNEWS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5929.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYUKBOXOFFICE1HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5986.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYUKBOXOFFICE2HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5985.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYUKBOXOFFICE3HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5865.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SKYUKBOXOFFICE4HD
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5984.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SONICNICKELODEON
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5746.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SONYCHANNEL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5935.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SONYMAX
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5854.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SONYMOVIES
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5876.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SONYSAB
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5973.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,STARLIFEOK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5917.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,STARPLUS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5792.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,STARUTSAV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5972.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,STV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5762.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,SYFY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5993.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TAKBEER
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5910.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TIMESNOW
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5811.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TINYPOP
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5693.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ZEE
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5855.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,TLC
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/174.ts
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5936.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TV99
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5733.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,UNIVERSAL
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5810.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,UTV
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5704.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,YESTERDAY
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5797.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,VENUS
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5738.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,VH1
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5744.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,VIVA
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5857.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,WWENETWORK
+http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/5983.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+
+
 
 
 
@@ -1135,248 +1287,6 @@ http://95.82.241.148:81//udp/239.255.2.58:1234
 
 
 
-#EXTINF:8 group-title=”UK1-PREMIUM”,
-
-#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,CNN
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/47.ts
-#EXTINF:-1,EuroNews
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4422.ts
-#EXTINF:-1,Sky News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/45.ts
-#EXTINF:-1,BBC News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/46.ts
-#EXTINF:-1,Rte News Now
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4423.ts
-#EXTINF:-1,Nat Geo Wild
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/87.ts
-#EXTINF:-1,Fox News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/86.ts
-#EXTINF:-1,BBC 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/92.ts
-#EXTINF:-1,Nat Geo
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/44.ts
-#EXTINF:-1,Discovery History
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/49.ts
-#EXTINF:-1,Discovery SC HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.ts
-#EXTINF:-1,Animal Planet
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/43.ts
-#EXTINF:-1,Discovery World
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
-#EXTINF:-1,Discovery Turbo
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
-#EXTINF:-1,Discovery HD Showcase
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4425.ts
-#EXTINF:-1,History 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4427.ts
-#EXTINF:-1,RTE TWO
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4437.ts
-#EXTINF:-1,5USA
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4439.ts
-#EXTINF:-1,Rte One
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4436.ts
-#EXTINF:-1,VH1 Europe
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4443.ts
-#EXTINF:-1,TCM 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4431.ts
-#EXTINF:-1,Sony Movie Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4433.ts
-#EXTINF:-1,Sky Movies Showcase
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4429.ts
-#EXTINF:-1,Nat Geo People
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4428.ts
-#EXTINF:-1,Sky Arts
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4434.ts
-#EXTINF:-1,Sky 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4435.ts
-#EXTINF:-1,MTV Dance
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4444.ts
-#EXTINF:-1,Movies4Men
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4432.ts
-#EXTINF:-1,More4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4440.ts
-#EXTINF:-1,Gold
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4438.ts
-#EXTINF:-1,Film 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4430.ts
-#EXTINF:-1,Eurosport 2 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4446.ts
-#EXTINF:-1,Eurosport 1 
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4445.ts
-#EXTINF:-1,FOOTBALL 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4454.ts
-#EXTINF:-1,FOOTBALL 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4453.ts
-#EXTINF:-1,Viasat Sport HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4452.ts
-#EXTINF:-1,Setanta Sports
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4448.ts
-#EXTINF:-1,Premier Sports
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4450.ts
-#EXTINF:-1,Chelsea TV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4449.ts
-#EXTINF:-1,Channel 5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4442.ts
-#EXTINF:-1,Channel 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4441.ts
-#EXTINF:-1,BT Sports Europe
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4447.ts
-#EXTINF:-1,BoxNation
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4451.ts
-#EXTINF:-1,SkyAtlantic
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/176.ts
-#EXTINF:-1,Nick Jr
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/183.ts
-#EXTINF:-1,SkyAtlantic
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/176.ts
-#EXTINF:-1,Nick Jr
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/183.ts
-#EXTINF:-1,Disney XD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/184.ts
-#EXTINF:-1,Disney Junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/185.ts
-#EXTINF:-1,Disney Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/186.ts
-#EXTINF:-1,Cartoonito
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/187.ts
-#EXTINF:-1,Baby Tv
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/188.ts
-#EXTINF:-1,Nickelodeon
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/156.ts
-#EXTINF:-1,MTV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/155.ts
-#EXTINF:-1,More 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/150.ts
-#EXTINF:-1,MotorsTV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/149.ts
-#EXTINF:-1,NickToons
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/154.ts
-#EXTINF:-1,POP1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/153.ts
-#EXTINF:-1,H2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/152.ts
-#EXTINF:-1,vide
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/151.ts
-#EXTINF:-1,RT
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/95.ts
-#EXTINF:-1,Tg4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/96.ts
-#EXTINF:-1,Rte 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/83.ts
-#EXTINF:-1,ITV 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/85.ts
-#EXTINF:-1,ITV 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/84.ts
-#EXTINF:-1,Film4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/91.ts
-#EXTINF:-1,Sky 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/90.ts
-#EXTINF:-1,E4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/89.ts
-#EXTINF:-1,At The Races
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/94.ts
-#EXTINF:-1,Boomerang
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/63.ts
-#EXTINF:-1,Sky Sports News
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/53.ts
-#EXTINF:-1,MTV Hits
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/41.ts
-#EXTINF:-1,Sky Movies Crime
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/48.ts
-#EXTINF:-1,Espn
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/66.ts
-#EXTINF:-1,yerkir
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/52.ts
-#EXTINF:-1,Kentron
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/51.ts
-#EXTINF:-1,Disney Channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/50.ts
-#EXTINF:-1,BT sport 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/64.ts
-#EXTINF:-1,BT sport 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/65.ts
-#EXTINF:-1,Yesterday
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4.ts
-#EXTINF:-1,Watch
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/34.ts
-#EXTINF:-1,Sky Movies Premier+
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/16.ts
-#EXTINF:-1,Sky Sport F1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/7.ts
-#EXTINF:-1,Sky Sport 5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/8.ts
-#EXTINF:-1,Sky Sport 4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/9.ts
-#EXTINF:-1,Sky Sport 3
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/10.ts
-#EXTINF:-1,Sky Sport 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/11.ts
-#EXTINF:-1,Sky Sport 1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/12.ts
-#EXTINF:-1,Sky Select
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/13.ts
-#EXTINF:-1,Sky Living
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/35.ts
-#EXTINF:-1,Sky Horror
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/14.ts
-#EXTINF:-1,Sky Greats
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/21.ts
-#EXTINF:-1,Sky Family
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/19.ts
-#EXTINF:-1,Sky Drama
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/15.ts
-#EXTINF:-1,Sky Disney
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/20.ts
-#EXTINF:-1,Sky Comedy
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/17.ts
-#EXTINF:-1,C I
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/36.ts
-#EXTINF:-1,Real Lives
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/26.ts
-#EXTINF:-1,Miracle Tv
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/27.ts
-#EXTINF:-1,Home
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/24.ts
-#EXTINF:-1,Fox
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/30.ts
-#EXTINF:-1,Eden
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/5.ts
-#EXTINF:-1,Disney junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/2.ts
-#EXTINF:-1,Dave
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/32.ts
-#EXTINF:-1,Comedy Central
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/31.ts
-#EXTINF:-1,Cartoon Network
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/1.ts
-#EXTINF:-1,Alibi
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/29.ts
-#EXTINF:-1,Sky Action
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/18.ts
-#EXTINF:-1,TSN1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/177.ts
-#EXTINF:-1,TLC
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/174.ts
 
 
 
@@ -1407,7 +1317,7 @@ http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/174.ts
 
 
 
-#EXTINF:8 group-title=”UK2-PREMIUM_MXPLAYER”,
+#EXTINF:8 group-title=”UK-PREMIUM_MXPLAYER”,
 
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
@@ -2960,210 +2870,6 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”France1-PREMIUM”,
-
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,BFM FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/835.ts
-#EXTINF:-1,BFM FR -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/836.ts
-#EXTINF:-1,France_24.
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/791.ts
-#EXTINF:-1,TV5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/792.ts
-#EXTINF:-1,TF1
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/793.ts
-#EXTINF:-1,TF1 -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/794.ts
-#EXTINF:-1,M6
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/795.ts
-#EXTINF:-1,M6 -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/796.ts
-#EXTINF:-1,France 2
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/797.ts
-#EXTINF:-1,France 2 -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/798.ts
-#EXTINF:-1,France  3
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/799.ts
-#EXTINF:-1,France  3 -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/800.ts
-#EXTINF:-1,France  4
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/801.ts
-#EXTINF:-1,Ushuaia
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/787.ts
-#EXTINF:-1,Ushuaia -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/788.ts
-#EXTINF:-1,Nat Geo
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/789.ts
-#EXTINF:-1,Nat Geo -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/790.ts
-#EXTINF:-1,Cartoon_Network_FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/248.ts
-#EXTINF:-1,Cartoon_Network_FR -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/249.ts
-#EXTINF:-1,Nick junior -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/250.ts
-#EXTINF:-1,Nick junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/251.ts
-#EXTINF:-1,Disney channel
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/252.ts
-#EXTINF:-1,Disney_channel -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/253.ts
-#EXTINF:-1,Piwi TV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/254.ts
-#EXTINF:-1,Piwi -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/255.ts
-#EXTINF:-1,Disney Junior
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/256.ts
-#EXTINF:-1,Disney Junior -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/257.ts
-#EXTINF:-1,Disney CINEMAGIC
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/258.ts
-#EXTINF:-1,Disney CINEMAGIC -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/259.ts
-#EXTINF:-1,DISNEY XD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/260.ts
-#EXTINF:-1,DISNEY XD -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/261.ts
-#EXTINF:-1,FR :GULLI
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/262.ts
-#EXTINF:-1,France 4 -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/802.ts
-#EXTINF:-1,France 5
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/803.ts
-#EXTINF:-1,France 5 -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/804.ts
-#EXTINF:-1,France o
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/805.ts
-#EXTINF:-1,France 0 -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/806.ts
-#EXTINF:-1,W9
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/807.ts
-#EXTINF:-1,W9 -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/808.ts
-#EXTINF:-1,Canal+
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/809.ts
-#EXTINF:-1,Canal+  -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/810.ts
-#EXTINF:-1,Canal+  Cinema.
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/811.ts
-#EXTINF:-1,Canal  Cinema -6h.
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/812.ts
-#EXTINF:-1,C+ Premier
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/813.ts
-#EXTINF:-1,C+ Premier -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/814.ts
-#EXTINF:-1,Cine Club
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/815.ts
-#EXTINF:-1,Cine Club -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/816.ts
-#EXTINF:-1,C+ Decale
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/817.ts
-#EXTINF:-1,C+ Decale -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/818.ts
-#EXTINF:-1,C+ Teva
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/819.ts
-#EXTINF:-1,C+ Teva -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/820.ts
-#EXTINF:-1,C+ Family
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/821.ts
-#EXTINF:-1,C+ Family -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/822.ts
-#EXTINF:-1,Cine Emotion
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/823.ts
-#EXTINF:-1,Cine Emotion -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/824.ts
-#EXTINF:-1,Cine Frisson
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/825.ts
-#EXTINF:-1,Cine Frisson -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/826.ts
-#EXTINF:-1,13_Rue
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/827.ts
-#EXTINF:-1,13_Rue -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/828.ts
-#EXTINF:-1,Comedie
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/829.ts
-#EXTINF:-1,Comedie  -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/830.ts
-#EXTINF:-1,Syfy
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/831.ts
-#EXTINF:-1,Syfy -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/832.ts
-#EXTINF:-1,Nrj12 FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/833.ts
-#EXTINF:-1,Nrj12 FR -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/834.ts
-#EXTINF:-1,NT1 FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/837.ts
-#EXTINF:-1,NT1 FR -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/838.ts
-#EXTINF:-1,TMC FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/839.ts
-#EXTINF:-1,TMC FR -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/840.ts
-#EXTINF:-1,D8
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/841.ts
-#EXTINF:-1,D8 -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/842.ts
-#EXTINF:-1,OCS_GEANTS
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/843.ts
-#EXTINF:-1,OCS_GEANTS -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/844.ts
-#EXTINF:-1,OCS_MAX
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/845.ts
-#EXTINF:-1,OCS_MAX -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/846.ts
-#EXTINF:-1,Serie_Club
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/847.ts
-#EXTINF:-1,Serie_Club -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/848.ts
-#EXTINF:-1,OCS CITY
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/849.ts
-#EXTINF:-1,OCS CITY -6h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/850.ts
-#EXTINF:-1,AR: MEKAMELEEN_TV
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/851.ts
-#EXTINF:-1,Planet_CI_FR
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/852.ts
-
-
-
-
-
-
-
-
-
-
-
-
  
 
 
@@ -3188,12 +2894,7 @@ http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/852.ts
 
 
 
-
-
-
-
-
-#EXTINF:8 group-title=”France2-PREMIUM_MXPLAYER”,
+#EXTINF:8 group-title=”France-PREMIUM_MXPLAYER”,
 
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
@@ -3450,409 +3151,6 @@ http://ip-cdn.embratoria.net:8877/live/6e78GUuD9E/H2Bq8W5Svx/4905.ts|user-agent=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”France3-PREMIUM_MXPLAYER”,
-
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,EURONEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2767.ts|user-agent=useragent
-#EXTINF:-1,FRANCE 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2766.ts|user-agent=useragent
-#EXTINF:-1,RTL9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2765.ts|user-agent=useragent
-#EXTINF:-1,TELETOON
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2764.ts|user-agent=useragent
-#EXTINF:-1,W9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2763.ts|user-agent=useragent
-#EXTINF:-1,Cartoon Network HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2760.ts|user-agent=useragent
-#EXTINF:-1,  Discovery Science HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2759.ts|user-agent=useragent
-#EXTINF:-1,  Disney Jr Fr
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2758.ts|user-agent=useragent
-#EXTINF:-1,  Nat Geo HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2757.ts|user-agent=useragent
-#EXTINF:-1,  Nat Geo Wild  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2756.ts|user-agent=useragent
-#EXTINF:-1,  NRJ12 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2755.ts|user-agent=useragent
-#EXTINF:-1, 13 EME RUE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2754.ts|user-agent=useragent
-#EXTINF:-1, 6TER HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2753.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 10
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2752.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2751.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2750.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2749.ts|user-agent=useragent
-#EXTINF:-1, AB Moteur HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2748.ts|user-agent=useragent
-#EXTINF:-1, AB1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2747.ts|user-agent=useragent
-#EXTINF:-1, AB3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2746.ts|user-agent=useragent
-#EXTINF:-1, ACTION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2745.ts|user-agent=useragent
-#EXTINF:-1, ANIMAUX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2744.ts|user-agent=useragent
-#EXTINF:-1, ARTE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2743.ts|user-agent=useragent
-#EXTINF:-1, BE CURIOUS TV HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/358.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 10
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2737.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2738.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2739.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2740.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2741.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2742.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/357.ts|user-agent=useragent
-#EXTINF:-1, Bein Sports 1 HD backup
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/188.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 2 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/356.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 3 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/355.ts|user-agent=useragent
-#EXTINF:-1, beIN SPORTS 3HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2648.ts|user-agent=useragent
-#EXTINF:-1, beIN SPORTS1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2649.ts|user-agent=useragent
-#EXTINF:-1, beINS PORTS 2HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2650.ts|user-agent=useragent
-#EXTINF:-1, BFM business
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/328.ts|user-agent=useragent
-#EXTINF:-1, BFM SPORT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/736.ts|user-agent=useragent
-#EXTINF:-1, BFM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2703.ts|user-agent=useragent
-#EXTINF:-1, Boing
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2761.ts|user-agent=useragent
-#EXTINF:-1, BOOMERANG HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2762.ts|user-agent=useragent
-#EXTINF:-1, C8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2735.ts|user-agent=useragent
-#EXTINF:-1, Canal  Cinema
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2734.ts|user-agent=useragent
-#EXTINF:-1, Canal  Decale
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2733.ts|user-agent=useragent
-#EXTINF:-1, Canal  Family
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2732.ts|user-agent=useragent
-#EXTINF:-1, CANAL  HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/354.ts|user-agent=useragent
-#EXTINF:-1, Canal  Series
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2731.ts|user-agent=useragent
-#EXTINF:-1, Canal  Sport
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2730.ts|user-agent=useragent
-#EXTINF:-1, Canal  Sport HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/353.ts|user-agent=useragent
-#EXTINF:-1, CANAL CINEMA HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/352.ts|user-agent=useragent
-#EXTINF:-1, CANAL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2704.ts|user-agent=useragent
-#EXTINF:-1, CANAL J
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2729.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2728.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2727.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2726.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2725.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2724.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2723.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2722.ts|user-agent=useragent
-#EXTINF:-1, Cartoon Network HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/351.ts|user-agent=useragent
-#EXTINF:-1, Chasse et Peche
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2721.ts|user-agent=useragent
-#EXTINF:-1, CHERIE 25 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2720.ts|user-agent=useragent
-#EXTINF:-1, CINE CLASSIC
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2719.ts|user-agent=useragent
-#EXTINF:-1, CINE CLASSIC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2718.ts|user-agent=useragent
-#EXTINF:-1, CINE EMOTION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2717.ts|user-agent=useragent
-#EXTINF:-1, CINE EMOTION HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2716.ts|user-agent=useragent
-#EXTINF:-1, CINE FAMIZ
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2715.ts|user-agent=useragent
-#EXTINF:-1, Cine Famiz HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2714.ts|user-agent=useragent
-#EXTINF:-1, Cine Famiz HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/350.ts|user-agent=useragent
-#EXTINF:-1, CINE FRISSON
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2713.ts|user-agent=useragent
-#EXTINF:-1, CINE FRISSON HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2712.ts|user-agent=useragent
-#EXTINF:-1, Cine Frisson HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/349.ts|user-agent=useragent
-#EXTINF:-1, CINE FX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2711.ts|user-agent=useragent
-#EXTINF:-1, CINE POLAR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2710.ts|user-agent=useragent
-#EXTINF:-1, CINE PREMIER HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2709.ts|user-agent=useragent
-#EXTINF:-1, Cine Premier HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/348.ts|user-agent=useragent
-#EXTINF:-1, COMEDIE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2708.ts|user-agent=useragent
-#EXTINF:-1, COMEDIE Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2707.ts|user-agent=useragent
-#EXTINF:-1, CRIME DISTRICT HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/186.ts|user-agent=useragent
-#EXTINF:-1, CSTAR HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2706.ts|user-agent=useragent
-#EXTINF:-1, D17
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2705.ts|user-agent=useragent
-#EXTINF:-1, D8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2736.ts|user-agent=useragent
-#EXTINF:-1, DISCOVERY
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2612.ts|user-agent=useragent
-#EXTINF:-1, Discovery Investigation HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/331.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CHANNEL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2690.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CINEMA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2691.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CINEMA HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/347.ts|user-agent=useragent
-#EXTINF:-1, DISNEY JUNIOR HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/346.ts|user-agent=useragent
-#EXTINF:-1, Disney xd  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2692.ts|user-agent=useragent
-#EXTINF:-1, E! Entertainment
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/253.ts|user-agent=useragent
-#EXTINF:-1, ELLE GIRL HD 1080
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/530.ts|user-agent=useragent
-#EXTINF:-1, EQUIDIA LIFE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/395.ts|user-agent=useragent
-#EXTINF:-1, EQUIDIA live
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2693.ts|user-agent=useragent
-#EXTINF:-1, Eurosport 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2694.ts|user-agent=useragent
-#EXTINF:-1, Eurosport 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2695.ts|user-agent=useragent
-#EXTINF:-1, EUROSPORT2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2696.ts|user-agent=useragent
-#EXTINF:-1, France 02 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/345.ts|user-agent=useragent
-#EXTINF:-1, France 03 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/344.ts|user-agent=useragent
-#EXTINF:-1, FRANCE 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2697.ts|user-agent=useragent
-#EXTINF:-1, France 4  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2698.ts|user-agent=useragent
-#EXTINF:-1, France 5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2699.ts|user-agent=useragent
-#EXTINF:-1,France O  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2700.ts|user-agent=useragent
-#EXTINF:-1, GAME ONE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2701.ts|user-agent=useragent
-#EXTINF:-1, GOLF  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/529.ts|user-agent=useragent
-#EXTINF:-1, GULLI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2702.ts|user-agent=useragent
-#EXTINF:-1, HD1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2689.ts|user-agent=useragent
-#EXTINF:-1, HD1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/343.ts|user-agent=useragent
-#EXTINF:-1, i Tele
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2688.ts|user-agent=useragent
-#EXTINF:-1, INFOSPORT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2687.ts|user-agent=useragent
-#EXTINF:-1, L'EQUIPE 21
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2686.ts|user-agent=useragent
-#EXTINF:-1, La Deux
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2685.ts|user-agent=useragent
-#EXTINF:-1, La une BE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2684.ts|user-agent=useragent
-#EXTINF:-1, LCI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2683.ts|user-agent=useragent
-#EXTINF:-1, M6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2682.ts|user-agent=useragent
-#EXTINF:-1, M6 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/342.ts|user-agent=useragent
-#EXTINF:-1, Ma Chaine Sport HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2681.ts|user-agent=useragent
-#EXTINF:-1, Mangas
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2680.ts|user-agent=useragent
-#EXTINF:-1, MCM
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/27.ts|user-agent=useragent
-#EXTINF:-1, MCM TOP
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/26.ts|user-agent=useragent
-#EXTINF:-1, National geo wild
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2679.ts|user-agent=useragent
-#EXTINF:-1, Nick Jr
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/25.ts|user-agent=useragent
-#EXTINF:-1, NICKELODEON HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2627.ts|user-agent=useragent
-#EXTINF:-1, NICKELODEON JUNIOR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2678.ts|user-agent=useragent
-#EXTINF:-1, NRJ Hits
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2677.ts|user-agent=useragent
-#EXTINF:-1, NUMERO 23 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2676.ts|user-agent=useragent
-#EXTINF:-1, OCS CHOC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2675.ts|user-agent=useragent
-#EXTINF:-1, OCS CITY
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2674.ts|user-agent=useragent
-#EXTINF:-1, OCS GEANT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2673.ts|user-agent=useragent
-#EXTINF:-1, OCS MAX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2672.ts|user-agent=useragent
-#EXTINF:-1, OLTV HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2671.ts|user-agent=useragent
-#EXTINF:-1, Orange Cine horreur HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2670.ts|user-agent=useragent
-#EXTINF:-1, Orange enquete exclusive HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2669.ts|user-agent=useragent
-#EXTINF:-1, PARAMOUNT CHANNEL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2668.ts|user-agent=useragent
-#EXTINF:-1, PARIS PREMIERE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2667.ts|user-agent=useragent
-#EXTINF:-1, PARIS PREMIERE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2666.ts|user-agent=useragent
-#EXTINF:-1, PIWI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2665.ts|user-agent=useragent
-#EXTINF:-1, PLANETE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2664.ts|user-agent=useragent
-#EXTINF:-1, PLANETE A&E HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2663.ts|user-agent=useragent
-#EXTINF:-1, PLANETE CI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2662.ts|user-agent=useragent
-#EXTINF:-1, rmc decouverte
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2660.ts|user-agent=useragent
-#EXTINF:-1, RTL TVI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2659.ts|user-agent=useragent
-#EXTINF:-1, RTS Deux
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2658.ts|user-agent=useragent
-#EXTINF:-1, RTS Un
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2657.ts|user-agent=useragent
-#EXTINF:-1, SCIENCE ET VIE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2656.ts|user-agent=useragent
-#EXTINF:-1, SCIENCES & VIE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2655.ts|user-agent=useragent
-#EXTINF:-1, Seasons
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/15.ts|user-agent=useragent
-#EXTINF:-1, SERIE CLUB
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2654.ts|user-agent=useragent
-#EXTINF:-1, Series Club HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2653.ts|user-agent=useragent
-#EXTINF:-1, SFR SPORT 3 backup
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/240.ts|user-agent=useragent
-#EXTINF:-1, SFR Sport 4 4K
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2630.ts|user-agent=useragent
-#EXTINF:-1, SFR sport 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2626.ts|user-agent=useragent
-#EXTINF:-1, SCINE A LA DEMANDE 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2652.ts|user-agent=useragent
-#EXTINF:-1, SCINE A LA DEMANDE 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2651.ts|user-agent=useragent
-#EXTINF:-1, SCINE A LA DEMANDE 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2647.ts|user-agent=useragent
-#EXTINF:-1, SSport 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2646.ts|user-agent=useragent
-#EXTINF:-1, SSport 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2645.ts|user-agent=useragent
-#EXTINF:-1, SSport 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2644.ts|user-agent=useragent
-#EXTINF:-1, SFR2 SPORT HD (backup)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/241.ts|user-agent=useragent
-#EXTINF:-1, Syfy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2643.ts|user-agent=useragent
-#EXTINF:-1, Syfy HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/341.ts|user-agent=useragent
-#EXTINF:-1, Teva
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2642.ts|user-agent=useragent
-#EXTINF:-1, TF1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2641.ts|user-agent=useragent
-#EXTINF:-1, TF1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/340.ts|user-agent=useragent
-#EXTINF:-1, Tiji
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2640.ts|user-agent=useragent
-#EXTINF:-1, TOUTE LHISTOIRE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2639.ts|user-agent=useragent
-#EXTINF:-1, TRACE URBAN
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2625.ts|user-agent=useragent
-#EXTINF:-1, TV BREIZH HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2638.ts|user-agent=useragent
-#EXTINF:-1, USHUAIA  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2637.ts|user-agent=useragent
-#EXTINF:-1, Zouzou TV LOCAL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2636.ts|user-agent=useragent
-#EXTINF:-1,A LA CARTE 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2635.ts|user-agent=useragent
-#EXTINF:-1,A la Carte 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2634.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2633.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2632.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2631.ts|user-agent=useragent
-#EXTINF:-1,CINE PREMIER
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2629.ts|user-agent=useragent
-#EXTINF:-1,FRANCE 24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2628.ts|user-agent=useragent
-#EXTINF:-1,NT1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2617.ts|user-agent=useragent
-#EXTINF:-1,TCM CINEMA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2616.ts|user-agent=useragent
-#EXTINF:-1,TEVA/TMC
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2615.ts|user-agent=useragent
-#EXTINF:-1,TREK HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2614.ts|user-agent=useragent
-#EXTINF:-1,TV5 MONDE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2613.ts|user-agent=useragent
-#EXTINF:-1,VOYAGE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2611.ts|user-agent=useragent
 
 
 
