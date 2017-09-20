@@ -3615,6 +3615,117 @@ http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
 
 
 
+#EXTINF:7 group-title=”Germany2”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+
+#EXTINF:-1,SIXX
+http://78.110.160.130:8000/play/a007
+#EXTINF:-1,Sparhandy TV
+http://78.110.160.130:8000/play/a003
+#EXTINF:-1,Sky Sport 1
+http://78.110.160.130:8000/play/a00x
+#EXTINF:-1,Sky Cinema Emotion
+http://78.110.160.130:8000/play/a00t
+#EXTINF:-1,Sky Atlantic HD
+http://78.110.160.130:8000/play/a018
+#EXTINF:-1,Eurosport 1 HD
+http://78.110.160.130:8000/play/a00e
+#EXTINF:-1,RTL Crime
+http://78.110.160.130:8000/play/a013
+#EXTINF:-1,13th Street HD
+http://78.110.160.130:8000/play/a01c
+#EXTINF:-1,Sky Cinema +24 HD
+http://78.110.160.130:8000/play/a00k
+#EXTINF:-1,Sky Select
+http://78.110.160.130:8000/play/a00z
+#EXTINF:-1,ANIXE SD
+http://78.110.160.130:8000/play/a005
+#EXTINF:-1,Sky Cinema Family
+http://78.110.160.130:8000/play/a016
+#EXTINF:-1,TLC
+http://78.110.160.130:8000/play/a006
+#EXTINF:-1,Disney Junior HD
+http://78.110.160.130:8000/play/a00l
+#EXTINF:-1,Kinowelt TV
+http://78.110.160.130:8000/play/a015
+#EXTINF:-1,Disney Cinemagic HD
+http://78.110.160.130:8000/play/a019
+#EXTINF:-1,History HD
+http://78.110.160.130:8000/play/a00a
+#EXTINF:-1,Sky Cinema Family HD
+http://78.110.160.130:8000/play/a00m
+#EXTINF:-1,Sky Krimi
+http://78.110.160.130:8000/play/a00w
+#EXTINF:-1,Discovery Channel
+http://78.110.160.130:8000/play/a012
+#EXTINF:-1,Sky Cinema +1 HD
+http://78.110.160.130:8000/play/a00j
+#EXTINF:-1,Sky Sport 2 HD
+http://78.110.160.130:8000/play/a01b
+#EXTINF:-1,Sky Cinema Action HD
+http://78.110.160.130:8000/play/a00b
+#EXTINF:-1,Sky Cinema
+http://78.110.160.130:8000/play/a00s
+#EXTINF:-1,Disney Channel
+http://78.110.160.130:8000/play/a008
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://78.110.160.130:8000/play/a00h
+#EXTINF:-1,N/A
+http://78.110.160.130:8000/play/a004
+#EXTINF:-1,Sport1+ HD
+http://78.110.160.130:8000/play/a00c
+#EXTINF:-1,RTL Passion
+http://78.110.160.130:8000/play/a014
+#EXTINF:-1,NatGeo HD
+http://78.110.160.130:8000/play/a01a
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://78.110.160.130:8000/play/a00y
+#EXTINF:-1,TNT Serie HD
+http://78.110.160.130:8000/play/a00d
+#EXTINF:-1,Sky Atlantic
+http://78.110.160.130:8000/play/a00v
+#EXTINF:-1,Sky Cinema Nostalgie
+http://78.110.160.130:8000/play/a00u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4084,9 +4195,6 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
 
-
-
-
 #EXTINF:8 group-title=”Spain3”,
 
 
@@ -4098,22 +4206,6 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Spain4”,
 
 
 
@@ -4180,6 +4272,23 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
+
+#EXTINF:-1,#0 HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/198.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/210.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/359.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/216.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/212.ts
+#EXTINF:-1,TELECINCO HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/200.ts
+#EXTINF:-1,LA SEXTA HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/218.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.52.83:8000/live/303040977B03cC/040007400Y4282/191.ts
 
 
 
@@ -10371,7 +10480,30 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,Nick Toons
+http://95.140.197.69:808/play/a001
+#EXTINF:-1,Союз
+http://95.140.197.69:800/play/a00g
+#EXTINF:-1,Домашний
+http://95.140.197.69:800/play/a006
+#EXTINF:-1,Раз ТВ
+http://95.140.197.69:800/play/a00i
+#EXTINF:-1,ТНТ-Comedy
+http://95.140.197.69:800/play/a005
+#EXTINF:-1,МУЗ
+http://95.140.197.69:800/play/a007
+#EXTINF:-1,Евроновости
+http://95.140.197.69:800/play/a009
+#EXTINF:-1,Наш Футбол
+http://95.140.197.69:800/play/a003
+#EXTINF:-1,Че
+http://95.140.197.69:800/play/a004
+#EXTINF:-1,8 Канал
+http://95.140.197.69:800/play/a00m
+#EXTINF:-1,Disney
+http://95.140.197.69:800/play/a002
+#EXTINF:-1,Ювелирочка
+http://95.140.197.69:800/play/a00h
 
 
 
