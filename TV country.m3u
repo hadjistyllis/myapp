@@ -7342,6 +7342,26 @@ http://.........
 
 #EXTINF:-1,B4U Movies
 http://my2.videodb.in:8081/HINDI/B4U_MOVIES/playlist.m3u8
+#EXTINF:-1,COLORS TV INDIA
+http://my2.videodb.in:8081/HINDI/COLORS/playlist.m3u8
+#EXTINF:-1,SONY SAB
+http://my2.videodb.in:8081/HINDI/SONY_SAB/playlist.m3u8
+#EXTINF:-1,SONY TV
+http://my2.videodb.in:8081/HINDI/SONY_TV/playlist.m3u8
+#EXTINF:-1,ZEE TV
+http://my2.videodb.in:8081/HINDI/ZEE_TV/playlist.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://my2.videodb.in:8081/HINDI/ZEE_CINEMA/playlist.m3u8
+
+#EXTINF:-1,INDIA HD MUSIC
+http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/index.m3u8
+#EXTINF:-1,HBO 
+http://indiao.freeddns.org:8080/STAR_HOT_ENGLISH/index.m3u8 
+
+#EXTINF:0,NDTV
+http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
+#EXTINF:0,Sony Max HD
+http://125.17.129.5/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
 
 #EXTINF:0,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
@@ -7371,12 +7391,14 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/inde
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
 #EXTINF:0,TVRI BANGKA BELITUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
+
+#EXTINF:-1,kompastv
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8
+
 #EXTINF:-1,Darshan Tv
 http://103.228.155.75:9981/stream/channelid/681700247
 #EXTINF:-1,INDIA VOICE
 http://103.228.155.75:9981/stream/channelid/54703366
-#EXTINF:-1,kompastv
-https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8
 #EXTINF:-1,E24
 http://103.228.155.75:9981/stream/channelid/719276604
 #EXTINF:-1,TV9 Gujarati
