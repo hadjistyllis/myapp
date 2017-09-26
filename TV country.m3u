@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,25/9/17 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/9/17 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -488,65 +488,16 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,Arena Sport 
+http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
+#EXTINF:0,Arena Sport 2 
+http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
+#EXTINF:0,Arena Sport 3 
+http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
+#EXTINF:0,Arena Sport 4 
+http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
+#EXTINF:0,Arena Sport 5 
+http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
 
 
 
@@ -734,12 +685,18 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/323.ts|us
 
 
 
-#EXTINF:8 group-title=”USA2-PREMIUM”,
+#EXTINF:8 group-title=”USA2-PREMIUM-LOOP_ONE”,
 
 #EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -757,8 +714,232 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
+#EXTINF:-1,ITV 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/76.ts
+#EXTINF:-1,ITV 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/77.ts
+#EXTINF:-1,ITV 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/78.ts
+#EXTINF:-1,ITV 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/79.ts
+#EXTINF:-1,NBC New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/442.ts
+#EXTINF:-1,MSNBC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/425.ts
+#EXTINF:-1,Lifetime HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/428.ts
+#EXTINF:-1,Gold
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/427.ts
+#EXTINF:-1,Tru TV ENG HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/445.ts
+#EXTINF:-1,FIGHT NETWORK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/433.ts
+#EXTINF:-1,CNN US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/421.ts
+#EXTINF:-1,OWN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1284.ts
+#EXTINF:-1,WE TV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2781.ts
+#EXTINF:-1,ActionMax East HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2790.ts
+#EXTINF:-1,American Heroes Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2789.ts
+#EXTINF:-1,TV Land HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2794.ts
+#EXTINF:-1,CNBC US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/424.ts
+#EXTINF:-1,CBS New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/441.ts
+#EXTINF:-1,ABC New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/440.ts
+#EXTINF:-1,FOX 11 Los Angeles US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/419.ts
+#EXTINF:-1,USA Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/101.ts
+#EXTINF:-1,Universal Channel HD USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/164.ts
+#EXTINF:-1,WGN News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/678.ts
+#EXTINF:-1,WeatherNation
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/682.ts
+#EXTINF:-1,RT International
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/688.ts
+#EXTINF:-1,RT Documentary
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/674.ts
+#EXTINF:-1,RT US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/677.ts
+#EXTINF:-1,RT UK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/684.ts
+#EXTINF:-1,Press TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/690.ts
+#EXTINF:-1,Destination America
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1117.ts
+#EXTINF:-1,France 24
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/689.ts
+#EXTINF:-1,Euronews
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/691.ts
+#EXTINF:-1,Deutsche Welle
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/694.ts
+#EXTINF:-1,CHching!
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/699.ts
+#EXTINF:-1,CBS News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/676.ts
+#EXTINF:-1,C-Span
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/679.ts
+#EXTINF:-1,C-Span  Book TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/680.ts
+#EXTINF:-1,C-Span American History TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/681.ts
+#EXTINF:-1,Bloomberg TV US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/675.ts
+#EXTINF:-1,Bloomberg TV UK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/685.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/686.ts
+#EXTINF:-1,Al Jazeera
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/692.ts
+#EXTINF:-1,TNT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/94.ts
+#EXTINF:-1,TLC HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/52.ts
+#EXTINF:-1,TBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/55.ts
+#EXTINF:-1,SYFY USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/163.ts
+#EXTINF:-1,SPIKE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/161.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/160.ts
+#EXTINF:-1,PBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/98.ts
 #EXTINF:-1,NBC Sports Networks HD
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/99.ts
+#EXTINF:-1,Lifetime HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/71.ts
+#EXTINF:-1,HBO 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/12.ts
+#EXTINF:-1,H2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/15.ts
+#EXTINF:-1,Hallmark HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1285.ts
+#EXTINF:-1,FX HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/53.ts
+#EXTINF:-1,Nick 2 HD SP
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/490.ts
+#EXTINF:-1,Disney XD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/486.ts
+#EXTINF:-1,Disney Jr
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/485.ts
+#EXTINF:-1,Disney Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/484.ts
+#EXTINF:-1,Cartoon Network
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/488.ts
+#EXTINF:-1,Boomerang ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/487.ts
+#EXTINF:-1,Nickelodeon ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/489.ts
+#EXTINF:-1,FOX NEWS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/37.ts
+#EXTINF:-1,Food Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/9.ts
+#EXTINF:-1,E! HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/57.ts
+#EXTINF:-1,DIY NETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/75.ts
+#EXTINF:-1,Disney XD ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/24.ts
+#EXTINF:-1,Disney HD USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/22.ts
+#EXTINF:-1,NAT GEO WILD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/40.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/28.ts
+#EXTINF:-1,History Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/72.ts
+#EXTINF:-1,Discovery Turbo
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/109.ts
+#EXTINF:-1,Investigation Discovery HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2.ts
+#EXTINF:-1,Discovery Velocity HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/106.ts
+#EXTINF:-1,DISCOVERY HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/38.ts
+#EXTINF:-1,ANIMAL PLANET HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/41.ts
+#EXTINF:-1,CTV Toronto
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/10.ts
+#EXTINF:-1,Comedy Central HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/89.ts
+#EXTINF:-1,Tennis Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/36.ts
+#EXTINF:-1,CNBC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/116.ts
+#EXTINF:-1,CBSN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/88.ts
+#EXTINF:-1,CBC News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/134.ts
+#EXTINF:-1,CBC HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/33.ts
+#EXTINF:-1,BRAVO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/54.ts
+#EXTINF:-1,BBC 4 HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/87.ts
+#EXTINF:-1,BBC 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/86.ts
+#EXTINF:-1,BBC 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/85.ts
+#EXTINF:-1,BBC 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/84.ts
+#EXTINF:-1,AMC USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/48.ts
+#EXTINF:-1,ABC News HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/34.ts
+#EXTINF:-1,HGTV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1.ts
+#EXTINF:-1,News Bronx
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1155.ts
+#EXTINF:-1,News Brooklyn
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1157.ts
+#EXTINF:-1,News Connecticut
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1159.ts
+#EXTINF:-1,News Hudson Valley
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1161.ts
+#EXTINF:-1,News Long Island
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1163.ts
+#EXTINF:-1,News New Jersey
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1165.ts
+#EXTINF:-1,News Westchester
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1166.ts
+#EXTINF:-1,Sky News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/157.ts
+#EXTINF:-1,Sky Crime & Thriller
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/156.ts
+#EXTINF:-1,Sky Movies Select HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/154.ts
+#EXTINF:-1,Sky Movies Scifi-Horror HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/153.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/152.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/151.ts
+#EXTINF:-1,Sky Movies Family
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/150.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/149.ts
+#EXTINF:-1,Sky Movies Disney
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/148.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/147.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/146.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/145.ts
+#EXTINF:-1,Sky Atlantic
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/144.ts
+#EXTINF:-1,SHOWTIME HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/141.ts
+#EXTINF:-1,Movies US: MOREMAX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7557.ts
 #EXTINF:-1,HBO Zone
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/455.ts
 #EXTINF:-1,HBO Signature ENG
@@ -769,8 +950,68 @@ http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/453.ts
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/448.ts
 #EXTINF:-1,HBO 2  HD
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/449.ts
+#EXTINF:-1,Starz Edge ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/473.ts
+#EXTINF:-1,Starz East HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/471.ts
+#EXTINF:-1,Starz Comedy ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/475.ts
+#EXTINF:-1,Showtime 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/462.ts
+#EXTINF:-1,Showtime Showcase
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/467.ts
+#EXTINF:-1,BIG TEN TETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/465.ts
+#EXTINF:-1,Showtime West
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/461.ts
+#EXTINF:-1,Showtime 2 ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/463.ts
+#EXTINF:-1,Lifetime Movie Network  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/482.ts
+#EXTINF:-1,ITV Encore  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/468.ts
 #EXTINF:-1,Cinemax  HD
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/456.ts
+#EXTINF:-1,Cinemax More HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/872.ts
+#EXTINF:-1,CINEMAX Action Max HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/871.ts
+#EXTINF:-1,Movies 24
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/480.ts
+#EXTINF:-1,The Movie Channel HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1245.ts
+#EXTINF:-1,Special Events 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/874.ts
+#EXTINF:-1,Special Events 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/875.ts
+#EXTINF:-1,Special Events 3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/876.ts
+#EXTINF:-1,Special Events 4
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/988.ts
+#EXTINF:-1,Special Events 5
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/989.ts
+#EXTINF:-1,Special Events 6
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/990.ts
+#EXTINF:-1,UFC NEXT FILMON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2541.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 1 HD - UFC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1220.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 2 HD - WWE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1221.ts
+#EXTINF:-1,Pac12 Arizona
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1130.ts
+#EXTINF:-1,Pac12 Bay Area
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1131.ts
+#EXTINF:-1,Pac12 Los Angeles
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1133.ts
+#EXTINF:-1,Pac12 Mountain
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1134.ts
+#EXTINF:-1,Pac12 National
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1132.ts
+#EXTINF:-1,Pac12 Oregon
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1135.ts
+#EXTINF:-1,Pac12 Washington
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1136.ts
 #EXTINF:-1,Bein Sports 1 HD
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1227.ts
 #EXTINF:-1,Bein Sports 2 HD
@@ -863,16 +1104,97 @@ http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1209.ts
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1208.ts
 #EXTINF:-1,SPORTSNET WORLD HD
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1210.ts
-#EXTINF:-1,UFC Network Spanish
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/481.ts
-#EXTINF:-1,MOVISTAR FUTBOL HD
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/924.ts
-#EXTINF:-1,CANAL DEPORTES HD
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/941.ts
-#EXTINF:-1,CANAL  DEPORTES 2 HD
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/942.ts
 
-
+#EXTINF:-1,CA : ABC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7612.ts
+#EXTINF:-1,CA : AMC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7611.ts
+#EXTINF:-1,CA : BNN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7610.ts
+#EXTINF:-1,CA : BRAVO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7609.ts
+#EXTINF:-1,CA : CBC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7608.ts
+#EXTINF:-1,CA : CBC NEWS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7607.ts
+#EXTINF:-1,CA : CBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7606.ts
+#EXTINF:-1,CA : CITY HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7605.ts
+#EXTINF:-1,CA : CNN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7604.ts
+#EXTINF:-1,CA : CP 24 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7603.ts
+#EXTINF:-1,CA : CREATE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7602.ts
+#EXTINF:-1,CA : CTV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7601.ts
+#EXTINF:-1,CA : CW HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7600.ts
+#EXTINF:-1,CA : DISNEY JR HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7599.ts
+#EXTINF:-1,CA : DIY NETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7598.ts
+#EXTINF:-1,CA : E! HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7597.ts
+#EXTINF:-1,CA : Food Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7596.ts
+#EXTINF:-1,CA : FOX HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7595.ts
+#EXTINF:-1,CA : FX HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7594.ts
+#EXTINF:-1,CA : FXX HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7593.ts
+#EXTINF:-1,CA : GLOBAL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7592.ts
+#EXTINF:-1,CA : GSN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7591.ts
+#EXTINF:-1,CA : HBO 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7590.ts
+#EXTINF:-1,CA : HBO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7589.ts
+#EXTINF:-1,CA : HGTV HD*
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7588.ts
+#EXTINF:-1,CA : HISTORY HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7587.ts
+#EXTINF:-1,CA : HLN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7586.ts
+#EXTINF:-1,CA : Lifetime HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7585.ts
+#EXTINF:-1,CA : ME TV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7584.ts
+#EXTINF:-1,CA : MOVIES HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7583.ts
+#EXTINF:-1,CA : MSNBC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7582.ts
+#EXTINF:-1,CA : NAT GEO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7581.ts
+#EXTINF:-1,CA : NAT GEO WILD HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7580.ts
+#EXTINF:-1,CA : NBC FHD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7579.ts
+#EXTINF:-1,CA : OutDoor Living Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7613.ts
+#EXTINF:-1,CA : OWN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7578.ts
+#EXTINF:-1,CA : PBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7576.ts
+#EXTINF:-1,CA : PEACH TREE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7574.ts
+#EXTINF:-1,CA : SHOWCASE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7573.ts
+#EXTINF:-1,CA : SLICE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7572.ts
+#EXTINF:-1,CA : SN ONE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7571.ts
+#EXTINF:-1,CA : SPACE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7570.ts
+#EXTINF:-1,CA : THE WEATHER CHANNEL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7614.ts
+#EXTINF:-1,CA : TLC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7569.ts
+#EXTINF:-1,CA : WORLD HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7568.ts
 
 
 
@@ -1079,70 +1401,35 @@ http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0, BT Sport 1
+http://185.53.163.205:2700
+#EXTINF:0, BT Sport 2
+http://185.53.163.205:2506
+#EXTINF:0, BT Sport 3
+http://185.53.163.205:2701
+#EXTINF:0, BT Sport ESPN
+http://185.53.163.205:2507
+#EXTINF:0, BT Sport Extra 1
+http://185.53.163.205:2707
+#EXTINF:0, BT Sport Extra 2
+http://185.53.163.205:2500
+#EXTINF:0, BT Sport Extra 3
+http://185.53.163.205:2501
+#EXTINF:0, BT Sport Extra 4
+http://185.53.163.205:2502
+#EXTINF:0, BT Sport Extra 5
+http://185.53.163.205:2503
+#EXTINF:0, BT Sport Extra 6
+http://185.53.163.205:2504
+
+#EXTINF:0,Sky Sport 1 
+http://smarttv.tvviet.tv/live22/skysport1.m3u8 
+#EXTINF:0,Sky Sport 2 
+http://smarttv.tvviet.tv/live22/skysport2.m3u8 
+#EXTINF:0,Eurosport 
+http://smarttv.tvviet.tv/live22/Eurosport.m3u8 
+#EXTINF:0,Eurosport 2 
+http://smarttv.tvviet.tv/live52/Eurosport2.m3u8 
 
 
 
@@ -1306,6 +1593,557 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/321.ts|us
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/322.ts|user-agent=wSsS
 #EXTINF:-1,Arena Sports 4
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/323.ts|user-agent=wSsS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”UK2-PREMIUM”,
+
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,EIR SPORT 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/198.ts
+#EXTINF:-1,EIR SPORT 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/197.ts
+#EXTINF:-1,SKY-Sport-1-HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/196.ts
+#EXTINF:-1,SKY-Sport-2-HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/195.ts
+#EXTINF:-1,SKY-Sport-3-HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/194.ts
+#EXTINF:-1,SKY-Sport-4-HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/193.ts
+#EXTINF:-1,SKY-Sport-5-HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/192.ts
+#EXTINF:-1,Sky 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/191.ts
+#EXTINF:-1,Sky 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/190.ts
+#EXTINF:-1,Sky Atlantic
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/189.ts
+#EXTINF:-1,Sky Living
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/188.ts
+#EXTINF:-1,Sky Movies Action
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/187.ts
+#EXTINF:-1,Sky Movies Drama
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/186.ts
+#EXTINF:-1,Sky Movies Family
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/185.ts
+#EXTINF:-1,Sky Movies Greats
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/184.ts
+#EXTINF:-1,Sky Movies Premiere
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/183.ts
+#EXTINF:-1,Sky Movies ScFi-Horror
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/182.ts
+#EXTINF:-1,Sky Movies Select
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/181.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”UK3-PREMIUM-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
+
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+
+#EXTINF:-1,ITV 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/76.ts
+#EXTINF:-1,ITV 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/77.ts
+#EXTINF:-1,ITV 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/78.ts
+#EXTINF:-1,ITV 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/79.ts
+#EXTINF:-1,NBC New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/442.ts
+#EXTINF:-1,MSNBC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/425.ts
+#EXTINF:-1,Lifetime HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/428.ts
+#EXTINF:-1,Gold
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/427.ts
+#EXTINF:-1,Tru TV ENG HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/445.ts
+#EXTINF:-1,FIGHT NETWORK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/433.ts
+#EXTINF:-1,CNN US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/421.ts
+#EXTINF:-1,OWN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1284.ts
+#EXTINF:-1,WE TV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2781.ts
+#EXTINF:-1,ActionMax East HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2790.ts
+#EXTINF:-1,American Heroes Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2789.ts
+#EXTINF:-1,TV Land HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2794.ts
+#EXTINF:-1,CNBC US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/424.ts
+#EXTINF:-1,CBS New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/441.ts
+#EXTINF:-1,ABC New-York
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/440.ts
+#EXTINF:-1,FOX 11 Los Angeles US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/419.ts
+#EXTINF:-1,USA Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/101.ts
+#EXTINF:-1,Universal Channel HD USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/164.ts
+#EXTINF:-1,WGN News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/678.ts
+#EXTINF:-1,WeatherNation
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/682.ts
+#EXTINF:-1,RT International
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/688.ts
+#EXTINF:-1,RT Documentary
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/674.ts
+#EXTINF:-1,RT US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/677.ts
+#EXTINF:-1,RT UK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/684.ts
+#EXTINF:-1,Press TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/690.ts
+#EXTINF:-1,Destination America
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1117.ts
+#EXTINF:-1,France 24
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/689.ts
+#EXTINF:-1,Euronews
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/691.ts
+#EXTINF:-1,Deutsche Welle
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/694.ts
+#EXTINF:-1,CHching!
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/699.ts
+#EXTINF:-1,CBS News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/676.ts
+#EXTINF:-1,C-Span
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/679.ts
+#EXTINF:-1,C-Span  Book TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/680.ts
+#EXTINF:-1,C-Span American History TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/681.ts
+#EXTINF:-1,Bloomberg TV US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/675.ts
+#EXTINF:-1,Bloomberg TV UK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/685.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/686.ts
+#EXTINF:-1,Al Jazeera
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/692.ts
+#EXTINF:-1,TNT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/94.ts
+#EXTINF:-1,TLC HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/52.ts
+#EXTINF:-1,TBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/55.ts
+#EXTINF:-1,SYFY USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/163.ts
+#EXTINF:-1,SPIKE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/161.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/160.ts
+#EXTINF:-1,PBS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/98.ts
+#EXTINF:-1,NBC Sports Networks HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/99.ts
+#EXTINF:-1,Lifetime HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/71.ts
+#EXTINF:-1,HBO 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/12.ts
+#EXTINF:-1,H2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/15.ts
+#EXTINF:-1,Hallmark HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1285.ts
+#EXTINF:-1,FX HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/53.ts
+#EXTINF:-1,Nick 2 HD SP
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/490.ts
+#EXTINF:-1,Disney XD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/486.ts
+#EXTINF:-1,Disney Jr
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/485.ts
+#EXTINF:-1,Disney Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/484.ts
+#EXTINF:-1,Cartoon Network
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/488.ts
+#EXTINF:-1,Boomerang ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/487.ts
+#EXTINF:-1,Nickelodeon ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/489.ts
+#EXTINF:-1,FOX NEWS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/37.ts
+#EXTINF:-1,Food Network HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/9.ts
+#EXTINF:-1,E! HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/57.ts
+#EXTINF:-1,DIY NETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/75.ts
+#EXTINF:-1,Disney XD ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/24.ts
+#EXTINF:-1,Disney HD USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/22.ts
+#EXTINF:-1,NAT GEO WILD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/40.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/28.ts
+#EXTINF:-1,History Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/72.ts
+#EXTINF:-1,Discovery Turbo
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/109.ts
+#EXTINF:-1,Investigation Discovery HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2.ts
+#EXTINF:-1,Discovery Velocity HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/106.ts
+#EXTINF:-1,DISCOVERY HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/38.ts
+#EXTINF:-1,ANIMAL PLANET HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/41.ts
+#EXTINF:-1,CTV Toronto
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/10.ts
+#EXTINF:-1,Comedy Central HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/89.ts
+#EXTINF:-1,Tennis Channel
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/36.ts
+#EXTINF:-1,CNBC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/116.ts
+#EXTINF:-1,CBSN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/88.ts
+#EXTINF:-1,CBC News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/134.ts
+#EXTINF:-1,CBC HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/33.ts
+#EXTINF:-1,BRAVO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/54.ts
+#EXTINF:-1,BBC 4 HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/87.ts
+#EXTINF:-1,BBC 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/86.ts
+#EXTINF:-1,BBC 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/85.ts
+#EXTINF:-1,BBC 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/84.ts
+#EXTINF:-1,AMC USA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/48.ts
+#EXTINF:-1,ABC News HD.
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/34.ts
+#EXTINF:-1,HGTV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1.ts
+#EXTINF:-1,News Bronx
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1155.ts
+#EXTINF:-1,News Brooklyn
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1157.ts
+#EXTINF:-1,News Connecticut
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1159.ts
+#EXTINF:-1,News Hudson Valley
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1161.ts
+#EXTINF:-1,News Long Island
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1163.ts
+#EXTINF:-1,News New Jersey
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1165.ts
+#EXTINF:-1,News Westchester
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1166.ts
+#EXTINF:-1,Sky News
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/157.ts
+#EXTINF:-1,Sky Crime & Thriller
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/156.ts
+#EXTINF:-1,Sky Movies Select HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/154.ts
+#EXTINF:-1,Sky Movies Scifi-Horror HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/153.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/152.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/151.ts
+#EXTINF:-1,Sky Movies Family
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/150.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/149.ts
+#EXTINF:-1,Sky Movies Disney
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/148.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/147.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/146.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/145.ts
+#EXTINF:-1,Sky Atlantic
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/144.ts
+#EXTINF:-1,SHOWTIME HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/141.ts
+#EXTINF:-1,Movies US: MOREMAX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/7557.ts
+#EXTINF:-1,HBO Zone
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/455.ts
+#EXTINF:-1,HBO Signature ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/450.ts
+#EXTINF:-1,HBO Family ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/453.ts
+#EXTINF:-1,HBO  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/448.ts
+#EXTINF:-1,HBO 2  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/449.ts
+#EXTINF:-1,Starz Edge ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/473.ts
+#EXTINF:-1,Starz East HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/471.ts
+#EXTINF:-1,Starz Comedy ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/475.ts
+#EXTINF:-1,Showtime 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/462.ts
+#EXTINF:-1,Showtime Showcase
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/467.ts
+#EXTINF:-1,BIG TEN TETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/465.ts
+#EXTINF:-1,Showtime West
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/461.ts
+#EXTINF:-1,Showtime 2 ENG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/463.ts
+#EXTINF:-1,Lifetime Movie Network  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/482.ts
+#EXTINF:-1,ITV Encore  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/468.ts
+#EXTINF:-1,Cinemax  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/456.ts
+#EXTINF:-1,Cinemax More HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/872.ts
+#EXTINF:-1,CINEMAX Action Max HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/871.ts
+#EXTINF:-1,Movies 24
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/480.ts
+#EXTINF:-1,The Movie Channel HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1245.ts
+#EXTINF:-1,Special Events 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/874.ts
+#EXTINF:-1,Special Events 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/875.ts
+#EXTINF:-1,Special Events 3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/876.ts
+#EXTINF:-1,Special Events 4
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/988.ts
+#EXTINF:-1,Special Events 5
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/989.ts
+#EXTINF:-1,Special Events 6
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/990.ts
+#EXTINF:-1,UFC NEXT FILMON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2541.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 1 HD - UFC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1220.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 2 HD - WWE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1221.ts
+#EXTINF:-1,Pac12 Arizona
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1130.ts
+#EXTINF:-1,Pac12 Bay Area
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1131.ts
+#EXTINF:-1,Pac12 Los Angeles
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1133.ts
+#EXTINF:-1,Pac12 Mountain
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1134.ts
+#EXTINF:-1,Pac12 National
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1132.ts
+#EXTINF:-1,Pac12 Oregon
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1135.ts
+#EXTINF:-1,Pac12 Washington
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1136.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1227.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1228.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1229.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1230.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1231.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1232.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1233.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1234.ts
+#EXTINF:-1,Bein Sports 9 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1235.ts
+#EXTINF:-1,Bein Sports 10 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1236.ts
+#EXTINF:-1,BOXNation HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1170.ts
+#EXTINF:-1,WWE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/26.ts
+#EXTINF:-1,NBA TV HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/275.ts
+#EXTINF:-1,FOX Sports *
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/435.ts
+#EXTINF:-1,Fox Sports 3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/437.ts
+#EXTINF:-1,MLB Live HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/436.ts
+#EXTINF:-1,Fox Sports 1 US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/273.ts
+#EXTINF:-1,Fox Sports 2 HD US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/274.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1122.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/310.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/309.ts
+#EXTINF:-1,A&E USA HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/58.ts
+#EXTINF:-1,ESPN US
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1121.ts
+#EXTINF:-1,ESPN 2 US HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/270.ts
+#EXTINF:-1,BEIN SPORTS US HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/289.ts
+#EXTINF:-1,NFL NETWORK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/277.ts
+#EXTINF:-1,MLB NETWORK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/276.ts
+#EXTINF:-1,TSN 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/278.ts
+#EXTINF:-1,TSN 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/279.ts
+#EXTINF:-1,TSN 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/280.ts
+#EXTINF:-1,TSN 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/281.ts
+#EXTINF:-1,TSN 5 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/282.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/292.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/293.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/294.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/295.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/296.ts
+#EXTINF:-1,CBS Sports Network
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/333.ts
+#EXTINF:-1,NHL NETWORK HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/336.ts
+#EXTINF:-1,SPORTSNET Pacific HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/68.ts
+#EXTINF:-1,Sportsnet Ontario HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/284.ts
+#EXTINF:-1,Sportsnet 360 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/283.ts
+#EXTINF:-1,SPORTSNET EAST HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1207.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1209.ts
+#EXTINF:-1,SPORTSNET WEST HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1208.ts
+#EXTINF:-1,SPORTSNET WORLD HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/1210.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2032,6 +2870,93 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 
 
+#EXTINF:8 group-title=”Italy2”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,Eurosport 2
+http://31.44.38.74:4022/udp/232.12.13.2:1234
+#EXTINF:-1,Eurosport 1
+http://31.44.38.74:4022/udp/232.12.13.1:1234
+#EXTINF:-1,Premium Sport 2 HD
+http://31.44.38.74:4022/udp/232.12.13.3:1234
+#EXTINF:-1,Premium Comedy
+http://31.44.38.74:4022/udp/232.12.13.5:1234
+#EXTINF:-1,Premium
+http://31.44.38.74:4022/udp/232.12.13.4:1234
+#EXTINF:-1,Premium Calcio 1
+http://31.44.38.74:4022/udp/232.12.13.6:1234
+#EXTINF:-1,Premium Calcio 2
+http://31.44.38.74:4022/udp/232.12.13.7:1234
+#EXTINF:-1,Premium Calcio 4
+http://31.44.38.74:4022/udp/232.12.13.9:1234
+#EXTINF:-1,Premium Calcio 3
+http://31.44.38.74:4022/udp/232.12.13.8:1234
+#EXTINF:-1,Premium Calcio 5
+http://31.44.38.74:4022/udp/232.12.13.10:1234
+#EXTINF:-1,Premium Calcio 6
+http://31.44.38.74:4022/udp/232.12.13.11:1234
+#EXTINF:-1,Premium Sport
+http://31.44.38.74:4022/udp/232.12.13.13:1234
+#EXTINF:-1,Premium Cinema 2 +24
+http://31.44.38.74:4022/udp/232.12.13.14:1234
+#EXTINF:-1,Premium Action +24
+http://31.44.38.74:4022/udp/232.12.13.15:1234
+#EXTINF:-1,Cartoon Network – Premium
+http://31.44.38.74:4022/udp/232.12.13.17:1234
+#EXTINF:-1,Premium Sport 2
+http://31.44.38.74:4022/udp/232.12.13.19:1234
+#EXTINF:-1,Premium Joi
+http://31.44.38.74:4022/udp/232.12.13.20:1234
+#EXTINF:-1,Premium Stories
+http://31.44.38.74:4022/udp/232.12.13.21:1234
+#EXTINF:-1,Studio Universal – Premium
+http://31.44.38.74:4022/udp/232.12.13.22:1234
+#EXTINF:-1,Premium Cinema +24
+http://31.44.38.74:4022/udp/232.12.13.23:1234
+#EXTINF:-1,Premium Crime +24
+http://31.44.38.74:4022/udp/232.12.13.24:1234
+#EXTINF:-1,Premium Joi +24
+http://31.44.38.74:4022/udp/232.12.13.25:1234
+#EXTINF:-1,Premium Emotion
+http://31.44.38.74:4022/udp/232.12.13.26:1234
+#EXTINF:-1,Investigation Discovery -Premium
+http://31.44.38.74:4022/udp/232.12.13.28:1234
+#EXTINF:-1,Premium Cinema HD
+http://31.44.38.74:4022/udp/232.12.13.29:1234
+#EXTINF:-1,Premium Cinema 2 HD
+http://31.44.38.74:4022/udp/232.12.13.30:1234
+#EXTINF:-1,Premium Energy HD
+http://31.44.38.74:4022/udp/232.12.13.31:1234
+#EXTINF:-1,Sportitalia
+http://31.44.38.74:4022/udp/232.12.13.32:1234
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2078,75 +3003,34 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/790.ts|user-agent=ksa
-#EXTINF:-1,BOING
-http://173.212.206.199:25461/live/ksa/indep/863.ts|user-agent=ksa
-#EXTINF:-1,CANALE 5
-http://173.212.206.199:25461/live/ksa/indep/793.ts|user-agent=ksa
-#EXTINF:-1,CARTOON NETWORK
-http://173.212.206.199:25461/live/ksa/indep/806.ts|user-agent=ksa
-#EXTINF:-1,DISNEY JR
-http://173.212.206.199:25461/live/ksa/indep/815.ts|user-agent=ksa
-#EXTINF:-1,LA5
-http://173.212.206.199:25461/live/ksa/indep/820.ts|user-agent=ksa
-#EXTINF:-1,LA7
-http://173.212.206.199:25461/live/ksa/indep/821.ts|user-agent=ksa
-#EXTINF:-1,MEDIASAT EXTRA
-http://173.212.206.199:25461/live/ksa/indep/822.ts|user-agent=ksa
-#EXTINF:-1,NICKELODEON
-http://173.212.206.199:25461/live/ksa/indep/826.ts|user-agent=ksa
-#EXTINF:-1,PREMIUM ACTION 24
-http://173.212.206.199:25461/live/ksa/indep/833.ts|user-agent=ksa
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://173.212.206.199:25461/live/ksa/indep/834.ts|user-agent=ksa
-#EXTINF:-1,PREMIUM EMOTION
-http://173.212.206.199:25461/live/ksa/indep/835.ts|user-agent=ksa
-#EXTINF:-1,PREMIUM JOI
-http://173.212.206.199:25461/live/ksa/indep/836.ts|user-agent=ksa
-#EXTINF:-1,RAI 1
-http://173.212.206.199:25461/live/ksa/indep/838.ts|user-agent=ksa
-#EXTINF:-1,RAI 2
-http://173.212.206.199:25461/live/ksa/indep/839.ts|user-agent=ksa
-#EXTINF:-1,RAI 4
-http://173.212.206.199:25461/live/ksa/indep/840.ts|user-agent=ksa
-#EXTINF:-1,RAI 5
-http://173.212.206.199:25461/live/ksa/indep/841.ts|user-agent=ksa
-#EXTINF:-1,RAI GULP
-http://173.212.206.199:25461/live/ksa/indep/842.ts|user-agent=ksa
-#EXTINF:-1,RAI MOVIE
-http://173.212.206.199:25461/live/ksa/indep/843.ts|user-agent=ksa
-#EXTINF:-1,RAI NEWS 24
-http://173.212.206.199:25461/live/ksa/indep/844.ts|user-agent=ksa
-#EXTINF:-1,RAI PREMIUM
-http://173.212.206.199:25461/live/ksa/indep/845.ts|user-agent=ksa
-#EXTINF:-1,RAI SCUOLA
-http://173.212.206.199:25461/live/ksa/indep/846.ts|user-agent=ksa
-#EXTINF:-1,RAI STORIA
-http://173.212.206.199:25461/live/ksa/indep/847.ts|user-agent=ksa
-#EXTINF:-1,RAI YOYO
-http://173.212.206.199:25461/live/ksa/indep/848.ts|user-agent=ksa
-#EXTINF:-1,RETE 4
-http://173.212.206.199:25461/live/ksa/indep/849.ts|user-agent=ksa
-#EXTINF:-1,RSI LA1 HD
-http://173.212.206.199:25461/live/ksa/indep/850.ts|user-agent=ksa
-#EXTINF:-1,RSI LA2 HD 
-http://173.212.206.199:25461/live/ksa/indep/851.ts|user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC 1HD
-http://173.212.206.199:25461/live/ksa/indep/855.ts|user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC HD
-http://173.212.206.199:25461/live/ksa/indep/854.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA 1 HD
-http://173.212.206.199:25461/live/ksa/indep/858.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA CLASSIC HD
-http://173.212.206.199:25461/live/ksa/indep/859.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://173.212.206.199:25461/live/ksa/indep/860.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA MAX HD
-http://173.212.206.199:25461/live/ksa/indep/861.ts|user-agent=ksa
-#EXTINF:-1,STUDIO UNIVERSAL
-http://173.212.206.199:25461/live/ksa/indep/837.ts|user-agent=ksa
+#EXTINF:-1,Premium-Action
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/179.ts
+#EXTINF:-1,Premium-Action 24
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/178.ts
+#EXTINF:-1,Premium-Cinema
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/177.ts
+#EXTINF:-1,Premium-Cinema 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/176.ts
+#EXTINF:-1,Premium-Cinema 24
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/175.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/174.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/173.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/172.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/171.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/170.ts
+#EXTINF:-1,Sky Sport 24
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/169.ts
+#EXTINF:-1,Sky Sports 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/168.ts
+#EXTINF:-1,Sky Sports 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/167.ts
+#EXTINF:-1,Sky Sports 3
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/166.ts
 
 
 
@@ -2616,16 +3500,18 @@ rtmp://178.132.6.125/static/fro
 
 
 
-#EXTINF:8 group-title=”France1-PREMIUM_MXPLAYER”,
+#EXTINF:8 group-title=”France1-PREMIUM-LOOP_ONE”,
 
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
 http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2643,66 +3529,334 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,ANIMUX
-http://173.212.206.199:25461/live/ksa/indep/789.ts|user-agent=ksa
-#EXTINF:-1,CANAL CINEMA
-http://173.212.206.199:25461/live/ksa/indep/791.ts|user-agent=ksa
-#EXTINF:-1,CANAL DECALE
-http://173.212.206.199:25461/live/ksa/indep/792.ts|user-agent=ksa
-#EXTINF:-1,CANAL FAMILY
-http://173.212.206.199:25461/live/ksa/indep/794.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV 1 /
-http://173.212.206.199:25461/live/ksa/indep/796.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV 2
-http://173.212.206.199:25461/live/ksa/indep/797.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV3 /
-http://173.212.206.199:25461/live/ksa/indep/799.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV4 /
-http://173.212.206.199:25461/live/ksa/indep/800.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV5 /
-http://173.212.206.199:25461/live/ksa/indep/801.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV6 /
-http://173.212.206.199:25461/live/ksa/indep/802.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV7 /
-http://173.212.206.199:25461/live/ksa/indep/803.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV8 /
-http://173.212.206.199:25461/live/ksa/indep/804.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV9 /
-http://173.212.206.199:25461/live/ksa/indep/805.ts|user-agent=ksa
-#EXTINF:-1,CANAL PPV10 /
-http://173.212.206.199:25461/live/ksa/indep/798.ts|user-agent=ksa
-#EXTINF:-1,CANAL SERIES
-http://173.212.206.199:25461/live/ksa/indep/795.ts|user-agent=ksa
-#EXTINF:-1,CHASSE E PECHE
-http://173.212.206.199:25461/live/ksa/indep/807.ts|user-agent=ksa
-#EXTINF:-1,CINE CLASSIC
-http://173.212.206.199:25461/live/ksa/indep/809.ts|user-agent=ksa
-#EXTINF:-1,CINE FAMIZ
-http://173.212.206.199:25461/live/ksa/indep/810.ts|user-agent=ksa
+#EXTINF:-1,ADO FM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3540.ts
+#EXTINF:-1,CHANTE FRANCE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3544.ts
+#EXTINF:-1,CHERIE FM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3551.ts
+#EXTINF:-1,FRANCE CULTURE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3550.ts
+#EXTINF:-1,FRANCE INFO RADIO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3549.ts
+#EXTINF:-1,FRANCE INTER
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3548.ts
+#EXTINF:-1,FRANCE MUSIQUE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3547.ts
+#EXTINF:-1,FUN RADIO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3541.ts
+#EXTINF:-1,M2 CLASSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3543.ts
+#EXTINF:-1,M2 LOVE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3542.ts
+#EXTINF:-1,Nostalgie France
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3552.ts
+#EXTINF:-1,NRJ France
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3553.ts
+#EXTINF:-1,RADIO SHALOM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3545.ts
+#EXTINF:-1,RCJ
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3539.ts
+#EXTINF:-1,Rire & Chansons
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3554.ts
+#EXTINF:-1,RTL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3546.ts
+#EXTINF:-1, TV5 MONDE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3709.ts
+#EXTINF:-1,13EME RUE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3708.ts
+#EXTINF:-1,6TER
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3707.ts
+#EXTINF:-1,AB1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3706.ts
+#EXTINF:-1,AB3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3705.ts
+#EXTINF:-1,ANIMAUX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3704.ts
+#EXTINF:-1,ARTE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3703.ts
+#EXTINF:-1,BEIN MAX 10
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3702.ts
+#EXTINF:-1,BEIN MAX 4
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3701.ts
+#EXTINF:-1,BEIN MAX 5
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3700.ts
+#EXTINF:-1,BEIN MAX 6
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3699.ts
+#EXTINF:-1,BEIN MAX 7
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3698.ts
+#EXTINF:-1,BEIN MAX 8
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3697.ts
+#EXTINF:-1,BEIN MAX 9
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3696.ts
+#EXTINF:-1,BEIN SPORT 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3695.ts
+#EXTINF:-1,BEIN SPORT 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3694.ts
+#EXTINF:-1,BEIN SPORT 3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3693.ts
+#EXTINF:-1,BFM SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3692.ts
+#EXTINF:-1,BFM TV BUSINESS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3691.ts
+#EXTINF:-1,BFMTV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3690.ts
+#EXTINF:-1,BOING
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3689.ts
+#EXTINF:-1,BOOMERANG
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3688.ts
+#EXTINF:-1,C8 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3687.ts
+#EXTINF:-1,CANAL  CINEMA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3684.ts
+#EXTINF:-1,CANAL  DECALE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3683.ts
+#EXTINF:-1,CANAL  FAMILY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3682.ts
+#EXTINF:-1,CANAL  HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3681.ts
+#EXTINF:-1,CANAL  SD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3680.ts
+#EXTINF:-1,CANAL  SERIE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3679.ts
+#EXTINF:-1,CANAL  SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3678.ts
+#EXTINF:-1,CANAL J
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3686.ts
+#EXTINF:-1,CANAL SAVOIR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3685.ts
+#EXTINF:-1,CARTOON NETWORK
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3677.ts
+#EXTINF:-1,CHASSE ET PECHE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3676.ts
+#EXTINF:-1,CHERIE 25
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3675.ts
+#EXTINF:-1,CINE  CLASSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3671.ts
+#EXTINF:-1,CINE  CLUB
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3670.ts
+#EXTINF:-1,CINE  EMOTION
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3669.ts
+#EXTINF:-1,CINE  FAMIZ
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3668.ts
+#EXTINF:-1,CINE  FRISSON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3667.ts
+#EXTINF:-1,CINE  PREMIER
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3666.ts
+#EXTINF:-1,CINE ACTION
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3674.ts
 #EXTINF:-1,CINE FX
-http://173.212.206.199:25461/live/ksa/indep/812.ts|user-agent=ksa
-#EXTINF:-1,DISCOVERY SCIENCE
-http://173.212.206.199:25461/live/ksa/indep/814.ts|user-agent=ksa
-#EXTINF:-1,DISCOVERY
-http://173.212.206.199:25461/live/ksa/indep/813.ts|user-agent=ksa
-#EXTINF:-1,FRANCE 2
-http://173.212.206.199:25461/live/ksa/indep/817.ts|user-agent=ksa
-#EXTINF:-1,FRANCE 3
-http://173.212.206.199:25461/live/ksa/indep/818.ts|user-agent=ksa
-#EXTINF:-1,FRANCE 5
-http://173.212.206.199:25461/live/ksa/indep/819.ts|user-agent=ksa
-#EXTINF:-1,NAT GEO CHANNEL
-http://173.212.206.199:25461/live/ksa/indep/824.ts|user-agent=ksa
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3673.ts
+#EXTINF:-1,CINE POLAR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3672.ts
+#EXTINF:-1,CLASSICA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3665.ts
+#EXTINF:-1,CLUB RTL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3664.ts
+#EXTINF:-1,CNEWS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3663.ts
+#EXTINF:-1,COMEDIE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3662.ts
+#EXTINF:-1,CSTAR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3661.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3660.ts
+#EXTINF:-1,DISCOVERY SC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3659.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3658.ts
+#EXTINF:-1,DISNEY CINEMA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3657.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3656.ts
+#EXTINF:-1,DISNEY XD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3655.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3654.ts
+#EXTINF:-1,ELLE GIRL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3653.ts
+#EXTINF:-1,EQUIDIA LIFE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3652.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3651.ts
+#EXTINF:-1,EURONEWS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3650.ts
+#EXTINF:-1,EUROSPORT 1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3649.ts
+#EXTINF:-1,EUROSPORT 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3648.ts
+#EXTINF:-1,FOOT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3647.ts
+#EXTINF:-1,FRANCE 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3646.ts
+#EXTINF:-1,FRANCE 24
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3645.ts
+#EXTINF:-1,FRANCE 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3644.ts
+#EXTINF:-1,FRANCE 4 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3643.ts
+#EXTINF:-1,FRANCE 5 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3642.ts
+#EXTINF:-1,FRANCE INFO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3641.ts
+#EXTINF:-1,FRANCE O
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3640.ts
+#EXTINF:-1,GOLF
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3638.ts
+#EXTINF:-1,GOLF CHANNEL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3639.ts
+#EXTINF:-1,GULLI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3637.ts
+#EXTINF:-1,HD1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3636.ts
+#EXTINF:-1,HISTOIRE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3635.ts
+#EXTINF:-1,I24 NEWS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3634.ts
+#EXTINF:-1,INFOSPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3633.ts
+#EXTINF:-1,L'EQUIPE 21
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3632.ts
+#EXTINF:-1,LA DEUX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3631.ts
+#EXTINF:-1,LA TROIS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3630.ts
+#EXTINF:-1,LA UNE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3629.ts
+#EXTINF:-1,LATELE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3628.ts
+#EXTINF:-1,LCI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3627.ts
+#EXTINF:-1,LCP
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3626.ts
+#EXTINF:-1,Lucky Jack TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3625.ts
+#EXTINF:-1,M6 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3624.ts
+#EXTINF:-1,M6 MUSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3623.ts
+#EXTINF:-1,MANGAS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3622.ts
+#EXTINF:-1,MCM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3621.ts
+#EXTINF:-1,MCM TOP
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3620.ts
+#EXTINF:-1,MEZZO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3619.ts
+#EXTINF:-1,MEZZO LIVE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3618.ts
+#EXTINF:-1,MOVISTAR GOLF
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3617.ts
+#EXTINF:-1,MTV FR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3616.ts
 #EXTINF:-1,NAT GEO WILD
-http://173.212.206.199:25461/live/ksa/indep/825.ts|user-agent=ksa
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3615.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3614.ts
+#EXTINF:-1,NICKELODEON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3613.ts
+#EXTINF:-1,NICKELODEON JR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3612.ts
+#EXTINF:-1,NOTELE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3611.ts
 #EXTINF:-1,NRJ12
-http://173.212.206.199:25461/live/ksa/indep/827.ts|user-agent=ksa
-#EXTINF:-1,PLANETE PLUS CI
-http://173.212.206.199:25461/live/ksa/indep/832.ts|user-agent=ksa
-#EXTINF:-1,PLANETE PLUS
-http://173.212.206.199:25461/live/ksa/indep/831.ts|user-agent=ksa
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3610.ts
+#EXTINF:-1,NRJ12 MUSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3609.ts
+#EXTINF:-1,NT1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3608.ts
+#EXTINF:-1,NUMERO 23
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3607.ts
+#EXTINF:-1,OCS CHOC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3606.ts
+#EXTINF:-1,OCS CITY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3605.ts
+#EXTINF:-1,OCS GEANTS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3604.ts
+#EXTINF:-1,OCS MAX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3603.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3602.ts
+#EXTINF:-1,PARIS PREMIERE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3601.ts
+#EXTINF:-1,PIWI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3600.ts
+#EXTINF:-1,PLANETE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3597.ts
+#EXTINF:-1,PLANETE A&E
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3599.ts
+#EXTINF:-1,PLANETE C.I
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3598.ts
+#EXTINF:-1,PLUG RTL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3596.ts
+#EXTINF:-1,RADIO MONTE-CARLO TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3595.ts
+#EXTINF:-1,RMC DECOUVERT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3594.ts
+#EXTINF:-1,RTL-TVI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3593.ts
+#EXTINF:-1,RTL9 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3592.ts
+#EXTINF:-1,RTS DEUX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3591.ts
+#EXTINF:-1,RTS UN
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3590.ts
+#EXTINF:-1,SCIENCE ET VIE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3589.ts
+#EXTINF:-1,SEASON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3588.ts
+#EXTINF:-1,SERIE CLUB
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3587.ts
+#EXTINF:-1,SFR1 SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3586.ts
+#EXTINF:-1,SFR2 SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3585.ts
+#EXTINF:-1,SFR3 SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3584.ts
+#EXTINF:-1,SFR5 SPORT
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3583.ts
+#EXTINF:-1,SKY SPORT 4
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3582.ts
+#EXTINF:-1,SYFY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3581.ts
+#EXTINF:-1,TCM CLASSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3580.ts
+#EXTINF:-1,TELE SAMBRE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3579.ts
+#EXTINF:-1,TELE VESDRE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3578.ts
+#EXTINF:-1,TELETOON
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3577.ts
+#EXTINF:-1,TEVA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3576.ts
+#EXTINF:-1,TF1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3575.ts
+#EXTINF:-1,TIJI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3574.ts
+#EXTINF:-1,TMC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3573.ts
+#EXTINF:-1,TOUTE L`HISTOIRE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3572.ts
+#EXTINF:-1,TV BREIZH
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3571.ts
+#EXTINF:-1,TV LUX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3570.ts
+#EXTINF:-1,TVM3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3569.ts
+#EXTINF:-1,USHUAIA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3568.ts
+#EXTINF:-1,VIVOLTA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3567.ts
+#EXTINF:-1,VOYAGE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3566.ts
 #EXTINF:-1,W9 HD
-http://173.212.206.199:25461/live/ksa/indep/862.ts|user-agent=ksa
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3565.ts
+#EXTINF:-1,WEO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3564.ts
+#EXTINF:-1,ZIGGO GOLF
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3563.ts
+#EXTINF:-1,ZOUZOUS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3562.ts
 
 
 
@@ -3464,96 +4618,6 @@ http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
 
 #EXTINF:7 group-title=”Germany2”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-
-#EXTINF:-1,SIXX
-http://78.110.160.130:8000/play/a007
-#EXTINF:-1,Sparhandy TV
-http://78.110.160.130:8000/play/a003
-#EXTINF:-1,Sky Sport 1
-http://78.110.160.130:8000/play/a00x
-#EXTINF:-1,Sky Cinema Emotion
-http://78.110.160.130:8000/play/a00t
-#EXTINF:-1,Sky Atlantic HD
-http://78.110.160.130:8000/play/a018
-#EXTINF:-1,Eurosport 1 HD
-http://78.110.160.130:8000/play/a00e
-#EXTINF:-1,RTL Crime
-http://78.110.160.130:8000/play/a013
-#EXTINF:-1,13th Street HD
-http://78.110.160.130:8000/play/a01c
-#EXTINF:-1,Sky Cinema +24 HD
-http://78.110.160.130:8000/play/a00k
-#EXTINF:-1,Sky Select
-http://78.110.160.130:8000/play/a00z
-#EXTINF:-1,ANIXE SD
-http://78.110.160.130:8000/play/a005
-#EXTINF:-1,Sky Cinema Family
-http://78.110.160.130:8000/play/a016
-#EXTINF:-1,TLC
-http://78.110.160.130:8000/play/a006
-#EXTINF:-1,Disney Junior HD
-http://78.110.160.130:8000/play/a00l
-#EXTINF:-1,Kinowelt TV
-http://78.110.160.130:8000/play/a015
-#EXTINF:-1,Disney Cinemagic HD
-http://78.110.160.130:8000/play/a019
-#EXTINF:-1,History HD
-http://78.110.160.130:8000/play/a00a
-#EXTINF:-1,Sky Cinema Family HD
-http://78.110.160.130:8000/play/a00m
-#EXTINF:-1,Sky Krimi
-http://78.110.160.130:8000/play/a00w
-#EXTINF:-1,Discovery Channel
-http://78.110.160.130:8000/play/a012
-#EXTINF:-1,Sky Cinema +1 HD
-http://78.110.160.130:8000/play/a00j
-#EXTINF:-1,Sky Sport 2 HD
-http://78.110.160.130:8000/play/a01b
-#EXTINF:-1,Sky Cinema Action HD
-http://78.110.160.130:8000/play/a00b
-#EXTINF:-1,Sky Cinema
-http://78.110.160.130:8000/play/a00s
-#EXTINF:-1,Disney Channel
-http://78.110.160.130:8000/play/a008
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://78.110.160.130:8000/play/a00h
-#EXTINF:-1,N/A
-http://78.110.160.130:8000/play/a004
-#EXTINF:-1,Sport1+ HD
-http://78.110.160.130:8000/play/a00c
-#EXTINF:-1,RTL Passion
-http://78.110.160.130:8000/play/a014
-#EXTINF:-1,NatGeo HD
-http://78.110.160.130:8000/play/a01a
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://78.110.160.130:8000/play/a00y
-#EXTINF:-1,TNT Serie HD
-http://78.110.160.130:8000/play/a00d
-#EXTINF:-1,Sky Atlantic
-http://78.110.160.130:8000/play/a00v
-#EXTINF:-1,Sky Cinema Nostalgie
-http://78.110.160.130:8000/play/a00u
-
 
 
 
@@ -3603,157 +4667,34 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/526.ts|user-agent=ksa
-#EXTINF:-1,BOOMERANG
-http://173.212.206.199:25461/live/ksa/indep/527.ts|user-agent=ksa
-#EXTINF:-1,CARTOON NETWORK
-http://173.212.206.199:25461/live/ksa/indep/528.ts|user-agent=ksa
-#EXTINF:-1,DISCOVERY HD
-http://173.212.206.199:25461/live/ksa/indep/529.ts|user-agent=ksa
-#EXTINF:-1,DISNEY CHANNEL
-http://173.212.206.199:25461/live/ksa/indep/530.ts|user-agent=ksa
-#EXTINF:-1,DISNEY CINEMAGIC
-http://173.212.206.199:25461/live/ksa/indep/531.ts|user-agent=ksa
-#EXTINF:-1,DISNEY JUNIOR
-http://173.212.206.199:25461/live/ksa/indep/532.ts|user-agent=ksa
-#EXTINF:-1,DISNEY XD
-http://173.212.206.199:25461/live/ksa/indep/533.ts|user-agent=ksa
-#EXTINF:-1,DMAX
-http://173.212.206.199:25461/live/ksa/indep/534.ts|user-agent=ksa
-#EXTINF:-1,EURO SPORTS 1 HD
-http://173.212.206.199:25461/live/ksa/indep/535.ts|user-agent=ksa
-#EXTINF:-1,EURO SPORTS 2 HD
-http://173.212.206.199:25461/live/ksa/indep/536.ts|user-agent=ksa
-#EXTINF:-1,FOX HD
-http://173.212.206.199:25461/live/ksa/indep/537.ts|user-agent=ksa
-#EXTINF:-1,HISTORY HD
-http://173.212.206.199:25461/live/ksa/indep/538.ts|user-agent=ksa
-#EXTINF:-1,KABEL EINS
-http://173.212.206.199:25461/live/ksa/indep/539.ts|user-agent=ksa
-#EXTINF:-1,KIKA
-http://173.212.206.199:25461/live/ksa/indep/540.ts|user-agent=ksa
-#EXTINF:-1,KINO WELT HD
-http://173.212.206.199:25461/live/ksa/indep/541.ts|user-agent=ksa
-#EXTINF:-1,NAT GEO CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/543.ts|user-agent=ksa
-#EXTINF:-1,NAT GEO WILD HD
-http://173.212.206.199:25461/live/ksa/indep/544.ts|user-agent=ksa
-#EXTINF:-1,PRO 7
-http://173.212.206.199:25461/live/ksa/indep/545.ts|user-agent=ksa
-#EXTINF:-1,PRO SIEBEN MAXX HD
-http://173.212.206.199:25461/live/ksa/indep/546.ts|user-agent=ksa
-#EXTINF:-1,ROMANCE TV
-http://173.212.206.199:25461/live/ksa/indep/547.ts|user-agent=ksa
-#EXTINF:-1,RTL 2 HD
-http://173.212.206.199:25461/live/ksa/indep/548.ts|user-agent=ksa
-#EXTINF:-1,RTL CRIME HD
-http://173.212.206.199:25461/live/ksa/indep/549.ts|user-agent=ksa
-#EXTINF:-1,RTL HD
-http://173.212.206.199:25461/live/ksa/indep/550.ts|user-agent=ksa
-#EXTINF:-1,RTL LIVING HD
-http://173.212.206.199:25461/live/ksa/indep/551.ts|user-agent=ksa
-#EXTINF:-1,RTL NITRO HD
-http://173.212.206.199:25461/live/ksa/indep/552.ts|user-agent=ksa
-#EXTINF:-1,RTL PASSION HD
-http://173.212.206.199:25461/live/ksa/indep/553.ts|user-agent=ksa
-#EXTINF:-1,RTL PLUS HD
-http://173.212.206.199:25461/live/ksa/indep/554.ts|user-agent=ksa
-#EXTINF:-1,SAT.1 HD
-http://173.212.206.199:25461/live/ksa/indep/555.ts|user-agent=ksa
-#EXTINF:-1,SIXX HD
-http://173.212.206.199:25461/live/ksa/indep/556.ts|user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC HD
-http://173.212.206.199:25461/live/ksa/indep/577.ts|user-agent=ksa
-#EXTINF:-1,SKY BUNDESLIGA HD SP
-http://173.212.206.199:25461/live/ksa/indep/558.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA 24 HD
-http://173.212.206.199:25461/live/ksa/indep/559.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://173.212.206.199:25461/live/ksa/indep/557.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://173.212.206.199:25461/live/ksa/indep/563.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA EMOTION HD
-http://173.212.206.199:25461/live/ksa/indep/560.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://173.212.206.199:25461/live/ksa/indep/561.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA HD
-http://173.212.206.199:25461/live/ksa/indep/562.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA HITS HD
-http://173.212.206.199:25461/live/ksa/indep/565.ts|user-agent=ksa
-#EXTINF:-1,13th STREET HD
-http://173.212.206.199:25461/live/ksa/indep/564.ts|user-agent=ksa
-#EXTINF:-1,SKY KIRIMI
-http://173.212.206.199:25461/live/ksa/indep/542.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/566.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 2 HD
-http://173.212.206.199:25461/live/ksa/indep/567.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 3 HD
-http://173.212.206.199:25461/live/ksa/indep/568.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 4 HD
-http://173.212.206.199:25461/live/ksa/indep/569.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 5 HD
-http://173.212.206.199:25461/live/ksa/indep/570.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 6 HD
-http://173.212.206.199:25461/live/ksa/indep/571.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 7 HD
-http://173.212.206.199:25461/live/ksa/indep/572.ts|user-agent=ksa
-#EXTINF:-1,SKY SELECT 8 HD
-http://173.212.206.199:25461/live/ksa/indep/573.ts|user-agent=ksa
-#EXTINF:-1,SKY SPORT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/574.ts|user-agent=ksa
-#EXTINF:-1,SKY SPORT 2 HD
-http://173.212.206.199:25461/live/ksa/indep/575.ts|user-agent=ksa
-#EXTINF:-1,SONY CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/579.ts|user-agent=ksa
-#EXTINF:-1,SPIEGEL TV
-http://173.212.206.199:25461/live/ksa/indep/580.ts|user-agent=ksa
-#EXTINF:-1,SPORT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/581.ts|user-agent=ksa
-#EXTINF:-1,SUPER RTL HD
-http://173.212.206.199:25461/live/ksa/indep/582.ts|user-agent=ksa
-#EXTINF:-1,SYFY HD
-http://173.212.206.199:25461/live/ksa/indep/578.ts|user-agent=ksa
-#EXTINF:-1,TLC HD
-http://173.212.206.199:25461/live/ksa/indep/583.ts|user-agent=ksa
-#EXTINF:-1,TNT COMEDY HD
-http://173.212.206.199:25461/live/ksa/indep/584.ts|user-agent=ksa
-#EXTINF:-1,TNT FILM HD
-http://173.212.206.199:25461/live/ksa/indep/585.ts|user-agent=ksa
-#EXTINF:-1,TNT SERIES HD
-http://173.212.206.199:25461/live/ksa/indep/586.ts|user-agent=ksa
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/587.ts|user-agent=ksa
-#EXTINF:-1,VOX HD
-http://173.212.206.199:25461/live/ksa/indep/588.ts|user-agent=ksa
-#EXTINF:-1,ZDF HD
-http://173.212.206.199:25461/live/ksa/indep/589.ts|user-agent=ksa
-#EXTINF:-1,ZEE ONE HD
-http://173.212.206.199:25461/live/ksa/indep/590.ts|user-agent=ksa
-#EXTINF:-1,DELUX MUSIC
-http://173.212.206.199:25461/live/ksa/indep/788.ts|user-agent=ksa
-#EXTINF:-1,EURO NEWS
-http://173.212.206.199:25461/live/ksa/indep/816.ts|user-agent=ksa
-#EXTINF:-1,N24 HD
-http://173.212.206.199:25461/live/ksa/indep/823.ts|user-agent=ksa
-#EXTINF:-1,NTV HD
-http://173.212.206.199:25461/live/ksa/indep/828.ts|user-agent=ksa
-#EXTINF:-1,ORF 2 HD
-http://173.212.206.199:25461/live/ksa/indep/830.ts|user-agent=ksa
-#EXTINF:-1,ORF EINS HD
-http://173.212.206.199:25461/live/ksa/indep/829.ts|user-agent=ksa
-#EXTINF:-1,SKY 3D
-http://173.212.206.199:25461/live/ksa/indep/852.ts|user-agent=ksa
-#EXTINF:-1,SKY ACTION
-http://173.212.206.199:25461/live/ksa/indep/853.ts|user-agent=ksa
-#EXTINF:-1,SKY BUNDESLIGA 2HD SP
-http://173.212.206.199:25461/live/ksa/indep/856.ts|user-agent=ksa
-#EXTINF:-1,SKY CINEMA 1 HD
-http://173.212.206.199:25461/live/ksa/indep/857.ts|user-agent=ksa
-
-
-
+#EXTINF:-1,Sky Cinema
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/213.ts
+#EXTINF:-1,Sky Cinema 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/212.ts
+#EXTINF:-1,Sky Cinema 24
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/211.ts
+#EXTINF:-1,Sky Cinema Action
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/210.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/209.ts
+#EXTINF:-1,Sky Cinema Emotion
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/208.ts
+#EXTINF:-1,Sky Cinema Family
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/207.ts
+#EXTINF:-1,Sky Cinema Hits
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/206.ts
+#EXTINF:-1,Sky Cinema Nostalgie
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/205.ts
+#EXTINF:-1,Sky Sport 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/204.ts
+#EXTINF:-1,Sky Sport 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/203.ts
+#EXTINF:-1,Sky Sport Austria
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/202.ts
+#EXTINF:-1,Sky Sport Fanzone
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/201.ts
+#EXTINF:-1,Sky Sport News
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/200.ts
 
 
 
@@ -4037,9 +4978,78 @@ rtmp://willax.mediastream.pe/vv_willax/livestream
 
 #EXTINF:8 group-title=”Spain2”,
 
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
 
-
+#EXTINF:-1,betevé *
+http://79.158.163.207:4022/udp/239.0.0.110:8208
+#EXTINF:-1,beIN LaLiga
+http://79.158.163.207:4022/udp/239.0.0.252:8208
+#EXTINF:-1,FOX life
+http://79.158.163.207:4022/udp/239.0.0.43:8208
+#EXTINF:-1,Movistar James Bond
+http://79.158.163.207:4022/udp/239.0.1.188:8208
+#EXTINF:-1,beIN LaLiga 1
+http://79.158.163.207:4022/udp/239.0.0.253:8208
+#EXTINF:-1,beIN LaLiga 2
+http://79.158.163.207:4022/udp/239.0.0.254:8208
+#EXTINF:-1,beIN MAX 1
+http://79.158.163.207:4022/udp/239.0.3.101:8208
+#EXTINF:-1,beIN MAX 2
+http://79.158.163.207:4022/udp/239.0.3.102:8208
+#EXTINF:-1,Real Madrid TV
+http://79.158.163.207:4022/udp/239.0.0.83:8208
+#EXTINF:-1,Libertad Digital
+http://79.158.163.207:4022/udp/239.0.0.85:8208
+#EXTINF:-1,Canal Extremadura SAT
+http://79.158.163.207:4022/udp/239.0.0.52:8208
+#EXTINF:-1,Multifútbol 1
+http://79.158.163.207:4022/udp/239.0.0.124:8208
+#EXTINF:-1,Multifútbol 2
+http://79.158.163.207:4022/udp/239.0.0.123:8208
+#EXTINF:-1,Multifútbol 3
+http://79.158.163.207:4022/udp/239.0.3.3:8208
+#EXTINF:-1,Multifútbol 4
+http://79.158.163.207:4022/udp/239.0.3.4:8208
+#EXTINF:-1,Multifútbol 5
+http://79.158.163.207:4022/udp/239.0.3.5:8208
+#EXTINF:-1,beIN LaLiga 3
+http://79.158.163.207:4022/udp/239.0.0.255:8208
+#EXTINF:-1,beIN LaLiga 4
+http://79.158.163.207:4022/udp/239.0.1.200:8208
+#EXTINF:-1,Multifútbol 9
+http://79.158.163.207:4022/udp/239.0.0.42:8208
+#EXTINF:-1,beIN MAX 3
+http://79.158.163.207:4022/udp/239.0.3.103:8208
+#EXTINF:-1,beIN MAX 4
+http://79.158.163.207:4022/udp/239.0.3.104:8208
+#EXTINF:-1,beIN MAX 5
+http://79.158.163.207:4022/udp/239.0.3.105:8208
+#EXTINF:-1,beIN MAX 6
+http://79.158.163.207:4022/udp/239.0.3.106:8208
+#EXTINF:-1,beIN MAX 7
+http://79.158.163.207:4022/udp/239.0.3.107:8208
+#EXTINF:-1,beIN MAX 8
+http://79.158.163.207:4022/udp/239.0.3.108:8208
+#EXTINF:-1,Movistar F1
+http://79.158.163.207:4022/udp/239.0.1.246:8208
 
 
 
@@ -4411,16 +5421,18 @@ http://163.172.52.83:8000/live/1024r1mN991908/19mQH9092JEs44/125.ts
 
 
 
-#EXTINF:8 group-title=”Spain-PREMIUM_MXPLAYER”,
+#EXTINF:8 group-title=”Spain-PREMIUM-LOOP_ONE”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -4438,223 +5450,160 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,24 H
-http://173.212.206.199:25461/live/ksa/indep/447.ts|user-agent=ksa
-#EXTINF:-1,40 TV
-http://173.212.206.199:25461/live/ksa/indep/449.ts|user-agent=ksa
-#EXTINF:-1,A&E
-http://173.212.206.199:25461/live/ksa/indep/450.ts|user-agent=ksa
-#EXTINF:-1,AMC HD
-http://173.212.206.199:25461/live/ksa/indep/451.ts|user-agent=ksa
-#EXTINF:-1,ANTENA 3 HD
-http://173.212.206.199:25461/live/ksa/indep/448.ts|user-agent=ksa
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/452.ts|user-agent=ksa
-#EXTINF:-1,AXN WHITE HD
-http://173.212.206.199:25461/live/ksa/indep/453.ts|user-agent=ksa
-#EXTINF:-1,BABY TV
-http://173.212.206.199:25461/live/ksa/indep/454.ts|user-agent=ksa
-#EXTINF:-1,BARCA TV
-http://173.212.206.199:25461/live/ksa/indep/455.ts|user-agent=ksa
-#EXTINF:-1,BOING
-http://173.212.206.199:25461/live/ksa/indep/457.ts|user-agent=ksa
-#EXTINF:-1,CALLE 13
-http://173.212.206.199:25461/live/ksa/indep/458.ts|user-agent=ksa
-#EXTINF:-1,CANAL ACCION HD
-http://173.212.206.199:25461/live/ksa/indep/461.ts|user-agent=ksa
+#EXTINF:-1,VIRGIN TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/965.ts
+#EXTINF:-1,VIAJAR HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/951.ts
+#EXTINF:-1,VH1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/966.ts
+#EXTINF:-1,TV3
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/967.ts
+#EXTINF:-1,TNT HD Spain
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/977.ts
+#EXTINF:-1,TELEDEPORTE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/940.ts
+#EXTINF:-1,TELECINCO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/891.ts
+#EXTINF:-1,TCM HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/914.ts
+#EXTINF:-1,SYFY HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/919.ts
+#EXTINF:-1,RADIO MONTE-CARLO TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/968.ts
+#EXTINF:-1,RADIO 105
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/969.ts
+#EXTINF:-1,MOVISTAR DEPORTES
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/911.ts
+#EXTINF:-1,PANDA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/958.ts
+#EXTINF:-1,ODISEA HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/953.ts
+#EXTINF:-1,NRJ12 MUSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/970.ts
+#EXTINF:-1,NOVA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/897.ts
+#EXTINF:-1,NON STOP PEOPLE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/901.ts
+#EXTINF:-1,NICKELODEON HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/957.ts
+#EXTINF:-1,NEOX
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/894.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/955.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/956.ts
+#EXTINF:-1,MTV MUSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/972.ts
+#EXTINF:-1,MOVISTAR XTRA HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/909.ts
+#EXTINF:-1,MOVISTAR SERIES Xtra HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/908.ts
+#EXTINF:-1,MOVISTAR SERIES HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/907.ts
+#EXTINF:-1,MOVISTAR F1
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/944.ts
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/906.ts
+#EXTINF:-1,MOVISTAR DCINE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/905.ts
+#EXTINF:-1,MOVISTAR DCINE ESPANOL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/910.ts
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/904.ts
+#EXTINF:-1,MOVISTAR ACCION HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/903.ts
+#EXTINF:-1,Movistar Moto GP
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/945.ts
+#EXTINF:-1,Mega
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/893.ts
+#EXTINF:-1,M6 MUSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/975.ts
+#EXTINF:-1,M20
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/976.ts
+#EXTINF:-1,LA LIGA TV 1080
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/925.ts
+#EXTINF:-1,LA SEXTA HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/892.ts
+#EXTINF:-1,LA 2
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/888.ts
+#EXTINF:-1,LA 1 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/887.ts
+#EXTINF:-1,KISS TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/964.ts
+#EXTINF:-1,Barca TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/954.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/912.ts
+#EXTINF:-1,HISTORIA
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/952.ts
+#EXTINF:-1,FOX LIFE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/918.ts
+#EXTINF:-1,FOX HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/917.ts
+#EXTINF:-1,FDF
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/895.ts
+#EXTINF:-1,ENERGY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/898.ts
+#EXTINF:-1,DIVINITY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/896.ts
+#EXTINF:-1,DISNEY XD Spain
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/978.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/960.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/959.ts
+#EXTINF:-1,DISCOVERY CI
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/948.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/950.ts
+#EXTINF:-1,CUATRO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/890.ts
+#EXTINF:-1,COSMO HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/922.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/921.ts
 #EXTINF:-1,CANAL COCINA
-http://173.212.206.199:25461/live/ksa/indep/460.ts|user-agent=ksa
-#EXTINF:-1,CANAL COMEDIA HD
-http://173.212.206.199:25461/live/ksa/indep/462.ts|user-agent=ksa
-#EXTINF:-1,CANAL+ DEPORTES 2
-http://173.212.206.199:25461/live/ksa/indep/459.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 1
-http://173.212.206.199:25461/live/ksa/indep/165.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 1 HD
-http://173.212.206.199:25461/live/ksa/indep/161.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 2
-http://173.212.206.199:25461/live/ksa/indep/166.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 2 HD
-http://173.212.206.199:25461/live/ksa/indep/162.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 1 HINDI
-http://173.212.206.199:25461/live/ksa/indep/167.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS 3 HD
-http://173.212.206.199:25461/live/ksa/indep/163.ts|user-agent=ksa
-#EXTINF:-1,PTV SPORTS
-http://173.212.206.199:25461/live/ksa/indep/172.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/159.ts|user-agent=ksa
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://173.212.206.199:25461/live/ksa/indep/160.ts|user-agent=ksa
-#EXTINF:-1,TEN 1 HD
-http://173.212.206.199:25461/live/ksa/indep/176.ts|user-agent=ksa
-#EXTINF:-1,TEN 1
-http://173.212.206.199:25461/live/ksa/indep/177.ts|user-agent=ksa
-#EXTINF:-1,TEN 2
-http://173.212.206.199:25461/live/ksa/indep/178.ts|user-agent=ksa
-#EXTINF:-1,TEN 3
-http://173.212.206.199:25461/live/ksa/indep/179.ts|user-agent=ksa
-#EXTINF:-1,SONY ESPN
-http://173.212.206.199:25461/live/ksa/indep/180.ts|user-agent=ksa
-#EXTINF:-1,SONY SIX
-http://173.212.206.199:25461/live/ksa/indep/174.ts|user-agent=ksa
-#EXTINF:-1,SONY SIX HD
-http://173.212.206.199:25461/live/ksa/indep/175.ts|user-agent=ksa
-#EXTINF:-1,SKY SPORTS NEWS-DE
-http://173.212.206.199:25461/live/ksa/indep/253.ts|user-agent=ksa
-#EXTINF:-1,SKY SPORTS NEWS HD-DE
-http://173.212.206.199:25461/live/ksa/indep/576.ts|user-agent=ksa
-#EXTINF:-1,SKY SPORTS NEWS HD-UK
-http://173.212.206.199:25461/live/ksa/indep/188.ts|user-agent=ksa
-#EXTINF:-1,NEO SPORTS
-http://173.212.206.199:25461/live/ksa/indep/181.ts|user-agent=ksa
-#EXTINF:-1,TEN GOLF HD
-http://173.212.206.199:25461/live/ksa/indep/182.ts|user-agent=ksa
-#EXTINF:-1,TSN 1-US
-http://173.212.206.199:25461/live/ksa/indep/218.ts|user-agent=ksa
-#EXTINF:-1,TSN 2/US
-http://173.212.206.199:25461/live/ksa/indep/219.ts|user-agent=ksa
-#EXTINF:-1,TSN 3-US
-http://173.212.206.199:25461/live/ksa/indep/220.ts|user-agent=ksa
-#EXTINF:-1,TSN 4-US
-http://173.212.206.199:25461/live/ksa/indep/221.ts|user-agent=ksa
-#EXTINF:-1,TSN 5-US
-http://173.212.206.199:25461/live/ksa/indep/222.ts|user-agent=ksa
-#EXTINF:-1,WWE HD
-http://173.212.206.199:25461/live/ksa/indep/183.ts|user-agent=ksa
-#EXTINF:-1,ARENA SPORTS 1
-http://173.212.206.199:25461/live/ksa/indep/266.ts|user-agent=ksa
-#EXTINF:-1,ARENA SPORTS 2
-http://173.212.206.199:25461/live/ksa/indep/267.ts|user-agent=ksa
-#EXTINF:-1,ARENA SPORTS 3
-http://173.212.206.199:25461/live/ksa/indep/268.ts|user-agent=ksa
-#EXTINF:-1,ARENA SPORTS 4
-http://173.212.206.199:25461/live/ksa/indep/269.ts|user-agent=ksa
-#EXTINF:-1,ASTRO SUPERSPORTS 1-MY
-http://173.212.206.199:25461/live/ksa/indep/255.ts|user-agent=ksa
-#EXTINF:-1,ASTRO SUPERSPORTS 2-MY
-http://173.212.206.199:25461/live/ksa/indep/256.ts|user-agent=ksa
-#EXTINF:-1,ASTRO SUPERSPORTS 3-MY
-http://173.212.206.199:25461/live/ksa/indep/257.ts|user-agent=ksa
-#EXTINF:-1,ASTRO SUPERSPORTS 4-MY
-http://173.212.206.199:25461/live/ksa/indep/258.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 1
-http://173.212.206.199:25461/live/ksa/indep/250.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 2
-http://173.212.206.199:25461/live/ksa/indep/251.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 1-NL
-http://173.212.206.199:25461/live/ksa/indep/260.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 2-NL
-http://173.212.206.199:25461/live/ksa/indep/261.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 3-NL
-http://173.212.206.199:25461/live/ksa/indep/262.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 4-NL /
-http://173.212.206.199:25461/live/ksa/indep/263.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 5-NL
-http://173.212.206.199:25461/live/ksa/indep/264.ts|user-agent=ksa
-#EXTINF:-1,FOX SPORTS 6-NL
-http://173.212.206.199:25461/live/ksa/indep/265.ts|user-agent=ksa
-#EXTINF:-1,NBA-US
-http://173.212.206.199:25461/live/ksa/indep/248.ts|user-agent=ksa
-#EXTINF:-1,NBC SPORTS-US
-http://173.212.206.199:25461/live/ksa/indep/249.ts|user-agent=ksa
-#EXTINF:-1,SPORTSNET 360-CAN
-http://173.212.206.199:25461/live/ksa/indep/247.ts|user-agent=ksa
-#EXTINF:-1,SPORTSNET ONE-CAN
-http://173.212.206.199:25461/live/ksa/indep/244.ts|user-agent=ksa
-#EXTINF:-1,SPORTSNET ONTARIO-CAN
-http://173.212.206.199:25461/live/ksa/indep/246.ts|user-agent=ksa
-#EXTINF:-1,SPORTSNET WEST-CAN
-http://173.212.206.199:25461/live/ksa/indep/245.ts|user-agent=ksa
-#EXTINF:-1,SPORTSNET WOLRD-CAN
-http://173.212.206.199:25461/live/ksa/indep/243.ts|user-agent=ksa
-#EXTINF:-1,VIASAT FOOTBALL
-http://173.212.206.199:25461/live/ksa/indep/242.ts|user-agent=ksa
-#EXTINF:-1,EURO SPORT
-http://173.212.206.199:25461/live/ksa/indep/279.ts|user-agent=ksa
-#EXTINF:-1,EUROSPORTS 1 HD-DE /
-http://173.212.206.199:25461/live/ksa/indep/254.ts|user-agent=ksa
-#EXTINF:-1,EURO SPORTS 2 HD
-http://173.212.206.199:25461/live/ksa/indep/280.ts|user-agent=ksa
-#EXTINF:-1,EUROSPORT 2 XTRA HD-PT
-http://173.212.206.199:25461/live/ksa/indep/277.ts|user-agent=ksa
-#EXTINF:-1,EUROSPORT NEWS-PT
-http://173.212.206.199:25461/live/ksa/indep/276.ts|user-agent=ksa
-#EXTINF:-1,DD SPORTS
-http://173.212.206.199:25461/live/ksa/indep/225.ts|user-agent=ksa
-#EXTINF:-1,ABU DHABI SPORTS 1-AR
-http://173.212.206.199:25461/live/ksa/indep/282.ts|user-agent=ksa
-#EXTINF:-1,ABU DHABI SPORTS 2-AR
-http://173.212.206.199:25461/live/ksa/indep/283.ts|user-agent=ksa
-#EXTINF:-1,ABU DHABI SPORTS 3-AR
-http://173.212.206.199:25461/live/ksa/indep/284.ts|user-agent=ksa
-#EXTINF:-1,ABU DHABI SPORTS 4-AR
-http://173.212.206.199:25461/live/ksa/indep/285.ts|user-agent=ksa
-#EXTINF:-1,ABU DHABI SPORTS 5-AR
-http://173.212.206.199:25461/live/ksa/indep/286.ts|user-agent=ksa
-#EXTINF:-1,ALKASS 1 SPORTS-AR
-http://173.212.206.199:25461/live/ksa/indep/294.ts|user-agent=ksa
-#EXTINF:-1,ALKASS 2 SPORTS-AR
-http://173.212.206.199:25461/live/ksa/indep/295.ts|user-agent=ksa
-#EXTINF:-1,ALKASS 4 SPORTS-AR
-http://173.212.206.199:25461/live/ksa/indep/296.ts|user-agent=ksa
-#EXTINF:-1,ALKASS 5 SPORTS-AR
-http://173.212.206.199:25461/live/ksa/indep/297.ts|user-agent=ksa
-#EXTINF:-1,DUBAI SPORTS-AR
-http://173.212.206.199:25461/live/ksa/indep/281.ts|user-agent=ksa
-#EXTINF:-1,DUBAI SPORTS 3-AR
-http://173.212.206.199:25461/live/ksa/indep/298.ts|user-agent=ksa
-#EXTINF:-1,DUBAI SPORTS 4-AR
-http://173.212.206.199:25461/live/ksa/indep/299.ts|user-agent=ksa
-#EXTINF:-1,MBC PRO SPORT 1-AR
-http://173.212.206.199:25461/live/ksa/indep/288.ts|user-agent=ksa
-#EXTINF:-1,MBC PRO SPORT 2-AR
-http://173.212.206.199:25461/live/ksa/indep/290.ts|user-agent=ksa
-#EXTINF:-1,MBC PRO SPORTS 3-AR
-http://173.212.206.199:25461/live/ksa/indep/291.ts|user-agent=ksa
-#EXTINF:-1,MBC PRO SPORTS 4-AR
-http://173.212.206.199:25461/live/ksa/indep/293.ts|user-agent=ksa
-#EXTINF:-1,HORSE AND COUNTRY-UK
-http://173.212.206.199:25461/live/ksa/indep/301.ts|user-agent=ksa
-#EXTINF:-1,RACING-UK
-http://173.212.206.199:25461/live/ksa/indep/300.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS NEWS
-http://173.212.206.199:25461/live/ksa/indep/142.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS GLOBAL
-http://173.212.206.199:25461/live/ksa/indep/143.ts|user-agent=ksa
-#EXTINF:-1,ES-BEIN SPORT Ñ HD
-http://173.212.206.199:25461/live/ksa/indep/456.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 1 HD-FR
-http://173.212.206.199:25461/live/ksa/indep/156.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 2 HD-FR
-http://173.212.206.199:25461/live/ksa/indep/157.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 3 HD-FR
-http://173.212.206.199:25461/live/ksa/indep/158.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 1 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/144.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 2 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/145.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 3 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/146.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 4 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/147.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 5 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/148.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 6 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/149.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 7 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/150.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 8 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/151.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 9 HD-AR
-http://173.212.206.199:25461/live/ksa/indep/152.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://173.212.206.199:25461/live/ksa/indep/153.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://173.212.206.199:25461/live/ksa/indep/154.ts|user-agent=ksa
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://173.212.206.199:25461/live/ksa/indep/155.ts|user-agent=ksa
-
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/947.ts
+#EXTINF:-1,CANAL  TOROS
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/946.ts
+#EXTINF:-1,MOVISTAR GOLF
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/943.ts
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/924.ts
+#EXTINF:-1,CANAL DEPORTES HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/941.ts
+#EXTINF:-1,CANAL  DEPORTES 2 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/942.ts
+#EXTINF:-1,CALLE 13 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/920.ts
+#EXTINF:-1,BOING
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/961.ts
+#EXTINF:-1,BEIN SPORT ES
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/931.ts
+#EXTINF:-1,BEIN LA LIGA 1080
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/926.ts
+#EXTINF:-1,BABY
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/962.ts
+#EXTINF:-1,AXN WHITE HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/916.ts
+#EXTINF:-1,AXN HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/915.ts
+#EXTINF:-1,ANTENA 3 HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/889.ts
+#EXTINF:-1,ANDALUCIA TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/923.ts
+#EXTINF:-1,AMC HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/913.ts
+#EXTINF:-1,A3SERIES
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/900.ts
+#EXTINF:-1,A&E
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/949.ts
+#EXTINF:-1,40 TV
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/963.ts
+#EXTINF:-1,#O HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/902.ts
+#EXTINF:-1,Azteca trece HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2670.ts
 
 
 
@@ -5333,154 +6282,27 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
-#EXTINF:-1,24 KITCHEN
-http://173.212.206.199:25461/live/ksa/indep/463.ts|user-agent=ksa
-#EXTINF:-1,A BOLA TV
-http://173.212.206.199:25461/live/ksa/indep/465.ts|user-agent=ksa
-#EXTINF:-1,A&E
-http://173.212.206.199:25461/live/ksa/indep/464.ts|user-agent=ksa
-#EXTINF:-1,AFRO MUSIC
-http://173.212.206.199:25461/live/ksa/indep/466.ts|user-agent=ksa
-#EXTINF:-1,AMC
-http://173.212.206.199:25461/live/ksa/indep/467.ts|user-agent=ksa
-#EXTINF:-1,AXN BLACK HD
-http://173.212.206.199:25461/live/ksa/indep/468.ts|user-agent=ksa
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/469.ts|user-agent=ksa
-#EXTINF:-1,AXN WHITE HD
-http://173.212.206.199:25461/live/ksa/indep/470.ts|user-agent=ksa
-#EXTINF:-1,BABY TV
-http://173.212.206.199:25461/live/ksa/indep/471.ts|user-agent=ksa
-#EXTINF:-1,BENFICA TV
-http://173.212.206.199:25461/live/ksa/indep/472.ts|user-agent=ksa
-#EXTINF:-1,BIGGS KIDS
-http://173.212.206.199:25461/live/ksa/indep/473.ts|user-agent=ksa
-#EXTINF:-1,CACA E PESCA
-http://173.212.206.199:25461/live/ksa/indep/474.ts|user-agent=ksa
-#EXTINF:-1,CACAVISION
-http://173.212.206.199:25461/live/ksa/indep/475.ts|user-agent=ksa
-#EXTINF:-1,CANAL HISTORIA
-http://173.212.206.199:25461/live/ksa/indep/476.ts|user-agent=ksa
-#EXTINF:-1,CANAL PANDA KIDS
-http://173.212.206.199:25461/live/ksa/indep/477.ts|user-agent=ksa
-#EXTINF:-1,CANAL Q
-http://173.212.206.199:25461/live/ksa/indep/478.ts|user-agent=ksa
-#EXTINF:-1,CARTOON NETWORK
-http://173.212.206.199:25461/live/ksa/indep/643.ts|user-agent=ksa
-#EXTINF:-1,CBS REALITY
-http://173.212.206.199:25461/live/ksa/indep/479.ts|user-agent=ksa
-#EXTINF:-1,CHELSEA TV
-http://173.212.206.199:25461/live/ksa/indep/480.ts|user-agent=ksa
-#EXTINF:-1,CINE MUNDO
-http://173.212.206.199:25461/live/ksa/indep/481.ts|user-agent=ksa
-#EXTINF:-1,CM TV
-http://173.212.206.199:25461/live/ksa/indep/482.ts|user-agent=ksa
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://173.212.206.199:25461/live/ksa/indep/484.ts|user-agent=ksa
-#EXTINF:-1,DISCOVERY
-http://173.212.206.199:25461/live/ksa/indep/483.ts|user-agent=ksa
-#EXTINF:-1,DISNEY CHANNEL
-http://173.212.206.199:25461/live/ksa/indep/644.ts|user-agent=ksa
-#EXTINF:-1,DISNEY JUNIOR
-http://173.212.206.199:25461/live/ksa/indep/645.ts|user-agent=ksa
-#EXTINF:-1,E! ENTERTAINMENT
-http://173.212.206.199:25461/live/ksa/indep/646.ts|user-agent=ksa
-#EXTINF:-1,EURO NEWS
-http://173.212.206.199:25461/live/ksa/indep/647.ts|user-agent=ksa
-#EXTINF:-1,FASHION TV
-http://173.212.206.199:25461/live/ksa/indep/648.ts|user-agent=ksa
-#EXTINF:-1,FOX COMEDY
-http://173.212.206.199:25461/live/ksa/indep/649.ts|user-agent=ksa
-#EXTINF:-1,FOX CRIME HD
-http://173.212.206.199:25461/live/ksa/indep/650.ts|user-agent=ksa
-#EXTINF:-1,FOX HD
-http://173.212.206.199:25461/live/ksa/indep/651.ts|user-agent=ksa
-#EXTINF:-1,FOX LIFE HD
-http://173.212.206.199:25461/live/ksa/indep/652.ts|user-agent=ksa
-#EXTINF:-1,FOX MOVIES
-http://173.212.206.199:25461/live/ksa/indep/653.ts|user-agent=ksa
-#EXTINF:-1,HWD HOLLYWOOD
-http://173.212.206.199:25461/live/ksa/indep/654.ts|user-agent=ksa
-#EXTINF:-1,JIM JAM KIDS
-http://173.212.206.199:25461/live/ksa/indep/655.ts|user-agent=ksa
-#EXTINF:-1,MCS EXTREME
-http://173.212.206.199:25461/live/ksa/indep/656.ts|user-agent=ksa
-#EXTINF:-1,MOV HD
-http://173.212.206.199:25461/live/ksa/indep/657.ts|user-agent=ksa
-#EXTINF:-1,MTV
-http://173.212.206.199:25461/live/ksa/indep/658.ts|user-agent=ksa
-#EXTINF:-1,NAT GEO CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/659.ts|user-agent=ksa
-#EXTINF:-1,NAT GEO WILD
-http://173.212.206.199:25461/live/ksa/indep/660.ts|user-agent=ksa
-#EXTINF:-1,NICKELODEON
-http://173.212.206.199:25461/live/ksa/indep/661.ts|user-agent=ksa
-#EXTINF:-1,ODISSEIA TV
-http://173.212.206.199:25461/live/ksa/indep/662.ts|user-agent=ksa
-#EXTINF:-1,PORTO CANAL
-http://173.212.206.199:25461/live/ksa/indep/663.ts|user-agent=ksa
-#EXTINF:-1,RECORD NEWS
-http://173.212.206.199:25461/live/ksa/indep/664.ts|user-agent=ksa
-#EXTINF:-1,RTP 1
-http://173.212.206.199:25461/live/ksa/indep/665.ts|user-agent=ksa
-#EXTINF:-1,RTP 2
-http://173.212.206.199:25461/live/ksa/indep/666.ts|user-agent=ksa
-#EXTINF:-1,RTP 3
-http://173.212.206.199:25461/live/ksa/indep/669.ts|user-agent=ksa
-#EXTINF:-1,RTP AÇORES
-http://173.212.206.199:25461/live/ksa/indep/692.ts|user-agent=ksa
-#EXTINF:-1,RTP ÁFRICA
-http://173.212.206.199:25461/live/ksa/indep/693.ts|user-agent=ksa
-#EXTINF:-1,RTP MADERIA
-http://173.212.206.199:25461/live/ksa/indep/667.ts|user-agent=ksa
-#EXTINF:-1,RTP MEMORIA
-http://173.212.206.199:25461/live/ksa/indep/668.ts|user-agent=ksa
-#EXTINF:-1,SBT BRASIL
-http://173.212.206.199:25461/live/ksa/indep/694.ts|user-agent=ksa
-#EXTINF:-1,SIC CARAS
-http://173.212.206.199:25461/live/ksa/indep/671.ts|user-agent=ksa
-#EXTINF:-1,SIC KIDS
-http://173.212.206.199:25461/live/ksa/indep/672.ts|user-agent=ksa
-#EXTINF:-1,SIC MULHER
-http://173.212.206.199:25461/live/ksa/indep/673.ts|user-agent=ksa
-#EXTINF:-1,SIC NOTÍCIAS
-http://173.212.206.199:25461/live/ksa/indep/674.ts|user-agent=ksa
-#EXTINF:-1,SIC RADICAL
-http://173.212.206.199:25461/live/ksa/indep/675.ts|user-agent=ksa
-#EXTINF:-1,SIC
-http://173.212.206.199:25461/live/ksa/indep/670.ts|user-agent=ksa
-#EXTINF:-1,SYFY HD
-http://173.212.206.199:25461/live/ksa/indep/677.ts|user-agent=ksa
-#EXTINF:-1,TLC
-http://173.212.206.199:25461/live/ksa/indep/678.ts|user-agent=ksa
-#EXTINF:-1,TOROS TV
-http://173.212.206.199:25461/live/ksa/indep/679.ts|user-agent=ksa
-#EXTINF:-1,TRACE URBAN
-http://173.212.206.199:25461/live/ksa/indep/680.ts|user-agent=ksa
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/681.ts|user-agent=ksa
-#EXTINF:-1,TV GLOBO PREMIUM
-http://173.212.206.199:25461/live/ksa/indep/682.ts|user-agent=ksa
-#EXTINF:-1,TVCINE 1 HD
-http://173.212.206.199:25461/live/ksa/indep/683.ts|user-agent=ksa
-#EXTINF:-1,TVCINE 2 HD
-http://173.212.206.199:25461/live/ksa/indep/684.ts|user-agent=ksa
-#EXTINF:-1,TVCINE 3 HD
-http://173.212.206.199:25461/live/ksa/indep/685.ts|user-agent=ksa
-#EXTINF:-1,TVCINE 4 HD
-http://173.212.206.199:25461/live/ksa/indep/686.ts|user-agent=ksa
-#EXTINF:-1,TVCINE SERIES HD
-http://173.212.206.199:25461/live/ksa/indep/687.ts|user-agent=ksa
-#EXTINF:-1,TVI 24
-http://173.212.206.199:25461/live/ksa/indep/689.ts|user-agent=ksa
-#EXTINF:-1,TVI FICCAO
-http://173.212.206.199:25461/live/ksa/indep/690.ts|user-agent=ksa
-#EXTINF:-1,TVI
-http://173.212.206.199:25461/live/ksa/indep/688.ts|user-agent=ksa
-#EXTINF:-1,VH1
-http://173.212.206.199:25461/live/ksa/indep/691.ts|user-agent=ksa
 
-
+#EXTINF:-1,Sportv HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/164.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/163.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/162.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/161.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/160.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/159.ts
+#EXTINF:-1,TV CINE 1 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/158.ts
+#EXTINF:-1,TV CINE 2 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/157.ts
+#EXTINF:-1,TV CINE 3 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/156.ts
+#EXTINF:-1,TV CINE 4 HD
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/155.ts
 
 
 
@@ -6445,6 +7267,8 @@ rtmp://203.189.147.211/RADIO//myStream
 #EXTINF:-1,UBC
 rtmp://media.tbc.co.kr/live//UBCstream
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER1=
+http://......
 #EXTINF:-1,CCTV-01 HD
 http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
 #EXTINF:-1,CCTV-01 HD
@@ -6472,6 +7296,8 @@ http://111.13.42.8/PLTV/88888888/224/3221225864/index.m3u8
 #EXTINF:-1,CCTV-08 HD
 http://111.13.42.8/PLTV/88888888/224/3221226035/index.m3u8
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER2=
+http://......
 #EXTINF:-1,CCTV-1
 http://14.17.78.96/live/hls/201706223000000b899/desc.m3u8
 #EXTINF:-1,CCTV-2
@@ -6503,6 +7329,8 @@ http://14.17.78.96/live/hls/201706223000000ca99/desc.m3u8
 #EXTINF:-1,CCTV-15
 http://14.17.78.96/live/hls/201706223000000cc99/desc.m3u8
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER3=
+http://......
 #EXTINF:-1,CCTV-1
 http://r.gslb.lecloud.com/live/hls/201706223000000b899/desc.m3u8
 #EXTINF:-1,CCTV-2
@@ -6554,9 +7382,21 @@ http://r.gslb.lecloud.com/live/hls/201701043000000a413/desc.m3u8
 #EXTINF:-1,Sudeste Carey
 http://r.gslb.lecloud.com/live/hls/2016101930000010899/desc.m3u8
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER4=
+http://......
 
-
-
+#EXTINF:-1,BestTV1
+http://183.252.176.10/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1,BestTV2
+http://183.252.176.10/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1,BestTV3
+http://183.252.176.10/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1,BestTV4
+http://183.252.176.10/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1,BestTV5
+http://183.252.176.10/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1,BestTV7
+http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
 
 
 
@@ -7157,7 +7997,20 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-
+#EXTINF:-1,ZEE ACTION
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/119.ts
+#EXTINF:-1,ZEE CINEMA
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/118.ts
+#EXTINF:-1,ZEE NEWS
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/117.ts
+#EXTINF:-1,ZEE PUNJABI
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/116.ts
+#EXTINF:-1,ZEE TELGU
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/115.ts
+#EXTINF:-1,ZEE TV
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/114.ts
+#EXTINF:-1,ZEE ZINDAGI
+http://freeiptv.geantsat.com:58888/live/free-geantsat2017/13fg07fgf2017fgvgf/113.ts
 
 
 
@@ -7250,6 +8103,8 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER1=
+http://......
 #EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
 http://62.68.66.244:8000/play/s65
 #EXTINF:-1,MESat
@@ -7266,6 +8121,9 @@ http://62.68.66.244:8002/play/s82
 http://62.68.66.244:8002/play/s86
 #EXTINF:-1,Miracle TV
 http://62.68.66.244:8002/play/s81
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER2=
+http://......
 
 #EXTINF:-1,Al Arabiya
 http://41.224.63.105:4666/bysid/2
