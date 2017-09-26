@@ -482,10 +482,7 @@ http://93.91.113.8:9999/play/a06z
 http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
-#EXTINF:-1,FOX
-http://95.82.241.148:81//udp/239.255.2.53:1234
-#EXTINF:-1,Fox Life
-http://95.82.241.148:81//udp/239.255.2.58:1234
+
 
 
 #EXTINF:0,Arena Sport 
@@ -1396,10 +1393,7 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 #EXTINF:-1, English Club 
 http://93.91.113.8:9999/play/a090 
-#EXTINF:-1,FOX
-http://95.82.241.148:81//udp/239.255.2.53:1234
-#EXTINF:-1,Fox Life
-http://95.82.241.148:81//udp/239.255.2.58:1234
+
 
 #EXTINF:0, BT Sport 1
 http://185.53.163.205:2700
@@ -3529,38 +3523,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 http://.....
 
 
-#EXTINF:-1,ADO FM
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3540.ts
-#EXTINF:-1,CHANTE FRANCE
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3544.ts
-#EXTINF:-1,CHERIE FM
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3551.ts
-#EXTINF:-1,FRANCE CULTURE
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3550.ts
-#EXTINF:-1,FRANCE INFO RADIO
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3549.ts
-#EXTINF:-1,FRANCE INTER
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3548.ts
-#EXTINF:-1,FRANCE MUSIQUE
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3547.ts
-#EXTINF:-1,FUN RADIO
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3541.ts
-#EXTINF:-1,M2 CLASSIC
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3543.ts
-#EXTINF:-1,M2 LOVE
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3542.ts
-#EXTINF:-1,Nostalgie France
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3552.ts
-#EXTINF:-1,NRJ France
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3553.ts
-#EXTINF:-1,RADIO SHALOM
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3545.ts
-#EXTINF:-1,RCJ
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3539.ts
-#EXTINF:-1,Rire & Chansons
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3554.ts
-#EXTINF:-1,RTL
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3546.ts
+
 #EXTINF:-1, TV5 MONDE
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3709.ts
 #EXTINF:-1,13EME RUE
@@ -3857,7 +3820,38 @@ http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3564.ts
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3563.ts
 #EXTINF:-1,ZOUZOUS
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3562.ts
-
+#EXTINF:-1,ADO FM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3540.ts
+#EXTINF:-1,CHANTE FRANCE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3544.ts
+#EXTINF:-1,CHERIE FM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3551.ts
+#EXTINF:-1,FRANCE CULTURE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3550.ts
+#EXTINF:-1,FRANCE INFO RADIO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3549.ts
+#EXTINF:-1,FRANCE INTER
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3548.ts
+#EXTINF:-1,FRANCE MUSIQUE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3547.ts
+#EXTINF:-1,FUN RADIO
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3541.ts
+#EXTINF:-1,M2 CLASSIC
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3543.ts
+#EXTINF:-1,M2 LOVE
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3542.ts
+#EXTINF:-1,Nostalgie France
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3552.ts
+#EXTINF:-1,NRJ France
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3553.ts
+#EXTINF:-1,RADIO SHALOM
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3545.ts
+#EXTINF:-1,RCJ
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3539.ts
+#EXTINF:-1,Rire & Chansons
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3554.ts
+#EXTINF:-1,RTL
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3546.ts
 
 
 
@@ -7782,6 +7776,8 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Pl
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
 http://.........
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER1=
+http://......
 #EXTINF:-1,B4U Movies
 http://my2.videodb.in:8081/HINDI/B4U_MOVIES/playlist.m3u8
 #EXTINF:-1,COLORS TV INDIA
@@ -7795,16 +7791,25 @@ http://my2.videodb.in:8081/HINDI/ZEE_TV/playlist.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://my2.videodb.in:8081/HINDI/ZEE_CINEMA/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER2=
+http://......
 #EXTINF:-1,INDIA HD MUSIC
 http://indiao.freeddns.org:8080/Startv_Hindi_Music_Live/index.m3u8
 #EXTINF:-1,HBO 
 http://indiao.freeddns.org:8080/STAR_HOT_ENGLISH/index.m3u8 
 
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER3=
+http://......
 #EXTINF:0,NDTV
 http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
 #EXTINF:0,Sony Max HD
 http://125.17.129.5/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
 
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER4=
+http://......
 #EXTINF:0,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
 #EXTINF:0,TVRI 3
@@ -7837,6 +7842,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 #EXTINF:-1,kompastv
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8
 
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER5=
+http://......
 #EXTINF:-1,Darshan Tv
 http://103.228.155.75:9981/stream/channelid/681700247
 #EXTINF:-1,INDIA VOICE
