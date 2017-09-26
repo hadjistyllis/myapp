@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/9/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -38,50 +38,66 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:1 group-title=”Documentary/Entertainment”, 
 
-#EXTINF:-1,ANIMALPLANET (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/471.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,ANIMAL PLANET HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/41.ts
+#EXTINF:-1,Animal Planet HD
+http://31.128.142.89:3371/udp/239.1.11.3:1234
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1,NATIONAL GEOGRAPHIC (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/507.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,National Geographic
+http://31.128.142.89:3371/udp/239.1.10.29:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:-1,DISCOVERY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/592.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/28.ts
+#EXTINF:-1,Nat Geo Wild
+http://31.128.142.89:3371/udp/239.1.11.27:1234
+#EXTINF:-1,NAT GEO WILD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/40.ts
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:-1,Discovery
 http://91.202.14.3:8001/play/a001
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:-1,Discovery HD
+http://31.128.142.89:3371/udp/239.1.11.1:1234
+#EXTINF:-1,DISCOVERY HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/38.ts
+#EXTINF:-1,Discovery Turbo (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/109.ts
+#EXTINF:-1,Discovery Velocity HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/106.ts
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
-#EXTINF:-1,DISC TURBO (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/593.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DISCOVERY HISTORY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/617.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DISCOVERY SCIENCE (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/561.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,DISCOVERY SCIENCE
 http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:-1,INVESTIGATIONDISCOVERY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/539.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,Discovery Science
+http://31.128.142.89:3371/udp/239.1.11.2:1234
+#EXTINF:-1,Investigation Discovery HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2.ts
+#EXTINF:-1,ID Xtra
+http://31.128.142.89:3371/udp/239.1.11.5:1234
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
+#EXTINF:-1,History Channel (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/72.ts
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:-1,HISTORY
 http://174.36.155.34:4000/live/287/287.m3u8
 #EXTINF:-1,History
 http://91.202.14.3:8001/play/a00a
-#EXTINF:-1,FOX (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/493.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FOX
+http://31.128.142.89:3371/udp/239.1.10.6:1234
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
+#EXTINF:-1,Fox Life
+http://31.128.142.89:3371/udp/239.1.10.5:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
@@ -90,8 +106,6 @@ http://37.194.121.4:1234/udp/239.1.3.11:1234
 http://91.202.14.3:8001/play/a00f
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
-#EXTINF:-1,FOODNETWORK (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/511.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
@@ -133,10 +147,6 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
-
-#EXTINF:-1,BABYTV (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/563.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
 #EXTINF:-1,JIM JAM
@@ -145,41 +155,37 @@ http://184.173.146.7:5000/live/201/201.m3u8
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
-#EXTINF:-1,CBEEBIES (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/621.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1,CARTOON NETWORK (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/508.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,Boomerang  (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/487.ts
 #EXTINF:0,Cartoon Network
 http://188.68.162.146:81/udp/239.2.100.159:4321
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,DISNEY CHANNEL (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/618.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,Cartoon Network (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/488.ts
 #EXTINF:-1,Disney Channel 
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:-1,DISNEYCHANNELPLUS (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/472.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DISNEY XD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/594.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DISNEY JUNIOR (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/509.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,NICKELODEON (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/540.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,Disney Channel (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/484.ts
+#EXTINF:-1,Disney HD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/22.ts
+#EXTINF:-1,Disney XD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/486.ts
+#EXTINF:-1,Disney XD (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/24.ts
+#EXTINF:-1,Disney Jr (LOOP_ONE)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/485.ts
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
+#EXTINF:-1,Nickelodeon
+http://31.128.142.89:3371/udp/239.1.9.15:1234
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
-#EXTINF:-1,NICK (MXPLAYER) (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/473.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,NICKTOON (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/562.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,NICKJR (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/596.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
@@ -188,7 +194,8 @@ http://37.49.213.11:81/udp/239.54.7.5:1224
 http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
-
+#EXTINF:-1,Nick Jr
+http://31.128.142.89:3371/udp/239.1.9.25:1234
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -232,14 +239,8 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
-#EXTINF:-1,MTVROCKS (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/564.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,MTVHITS (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/474.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,MTVDANCE (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/512.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,MTV (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/569.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MTV Rocks
+http://31.128.142.89:3371/udp/239.1.10.31:1234
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -352,7 +353,34 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
 
-
+#EXTINF:0,Sport Klub 1 HD 
+http://smarttv.tvviet.tv/live12/SK1HD.m3u8 
+#EXTINF:0,Sport Klub 2 HD 
+http://smarttv.tvviet.tv/live12/SK2HD.m3u8 
+#EXTINF:0,Sport Klub 3 HD 
+http://smarttv.tvviet.tv/live12/SK3HD.m3u8 
+#EXTINF:0,Sport Klub HD 
+http://smarttv.tvviet.tv/live52/SKHD.m3u8 
+#EXTINF:0,Sky Bundesliga 
+http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8 
+#EXTINF:0,Sky Sport 1 
+http://smarttv.tvviet.tv/live22/skysport1.m3u8 
+#EXTINF:0,Sky Sport 2 
+http://smarttv.tvviet.tv/live22/skysport2.m3u8 
+#EXTINF:0,Eurosport 
+http://smarttv.tvviet.tv/live22/Eurosport.m3u8 
+#EXTINF:0,Eurosport 2 
+http://smarttv.tvviet.tv/live52/Eurosport2.m3u8 
+#EXTINF:0,Arena Sport 
+http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
+#EXTINF:0,Arena Sport 2 
+http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
+#EXTINF:0,Arena Sport 3 
+http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
+#EXTINF:0,Arena Sport 4 
+http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
+#EXTINF:0,Arena Sport 5 
+http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
 
 #EXTINF:-1, SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
@@ -553,32 +581,3 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 http://bit.ly/2l0o6Os
 #EXTINF:-1,Cinema world
 http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1,SKY COMEDY HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/613.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY COMEDY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/500.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA SCIFI HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/499.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA SCIFI (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/588.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA PREMIERE HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/497.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA PREMIERE (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/586.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA FAMILY HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/527.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA FAMILY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/587.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA DISNEY HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/528.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA DISNEY (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/462.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA CRIME HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/498.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA CRIME (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/459.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA ACTION HD (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/555.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SKY CINEMA ACTION (MXPLAYER)
-http://ip-cdn.embratoria.net:8877/live/6e79GuUD9E/H2Bs87w5Svx/529.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
