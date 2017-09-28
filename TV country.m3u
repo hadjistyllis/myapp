@@ -8575,39 +8575,49 @@ http://..........
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER1=
 http://....
-#EXTINF:-1,BEIN_SPORTS_1_HD
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,USE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,"Video Player All Format"
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1,BEIN SPORTS 1 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.m3u8
-#EXTINF:-1,BEIN_SPORTS_2_HD
+#EXTINF:-1,BEIN SPORTS 2 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.m3u8
-#EXTINF:-1,BEIN_SPORTS_3_HD
+#EXTINF:-1,BEIN SPORTS 3 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.m3u8
-#EXTINF:-1,BEIN_SPORTS_4_HD
+#EXTINF:-1,BEIN SPORTS 4 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.m3u8
-#EXTINF:-1,BEIN_SPORTS_5_HD
+#EXTINF:-1,BEIN SPORTS 5 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.m3u8
-#EXTINF:-1,BEIN_SPORTS_6_HD
+#EXTINF:-1,BEIN SPORTS 6 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.m3u8
-#EXTINF:-1,BEIN_SPORTS_7_HD
+#EXTINF:-1,BEIN SPORTS 7 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.m3u8
-#EXTINF:-1,BEIN_SPORTS_8_HD
+#EXTINF:-1,BEIN SPORTS 8 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.m3u8
-#EXTINF:-1,BEIN_SPORTS_9_HD
+#EXTINF:-1,BEIN SPORTS 9 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.m3u8
-#EXTINF:-1,BEIN_SPORTS_10_HD
+#EXTINF:-1,BEIN SPORTS 10 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.m3u8
-#EXTINF:-1,BEIN SPORT HD
+#EXTINF:-1,BEIN SPORT HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.m3u8
-#EXTINF:-1,BEIN_NEWS_HD
+#EXTINF:-1,BEIN_NEWS_HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.m3u8
-#EXTINF:-1,BEIN SPORTS NEWS HD
+#EXTINF:-1,BEIN SPORTS NEWS HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12744.m3u8
-#EXTINF:-1,AD SPORT 1
+#EXTINF:-1,AD SPORT 1 (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12678.m3u8
-#EXTINF:-1,AD SPORT 1 HD
+#EXTINF:-1,AD SPORT 1 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12534.m3u8
-#EXTINF:-1,AD SPORT 2
+#EXTINF:-1,AD SPORT 2 (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12518.m3u8
-#EXTINF:-1,AD SPORT 2 HD
+#EXTINF:-1,AD SPORT 2 HD (Video Player All Format ONLY)
 http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12542.m3u8
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SERVER2=
@@ -10791,8 +10801,6 @@ http://95.140.197.69:806/play/a01z
 http://95.140.197.69:806/play/a01r
 #EXTINF:-1,МАТЧ! ФУТБОЛ 2
 http://95.140.197.69:806/play/a01o
-#EXTINF:-1,Русская ночь
-http://95.140.197.69:806/play/a021
 #EXTINF:-1,МАТЧ! ФУТБОЛ 1
 http://95.140.197.69:806/play/a01n
 #EXTINF:-1,RTG TV
