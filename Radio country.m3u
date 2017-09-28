@@ -896,6 +896,56 @@ http://82.197.66.101/Wave-Swansea
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title="USA",
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmWQqsX.png" ,iHeart 80s Radio
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xhqB0IJ.png" ,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" ,Z100 Radio
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/By8OGzZ.png" ,Nickeloden Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:4 group-title="GERMANY",
 
 #EXTINF:0,Antenne Bayern (AAC)
@@ -954,6 +1004,11 @@ http://www.antenne.de/webradio/channels/top-40.aac.pls
 http://www.antenne.de/webradio/channels/top-40.m3u
 #EXTINF:0,Antenne Brandenburg (MP3)
 http://www.antennebrandenburg.de/live.m3u
+
+
+
+
+
 
 
 
