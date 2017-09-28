@@ -38,22 +38,28 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:1 group-title=”Documentary/Entertainment”, 
 
-#EXTINF:-1,ANIMAL PLANET HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/41.ts
+#EXTINF:-1,Animal Planet (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Animal Planet HD
 http://31.128.142.89:3371/udp/239.1.11.3:1234
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,National Geographic
 http://31.128.142.89:3371/udp/239.1.10.29:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/28.ts
+#EXTINF:-1,NAT GEO (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NAT GEO WILD (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nat Geo Wild
 http://31.128.142.89:3371/udp/239.1.11.27:1234
-#EXTINF:-1,NAT GEO WILD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/40.ts
+#EXTINF:-1,Discovery (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISCOVERY (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:-1,Discovery
@@ -62,28 +68,24 @@ http://91.202.14.3:8001/play/a001
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery HD
 http://31.128.142.89:3371/udp/239.1.11.1:1234
-#EXTINF:-1,DISCOVERY HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/38.ts
-#EXTINF:-1,Discovery Turbo (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/109.ts
-#EXTINF:-1,Discovery Velocity HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/106.ts
+#EXTINF:-1,DISCOVERY HISTORY (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
+#EXTINF:-1,Discovery Science (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISCOVERY SCIENCE (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,DISCOVERY SCIENCE
 http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:-1,Discovery Science
 http://31.128.142.89:3371/udp/239.1.11.2:1234
-#EXTINF:-1,Investigation Discovery HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/2.ts
 #EXTINF:-1,ID Xtra
 http://31.128.142.89:3371/udp/239.1.11.5:1234
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:-1,History Channel (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/72.ts
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:-1,HISTORY
@@ -155,29 +157,31 @@ http://184.173.146.7:5000/live/201/201.m3u8
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:-1,boomerang (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1,Boomerang  (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/487.ts
 #EXTINF:0,Cartoon Network
 http://188.68.162.146:81/udp/239.2.100.159:4321
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,Cartoon Network (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/488.ts
+#EXTINF:-1,CARTOON NETWORK (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,Disney Channel (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY CHANNEL (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Disney Channel 
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:-1,Disney Channel (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/484.ts
-#EXTINF:-1,Disney HD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/22.ts
-#EXTINF:-1,Disney XD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/486.ts
-#EXTINF:-1,Disney XD (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/24.ts
-#EXTINF:-1,Disney Jr (LOOP_ONE)
-http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/485.ts
+#EXTINF:-1,DISNEY JR (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,Disney XD  (Wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY XD (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NICKELODEON (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
 #EXTINF:-1,Nickelodeon
@@ -186,6 +190,8 @@ http://31.128.142.89:3371/udp/239.1.9.15:1234
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
+#EXTINF:-1,NICKTOONS (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
@@ -196,6 +202,10 @@ http://93.91.113.8:9999/play/a06l
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1,Nick Jr
 http://31.128.142.89:3371/udp/239.1.9.25:1234
+#EXTINF:-1,NICK JR TOO (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NICK JR (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -241,6 +251,12 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Rocks
 http://31.128.142.89:3371/udp/239.1.10.31:1234
+#EXTINF:-1,MTV BASE (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MTV DANCE (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MTV MUSIC (MXPLAYER)
+http://173.212.206.199:25461/live/ksa/indep/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -466,11 +482,84 @@ rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:5 group-title=”NEWS”,
 
 
-
+#EXTINF:-1 tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" ,ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:-1 tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" ,CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" ,CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" ,CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" ,CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://kpho.images.worldnow.com/images/490348_G.jpg" ,CBS 5 News (Arizona)
+http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" ,CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/14552.jpg" ,CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+#EXTINF:-1 tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" ,CBS 47 News (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" ,Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:-1 tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" ,FOX 13 News (Memphis)
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" ,FOX 25 News (New England)
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" ,Fox News 30 (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" ,KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+#EXTINF:-1 tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" ,KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" ,KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:-1 tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" ,KOKI Fox 23 (Tulsa)
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4059.jpg" ,KTVU News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" ,KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N2mDQbE.jpg" ,NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" ,NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/14551.jpg" ,NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" ,News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" ,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" ,NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" ,NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" ,NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:-1 tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" ,NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" ,WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" ,WPXI News (Pittsburg)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg" ,WSOC 9 News (Charlotte)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" ,WTPC 16 (Virginia)
+http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
+#EXTINF:-1 tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1,CHCH TV (CANADA)
 rtmp://52.86.189.59/live/news
-#EXTINF:-1,FOX 7News Live 720p
-http://bcoveliveios-i.akamaihd.net/hls/live/246495/4368278029001_1/onair/master_2500.m3u8
 #EXTINF:-1,ABC NEWS 720p
 http://abclive.abcnews.com/i/abc_live4@97035/index_2500_av-b.m3u8
 #EXTINF:-1,NBC NEWS
@@ -511,26 +600,7 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:-1,RAI NEWS 24
 http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
-#EXTINF:-1,USA News 12 Brooklyn
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-#EXTINF:-1,USA News 12 Bronx
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-#EXTINF:-1,USA News 12 Connecticut
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-#EXTINF:-1,USA News 12 Hudson Valley
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-#EXTINF:-1,USA News 12 Long Island
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-#EXTINF:-1,USA News 12 New Jersey
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-#EXTINF:-1,USA News 12 Westchester
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-#EXTINF:-1,USA News 12 Westchester(Weather from Hudson Valley)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-#EXTINF:-1,WGN TV (Chicago)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1,WGN TV (Chicago) (2)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,sky News
 https://www.youtube.com/watch?v=y60wDzZt8yg
 #EXTINF:-1,I24 News
@@ -551,8 +621,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 http://tv.life.ru/lifetv/360p/index.m3u8
 #EXTINF:0,ON AIR Bulgaria
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0,W24 Wien
-http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+
 
 
 
