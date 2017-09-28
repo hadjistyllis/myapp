@@ -50,16 +50,10 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 http://31.128.142.89:3371/udp/239.1.10.29:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:-1,NAT GEO (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NAT GEO WILD (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nat Geo Wild
 http://31.128.142.89:3371/udp/239.1.11.27:1234
 #EXTINF:-1,Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISCOVERY (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:-1,Discovery
@@ -68,14 +62,10 @@ http://91.202.14.3:8001/play/a001
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery HD
 http://31.128.142.89:3371/udp/239.1.11.1:1234
-#EXTINF:-1,DISCOVERY HISTORY (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
 #EXTINF:-1,Discovery Science (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISCOVERY SCIENCE (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,DISCOVERY SCIENCE
 http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:0,Discovery Science
@@ -165,23 +155,13 @@ http://95.82.241.148:81//udp/239.255.2.144:1234
 http://188.68.162.146:81/udp/239.2.100.159:4321
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,CARTOON NETWORK (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISNEY CHANNEL (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Disney Channel 
 #EXTVLCOPT:network-caching=2000
 http://5.32.183.177:4080/udp/224.0.0.120:1235
-#EXTINF:-1,DISNEY JR (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Disney XD  (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISNEY XD (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NICKELODEON (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nickelodeon
 http://93.91.113.8:9999/play/a06k
 #EXTINF:-1,Nickelodeon
@@ -190,8 +170,6 @@ http://31.128.142.89:3371/udp/239.1.9.15:1234
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:0,nickelodeon (GREEK)
 http://bit.ly/2lLgg6P
-#EXTINF:-1,NICKTOONS (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
@@ -202,10 +180,6 @@ http://93.91.113.8:9999/play/a06l
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1,Nick Jr
 http://31.128.142.89:3371/udp/239.1.9.25:1234
-#EXTINF:-1,NICK JR TOO (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NICK JR (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -251,12 +225,6 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1,MTV Rocks
 http://31.128.142.89:3371/udp/239.1.10.31:1234
-#EXTINF:-1,MTV BASE (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,MTV DANCE (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,MTV MUSIC (MXPLAYER)
-http://173.212.206.199:25461/live/ksa/indep/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
