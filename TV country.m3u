@@ -1441,8 +1441,10 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8 
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,Capital TV
+#EXTINF:-1 tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" ,Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" ,Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg" ,CITY
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
 #EXTINF:-1,Clubbing TV 
@@ -1457,22 +1459,22 @@ rtmp://planetaonline.cdnvideo.ru/rr/channel_2
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0 tvg-logo="http://wmub.tv/www/tv-wmub/images/france24-logo-english.jpg" ,France 24
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
-#EXTINF:-1,Heart TV
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/11526.jpg" ,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" ,IdealWorld
 http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" ,Insight
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
-#EXTINF:-1,NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" ,NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:0,HSN TV
-rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
 #EXTINF:0,JBLive.TV
 rtsp://videocdn-us.geocdn.scaleengine.net/jblive/live/jblive.stream
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" ,Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" ,Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" ,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:0,MELLO TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" ,MyHit
@@ -1483,18 +1485,24 @@ http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 http://ndtv.indostan.epac.to/ndtv/247lo/live/native
 #EXTINF:0,NDTV 24x7
 http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" ,NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:0,Peace Tv Asia
 rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
 #EXTINF:-1,Peace tv 
 http://199.167.151.237:1935/live/sp15_3.stream/master-baba_1.m3u8?
-#EXTINF:0,QVC 1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-#EXTINF:0,QVC 2
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Style
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Style
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Beauty
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC Beauty
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Russia Today UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:0,RT Russia Today Documentary HD
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:0,RT Russia Today News HD
@@ -1635,6 +1643,14 @@ http://185.53.163.205:2502
 http://185.53.163.205:2503
 #EXTINF:0, BT Sport Extra 6
 http://185.53.163.205:2504
+
+#EXTINF:-1 tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" ,BT Sport 1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" ,BT Sport 2
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" ,BT Sport 3
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+
 
 #EXTINF:0,Sky Sport 1 
 http://smarttv.tvviet.tv/live22/skysport1.m3u8 
