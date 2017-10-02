@@ -6731,7 +6731,7 @@ http://..........
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" ,Agueda TV
 http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
-#EXTINF:0 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png",ALL SPORTS
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" ,ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
 #EXTINF:-1 tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [144p] 
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_162_av-b.m3u8 
@@ -6753,27 +6753,27 @@ http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
 http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1
 rtmp://noscdn1.connectedviews.com/live/rtp1.stream
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1 (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP 2
 http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP 2
 rtmp://noscdn1.connectedviews.com/live/rtp2.stream
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP2
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP2 (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" ,RTP Acores
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" ,RTP Acores (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" ,RTP Africa
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" ,RTP Africa (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" ,RTP Internacional
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" ,RTP Internacional (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" ,RTP Madeira
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" ,RTP Madeira (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" ,RTP Memoria
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" ,RTP Memoria (Wuffy Player)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/LogoSICold.png/200px-LogoSICold.png" ,SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" ,SPORT TV 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345--portugal-internet.jpg" ,SPORT TV 1
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
