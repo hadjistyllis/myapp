@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,2/10/17 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/10/17 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -55,30 +55,12 @@ http://..........
 
 #EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=https://goo.gl/7X3mcE ,RIKSAT
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/eq473601t9w8.m3u8
-#EXTINF:0 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.lakatamia.tv/media/images/articles/article190_thumb.jpg ,RIK1 (MxPlayer)
-http://bit.ly/2lsCEqq
-#EXTINF:0 tvg-name="Rik2" epg-id=Rik2 tvg-logo=http://www.lakatamia.tv/media/images/articles/rik2_thumb.jpg ,RIK2 (MxPlayer)
-http://bit.ly/2mrZ5vq
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA (MxPlayer)
-http://bit.ly/2lL7u8Z
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://master.cystreams.com:25461/live/greek/greekarios/12.ts
-#EXTINF:-1 tvg-name="Alpha" epg-id=Alpha tvg-logo=http://primetel.com.cy/tvg/logos/295.png ,ALPHA CY (MxPlayer)
-http://bit.ly/alphacy1
-#EXTINF:0 tvg-logo=http://cdn.tvonenews.com.cy/theme/assets/img/tvone-station.png ,TVONE (MxPlayer)
-http://bit.ly/2maGWBj
-#EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,Ant1 (MxPlayer)
-http://bit.ly/2mskYL9
-#EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital (MxPlayer)
-http://bit.ly/2m7JW00
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
 http://master.cystreams.com:25461/live/greek/greekarios/14.ts
-#EXTINF:0 tvg-logo=http://lovemyall.com/udata/contents/images/NewsImages/2014/10%20Jul/plustv.jpg ,Plus (MxPlayer)
-http://bit.ly/2lsBlrE
-#EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA (MxPlayer)
-http://bit.ly/2mpLp3F
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
 http://master.cystreams.com:25461/live/greek/greekarios/15.ts
 #EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV
@@ -112,16 +94,10 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:1 tvg-logo=http://cdn.e-radio.gr/logos/gr/big/manaellada.png ,==GREECE==
 http://..........
 
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 (MxPlayer)
-http://bit.ly/ert1gr1
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV
 https://www.youtube.com/watch?v=Zx98moCvkpU
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 (MxPlayer)
-http://bit.ly/ert2gr1
 #EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WorldWide WebTV
 https://www.youtube.com/watch?v=qBxbnSwOrxE
-#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 (MxPlayer)
-http://bit.ly/ert3gr1
 #EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV
 https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV
@@ -130,24 +106,18 @@ https://www.youtube.com/watch?v=qRY56sJJ2to
 https://www.youtube.com/watch?v=Ba4voPNmZUU
 #EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV TORONTO
 rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
-#EXTINF:0 tvg-logo=https://goo.gl/q5aDRg ,ANT1 (MxPlayer)
-http://bit.ly/ant1gr1
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (MxPlayer)
-http://bit.ly/megagr1
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
 https://www.youtube.com/watch?v=tug1qABlQ-M
+#EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
+http://master.cystreams.com:25461/live/greek/greekarios/43.ts
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/greekarios/42.ts
-#EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI (MxPlayer)
-http://bit.ly/skaigr1
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
 https://www.youtube.com/watch?v=7Yo7A5QVVOE
-#EXTINF:0 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha (MxPlayer)
-http://bit.ly/alphagr1
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
@@ -158,18 +128,12 @@ http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
 http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
-#EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E (MxPlayer)
-http://bit.ly/epsilongr1
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
 https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/greekarios/40.ts
-#EXTINF:0 tvg-name="Extra" tvg-logo=https://goo.gl/DLdUJo ,EXTRA (MxPlayer)
-http://bit.ly/extragr1
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0 tvg-name="ΑΡΤ" tvg-logo="http://www.omke.gr/wp-content/uploads/art.png",ART (MxPlayer)
-http://bit.ly/artgr1
 #EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV
 https://www.youtube.com/watch?v=https://youtu.be/1TjMeU9dlIo
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
@@ -729,19 +693,10 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg" ,NBA TV (Wuffy Player)
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0,Arena Sport 1
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
-#EXTINF:0,Arena Sport 2 
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
-#EXTINF:0,Arena Sport 3 
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
-#EXTINF:0,Arena Sport 4 
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
-#EXTINF:0,Arena Sport 5 
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
+
 
 
 
@@ -1616,7 +1571,7 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg" ,NBA TV (Wuffy Player)
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
@@ -6652,8 +6607,14 @@ http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
 http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 #EXTINF:-1,Caracol HD
 http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
-
-
+#EXTINF:-1,Vivo plus
+http://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
+#EXTINF:-1,Vivo plus
+http://vivoplay-i.akamaihd.net:80/hls/live/261554/canal2/master2500k.m3u8
+#EXTINF:-1,TyC Sports VIVO [430p]
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master1000k.m3u8
+#EXTINF:-1,TyC Sports VIVO [270p]
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master500k.m3u8
 
 
 
@@ -12657,64 +12618,89 @@ http://..........
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/255px-Flag_of_Turkey.svg.png ,==Turkey==
 http://..........
 
-#EXTINF:0,TRT1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0,TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:0,TRTARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:0,TRTOKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,cnn_turk
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,tv2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:0,TRTDIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:0,dreamtv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0,dreamturktv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png",13tv
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:0,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/BratuMarian.m3u8
-#EXTINF:0,MECLISTV
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,TRT6
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:0,bloomber
-http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
-#EXTINF:0,TRTHABERHD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:0,TRTMUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,TRTBELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:0,TRTAVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:0,TRTCOCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:0,National Geographic
-mms://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://puu.sh/rePoj/7d9227ef45.png",Alcance TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png",Anime 24H
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png",Antena 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:0,BENGÜTÜRK
 rtmp://yayin8.canliyayin.org/benguturk/benguturk
+#EXTINF:-1 tvg-logo="http://puu.sh/uZoIA/e0c858397b.png",BHTV Peru
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:0,BLOOMBERG HT
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/BratuMarian.m3u8
+#EXTINF:0,bloomber
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
 #EXTINF:0,BRT 1 
 http://wms.brtk.net:1935/live/brt1/BratuMarian.m3u8
 #EXTINF:0,BRT 2 
 http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:0,CNN TURK 720*576
+#EXTINF:0,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png",Cali TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png",Canal 2 Televicentro
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB4aq/6b5ee1d45c.png",Canal 22
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",Canal de las Estrellas 2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNIz/9bf443e55b.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0,CNN TURK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,PLANET TURK
-http://77.223.146.117:1935/live/planett/playlist.m3u8
-#EXTINF:0,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0,TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png",CTNI
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reX5m/b3add2d39c.png",Djing Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,dreamtv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,dreamturktv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wcPrG/9210f60017.png",DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?&clave=free&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png",Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFvL/1137b892f2.png",Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mKFtG/9926077bd4.png",Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB44g/098e405622.png",Juce TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 #EXTINF:0,KANAL B 
 http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
 #EXTINF:0,KANAL B 
 rtmp://212.174.233.129/livepkgr/mylivestream
+#EXTINF:-1 tvg-logo="http://puu.sh/reI44/c226288315.png",La Luz Peru
+http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qwMC0/376cc81b30.png",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?sd=1&clave=free&f=.m3u8
+#EXTINF:0,MECLISTV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8N3/9ca59d233e.png",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvBc/cad6baaa87.png",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,National Geographic
+mms://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0OX/b5081cfda8.png",ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:0,PLANET PEMBE
 http://77.223.146.117:1935/live/planetp/BratuMarian.m3u8
 #EXTINF:0,PLANET PEMBE
@@ -12723,6 +12709,8 @@ rtmp://77.223.146.117/live/planetp
 http://77.223.146.117:1935/live/planett/BratuMarian.m3u8
 #EXTINF:0,PLANET TÜRK 
 rtmp://77.223.146.117/live/planett
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8KU/39046fe455.png",RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:0,SEMERKAND HD 
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/BratuMarian.m3u8
 #EXTINF:0,SEMERKAND TV
@@ -12749,6 +12737,16 @@ mms://yayin7.canliyayin.org/sinema4
 http://yayin7.canliyayin.org:80/sinema5
 #EXTINF:0,SİNEMA 5
 mms://yayin7.canliyayin.org/sinema5
+#EXTINF:-1 tvg-logo="http://puu.sh/ngQ15/fc7caebab2.png",Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?&clave=free&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvUJ/fe599e7cee.png",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/uDFJx/6709e1008e.png",TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/index.m3u8
+#EXTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT6
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:0,TRT ARAPÇA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,TRT ARAPÇA
@@ -12773,18 +12771,32 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&
 http://sol.trtcdn.com/rd/trtturku/playlist.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://sol.trtcdn.com/tv/trtcocuk/trtcocuk_3/BratuMarian.m3u8
-#EXTINF:0,BURSASPOR TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-#EXTINF:0,TV 10 -720*576 rtmp
-rtmp://5.135.142.60:1935/tv10/xetero
 #EXTINF:0,TV 2
 http://212.224.108.76:80/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 #EXTINF:0,TV 2 
 http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:0,Tv 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:0,TV 10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:-1 tvg-logo="http://puu.sh/o8YpV/f18d1a478e.png",TVBrasil
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qmd5g/43e67c54db.png",TVN Ecuador
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrvp/3eaf3d4de0.png",TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8K9/06191357cf.png",TVT (TV Tlaxcala)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/q9uoz/89d364b29e.png",Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/qez5F/ea76437016.png",VTV2 Chile
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?.ts&clave=free&f=.m3u8
 #EXTINF:0,VTV 
 rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 #EXTINF:0,VUSLAT TV 
 http://yayin3.canlitv.com:1935/live/vuslattv/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reHTY/cd49899b1c.png",Willax TV
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 #EXTINF:0,YASİN TV
 http://sr1.netmedya.org:1935/yasintv/live.sdp/BratuMarian.m3u8
 #EXTINF:0,YOL TV 
@@ -12795,93 +12807,4 @@ rtmp://178.254.20.205:2100/yol/yolstream.flv
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:10 group-title=”Turkey2-WebTV”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/255px-Flag_of_Turkey.svg.png ,==Turkey==
-http://..........
-
-#EXTINF:-1, CANAL ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png",Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB4aq/6b5ee1d45c.png",Canal 22
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",Canal de las Estrellas 2
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8KU/39046fe455.png",RCG TV Coahuila
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8K9/06191357cf.png",TVT (TV Tlaxcala)
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png",Anime 24H
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/wcPrG/9210f60017.png",DW Latinoamerica
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png",Efekto TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNIz/9bf443e55b.png",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reX5m/b3add2d39c.png",Djing Ibiza
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB44g/098e405622.png",Juce TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mNvBc/cad6baaa87.png",Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mNvUJ/fe599e7cee.png",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/q9uoz/89d364b29e.png",Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png",CTNI
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qez5F/ea76437016.png",VTV2 Chile
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?.ts&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nC0OX/b5081cfda8.png",ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png",Cali TV
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/ngQ15/fc7caebab2.png",Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/uZoIA/e0c858397b.png",BHTV Peru
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reI44/c226288315.png",La Luz Peru
-http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reHTY/cd49899b1c.png",Willax TV
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/uDFJx/6709e1008e.png",TLT Venezuela
-http://enc-fwt.lorini.net/telet/telet/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrvp/3eaf3d4de0.png",TVO Canal 23
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png",Canal 2 Televicentro
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qmd5g/43e67c54db.png",TVN Ecuador
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8YpV/f18d1a478e.png",TVBrasil
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png",13tv
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png",Antena 3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/qwMC0/376cc81b30.png",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?sd=1&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8N3/9ca59d233e.png",Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/rePoj/7d9227ef45.png",Alcance TV
-http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFvL/1137b892f2.png",Enlace Juvenil
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFtG/9926077bd4.png",Enlace TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?sd=10&rebase=on&clave=free&f=.m3u8
 
