@@ -224,8 +224,6 @@ rtmp://stream2.svbllc.com:1935/4e/4e.stream
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/ablVkW ,WZRA KID'S GR
 mmsh://wpso.com:200/kids?MSWMExt=.asf
-#EXTINF:0,Nickelodeon
-http://bit.ly/2lLgg6P
 #EXTINF:-1 ,MIX
 http://wpso.com:1936/hls/wzra.m3u8
 
