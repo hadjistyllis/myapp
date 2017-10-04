@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,3/10/17 update2
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,4/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -94,21 +94,21 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:1 tvg-logo=http://cdn.e-radio.gr/logos/gr/big/manaellada.png ,==GREECE==
 http://..........
 
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT1 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Zx98moCvkpU
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WorldWide WebTV
+#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=qBxbnSwOrxE
-#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV
+#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ERT3 Worldwide WebTV (Youtube)
 https://www.youtube.com/watch?v=5r5iftFbASw
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/DLhMC3 ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/Ba4voPNmZUU/maxresdefault_live.jpg ,ERT Play WorldWide WebTV
+#EXTINF:-1 tvg-logo=https://i.ytimg.com/vi/Ba4voPNmZUU/maxresdefault_live.jpg ,ERT Play WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Ba4voPNmZUU
 #EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV TORONTO
 rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
-#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
+#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Youtube)
 https://www.youtube.com/watch?v=tug1qABlQ-M
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
 http://master.cystreams.com:25461/live/greek/greekarios/43.ts
@@ -116,9 +116,9 @@ http://master.cystreams.com:25461/live/greek/greekarios/43.ts
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/greekarios/42.ts
-#EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
+#EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
 https://www.youtube.com/watch?v=7Yo7A5QVVOE
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
+#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation) (Youtube)
 https://www.youtube.com/watch?v=a67XGboEcdw
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
@@ -134,7 +134,7 @@ https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 http://master.cystreams.com:25461/live/greek/greekarios/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV
+#EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV (Youtube)
 https://www.youtube.com/watch?v=https://youtu.be/1TjMeU9dlIo
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
@@ -166,7 +166,7 @@ rtmp://live.cretetv.gr/cretetv/myStream
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-name="Kontra Channel" epg-id=KontraEN.gr tvg-logo=https://goo.gl/S96RUr ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ENA.PNG ,ENA
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ENA.PNG ,ENA (Youtube)
 https://www.youtube.com/watch?v=Hk1IcqPqS_0
 #EXTINF:-1 tvg-logo=https://goo.gl/3EsuCz ,AIGAIO
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -176,7 +176,7 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 http://stream-01.dc3.dailymotion.com/57/dm/3/x62oght/live-2.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/lFa1KuV.gif ,SUPER B
 https://www.youtube.com/watch?v=25cca6ooLS4
-#EXTINF:-1 tvg-logo=https://goo.gl/QMXKek ,EURONEWS
+#EXTINF:-1 tvg-logo=https://goo.gl/QMXKek ,EURONEWS (Youtube)
 https://www.youtube.com/watch?v=-PUMTIfTvVo  
 #EXTINF:-1 tvg-logo=https://goo.gl/aVVUtg ,TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
@@ -186,7 +186,7 @@ mms://tvgold.webcast.mediacdn.com/tvgold
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:-1 tvg-logo=https://goo.gl/oJ9YrY ,THRAKI NET
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:-1 tvg-logo=https://goo.gl/WUKKBu ,Blue Sky
+#EXTINF:-1 tvg-logo=https://goo.gl/WUKKBu ,Blue Sky (Youtube)
 https://www.youtube.com/watch?v=JvYn98J9Edo
 #EXTINF:-1 tvg-logo=https://goo.gl/pgniZC ,LYXNOC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
@@ -290,39 +290,106 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,Ept 1
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,Ept 1
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2345.ts|user-agent=useragent
-#EXTINF:-1,ERT 1
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT 1 WebTV 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2347.ts|user-agent=useragent
-#EXTINF:-1,Ept 2
+#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,Ept 2
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2346.ts|user-agent=useragent
-#EXTINF:-1,ERT2
+#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WebTV 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2349.ts|user-agent=useragent
-#EXTINF:-1,Ert HD
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=http://www.typologies.gr/wp-content/uploads/2015/06/ERT-HD-logo--300x101.jpg ,Ert HD
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2348.ts|user-agent=useragent
-#EXTINF:-1,EXTRA
+#EXTINF:-1 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/extra3_gr.jpg ,EXTRA
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2353.ts|user-agent=useragent
-#EXTINF:-1,Extra Channel
+#EXTINF:-1 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/extra3_gr.jpg ,Extra Channel
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2354.ts|user-agent=useragent
-#EXTINF:-1,Alpha
+#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2330.ts|user-agent=useragent
-#EXTINF:-1,ANT1
+#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2331.ts|user-agent=useragent
-#EXTINF:-1,Ant1 Cy
+#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,Ant1 Cy
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1649.ts|user-agent=useragent
-#EXTINF:-1,Ant1 HD
+#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,Ant1 HD
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2332.ts|user-agent=useragent
-#EXTINF:-1,Mega
+#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,Mega
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2368.ts|user-agent=useragent
-#EXTINF:-1,Star
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,Star
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2385.ts|user-agent=useragent
-#EXTINF:-1,Star TV
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,Star TV
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2386.ts|user-agent=useragent
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”GREECE/Cyprus2-Premium-MXPlayer”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
+
+#EXTINF:-1,4ETV
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4750.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4751.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4752.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,EPSILON
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4753.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ET1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4754.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ET2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4755.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ET3
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4756.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="Kontra Channel" epg-id=KontraEN.gr tvg-logo=https://goo.gl/S96RUr ,KONTRACHANNEL
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4757.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,MAKEDONIA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4758.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4759.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4760.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4761.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 
 
 
@@ -3381,99 +3448,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/881.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Italy2-Premium-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,BOING
-http://173.212.206.199:25461/live/ksa/indep/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANALE 5
-http://173.212.206.199:25461/live/ksa/indep/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CARTOON NETWORK
-http://173.212.206.199:25461/live/ksa/indep/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISNEY JunioR
-http://173.212.206.199:25461/live/ksa/indep/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,LA5
-http://173.212.206.199:25461/live/ksa/indep/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,LA7
-http://173.212.206.199:25461/live/ksa/indep/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,MEDIASAT EXTRA
-http://173.212.206.199:25461/live/ksa/indep/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NICKELODEON
-http://173.212.206.199:25461/live/ksa/indep/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PREMIUM ACTION 24
-http://173.212.206.199:25461/live/ksa/indep/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://173.212.206.199:25461/live/ksa/indep/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PREMIUM EMOTION
-http://173.212.206.199:25461/live/ksa/indep/835.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PREMIUM JOI
-http://173.212.206.199:25461/live/ksa/indep/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI 1
-http://173.212.206.199:25461/live/ksa/indep/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI 2
-http://173.212.206.199:25461/live/ksa/indep/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI 4
-http://173.212.206.199:25461/live/ksa/indep/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI 5
-http://173.212.206.199:25461/live/ksa/indep/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI GULP
-http://173.212.206.199:25461/live/ksa/indep/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI MOVIE
-http://173.212.206.199:25461/live/ksa/indep/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI NEWS 24
-http://173.212.206.199:25461/live/ksa/indep/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI PREMIUM
-http://173.212.206.199:25461/live/ksa/indep/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI SCUOLA
-http://173.212.206.199:25461/live/ksa/indep/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI STORIA
-http://173.212.206.199:25461/live/ksa/indep/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RAI YOYO
-http://173.212.206.199:25461/live/ksa/indep/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RETE 4
-http://173.212.206.199:25461/live/ksa/indep/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RSI LA1 HD
-http://173.212.206.199:25461/live/ksa/indep/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RSI LA2 HD /
-http://173.212.206.199:25461/live/ksa/indep/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC 1HD
-http://173.212.206.199:25461/live/ksa/indep/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC HD
-http://173.212.206.199:25461/live/ksa/indep/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA 1 HD
-http://173.212.206.199:25461/live/ksa/indep/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA CLASSIC HD
-http://173.212.206.199:25461/live/ksa/indep/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://173.212.206.199:25461/live/ksa/indep/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA MAX HD
-http://173.212.206.199:25461/live/ksa/indep/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,STUDIO UNIVERSAL
-http://173.212.206.199:25461/live/ksa/indep/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -4569,91 +4543,7 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/354.ts|us
 
 
 
-#EXTINF:8 group-title=”France3-PREMIUM_MXPLAYER”,
 
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,ANIMUX
-http://173.212.206.199:25461/live/ksa/indep/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL CINEMA
-http://173.212.206.199:25461/live/ksa/indep/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL DECALE
-http://173.212.206.199:25461/live/ksa/indep/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL FAMILY
-http://173.212.206.199:25461/live/ksa/indep/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV 1 /
-http://173.212.206.199:25461/live/ksa/indep/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV 2
-http://173.212.206.199:25461/live/ksa/indep/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV3 /
-http://173.212.206.199:25461/live/ksa/indep/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV4 /
-http://173.212.206.199:25461/live/ksa/indep/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV5 /
-http://173.212.206.199:25461/live/ksa/indep/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV6 /
-http://173.212.206.199:25461/live/ksa/indep/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV7 /
-http://173.212.206.199:25461/live/ksa/indep/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV8 /
-http://173.212.206.199:25461/live/ksa/indep/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV9 /
-http://173.212.206.199:25461/live/ksa/indep/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL PPV10 /
-http://173.212.206.199:25461/live/ksa/indep/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL SERIES
-http://173.212.206.199:25461/live/ksa/indep/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CHASSE E PECHE
-http://173.212.206.199:25461/live/ksa/indep/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CINE CLASSIC
-http://173.212.206.199:25461/live/ksa/indep/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CINE FAMIZ
-http://173.212.206.199:25461/live/ksa/indep/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CINE FX
-http://173.212.206.199:25461/live/ksa/indep/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISCOVERY SCIENCE
-http://173.212.206.199:25461/live/ksa/indep/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISCOVERY
-http://173.212.206.199:25461/live/ksa/indep/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,FRANCE 2
-http://173.212.206.199:25461/live/ksa/indep/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,FRANCE 3
-http://173.212.206.199:25461/live/ksa/indep/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,FRANCE 5
-http://173.212.206.199:25461/live/ksa/indep/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NAT GEO CHANNEL
-http://173.212.206.199:25461/live/ksa/indep/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NAT GEO WILD
-http://173.212.206.199:25461/live/ksa/indep/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NRJ12
-http://173.212.206.199:25461/live/ksa/indep/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PLANETE PLUS CI
-http://173.212.206.199:25461/live/ksa/indep/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PLANETE PLUS
-http://173.212.206.199:25461/live/ksa/indep/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,W9 HD
-http://173.212.206.199:25461/live/ksa/indep/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -6021,177 +5911,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Germany3-PREMIUM-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISCOVERY HD
-http://173.212.206.199:25461/live/ksa/indep/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISNEY CHANNEL
-http://173.212.206.199:25461/live/ksa/indep/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISNEY CINEMAGIC
-http://173.212.206.199:25461/live/ksa/indep/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISNEY JUNIOR
-http://173.212.206.199:25461/live/ksa/indep/532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DISNEY XD
-http://173.212.206.199:25461/live/ksa/indep/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DMAX
-http://173.212.206.199:25461/live/ksa/indep/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,EURO SPORTS 1 HD
-http://173.212.206.199:25461/live/ksa/indep/535.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,URO SPORTS 2 HD
-http://173.212.206.199:25461/live/ksa/indep/536.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,FOX HD
-http://173.212.206.199:25461/live/ksa/indep/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,HISTORY HD
-http://173.212.206.199:25461/live/ksa/indep/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,KABEL EINS
-http://173.212.206.199:25461/live/ksa/indep/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,KIKA
-http://173.212.206.199:25461/live/ksa/indep/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,KINO WELT HD
-http://173.212.206.199:25461/live/ksa/indep/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NAT GEO CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NAT GEO WILD HD
-http://173.212.206.199:25461/live/ksa/indep/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PRO 7
-http://173.212.206.199:25461/live/ksa/indep/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,PRO SIEBEN MAXX HD
-http://173.212.206.199:25461/live/ksa/indep/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ROMANCE TV
-http://173.212.206.199:25461/live/ksa/indep/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL 2 HD
-http://173.212.206.199:25461/live/ksa/indep/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL CRIME HD
-http://173.212.206.199:25461/live/ksa/indep/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL HD
-http://173.212.206.199:25461/live/ksa/indep/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL LIVING HD
-http://173.212.206.199:25461/live/ksa/indep/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL NITRO HD
-http://173.212.206.199:25461/live/ksa/indep/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL PASSION HD
-http://173.212.206.199:25461/live/ksa/indep/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,RTL PLUS HD
-http://173.212.206.199:25461/live/ksa/indep/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SAT.1 HD
-http://173.212.206.199:25461/live/ksa/indep/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SIXX HD
-http://173.212.206.199:25461/live/ksa/indep/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY ATLANTIC HD
-http://173.212.206.199:25461/live/ksa/indep/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY BUNDESLIGA HD SP
-http://173.212.206.199:25461/live/ksa/indep/558.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA 24 HD-DE
-http://173.212.206.199:25461/live/ksa/indep/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://173.212.206.199:25461/live/ksa/indep/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://173.212.206.199:25461/live/ksa/indep/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA EMOTION HD
-http://173.212.206.199:25461/live/ksa/indep/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://173.212.206.199:25461/live/ksa/indep/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA HD
-http://173.212.206.199:25461/live/ksa/indep/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA HITS HD
-http://173.212.206.199:25461/live/ksa/indep/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,13th STREET HD
-http://173.212.206.199:25461/live/ksa/indep/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY KIRIMI
-http://173.212.206.199:25461/live/ksa/indep/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 2 HD
-http://173.212.206.199:25461/live/ksa/indep/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 3 HD-DE
-http://173.212.206.199:25461/live/ksa/indep/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 4 HD
-http://173.212.206.199:25461/live/ksa/indep/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 5 HD
-http://173.212.206.199:25461/live/ksa/indep/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 6 HD
-http://173.212.206.199:25461/live/ksa/indep/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 7 HD
-http://173.212.206.199:25461/live/ksa/indep/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SELECT 8 HD
-http://173.212.206.199:25461/live/ksa/indep/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SPORT 1 HD
-http://173.212.206.199:25461/live/ksa/indep/574.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY SPORT 2 HD
-http://173.212.206.199:25461/live/ksa/indep/575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SONY CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SPIEGEL TV
-http://173.212.206.199:25461/live/ksa/indep/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SP-SPORT 1 HD-DE
-http://173.212.206.199:25461/live/ksa/indep/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SUPER RTL HD
-http://173.212.206.199:25461/live/ksa/indep/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SYFY HD
-http://173.212.206.199:25461/live/ksa/indep/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,TLC HD
-http://173.212.206.199:25461/live/ksa/indep/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,TNT COMEDY HD
-http://173.212.206.199:25461/live/ksa/indep/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,TNT FILM HD
-http://173.212.206.199:25461/live/ksa/indep/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,TNT SERIES HD
-http://173.212.206.199:25461/live/ksa/indep/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://173.212.206.199:25461/live/ksa/indep/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,VOX HD
-http://173.212.206.199:25461/live/ksa/indep/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ZDF HD
-http://173.212.206.199:25461/live/ksa/indep/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ZEE ONE HD
-http://173.212.206.199:25461/live/ksa/indep/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,DELUX MUSIC
-http://173.212.206.199:25461/live/ksa/indep/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,EURO NEWS
-http://173.212.206.199:25461/live/ksa/indep/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,N24 HD
-http://173.212.206.199:25461/live/ksa/indep/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,NTV HD
-http://173.212.206.199:25461/live/ksa/indep/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ORF 2 HD
-http://173.212.206.199:25461/live/ksa/indep/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ORF EINS HD
-http://173.212.206.199:25461/live/ksa/indep/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY 3D
-http://173.212.206.199:25461/live/ksa/indep/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY ACTION
-http://173.212.206.199:25461/live/ksa/indep/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY BUNDESLIGA 2HD SP
-http://173.212.206.199:25461/live/ksa/indep/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,SKY CINEMA 1 HD
-http://173.212.206.199:25461/live/ksa/indep/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -7227,104 +6946,6 @@ http://2.15.79.67:9985/play/a03y
 
 #EXTINF:8 group-title=”Spain3”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,ES: ANDALUCIA TV
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/315.ts
-#EXTINF:-1,ES: LA 1
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/337.ts
-#EXTINF:-1,ES: LA 2
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/336.ts
-#EXTINF:-1,ES: #O
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/349.ts
-#EXTINF:-1,ES: 40 TV
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/317.ts
-#EXTINF:-1,ES: A&E
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/316.ts
-#EXTINF:-1,ES: AMC
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/348.ts
-#EXTINF:-1,ES: Antena 3
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/187.ts
-#EXTINF:-1,ES: AXN
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/347.ts
-#EXTINF:-1,ES: AXN WHITE
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/346.ts
-#EXTINF:-1,ES: BARCA TV
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/882.ts
-#EXTINF:-1,ES: B31N La Liga HD
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/264.ts
-#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/160.ts
-#EXTINF:-1,ES: BOING
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/345.ts
-#EXTINF:-1,ES: CALLE 13
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/344.ts
-#EXTINF:-1,ES: COCINA
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/343.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/342.ts
-#EXTINF:-1,ES: COSMO
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/341.ts
-#EXTINF:-1,ES: CRIMEN INVESTIGACION
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/313.ts
-#EXTINF:-1,ES: CUATRO
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/340.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/314.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/312.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/311.ts
-#EXTINF:-1,ES: DISNEY XD
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/310.ts
-#EXTINF:-1,ES: DIVINITY
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/309.ts
-#EXTINF:-1,ES: ENERGY
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/308.ts
-#EXTINF:-1,ES: FDF
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/307.ts
-#EXTINF:-1,ES: FOX
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/306.ts
-#EXTINF:-1,ES: FOX LIFE
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/339.ts
-#EXTINF:-1,ES: GOL
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/265.ts
-#EXTINF:-1,ES: HISTORIA
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/305.ts
-#EXTINF:-1,ES: HOLLYWOOD
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/338.ts
-#EXTINF:-1,ES: La Sexta
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/188.ts
-#EXTINF:-1,ES: LaLigaTV BAR
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/161.ts
-#EXTINF:-1,ES: M20
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/304.ts
-#EXTINF:-1,ES: M6 MUSIC
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/303.ts
-#EXTINF:-1,ES: Mega
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/263.ts
-#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/159.ts
-#EXTINF:-1,ES: MOVISTAR ACCION HD
-http://fullpremiumvip.com:8000/live/Jose1/Jose1/156.ts
 
 
 
@@ -7576,62 +7197,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/638.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Spain2-Premium-MXPlayer”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,24 H
-http://173.212.206.199:25461/live/ksa/indep/447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,40 TV
-http://173.212.206.199:25461/live/ksa/indep/449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,A&E
-http://173.212.206.199:25461/live/ksa/indep/450.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,AMC HD
-http://173.212.206.199:25461/live/ksa/indep/451.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,ANTENA 3 HD
-http://173.212.206.199:25461/live/ksa/indep/448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,AXN HD
-http://173.212.206.199:25461/live/ksa/indep/452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,AXN WHITE HD
-http://173.212.206.199:25461/live/ksa/indep/453.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,BABY TV
-http://173.212.206.199:25461/live/ksa/indep/454.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,BARCA TV
-http://173.212.206.199:25461/live/ksa/indep/455.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,BOING
-http://173.212.206.199:25461/live/ksa/indep/457.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CALLE 13
-http://173.212.206.199:25461/live/ksa/indep/458.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL ACCION HD
-http://173.212.206.199:25461/live/ksa/indep/461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL COCINA
-http://173.212.206.199:25461/live/ksa/indep/460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL COMEDIA HD
-http://173.212.206.199:25461/live/ksa/indep/462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
-#EXTINF:-1,CANAL+ DEPORTES 2
-http://173.212.206.199:25461/live/ksa/indep/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -9236,64 +8802,6 @@ http://5.135.92.130:4462/out/u/360_1.m3u8
 
 #EXTINF:8 group-title=”Albania2”,
 
-#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
-http://..........
-
-#EXTINF:-1,TV Ritam 
-http://212.200.74.141:8000/play/a035 
-#EXTINF:-1,PINK 
-http://212.200.74.141:8000/play/a01j 
-#EXTINF:-1,TV Presevo 
-http://212.200.74.141:8000/play/a036 
-#EXTINF:-1,Tring International 
-http://212.200.74.141:8000/play/a02t 
-#EXTINF:-1,RTS 2 
-http://212.200.74.141:8000/play/a01i 
-#EXTINF:-1,SPORT 1 HD 
-http://212.200.74.141:8000/play/a011 
-#EXTINF:-1,VIZION PLUS HD 
-http://212.200.74.141:8000/play/a00z 
-#EXTINF:-1,TV Aldi 
-http://212.200.74.141:8000/play/a034 
-#EXTINF:-1,PeaceTV 
-http://212.200.74.141:8000/play/a00u 
-#EXTINF:-1,HAPPY 
-http://212.200.74.141:8000/play/a01m 
-#EXTINF:-1,RTS 3 
-http://212.200.74.141:8000/play/a01n 
-#EXTINF:-1,OBN 
-http://212.200.74.141:8000/play/a030 
-#EXTINF:-1,TRING SPORT NEWS 
-http://212.200.74.141:8000/play/a010 
-#EXTINF:-1,Sport 4 HD 
-http://212.200.74.141:8000/play/a01z 
-#EXTINF:-1,ORA NEWS HD 
-http://212.200.74.141:8000/play/a02h 
-#EXTINF:-1,TV BELLE AMIE 
-http://212.200.74.141:8000/play/a031 
-#EXTINF:-1,TV Dukagjini 
-http://212.200.74.141:8000/play/a02d 
-#EXTINF:-1,Sport 3 HD 
-http://212.200.74.141:8000/play/a01x 
-#EXTINF:-1,Al Jazeera Balkans HD 
-http://212.200.74.141:8000/play/a02z 
-#EXTINF:-1,B92 
-http://212.200.74.141:8000/play/a029 
-#EXTINF:-1,TV Vranje 
-http://212.200.74.141:8000/play/a032 
-#EXTINF:-1,Kanali 7 
-http://212.200.74.141:8000/play/a02m 
-#EXTINF:-1,SPORT 2 HD 
-http://212.200.74.141:8000/play/a012 
-#EXTINF:-1,TV Bujanovac 
-http://212.200.74.141:8000/play/a033 
-#EXTINF:-1,PRVA 
-http://212.200.74.141:8000/play/a01l 
-#EXTINF:-1,RTS 1 
-http://212.200.74.141:8000/play/a01h
-
-
-
 
 
 
@@ -9823,19 +9331,6 @@ http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
 
 
 #EXTINF:9 group-title=”Bangladesh”,
-
-#EXTINF:1 tvg-logo=http://www.virtualbangladesh.com/wp-content/uploads/2014/10/eagr1dmg.bmp ,Bangladesh
-http://..........
-
-
-#EXTINF:-1,ATN Bangla
-http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbdhd1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDg6MTA6NDIgQU0maGFzaF92YWx1ZT0ycEgxakR4VDVrRW9DT01oNGVNQkpBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,BanglaVision
-http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDg6MTA6NDIgQU0maGFzaF92YWx1ZT0ycEgxakR4VDVrRW9DT01oNGVNQkpBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Channel i 
-http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDg6MTA6NDIgQU0maGFzaF92YWx1ZT0ycEgxakR4VDVrRW9DT01oNGVNQkpBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Mohona TV
-http://eu154.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream_source/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDg6MTA6NDIgQU0maGFzaF92YWx1ZT0ycEgxakR4VDVrRW9DT01oNGVNQkpBPT0mdmFsaWRtaW51dGVzPTYw
 
 
 
@@ -12138,642 +11633,587 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,======BEIN SPORTS Group=======
+http://......
+#EXTINF:-1,bein sport1  
+http://bein1.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport2                 
+http://bein2.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport3                       
+http://bein3.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport4                   
+http://bein4.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport5                        
+http://bein5.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport6                        
+http://bein6.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport7                    
+http://bein7.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport8                       
+http://bein8.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport9                       
+http://bein9.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,bein sport10                       
+http://bein10.jan-beryan.giize.com/playlist.m3u8|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+
+
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=MBC Group=
-http://iptv2.jan-beryan.giize.com/MBC1/index.m3u8
-#EXTINF:-1,mbc1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,mbc2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC2/index.m3u8
-#EXTINF:-1,mbc3
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC3/index.m3u8
-#EXTINF:-1,mbc4
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC4/index.m3u8
-#EXTINF:-1,MBC-Action
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-Action/index.m3u8
-#EXTINF:-1,mbc max
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-MAX/index.m3u8
-#EXTINF:-1,mbc drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-Drama/index.m3u8
-#EXTINF:-1,mbc masr
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-MASR/index.m3u8
-#EXTINF:-1,mbc masr 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-Masr2/index.m3u8
-#EXTINF:-1,mbc bollywood
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-Bollywood/index.m3u8
+http://.....
+#EXTINF:-1,MBC1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4054.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC1HD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4055.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4056.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC2HD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4057.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC3
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4058.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC3HD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4059.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC4
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4060.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBC4HD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4061.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCACTION
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4062.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCACTIONHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4063.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCBOLLYWOOD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4064.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCDRAMA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4065.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCDRAMAHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4066.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCMASR
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4067.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCMASR2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4068.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCMAX
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4069.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCMAXHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4070.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCPLUSDRAMAHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4071.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCPROSPORT1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4072.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCPROSPORT2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4073.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCPROSPORT3
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4074.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCPROSPORT4
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4075.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,MBCVARIETYHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4076.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=UAE Group=
+http://....
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" ,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" ,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29n9sg4.png" ,Al Dafrah TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" ,CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" ,Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" ,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" ,Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" ,Dubai TV**
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=dubai&t=ar
+#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img315.png" ,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img315.png" ,Dubai One*
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img315.png" ,Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" ,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" ,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" ,Dubai Sports
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" ,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" ,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" ,Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" ,YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" ,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" ,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" ,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" ,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/165x120/SER.png" ,Musalsalat HD
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" ,National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1 tvg-logo="http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/Dittotv-new-logos/ZeeAflam300x248.jpg" ,Zee Aflam (Hindi)
+http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 1*
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1,Abu Dhabi
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Abu-Dhabi/index.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8?v=2746012933
+#EXTINF:-1,Abu Dhabi Drama
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8?v=2746012933
 #EXTINF:-1,dubai
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dubai-TV/index.m3u8
-#EXTINF:-1, Dubai-Zaman
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dubai-Zaman/index.m3u8
-#EXTINF:-1,dubai
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dubai/index.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Dubai-Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1,Dubai-One
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dubai-One/index.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1,ALSHARJAH
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlSharjah/index.m3u8
+http://38.99.146.71:7777/SharjahTV_Med.m3u8?user=tyty&session=603aaf0cc2d36efe417dc3f2b8c23a942346a76487934b51aafb8a3e60ff4330
 #EXTINF:-1,Dubai racing
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dubai-Racing/index.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubairacing3&
 #EXTINF:-1,noor dubai
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Noor-Dubai/index.m3u8
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/gmswf.m3u8?v=1558393494
 #EXTINF:-1,samadubai
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sama-Dubai/index.m3u8
-#EXTINF:-1,Alsharjah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlSharjah/index.m3u8
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=sama_dubai&t=ar
 #EXTINF:-1,Aldafra
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlDafra/index.m3u8
-#EXTINF:-1,Fujairah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Fujairah-TV/index.m3u8
+http://91.74.179.172:1935/live/myStream1/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Alaan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8?v=1558393494
+
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=MOROCO Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" ,Al Aoula
+http://95.81.155.40/5958/index.m3u8
+#EXTINF:-1,Alaoula Inter
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
 #EXTINF:-1,Assadissa
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Assadissa/index.m3u8
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=assadissa
 #EXTINF:-1,2m maroco
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-2M-Maroc/index.m3u8
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
 #EXTINF:-1,Arriadia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
-#EXTINF:-1,Arriadia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
 #EXTINF:-1,Arrabia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Arrabiaa/index.m3u8
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arrabiaa
+#EXTINF:-1,Almaghribya
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
+#EXTINF:-1,Tamazight
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
+#EXTINF:-1,Medi1_Med
+http://37.48.80.76/live/myStream/gmswf.m3u8?v=1558393494
 
-#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=ALGEIRIA Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=ALGERIA Group=
+http://...
+#EXTINF:-1 tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" ,Dzair TV [Off]
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" ,Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
 #EXTINF:-1,Echorouk-TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Echorouk-TV/index.m3u
+http://tv-live.echoroukonline.com/echo/EchoroukTV/playlist.m3u8
 #EXTINF:-1,Echorouk News
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Echorouk-News/index.m3u8
+http://tv-live.echoroukonline.com/echo/EchoroukNews/playlist.m3u8
 #EXTINF:-1,Echorouk benna TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Echorouk-Benna-TV/index.m3u8
-#EXTINF:-1,Numidia-News
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Numidia-News/index.m3u8
-#EXTINF:-1,Samira
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Samira-TV/index.m3u8
-#EXTINF:-1,Eldjazairia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-El-Djazairia-TV/index.m3u8
-#EXTINF:-1,Dzair tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dzair-TV/index.m3u8
-#EXTINF:-1,Dzair news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dzair-News/index.m3u8
-#EXTINF:-1,Elhaddef
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ElHeddaf-TV/index.m3u8
-#EXTINF:-1,samira tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Samira-TV/index.m3u8
-#EXTINF:-1,KBC-Algeria
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-KBC-Algeria/index.m3u8
-#EXTINF:-1,Dzair-Jannah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dzair-Jannah/index.m3u8
-#EXTINF:-1,AlMaghribia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMaghribia/index.m3u8
-#EXTINF:-1,medil
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Medi1/index.m3u8
-#EXTINF:-1,Canal-Algeria
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Canal-Algeria/index.m3u8
-#EXTINF:-1,TV-A3
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-TV-A3/index.m3u8
-#EXTINF:-1,TV4
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-TV4/index.m3u8
-#EXTINF:-1,TV5
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-TV5/index.m3u8
-#EXTINF:-1,Aljazaaria
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Aljazaaria/index.m3u8
-#EXTINF:-1,TV Tamazight
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-TV-Tamazight/index.m3u8
-#EXTINF:-1,Beur
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Beur/index.m3u8
+http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
+#EXTINF:-1,Algeria_1
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
+#EXTINF:-1,Algeria_3
+http://38.99.146.94:7777/Thalitha_LR.m3u8?user=tyty&session=764abede41e187b8e7cdc419650a8fd8dc8abbc9ec52909b319ef8aad50b245d
+#EXTINF:-1,Algeria_3
+http://38.99.146.94:7777/Thalitha_LR.m3u8?user=tyty&session=ee958a8744c13c449490d33675435748db9571cb6a5ce1cb5eb7599650ae5f4a
+#EXTINF:-1,Algeria_4
+http://38.99.146.94:7777/CanalAlgerie_LR.m3u8?user=tyty&session=eed71643ffc73742ed068ce96075e5309eb7835dd9985f007a12634631ad448d
+#EXTINF:-1,Ennahar_Algerie
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
+#EXTINF:-1,Almagharibia1
+http://api.new.livestream.com/accounts/9841337/events/3348791/broadcasts/163569898.m3u8?dw=100&hdnea=st=1506862599~exp=1506864399~acl=%2Fi%2F9841337_3348791_lsigu96emmvwzaosm2d_1@172849%2f*~hmac=95b8b6b3211c004613dfdcde3374803d744174d7d552687e2d13e18076bea8c7
+#EXTINF:-1,Almagharibia2
+http://api.new.livestream.com/accounts/7861901/events/4426115/broadcasts/163584805.m3u8?dw=100&hdnea=st=1506862696~exp=1506864496~acl=%2Fi%2F7861901_4426115_lsi6q2i6b1tr33s5evt_1@408398%2f*~hmac=0da0b2c5814418007f0318a4f07a14b5e25bd5de5e168892467a7dca06572e63
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=EGYPT Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,med1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Medi1/index.m3u8
-#EXTINF:-1,Hayat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhayat/index.m3u8
-#EXTINF:-1, cbc
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CBC-TV/index.m3u8
-#EXTINF:-1, nile cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Cinema/index.m3u8
-#EXTINF:-1,alfady
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFady/index.m3u8
-#EXTINF:-1,ALHoorryea
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlHorreya/index.m3u8
-#EXTINF:-1,alnahar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar/index.m3u8
-#EXTINF:-1,nahar drama
-andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Nahar-Drama/index.m3u8
-#EXTINF:-1,cairo drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cairo-Drama/index.m3u8
-#EXTINF:-1,cima
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cima/index.m3u8
-#EXTINF:-1,cnbc arabia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CNBC-Arabiya/index.m3u8
-#EXTINF:-1,ctv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CTV/index.m3u8
-#EXTINF:-1,logos
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Logos/index.m3u8
-#EXTINF:-1,me sat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MeSat/index.m3u8
-#EXTINF:-1,MECtv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mec-TV/index.m3u8
-#EXTINF:-1,mekamlen
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mekameleen/index.m3u8
-#EXTINF:-1,Nile cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Cinema/index.m3u8
-#EXTINF:-1,Nile comedy
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Comedy/index.m3u8
-#EXTINF:-1,Nile-Culture
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Culture/index.m3u8
-#EXTINF:-1,Nile-Drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Drama/index.m3u8
-#EXTINF:-1,Nile Life
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Life/index.m3u8
-#EXTINF:-1,Nile news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-News/index.m3u8
-#EXTINF:-1,Panorama Drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Panorama-Drama/index.m3u8
-#EXTINF:-1,Sada-ElBalad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sada-ElBalad/index.m3u8
-#EXTINF:-1,shabab tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Shabab-TV/index.m3u8
-#EXTINF:-1,star cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Star-Cinema2/index.m3u8
-#EXTINF:-1,Azhari
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Azhari-TV/index.m3u8
-#EXTINF:-1,masria aloula
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Masriya-AlOula/index.m3u8
-#EXTINF:-1,Almasriya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMasriya-CH2/index.m3u8
-#EXTINF:-1,Nile life
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Life/index.m3u8
-#EXTINF:-1,nile drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Drama/index.m3u8
-#EXTINF:-1,nile culture
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Culture/index.m3u8
-#EXTINF:-1,Nile comedy 
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Comedy/index.m3u8
-#EXTINF:-1,Nile cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Cinema/index.m3u8
-#EXTINF:-1,nile news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-News/index.m3u8
-#EXTINF:-1,cima
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cima/index.m3u8
-#EXTINF:-1,cbc
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CBC-TV/index.m3u8
-#EXTINF:-1, cbc drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CBC-Drama/index.m3u8
-#EXTINF:-1,cbc sofra
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CBC-Sofra/index.m3u8
-#EXTINF:-1,CBC extra
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CBC-Extra/index.m3u8
-#EXTINF:-1,cairo zaman
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cairo-Zaman/index.m3u8
-#EXTINF:-1,cairo drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cairo-Drama/index.m3u8
-#EXTINF:-1,mehwer
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mehwer/index.m3u8
-#EXTINF:-1,alNahar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar/index.m3u8
-#EXTINF:-1,alNahar Drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar-Drama/index.m3u8
-#EXTINF:-1,alNahar noor
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar-Noor/index.m3u8
-#EXTINF:-1,alNahar cinema 
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar-Cinema/index.m3u8
-#EXTINF:-1,alnahar one
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar-One/index.m3u8
-#EXTINF:-1,alhayat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhayat/index.m3u8
-#EXTINF:-1,alhayat 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhayat2/index.m3u8
-#EXTINF:-1,alhayat muslsalat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlHayat-Muslsalat/index.m3u8
-#EXTINF:-1,alhayat we alnas 
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhayat-we-Alnas/index.m3u8
-#EXTINF:-1,Alkahera Wal Nas
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alkahera-Wal-Nas/index.m3u8
-#EXTINF:-1,Alkahera Wal Nas2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alkahera-Wal-Nas2/index.m3u8
-#EXTINF:-1,sada elbalad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sada-ElBalad/index.m3u8
-#EXTINF:-1,sada elbalad +
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sada-Elbalad-Plus/index.m3u8
-#EXTINF:-1,sada elbalad drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sada-Elbalad-Drama/index.m3u8
-#EXTINF:-1,Ten
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ten/index.m3u8
-#EXTINF:-1,Moga cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Moga-Cinema/index.m3u8
-#EXTINF:-1,Moga comedy
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Moga-Comedy/index.m3u8
-#EXTINF:-1,Melody-Classic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Melody-Classic/index.m3u8
+http://....
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" ,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" ,Al Kahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" ,El Sharq
+http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" ,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.arablive-tv.com/2016/01/nile-cinema_tv.jpg" ,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:-1,Watan tv
+http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8?v=1558393494
+#EXTINF:-1,Elsharq tv
+http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8?v=1558393494
+#EXTINF:-1, AlMasriyah
+http://38.99.146.71:7777/AlMasriyah_Med.m3u8?user=tyty&session=a7d9a0f7a1e4b0d605488e1cfb6a7b08eab8964fe0d2d570b558b6c62b97edeb
+#EXTINF:-1, AlMasriyah2
+http://38.99.146.71:7777/AlThanya_Med.m3u8?user=tyty&session=0149d02ee5bff77edefac251d4af7e23be4959dbdfec5c217a5e7f94273cbe97
+#EXTINF:-1,ONTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/de/hfr/1/txs/9486106%2C9486107%2C9486108%2C9486109%2C9486110%2C9486111%2C9486112%2C9486113%2C9486114%2C9486115%2C9486116/signature/A4B824D0E23E4EE5776978FB123B159CB4E6879F.41390C07BCC72E2206A78F1875DF88441D6B0DE3/source/yt_live_broadcast/manifest_duration/30/id/y9MEN3KUDwg.0/ipbits/0/ei/gOjQWZjpJobKcp_irYAL/playlist_type/DVR/go/1/ratebypass/yes/itag/0/ip/92.227.50.150/requiressl/yes/tx/9486108/dover/8/expire/1506884832/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/key/yt6/maudio/1/playlist_duration/30/keepalive/yes/file/index.m3u8
+#EXTINF:-1,ONTV EG
+https://manifest.googlevideo.com/api/manifest/hls_variant/dover/8/manifest_duration/30/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/ip/92.227.50.150/key/yt6/itag/0/ei/zujQWf-rIcKtco7EsvgB/gcr/de/source/yt_live_broadcast/signature/073DF02D5F95EDEE589E115E04C56066245678F1.63DE52003824B5B4F4E28371B4F2088242C4CEE9/maudio/1/id/gbqb0_Y2kUQ.0/playlist_type/DVR/hfr/1/ipbits/0/go/1/keepalive/yes/expire/1506884910/playlist_duration/30/ratebypass/yes/file/index.m3u8
+#EXTINF:-1,ONTV SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/iBDhlVgBk2Y.0/key/yt6/keepalive/yes/go/1/dover/8/requiressl/yes/playlist_type/DVR/ip/92.227.50.150/tx/9474460/itag/0/ratebypass/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/de/signature/3878FCE19A8C432CD51AC9AED5BA0238E1095EC9.C9923BA328C75021CE49D6C4DBDBBF31CDC224A8/expire/1506885027/source/yt_live_broadcast/maudio/1/txs/9474456%2C9474457%2C9474458%2C9474459%2C9474460%2C9474461%2C9474462%2C9474463/ei/QunQWcKYN5iocY67jMAM/hfr/1/ipbits/0/file/index.m3u8
+#EXTINF:-1,MehwarTV
+http://radiofm.onlinehorizons.net:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1558393494
+#EXTINF:-1,Nile_drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_drama&t=ar
+#EXTINF:-1,Nile_cinema
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_cinema&t=ar
+#EXTINF:-1,Nile_comedy
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_comedy&t=ar
+#EXTINF:-1,Nile_life
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_life&t=ar
+#EXTINF:-1,Nile_Sport
+http://38.99.146.71:7777/NileSport_Med.m3u8?user=tyty&session=1e7e9392ace2b8262e45008fe64103be2ef003e2e0c0205b4f6307e1c5b97e9d
+#EXTINF:-1,Nile_family
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_family&t=ar
+#EXTINF:-1,Nile_culture
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_culture&t=ar
+#EXTINF:-1,Alhayat
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=alhayat_2&t=ar
+#EXTINF:-1,DREAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ip/92.227.50.150/dover/8/ei/huvQWaujBIbocK6gngg/id/kXO78jT335A.0/tx/9483011/gcr/de/txs/9483010%2C9483011%2C9483012%2C9483013%2C9483014/maudio/1/signature/61AD8F7577554722377540BA1794DF5BD12E7417.468E73AD6784685B05CBFC5980C664A4B92326EA/key/yt6/keepalive/yes/source/yt_live_broadcast/requiressl/yes/ipbits/0/hfr/1/playlist_duration/30/itag/0/ratebypass/yes/expire/1506885606/playlist_type/DVR/manifest_duration/30/file/index.m3u8
+#EXTINF:-1,Cbc_sofra
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_sofra&t=ar
+#EXTINF:-1,Cbc
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc&t=ar
+#EXTINF:-1,Cbc_drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_drama&t=ar
+#EXTINF:-1,Cbc_EXTRA
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_2&t=ar
+#EXTINF:-1,Rotana_masriya
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_masriya&t=ar
+#EXTINF:-1,PanoramaDrama
+http://38.99.146.71:7777/PanoramaDrama_Med.m3u8?user=tyty&session=60ddd634ca6f35b37a7ba5b1812065094521d7de57debbe6b0062e708ee78da8
+#EXTINF:-1,PanoramaDrama2
+http://38.99.146.71:7777/PanoramaDrama2_Med.m3u8?user=tyty&session=c0d064d3a2868cd13b040819e6d68d7d7cba4d2043ac318900b9dff1c8673cb9
+#EXTINF:-1,PanoramaFilm
+http://38.99.146.71:7777/PanoramaFilm_Med.m3u8?user=tyty&session=5101d6d72ab4b755fdffd94fce14b698b60d2da7a1c5b086ab22b6aa7bdbff03
+#EXTINF:-1,Melody_aflam
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_aflam
+#EXTINF:-1,Melody_drama
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_drama
+#EXTINF:-1,Melody_classic
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_classic
+#EXTINF:-1,Al_nahar
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar&t=ar
+#EXTINF:-1,Al_nahar_youm
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_youm&t=ar
+#EXTINF:-1,Al_nahar_drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_drama&t=ar
+#EXTINF:-1,Al_nahar_sport
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_sport&t=ar
+#EXTINF:-1,Al_nahar_noor
+http://www.elahmad.com/tv/m3u8/egypt.m3u8?id=alnaharnoor
+#EXTINF:-1,Sada-elbaladtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/ei%2Cforce_finished%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/ei/s-7QWfP4C8qec9H1mNgG/itag/0/ip/92.227.50.150/source/yt_live_broadcast/gcr/de/expire/1506886419/hfr/1/ipbits/0/ratebypass/yes/requiressl/yes/dover/8/id/W4PDUMiE47s.1/playlist_type/CLEAN/keepalive/yes/go/1/maudio/1/signature/370BE65F46015909C193F25A0063D3E2E391F19F.D2150C2CE546510C8B52DDB5B83C90F04B532313/force_finished/1/key/yt6/file/index.m3u8
+#EXTINF:-1,Sada-elbaladtv2
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/de/expire/1506886482/source/yt_live_broadcast/ratebypass/yes/signature/55F3FC280E0799D34AFEE445E89ECABB028782F5.9C9165479329006849CAA393A6258BB6190C883C/key/yt6/manifest_duration/30/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/dover/8/go/1/keepalive/yes/id/dyDq1yxKDS8.4/playlist_duration/30/requiressl/yes/maudio/1/ei/8u7QWdr5Gou6cJnAtqAB/playlist_type/DVR/hfr/1/itag/0/ipbits/0/ip/92.227.50.150/file/index.m3u8
+#EXTINF:-1,Sada-elbalad-DRAMA
+https://manifest.googlevideo.com/api/manifest/hls_variant/ip/92.227.50.150/requiressl/yes/dover/8/source/yt_live_broadcast/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/gcr/de/playlist_type/DVR/key/yt6/go/1/ipbits/0/hfr/1/expire/1506886531/id/7NgyiRV8Fas.5/keepalive/yes/ratebypass/yes/itag/0/ei/I-_QWeMlw59zpaq9uA8/signature/BF755B44AFA8B80F8A7FCA434AC0CE4BDF96EF7E.0991A57AE789F8AB3DE16504EAE11CBD90D8B54B/maudio/1/file/index.m3u8
+#EXTINF:-1,AlKaheraWalNas
+http://38.99.146.71:7777/AlKaheraWalNas_Med.m3u8?user=tyty&session=5b820c668058764a6007434493c3139f32838a8cee8889cae4f42c13be142b07
+#EXTINF:-1,AlKaheraWalNas2
+http://38.99.146.71:7777/AlKaheraWalNas2_Med.m3u8?user=tyty&session=afb12694ca8d92e7e76f40958d2446b4a1d9799f9978696aeca5083cc0e1472b
 #EXTINF:-1,Mekameleen
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mekameleen/index.m3u8
-#EXTINF:-1,El-Sharq
-http://andrtviptv1.jan-beryan.giize.com/LQAR-El-Sharq/index.m3u8
-#EXTINF:-1,AlAssema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAssema/index.m3u8
-#EXTINF:-1,Qanat tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Qanat-TV/index.m3u8
-#EXTINF:-1,LTC
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-LTC/index.m3u8
-#EXTINF:-1,Dream 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dream2/index.m3u8
-#EXTINF:-1,panorama film
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Panorama-Film/index.m3u8
-#EXTINF:-1,panorama drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Panorama-Drama/index.m3u8
-#EXTINF:-1,panorama drama2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Panorama-Drama2/index.m3u8
-#EXTINF:-1,panorama food
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Panorama-Food/index.m3u8
-#EXTINF:-1,AlAhly
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAhly/index.m3u8
-#EXTINF:-1,ONTV-Live
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ONTV-Live/index.m3u8
-#EXTINF:-1,Alnas
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNas/index.m3u8
-#EXTINF:-1,AlFada
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFada/index.m3u8
-#EXTINF:-1,Alhorreya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlHorreya/index.m3u8
-#EXTINF:-1,Almalakoot
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMalakoot/index.m3u8
-#EXTINF:-1,AlFady
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFady/index.m3u8
-#EXTINF:-1,Logos
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Logos/index.m3u8
-#EXTINF:-1,Alkarma
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlKarma/index.m3u8
-#EXTINF:-1,Aghapy-TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Aghapy-TV/index.m3u8
-#EXTINF:-1,ZEE aflam
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ZEE-Aflam/index.m3u8
-#EXTINF:-1,ZEE alwan
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ZEE-Alwan/index.m3u8
-#EXTINF:-1,B4U Aflam
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-B4U-Aflam/index.m3u8
-#EXTINF:-1,B4U Plus
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-B4U-Plus/index.m3u8
-#EXTINF:-1,Imagine movies
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Imagine-Movies/index.m3u8
-#EXTINF:-1,Top-Cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Top-Cinema/index.m3u8
-#EXTINF:-1,Show room tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Show-Room-TV/index.m3u8
-#EXTINF:-1,DMC DRAMA
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-DMC-Drama/index.m3u8
-#EXTINF:-1,DMC
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-DMC-TV/index.m3u8
-#EXTINF:-1,Halaba-TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Halaba-TV/index.m3u8
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
+#EXTINF:-1,Moga_comedy
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=moga_comedy&t=ar
+#EXTINF:-1,Ten tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/2C3piXubOkM.0/ei/OfDQWdGoDs3_cpqTpxA/gcr/de/itag/0/keepalive/yes/signature/6316331146AD03D3F5F034751EAE291834F21D92.5F4CAE1864C010B78A1F82A3603FD158B7C147A7/expire/1506886809/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/dover/8/maudio/1/ip/92.227.50.150/key/yt6/ratebypass/yes/ipbits/0/go/1/hfr/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
+#EXTINF:-1,Dmc
+http://streaming.i-sat.tv:1935/live/dmc/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Dmc-DRAMA
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ip/92.227.50.150/key/yt6/maudio/1/playlist_type/DVR/hfr/1/gcr/de/ratebypass/yes/requiressl/yes/signature/9E62A86B3ACEC3F5F15DD35DA7A6D062A6612C8A.C8CE1839EAD917FBB7E0C0358395D9A72D7BF717/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1506886905/id/uCP49z4LBxU.1/itag/0/source/yt_live_broadcast/ei/mPDQWf-gOtHQc465hKgE/dover/8/keepalive/yes/go/1/file/index.m3u8
+#EXTINF:-1,Dmc-SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1506886956/ip/92.227.50.150/key/yt6/maudio/1/playlist_type/DVR/hfr/1/ipbits/0/playlist_duration/30/gcr/de/manifest_duration/30/ratebypass/yes/requiressl/yes/signature/9152D17E1DB0E95BFAE4D9DABF01165D4EAED5E5.C24C7FF972BB1CDDA82E739C48C31C041F22F154/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/B3Zgw1l0IgY.1/itag/0/source/yt_live_broadcast/ei/zPDQWYKSE8ODccueoIgM/dover/8/keepalive/yes/go/1/file/index.m3u8
+#EXTINF:-1,AlAssema1
+http://38.99.146.71:7777/AlAssema1_Med.m3u8?user=tyty&session=a8adbefb1e30c16597d97921a9923c87ab42928096dbc9c7be4f3495b3bf3327
+#EXTINF:-1,AlAssema2
+http://38.99.146.71:7777/AlAssema2_Med.m3u8?user=tyty&session=3dac0f614b05e3886ac682532379098d6c6ee19530da29db4984304559b740e9
+#EXTINF:-1,Alghad-alarabi
+https://manifest.googlevideo.com/api/manifest/hls_variant/dover/8/playlist_type/DVR/itag/0/ip/92.227.50.150/source/yt_live_broadcast/maudio/1/expire/1506887079/ei/R_HQWY8rwcpwkMKboAk/hfr/1/ipbits/0/ratebypass/yes/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/u9N5OPqYv5k.0/signature/C4967A66519152E3E744C7DCDFFAD3AD40C16D78.CEF4A1737B152B923DC866F268569A2FBDAFC485/go/1/gcr/de/keepalive/yes/playlist_duration/30/manifest_duration/30/key/yt6/file/index.m3u8
+#EXTINF:-1,PanoramaDrama
+http://38.99.146.71:7777/PanoramaDrama_Med.m3u8?user=tyty&session=a76f89748b85233ff8a4723e522828e5977f7845ea754fa1a75ba0312f770853
+#EXTINF:-1,PanoramaDrama2
+http://38.99.146.71:7777/PanoramaDrama2_Med.m3u8?user=tyty&session=9f4c7e73fbecead640fc8289a34f3d8d360900460dde05b9c02c6fc0e0013cf6
+#EXTINF:-1,PanoramaFilm
+http://38.99.146.71:7777/PanoramaFilm_Med.m3u8?user=tyty&session=c862c4938e5d036fb0581ab40c719a45f038440a076450e4d9126a6a41b943ad
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=IRAQ Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,AR-AlSharqiya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlSharqiya/index.m3u8
-#EXTINF:-1,AlSharqiya news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlSharqiya-News/index.m3u8
-#EXTINF:-1,sumaria
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sumaria/index.m3u8
-#EXTINF:-1,dijlah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Dijlah/index.m3u8
-#EXTINF:-1,ANB
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ANB/index.m3u8
-#EXTINF:-1,Iraqia-Education
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Iraqia-Education/index.m3u8
-#EXTINF:-1,alforat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlForat/index.m3u8
-#EXTINF:-1,iraqia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Iraqia/index.m3u8
-#EXTINF:-1,AlRafiden
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlRafiden/index.m3u8
-#EXTINF:-1,Alrasheed
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlRasheed/index.m3u8
-#EXTINF:-1,beladi
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Beladi/index.m3u8
-#EXTINF:-1,Hona baghdad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Hona-Baghdad/index.m3u8
-#EXTINF:-1,Karbala
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Karbala/index.m3u8
-#EXTINF:-1,samaraa
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Samaraa/index.m3u8
-#EXTINF:-1,Iraq future
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Iraq-Future/index.m3u8
-#EXTINF:-1,ALmasalah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMasalah/index.m3u8
-#EXTINF:-1,ALmasar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMasar/index.m3u8
-#EXTINF:-1,Almawsleya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMawsleya/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/25sbybc.png" ,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" ,Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" ,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DiN0PHymkxk/UjqtR-oQY6I/AAAAAAAACGQ/mhgOj-8Lrn0/w1200-h630-p-k-no-nu/alsharqiya+news+live+tv.png" ,Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,Baghdad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Baghdad-TV/index.m3u8
-#EXTINF:-1,Karbala
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Karbala/index.m3u8
-#EXTINF:-1,marjyat2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Marjyat2/index.m3u8
-#EXTINF:-1,ahvaz
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ahvaz-TV/index.m3u8
-#EXTINF:-1,Alsirat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlSirat/index.m3u8
-#EXTINF:-1,alanbar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alanbar/index.m3u8
-#EXTINF:-1,Alanwar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAnwar/index.m3u8
-#EXTINF:-1,Anwar2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Anwar2/index.m3u8
-#EXTINF:-1,Alrafiden
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlRafiden/index.m3u8
-#EXTINF:-1,TURkManeli
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Turkmeneli/index.m3u8
-#EXTINF:-1,AlTurkmenia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlTurkmenia-TV/index.m3u8
-#EXTINF:-1,Manhaj
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Manhaj/index.m3u8
-#EXTINF:-1,Asia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Asia-TV/index.m3u8
-#EXTINF:-1,Alqamar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlQamar/index.m3u8
-#EXTINF:-1,faloja
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFalloja/index.m3u8
-#EXTINF:-1,Taleaa
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlTaleaa-TV/index.m3u8
-#EXTINF:-1,Almadi
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMahdi/index.m3u8
-#EXTINF:-1,Alkazimy
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlKazimy/index.m3u8
-#EXTINF:-1,Alnaujaba
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNaujaba/index.m3u8
-#EXTINF:-1,Alnaeem
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNaeem/index.m3u8
-#EXTINF:-1,Aletijah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlEtejah/index.m3u8
-#EXTINF:-1,Beladi
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Beladi/index.m3u8
+http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Alrafidain
+https://manifest.googlevideo.com/api/manifest/hls_variant/signature/46DF7B01AC02FEB433C04745844E01F8B50140E2.7F374AECF185E3AE0F9F378A231DE519BC439461/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/requiressl/yes/id/JxI-GZzYhaw.0/keepalive/yes/gcr/de/dover/8/key/yt6/itag/0/source/yt_live_broadcast/ip/92.227.50.150/playlist_type/DVR/expire/1506887552/hfr/1/ratebypass/yes/ipbits/0/maudio/1/ei/IPPQWaOBD9LbcNjiuoAO/file/index.m3u8
+#EXTINF:-1,Alqanat tv
+http://cdg3.edge.tmed.pw/alqanattv_abr/live/playlist.m3u8?v=1558393494
+#EXTINF:-1,Alfallujah-tv
+http://livestream-f.akamaihd.net/i/4671269_4213685_lsi4mh8me8x8x3qtak5_1@305637/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506952557~acl=%2fi%2f4671269_4213685_lsi4mh8me8x8x3qtak5_1%40305637%2f*~data=hdntl~hmac=8496d0bc403d8ff75238d4f4b3cc60bab272809b027283db9d7c5dc05fca5ad3
+#EXTINF:-1,Hadath
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1,Houna baghdad
+http://www.elahmad.com/tv/m3u8/itwork.m3u8?id=hounabaghdad
+#EXTINF:-1,Alsharqiya tv
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Almasar
+http://212.18.231.213:1935/almasar/ngrp:almasar_all/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Alrasheed
+http://www.elahmad.com/tv/m3u8/gmswf.m3u8?id=alrasheed
+#EXTINF:-1,Afaqtv
+rtmp://212.18.231.213:1935/afaqtv/_definst_/?v=1558393494
+#EXTINF:-1,Dijlah
+rtmp://91.134.145.75:1935?gmswf=1558393494
+#EXTINF:-1,Alforat
+rtmp://alforatlive.nanocdn.com:1935/live/alforat256
+#EXTINF:-1,Alhurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?v=1558393494
+#EXTINF:-1,Alhurra IRAQ
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=1558393494
+#EXTINF:-1,Taghier
+http://stream.joinvisions.net:1935/taglive/taghier/gmswf.m3u8?v=1558393494
 #EXTINF:-1,ANB
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ANB/index.m3u8
-#EXTINF:-1,Alnajef
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNajef/index.m3u8
-#EXTINF:-1,Walayah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlWalayah/index.m3u8
-#EXTINF:-1,shatharat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlShatharat/index.m3u8
-#EXTINF:-1,Naynawa alghad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Naynawa-Al-Ghad/index.m3u8
-#EXTINF:-1,Alsalam
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Salam-TV/index.m3u8
-#EXTINF:-1,alghadeer
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlGadeer/index.m3u8
-#EXTINF:-1,Almasirah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Masirah/index.m3u8
-#EXTINF:-1,Alwalaa
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlWalaa-TV/index.m3u8
-#EXTINF:-1,Wesal tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Wesal-TV/index.m3u8
-#EXTINF:-1,Ishtar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ishtar/index.m3u8
-#EXTINF:-1,ANB
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ABN/index.m3u8
-#EXTINF:-1,Anb Assyrian
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ANB-Assyrian/index.m3u8
-#EXTINF:-1,Aqila TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Aqila-TV/index.m3u8
-#EXTINF:-1,AlMaaref
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMaaref-TV/index.m3u8
-#EXTINF:-1,Kawther
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlKawthar/index.m3u8
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=anb
+#EXTINF:-1,Alsumaria
+http://38.99.146.71:7777/Alsumaria_Med.m3u8?user=tyty&session=1fbc1b3268ca71605d13aafd51706d0381aea13940fc70fc47727553bcb51762
+#EXTINF:-1,AlIraqiya
+http://38.99.146.71:7777/AlIraqiya_Med.m3u8?user=tyty&session=3d316fa5c751d349881ba12f4b4dc0b22a75d7c5d53dd1eb8a909017939731ef
+#EXTINF:-1,IraqiaSport
+http://38.99.146.71:7777/IraqiaSport_Med.m3u8?user=tyty&session=089c7bfe724e37bb8ecf0d2e6d351813af0b30367a6f340f44a8ee4f32e4a391
+
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=TUNISIA Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Zaytoona
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
+http://....
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" ,Nessma
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" ,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,Tunisia tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ratebypass/yes/hfr/1/expire/1506889465/ei/mfrQWfvIJ8PTcePOuvAP/maudio/1/source/yt_live_broadcast/itag/0/key/yt6/playlist_type/DVR/ip/92.227.50.150/dover/8/gcr/de/go/1/signature/62AEDDFE25E8CEA69887E35424F367971A34034C.68BB7B4FC5CE28971A4FC68C57A4E22DB1DC327C/id/HM9zyjYrs0A.0/keepalive/yes/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
+#EXTINF:-1,Tunisia_watania2
+https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/maudio/1/ei/1_rQWfTcCJnScdPCjYAJ/expire/1506889527/ratebypass/yes/keepalive/yes/id/GOQK346VeAs.0/signature/053C9154590F65E609B6C2AA85F96E19765A9879.DE21E85CB5FE916550AC6DF875FC4C02B9064458/hfr/1/ipbits/0/go/1/key/yt6/playlist_type/DVR/gcr/de/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/source/yt_live_broadcast/dover/8/requiressl/yes/ip/92.227.50.150/file/index.m3u8
 #EXTINF:-1,Nessma
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,Ettounsia tv
+http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
 #EXTINF:-1,Hannibal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
-#EXTINF:-1,tunisia nat 1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
-#EXTINF:-1,tunisia nat 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
-#EXTINF:-1,Tunisia-Nat1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
-#EXTINF:-1,Tunisia nat 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
-#EXTINF:-1,zaytoona
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
-#EXTINF:-1,Hannibal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
-#EXTINF:-1,Nessma
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
+http://38.99.146.71:7777/Hannibal_Med.m3u8?user=tyty&session=40146d2a89c9cfaefede324c7255f651b655db9cb0dc8ed25c1d546533170a49
+#EXTINF:-1,Zaitouna
+rtmp://wowzacontrol.com:1935/8088?hg=1558393494
+#EXTINF:-1,Elhiwar-ettounsi
+http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
+#EXTINF:-1,AlMustakila
+http://38.99.146.71:7777/AlMustakila_Med.m3u8?user=tyty&session=9d1a33637bad8f36f83891c51e4b393f526dbeb7b2599dc715f63190d2249bb4
+#EXTINF:-1,Attessia TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/hfr/1/gcr/de/itag/0/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/keepalive/yes/requiressl/yes/key/yt6/ratebypass/yes/expire/1506890157/ei/Tf3QWdTkFcW0cPHotZAD/ipbits/0/maudio/1/source/yt_live_broadcast/playlist_type/DVR/playlist_duration/30/ip/92.227.50.150/dover/8/signature/6B125B5255639DC8581389C011B815465FBAC219.032A36FFAF5F15E12AFDC8830C0C0F492DAF57AD/go/1/id/Uih_W3y6cAs.0/manifest_duration/30/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SYRIA Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" ,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" ,Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" ,Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
 #EXTINF:-1,Halab-Today
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Halab-Today/index.m3u8
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1558393494
 #EXTINF:-1,Noor alsham
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nour-Alsham/index.m3u8
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
 #EXTINF:-1,sama tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sama-TV/index.m3u8
-#EXTINF:-1,Suryoyo-SAT
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Suryoyo-SAT/index.m3u8
+http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1558393494
+#EXTINF:-1,DORAR TV
+http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
 #EXTINF:-1,Syria
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-SYRIA/index.m3u8
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria
 #EXTINF:-1,syria drama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Syria-Drama/index.m3u8
-#EXTINF:-1,syria education
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Syrian-Education/index.m3u8
-#EXTINF:-1,syria medical
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Syria-Medical/index.m3u8
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=syria_drama&t=ar
 #EXTINF:-1,Sham FM
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
+#EXTINF:-1,Syria news
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1,Syria_ugarit
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1,Orient
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+#EXTINF:-1,nabdsyria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=LIBANON Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,aljadeed
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Jadeed/index.m3u8
-#EXTINF:-1,alkarama
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlKarma/index.m3u8
-#EXTINF:-1,manar
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Manar/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" ,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" ,Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" ,Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" ,Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" ,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,Future-TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Future-TV/index.m3u8
-#EXTINF:-1,Heya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Heya/index.m3u8
-#EXTINF:-1,LDC
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-LDC/index.m3u8
-#EXTINF:-1,OTV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-OTV/index.m3u8
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+#EXTINF:-1,manar
+http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
 #EXTINF:-1,MTV-Lebanon
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MTV-Lebanon/index.m3u8
-#EXTINF:-1,Noursat
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Noursat/index.m3u8
-#EXTINF:-1,Mariam TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mariam-TV/index.m3u8
-#EXTINF:-1,Sat7-Arabic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sat7-Arabic/index.m3u8
-#EXTINF:-1,Nour alsharq
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nour-AlSharq/index.m3u8
+http://streaming.i-sat.tv:1935/live/mtv/gmswf.m3u8?v=1558393494
+#EXTINF:-1,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,Aljadeed
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=aljadeed&t=ar
+#EXTINF:-1,Almayadeen tv
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8?v=1558393494
+#EXTINF:-1,TeleLiban
+http://38.99.146.71:7777/TeleLiban_Med.m3u8?user=tyty&session=cf5e7ffca41d36e78e0fdb0b03097a77dcde724fa51767e95deea6e8d3e37d66
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=KIDS Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,ajyal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
+http://...
 #EXTINF:-1,baraem
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
-#EXTINF:-1,Jeem europe
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
+http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8?v=1558393494
+#EXTINF:-1,ajyal
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=1558393494
 #EXTINF:-1,Karameesh
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
-#EXTINF:-1,sat 7 kids
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sat7-Kids/index.m3u8
-#EXTINF:-1,spacetoon
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
-#EXTINF:-1,tayba TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
-#EXTINF:-1,Toyor Aljanah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
-#EXTINF:-1,Toyor baby
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
-#EXTINF:-1,Toyor aljanah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
-#EXTINF:-1,Toyor baby
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
-#EXTINF:-1,Toyor aliraq
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Al-Iraq/index.m3u8
-#EXTINF:-1,spacetoon
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
+https://r4---sn-i5onxoxu-q0ns.googlevideo.com/videoplayback?expire=1506894273&mime=video%2Fmp4&ipbits=0&mt=1506872539&ratebypass=yes&itag=22&signature=E37D985EC8E067B6705079B8F1146B11B1AB541D.B5C374BDC10BAAE6444CC9BB5B60CD81229F6A7E&requiressl=yes&lmt=1472346810043437&ei=YQ3RWabEIYGPc9XVvogJ&id=o-AMgVzlGBNVbWdsBp3HRGNGgeI0jaGqcPX3sSCCG1396i&dur=4190.667&pl=23&ms=au&source=youtube&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mv=m&initcwndbps=1348750&ip=92.227.50.150&mm=31&mn=sn-i5onxoxu-q0ns&key=yt6
 #EXTINF:-1,Majid kids
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Majid-Kids/index.m3u8
-#EXTINF:-1,Cartoon-Network
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Cartoon-Network/index.m3u8
-#EXTINF:-1,Baraem
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Baraem/index.m3u8
-#EXTINF:-1,baraem europe
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
-#EXTINF:-1,Karamesh
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
-#EXTINF:-1,Taha
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
-#EXTINF:-1,Atfal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Atfal-TV/index.m3u8
-#EXTINF:-1,Ajyal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
-#EXTINF:-1,Jeem Europe
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
-#EXTINF:-1,Hod hod arabic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-HodHod-Arabic/index.m3u8
-#EXTINF:-1,koky kids
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Kokky-Kids/index.m3u8
-#EXTINF:-1,Semsem
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-SemSem/index.m3u8
-#EXTINF:-1,Mouja tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mouja-TV/index.m3u8
-#EXTINF:-1,Nour Kids
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nour-Kids/index.m3u8
-#EXTINF:-1,Taha
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
-#EXTINF:-1,Toyor-Baby
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
+rtmp://extondemand.livestream.com/ondemand/trans/dv02/mogulus-user-files/chislamiccartoon/2008/09/28/3d4fa86f-5f3c-4f52-891f-5499a6e39bef
+#EXTINF:-1,Toyor aljanah
+https://manifest.googlevideo.com/api/manifest/hls_variant/key/yt6/id/PrerHSj4jDg.1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1506894782/go/1/dover/8/itag/0/ei/Xg_RWe6QAYmhcJizuGg/ipbits/0/gcr/de/ratebypass/yes/source/yt_live_broadcast/signature/31B4DBF76D38111440E48A44458ECB47CFFB3640.62E8573111A7204BFA5181FACE46FEC4711DFC9E/playlist_type/DVR/hfr/1/maudio/1/keepalive/yes/ip/92.227.50.150/requiressl/yes/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" ,Baraem
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" ,Baraem *
+http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" ,Jeem TV
+http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=NEWS Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Al-Arabiya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
+http://...
 #EXTINF:-1,Al-Jazeera
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
-#EXTINF:-1,alarabiya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index783.m3u8?v=1558393494
+#EXTINF:-1,Al-Arabiya
+http://live.alarabiya.net/alarabiya/myStream_480p/chunklist.m3u8
 #EXTINF:-1,alarabiya hadath
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
-#EXTINF:-1,aljazeera
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
-#EXTINF:-1,aljazeera mubasher
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlJazeera-Mubasher/index.m3u8
-#EXTINF:-1,aljazeera documentry
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlJazeera-Documentary/index.m3u8
-#EXTINF:-1,alhurra
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhurra/index.m3u8
-#EXTINF:-1,alhurra iraq
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alhurra-Iraq/index.m3u8
-#EXTINF:-1,France 24
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
-#EXTINF:-1,BBc arabic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
-#EXTINF:-1,I24news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-I24-News/index.m3u8
-#EXTINF:-1,Alaan
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Alaan-Tv/index.m3u8
-#EXTINF:-1,Ann
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-ANN/index.m3u8
-#EXTINF:-1,DW arabic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-DW-Arabic/index.m3u8
-#EXTINF:-1,CNBC 
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-CNBC-Arabiya/index.m3u8
-#EXTINF:-1,AlAraby news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAraby/index.m3u8
-#EXTINF:-1,bbc arabic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
-#EXTINF:-1,France24
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
-#EXTINF:-1,Orent news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Orient/index.m3u8
-#EXTINF:-1,Palestine
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Palestine/index.m3u8
-#EXTINF:-1,alalam
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
-#EXTINF:-1,Palestine-News
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Palestine-News/index.m3u8
-#EXTINF:-1,alalam news
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
+#EXTINF:-1,ALMANAR
+http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
+#EXTINF:-1,Rusiya_Al_Yaum
+http://demo.ashttp9.visionip.tv/live/Rusiya_Al_Yaum-SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" ,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" ,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" ,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.image-share.com/upload/3127/124.jpg" ,NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" ,Russia Today
+http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" ,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=ROTANA Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+http://...
 #EXTINF:-1,Rotana aflam
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Aflam/index.m3u8
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 #EXTINF:-1,Rotana cinema
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Cinema/index.m3u8
+http://www.elahmad.com/tv/embed.php?id=rotana_cinema
 #EXTINF:-1,Rotana classic
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Classic/index.m3u8
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 #EXTINF:-1,Rotana-Clip
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Clip/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-Rotana-Clip/index.m3u8
 #EXTINF:-1,rotana masriya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Masriya/index.m3u8
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 #EXTINF:-1,Rotana music
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Rotana-Music/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-Rotana-Music/index.m3u8
+#EXTINF:-1,Rotana khaligi
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_khaligi&t=ar
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=JORDAN AND PALESTINE Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2uer4go.jpg" ,Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1 tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" ,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1 tvg-logo="http://www.semsem.tv/images/logo2.png" ,Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.idfblog.com/hamas/files/2012/01/Al-Aqsa-TV.png" ,Al Aqsa
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,Jordan_TV
+http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
+#EXTINF:-1,Jordan_Sport
+http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
+#EXTINF:-1,ALordonAlyoom
+http://streaming.i-sat.tv:1935/live/ALordonAlyoom/gmswf.m3u8?v=1558393494
 #EXTINF:-1,Roya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Roya/index.m3u8
-#EXTINF:-1,AlEtihad
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlEtihad/index.m3u8
-#EXTINF:-1,Almarqab
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlMarqab/index.m3u8
-#EXTINF:-1,Alfursan tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFursan-TV/index.m3u8
-#EXTINF:-1,Hawas-TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Hawas-TV/index.m3u8
-#EXTINF:-1,Jordan
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Jordan/index.m3u8
+http://streaming.i-sat.tv:1935/live/Roya/gmswf.m3u8?v=1558393494
+#EXTINF:-1,KIFA
+http://185.27.116.54:1935/live/kifa.stream_360p/chunklist.m3u8?v=1558393494
 #EXTINF:-1,Palestine
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Palestine/index.m3u8
+http://htv.mada.ps:8888/PBC/PBC/index.m3u8?v=1558393494
 #EXTINF:-1,Palestine-Live
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Palestine-Live/index.m3u8
-#EXTINF:-1,Maa TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Maa-TV/index.m3u8
-#EXTINF:-1,QOU-Edu
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-QOU-Edu/index.m3u8
-#EXTINF:-1,AlFalastiniah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlFalastiniah/index.m3u8
-#EXTINF:-1,An Najah NBC
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-An-Najah-NBC/index.m3u8
-#EXTINF:-1,Nour-Koddass
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nour-Koddass/index.m3u8
+http://htv.mada.ps:8888/PBCLive/PBCLive/index.m3u8?v=1558393494
+#EXTINF:-1,Aqsatv
+http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1558393494
+#EXTINF:-1,PalestineAlYawm
+http://38.99.146.71:7777/PalestineAlYawm_Med.m3u8?user=tyty&session=41ea810276960d963441a63c28a5cd63f5817e75b1c8d66d1437b537f7d93637
+#EXTINF:-1,Alquds
+http://38.99.146.71:7777/Alquds_Med.m3u8?user=tyty&session=046c8ae1bc5bbc3edf0217d09ccc0ecc75b43e29d808fb8a36a7240490e4e0a3
+#EXTINF:-1,Palestinian tv
+http://188.166.3.79:8081/palestiniantv_source/live/playlist.m3u8?v=1558393494
+#EXTINF:-1,Alfajertv
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?v=1558393494
+#EXTINF:-1,ftv
+http://htv.mada.ps:8888/ftv/ftv/index.m3u8?v=1558393494
+#EXTINF:-1,MaanHD
+http://vstream3.hadara.ps:8081/MaanHD_web/web/playlist.m3u8?v=1558393494
+#EXTINF:-1,Ajyal
+http://w2.mada.ps:1935/ajyal/livestreamm/playlist.m3u8?v=1558393494
+#EXTINF:-1,Musawa
+http://htv.mada.ps:8888/Musawa/Musawa/index.m3u8?v=1558393494
+#EXTINF:-1,salamtv
+http://htv.mada.ps:8888/salamtv/salamtv/playlist.m3u8?v=1558393494
+#EXTINF:-1,raya
+http://htv.mada.ps:8888/raya/tv/index.m3u8?v=1558393494
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=MUSIC Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+http://....
 #EXTINF:-1,mazzika
 http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Mazzika-TV/index.m3u8
 #EXTINF:-1,Ajman-TV
@@ -12812,241 +12252,168 @@ http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Awdeh-TV/index.m3u8
 http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Wanasah/index.m3u8
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=ISLAM Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Time quraan
-http://iptv2.jan-beryan.giize.com/LQ-AR-Time-Quraan/index.m3u8
-#EXTINF:-1,Makah tv
-http://iptv2.jan-beryan.giize.com/LQ-AR-Makah-TV/index.m3u8
-#EXTINF:-1,TV-Coran
-http://iptv2.jan-beryan.giize.com/LQ-AR-TV-Coran/index.m3u8
-#EXTINF:-1,ALResala
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Resalah/index.m3u8
-#EXTINF:-1,iqraa
-http://iptv2.jan-beryan.giize.com/LQ-AR-Iqraa/index.m3u8
-#EXTINF:-1,Alafasy
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Afasy/index.m3u8
-#EXTINF:-1,Resalah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Resalah/index.m3u8
-#EXTINF:-1,Iqraa
-http://iptv2.jan-beryan.giize.com/LQ-AR-Iqraa/index.m3u8
-#EXTINF:-1,Almajd3
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMajd3/index.m3u8
-#EXTINF:-1,Tv Quran
-http://iptv2.jan-beryan.giize.com/LQ-AR-TV-Coran/index.m3u8
-#EXTINF:-1,Saudi-Quran
-http://iptv2.jan-beryan.giize.com/LQ-AR-Saudi-Quraan/index.m3u8
+http://...
+#EXTINF:-1,Wesal
+http://live.noorlive.com:1935/wesal/wesal1/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Aljameela_tv
+http://de.live.net.sa:1935/live/alj/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Daawah tv
+http://46.101.172.110:8081/daawahtv_source/live2/playlist.m3u8?v=1558393494
+#EXTINF:-1,Makkah tv
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8?v=1558393494
+#EXTINF:-1,اهل القرآن
+http://live.ezwp.tv/hls-live/livestream/_definst_/liveevent/0664f22e-aa91-443a-bee9-4b9028ebfd93.m3u8?v=1558393494
+#EXTINF:-1,Ayat
+http://m.live.net.sa:1935/live/ayat/gmswf.m3u8?v=1558393494
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=SUDAN Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Bntv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-BNTV/index.m3u8
+http://...
+#EXTINF:-1,BlueNile
+http://38.99.146.71:7777/BlueNile_Med.m3u8?user=tyty&session=3b52ec7aa32ea134010e9100af0e01125b2610fc3cb5b443bb99b03d32bbc94f
 #EXTINF:-1,sudan
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sudan-TV/index.m3u8
-#EXTINF:-1,Khartoum
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Khartoum/index.m3u8
-#EXTINF:-1,Sahour Tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sahour-TV/index.m3u8
-#EXTINF:-1,BNTV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-BNTV/index.m3u8
-#EXTINF:-1,Sudan tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sudan-TV/index.m3u8
-#EXTINF:-1,Sudan Knowledge
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sudan-Knowledge/index.m3u8
-#EXTINF:-1,Sudania24
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sudania24/index.m3u8
-#EXTINF:-1,AlGezira
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlGezira/index.m3u8
-#EXTINF:-1,AlManal
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Manal/index.m3u8
+http://38.99.146.71:7777/Sudan_Med.m3u8?user=tyty&session=cdb9591dcc95ca0551b0243d7e34b525ca60b00a129b1ec1102a542cb34f4dfc
 #EXTINF:-1,Ashrooq
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Ashrooq/index.m3u8
+rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1,Tayba TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
+http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8?v=1558393494
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
+#EXTINF:-1,south-sudan
+http://nimlive1.giniko.com/ssudan/ssudan.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDExOjEwOjU1IFBNJmhhc2hfdmFsdWU9YUZza3BwdFBGZlJ4WkE3Skh0VzI5UT09JnZhbGlkbWludXRlcz0yODgw
+#EXTINF:-1,Khartoum TV
+http://38.99.146.71:7777/KhartoumTV_Med.m3u8?user=tyty&session=adabf425d3eb90712394aed1cea1ec0c555682acdbb1b627a52f0c8e6d2cad61
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=YEMEN Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Yemen-Today
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Yemen-Today/index.m3u8
-#EXTINF:-1,Sheba tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sheba-TV/index.m3u8
-#EXTINF:-1,suhail TV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Suhail-TV/index.m3u8
-#EXTINF:-1,Yemen tv
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Yemen-TV/index.m3u8
-#EXTINF:-1,Yemen-Today
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Yemen-Today/index.m3u8
-#EXTINF:-1,AdenTV
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Aden-TV/index.m3u8
-#EXTINF:-1,Future Yemen
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Future-Yemen/index.m3u8
-#EXTINF:-1,Aleiman
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Eiman/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" ,Yemen TV
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" ,Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+#EXTINF:-1,Rushd
+rtmp://82.212.74.3/live/7406
+#EXTINF:-1,Belqees-tv
+http://api.new.livestream.com/accounts/12233888/events/3819374/broadcasts/163552737.m3u8?dw=100&hdnea=st=1506899639~exp=1506901439~acl=%2Fi%2F12233888_3819374_lsib878jm5lv8lfntd2_1@408208%2f*~hmac=9b8c039c150902399d8202a08eba606099a085d67db54df4ef6e4b6518aa90cc
+#EXTINF:-1,SANAA TV
+rtmp://82.212.74.3:1935/live/7410
+#EXTINF:-1,Suhail-tv
+rtmp://82.212.74.5:1935/live/7626
+#EXTINF:-1,Aden
+http://38.99.146.71:7777/Aden_Med.m3u8?user=tyty&session=3a8882f80a982e228b966d4bf2c528c86f5efb20fb395199e23c81310723968e
+#EXTINF:-1,yemen_shabab
+rtmp://82.212.74.3/live/7425
+#EXTINF:-1,Alghadye
+http://livestream-f.akamaihd.net/i/4818613_6145209_lsii2597vi08rpyc2a9_1@447404/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506986457~acl=%2fi%2f4818613_6145209_lsii2597vi08rpyc2a9_1%40447404%2f*~data=hdntl~hmac=718809efb663e860a48e8243d739735b11471c4ad2a4f2014ff991c1494c4dc7
+
+
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=ARAB SPORTS Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,mbc sport1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-SPORT1/index.m3u8
-#EXTINF:-1,mbc sport2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-SPORT2/index.m3u8
-#EXTINF:-1,mbc sport3
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MBC-SPORT3/index.m3u8
-#EXTINF:-1,Nile sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Sport/index.m3u8
-#EXTINF:-1,nile sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Nile-Sport/index.m3u8
-#EXTINF:-1,alnahar sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlNahar-Sport/index.m3u8
-#EXTINF:-1,iraqyia sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Iraqia-Sport/index.m3u8
-#EXTINF:-1,Iraqia sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Iraqia-Sport/index.m3u8
-#EXTINF:-1,jordan sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Jordan-Sport/index.m3u8
-#EXTINF:-1,Sudan sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Sudan-Sport/index.m3u8
-#EXTINF:-1,saudi sport
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Saudi-Sport/index.m3u8
+http://...
+#EXTINF:-1,Alkass1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&
+#EXTINF:-1,Alkass2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&
+#EXTINF:-1,Alkass3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&
+#EXTINF:-1,Alkass4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&
+#EXTINF:-1,Alkass5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&
+#EXTINF:-1,Dubai sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1,Saudi_sport
+http://www.elahmad.com/tv/m3u8/selevision.m3u8?id=saudi_sport
+#EXTINF:-1,NileSport
+http://38.99.146.71:7777/NileSport_Med.m3u8?user=tyty&session=f1713b08bb3ee02212d950a91d1bac366f2bdb7c76f1a789345bc5671e5c96dd
+#EXTINF:-1,Ktv3
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,Bahrain Sports
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1,Oman_sport
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
+#EXTINF:-1,Jordan_Sport
+http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
+#EXTINF:-1,Arriadia Maroc
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:-1,Palestine Sport
+http://38.99.146.71:7777/PalestineSport_Med.m3u8?user=tyty&session=e30f7ec87c78f8a83b6d936a544fa1de2e3b5b77a700c5ff4da9b534cbd7f0ea
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=LIBYA Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Libya24
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Libya24/index.m3u8
-#EXTINF:-1,Libya One
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Libya-One/index.m3u8
-#EXTINF:-1,Libya Rasmia
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Libya-Rsmia/index.m3u8
-#EXTINF:-1,Libya 218
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Libya218/index.m3u8
-#EXTINF:-1,Libya ALhura
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Libya-Alhura/index.m3u8
-#EXTINF:-1,Banghazi24
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Benghazi24-TV/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/msm71t.jpg" ,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1 tvg-logo="https://www.218tv.net/wp-content/uploads/2016/12/218tv-default.jpg" ,Libya 218
+http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wKJikLm.gif" ,Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1,Alnabaa tv
+http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8?v=1558393494
+#EXTINF:-1,AlAhrar
+http://38.99.146.71:7777/AlAhrar_Med.m3u8?user=tyty&session=2565d2361fb239615a0c7f7e7e2a0b511a353ea5b11198e2d820f71d0cf57a9c
+#EXTINF:-1,Libya Elwatan
+http://streaming.i-sat.tv:1935/live/libyaelwatan/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Libya-alhadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:-1,Benghazi_tv
+rtmp://82.212.74.5:1935/live/7624
+
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=KWAIT Group=
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 ,ALAAn
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alaan-TV/index.m3u8
-#EXTINF:-1,alrai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alrai/index.m3u8
-#EXTINF:-1 ,Alrai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alrai/index.m3u8
+http://...
+#EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" ,Al Rai
+http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
+#EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" ,Al Rai *
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" ,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" ,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" ,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" ,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" ,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img63.jpg" ,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wakeplay.net/wp-content/uploads/2016/06/kuwaittvplus.jpg" ,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636174029839741716.jpg" ,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,=KSA Group=
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Mta International
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-MTA-International/index.m3u8
-#EXTINF:-1,saudia1
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Saudi1/index.m3u8
-#EXTINF:-1,saudia 2
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Saudi1/index.m3u8
-#EXTINF:-1,elekbaria ksa
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Al-Ekhbaria/index.m3u8
-#EXTINF:-1,Aleqtisadiah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Aleqtisadiah/index.m3u8
-#EXTINF:-1,AlThuqafiah
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlThuqafiah/index.m3u8
-#EXTINF:-1,Qest-Arabiya
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-Quest-Arabiya/index.m3u8
-#EXTINF:-1,alarby
-http://andrtviptv1.jan-beryan.giize.com/LQ-AR-AlAraby/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" ,Saudi 1
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" ,Saudi 2 (English)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" ,Saudi Sports
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" ,Saudi News
+www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
+#EXTINF:-1 tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" ,Saudi Documentary
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/14uum1v.jpg" ,Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" ,Ajyal TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" ,Ajyal TV *
+http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" ,Rotana Cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
+#EXTINF:-1 tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" ,Rotana Classic
+http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" ,Rotana Clip
+http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" ,Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,======BEIN SPORTS Group=======
-http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTINF:-1,bein sport1  
-http://bein1.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport2                 
-http://bein2.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport3                       
-http://bein3.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport4                   
-http://bein4.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport5                        
-http://bein5.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport6                        
-http://bein6.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport7                    
-http://bein7.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport8                       
-http://bein8.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport9                       
-http://bein9.jan-beryan.giize.com/playlist.m3u8
-#EXTINF:-1,bein sport10                       
-http://bein10.jan-beryan.giize.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=http://www.colorcombos.com/images/colors/FF0000.png ,======MORE Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 ,AlHayat
-http://iptv.jan-beryan.giize.com/16173_AlHayat/index.m3u8
-#EXTINF:-1 ,YASMINETV
-http://iptv.jan-beryan.giize.com/16085_YASMINETV/index.m3u8
-#EXTINF:-1 ,ZITOUNAHEDAYA
-http://iptv.jan-beryan.giize.com/16086_ZITOUNAHEDAYA/index.m3u8
-#EXTINF:-1 ,7ALAWETRO7
-http://iptv.jan-beryan.giize.com/16091_7ALAWETRO7/index.m3u8
-#EXTINF:-1 ,ABCCINEMA
-http://iptv.jan-beryan.giize.com/16092_ABCCINEMA/index.m3u8
-#EXTINF:-1 ,ABLAFAHEETA
-http://iptv.jan-beryan.giize.com/16093_ABLAFAHEETA/index.m3u8
-#EXTINF:-1 ,ALBATAL
-http://iptv.jan-beryan.giize.com/16094_ALBATAL/index.m3u8
-#EXTINF:-1 ,CAIROONETV
-http://iptv.jan-beryan.giize.com/16097_CAIROONETV/index.m3u8
-#EXTINF:-1 ,ROJAVATV
-http://iptv.jan-beryan.giize.com/16105_ROJAVATV/index.m3u8
-#EXTINF:-1 ,SHAMALTV
-http://iptv.jan-beryan.giize.com/16107_SHAMALTV/index.m3u8
-#EXTINF:-1 ,TIMETV
-http://iptv.jan-beryan.giize.com/16109_TIMETV/index.m3u8
-#EXTINF:-1 ,TIMETURKI
-http://iptv.jan-beryan.giize.com/16129_TIMETURKI/index.m3u8
-#EXTINF:-1 ,AlNaeemTV
-http://iptv.jan-beryan.giize.com/16145_AlNaeemTV/index.m3u8
-#EXTINF:-1 ,ALASSEMA
-http://iptv.jan-beryan.giize.com/16175_ALASSEMA/index.m3u8
-#EXTINF:-1 ,Med
-http://iptv.jan-beryan.giize.com/16163_Med/index.m3u8
-#EXTINF:-1 ,KNN
-http://iptv.jan-beryan.giize.com/16182_KNN/index.m3u8
-#EXTINF:-1 ,FIVEFILM
-http://iptv.jan-beryan.giize.com/16183_FIVEFILM/index.m3u8
-#EXTINF:-1 ,FIVECINEMA
-http://iptv.jan-beryan.giize.com/16184_FIVECINEMA/index.m3u8
-#EXTINF:-1 ,ABCTV
-http://iptv.jan-beryan.giize.com/16186_ABCTV/index.m3u8
-#EXTINF:-1 ,Boomerang
-http://iptv.jan-beryan.giize.com/16199_Boomerang/index.m3u8
-#EXTINF:-1 ,DRAMATUBE
-http://iptv.jan-beryan.giize.com/16211_DRAMATUBE/index.m3u8
-#EXTINF:-1 ,sawtalarab
-http://iptv.jan-beryan.giize.com/16252_sawtalarab/index.m3u8
-#EXTINF:-1 ,ALSehaWaljamal
-http://iptv.jan-beryan.giize.com/16257_ALSehaWaljamal/index.m3u8
-#EXTINF:-1 ,ALSHAMALTV
-http://iptv.jan-beryan.giize.com/16260_ALSHAMALTV/index.m3u8
-#EXTINF:-1 ,TADAMON
-http://iptv.jan-beryan.giize.com/16263_TADAMON/index.m3u8
-#EXTINF:-1 ,BBCONE
-http://iptv.jan-beryan.giize.com/16265_BBCONE/index.m3u8
-#EXTINF:-1 ,ALSaha2
-http://iptv.jan-beryan.giize.com/16355_ALSaha2/index.m3u8
-#EXTINF:-1 ,ALSaha3
-http://iptv.jan-beryan.giize.com/16356_ALSaha3/index.m3u8
-#EXTINF:-1 ,MICKEYCHANNEL
-http://iptv.jan-beryan.giize.com/16326_MICKEYCHANNEL/index.m3u8
-#EXTINF:-1 ,KIDZINIA
-http://iptv.jan-beryan.giize.com/16328_KIDZINIA/index.m3u8
-#EXTINF:-1 ,SoutElShaab
-http://iptv.jan-beryan.giize.com/16330_SoutElShaab/index.m3u8
-#EXTINF:-1 ,IKIDS
-http://iptv.jan-beryan.giize.com/16322_IKIDS/index.m3u8
-#EXTINF:-1 ,Majan
-http://iptv.jan-beryan.giize.com/16159_Majan/index.m3u8
-#EXTINF:-1 ,BELQEES
-http://iptv.jan-beryan.giize.com/16255_BELQEES/index.m3u8
-#EXTINF:-1,AlJazeeraAmerica
-http://iptv.jan-beryan.giize.com/16167_AlJazeeraAmerica/index.m3u8
-#EXTINF:-1 ,AlJazeeraDocumentary
-http://iptv.jan-beryan.giize.com/16168_AlJazeeraDocumentary/index.m3u8
+
+
+
 
 
 
