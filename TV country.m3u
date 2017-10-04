@@ -12132,8 +12132,6 @@ http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
 http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
 #EXTINF:-1,Rusiya_Al_Yaum
 http://demo.ashttp9.visionip.tv/live/Rusiya_Al_Yaum-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
-http://192.99.35.215:5109/stream
 #EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" ,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" ,BBC
