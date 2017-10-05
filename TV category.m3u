@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/9/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -56,8 +56,6 @@ http://31.128.142.89:3371/udp/239.1.11.27:1234
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1,Discovery
-http://91.202.14.3:8001/play/a001
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
 #EXTINF:-1,Discovery HD
@@ -151,10 +149,14 @@ http://37.192.132.113:81/udp/239.1.3.2:1234
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
+#EXTINF:0, Boomerang
+http://130.185.248.29:52610/play/a00s
 #EXTINF:0,Cartoon Network
 http://188.68.162.146:81/udp/239.2.100.159:4321
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
+#EXTINF:0, Cartoon Network
+http://130.185.248.29:52610/play/a00t
 #EXTINF:-1,Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Channel 
