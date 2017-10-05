@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,4/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -259,137 +259,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:8 group-title=”GREECE/Cyprus-Premium-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,Ept 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2345.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ERT 1 WebTV 
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2347.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,Ept 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2346.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ERT2 WebTV 
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2349.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=http://www.typologies.gr/wp-content/uploads/2015/06/ERT-HD-logo--300x101.jpg ,Ert HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2348.ts|user-agent=useragent
-#EXTINF:-1 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/extra3_gr.jpg ,EXTRA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2353.ts|user-agent=useragent
-#EXTINF:-1 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/extra3_gr.jpg ,Extra Channel
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2354.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,Alpha
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2330.ts|user-agent=useragent
-#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2331.ts|user-agent=useragent
-#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,Ant1 Cy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1649.ts|user-agent=useragent
-#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,Ant1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2332.ts|user-agent=useragent
-#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,Mega
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2368.ts|user-agent=useragent
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,Star
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2385.ts|user-agent=useragent
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,Star TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2386.ts|user-agent=useragent
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”GREECE/Cyprus2-Premium-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,4ETV
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4750.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4751.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4752.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,EPSILON
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4753.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="ΕΡΤ1" epg-id=EPT1.gr tvg-logo=https://goo.gl/hD0NSD ,ET1
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4754.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="ΕΡΤ2" epg-id=EPT2.gr tvg-logo=https://goo.gl/quc9Qp ,ET2
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4755.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="ΕΡΤ3" epg-id=EPT3.gr tvg-logo=https://goo.gl/FOIiN8 ,ET3
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4756.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="Kontra Channel" epg-id=KontraEN.gr tvg-logo=https://goo.gl/S96RUr ,KONTRACHANNEL
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4757.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,MAKEDONIA
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4758.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4759.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4760.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4761.ts|user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 
 
 
@@ -3447,40 +3316,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/881.m3u8$http-refferer=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Italy3-Premium-MXPlayer”,
+#EXTINF:8 group-title=”Italy2-PREMIUM_MXPLAYER”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
+
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
@@ -3502,242 +3342,96 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,Premium Sport HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2006.ts|user-agent=useragent
-#EXTINF:-1,Sky Uno HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2007.ts|user-agent=useragent
-#EXTINF:-1,Alice
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1955.ts|user-agent=useragent
-#EXTINF:-1,Canale5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1956.ts|user-agent=useragent
-#EXTINF:-1,Dmax HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1957.ts|user-agent=useragent
-#EXTINF:-1,Eurosport 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1958.ts|user-agent=useragent
-#EXTINF:-1,Eurosport 2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1959.ts|user-agent=useragent
-#EXTINF:-1,Fox Comedy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1960.ts|user-agent=useragent
-#EXTINF:-1,Fox Crime HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1961.ts|user-agent=useragent
-#EXTINF:-1,Italia 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1962.ts|user-agent=useragent
-#EXTINF:-1,italia1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1963.ts|user-agent=useragent
-#EXTINF:-1,La7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1964.ts|user-agent=useragent
-#EXTINF:-1,Mediaset Extra
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1965.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio 1*
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1966.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio 2*
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1967.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio 3*
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1968.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1969.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio 5*
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1970.ts|user-agent=useragent
-#EXTINF:-1,Premium Cinema
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1971.ts|user-agent=useragent
-#EXTINF:-1,Premium Cinema 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1973.ts|user-agent=useragent
-#EXTINF:-1,Premium Cinema Energy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1972.ts|user-agent=useragent
-#EXTINF:-1,Premium Crime
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1974.ts|user-agent=useragent
-#EXTINF:-1,Premium Emotion
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1975.ts|user-agent=useragent
-#EXTINF:-1,Premium Joy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1976.ts|user-agent=useragent
-#EXTINF:-1,Premium Stories
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1977.ts|user-agent=useragent
-#EXTINF:-1,Rai Movie
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1978.ts|user-agent=useragent
-#EXTINF:-1,Rai Premium
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1979.ts|user-agent=useragent
-#EXTINF:-1,Rai Sport1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1980.ts|user-agent=useragent
-#EXTINF:-1,Rai Sport2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1981.ts|user-agent=useragent
-#EXTINF:-1,Rai1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1982.ts|user-agent=useragent
-#EXTINF:-1,Rai2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1983.ts|user-agent=useragent
-#EXTINF:-1,Rai3 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1984.ts|user-agent=useragent
-#EXTINF:-1,Rai4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1985.ts|user-agent=useragent
-#EXTINF:-1,Rai5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1986.ts|user-agent=useragent
-#EXTINF:-1,Rete4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1987.ts|user-agent=useragent
-#EXTINF:-1,RSI La1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1988.ts|user-agent=useragent
-#EXTINF:-1,RSI La2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1989.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema  1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1990.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Classic HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1991.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Comedy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1992.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Family HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1993.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Max HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1994.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Passion HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1995.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1996.ts|user-agent=useragent
-#EXTINF:-1,SKY CINEMA24 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1997.ts|user-agent=useragent
-#EXTINF:-1,SKY F1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1998.ts|user-agent=useragent
-#EXTINF:-1,Sky Foxcrime HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1999.ts|user-agent=useragent
-#EXTINF:-1,Sky Moto GP HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2000.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 24 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2001.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport F1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2002.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2003.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2004.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport3 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2005.ts|user-agent=useragent
-#EXTINF:-1,Animal Planet
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2009.ts|user-agent=useragent
-#EXTINF:-1,Boing
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/21.ts|user-agent=useragent
-#EXTINF:-1,Canal 5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2010.ts|user-agent=useragent
-#EXTINF:-1,Cartoonito
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2011.ts|user-agent=useragent
-#EXTINF:-1,Cielo
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2012.ts|user-agent=useragent
-#EXTINF:-1,Discovery HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2013.ts|user-agent=useragent
-#EXTINF:-1,Discovery Science HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2014.ts|user-agent=useragent
-#EXTINF:-1,Discovery Travel&Living HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2015.ts|user-agent=useragent
-#EXTINF:-1,FISHING TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/20.ts|user-agent=useragent
-#EXTINF:-1,Fox Animation
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/737.ts|user-agent=useragent
-#EXTINF:-1,Fox Crime HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2016.ts|user-agent=useragent
-#EXTINF:-1,FOX HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2017.ts|user-agent=useragent
-#EXTINF:-1,Fox Life HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2018.ts|user-agent=useragent
-#EXTINF:-1,FOX Sport HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2019.ts|user-agent=useragent
-#EXTINF:-1,History
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/19.ts|user-agent=useragent
-#EXTINF:-1,Inter Channel
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2020.ts|user-agent=useragent
-#EXTINF:-1,Juventus TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2008.ts|user-agent=useragent
-#EXTINF:-1,MarcoPolo
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/18.ts|user-agent=useragent
-#EXTINF:-1,Mediaset Extra
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2021.ts|user-agent=useragent
-#EXTINF:-1,Milan Channel
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2050.ts|user-agent=useragent
-#EXTINF:-1,Nat Geo Wild HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2022.ts|user-agent=useragent
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2023.ts|user-agent=useragent
-#EXTINF:-1,Pesca e Caccia
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2024.ts|user-agent=useragent
-#EXTINF:-1,Premium Action
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2025.ts|user-agent=useragent
-#EXTINF:-1,Premium Calcio
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2026.ts|user-agent=useragent
-#EXTINF:-1,Premium Comedy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2027.ts|user-agent=useragent
-#EXTINF:-1,Premium Disney Junior
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2028.ts|user-agent=useragent
-#EXTINF:-1,Premium Sport 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2029.ts|user-agent=useragent
-#EXTINF:-1,Premium Studio Universal
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2030.ts|user-agent=useragent
-#EXTINF:-1,Rai Yoyo
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2031.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2032.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2033.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2034.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2035.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2036.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2037.ts|user-agent=useragent
-#EXTINF:-1,Sky Calcio 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2038.ts|user-agent=useragent
-#EXTINF:-1,Sky Fox Comedy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2039.ts|user-agent=useragent
-#EXTINF:-1,SKY Primafila 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2040.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2041.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2042.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2043.ts|user-agent=useragent
-#EXTINF:-1,SKY TG 24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2044.ts|user-agent=useragent
-#EXTINF:-1,SPORT ITALIA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2045.ts|user-agent=useragent
-#EXTINF:-1,SUPER TENNIS (Backup)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/528.ts|user-agent=useragent
-#EXTINF:-1,Supercalcio HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2046.ts|user-agent=useragent
-#EXTINF:-1,Teleticino
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2065.ts|user-agent=useragent
-#EXTINF:-1,TOP CRIME
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2066.ts|user-agent=useragent
-#EXTINF:-1,CARTOON  NETWORK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2047.ts|user-agent=useragent
-#EXTINF:-1,Discovery Focus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2048.ts|user-agent=useragent
-#EXTINF:-1,Mediaset Iris
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2049.ts|user-agent=useragent
-#EXTINF:-1,Premium Disney Junior
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2051.ts|user-agent=useragent
-#EXTINF:-1,Rai Gulp
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2052.ts|user-agent=useragent
-#EXTINF:-1,Real Time
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2053.ts|user-agent=useragent
-#EXTINF:-1,SKY Cinema 3D
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2054.ts|user-agent=useragent
-#EXTINF:-1,SKY Primafila 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2055.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 10
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2056.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 12
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2057.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 13
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2058.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 14
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2059.ts|user-agent=useragent
-#EXTINF:-1,SKY Primafila 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2060.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2061.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2062.ts|user-agent=useragent
-#EXTINF:-1,Sky Primafila 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2063.ts|user-agent=useragent
-#EXTINF:-1,Super Tennis
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2064.ts|user-agent=useragent
+#EXTINF:-1,AXN HD
+http://173.212.206.199:25461/live/ksa/indep/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,BOING
+http://173.212.206.199:25461/live/ksa/indep/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANALE 5
+http://173.212.206.199:25461/live/ksa/indep/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CARTOON NETWORK
+http://173.212.206.199:25461/live/ksa/indep/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISNEY JR
+http://173.212.206.199:25461/live/ksa/indep/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,LA5
+http://173.212.206.199:25461/live/ksa/indep/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,LA7
+http://173.212.206.199:25461/live/ksa/indep/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MEDIASAT EXTRA
+http://173.212.206.199:25461/live/ksa/indep/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NICKELODEON
+http://173.212.206.199:25461/live/ksa/indep/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PREMIUM ACTION 24
+http://173.212.206.199:25461/live/ksa/indep/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PREMIUM CINEMA 2 HD
+http://173.212.206.199:25461/live/ksa/indep/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PREMIUM EMOTION
+http://173.212.206.199:25461/live/ksa/indep/835.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PREMIUM JOI
+http://173.212.206.199:25461/live/ksa/indep/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI 1
+http://173.212.206.199:25461/live/ksa/indep/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI 2
+http://173.212.206.199:25461/live/ksa/indep/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI 4
+http://173.212.206.199:25461/live/ksa/indep/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI 5
+http://173.212.206.199:25461/live/ksa/indep/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI GULP
+http://173.212.206.199:25461/live/ksa/indep/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI MOVIE
+http://173.212.206.199:25461/live/ksa/indep/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI NEWS 24
+http://173.212.206.199:25461/live/ksa/indep/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI PREMIUM
+http://173.212.206.199:25461/live/ksa/indep/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI SCUOLA
+http://173.212.206.199:25461/live/ksa/indep/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI STORIA
+http://173.212.206.199:25461/live/ksa/indep/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RAI YOYO
+http://173.212.206.199:25461/live/ksa/indep/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RETE 4
+http://173.212.206.199:25461/live/ksa/indep/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RSI LA1 HD
+http://173.212.206.199:25461/live/ksa/indep/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RSI LA2 HD /
+http://173.212.206.199:25461/live/ksa/indep/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY ATLANTIC 1HD
+http://173.212.206.199:25461/live/ksa/indep/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY ATLANTIC HD
+http://173.212.206.199:25461/live/ksa/indep/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA 1 HD
+http://173.212.206.199:25461/live/ksa/indep/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA CLASSIC HD
+http://173.212.206.199:25461/live/ksa/indep/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://173.212.206.199:25461/live/ksa/indep/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA MAX HD
+http://173.212.206.199:25461/live/ksa/indep/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,STUDIO UNIVERSAL
+http://173.212.206.199:25461/live/ksa/indep/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4539,9 +4233,91 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/354.ts|us
 
 
 
+#EXTINF:8 group-title=”France3-PREMIUM_MXPLAYER”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
 
-
+#EXTINF:-1,ANIMUX
+http://173.212.206.199:25461/live/ksa/indep/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL CINEMA
+http://173.212.206.199:25461/live/ksa/indep/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL DECALE
+http://173.212.206.199:25461/live/ksa/indep/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL FAMILY
+http://173.212.206.199:25461/live/ksa/indep/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV 1 /
+http://173.212.206.199:25461/live/ksa/indep/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV 2
+http://173.212.206.199:25461/live/ksa/indep/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV3 /
+http://173.212.206.199:25461/live/ksa/indep/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV4 /
+http://173.212.206.199:25461/live/ksa/indep/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV5 /
+http://173.212.206.199:25461/live/ksa/indep/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV6 /
+http://173.212.206.199:25461/live/ksa/indep/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV7 /
+http://173.212.206.199:25461/live/ksa/indep/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV8 /
+http://173.212.206.199:25461/live/ksa/indep/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV9 /
+http://173.212.206.199:25461/live/ksa/indep/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL PPV10 /
+http://173.212.206.199:25461/live/ksa/indep/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CANAL SERIES
+http://173.212.206.199:25461/live/ksa/indep/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CHASSE E PECHE
+http://173.212.206.199:25461/live/ksa/indep/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CINE CLASSIC
+http://173.212.206.199:25461/live/ksa/indep/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CINE FAMIZ
+http://173.212.206.199:25461/live/ksa/indep/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,CINE FX
+http://173.212.206.199:25461/live/ksa/indep/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISCOVERY SCIENCE
+http://173.212.206.199:25461/live/ksa/indep/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISCOVERY
+http://173.212.206.199:25461/live/ksa/indep/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,FRANCE 2
+http://173.212.206.199:25461/live/ksa/indep/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,FRANCE 3
+http://173.212.206.199:25461/live/ksa/indep/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,FRANCE 5
+http://173.212.206.199:25461/live/ksa/indep/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NAT GEO CHANNEL
+http://173.212.206.199:25461/live/ksa/indep/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NAT GEO WILD
+http://173.212.206.199:25461/live/ksa/indep/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NRJ12
+http://173.212.206.199:25461/live/ksa/indep/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PLANETE PLUS CI
+http://173.212.206.199:25461/live/ksa/indep/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PLANETE PLUS
+http://173.212.206.199:25461/live/ksa/indep/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,W9 HD
+http://173.212.206.199:25461/live/ksa/indep/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -4826,401 +4602,6 @@ http://163.172.49.213:8899/live/bigRmd/big10rmd/1409.ts|user-agent=bbcc LibVLC/3
 
 
 
-
-
-#EXTINF:8 group-title=”France5-PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1,Bein max 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2768.ts|user-agent=useragent
-#EXTINF:-1,EURONEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2767.ts|user-agent=useragent
-#EXTINF:-1,FRANCE 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2766.ts|user-agent=useragent
-#EXTINF:-1,RTL9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2765.ts|user-agent=useragent
-#EXTINF:-1,TELETOON
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2764.ts|user-agent=useragent
-#EXTINF:-1,W9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2763.ts|user-agent=useragent
-#EXTINF:-1,  Cartoon Network HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2760.ts|user-agent=useragent
-#EXTINF:-1,  Discovery Science HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2759.ts|user-agent=useragent
-#EXTINF:-1,  Disney Jr Fr
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2758.ts|user-agent=useragent
-#EXTINF:-1,  Nat Geo HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2757.ts|user-agent=useragent
-#EXTINF:-1,  Nat Geo Wild  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2756.ts|user-agent=useragent
-#EXTINF:-1,  NRJ12 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2755.ts|user-agent=useragent
-#EXTINF:-1, 13 EME RUE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2754.ts|user-agent=useragent
-#EXTINF:-1, 6TER HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2753.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 10
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2752.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2751.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2750.ts|user-agent=useragent
-#EXTINF:-1, A LA CARTE 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2749.ts|user-agent=useragent
-#EXTINF:-1, AB Moteur HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2748.ts|user-agent=useragent
-#EXTINF:-1, AB1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2747.ts|user-agent=useragent
-#EXTINF:-1, AB3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2746.ts|user-agent=useragent
-#EXTINF:-1, ACTION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2745.ts|user-agent=useragent
-#EXTINF:-1, ANIMAUX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2744.ts|user-agent=useragent
-#EXTINF:-1, ARTE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2743.ts|user-agent=useragent
-#EXTINF:-1, BE CURIOUS TV HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/358.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 10
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2737.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2738.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2739.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2740.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2741.ts|user-agent=useragent
-#EXTINF:-1, Bein Sport Max 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2742.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/357.ts|user-agent=useragent
-#EXTINF:-1, Bein Sports 1 HD backup
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/188.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 2 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/356.ts|user-agent=useragent
-#EXTINF:-1, BeIN SPORTS 3 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/355.ts|user-agent=useragent
-#EXTINF:-1, beIN SPORTS 3HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2648.ts|user-agent=useragent
-#EXTINF:-1, beIN SPORTS1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2649.ts|user-agent=useragent
-#EXTINF:-1, beINS PORTS 2HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2650.ts|user-agent=useragent
-#EXTINF:-1, BFM business
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/328.ts|user-agent=useragent
-#EXTINF:-1, BFM SPORT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/736.ts|user-agent=useragent
-#EXTINF:-1, BFM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2703.ts|user-agent=useragent
-#EXTINF:-1, Boing
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2761.ts|user-agent=useragent
-#EXTINF:-1, BOOMERANG HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2762.ts|user-agent=useragent
-#EXTINF:-1, C8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2735.ts|user-agent=useragent
-#EXTINF:-1, Canal  Cinema
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2734.ts|user-agent=useragent
-#EXTINF:-1, Canal  Decale
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2733.ts|user-agent=useragent
-#EXTINF:-1, Canal  Family
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2732.ts|user-agent=useragent
-#EXTINF:-1, CANAL  HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/354.ts|user-agent=useragent
-#EXTINF:-1, Canal  Series
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2731.ts|user-agent=useragent
-#EXTINF:-1, Canal  Sport
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2730.ts|user-agent=useragent
-#EXTINF:-1, Canal  Sport HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/353.ts|user-agent=useragent
-#EXTINF:-1, CANAL CINEMA HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/352.ts|user-agent=useragent
-#EXTINF:-1, CANAL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2704.ts|user-agent=useragent
-#EXTINF:-1, CANAL J
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2729.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2728.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2727.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2726.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2725.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2724.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2723.ts|user-agent=useragent
-#EXTINF:-1, CANAL PLAY 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2722.ts|user-agent=useragent
-#EXTINF:-1, Cartoon Network HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/351.ts|user-agent=useragent
-#EXTINF:-1, Chasse et Peche
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2721.ts|user-agent=useragent
-#EXTINF:-1, CHERIE 25 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2720.ts|user-agent=useragent
-#EXTINF:-1, CINE CLASSIC
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2719.ts|user-agent=useragent
-#EXTINF:-1, CINE CLASSIC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2718.ts|user-agent=useragent
-#EXTINF:-1, CINE EMOTION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2717.ts|user-agent=useragent
-#EXTINF:-1, CINE EMOTION HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2716.ts|user-agent=useragent
-#EXTINF:-1, CINE FAMIZ
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2715.ts|user-agent=useragent
-#EXTINF:-1, Cine Famiz HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2714.ts|user-agent=useragent
-#EXTINF:-1, Cine Famiz HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/350.ts|user-agent=useragent
-#EXTINF:-1, CINE FRISSON
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2713.ts|user-agent=useragent
-#EXTINF:-1, CINE FRISSON HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2712.ts|user-agent=useragent
-#EXTINF:-1, Cine Frisson HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/349.ts|user-agent=useragent
-#EXTINF:-1, CINE FX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2711.ts|user-agent=useragent
-#EXTINF:-1, CINE POLAR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2710.ts|user-agent=useragent
-#EXTINF:-1, CINE PREMIER HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2709.ts|user-agent=useragent
-#EXTINF:-1, Cine Premier HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/348.ts|user-agent=useragent
-#EXTINF:-1, COMEDIE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2708.ts|user-agent=useragent
-#EXTINF:-1, COMEDIE Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2707.ts|user-agent=useragent
-#EXTINF:-1, CRIME DISTRICT HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/186.ts|user-agent=useragent
-#EXTINF:-1, CSTAR HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2706.ts|user-agent=useragent
-#EXTINF:-1, D17
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2705.ts|user-agent=useragent
-#EXTINF:-1, D8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2736.ts|user-agent=useragent
-#EXTINF:-1, DISCOVERY
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2612.ts|user-agent=useragent
-#EXTINF:-1, Discovery Investigation HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/331.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CHANNEL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2690.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CINEMA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2691.ts|user-agent=useragent
-#EXTINF:-1, DISNEY CINEMA HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/347.ts|user-agent=useragent
-#EXTINF:-1, DISNEY JUNIOR HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/346.ts|user-agent=useragent
-#EXTINF:-1, Disney xd  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2692.ts|user-agent=useragent
-#EXTINF:-1, E! Entertainment
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/253.ts|user-agent=useragent
-#EXTINF:-1, ELLE GIRL HD 1080
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/530.ts|user-agent=useragent
-#EXTINF:-1, EQUIDIA LIFE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/395.ts|user-agent=useragent
-#EXTINF:-1, EQUIDIA live
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2693.ts|user-agent=useragent
-#EXTINF:-1, Eurosport 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2694.ts|user-agent=useragent
-#EXTINF:-1, Eurosport 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2695.ts|user-agent=useragent
-#EXTINF:-1, EUROSPORT2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2696.ts|user-agent=useragent
-#EXTINF:-1, France 02 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/345.ts|user-agent=useragent
-#EXTINF:-1, France 03 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/344.ts|user-agent=useragent
-#EXTINF:-1, FRANCE 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2697.ts|user-agent=useragent
-#EXTINF:-1, France 4  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2698.ts|user-agent=useragent
-#EXTINF:-1, France 5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2699.ts|user-agent=useragent
-#EXTINF:-1, France O  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2700.ts|user-agent=useragent
-#EXTINF:-1, GAME ONE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2701.ts|user-agent=useragent
-#EXTINF:-1, GOLF  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/529.ts|user-agent=useragent
-#EXTINF:-1, GULLI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2702.ts|user-agent=useragent
-#EXTINF:-1, HD1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2689.ts|user-agent=useragent
-#EXTINF:-1, HD1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/343.ts|user-agent=useragent
-#EXTINF:-1, i Tele
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2688.ts|user-agent=useragent
-#EXTINF:-1, INFOSPORT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2687.ts|user-agent=useragent
-#EXTINF:-1, L'EQUIPE 21
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2686.ts|user-agent=useragent
-#EXTINF:-1, La Deux
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2685.ts|user-agent=useragent
-#EXTINF:-1, La une BE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2684.ts|user-agent=useragent
-#EXTINF:-1, LCI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2683.ts|user-agent=useragent
-#EXTINF:-1, M6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2682.ts|user-agent=useragent
-#EXTINF:-1, M6 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/342.ts|user-agent=useragent
-#EXTINF:-1, Ma Chaine Sport HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2681.ts|user-agent=useragent
-#EXTINF:-1, Mangas
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2680.ts|user-agent=useragent
-#EXTINF:-1, MCM
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/27.ts|user-agent=useragent
-#EXTINF:-1, MCM TOP
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/26.ts|user-agent=useragent
-#EXTINF:-1, National geo wild
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2679.ts|user-agent=useragent
-#EXTINF:-1, Nick Jr
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/25.ts|user-agent=useragent
-#EXTINF:-1, NICKELODEON HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2627.ts|user-agent=useragent
-#EXTINF:-1, NICKELODEON JUNIOR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2678.ts|user-agent=useragent
-#EXTINF:-1, NRJ Hits
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2677.ts|user-agent=useragent
-#EXTINF:-1, NUMERO 23 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2676.ts|user-agent=useragent
-#EXTINF:-1, OCS CHOC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2675.ts|user-agent=useragent
-#EXTINF:-1, OCS CITY
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2674.ts|user-agent=useragent
-#EXTINF:-1, OCS GEANT
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2673.ts|user-agent=useragent
-#EXTINF:-1, OCS MAX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2672.ts|user-agent=useragent
-#EXTINF:-1, OLTV HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2671.ts|user-agent=useragent
-#EXTINF:-1, Orange Cine horreur HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2670.ts|user-agent=useragent
-#EXTINF:-1, Orange enquete exclusive HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2669.ts|user-agent=useragent
-#EXTINF:-1, PARAMOUNT CHANNEL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2668.ts|user-agent=useragent
-#EXTINF:-1, PARIS PREMIERE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2667.ts|user-agent=useragent
-#EXTINF:-1, PARIS PREMIERE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2666.ts|user-agent=useragent
-#EXTINF:-1, PIWI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2665.ts|user-agent=useragent
-#EXTINF:-1, PLANETE  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2664.ts|user-agent=useragent
-#EXTINF:-1, PLANETE A&E HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2663.ts|user-agent=useragent
-#EXTINF:-1, PLANETE CI HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2662.ts|user-agent=useragent
-#EXTINF:-1, rmc decouverte
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2660.ts|user-agent=useragent
-#EXTINF:-1, RTL TVI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2659.ts|user-agent=useragent
-#EXTINF:-1, RTS Deux
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2658.ts|user-agent=useragent
-#EXTINF:-1, RTS Un
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2657.ts|user-agent=useragent
-#EXTINF:-1, SCIENCE ET VIE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2656.ts|user-agent=useragent
-#EXTINF:-1, SCIENCES & VIE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2655.ts|user-agent=useragent
-#EXTINF:-1, Seasons
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/15.ts|user-agent=useragent
-#EXTINF:-1, SERIE CLUB
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2654.ts|user-agent=useragent
-#EXTINF:-1, Series Club HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2653.ts|user-agent=useragent
-#EXTINF:-1, SFR SPORT 3 backup
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/240.ts|user-agent=useragent
-#EXTINF:-1, SFR Sport 4 4K
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2630.ts|user-agent=useragent
-#EXTINF:-1, SFR sport 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2626.ts|user-agent=useragent
-#EXTINF:-1, S CINE A LA DEMANDE 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2652.ts|user-agent=useragent
-#EXTINF:-1, S CINE A LA DEMANDE 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2651.ts|user-agent=useragent
-#EXTINF:-1, S CINE A LA DEMANDE 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2647.ts|user-agent=useragent
-#EXTINF:-1, S Sport 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2646.ts|user-agent=useragent
-#EXTINF:-1, S Sport 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2645.ts|user-agent=useragent
-#EXTINF:-1, S Sport 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2644.ts|user-agent=useragent
-#EXTINF:-1, SFR2 SPORT HD (backup)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/241.ts|user-agent=useragent
-#EXTINF:-1, Syfy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2643.ts|user-agent=useragent
-#EXTINF:-1, Syfy HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/341.ts|user-agent=useragent
-#EXTINF:-1, Teva
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2642.ts|user-agent=useragent
-#EXTINF:-1, TF1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2641.ts|user-agent=useragent
-#EXTINF:-1, TF1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/340.ts|user-agent=useragent
-#EXTINF:-1, Tiji
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2640.ts|user-agent=useragent
-#EXTINF:-1, TOUTE LHISTOIRE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2639.ts|user-agent=useragent
-#EXTINF:-1, TRACE URBAN
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2625.ts|user-agent=useragent
-#EXTINF:-1, TV BREIZH HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2638.ts|user-agent=useragent
-#EXTINF:-1, USHUAIA  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2637.ts|user-agent=useragent
-#EXTINF:-1, Zouzou TV LOCAL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2636.ts|user-agent=useragent
-#EXTINF:-1,A LA CARTE 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2635.ts|user-agent=useragent
-#EXTINF:-1,A la Carte 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2634.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2633.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2632.ts|user-agent=useragent
-#EXTINF:-1,A.LA.CARTE.4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2631.ts|user-agent=useragent
-#EXTINF:-1,CINE PREMIER
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2629.ts|user-agent=useragent
-#EXTINF:-1,FRANCE 24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2628.ts|user-agent=useragent
-#EXTINF:-1,NT1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2617.ts|user-agent=useragent
-#EXTINF:-1,TCM CINEMA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2616.ts|user-agent=useragent
-#EXTINF:-1,TEVA/TMC
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2615.ts|user-agent=useragent
-#EXTINF:-1,TREK HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2614.ts|user-agent=useragent
-#EXTINF:-1,TV5 MONDE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2613.ts|user-agent=useragent
-#EXTINF:-1,VOYAGE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2611.ts|user-agent=useragent
 
 
 
@@ -5909,41 +5290,10 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Germany4-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title=”Germany3-PREMIUM_MXPLAYER”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
-
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -5966,562 +5316,149 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 ,
 http://.....
 
-#EXTINF:-1,Disney Cinemagic HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2448.ts|user-agent=useragent
-#EXTINF:-1,Eurosport 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2449.ts|user-agent=useragent
-#EXTINF:-1,Fox HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2450.ts|user-agent=useragent
-#EXTINF:-1,RTL Crime HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2451.ts|user-agent=useragent
-#EXTINF:-1,RTL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2452.ts|user-agent=useragent
-#EXTINF:-1,RTL Living
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2453.ts|user-agent=useragent
-#EXTINF:-1,RTL Passion
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2454.ts|user-agent=useragent
-#EXTINF:-1,RTL2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2455.ts|user-agent=useragent
-#EXTINF:-1,Sky atlantic
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2456.ts|user-agent=useragent
-#EXTINF:-1,Sky Atlantic HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2457.ts|user-agent=useragent
-#EXTINF:-1,Sky Krimi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2458.ts|user-agent=useragent
-#EXTINF:-1,Sky Nostalgie
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2459.ts|user-agent=useragent
-#EXTINF:-1,sky sport austria
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2460.ts|user-agent=useragent
-#EXTINF:-1,Sport 1  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2461.ts|user-agent=useragent
-#EXTINF:-1,Syfy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2462.ts|user-agent=useragent
-#EXTINF:-1,TNT Comedy
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2463.ts|user-agent=useragent
-#EXTINF:-1,TNT Film TCM
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2464.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 10 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2430.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2431.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 3 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2432.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2433.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2434.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 6 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2435.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 7 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2436.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 8 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2437.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany BUNDESLIGA 9 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2438.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 10 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2439.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 11 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2440.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 3 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2447.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2441.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 5 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2442.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 6 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2443.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 7 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2444.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 8 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2445.ts|user-agent=useragent
-#EXTINF:-1,Sky Germany Sport 9 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2446.ts|user-agent=useragent
-#EXTINF:-1,VIP: 13th Street HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2429.ts|user-agent=useragent
-#EXTINF:-1,VIP: A&E HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2428.ts|user-agent=useragent
-#EXTINF:-1,VIP: Animal Planet HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2427.ts|user-agent=useragent
-#EXTINF:-1,VIP: AXN HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2426.ts|user-agent=useragent
-#EXTINF:-1,VIP: Discovery HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2425.ts|user-agent=useragent
-#EXTINF:-1,VIP: Disney Channel HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2424.ts|user-agent=useragent
-#EXTINF:-1,VIP: Disney Cinemagic HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2423.ts|user-agent=useragent
-#EXTINF:-1,VIP: FOX HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2422.ts|user-agent=useragent
-#EXTINF:-1,VIP: History HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2421.ts|user-agent=useragent
-#EXTINF:-1,VIP: MGM HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2420.ts|user-agent=useragent
-#EXTINF:-1,VIP: N-TV HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2419.ts|user-agent=useragent
-#EXTINF:-1,VIP: Nat Geo Wild HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2418.ts|user-agent=useragent
-#EXTINF:-1,VIP: NatGeo HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2417.ts|user-agent=useragent
-#EXTINF:-1,VIP: National Geographic HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2416.ts|user-agent=useragent
-#EXTINF:-1,VIP: PRO 7 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2415.ts|user-agent=useragent
-#EXTINF:-1,VIP: ProSieben Maxx HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2414.ts|user-agent=useragent
-#EXTINF:-1,VIP: RTL 2 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2413.ts|user-agent=useragent
-#EXTINF:-1,VIP: RTL HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2412.ts|user-agent=useragent
-#EXTINF:-1,VIP: RTL NITRO HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2411.ts|user-agent=useragent
-#EXTINF:-1,VIP: SAT.1 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2410.ts|user-agent=useragent
-#EXTINF:-1,VIP: sixx HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2409.ts|user-agent=useragent
-#EXTINF:-1,VIP: Sky Action HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2408.ts|user-agent=useragent
-#EXTINF:-1,VIP: Sky Atlantic HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2407.ts|user-agent=useragent
-#EXTINF:-1,VIP: Sky Cinema HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2406.ts|user-agent=useragent
-#EXTINF:-1,VIP: Sky Hits HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2405.ts|user-agent=useragent
-#EXTINF:-1,VIP: SUPER RTL HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2404.ts|user-agent=useragent
-#EXTINF:-1,VIP: SyFy HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2403.ts|user-agent=useragent
-#EXTINF:-1,VIP: TNT Serie HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2402.ts|user-agent=useragent
-#EXTINF:-1,VIP: VOX HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2401.ts|user-agent=useragent
-#EXTINF:-1, Sky Cinema Hits
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2470.ts|user-agent=useragent
-#EXTINF:-1,*Sky Sport 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/394.ts|user-agent=useragent
-#EXTINF:-1,*Sky Sport 2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/393.ts|user-agent=useragent
-#EXTINF:-1,1-2-3.tv HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2497.ts|user-agent=useragent
-#EXTINF:-1,13th Street
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2537.ts|user-agent=useragent
-#EXTINF:-1,3sat
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2536.ts|user-agent=useragent
-#EXTINF:-1,3SAT HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2535.ts|user-agent=useragent
-#EXTINF:-1,ANIXE HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2496.ts|user-agent=useragent
-#EXTINF:-1,ARD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2538.ts|user-agent=useragent
-#EXTINF:-1,Arte
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2534.ts|user-agent=useragent
-#EXTINF:-1,AXN HD Germany
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2539.ts|user-agent=useragent
-#EXTINF:-1,Boomerang
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2540.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2541.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 1 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/522.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 1 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/521.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 1 UHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/520.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 10 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/519.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 10 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/518.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 2 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/517.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 2 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/516.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 3 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/515.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 4 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/514.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 5 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/513.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 6 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/512.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 6 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/511.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 7 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/510.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 7 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/509.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 8 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/508.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 8 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/507.ts|user-agent=useragent
-#EXTINF:-1,BUNDESLIGA 9 FHD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/506.ts|user-agent=useragent
-#EXTINF:-1,Bundesliga 9 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/505.ts|user-agent=useragent
-#EXTINF:-1,Cartoon Network Germany
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2542.ts|user-agent=useragent
-#EXTINF:-1,Channel21 HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2495.ts|user-agent=useragent
-#EXTINF:-1,Classica
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2543.ts|user-agent=useragent
-#EXTINF:-1,DAS ERSTE HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2533.ts|user-agent=useragent
-#EXTINF:-1,Deluxe Music HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2544.ts|user-agent=useragent
-#EXTINF:-1,Discovery HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2545.ts|user-agent=useragent
-#EXTINF:-1,Disney Channel HD Germany
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2546.ts|user-agent=useragent
-#EXTINF:-1,Disney Cinemagic HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2547.ts|user-agent=useragent
-#EXTINF:-1,Disney Junior
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2548.ts|user-agent=useragent
-#EXTINF:-1,Disney XD Deutschland
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2549.ts|user-agent=useragent
-#EXTINF:-1,E! Entertainement
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2466.ts|user-agent=useragent
-#EXTINF:-1,E! Entertainm HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2469.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 1 HD (BackUp)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/504.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 2 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/503.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 4 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/502.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 5 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/501.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 6 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/500.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 7 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/499.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 8 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/498.ts|user-agent=useragent
-#EXTINF:-1,Eurosport360 9 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/497.ts|user-agent=useragent
-#EXTINF:-1,Hr-fernsehen HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2494.ts|user-agent=useragent
-#EXTINF:-1,HSE24 EXTRA HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2493.ts|user-agent=useragent
-#EXTINF:-1,Kabel 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2550.ts|user-agent=useragent
-#EXTINF:-1,KABEL 1 HD 1080
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/195.ts|user-agent=useragent
-#EXTINF:-1,Kabel Eins
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2532.ts|user-agent=useragent
-#EXTINF:-1,Kika
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2551.ts|user-agent=useragent
-#EXTINF:-1,MDR S-Anhalt HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2492.ts|user-agent=useragent
-#EXTINF:-1,MDR Sachsen HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2491.ts|user-agent=useragent
-#EXTINF:-1,MDR Thüringen HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2490.ts|user-agent=useragent
-#EXTINF:-1,Mediaspar
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2489.ts|user-agent=useragent
-#EXTINF:-1,MGM HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2552.ts|user-agent=useragent
-#EXTINF:-1,Motorvision TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2468.ts|user-agent=useragent
-#EXTINF:-1,MTV HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2488.ts|user-agent=useragent
-#EXTINF:-1,N24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2553.ts|user-agent=useragent
-#EXTINF:-1,NatGeo Wild HD Germany
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2554.ts|user-agent=useragent
-#EXTINF:-1,National Geographic HD Germany
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2555.ts|user-agent=useragent
-#EXTINF:-1,Nickelodeon
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2556.ts|user-agent=useragent
-#EXTINF:-1,Orf 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2557.ts|user-agent=useragent
-#EXTINF:-1,Orf 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2558.ts|user-agent=useragent
-#EXTINF:-1,PHOENIX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2531.ts|user-agent=useragent
-#EXTINF:-1,Phoenix HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/194.ts|user-agent=useragent
-#EXTINF:-1,Pro7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2559.ts|user-agent=useragent
-#EXTINF:-1,Pro7 Fun HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2499.ts|user-agent=useragent
-#EXTINF:-1,Pro7 Maxx HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2498.ts|user-agent=useragent
-#EXTINF:-1,ProSieben HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2487.ts|user-agent=useragent
-#EXTINF:-1,ProSieben Maxx HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2486.ts|user-agent=useragent
-#EXTINF:-1,QVC BEAUTY & STYLE HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2485.ts|user-agent=useragent
-#EXTINF:-1,QVC HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2484.ts|user-agent=useragent
-#EXTINF:-1,QVC PLUS HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2483.ts|user-agent=useragent
-#EXTINF:-1,Rbb Berlin HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2482.ts|user-agent=useragent
-#EXTINF:-1,rbb Brandenburg HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2481.ts|user-agent=useragent
-#EXTINF:-1,RD HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2480.ts|user-agent=useragent
+
+#EXTINF:-1,DISCOVERY HD
+http://173.212.206.199:25461/live/ksa/indep/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISNEY CHANNEL
+http://173.212.206.199:25461/live/ksa/indep/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISNEY CINEMAGIC
+http://173.212.206.199:25461/live/ksa/indep/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DISNEY XD
+http://173.212.206.199:25461/live/ksa/indep/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DMAX
+http://173.212.206.199:25461/live/ksa/indep/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,EURO SPORTS 1 HD
+http://173.212.206.199:25461/live/ksa/indep/535.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,EURO SPORTS 2 HD
+http://173.212.206.199:25461/live/ksa/indep/536.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,FOX HD
+http://173.212.206.199:25461/live/ksa/indep/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,HISTORY HD
+http://173.212.206.199:25461/live/ksa/indep/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,KABEL EINS
+http://173.212.206.199:25461/live/ksa/indep/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,KIKA
+http://173.212.206.199:25461/live/ksa/indep/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,KINO WELT HD
+http://173.212.206.199:25461/live/ksa/indep/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NAT GEO CHANNEL HD
+http://173.212.206.199:25461/live/ksa/indep/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NAT GEO WILD HD
+http://173.212.206.199:25461/live/ksa/indep/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PRO 7
+http://173.212.206.199:25461/live/ksa/indep/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,PRO SIEBEN MAXX HD
+http://173.212.206.199:25461/live/ksa/indep/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,ROMANCE TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/193.ts|user-agent=useragent
-#EXTINF:-1,RTL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2560.ts|user-agent=useragent
-#EXTINF:-1,RTL II YOU HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/185.ts|user-agent=useragent
-#EXTINF:-1,RTL NITRO
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2561.ts|user-agent=useragent
-#EXTINF:-1,Sat 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2562.ts|user-agent=useragent
-#EXTINF:-1,sat 1 emotions
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2563.ts|user-agent=useragent
-#EXTINF:-1,Sat 1 Gold
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2530.ts|user-agent=useragent
-#EXTINF:-1,SERVUS TV HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2529.ts|user-agent=useragent
+http://173.212.206.199:25461/live/ksa/indep/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL 2 HD
+http://173.212.206.199:25461/live/ksa/indep/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL CRIME HD
+http://173.212.206.199:25461/live/ksa/indep/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL HD
+http://173.212.206.199:25461/live/ksa/indep/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL LIVING HD
+http://173.212.206.199:25461/live/ksa/indep/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL NITRO HD
+http://173.212.206.199:25461/live/ksa/indep/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL PASSION HD
+http://173.212.206.199:25461/live/ksa/indep/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTL PLUS HD
+http://173.212.206.199:25461/live/ksa/indep/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SAT.1 HD
+http://173.212.206.199:25461/live/ksa/indep/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,SIXX HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/192.ts|user-agent=useragent
-#EXTINF:-1,Sky 3D ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2479.ts|user-agent=useragent
-#EXTINF:-1,Sky Action HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2564.ts|user-agent=useragent
-#EXTINF:-1,Sky Arts HD ( EN AUDIO )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2465.ts|user-agent=useragent
+http://173.212.206.199:25461/live/ksa/indep/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,SKY ATLANTIC HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2565.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2566.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 1 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/496.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 10 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2567.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 10 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/495.ts|user-agent=useragent
-#EXTINF:-1,SKY BUNDESLIGA 2 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2568.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 2 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/494.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 3 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2569.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 3 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/493.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 4 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2570.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 4 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/492.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 5 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2571.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 5 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/491.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 6 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2572.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 6 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/490.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 7 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2573.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 7 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/489.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 8 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2574.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 8 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/488.ts|user-agent=useragent
-#EXTINF:-1,Sky BUNDESLIGA 9 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2575.ts|user-agent=useragent
-#EXTINF:-1,Sky Bundesliga 9 HD ( during match )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/487.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema  1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2576.ts|user-agent=useragent
-#EXTINF:-1,SKY CINEMA  24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2577.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema Family
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2467.ts|user-agent=useragent
-#EXTINF:-1,Sky Cinema HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2578.ts|user-agent=useragent
-#EXTINF:-1,Sky Comedy HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2579.ts|user-agent=useragent
-#EXTINF:-1,Sky Disney HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2580.ts|user-agent=useragent
-#EXTINF:-1,Sky DMAX HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2581.ts|user-agent=useragent
-#EXTINF:-1,Sky Emotion HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2582.ts|user-agent=useragent
-#EXTINF:-1,Sky Hits HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2583.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2584.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2585.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2586.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2587.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 5
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2588.ts|user-agent=useragent
-#EXTINF:-1,SKY SELECT 6
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2589.ts|user-agent=useragent
-#EXTINF:-1,Sky Select 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2590.ts|user-agent=useragent
-#EXTINF:-1,Sky Select 8
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2591.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 1 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/392.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2592.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 1 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/939.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 10 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2593.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 10 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/391.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 10 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/938.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 11 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2594.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 11 HD (Nur an Spieltagen)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/390.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 11 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/937.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 2 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/389.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2595.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 2 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/936.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 3 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/388.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 3 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2596.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 3 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/387.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 3 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/935.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 4 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/386.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/385.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 4 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2597.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 4 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/934.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 5 FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/384.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 5 HD  ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2598.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 5 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/383.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 5 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/933.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 6 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2599.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 6 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/382.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 6 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/932.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 7 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2600.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 7 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/381.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 7 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/931.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 8 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2601.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 8 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/380.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 8 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/930.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 9 HD ( During Games only )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2602.ts|user-agent=useragent
-#EXTINF:-1,SKY SPORT 9 HD [ON MATCHDAY]
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/379.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport 9 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/929.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 1 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2512.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 1 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/928.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 10 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2511.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 10 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/927.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 2 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2510.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 2 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/926.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 3 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2509.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 3 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/925.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 4 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2508.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 4 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/924.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 5 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2507.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 5 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/923.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 6 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2506.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 6 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/922.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 7 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2505.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 7 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/921.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 8 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2504.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 8 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/920.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 9 HD (1080P)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2503.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Bundesliga 9 HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/919.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport Fanzone HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2478.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport News HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2603.ts|user-agent=useragent
-#EXTINF:-1,Sky Sport News HD 1080P
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/918.ts|user-agent=useragent
-#EXTINF:-1,Sky TNT Serie HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2604.ts|user-agent=useragent
-#EXTINF:-1,Sky Universal HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2605.ts|user-agent=useragent
-#EXTINF:-1,SPIEGEL TV Wissen HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2477.ts|user-agent=useragent
-#EXTINF:-1,Sport 1  HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2501.ts|user-agent=useragent
-#EXTINF:-1,Sport 1 US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2502.ts|user-agent=useragent
-#EXTINF:-1,Sport Digital HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2500.ts|user-agent=useragent
-#EXTINF:-1,SPORT1 HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2476.ts|user-agent=useragent
-#EXTINF:-1,SR Fernsehen HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2475.ts|user-agent=useragent
+http://173.212.206.199:25461/live/ksa/indep/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY BUNDESLIGA HD SP
+http://173.212.206.199:25461/live/ksa/indep/558.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA 24 HD
+http://173.212.206.199:25461/live/ksa/indep/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://173.212.206.199:25461/live/ksa/indep/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://173.212.206.199:25461/live/ksa/indep/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA EMOTION HD
+http://173.212.206.199:25461/live/ksa/indep/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://173.212.206.199:25461/live/ksa/indep/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA HD
+http://173.212.206.199:25461/live/ksa/indep/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA HITS HD
+http://173.212.206.199:25461/live/ksa/indep/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,13th STREET HD
+http://173.212.206.199:25461/live/ksa/indep/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY KIRIMI
+http://173.212.206.199:25461/live/ksa/indep/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 1 HD
+http://173.212.206.199:25461/live/ksa/indep/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 2 HD
+http://173.212.206.199:25461/live/ksa/indep/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 3 HD
+http://173.212.206.199:25461/live/ksa/indep/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 4 HD
+http://173.212.206.199:25461/live/ksa/indep/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 5 HD
+http://173.212.206.199:25461/live/ksa/indep/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 6 HD
+http://173.212.206.199:25461/live/ksa/indep/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 7 HD
+http://173.212.206.199:25461/live/ksa/indep/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SELECT 8 HD
+http://173.212.206.199:25461/live/ksa/indep/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SPORT 1 HD
+http://173.212.206.199:25461/live/ksa/indep/574.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY SPORT 2 HD
+http://173.212.206.199:25461/live/ksa/indep/575.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SONY CHANNEL HD
+http://173.212.206.199:25461/live/ksa/indep/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SPIEGEL TV
+http://173.212.206.199:25461/live/ksa/indep/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SPORT 1 HD
+http://173.212.206.199:25461/live/ksa/indep/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,SUPER RTL HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2606.ts|user-agent=useragent
-#EXTINF:-1,tagesschau24 HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2474.ts|user-agent=useragent
-#EXTINF:-1,TLC HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2473.ts|user-agent=useragent
-#EXTINF:-1,TNT Comedy HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2472.ts|user-agent=useragent
-#EXTINF:-1,TNT Serie
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2607.ts|user-agent=useragent
-#EXTINF:-1,VIVA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2528.ts|user-agent=useragent
-#EXTINF:-1,VOX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2608.ts|user-agent=useragent
+http://173.212.206.199:25461/live/ksa/indep/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SYFY HD
+http://173.212.206.199:25461/live/ksa/indep/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,TLC HD
+http://173.212.206.199:25461/live/ksa/indep/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,TNT COMEDY HD
+http://173.212.206.199:25461/live/ksa/indep/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,TNT FILM HD
+http://173.212.206.199:25461/live/ksa/indep/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,TNT SERIES HD
+http://173.212.206.199:25461/live/ksa/indep/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://173.212.206.199:25461/live/ksa/indep/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,VOX HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/191.ts|user-agent=useragent
-#EXTINF:-1,WDR HD DE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2527.ts|user-agent=useragent
-#EXTINF:-1,ZDF
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2609.ts|user-agent=useragent
-#EXTINF:-1,ZDF FHD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/178.ts|user-agent=useragent
-#EXTINF:-1,ZDF NEO HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2526.ts|user-agent=useragent
-#EXTINF:-1,ZEE ONE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2525.ts|user-agent=useragent
-#EXTINF:-1,Zee One HD ( 1080P )
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2471.ts|user-agent=useragent
+http://173.212.206.199:25461/live/ksa/indep/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ZDF HD
+http://173.212.206.199:25461/live/ksa/indep/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ZEE ONE HD
+http://173.212.206.199:25461/live/ksa/indep/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DELUX MUSIC
+http://173.212.206.199:25461/live/ksa/indep/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,EURO NEWS
+http://173.212.206.199:25461/live/ksa/indep/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,N24 HD
+http://173.212.206.199:25461/live/ksa/indep/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NTV HD
+http://173.212.206.199:25461/live/ksa/indep/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ORF 2 HD
+http://173.212.206.199:25461/live/ksa/indep/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ORF EINS HD
+http://173.212.206.199:25461/live/ksa/indep/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY 3D
+http://173.212.206.199:25461/live/ksa/indep/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY ACTION
+http://173.212.206.199:25461/live/ksa/indep/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY BUNDESLIGA 2HD SP
+http://173.212.206.199:25461/live/ksa/indep/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,SKY CINEMA 1 HD
+http://173.212.206.199:25461/live/ksa/indep/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+
+
 
 
 
@@ -6860,7 +5797,7 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”Spain2”,
+#EXTINF:8 group-title=”Spain2-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -7168,6 +6105,10 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/675.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/711.m3u8$http-refferer=http://localhost
 #EXTINF:-1,VIP Bein Sports HD ( 1080P )
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/638.m3u8$http-refferer=http://localhost
+
+
+
+
 
 
 
@@ -9330,10 +8271,78 @@ http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
 
 
 
-#EXTINF:9 group-title=”Bangladesh”,
+#EXTINF:9 group-title=”Bangladesh-premium-MXPLAYER”,
 
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/255px-Flag_of_Bangladesh.svg.png ,==India==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 ,
+http://.....
 
+#EXTINF:-1,24 CHANNEL
+http://173.212.206.199:25461/live/ksa/indep/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ATN MUSIC TV
+http://173.212.206.199:25461/live/ksa/indep/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,ATN NEWS
+http://173.212.206.199:25461/live/ksa/indep/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,BOISHAKHI TV
+http://173.212.206.199:25461/live/ksa/indep/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DESH TV
+http://173.212.206.199:25461/live/ksa/indep/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DESHE BIDESHE TV 
+http://173.212.206.199:25461/live/ksa/indep/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DIGI BANGLA HD 
+http://173.212.206.199:25461/live/ksa/indep/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,DOOM MUSIC
+http://173.212.206.199:25461/live/ksa/indep/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,EKATTOR TV
+http://173.212.206.199:25461/live/ksa/indep/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,G TV
+http://173.212.206.199:25461/live/ksa/indep/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,GAAN BANGLA
+http://173.212.206.199:25461/live/ksa/indep/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,INDEPENDENT TV
+http://173.212.206.199:25461/live/ksa/indep/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,JAMUNA TV
+http://173.212.206.199:25461/live/ksa/indep/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MAGIC BANGLA TV 
+http://173.212.206.199:25461/live/ksa/indep/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MASRANGA TV
+http://173.212.206.199:25461/live/ksa/indep/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MOHONA TV
+http://173.212.206.199:25461/live/ksa/indep/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,MY CINEMA TV 
+http://173.212.206.199:25461/live/ksa/indep/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NRB TV 
+http://173.212.206.199:25461/live/ksa/indep/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NTV UK
+http://173.212.206.199:25461/live/ksa/indep/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,NTV
+http://173.212.206.199:25461/live/ksa/indep/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,R PLUS
+http://173.212.206.199:25461/live/ksa/indep/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RTV
+http://173.212.206.199:25461/live/ksa/indep/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+#EXTINF:-1,RUPOSHI BANGLA-BK
+http://173.212.206.199:25461/live/ksa/indep/3351.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
 
@@ -10296,504 +9305,6 @@ http://173.212.206.199:25461/live/ksa/indep/369.ts|refferer=http://solidstreamz.
 
 
 
-
-#EXTINF:9 group-title=”India3-Premium-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,SECTION WILL
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1  tvg-logo=http://www.officialpsds.com/images/thumbs/sad-face-psd78749.png ,WORK
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1, SONY SAB
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2140.ts|user-agent=useragent
-#EXTINF:-1,&TV HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2141.ts|user-agent=useragent
-#EXTINF:-1,9X Tashan
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2142.ts|user-agent=useragent
-#EXTINF:-1,AASTHA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2143.ts|user-agent=useragent
-#EXTINF:-1,Asianet Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2144.ts|user-agent=useragent
-#EXTINF:-1,Asianet TV US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2145.ts|user-agent=useragent
-#EXTINF:-1,B4U Movies
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2146.ts|user-agent=useragent
-#EXTINF:-1,B4U Music
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2147.ts|user-agent=useragent
-#EXTINF:-1,B4U Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2148.ts|user-agent=useragent
-#EXTINF:-1,CNBC Awaaz
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2149.ts|user-agent=useragent
-#EXTINF:-1,Colors UK SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2150.ts|user-agent=useragent
-#EXTINF:-1,FOOD FOOD TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2151.ts|user-agent=useragent
-#EXTINF:-1,Life ok HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2152.ts|user-agent=useragent
-#EXTINF:-1,LIVING FOODZ 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2153.ts|user-agent=useragent
-#EXTINF:-1,MUSIC INDIA HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2154.ts|user-agent=useragent
-#EXTINF:-1,Sony TV HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2155.ts|user-agent=useragent
-#EXTINF:-1,STAR SPORTS 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2156.ts|user-agent=useragent
-#EXTINF:-1,STAR SPORTS 2 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2157.ts|user-agent=useragent
-#EXTINF:-1,STAR SPORTS 3 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2158.ts|user-agent=useragent
-#EXTINF:-1,STAR SPORTS 4 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2159.ts|user-agent=useragent
-#EXTINF:-1,Star Sports3-SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2160.ts|user-agent=useragent
-#EXTINF:-1,Star Sports4-SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2161.ts|user-agent=useragent
-#EXTINF:-1,Tamil |  CAPTAIN TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2162.ts|user-agent=useragent
-#EXTINF:-1,Tamil | ADITYA TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2163.ts|user-agent=useragent
-#EXTINF:-1,Tamil | CAPTAIN NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2164.ts|user-agent=useragent
-#EXTINF:-1,Tamil | CHANNEL UFX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2165.ts|user-agent=useragent
-#EXTINF:-1,Tamil | CHITHIRAM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2166.ts|user-agent=useragent
-#EXTINF:-1,Tamil | DAN Music
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2167.ts|user-agent=useragent
-#EXTINF:-1,Tamil | DAN News
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2168.ts|user-agent=useragent
-#EXTINF:-1,Tamil | DAN TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2169.ts|user-agent=useragent
-#EXTINF:-1,Tamil | DD PODHIGAI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2170.ts|user-agent=useragent
-#EXTINF:-1,Tamil | DEEPAM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2171.ts|user-agent=useragent
-#EXTINF:-1,Tamil | EET TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2172.ts|user-agent=useragent
-#EXTINF:-1,Tamil | ISAI ARUVI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2173.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA MAX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2174.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA MAX USA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2175.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA MOVIES
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2176.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA PLUS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2177.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2178.ts|user-agent=useragent
-#EXTINF:-1,Tamil | JAYA TV US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2179.ts|user-agent=useragent
-#EXTINF:-1,Tamil | KALAIGNAR TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2180.ts|user-agent=useragent
-#EXTINF:-1,Tamil | KTV US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2181.ts|user-agent=useragent
-#EXTINF:-1,Tamil | KTV USA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2182.ts|user-agent=useragent
-#EXTINF:-1,Tamil | MAKKAL TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2183.ts|user-agent=useragent
-#EXTINF:-1,Tamil | MURASU TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2184.ts|user-agent=useragent
-#EXTINF:-1,Tamil | NEWS 7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2185.ts|user-agent=useragent
-#EXTINF:-1,Tamil | PEPPERS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2186.ts|user-agent=useragent
-#EXTINF:-1,Tamil | Pirai TV (ISLAMIC CH)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2187.ts|user-agent=useragent
-#EXTINF:-1,Tamil | POLIMER NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2188.ts|user-agent=useragent
-#EXTINF:-1,Tamil | POLIMER TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2189.ts|user-agent=useragent
-#EXTINF:-1,Tamil | PUTHIYA THALAIMURAI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2190.ts|user-agent=useragent
-#EXTINF:-1,Tamil | PUTHUYUGAM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2191.ts|user-agent=useragent
-#EXTINF:-1,Tamil | RAJ DIGITAL PLUS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2192.ts|user-agent=useragent
-#EXTINF:-1,Tamil | RAJ DIGITAL PLUS US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2193.ts|user-agent=useragent
-#EXTINF:-1,Tamil | RAJ MUSIX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2194.ts|user-agent=useragent
-#EXTINF:-1,Tamil | RAJ NEWS 24x7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2195.ts|user-agent=useragent
-#EXTINF:-1,Tamil | RAJ TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2196.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SEITHIGAL
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2198.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SIRIPPOLI TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2199.ts|user-agent=useragent
-#EXTINF:-1,Tamil | Sri Sankara Tamil
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2200.ts|user-agent=useragent
-#EXTINF:-1,Tamil | STAR VIJAY
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2201.ts|user-agent=useragent
-#EXTINF:-1,Tamil | STAR VIJAY UK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2202.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SUN LIFE
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2203.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SUN MUSIC
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2204.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SUN NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2205.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SUN TV INDIA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2206.ts|user-agent=useragent
-#EXTINF:-1,Tamil | SUN TV US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2207.ts|user-agent=useragent
-#EXTINF:-1,Tamil | TAMIL ARUVI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2208.ts|user-agent=useragent
-#EXTINF:-1,Tamil | THANTHI NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2209.ts|user-agent=useragent
-#EXTINF:-1,Tamil | VASANTH TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2197.ts|user-agent=useragent
-#EXTINF:-1,Tamil | VENDHAR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2210.ts|user-agent=useragent
-#EXTINF:-1,Tamil | VIJAY HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2211.ts|user-agent=useragent
-#EXTINF:-1,Tamil | VIMBAM TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2212.ts|user-agent=useragent
-#EXTINF:-1,Tamil | WIN TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2213.ts|user-agent=useragent
-#EXTINF:-1,Tamil | ZEE TAMIZH
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2214.ts|user-agent=useragent
-#EXTINF:-1,TEN ACTION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2215.ts|user-agent=useragent
-#EXTINF:-1,Ten Sports HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2216.ts|user-agent=useragent
-#EXTINF:-1,WILLOW CRICKET HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2217.ts|user-agent=useragent
-#EXTINF:-1,MovieOK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2218.ts|user-agent=useragent
-#EXTINF:-1,IN | Color HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2133.ts|user-agent=useragent
-#EXTINF:-1,IN | Sony Six SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2134.ts|user-agent=useragent
-#EXTINF:-1,IN | Star Gold
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2135.ts|user-agent=useragent
-#EXTINF:-1,IN | Star Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2136.ts|user-agent=useragent
-#EXTINF:-1,IN | Zee HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2137.ts|user-agent=useragent
-#EXTINF:-1,IN | Zee Marathi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2138.ts|user-agent=useragent
-#EXTINF:-1,IN | Zee Talkies
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2139.ts|user-agent=useragent
-#EXTINF:-1, WILLOW CRICKET  Backup
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/226.ts|user-agent=useragent
-#EXTINF:-1,5aab TV Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2252.ts|user-agent=useragent
-#EXTINF:-1,9x Music
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/543.ts|user-agent=useragent
-#EXTINF:-1,A One Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2251.ts|user-agent=useragent
-#EXTINF:-1,Aaj Tak News
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2222.ts|user-agent=useragent
-#EXTINF:-1,Aamar Bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/817.ts|user-agent=useragent
-#EXTINF:-1,Akaal Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2250.ts|user-agent=useragent
-#EXTINF:-1,Asian TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/816.ts|user-agent=useragent
-#EXTINF:-1,ATN Bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/815.ts|user-agent=useragent
-#EXTINF:-1,ATN NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/814.ts|user-agent=useragent
-#EXTINF:-1,Bangala ABP Ananda
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/696.ts|user-agent=useragent
-#EXTINF:-1,BANGLA VISION
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/813.ts|user-agent=useragent
-#EXTINF:-1,BOISHAKHI TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/681.ts|user-agent=useragent
-#EXTINF:-1,BTV World
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/680.ts|user-agent=useragent
-#EXTINF:-1,Caccia
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/6.ts|user-agent=useragent
-#EXTINF:-1,CARTOON NETWORK HINDI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2272.ts|user-agent=useragent
-#EXTINF:-1,Chakde TV Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2249.ts|user-agent=useragent
-#EXTINF:-1,CHANNEL 24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/695.ts|user-agent=useragent
-#EXTINF:-1,Channel 9
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/694.ts|user-agent=useragent
-#EXTINF:-1,CHANNEL I
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/71.ts|user-agent=useragent
-#EXTINF:-1,Channel S Bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/39.ts|user-agent=useragent
-#EXTINF:-1,CHANNEL V
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/831.ts|user-agent=useragent
-#EXTINF:-1,CNBC PRIME TV18 (NEWS)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/830.ts|user-agent=useragent
-#EXTINF:-1,CNBC TV18 (NEWS)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/829.ts|user-agent=useragent
-#EXTINF:-1,Colors Bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/693.ts|user-agent=useragent
-#EXTINF:-1,COLORS KANNADA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/828.ts|user-agent=useragent
-#EXTINF:-1,DEEPTO TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/692.ts|user-agent=useragent
-#EXTINF:-1,DESH TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/691.ts|user-agent=useragent
-#EXTINF:-1,Desi Beats Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2248.ts|user-agent=useragent
-#EXTINF:-1,Desi TV Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2247.ts|user-agent=useragent
-#EXTINF:-1,Dhoom Music
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/690.ts|user-agent=useragent
-#EXTINF:-1,Ekattor tv
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/689.ts|user-agent=useragent
-#EXTINF:-1,ETC Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2246.ts|user-agent=useragent
-#EXTINF:-1,ETV 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/245.ts|user-agent=useragent
-#EXTINF:-1,ETV MP
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/244.ts|user-agent=useragent
-#EXTINF:-1,ETV Now
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/827.ts|user-agent=useragent
-#EXTINF:-1,ETV UK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/243.ts|user-agent=useragent
-#EXTINF:-1,ETV UP
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/242.ts|user-agent=useragent
-#EXTINF:-1,Gaan Bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/679.ts|user-agent=useragent
-#EXTINF:-1,GTV PUNJABI
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/196.ts|user-agent=useragent
-#EXTINF:-1,GTV tamil
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/678.ts|user-agent=useragent
-#EXTINF:-1,Hamdard TV Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2245.ts|user-agent=useragent
-#EXTINF:-1,INDEPENDENT TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/677.ts|user-agent=useragent
-#EXTINF:-1,India Today
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2273.ts|user-agent=useragent
-#EXTINF:-1,JALSHA MOVIES
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/40.ts|user-agent=useragent
-#EXTINF:-1,Jamuna tv
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/688.ts|user-agent=useragent
-#EXTINF:-1,Jhanjar TV HD Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2244.ts|user-agent=useragent
-#EXTINF:-1,Life OK SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2274.ts|user-agent=useragent
-#EXTINF:-1,Maa TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/826.ts|user-agent=useragent
-#EXTINF:-1,MAASRANGA TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/687.ts|user-agent=useragent
-#EXTINF:-1,Media Punjab Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2243.ts|user-agent=useragent
-#EXTINF:-1,MOHONA TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/676.ts|user-agent=useragent
-#EXTINF:-1,MOVIE BANGLA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/686.ts|user-agent=useragent
-#EXTINF:-1,MTV India
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/542.ts|user-agent=useragent
-#EXTINF:-1,MTV Indies
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2237.ts|user-agent=useragent
-#EXTINF:-1,MY TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/675.ts|user-agent=useragent
-#EXTINF:-1,Nat Geo Music HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2236.ts|user-agent=useragent
-#EXTINF:-1,Nat Geo People HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2235.ts|user-agent=useragent
-#EXTINF:-1,Nat Geo Wild HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2234.ts|user-agent=useragent
-#EXTINF:-1,National Geographic
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2233.ts|user-agent=useragent
-#EXTINF:-1,NEWS 24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2275.ts|user-agent=useragent
-#EXTINF:-1,NEWS X (NEWS)
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/825.ts|user-agent=useragent
-#EXTINF:-1,NICK HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/824.ts|user-agent=useragent
-#EXTINF:-1,NICK JR
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2232.ts|user-agent=useragent
-#EXTINF:-1,Nickelodeon Hindi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2276.ts|user-agent=useragent
-#EXTINF:-1,Nickelodeon Jr Hindi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2277.ts|user-agent=useragent
-#EXTINF:-1,NTV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/674.ts|user-agent=useragent
-#EXTINF:-1,PBN Music Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2242.ts|user-agent=useragent
-#EXTINF:-1,Pogo
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/541.ts|user-agent=useragent
-#EXTINF:-1,PTC Chakde Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2241.ts|user-agent=useragent
-#EXTINF:-1,PTC News Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2240.ts|user-agent=useragent
-#EXTINF:-1,PTC Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2239.ts|user-agent=useragent
-#EXTINF:-1,RISHTAY ASIA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2278.ts|user-agent=useragent
-#EXTINF:-1,Rishtey ME
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2279.ts|user-agent=useragent
-#EXTINF:-1,RTV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/673.ts|user-agent=useragent
-#EXTINF:-1,Rupashi bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/672.ts|user-agent=useragent
-#EXTINF:-1,SA TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/671.ts|user-agent=useragent
-#EXTINF:-1,Sangat TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/685.ts|user-agent=useragent
-#EXTINF:-1,Sanskar TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2280.ts|user-agent=useragent
-#EXTINF:-1,Sikh Channel Punjabi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2238.ts|user-agent=useragent
-#EXTINF:-1,Somoy news
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/670.ts|user-agent=useragent
-#EXTINF:-1,Sonic Nickelodeon
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/540.ts|user-agent=useragent
-#EXTINF:-1,SONY AATH
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/684.ts|user-agent=useragent
-#EXTINF:-1,SONY ESPN HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/823.ts|user-agent=useragent
-#EXTINF:-1,SONY ESPN SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2281.ts|user-agent=useragent
-#EXTINF:-1,SONY MAX2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2282.ts|user-agent=useragent
-#EXTINF:-1,SONY MIX
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2283.ts|user-agent=useragent
-#EXTINF:-1,sony pix HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/822.ts|user-agent=useragent
-#EXTINF:-1,STAR GOLD SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2284.ts|user-agent=useragent
-#EXTINF:-1,Star Jalsha
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2285.ts|user-agent=useragent
-#EXTINF:-1,Star Jalsha US
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2286.ts|user-agent=useragent
-#EXTINF:-1,Star Plus
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2287.ts|user-agent=useragent
-#EXTINF:-1,Star Plus UK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2288.ts|user-agent=useragent
-#EXTINF:-1,STAR PRAVAH HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/821.ts|user-agent=useragent
-#EXTINF:-1,Star Sports1-SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2289.ts|user-agent=useragent
-#EXTINF:-1,Star Sports2-SD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2290.ts|user-agent=useragent
-#EXTINF:-1,Star Vijay
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2291.ts|user-agent=useragent
-#EXTINF:-1,Star world HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/820.ts|user-agent=useragent
-#EXTINF:-1,Star world premier HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/819.ts|user-agent=useragent
-#EXTINF:-1,TARA MUSIK
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/683.ts|user-agent=useragent
-#EXTINF:-1,TEN 1 HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2292.ts|user-agent=useragent
-#EXTINF:-1,TEN 2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/4.ts|user-agent=useragent
-#EXTINF:-1,Ten 3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/190.ts|user-agent=useragent
-#EXTINF:-1,TEN CRICKET
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2293.ts|user-agent=useragent
-#EXTINF:-1,Ten Cricket*
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2231.ts|user-agent=useragent
-#EXTINF:-1,TEN Golf HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2294.ts|user-agent=useragent
-#EXTINF:-1,TIME NOW
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2221.ts|user-agent=useragent
-#EXTINF:-1,Travel xp HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/818.ts|user-agent=useragent
-#EXTINF:-1,UTV Bindass
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2295.ts|user-agent=useragent
-#EXTINF:-1,UTV MOVIES
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2296.ts|user-agent=useragent
-#EXTINF:-1,Zee Action
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2297.ts|user-agent=useragent
-#EXTINF:-1,Zee Anmol
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2298.ts|user-agent=useragent
-#EXTINF:-1,Zee bangla
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/669.ts|user-agent=useragent
-#EXTINF:-1,ZEE BANGLA Cinema HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/682.ts|user-agent=useragent
-#EXTINF:-1,ZEE Bollywood HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2299.ts|user-agent=useragent
-#EXTINF:-1,ZEE Business
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2300.ts|user-agent=useragent
-#EXTINF:-1,ZEE Cinema
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2301.ts|user-agent=useragent
-#EXTINF:-1,Zee Classic
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2302.ts|user-agent=useragent
-#EXTINF:-1,Zee Salam
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2303.ts|user-agent=useragent
-#EXTINF:-1,Zee Smile
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2304.ts|user-agent=useragent
-#EXTINF:-1,Zee Taas24
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2305.ts|user-agent=useragent
-#EXTINF:-1,Zee Telugu Ditto
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/189.ts|user-agent=useragent
-#EXTINF:-1,ZEE TV ME
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2306.ts|user-agent=useragent
-#EXTINF:-1,Zindagi
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2307.ts|user-agent=useragent
-#EXTINF:-1,Zing TV
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2308.ts|user-agent=useragent
-#EXTINF:-1,ATN NEWS
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/668.ts|user-agent=useragent
-#EXTINF:-1,NDTV 24X7
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2309.ts|user-agent=useragent
-#EXTINF:-1,NDTV INDIA
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2310.ts|user-agent=useragent
-#EXTINF:-1,VIP AAPKA COLORS HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2271.ts|user-agent=useragent
-#EXTINF:-1,VIP D2H CINEMA FHD 1080
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2270.ts|user-agent=useragent
-#EXTINF:-1,VIP HBO
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2255.ts|user-agent=useragent
-#EXTINF:-1,VIP COLORS HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2269.ts|user-agent=useragent
-#EXTINF:-1,VIP LIFE OK HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2268.ts|user-agent=useragent
-#EXTINF:-1,VIP SONY HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2267.ts|user-agent=useragent
-#EXTINF:-1,VIP SONY MAX HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2266.ts|user-agent=useragent
-#EXTINF:-1,VIP Sony six HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2265.ts|user-agent=useragent
-#EXTINF:-1,VIP STAR GOLD HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2264.ts|user-agent=useragent
-#EXTINF:-1,VIP Star movies
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2263.ts|user-agent=useragent
-#EXTINF:-1,VIP STAR MOVIES HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2262.ts|user-agent=useragent
-#EXTINF:-1,VIP Star Movies select HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2254.ts|user-agent=useragent
-#EXTINF:-1,VIP STAR PLUS HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2261.ts|user-agent=useragent
-#EXTINF:-1,VIP Star sports HD1
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2260.ts|user-agent=useragent
-#EXTINF:-1,VIP Star sports HD2
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2259.ts|user-agent=useragent
-#EXTINF:-1,VIP Star sports HD3
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2258.ts|user-agent=useragent
-#EXTINF:-1,VIP Star sports HD4
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2257.ts|user-agent=useragent
-#EXTINF:-1,VIP Tamil: Sun tv HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2256.ts|user-agent=useragent
-#EXTINF:-1,VIP Zee Cinema HD
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2253.ts|user-agent=useragent
-#EXTINF:-1,Zee Living
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2311.ts|user-agent=useragent
-#EXTINF:-1,Zee news
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2312.ts|user-agent=useragent
-#EXTINF:-1,Zee tv Uk
-http://gmcllc.de:25461/live/აპანდ39/პარანდრო/2313.ts|user-agent=useragent
 
 
 
