@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,5/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,7/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -46,18 +46,26 @@ http://31.128.142.89:3371/udp/239.1.11.3:1234
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
+#EXTINF:-1,Animal Planet 
+http://194.28.88.3:8048/ch48
 #EXTINF:-1,National Geographic
 http://31.128.142.89:3371/udp/239.1.10.29:1234
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
+#EXTINF:-1,National Geographic HD 
+http://194.28.88.2:8020/ch20
 #EXTINF:-1,Nat Geo Wild
 http://31.128.142.89:3371/udp/239.1.11.27:1234
+#EXTINF:-1,Nat Geo Wild HD 
+http://194.28.88.3:8013/ch13
 #EXTINF:-1,Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:-1,Discovery HD 
+http://194.28.88.2:8039/ch39
 #EXTINF:-1,Discovery HD
 http://31.128.142.89:3371/udp/239.1.11.1:1234
 #EXTINF:0,Discovery World
@@ -70,6 +78,8 @@ http://69.39.239.166:5000/live/284/284.m3u8
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:-1,Discovery Science
 http://31.128.142.89:3371/udp/239.1.11.2:1234
+#EXTINF:-1,Discovery Science
+http://194.28.88.3:8066/ch66
 #EXTINF:-1,ID Xtra
 http://31.128.142.89:3371/udp/239.1.11.5:1234
 #EXTINF:0,Investigation Discovery
@@ -80,23 +90,30 @@ http://93.91.113.8:9999/play/a06z
 http://174.36.155.34:4000/live/287/287.m3u8
 #EXTINF:-1,History
 http://91.202.14.3:8001/play/a00a
+#EXTINF:-1,History HD 
+http://194.28.88.2:8022/ch22
 #EXTINF:-1,FOX
 http://31.128.142.89:3371/udp/239.1.10.6:1234
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
+#EXTINF:-1,FOX
+http://194.28.88.3:8025/ch25
 #EXTINF:-1,Fox Life
 http://31.128.142.89:3371/udp/239.1.10.5:1234
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
+#EXTINF:-1,FOX Life 
+http://194.28.88.3:8035/ch35
 #EXTINF:-1,TLC
 http://91.202.14.3:8001/play/a00f
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
-
+#EXTINF:-1,TLC HD
+http://194.28.88.2:8023/ch23
 #EXTINF:-1,Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,London Live
@@ -157,6 +174,8 @@ http://188.68.162.146:81/udp/239.2.100.159:4321
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:0, Cartoon Network
 http://130.185.248.29:52610/play/a00t
+#EXTINF:-1,Cartoon Network
+http://194.28.88.3:8033/ch33
 #EXTINF:-1,Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Channel 
@@ -180,6 +199,8 @@ http://93.91.113.8:9999/play/a06l
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1,Nick Jr
 http://31.128.142.89:3371/udp/239.1.9.25:1234
+#EXTINF:-1,Nick HD
+http://194.28.88.2:8006/ch6
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -222,7 +243,11 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1,MTV Hits
+http://persik.by/stream/1417/252987/10208.m3u8
+#EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
+#EXTINF:-1,MTV Rocks
+http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1,MTV Rocks
 http://31.128.142.89:3371/udp/239.1.10.31:1234
 #EXTINF:-1,Music Box
