@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,9/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,9/10/17 update2
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -58,13 +58,13 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-http://master.cystreams.com:25461/live/greek/MIRC/12.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/12.ts
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
-http://master.cystreams.com:25461/live/greek/MIRC/14.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/14.ts
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
-http://master.cystreams.com:25461/live/greek/MIRC/15.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/15.ts
 #EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV
-http://master.cystreams.com:25461/live/greek/MIRC/119.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/119.ts
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/images/logo2.png ,TV Mall
 https://youtu.be/46k1mMe_DYE
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
@@ -111,11 +111,11 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Youtube)
 https://www.youtube.com/watch?v=tug1qABlQ-M
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
-http://master.cystreams.com:25461/live/greek/MIRC/43.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/43.ts
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
-http://master.cystreams.com:25461/live/greek/MIRC/42.ts
+http://master.cystreams.com:25461/live/greek/zaourtis/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
 https://www.youtube.com/watch?v=7Yo7A5QVVOE
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation) (Youtube)
@@ -131,7 +131,7 @@ http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
 https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
-http://master.cystreams.com:25461/live/greek/MIRC/40.ts
+http://master.cystreams.com:25461/live/zaourtis/MIRC/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV (Youtube)
