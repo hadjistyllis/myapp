@@ -118,9 +118,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 http://master.cystreams.com:25461/live/greek/zaourtis/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
 https://www.youtube.com/watch?v=7Yo7A5QVVOE
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation) (Youtube)
-https://www.youtube.com/watch?v=a67XGboEcdw
-#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (Country Limitation)
+#EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
 http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
