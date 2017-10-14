@@ -1,4 +1,4 @@
-update2#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz" ,url-tvg="http://exabytetv.info/guia.xml"
+#EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz, http://rytecepg.ipservers.eu/epg_data/rytecxmltv-Greece.gz ,http://sgcpm.com/epg/devilcosta.gz" ,url-tvg="http://exabytetv.info/guia.xml"
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
