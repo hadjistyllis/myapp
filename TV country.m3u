@@ -5412,9 +5412,9 @@ http://163.172.49.213:8899/live/bigRmd/big10rmd/1426.ts|User-Agent=git LibVLC/3.
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1329.ts|User-Agent=git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Euronews" tvg-logo="",Euronews
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1330.ts|User-Agent=git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="20-CSAT INFO [FR]",LCI
+#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" ,LCI
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1401.ts|User-Agent=git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ITELE" tvg-logo="" group-title="20-CSAT INFO [FR]",ITELE
+#EXTINF:-1 tvg-ID="" tvg-name="ITELE" tvg-logo="" ,ITELE
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1400.ts|User-Agent=git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 1HD Fr" tvg-logo="" ,SFR Sport 1HD Fr
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1464.ts|User-Agent=git LibVLC/3.0.0-git
