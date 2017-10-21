@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,Animal Planet (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet
+#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
@@ -48,10 +48,14 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 http://194.28.88.3:8048/ch48
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
+#EXTINF:-1 ,National Geographic HD 
+http://91.149.172.100:80/channel?id=91&u=demo&p=demo 
 #EXTINF:-1,National Geographic HD 
 http://194.28.88.2:8020/ch20
 #EXTINF:-1,Nat Geo Wild HD 
 http://194.28.88.3:8013/ch13
+#EXTINF:-1 ,Nat GeoWild HD 
+http://91.149.172.100:80/channel?id=7&u=demo&p=demo 
 #EXTINF:-1,Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
 #EXTINF:-1,DISCOVERY
@@ -72,28 +76,30 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 http://194.28.88.3:8066/ch66
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
+#EXTINF:-1 ,History 
+http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
 #EXTINF:-1,HISTORY
 http://174.36.155.34:4000/live/287/287.m3u8
-#EXTINF:-1,History
-http://91.202.14.3:8001/play/a00a
 #EXTINF:-1,History HD 
 http://194.28.88.2:8022/ch22
+#EXTINF:-1,FOX
+http://194.28.88.3:8025/ch25
+#EXTINF:-1 ,FOX HD 
+http://91.149.172.100:80/channel?id=100&u=demo&p=demo 
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
-#EXTINF:-1,FOX
-http://194.28.88.3:8025/ch25
+#EXTINF:-1 ,Fox Life 
+http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
 #EXTINF:-1,FOX Life 
 http://194.28.88.3:8035/ch35
-#EXTINF:-1,TLC
-http://91.202.14.3:8001/play/a00f
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,TLC HD
@@ -140,12 +146,14 @@ mmsh://wpso.com:200/kids?MSWMExt=.asf
 http://bit.ly/2rvaV7Q
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
-#EXTINF:-1,JIM JAM
-http://184.173.146.7:5000/live/201/201.m3u8
 #EXTINF:0,Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
 http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:-1 ,JimJam 
+http://91.149.172.100:80/channel?id=25&u=demo&p=demo 
+#EXTINF:-1 ,Boomerang 
+http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
 #EXTINF:-1,boomerang (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Boomerang
@@ -167,16 +175,22 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer
 http://93.91.113.8:9999/play/a06k
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
+#EXTINF:-1 ,NICK 
+http://91.149.172.100:80/channel?id=87&u=demo&p=demo 
+#EXTINF:-1 ,Nick Jr 
+http://91.149.172.100:80/channel?id=76&u=demo&p=demo 
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
-#EXTINF:-1,Nick Jr
-http://93.91.113.8:9999/play/a06l
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1,Nick HD
 http://194.28.88.2:8006/ch6
+#EXTINF:-1 ,Life Kids Network
+rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+#EXTINF:-1,Talking TOM
+https://www.youtube.com/watch?v=66K0g6W4JU4
 #EXTINF:-1,TiJi (RU)
 http://37.194.121.4:1234/udp/239.1.3.6:1234 
 #EXTINF:-1,Disney Channel (RU)
@@ -222,18 +236,18 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
-#EXTINF:-1,MTV Hits
-http://89.105.158.155:554/udp/239.255.2.2:1234
+#EXTINF:-1 ,MTV Hits 
+http://91.149.172.100:80/channel?id=140&u=demo&p=demo 
 #EXTINF:-1,MTV Rocks
 http://persik.by/stream/1417/252987/10227.m3u8
-#EXTINF:-1,MTV Rocks
-http://89.105.158.155:554/udp/239.255.2.4:1234
+#EXTINF:-1 ,MTV Rocks 
+http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
+#EXTINF:-1 ,MTV Dance 
+http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
 #EXTINF:-1,MTV Dance
 http://185.162.141.69:9014/mtvdance
-#EXTINF:-1,MTV Dance
-http://89.105.158.155:554/udp/239.255.2.1:1234
-#EXTINF:-1,MTV
-http://87.246.0.146:61475/tv_MTV
+#EXTINF:-1 ,MTV HD 
+http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
@@ -627,3 +641,7 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 http://bit.ly/2l0o6Os
 #EXTINF:-1,Cinema world
 http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 ,Paramount channel 
+http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
+#EXTINF:-1 ,Paramount Comedy 
+http://91.149.172.100:80/channel?id=90&u=demo&p=demo 
