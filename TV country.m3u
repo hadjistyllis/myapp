@@ -236,6 +236,8 @@ rtmp://stream2.svbllc.com:1935/4e/4e.stream
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/ablVkW ,WZRA KID'S GR
 mmsh://wpso.com:200/kids?MSWMExt=.asf
+#EXTINF:-1 ,Life Kids Network
+rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 ,MIX
 http://wpso.com:1936/hls/wzra.m3u8
 
@@ -4359,26 +4361,151 @@ http://173.212.206.199:25461/live/ksa/indep/862.ts|refferer=http://solidstreamz.
 
 
 
+#EXTINF:8 group-title=”France4-PREMIUM_MXPLAYER”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 ,
+http://.....
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="National Geogra" tvg-logo="" ,National Geogra
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/89.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" tvg-logo="" ,Nat Geo Wild
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/90.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ushuaia TV" tvg-logo="" ,Ushuaia TV
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/94.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Season" tvg-logo="" ,Season
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/96.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Discovry" tvg-logo="" ,Discovry
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/91.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Discovry Sci" tvg-logo="" ,Discovry Sci
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/92.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Animaux" tvg-logo="" ,Animaux
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/93.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Chasse Peche" tvg-logo="" ,Chasse Peche
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/95.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France O" tvg-logo="" ,France O
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/69.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 2" tvg-logo="" ,France 2
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/65.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 3" tvg-logo="" ,France 3
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/66.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 4" tvg-logo="" ,France 4
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/67.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 5" tvg-logo="" ,France 5
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/68.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" ,France 24
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/97.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" ,TF1
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/63.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" ,M6
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/64.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Lci" tvg-logo="" ,Lci
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/99.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Teletoon" tvg-logo="" ,Teletoon
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/108.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Foot 24HD" tvg-logo="" ,Foot 24HD
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/116.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="InfoSport HD" tvg-logo="" ,InfoSport HD
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/117.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ocs Max" tvg-logo="" ,Ocs Max
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/86.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ocs Geant" tvg-logo="" ,Ocs Geant
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/84.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ocs City" tvg-logo="" ,Ocs City
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/85.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ocs Choc" tvg-logo="" ,Ocs Choc
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/83.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Premier" tvg-logo="" ,Cine Premier
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/75.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Polar" tvg-logo="" ,Cine Polar
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/81.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Fx" tvg-logo="" ,Cine Fx
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/82.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Frisson" tvg-logo="" ,Cine Frisson
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/76.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Famiz" tvg-logo="" ,Cine Famiz
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/80.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Emotion" tvg-logo="" ,Cine Emotion
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/77.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Club" tvg-logo="" ,Cine Club
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/79.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Classic" tvg-logo="" ,Cine Classic
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/78.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 1" tvg-logo="" ,Canal Play 1
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/118.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 2" tvg-logo="" ,Canal Play 2
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/119.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 3" tvg-logo="" ,Canal Play 3
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/120.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 4" tvg-logo="" ,Canal Play 4
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/121.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 5" tvg-logo="" ,Canal Play 5
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/122.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal J" tvg-logo="" ,Canal J
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/106.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sport HD" tvg-logo="" ,Canal Sport HD
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/115.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="C News" tvg-logo="" ,C News
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/98.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Action" tvg-logo="" ,Action
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/88.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal" tvg-logo="" ,Canal
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/70.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedie" tvg-logo="" ,Canal Comedie
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/87.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Series" tvg-logo="" ,Canal Series
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/74.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Family" tvg-logo="" ,Canal Family
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/73.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Decale" tvg-logo="" ,Canal Decale
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/72.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinema" tvg-logo="" ,Canal Cinema
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/71.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Carton Net" tvg-logo="" ,Carton Net
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/103.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" ,Boomerang
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/102.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" ,Boing
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/107.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Gulli" tvg-logo="" ,Gulli
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/104.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Piwi" tvg-logo="" ,Piwi
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/100.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon Junior" tvg-logo="" ,Nickelodeon Junior
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/110.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" ,Nickelodeon
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/109.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="" ,Mangas
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/105.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tiji" tvg-logo="" ,Tiji
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/101.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" ,Disney XD
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/114.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" ,Disney Junior
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/111.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinema" tvg-logo="" ,Disney Cinema
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/113.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" ,Disney Channel
+http://163.172.29.223:4991/live/be.star/LhMpYBP4ay/112.ts|User-Agent=madrid
 
 
 
@@ -10330,6 +10457,443 @@ http://bein.website/movecast/beIN.m3u8?id=bein8-hq
 http://bein.website/movecast/beIN.m3u8?id=bein9-hq
 #EXTINF:-1,BeIN Sport 10 HD 
 http://bein.website/movecast/beIN.m3u8?id=bein10-hq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM_MXPLAYER”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 1HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_01_hd.png" ,beinSports 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/1.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 2HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_02_hd.png" ,beinSports 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/2.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 3HD" tvg-logo="https://www.lyngsat-logo.com/tvchannel/qa/BeIn-Sports-Turkiye-3-HD.html" ,beinSports 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/3.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 4HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_04_hd.png" ,beinSports 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/4.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 5HD" tvg-logo="" ,beinSports 5HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/5.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 6HD" tvg-logo="" ,beinSports 6HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/6.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 7HD" tvg-logo="" ,beinSports 7HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/7.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 8HD" tvg-logo="" ,beinSports 8HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/8.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 9HD" tvg-logo="" ,beinSports 9HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/9.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 10HD" tvg-logo="" ,beinSports 10HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/10.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 11HD" tvg-logo="" ,beinSports 11HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/11.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 12HD" tvg-logo="" ,beinSports 12HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/12.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports News" tvg-logo="" ,beinSports News
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/14.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports HD" tvg-logo="" ,beinSports HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/13.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 1HD" tvg-logo="" ,AbuDhabiSports 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/20.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 2HD" tvg-logo="" ,AbuDhabiSports 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/21.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 3HD" tvg-logo="" ,AbuDhabiSports 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/22.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 4HD" tvg-logo="" ,AbuDhabiSports 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/23.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 5HD" tvg-logo="" ,AbuDhabiSports 5HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/24.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 6HD" tvg-logo="" ,AbuDhabiSports 6HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/25.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 1HD" tvg-logo="" ,MBC Sport 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/245.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 2HD" tvg-logo="" ,MBC Sport 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/246.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 3HD" tvg-logo="" ,MBC Sport 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/247.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 4HD" tvg-logo="" ,MBC Sport 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/248.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSport 1HD FR" tvg-logo="" ,beinSport 1HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/50.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSport 2HD FR" tvg-logo="" ,beinSport 2HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/51.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSport 3HD FR" tvg-logo="" ,beinSport 3HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/52.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 4HD FR" tvg-logo="" ,BeinMax 4HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/53.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 5HD FR" tvg-logo="" ,BeinMax 5HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/54.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 6HD FR" tvg-logo="" ,BeinMax 6HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/55.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 7HD FR" tvg-logo="" ,BeinMax 7HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/56.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 8HD FR" tvg-logo="" ,BeinMax 8HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/57.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 9HD FR" tvg-logo="" ,BeinMax 9HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/58.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 10HD FR" tvg-logo="" ,BeinMax 10HD FR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/59.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport 1HD" tvg-logo="" ,Sport 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/60.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport_2HD" tvg-logo="" ,Sport_2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/61.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport_3HD" tvg-logo="" ,Sport_3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/62.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 1HD TR" tvg-logo="" ,beinSports 1HD TR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/26.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 2HD TR" tvg-logo="" ,beinSports 2HD TR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/27.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinSports 3HD TR" tvg-logo="" ,beinSports 3HD TR
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/28.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SkySports 1HD" tvg-logo="" ,SkySports 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/38.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SkySports 2HD" tvg-logo="" ,SkySports 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/39.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SkySports 3HD" tvg-logo="" ,SkySports 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/40.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SkySports 4HD" tvg-logo="" ,SkySports 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/41.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SkySports 5HD" tvg-logo="" ,SkySports 5HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/42.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSports 1HD" tvg-logo="" ,BtSports 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/45.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSports 1HD" tvg-logo="" ,BtSports 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/43.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSports 2HD" tvg-logo="" ,BtSports 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/46.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSports 2HD" tvg-logo="" ,BtSports 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/44.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSportExtra HD" tvg-logo="" ,BtSportExtra HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/49.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSportEurope HD" tvg-logo="" ,BtSportEurope HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/48.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BtSportEurope 2HD" tvg-logo="" ,BtSportEurope 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/47.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1HD" tvg-logo="" ,Sport TV 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/29.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2HD" tvg-logo="" ,Sport TV 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/30.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3HD" tvg-logo="" ,Sport TV 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/31.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4HD" tvg-logo="" ,Sport TV 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/32.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5HD" tvg-logo="" ,Sport TV 5HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/33.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 1HD" tvg-logo="" ,DigiSport 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/34.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 2HD" tvg-logo="" ,DigiSport 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/35.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 3HD" tvg-logo="" ,DigiSport 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/36.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 4HD" tvg-logo="" ,DigiSport 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/37.ts|User-Agent=madrid
+
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Cinema 1HD" tvg-logo="" ,Osn Cinema 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/219.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Cinema 2HD" tvg-logo="" ,Osn Cinema 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/220.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 1HD" tvg-logo="" ,Osn Officebox 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/203.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 2HD" tvg-logo="" ,Osn Officebox 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/204.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 3HD" tvg-logo="" ,Osn Officebox 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/205.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies HD" tvg-logo="" ,Osn Movies HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/206.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies 2HD" tvg-logo="" ,Osn Movies 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/207.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Action" tvg-logo="" ,Osn Movies Action
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/208.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Premiere" tvg-logo="" ,Osn Movies Premiere
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/210.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Premiere 2" tvg-logo="" ,Osn Movies Premiere 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/211.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Comedy HD" tvg-logo="" ,Osn Movies Comedy HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/212.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Action 2HD" tvg-logo="" ,Osn Movies Action 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/209.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Ondemand HD" tvg-logo="" ,Osn Ondemand HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/213.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Ondemend Extra HD" tvg-logo="" ,Osn Ondemend Extra HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/214.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala HD" tvg-logo="" ,Osn Yahala HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/215.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Cinema HD" tvg-logo="" ,Osn Yahala Cinema HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/218.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Drama HD" tvg-logo="" ,Osn Yahala Drama HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/216.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Shabab HD" tvg-logo="" ,Osn Yahala Shabab HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/217.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Aloula HD" tvg-logo="" ,Osn SeeVii Aloula HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/222.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Drama HD" tvg-logo="" ,Osn SeeVii Drama HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/221.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Beelink HD" tvg-logo="" ,Osn SeeVii Beelink HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/224.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Shamia" tvg-logo="" ,Osn SeeVii Shamia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/223.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 1HD" tvg-logo="" ,BeinMovies 1HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/195.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 2HD" tvg-logo="" ,BeinMovies 2HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/196.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 3HD" tvg-logo="" ,BeinMovies 3HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/197.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 4HD" tvg-logo="" ,BeinMovies 4HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/198.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinFoxAction" tvg-logo="" ,BeinFoxAction
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/201.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSeries HD" tvg-logo="" ,BeinSeries HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/199.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BeinDMAX" tvg-logo="" ,BeinDMAX
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/200.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinJunior" tvg-logo="" ,beinJunior
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/19.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinJeem HD" tvg-logo="" ,beinJeem HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/18.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinGroummet" tvg-logo="" ,beinGroummet
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/17.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Fatafeat" tvg-logo="" ,Bein Fatafeat
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/161.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinDiscovery HD" tvg-logo="" ,beinDiscovery HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/16.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="beinBaraim HD" tvg-logo="" ,beinBaraim HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/15.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" ,MBC 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/230.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" ,MBC 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/231.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" ,MBC 3
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/232.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" ,MBC 4
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/233.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Action" tvg-logo="" ,MBC Action
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/234.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Max" tvg-logo="" ,MBC Max
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/235.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Masr 1" tvg-logo="" ,MBC Masr 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/236.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Masr 2" tvg-logo="" ,MBC Masr 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/237.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Drama" tvg-logo="" ,MBC Drama
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/238.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Drama HD" tvg-logo="" ,MBC Drama HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/239.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Zee Alwan" tvg-logo="" ,MBC Zee Alwan
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/242.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Zee Aflam" tvg-logo="" ,MBC Zee Aflam
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/243.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Bollywood" tvg-logo="" ,MBC Bollywood
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/241.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4u Aflam" tvg-logo="" ,MBC B4u Aflam
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/244.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Variety HD" tvg-logo="" ,MBC Variety HD
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/240.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Art Cinema" tvg-logo="" ,Art Cinema
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/229.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Art Aflam 1" tvg-logo="" ,Art Aflam 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/225.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Art Aflam 2" tvg-logo="" ,Art Aflam 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/226.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Art Hekayat 2" tvg-logo="" ,Art Hekayat 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/228.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Art Hekayat 1" tvg-logo="" ,Art Hekayat 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/227.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" ,Tunesia 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/162.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" tvg-logo="" ,Tunesia 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/163.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" ,Tonesna
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/164.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Zitouna" tvg-logo="" ,Zitouna
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/168.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Telvaza" tvg-logo="" ,Telvaza
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/170.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Nessma" tvg-logo="" ,Nessma
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/167.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Hannibal" tvg-logo="" ,Hannibal
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/166.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="ElHiwar Ettounsi" tvg-logo="" ,ElHiwar Ettounsi
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/165.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" tvg-logo="" ,Attasiaa
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/169.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AlJanoubia" tvg-logo="" ,AlJanoubia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/171.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Samira Tv" tvg-logo="" ,Samira Tv
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/160.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Programme National" tvg-logo="" ,Programme National
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/141.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Kbc Algeria" tvg-logo="" ,Kbc Algeria
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/150.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ennahar TV" tvg-logo="" ,Ennahar TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/145.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Ennahar Laki" tvg-logo="" ,Ennahar Laki
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/146.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Eljazairia TV" tvg-logo="" ,Eljazairia TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/153.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Elhaddaf TV" tvg-logo="" ,Elhaddaf TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/152.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Elbilad" tvg-logo="" ,Elbilad
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/151.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk TV" tvg-logo="" ,Echorouk TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/139.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk NEWS" tvg-logo="" ,Echorouk NEWS
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/138.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk Benna" tvg-logo="" ,Echorouk Benna
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/140.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Dzai News" tvg-logo="" ,Dzai News
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/148.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Dzair TV" tvg-logo="" ,Dzair TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/149.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Algerie" tvg-logo="" ,Canal Algerie
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/142.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Beur TV" tvg-logo="" ,Beur TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/156.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere TV" tvg-logo="" ,Berbere TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/157.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere Music" tvg-logo="" ,Berbere Music
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/158.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere Jeuness" tvg-logo="" ,Berbere Jeuness
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/159.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Bahia TV" tvg-logo="" ,Bahia TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/147.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Magharibia 1" tvg-logo="" ,Magharibia 1
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/154.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Magharibia 2" tvg-logo="" ,Magharibia 2
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/155.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 3" tvg-logo="" ,Algeria 3
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/143.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 5" tvg-logo="" ,Algeria 5
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/144.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tele Maroc" tvg-logo="" ,Tele Maroc
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/128.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Medi1 TV" tvg-logo="" ,Medi1 TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/129.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Al Aoula Inter" tvg-logo="" ,Al Aoula Inter
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/130.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="2M Monde" tvg-logo="" ,2M Monde
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/131.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Arriadia" tvg-logo="" ,Arriadia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/136.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Arrabia" tvg-logo="" ,Arrabia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/134.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Al Maghribia" tvg-logo="" ,Al Maghribia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/132.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Assadisa" tvg-logo="" ,Assadisa
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/135.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Tamazight" tvg-logo="" ,Tamazight
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/133.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="SUD24 TV" tvg-logo="" ,SUD24 TV
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/137.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" tvg-logo="" ,Toyour ElJannah
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/186.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour Baby" tvg-logo="" ,Toyour Baby
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/187.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="" ,Space Toon
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/184.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="CartooNet Ar" tvg-logo="" ,CartooNet Ar
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/183.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Baraeem" tvg-logo="" ,Baraeem
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/185.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="RT" tvg-logo="" ,RT
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/178.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Quest Arabia" tvg-logo="" ,Quest Arabia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/182.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="National Geo Abd" tvg-logo="" ,National Geo Abd
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/181.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Iqraa" tvg-logo="" ,Iqraa
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/193.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AlMajd" tvg-logo="" ,AlMajd
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/190.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AlMajd Quran" tvg-logo="" ,AlMajd Quran
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/188.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AlMajd Hadith" tvg-logo="" ,AlMajd Hadith
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/189.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Alresalah" tvg-logo="" ,Alresalah
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/194.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Alrahma" tvg-logo="" ,Alrahma
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/191.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Alnas" tvg-logo="" ,Alnas
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/192.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera Doc" tvg-logo="" ,Aljazeera Doc
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/180.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" ,Aljazeera
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/172.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" ,Alhadath
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/174.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" ,Alarabiyia
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/173.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" ,France 24
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/177.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="AlEkhbariya" tvg-logo="" ,AlEkhbariya
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/176.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" ,Skynews
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/175.ts|User-Agent=madrid
+#EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" ,BBC
+http://163.172.49.213:8899/live/be.star/LhMpYBP4ay/179.ts|User-Agent=madrid
+
+
+
 
 
 
