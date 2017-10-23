@@ -3,12 +3,36 @@
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
+
+
+#EXTINF:1 group-title=”NOTE”,
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version 5
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,will expire
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,29/10/17.
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Upgrade to
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version 6
+http://.....
+
+
+
+
+
+
 #EXTINF:1 group-title=”UPDATED DATE”,
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,22/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -1541,6 +1565,512 @@ http://173.212.206.199:25461/live/ksa/indep/642.ts|refferer=http://solidstreamz.
 
 
 
+#EXTINF:8 group-title=”USA4/Canada”,
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,(US) CBS News
+http://31.220.2.50:25461/live/Free200/Free200/1477.m3u8
+#EXTINF:-1,(US) MLB Network
+http://31.220.2.50:25461/live/Free200/Free200/1480.m3u8
+#EXTINF:-1,(US) QVC
+http://31.220.2.50:25461/live/Free200/Free200/1481.m3u8
+#EXTINF:-1,(US) RT America
+http://31.220.2.50:25461/live/Free200/Free200/1479.m3u8
+#EXTINF:-1,(US) The Weather Channel
+http://31.220.2.50:25461/live/Free200/Free200/1478.m3u8
+#EXTINF:-1,(US) Big Ten Network
+http://31.220.2.50:25461/live/Free200/Free200/1116.m3u8
+#EXTINF:-1,(US) ESPN Deportes
+http://31.220.2.50:25461/live/Free200/Free200/1119.m3u8
+#EXTINF:-1,(US) Fox Sports 1
+http://31.220.2.50:25461/live/Free200/Free200/1122.m3u8
+#EXTINF:-1,(US) Fox Sports 2
+http://31.220.2.50:25461/live/Free200/Free200/1123.m3u8
+#EXTINF:-1,(US) Fox Sports Arizona
+http://31.220.2.50:25461/live/Free200/Free200/1124.m3u8
+#EXTINF:-1,(US) Fox Sports Detroit
+http://31.220.2.50:25461/live/Free200/Free200/1126.m3u8
+#EXTINF:-1,(US) Fox Sports Carolinas
+http://31.220.2.50:25461/live/Free200/Free200/1125.m3u8
+#EXTINF:-1,(US) Fox Sports Florida
+http://31.220.2.50:25461/live/Free200/Free200/1127.m3u8
+#EXTINF:-1,(US) Fox Sports Indiana
+http://31.220.2.50:25461/live/Free200/Free200/1128.m3u8
+#EXTINF:-1,(US) Fox Sports North
+http://31.220.2.50:25461/live/Free200/Free200/1129.m3u8
+#EXTINF:-1,(US) Fox Sports Ohio
+http://31.220.2.50:25461/live/Free200/Free200/1130.m3u8
+#EXTINF:-1,(US) Fox Sports Primeticket
+http://31.220.2.50:25461/live/Free200/Free200/1135.m3u8
+#EXTINF:-1,(US) Fox Sports San Diego
+http://31.220.2.50:25461/live/Free200/Free200/1131.m3u8
+#EXTINF:-1,(US) Fox Sports Sun
+http://31.220.2.50:25461/live/Free200/Free200/1136.m3u8
+#EXTINF:-1,(US) Fox Sports Tennessee
+http://31.220.2.50:25461/live/Free200/Free200/1132.m3u8
+#EXTINF:-1,(US) Fox Sports West
+http://31.220.2.50:25461/live/Free200/Free200/1137.m3u8
+#EXTINF:-1,(US) Fox Sports Wisconsin
+http://31.220.2.50:25461/live/Free200/Free200/1133.m3u8
+#EXTINF:-1,(US) Fox Yes Network
+http://31.220.2.50:25461/live/Free200/Free200/1134.m3u8
+#EXTINF:-1,(US) LongHorn Network
+http://31.220.2.50:25461/live/Free200/Free200/1138.m3u8
+#EXTINF:-1,(US) NBA Tv
+http://31.220.2.50:25461/live/Free200/Free200/1139.m3u8
+#EXTINF:-1,(US) NBC Golf
+http://31.220.2.50:25461/live/Free200/Free200/1140.m3u8
+#EXTINF:-1,(US) NBCSN
+http://31.220.2.50:25461/live/Free200/Free200/1141.m3u8
+#EXTINF:-1,(US) NESN
+http://31.220.2.50:25461/live/Free200/Free200/1142.m3u8
+#EXTINF:-1,(US) A&E
+http://31.220.2.50:25461/live/Free200/Free200/1355.m3u8
+#EXTINF:-1,(US) ABC
+http://31.220.2.50:25461/live/Free200/Free200/1354.m3u8
+#EXTINF:-1,(US) ABC East
+http://31.220.2.50:25461/live/Free200/Free200/1432.m3u8
+#EXTINF:-1,(US) ABC West
+http://31.220.2.50:25461/live/Free200/Free200/1431.m3u8
+#EXTINF:-1,(US) AMC
+http://31.220.2.50:25461/live/Free200/Free200/1430.m3u8
+#EXTINF:-1,(US) American Heroes Channel
+http://31.220.2.50:25461/live/Free200/Free200/1429.m3u8
+#EXTINF:-1,(US) Animal Planet
+http://31.220.2.50:25461/live/Free200/Free200/1353.m3u8
+#EXTINF:-1,(US) BBC America
+http://31.220.2.50:25461/live/Free200/Free200/1428.m3u8
+#EXTINF:-1,(US) BBC World News
+http://31.220.2.50:25461/live/Free200/Free200/1427.m3u8
+#EXTINF:-1,(US) Boomerang
+http://31.220.2.50:25461/live/Free200/Free200/1426.m3u8
+#EXTINF:-1,(US) BRAVO
+http://31.220.2.50:25461/live/Free200/Free200/1352.m3u8
+#EXTINF:-1,(US) Cartoon Network
+http://31.220.2.50:25461/live/Free200/Free200/1351.m3u8
+#EXTINF:-1,(US) CBS East
+http://31.220.2.50:25461/live/Free200/Free200/1425.m3u8
+#EXTINF:-1,(US) CBS West
+http://31.220.2.50:25461/live/Free200/Free200/1424.m3u8
+#EXTINF:-1,(US) Chiller
+http://31.220.2.50:25461/live/Free200/Free200/1423.m3u8
+#EXTINF:-1,(US) Cinemax East
+http://31.220.2.50:25461/live/Free200/Free200/1422.m3u8
+#EXTINF:-1,(US) Cinemax West
+http://31.220.2.50:25461/live/Free200/Free200/1421.m3u8
+#EXTINF:-1,(US) Cloo
+http://31.220.2.50:25461/live/Free200/Free200/1420.m3u8
+#EXTINF:-1,(US) CNBC
+http://31.220.2.50:25461/live/Free200/Free200/1419.m3u8
+#EXTINF:-1,(US) CNBC World
+http://31.220.2.50:25461/live/Free200/Free200/1418.m3u8
+#EXTINF:-1,(US) CNN
+http://31.220.2.50:25461/live/Free200/Free200/1417.m3u8
+#EXTINF:-1,(US) CNN Mexico
+http://31.220.2.50:25461/live/Free200/Free200/1416.m3u8
+#EXTINF:-1,(US) Comedy Central
+http://31.220.2.50:25461/live/Free200/Free200/1350.m3u8
+#EXTINF:-1,(US) CSPAN 1
+http://31.220.2.50:25461/live/Free200/Free200/1349.m3u8
+#EXTINF:-1,(US) CSPAN 2
+http://31.220.2.50:25461/live/Free200/Free200/1348.m3u8
+#EXTINF:-1,(US) CSPAN 3
+http://31.220.2.50:25461/live/Free200/Free200/1347.m3u8
+#EXTINF:-1,(US) CW
+http://31.220.2.50:25461/live/Free200/Free200/1346.m3u8
+#EXTINF:-1,(US) Destination America
+http://31.220.2.50:25461/live/Free200/Free200/1415.m3u8
+#EXTINF:-1,(US) Discovery
+http://31.220.2.50:25461/live/Free200/Free200/1345.m3u8
+#EXTINF:-1,(US) Discovery Familia
+http://31.220.2.50:25461/live/Free200/Free200/1414.m3u8
+#EXTINF:-1,(US) Discovery Family
+http://31.220.2.50:25461/live/Free200/Free200/1413.m3u8
+#EXTINF:-1,(US) Discovery Life
+http://31.220.2.50:25461/live/Free200/Free200/1412.m3u8
+#EXTINF:-1,(US) Discovery Spanish
+http://31.220.2.50:25461/live/Free200/Free200/1411.m3u8
+#EXTINF:-1,(US) Disney Channel
+http://31.220.2.50:25461/live/Free200/Free200/1410.m3u8
+#EXTINF:-1,(US) Disney Junior
+http://31.220.2.50:25461/live/Free200/Free200/1409.m3u8
+#EXTINF:-1,(US) Disney XD
+http://31.220.2.50:25461/live/Free200/Free200/1408.m3u8
+#EXTINF:-1,(US) DIY
+http://31.220.2.50:25461/live/Free200/Free200/1407.m3u8
+#EXTINF:-1,(US) E Network
+http://31.220.2.50:25461/live/Free200/Free200/1406.m3u8
+#EXTINF:-1,(US) EPIX Hits
+http://31.220.2.50:25461/live/Free200/Free200/1405.m3u8
+#EXTINF:-1,(US) Esquire
+http://31.220.2.50:25461/live/Free200/Free200/1404.m3u8
+#EXTINF:-1,(US) Food Network
+http://31.220.2.50:25461/live/Free200/Free200/1403.m3u8
+#EXTINF:-1,(US) FOX Business
+http://31.220.2.50:25461/live/Free200/Free200/1402.m3u8
+#EXTINF:-1,(US) FOX East
+http://31.220.2.50:25461/live/Free200/Free200/1401.m3u8
+#EXTINF:-1,(US) FOX Life
+http://31.220.2.50:25461/live/Free200/Free200/1400.m3u8
+#EXTINF:-1,(US) Fox News
+http://31.220.2.50:25461/live/Free200/Free200/1344.m3u8
+#EXTINF:-1,(US) FOX West
+http://31.220.2.50:25461/live/Free200/Free200/1399.m3u8
+#EXTINF:-1,(US) FOX
+http://31.220.2.50:25461/live/Free200/Free200/1343.m3u8
+#EXTINF:-1,(US) Freeform
+http://31.220.2.50:25461/live/Free200/Free200/1398.m3u8
+#EXTINF:-1,(US) Fusion
+http://31.220.2.50:25461/live/Free200/Free200/1397.m3u8
+#EXTINF:-1,(US) FX
+http://31.220.2.50:25461/live/Free200/Free200/1396.m3u8
+#EXTINF:-1,(US) FXM
+http://31.220.2.50:25461/live/Free200/Free200/1395.m3u8
+#EXTINF:-1,(US) FXX
+http://31.220.2.50:25461/live/Free200/Free200/1394.m3u8
+#EXTINF:-1,(US) GINX TV
+http://31.220.2.50:25461/live/Free200/Free200/1393.m3u8
+#EXTINF:-1,(US) Hallmark
+http://31.220.2.50:25461/live/Free200/Free200/1342.m3u8
+#EXTINF:-1,(US) HBO East
+http://31.220.2.50:25461/live/Free200/Free200/1392.m3u8
+#EXTINF:-1,(US) HBO West
+http://31.220.2.50:25461/live/Free200/Free200/1391.m3u8
+#EXTINF:-1,(US) HGTV
+http://31.220.2.50:25461/live/Free200/Free200/1390.m3u8
+#EXTINF:-1,(US) History
+http://31.220.2.50:25461/live/Free200/Free200/1341.m3u8
+#EXTINF:-1,(US) HLN
+http://31.220.2.50:25461/live/Free200/Free200/1389.m3u8
+#EXTINF:-1,(US) ID
+http://31.220.2.50:25461/live/Free200/Free200/1388.m3u8
+#EXTINF:-1,(US) IFC
+http://31.220.2.50:25461/live/Free200/Free200/1387.m3u8
+#EXTINF:-1,(US) LIFETIME
+http://31.220.2.50:25461/live/Free200/Free200/1340.m3u8
+#EXTINF:-1,(US) MGM
+http://31.220.2.50:25461/live/Free200/Free200/1386.m3u8
+#EXTINF:-1,(US) MSNBC
+http://31.220.2.50:25461/live/Free200/Free200/1385.m3u8
+#EXTINF:-1,(US) MY NetworkTV
+http://31.220.2.50:25461/live/Free200/Free200/1384.m3u8
+#EXTINF:-1,(US) MY NetworkTV West
+http://31.220.2.50:25461/live/Free200/Free200/1383.m3u8
+#EXTINF:-1,(US) Nat Geo
+http://31.220.2.50:25461/live/Free200/Free200/1382.m3u8
+#EXTINF:-1,(US) Nat Geo Mundo
+http://31.220.2.50:25461/live/Free200/Free200/1381.m3u8
+#EXTINF:-1,(US) NAT GEO WILD
+http://31.220.2.50:25461/live/Free200/Free200/1339.m3u8
+#EXTINF:-1,(US) NBC
+http://31.220.2.50:25461/live/Free200/Free200/1338.m3u8
+#EXTINF:-1,(US) NBC East
+http://31.220.2.50:25461/live/Free200/Free200/1380.m3u8
+#EXTINF:-1,(US) NBC West
+http://31.220.2.50:25461/live/Free200/Free200/1379.m3u8
+#EXTINF:-1,(US) NESN Plus
+http://31.220.2.50:25461/live/Free200/Free200/1143.m3u8
+#EXTINF:-1,(US) NFL Network
+http://31.220.2.50:25461/live/Free200/Free200/1145.m3u8
+#EXTINF:-1,(US) NFL RedZone
+http://31.220.2.50:25461/live/Free200/Free200/1144.m3u8
+#EXTINF:-1,(US) Nick
+http://31.220.2.50:25461/live/Free200/Free200/1337.m3u8
+#EXTINF:-1,(US) Olympic TV
+http://31.220.2.50:25461/live/Free200/Free200/1146.m3u8
+#EXTINF:-1,(US) One World Sports
+http://31.220.2.50:25461/live/Free200/Free200/1147.m3u8
+#EXTINF:-1,(US) Outside Television
+http://31.220.2.50:25461/live/Free200/Free200/1378.m3u8
+#EXTINF:-1,(US) OWN
+http://31.220.2.50:25461/live/Free200/Free200/1377.m3u8
+#EXTINF:-1,(US) Oxygen
+http://31.220.2.50:25461/live/Free200/Free200/1376.m3u8
+#EXTINF:-1,(US) Poker Central
+http://31.220.2.50:25461/live/Free200/Free200/1148.m3u8
+#EXTINF:-1,(US) POP
+http://31.220.2.50:25461/live/Free200/Free200/1375.m3u8
+#EXTINF:-1,(US) Science
+http://31.220.2.50:25461/live/Free200/Free200/1374.m3u8
+#EXTINF:-1,(US) SEC Network
+http://31.220.2.50:25461/live/Free200/Free200/1149.m3u8
+#EXTINF:-1,(US) Showtime East
+http://31.220.2.50:25461/live/Free200/Free200/1373.m3u8
+#EXTINF:-1,(US) Showtime West
+http://31.220.2.50:25461/live/Free200/Free200/1372.m3u8
+#EXTINF:-1,(US) Sony Movie Channel
+http://31.220.2.50:25461/live/Free200/Free200/1371.m3u8
+#EXTINF:-1,(US) Spike
+http://31.220.2.50:25461/live/Free200/Free200/1336.m3u8
+#EXTINF:-1,(US) Sprout
+http://31.220.2.50:25461/live/Free200/Free200/1370.m3u8
+#EXTINF:-1,(US) Sundance TV
+http://31.220.2.50:25461/live/Free200/Free200/1369.m3u8
+#EXTINF:-1,(US) SYFY
+http://31.220.2.50:25461/live/Free200/Free200/1335.m3u8
+#EXTINF:-1,(US) TBS
+http://31.220.2.50:25461/live/Free200/Free200/1368.m3u8
+#EXTINF:-1,(US) TCM
+http://31.220.2.50:25461/live/Free200/Free200/1367.m3u8
+#EXTINF:-1,(US) Telemundo East
+http://31.220.2.50:25461/live/Free200/Free200/1366.m3u8
+#EXTINF:-1,(US) Telemundo West
+http://31.220.2.50:25461/live/Free200/Free200/1365.m3u8
+#EXTINF:-1,(US) The Cooking Channel
+http://31.220.2.50:25461/live/Free200/Free200/1364.m3u8
+#EXTINF:-1,(US) TLC
+http://31.220.2.50:25461/live/Free200/Free200/1363.m3u8
+#EXTINF:-1,(US) TNT
+http://31.220.2.50:25461/live/Free200/Free200/1362.m3u8
+#EXTINF:-1,(US) Travel
+http://31.220.2.50:25461/live/Free200/Free200/1361.m3u8
+#EXTINF:-1,(US) TruTV
+http://31.220.2.50:25461/live/Free200/Free200/1360.m3u8
+#EXTINF:-1,(US) UFC Network
+http://31.220.2.50:25461/live/Free200/Free200/1150.m3u8
+#EXTINF:-1,(US) USA Network
+http://31.220.2.50:25461/live/Free200/Free200/1359.m3u8
+#EXTINF:-1,(US) Univision
+http://31.220.2.50:25461/live/Free200/Free200/1356.m3u8
+#EXTINF:-1,(US) Velocity
+http://31.220.2.50:25461/live/Free200/Free200/1358.m3u8
+#EXTINF:-1,(US) WETV
+http://31.220.2.50:25461/live/Free200/Free200/1357.m3u8
+#EXTINF:-1,(US) WWE Network
+http://31.220.2.50:25461/live/Free200/Free200/1151.m3u8
+#EXTINF:-1,(US) 5-Star Max
+http://31.220.2.50:25461/live/Free200/Free200/1446.m3u8
+#EXTINF:-1,(US) ABC News
+http://31.220.2.50:25461/live/Free200/Free200/1447.m3u8
+#EXTINF:-1,(US) ActionMax
+http://31.220.2.50:25461/live/Free200/Free200/1448.m3u8
+#EXTINF:-1,(US) BET
+http://31.220.2.50:25461/live/Free200/Free200/1433.m3u8
+#EXTINF:-1,(US) Bloomberg
+http://31.220.2.50:25461/live/Free200/Free200/1449.m3u8
+#EXTINF:-1,(US) CBS Sports Network
+http://31.220.2.50:25461/live/Free200/Free200/1450.m3u8
+#EXTINF:-1,(US) Cooking Channel
+http://31.220.2.50:25461/live/Free200/Free200/1435.m3u8
+#EXTINF:-1,(US) Epix
+http://31.220.2.50:25461/live/Free200/Free200/1436.m3u8
+#EXTINF:-1,(US) LMN
+http://31.220.2.50:25461/live/Free200/Free200/1437.m3u8
+#EXTINF:-1,(US) MoreMAX
+http://31.220.2.50:25461/live/Free200/Free200/1434.m3u8
+#EXTINF:-1,(US) Showcase
+http://31.220.2.50:25461/live/Free200/Free200/1441.m3u8
+#EXTINF:-1,(US) Showtime 2
+http://31.220.2.50:25461/live/Free200/Free200/1439.m3u8
+#EXTINF:-1,(US) Showtime Family
+http://31.220.2.50:25461/live/Free200/Free200/1440.m3u8
+#EXTINF:-1,(US) Tennis
+http://31.220.2.50:25461/live/Free200/Free200/1442.m3u8
+#EXTINF:-1,(US) VH1
+http://31.220.2.50:25461/live/Free200/Free200/1443.m3u8
+#EXTINF:-1,(US) Viceland
+http://31.220.2.50:25461/live/Free200/Free200/1444.m3u8
+#EXTINF:-1,(US) Weathernation
+http://31.220.2.50:25461/live/Free200/Free200/1445.m3u8
+#EXTINF:-1,(US) MavTV
+http://31.220.2.50:25461/live/Free200/Free200/1438.m3u8
+#EXTINF:-1,(US) ESPN News
+http://31.220.2.50:25461/live/Free200/Free200/1623.m3u8
+#EXTINF:-1,(US) ESPN U
+http://31.220.2.50:25461/live/Free200/Free200/1622.m3u8
+#EXTINF:-1,(US) Fox Soccer Plus
+http://31.220.2.50:25461/live/Free200/Free200/1526.m3u8
+#EXTINF:-1,(US) TSN 1
+http://31.220.2.50:25461/live/Free200/Free200/1581.m3u8
+#EXTINF:-1,(US) CMT
+http://31.220.2.50:25461/live/Free200/Free200/1626.m3u8
+#EXTINF:-1,(US) Logo
+http://31.220.2.50:25461/live/Free200/Free200/1625.m3u8
+#EXTINF:-1,(US) MTV
+http://31.220.2.50:25461/live/Free200/Free200/1627.m3u8
+
+
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=http://flagsinternational.com/wp-content/uploads/2015/03/canada025-180x180.jpg ,=CANADA=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1,(CA) A&E
+http://31.220.2.50:25461/live/Free200/Free200/1520.m3u8
+#EXTINF:-1,(CA) ABC Spark
+http://31.220.2.50:25461/live/Free200/Free200/1521.m3u8
+#EXTINF:-1,(CA) Animal Planet
+http://31.220.2.50:25461/live/Free200/Free200/1522.m3u8
+#EXTINF:-1,(CA) BNN
+http://31.220.2.50:25461/live/Free200/Free200/1523.m3u8
+#EXTINF:-1,(CA) Bravo
+http://31.220.2.50:25461/live/Free200/Free200/1524.m3u8
+#EXTINF:-1,(CA) CBC
+http://31.220.2.50:25461/live/Free200/Free200/1525.m3u8
+#EXTINF:-1,(CA) CBC News
+http://31.220.2.50:25461/live/Free200/Free200/1527.m3u8
+#EXTINF:-1,(CA) CBC Sports Network
+http://31.220.2.50:25461/live/Free200/Free200/1529.m3u8
+#EXTINF:-1,(CA) CBS
+http://31.220.2.50:25461/live/Free200/Free200/1528.m3u8
+#EXTINF:-1,(CA) Chard
+http://31.220.2.50:25461/live/Free200/Free200/1530.m3u8
+#EXTINF:-1,(CA) ChCh
+http://31.220.2.50:25461/live/Free200/Free200/1531.m3u8
+#EXTINF:-1,(CA) CityTV
+http://31.220.2.50:25461/live/Free200/Free200/1532.m3u8
+#EXTINF:-1,(CA) CNN
+http://31.220.2.50:25461/live/Free200/Free200/1533.m3u8
+#EXTINF:-1,(CA) Comedy
+http://31.220.2.50:25461/live/Free200/Free200/1534.m3u8
+#EXTINF:-1,(CA) Cooking
+http://31.220.2.50:25461/live/Free200/Free200/1535.m3u8
+#EXTINF:-1,(CA) CP24
+http://31.220.2.50:25461/live/Free200/Free200/1536.m3u8
+#EXTINF:-1,(CA) CTV
+http://31.220.2.50:25461/live/Free200/Free200/1537.m3u8
+#EXTINF:-1,(CA) Discovery
+http://31.220.2.50:25461/live/Free200/Free200/1538.m3u8
+#EXTINF:-1,(CA) Disney
+http://31.220.2.50:25461/live/Free200/Free200/1539.m3u8
+#EXTINF:-1,(CA) Disney Wes
+http://31.220.2.50:25461/live/Free200/Free200/1540.m3u8
+#EXTINF:-1,(CA) Disney XD
+http://31.220.2.50:25461/live/Free200/Free200/1543.m3u8
+#EXTINF:-1,(CA) Documentary
+http://31.220.2.50:25461/live/Free200/Free200/1541.m3u8
+#EXTINF:-1,(CA) DTour
+http://31.220.2.50:25461/live/Free200/Free200/1542.m3u8
+#EXTINF:-1,(CA) E!
+http://31.220.2.50:25461/live/Free200/Free200/1544.m3u8
+#EXTINF:-1,(CA) Food Network
+http://31.220.2.50:25461/live/Free200/Free200/1545.m3u8
+#EXTINF:-1,(CA) Fox
+http://31.220.2.50:25461/live/Free200/Free200/1546.m3u8
+#EXTINF:-1,(CA) Global BC
+http://31.220.2.50:25461/live/Free200/Free200/1550.m3u8
+#EXTINF:-1,(CA) GMA Life
+http://31.220.2.50:25461/live/Free200/Free200/1547.m3u8
+#EXTINF:-1,(CA) GMA Pinoy
+http://31.220.2.50:25461/live/Free200/Free200/1548.m3u8
+#EXTINF:-1,(CA) GSN
+http://31.220.2.50:25461/live/Free200/Free200/1549.m3u8
+#EXTINF:-1,(CA) HGTV
+http://31.220.2.50:25461/live/Free200/Free200/1553.m3u8
+#EXTINF:-1,(CA) HIFI
+http://31.220.2.50:25461/live/Free200/Free200/1551.m3u8
+#EXTINF:-1,(CA) History
+http://31.220.2.50:25461/live/Free200/Free200/1552.m3u8
+#EXTINF:-1,(CA) ICI
+http://31.220.2.50:25461/live/Free200/Free200/1554.m3u8
+#EXTINF:-1,(CA) ID
+http://31.220.2.50:25461/live/Free200/Free200/1555.m3u8
+#EXTINF:-1,(CA) K
+http://31.220.2.50:25461/live/Free200/Free200/1556.m3u8
+#EXTINF:-1,(CA) Lifetime
+http://31.220.2.50:25461/live/Free200/Free200/1559.m3u8
+#EXTINF:-1,(CA) Love Nature
+http://31.220.2.50:25461/live/Free200/Free200/1560.m3u8
+#EXTINF:-1,(CA) MovieTime
+http://31.220.2.50:25461/live/Free200/Free200/1561.m3u8
+#EXTINF:-1,(CA) Nat Geo Wild
+http://31.220.2.50:25461/live/Free200/Free200/1563.m3u8
+#EXTINF:-1,(CA) NBC
+http://31.220.2.50:25461/live/Free200/Free200/1564.m3u8
+#EXTINF:-1,(CA) Net Geo
+http://31.220.2.50:25461/live/Free200/Free200/1562.m3u8
+#EXTINF:-1,(CA) OMNI 1
+http://31.220.2.50:25461/live/Free200/Free200/1567.m3u8
+#EXTINF:-1,(CA) Omni2
+http://31.220.2.50:25461/live/Free200/Free200/1566.m3u8
+#EXTINF:-1,(CA) Onmi
+http://31.220.2.50:25461/live/Free200/Free200/1565.m3u8
+#EXTINF:-1,(CA) RDI
+http://31.220.2.50:25461/live/Free200/Free200/1568.m3u8
+#EXTINF:-1,(CA) ShowCase
+http://31.220.2.50:25461/live/Free200/Free200/1569.m3u8
+#EXTINF:-1,(CA) Slice
+http://31.220.2.50:25461/live/Free200/Free200/1570.m3u8
+#EXTINF:-1,(CA) SN 360
+http://31.220.2.50:25461/live/Free200/Free200/1571.m3u8
+#EXTINF:-1,(CA) SN East
+http://31.220.2.50:25461/live/Free200/Free200/1572.m3u8
+#EXTINF:-1,(CA) SN One
+http://31.220.2.50:25461/live/Free200/Free200/1573.m3u8
+#EXTINF:-1,(CA) SN Ontario
+http://31.220.2.50:25461/live/Free200/Free200/1574.m3u8
+#EXTINF:-1,(CA) SN Pacific
+http://31.220.2.50:25461/live/Free200/Free200/1575.m3u8
+#EXTINF:-1,(CA) SN West
+http://31.220.2.50:25461/live/Free200/Free200/1576.m3u8
+#EXTINF:-1,(CA) Teletoon
+http://31.220.2.50:25461/live/Free200/Free200/1579.m3u8
+#EXTINF:-1,(CA) TFC
+http://31.220.2.50:25461/live/Free200/Free200/1586.m3u8
+#EXTINF:-1,(CA) TMN 1E
+http://31.220.2.50:25461/live/Free200/Free200/1577.m3u8
+#EXTINF:-1,(CA) TMN 4E/1W
+http://31.220.2.50:25461/live/Free200/Free200/1578.m3u8
+#EXTINF:-1,(CA) Treehouse
+http://31.220.2.50:25461/live/Free200/Free200/1580.m3u8
+#EXTINF:-1,(CA) TSN 2
+http://31.220.2.50:25461/live/Free200/Free200/1582.m3u8
+#EXTINF:-1,(CA) TSN 3
+http://31.220.2.50:25461/live/Free200/Free200/1583.m3u8
+#EXTINF:-1,(CA) TSN 4
+http://31.220.2.50:25461/live/Free200/Free200/1584.m3u8
+#EXTINF:-1,(CA) TSN 5
+http://31.220.2.50:25461/live/Free200/Free200/1585.m3u8
+#EXTINF:-1,(CA) TVA
+http://31.220.2.50:25461/live/Free200/Free200/1589.m3u8
+#EXTINF:-1,(CA) TVO
+http://31.220.2.50:25461/live/Free200/Free200/1590.m3u8
+#EXTINF:-1,(CA) TVO Kids
+http://31.220.2.50:25461/live/Free200/Free200/1588.m3u8
+#EXTINF:-1,(CA) TWN
+http://31.220.2.50:25461/live/Free200/Free200/1587.m3u8
+#EXTINF:-1,(CA) W
+http://31.220.2.50:25461/live/Free200/Free200/1591.m3u8
+#EXTINF:-1,(CA) Yes
+http://31.220.2.50:25461/live/Free200/Free200/1592.m3u8
+#EXTINF:-1,(CA) YTV
+http://31.220.2.50:25461/live/Free200/Free200/1593.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2573,6 +3103,9 @@ http://173.212.206.199:25461/live/ksa/indep/640.ts|refferer=http://solidstreamz.
 http://173.212.206.199:25461/live/ksa/indep/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 #EXTINF:-1,RTE 2
 http://173.212.206.199:25461/live/ksa/indep/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
+
+
+
 
 
 
@@ -4221,22 +4754,48 @@ http://.....
 
 #EXTINF:-1,Bein Sports 1 FR
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/316.ts|user-agent=wSsS
+#EXTINF:-1,Bein Sports 1 FR
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/27.ts|user-agent=Sportstv204
+#EXTINF:-1,Bein Sports 1 FR Backup
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/762.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Sports 2 FR
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/317.ts|user-agent=wSsS
+#EXTINF:-1,Bein Sports 2 FR
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/28.ts|user-agent=Sportstv204
+#EXTINF:-1,Bein Sports 2 FR Backup
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/761.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Sports 3 FR
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/318.ts|user-agent=wSsS
+#EXTINF:-1,Bein Sports 3 FR
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/29.ts|user-agent=Sportstv204
+#EXTINF:-1,Bein Sports 3 FR Backup
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/760.ts|user-agent=Sportstv204
 #EXTINF:-1,Canal + Sport
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/91.ts|user-agent=wSsS
+#EXTINF:-1,Canal + Sport
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/91.ts|user-agent=Sportstv204
 #EXTINF:-1,Canal +
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/90.ts|user-agent=wSsS
+#EXTINF:-1,Canal +
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/90.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Movies 1 HD
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/351.ts|user-agent=wSsS
+#EXTINF:-1,Bein Movies 1 HD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/351.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Movies 2 HD
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/352.ts|user-agent=wSsS
+#EXTINF:-1,Bein Movies 2 HD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/352.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Movies 3 HD
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/353.ts|user-agent=wSsS
+#EXTINF:-1,Bein Movies 3 HD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/353.ts|user-agent=Sportstv204
 #EXTINF:-1,Bein Movies 4 HD
 http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/354.ts|user-agent=wSsS
+#EXTINF:-1,Bein Movies 4 HD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/354.ts|user-agent=Sportstv204
+
+
 
 
 
@@ -4349,163 +4908,6 @@ http://173.212.206.199:25461/live/ksa/indep/862.ts|refferer=http://solidstreamz.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”France4-PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 ,
-http://.....
-
-#EXTINF:-1 tvg-ID="" tvg-name="National Geogra" tvg-logo="" ,National Geogra
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/89.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" tvg-logo="" ,Nat Geo Wild
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/90.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ushuaia TV" tvg-logo="" ,Ushuaia TV
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/94.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Season" tvg-logo="" ,Season
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/96.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Discovry" tvg-logo="" ,Discovry
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/91.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Discovry Sci" tvg-logo="" ,Discovry Sci
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/92.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Animaux" tvg-logo="" ,Animaux
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/93.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Chasse Peche" tvg-logo="" ,Chasse Peche
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/95.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France O" tvg-logo="" ,France O
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/69.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 2" tvg-logo="" ,France 2
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/65.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 3" tvg-logo="" ,France 3
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/66.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 4" tvg-logo="" ,France 4
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/67.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 5" tvg-logo="" ,France 5
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/68.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" ,France 24
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/97.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" ,TF1
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/63.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" ,M6
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/64.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Lci" tvg-logo="" ,Lci
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/99.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Teletoon" tvg-logo="" ,Teletoon
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/108.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Foot 24HD" tvg-logo="" ,Foot 24HD
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/116.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="InfoSport HD" tvg-logo="" ,InfoSport HD
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/117.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ocs Max" tvg-logo="" ,Ocs Max
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/86.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ocs Geant" tvg-logo="" ,Ocs Geant
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/84.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ocs City" tvg-logo="" ,Ocs City
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/85.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ocs Choc" tvg-logo="" ,Ocs Choc
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/83.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Premier" tvg-logo="" ,Cine Premier
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/75.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Polar" tvg-logo="" ,Cine Polar
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/81.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Fx" tvg-logo="" ,Cine Fx
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/82.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Frisson" tvg-logo="" ,Cine Frisson
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/76.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Famiz" tvg-logo="" ,Cine Famiz
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/80.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Emotion" tvg-logo="" ,Cine Emotion
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/77.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Club" tvg-logo="" ,Cine Club
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/79.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Classic" tvg-logo="" ,Cine Classic
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/78.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 1" tvg-logo="" ,Canal Play 1
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/118.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 2" tvg-logo="" ,Canal Play 2
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/119.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 3" tvg-logo="" ,Canal Play 3
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/120.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 4" tvg-logo="" ,Canal Play 4
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/121.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Play 5" tvg-logo="" ,Canal Play 5
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/122.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal J" tvg-logo="" ,Canal J
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/106.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Sport HD" tvg-logo="" ,Canal Sport HD
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/115.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="C News" tvg-logo="" ,C News
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/98.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Action" tvg-logo="" ,Action
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/88.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal" tvg-logo="" ,Canal
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/70.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedie" tvg-logo="" ,Canal Comedie
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/87.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Series" tvg-logo="" ,Canal Series
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/74.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Family" tvg-logo="" ,Canal Family
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/73.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Decale" tvg-logo="" ,Canal Decale
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/72.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinema" tvg-logo="" ,Canal Cinema
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/71.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Carton Net" tvg-logo="" ,Carton Net
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/103.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" ,Boomerang
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/102.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" ,Boing
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/107.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Gulli" tvg-logo="" ,Gulli
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/104.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Piwi" tvg-logo="" ,Piwi
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/100.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon Junior" tvg-logo="" ,Nickelodeon Junior
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/110.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" ,Nickelodeon
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/109.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="" ,Mangas
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/105.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tiji" tvg-logo="" ,Tiji
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/101.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" ,Disney XD
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/114.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" ,Disney Junior
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/111.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinema" tvg-logo="" ,Disney Cinema
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/113.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" ,Disney Channel
-http://163.172.29.223:4991/live/be.g.star/PzYIKMf8q0/112.ts|User-Agent=bestar
 
 
 
@@ -7337,125 +7739,81 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
- #EXTINF:-1,Nat Geo People HD Poland 
- http://93.158.220.159:8000/play/a00i 
- #EXTINF:-1,Disney Junior Middle-East & Africa 
- http://93.158.220.159:8000/play/a00r 
- #EXTINF:-1,Lifetime HD 
- http://93.158.220.159:8000/play/a00e 
- #EXTINF:-1,Polsat Sport Fight HD 
- http://93.158.220.159:8000/play/a00p 
- #EXTINF:-1,Extreme Sports HD 
- http://93.158.220.159:8000/play/a00k 
- #EXTINF:-1,TLC HD 
- http://93.158.220.159:8000/play/a00a 
- #EXTINF:-1,Golf 
- http://93.158.220.159:8000/play/a00c 
- #EXTINF:-1,PPV HD KSW 40 
- http://93.158.220.159:8000/play/a00v 
- #EXTINF:-1,CBS Europa HD 
- http://93.158.220.159:8000/play/a00l 
- #EXTINF:-1,Eurosport 1 HD 
- http://93.158.220.159:8000/play/a00t 
- #EXTINF:-1,Discovery Science Poland HD 
- http://93.158.220.159:8000/play/a00n 
- #EXTINF:-1,Fightbox HD 
- http://93.158.220.159:8000/play/a00d 
- #EXTINF:-1,SciFi 
- http://93.158.220.159:8000/play/a00f 
- #EXTINF:-1,Tenis Premium 1 
- http://93.158.220.159:8000/play/a00j 
- #EXTINF:-1,13 Ulica HD 
- http://93.158.220.159:8000/play/a008 
- #EXTINF:-1,H2 HD 
- http://93.158.220.159:8000/play/a00b 
- #EXTINF:-1,Universal HD 
- http://93.158.220.159:8000/play/a007 
- #EXTINF:-1,Eurosport 2 HD 
- http://93.158.220.159:8000/play/a00m 
- #EXTINF:-1,Disney Junior 
- http://93.158.220.159:8000/play/a00s 
- #EXTINF:-1,Sundance Channel HD 
- http://93.158.220.159:8000/play/a009 
- #EXTINF:-1,Cartoon Network HD Eastern Europe 
- http://93.158.220.159:8000/play/a00h 
- #EXTINF:-1,E! Entertainment 
- http://93.158.220.159:8000/play/a006 
- #EXTINF:-1,TNT HD 
- http://93.158.220.159:8000/play/a00g 
- #EXTINF:-1,HBO HD Polska 
- http://93.158.220.159:8000/play/a00o 
- #EXTINF:-1,Polsat Sport News HD 
- http://93.158.220.159:8000/play/a00q
-
-#EXTINF:-1,NUTA TV 
-http://93.158.220.159:6001/play/a00c 
-#EXTINF:-1,HGTV HD 
-http://93.158.220.159:6001/play/a00i 
-#EXTINF:-1,Adventure HD
-http://93.158.220.159:6001/play/a00k
-#EXTINF:-1,MiniMini+ HD
-http://93.158.220.159:6001/play/a008
-#EXTINF:-1,Mango 24 
-http://93.158.220.159:6001/play/a00b
-#EXTINF:-1,ESKA TV Extra 
-http://93.158.220.159:6001/play/a00e 
-#EXTINF:-1,CANAL+ SPORT HD
-http://93.158.220.159:6001/play/a006 
-#EXTINF:-1,ESKA TV 
-http://93.158.220.159:6001/play/a00a 
-#EXTINF:-1,Fokus TV 
-http://93.158.220.159:6001/play/a00n 
-#EXTINF:-1,CANAL+ HD 
-http://93.158.220.159:6001/play/a005 
-#EXTINF:-1,Puls 2 
-http://93.158.220.159:6001/play/a00m 
-#EXTINF:-1,TVN24 Biznes HD 
-http://93.158.220.159:6001/play/a00j 
-#EXTINF:-1,NTL 
-http://93.158.220.159:6001/play/a00l
-#EXTINF:-1,Polo TV 
-http://93.158.220.159:6001/play/a009 
-#EXTINF:-1,POWER TV 
-http://93.158.220.159:6001/play/a00f 
-#EXTINF:-1,TO!TV 
-http://93.158.220.159:6001/play/a00g 
-#EXTINF:-1,ADVENTURE HD 
-http://93.158.220.159:6001/play/a00h 
-#EXTINF:-1,NOWA TV 
-http://93.158.220.159:6001/play/a00d 
-#EXTINF:-1,NATIONAL GEO HD 
-http://93.158.220.159:6001/play/a007
+#EXTINF:-1,KINO POLSKA
+http://89.160.179.224:8280/play/a01j/index.m3u8
+#EXTINF:-1,Active Family
+http://89.160.179.224:8280/play/a01i/index.m3u8
+#EXTINF:-1,Polsat Jim Jam
+http://89.160.179.224:8280/play/a00y/index.m3u8
+#EXTINF:-1,Disco Polo Music
+http://89.160.179.224:8280/play/a00u/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://89.160.179.224:8280/play/a00e/index.m3u8
+#EXTINF:-1,AXN
+http://89.160.179.224:8280/play/a00l/index.m3u8
+#EXTINF:-1,TNT HD
+http://89.160.179.224:8280/play/a00a/index.m3u8
+#EXTINF:-1,Boomerang
+http://89.160.179.224:8280/play/a00z/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://89.160.179.224:8280/play/a00r/index.m3u8
 #EXTINF:-1,nSport+
-http://93.158.220.159:7000/play/a00i
-#EXTINF:-1,teleTOON+ HD
-http://93.158.220.159:7000/play/a008 
-#EXTINF:-1,TVP 1 HD 
-http://93.158.220.159:7000/play/a00k
-#EXTINF:-1,DTX
-http://93.158.220.159:7000/play/a00f
-#EXTINF:-1,Romance TV 
-http://93.158.220.159:7000/play/a00l 
-#EXTINF:-1,Kuchnia HD 
-http://93.158.220.159:7000/play/a00m 
-#EXTINF:-1,CANAL+ FAMILY HD
-http://93.158.220.159:7000/play/a007 
-#EXTINF:-1,ID HD
-http://93.158.220.159:7000/play/a00e 
-#EXTINF:-1,Ale kino+ HD 
-http://93.158.220.159:7000/play/a00b 
-#EXTINF:-1,Discovery HD 
-http://93.158.220.159:7000/play/a00h 
-#EXTINF:-1,CANAL+ DISCOVERY HD 
-http://93.158.220.159:7000/play/a00d 
-#EXTINF:-1,CANAL+ FILM HD 
-http://93.158.220.159:7000/play/a006 
-#EXTINF:-1,Planete+ HD
-http://93.158.220.159:7000/play/a009 
-#EXTINF:-1,CANAL+ ******E HD 
-http://93.158.220.159:7000/play/a00c
-#EXTINF:-1,AMC 
-http://93.158.220.159:7000/play/a00g
+http://89.160.179.224:8280/play/a01a/index.m3u8
+#EXTINF:-1,TVP 1 HD
+http://89.160.179.224:8280/play/a01b/index.m3u8
+#EXTINF:-1,TVP INFO HD
+http://89.160.179.224:8280/play/a01n/index.m3u8
+#EXTINF:-1,Discovery HD
+http://89.160.179.224:8280/play/a019/index.m3u8
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://89.160.179.224:8280/play/a018/index.m3u8
+#EXTINF:-1,AXN Black
+http://89.160.179.224:8280/play/a00n/index.m3u8
+#EXTINF:-1,MTV Rocks
+http://89.160.179.224:8280/play/a010/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://89.160.179.224:8280/play/a00t/index.m3u8
+#EXTINF:-1,AXN White
+http://89.160.179.224:8280/play/a00m/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://89.160.179.224:8280/play/a01e/index.m3u8
+#EXTINF:-1,Disney Junior
+http://89.160.179.224:8280/play/a00h/index.m3u8
+#EXTINF:-1,TVP HD
+http://89.160.179.224:8280/play/a01m/index.m3u8
+#EXTINF:-1,Disney XD
+http://89.160.179.224:8280/play/a00w/index.m3u8
+#EXTINF:-1,CANAL+ NOW
+http://89.160.179.224:8280/play/a01p/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://89.160.179.224:8280/play/a01l/index.m3u8
+#EXTINF:-1,Fox Comedy
+http://89.160.179.224:8280/play/a00o/index.m3u8
+#EXTINF:-1,ID
+http://89.160.179.224:8280/play/a012/index.m3u8
+#EXTINF:-1,Romance TV
+http://89.160.179.224:8280/play/a01c/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://89.160.179.224:8280/play/a00b/index.m3u8
+#EXTINF:-1,Polsat Sport Fight
+http://89.160.179.224:8280/play/a01h/index.m3u8
+#EXTINF:-1,Polsat Romans
+http://89.160.179.224:8280/play/a00p/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://89.160.179.224:8280/play/a01k/index.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://89.160.179.224:8280/play/a00c/index.m3u8
+#EXTINF:-1,Discovery Science
+http://89.160.179.224:8280/play/a011/index.m3u8
+#EXTINF:-1,CANAL+ DISCOVERY HD
+http://89.160.179.224:8280/play/a016/index.m3u8
+#EXTINF:-1,HBO HD
+http://89.160.179.224:8280/play/a00g/index.m3u8
+#EXTINF:-1,TVP 3
+http://89.160.179.224:8280/play/a01o/index.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://89.160.179.224:8280/play/a00q/index.m3u8
+
 
 
 
@@ -8177,37 +8535,6 @@ http://183.252.176.10/PLTV/88888888/224/3221225912/index.m3u8
 #EXTINF:-1,BestTV7
 http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
 
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER3=
-http://......
-
-#EXTINF:-1,CCTV1
-http://www.zeebra.tv:8000/live/hs/hs/3210.ts
-#EXTINF:-1,CCTV2
-http://www.zeebra.tv:8000/live/hs/hs/3211.ts
-#EXTINF:-1,CCTV4
-http://www.zeebra.tv:8000/live/hs/hs/3212.ts
-#EXTINF:-1,CCTV5
-http://www.zeebra.tv:8000/live/hs/hs/3213.ts
-#EXTINF:-1,CCTV8
-http://www.zeebra.tv:8000/live/hs/hs/3214.ts
-#EXTINF:-1,CCTV9
-http://www.zeebra.tv:8000/live/hs/hs/3215.ts
-#EXTINF:-1,CCTV10
-http://www.zeebra.tv:8000/live/hs/hs/3216.ts
-#EXTINF:-1,CCTV11
-http://www.zeebra.tv:8000/live/hs/hs/3217.ts
-#EXTINF:-1,CCTV13
-http://www.zeebra.tv:8000/live/hs/hs/3218.ts
-#EXTINF:-1,CCTVnews
-http://www.zeebra.tv:8000/live/hs/hs/3208.ts
-#EXTINF:-1,Kirin live
-http://www.zeebra.tv:8000/live/hs/hs/3224.ts
-#EXTINF:-1,fox-sports-1-asia
-http://www.zeebra.tv:8000/live/hs/hs/3222.ts
-#EXTINF:-1,fox-sports-2-asia
-http://www.zeebra.tv:8000/live/hs/hs/3223.ts
-#EXTINF:-1,The Hong Kong and Taiwan
-http://www.zeebra.tv:8000/live/hs/hs/3225.ts
 
 
 
@@ -8723,24 +9050,26 @@ http://.....
 
 #EXTINF:-1,Sony Ten 1
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/153.ts|User-Agent=Sportstv204
-#EXTINF:-1,Sony Ten 2
-http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/152.ts|User-Agent=Sportstv204
 #EXTINF:-1,Sony Ten 1 Backup
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/312.ts|User-Agent=Sportstv204
+#EXTINF:-1,Sony Ten 2
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/152.ts|User-Agent=Sportstv204
 #EXTINF:-1,Sony Ten 2 Backup
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/313.ts|User-Agent=Sportstv204
 #EXTINF:-1,Star Sports 1 Hindi
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/240.ts|User-Agent=Sportstv204
+#EXTINF:-1,Star Sports 1 Hindi Backup
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/437.ts|User-Agent=Sportstv204
 #EXTINF:-1,Star Sports 1 Tamil
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/149.ts|User-Agent=Sportstv204
+#EXTINF:-1,Star Sports 1 Tamil Backup
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/438.ts|User-Agent=Sportstv204
 #EXTINF:-1,Star Sports 1 Backup
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/435.ts|User-Agent=Sportstv204
 #EXTINF:-1,Star Sports 2 Backup
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/436.ts|User-Agent=Sportstv204
-#EXTINF:-1,Star Sports 1 Tamil Backup
-http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/438.ts|User-Agent=Sportstv204
-#EXTINF:-1,Star Sports 1 Hindi Backup
-http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/437.ts|User-Agent=Sportstv204
+
+
 
 
 
@@ -10437,6 +10766,9 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS Group=======
 http://......
+
+#EXTINF:-1,BeinSports
+http://27.254.63.132:1935/live/_definst_/bein1HD.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 #EXTINF:-1,beIN Sports 1 HD
 http://bein.website/movecast/beIN.m3u8?id=bein1-hq
 #EXTINF:-1,beIN Sports 2 HD
@@ -10463,434 +10795,6 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 1HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_01_hd.png" ,beinSports 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/1.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 2HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_02_hd.png" ,beinSports 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/2.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 3HD" tvg-logo="https://www.lyngsat-logo.com/tvchannel/qa/BeIn-Sports-Turkiye-3-HD.html" ,beinSports 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/3.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 4HD" tvg-logo="https://www.lyngsat-logo.com/hires/bb/be_in_tr_sports_04_hd.png" ,beinSports 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/4.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 5HD" tvg-logo="" ,beinSports 5HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/5.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 6HD" tvg-logo="" ,beinSports 6HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/6.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 7HD" tvg-logo="" ,beinSports 7HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/7.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 8HD" tvg-logo="" ,beinSports 8HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/8.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 9HD" tvg-logo="" ,beinSports 9HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/9.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 10HD" tvg-logo="" ,beinSports 10HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/10.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 11HD" tvg-logo="" ,beinSports 11HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/11.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 12HD" tvg-logo="" ,beinSports 12HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/12.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports News" tvg-logo="" ,beinSports News
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/14.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports HD" tvg-logo="" ,beinSports HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/13.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 1HD" tvg-logo="" ,AbuDhabiSports 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/20.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 2HD" tvg-logo="" ,AbuDhabiSports 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/21.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 3HD" tvg-logo="" ,AbuDhabiSports 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/22.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 4HD" tvg-logo="" ,AbuDhabiSports 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/23.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 5HD" tvg-logo="" ,AbuDhabiSports 5HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/24.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabiSports 6HD" tvg-logo="" ,AbuDhabiSports 6HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/25.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 1HD" tvg-logo="" ,MBC Sport 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/245.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 2HD" tvg-logo="" ,MBC Sport 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/246.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 3HD" tvg-logo="" ,MBC Sport 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/247.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Sport 4HD" tvg-logo="" ,MBC Sport 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/248.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSport 1HD FR" tvg-logo="" ,beinSport 1HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/50.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSport 2HD FR" tvg-logo="" ,beinSport 2HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/51.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSport 3HD FR" tvg-logo="" ,beinSport 3HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/52.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 4HD FR" tvg-logo="" ,BeinMax 4HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/53.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 5HD FR" tvg-logo="" ,BeinMax 5HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/54.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 6HD FR" tvg-logo="" ,BeinMax 6HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/55.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 7HD FR" tvg-logo="" ,BeinMax 7HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/56.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 8HD FR" tvg-logo="" ,BeinMax 8HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/57.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 9HD FR" tvg-logo="" ,BeinMax 9HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/58.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMax 10HD FR" tvg-logo="" ,BeinMax 10HD FR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/59.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport 1HD" tvg-logo="" ,Sport 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/60.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport_2HD" tvg-logo="" ,Sport_2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/61.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport_3HD" tvg-logo="" ,Sport_3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/62.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 1HD TR" tvg-logo="" ,beinSports 1HD TR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/26.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 2HD TR" tvg-logo="" ,beinSports 2HD TR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/27.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinSports 3HD TR" tvg-logo="" ,beinSports 3HD TR
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/28.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SkySports 1HD" tvg-logo="" ,SkySports 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/38.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SkySports 2HD" tvg-logo="" ,SkySports 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/39.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SkySports 3HD" tvg-logo="" ,SkySports 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/40.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SkySports 4HD" tvg-logo="" ,SkySports 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/41.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SkySports 5HD" tvg-logo="" ,SkySports 5HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/42.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSports 1HD" tvg-logo="" ,BtSports 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/45.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSports 1HD" tvg-logo="" ,BtSports 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/43.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSports 2HD" tvg-logo="" ,BtSports 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/46.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSports 2HD" tvg-logo="" ,BtSports 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/44.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSportExtra HD" tvg-logo="" ,BtSportExtra HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/49.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSportEurope HD" tvg-logo="" ,BtSportEurope HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/48.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BtSportEurope 2HD" tvg-logo="" ,BtSportEurope 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/47.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1HD" tvg-logo="" ,Sport TV 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/29.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2HD" tvg-logo="" ,Sport TV 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/30.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3HD" tvg-logo="" ,Sport TV 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/31.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4HD" tvg-logo="" ,Sport TV 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/32.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5HD" tvg-logo="" ,Sport TV 5HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/33.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 1HD" tvg-logo="" ,DigiSport 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/34.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 2HD" tvg-logo="" ,DigiSport 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/35.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 3HD" tvg-logo="" ,DigiSport 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/36.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="DigiSport 4HD" tvg-logo="" ,DigiSport 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/37.ts|User-Agent=bestar
-
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Cinema 1HD" tvg-logo="" ,Osn Cinema 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/219.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Cinema 2HD" tvg-logo="" ,Osn Cinema 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/220.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 1HD" tvg-logo="" ,Osn Officebox 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/203.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 2HD" tvg-logo="" ,Osn Officebox 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/204.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Officebox 3HD" tvg-logo="" ,Osn Officebox 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/205.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies HD" tvg-logo="" ,Osn Movies HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/206.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies 2HD" tvg-logo="" ,Osn Movies 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/207.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Action" tvg-logo="" ,Osn Movies Action
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/208.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Premiere" tvg-logo="" ,Osn Movies Premiere
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/210.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Premiere 2" tvg-logo="" ,Osn Movies Premiere 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/211.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Comedy HD" tvg-logo="" ,Osn Movies Comedy HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/212.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Movies Action 2HD" tvg-logo="" ,Osn Movies Action 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/209.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Ondemand HD" tvg-logo="" ,Osn Ondemand HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/213.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Ondemend Extra HD" tvg-logo="" ,Osn Ondemend Extra HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/214.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala HD" tvg-logo="" ,Osn Yahala HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/215.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Cinema HD" tvg-logo="" ,Osn Yahala Cinema HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/218.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Drama HD" tvg-logo="" ,Osn Yahala Drama HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/216.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn Yahala Shabab HD" tvg-logo="" ,Osn Yahala Shabab HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/217.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Aloula HD" tvg-logo="" ,Osn SeeVii Aloula HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/222.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Drama HD" tvg-logo="" ,Osn SeeVii Drama HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/221.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Beelink HD" tvg-logo="" ,Osn SeeVii Beelink HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/224.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Osn SeeVii Shamia" tvg-logo="" ,Osn SeeVii Shamia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/223.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 1HD" tvg-logo="" ,BeinMovies 1HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/195.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 2HD" tvg-logo="" ,BeinMovies 2HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/196.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 3HD" tvg-logo="" ,BeinMovies 3HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/197.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinMovies 4HD" tvg-logo="" ,BeinMovies 4HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/198.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinFoxAction" tvg-logo="" ,BeinFoxAction
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/201.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinSeries HD" tvg-logo="" ,BeinSeries HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/199.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BeinDMAX" tvg-logo="" ,BeinDMAX
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/200.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinJunior" tvg-logo="" ,beinJunior
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/19.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinJeem HD" tvg-logo="" ,beinJeem HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/18.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinGroummet" tvg-logo="" ,beinGroummet
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/17.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fatafeat" tvg-logo="" ,Bein Fatafeat
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/161.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinDiscovery HD" tvg-logo="" ,beinDiscovery HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/16.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="beinBaraim HD" tvg-logo="" ,beinBaraim HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/15.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" ,MBC 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/230.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" ,MBC 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/231.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" ,MBC 3
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/232.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" ,MBC 4
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/233.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Action" tvg-logo="" ,MBC Action
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/234.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Max" tvg-logo="" ,MBC Max
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/235.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Masr 1" tvg-logo="" ,MBC Masr 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/236.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Masr 2" tvg-logo="" ,MBC Masr 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/237.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Drama" tvg-logo="" ,MBC Drama
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/238.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Drama HD" tvg-logo="" ,MBC Drama HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/239.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Zee Alwan" tvg-logo="" ,MBC Zee Alwan
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/242.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Zee Aflam" tvg-logo="" ,MBC Zee Aflam
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/243.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Bollywood" tvg-logo="" ,MBC Bollywood
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/241.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC B4u Aflam" tvg-logo="" ,MBC B4u Aflam
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/244.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="MBC Variety HD" tvg-logo="" ,MBC Variety HD
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/240.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Art Cinema" tvg-logo="" ,Art Cinema
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/229.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Art Aflam 1" tvg-logo="" ,Art Aflam 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/225.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Art Aflam 2" tvg-logo="" ,Art Aflam 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/226.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Art Hekayat 2" tvg-logo="" ,Art Hekayat 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/228.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Art Hekayat 1" tvg-logo="" ,Art Hekayat 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/227.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" ,Tunesia 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/162.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" tvg-logo="" ,Tunesia 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/163.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" ,Tonesna
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/164.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Zitouna" tvg-logo="" ,Zitouna
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/168.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Telvaza" tvg-logo="" ,Telvaza
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/170.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Nessma" tvg-logo="" ,Nessma
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/167.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Hannibal" tvg-logo="" ,Hannibal
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/166.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="ElHiwar Ettounsi" tvg-logo="" ,ElHiwar Ettounsi
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/165.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" tvg-logo="" ,Attasiaa
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/169.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AlJanoubia" tvg-logo="" ,AlJanoubia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/171.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Samira Tv" tvg-logo="" ,Samira Tv
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/160.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Programme National" tvg-logo="" ,Programme National
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/141.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Kbc Algeria" tvg-logo="" ,Kbc Algeria
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/150.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ennahar TV" tvg-logo="" ,Ennahar TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/145.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Ennahar Laki" tvg-logo="" ,Ennahar Laki
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/146.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Eljazairia TV" tvg-logo="" ,Eljazairia TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/153.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Elhaddaf TV" tvg-logo="" ,Elhaddaf TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/152.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Elbilad" tvg-logo="" ,Elbilad
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/151.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Echorouk TV" tvg-logo="" ,Echorouk TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/139.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Echorouk NEWS" tvg-logo="" ,Echorouk NEWS
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/138.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Echorouk Benna" tvg-logo="" ,Echorouk Benna
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/140.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Dzai News" tvg-logo="" ,Dzai News
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/148.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Dzair TV" tvg-logo="" ,Dzair TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/149.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Algerie" tvg-logo="" ,Canal Algerie
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/142.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Beur TV" tvg-logo="" ,Beur TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/156.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Berbere TV" tvg-logo="" ,Berbere TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/157.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Berbere Music" tvg-logo="" ,Berbere Music
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/158.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Berbere Jeuness" tvg-logo="" ,Berbere Jeuness
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/159.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Bahia TV" tvg-logo="" ,Bahia TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/147.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Magharibia 1" tvg-logo="" ,Magharibia 1
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/154.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Magharibia 2" tvg-logo="" ,Magharibia 2
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/155.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Algeria 3" tvg-logo="" ,Algeria 3
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/143.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Algeria 5" tvg-logo="" ,Algeria 5
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/144.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tele Maroc" tvg-logo="" ,Tele Maroc
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/128.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Medi1 TV" tvg-logo="" ,Medi1 TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/129.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Al Aoula Inter" tvg-logo="" ,Al Aoula Inter
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/130.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="2M Monde" tvg-logo="" ,2M Monde
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/131.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Arriadia" tvg-logo="" ,Arriadia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/136.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Arrabia" tvg-logo="" ,Arrabia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/134.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Al Maghribia" tvg-logo="" ,Al Maghribia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/132.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Assadisa" tvg-logo="" ,Assadisa
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/135.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Tamazight" tvg-logo="" ,Tamazight
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/133.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="SUD24 TV" tvg-logo="" ,SUD24 TV
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/137.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" tvg-logo="" ,Toyour ElJannah
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/186.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Toyour Baby" tvg-logo="" ,Toyour Baby
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/187.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="" ,Space Toon
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/184.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="CartooNet Ar" tvg-logo="" ,CartooNet Ar
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/183.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Baraeem" tvg-logo="" ,Baraeem
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/185.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="RT" tvg-logo="" ,RT
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/178.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Quest Arabia" tvg-logo="" ,Quest Arabia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/182.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="National Geo Abd" tvg-logo="" ,National Geo Abd
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/181.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Iqraa" tvg-logo="" ,Iqraa
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/193.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AlMajd" tvg-logo="" ,AlMajd
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/190.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AlMajd Quran" tvg-logo="" ,AlMajd Quran
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/188.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AlMajd Hadith" tvg-logo="" ,AlMajd Hadith
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/189.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Alresalah" tvg-logo="" ,Alresalah
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/194.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Alrahma" tvg-logo="" ,Alrahma
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/191.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Alnas" tvg-logo="" ,Alnas
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/192.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera Doc" tvg-logo="" ,Aljazeera Doc
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/180.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" ,Aljazeera
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/172.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" ,Alhadath
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/174.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" ,Alarabiyia
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/173.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" ,France 24
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/177.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="AlEkhbariya" tvg-logo="" ,AlEkhbariya
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/176.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" ,Skynews
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/175.ts|User-Agent=bestar
-#EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" ,BBC
-http://163.172.49.213:8899/live/be.g.star/PzYIKMf8q0/179.ts|User-Agent=bestar
 
 
 
