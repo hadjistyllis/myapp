@@ -1493,7 +1493,454 @@ http://pulsar.atlantis.bg:8000/starfm.m3u
 
 
 
-#EXTINF:7 group-title=”Georgia”,
+#EXTINF:7 group-title=”Italy”,
 
-#EXTINF:0 tvg-logo=https://www.loveradiotv.eu/attachments/Image/Loveradiotvtbilisi.png ,Love Radio TV Tbilisi
-https://player.magicstreams.gr/radio/play.php?pl=vlc&c=LoveRadioTv
+#EXTINF:-1,RAI Radio 1
+http://icestreaming.rai.it/1.mp3
+#EXTINF:-1,RAI Radio 2
+http://icestreaming.rai.it/2.mp3
+#EXTINF:-1,RAI Radio 3
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1,RAI Radio 4 Light
+http://icestreaming.rai.it/4.mp3
+#EXTINF:-1,RAI Radio 5 Classica
+http://icestreaming.rai.it/5.mp3
+#EXTINF:-1,Rai Radio 6 Teca
+http://icestreaming.rai.it:80/9.mp3
+#EXTINF:-1,Rai Radio 7 Live
+http://icestreaming.rai.it:80/10.mp3
+#EXTINF:-1,Rai Radio 8 Opera
+http://icestreaming.rai.it:80/11.mp3
+#EXTINF:-1,RAI IsoRadio
+http://icestreaming.rai.it/6.mp3
+#EXTINF:-1,RAI GrParlamento
+http://icestreaming.rai.it/7.mp3
+#EXTINF:-1,RADIO SPORTIVA
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RTL 102.5
+http://shoutcast.rtl.it:3010/
+#EXTINF:-1,RTL Best
+http://shoutcast.rtl.it:3020/
+#EXTINF:-1,RTL ItalianStyle
+http://shoutcast.rtl.it:3030/
+#EXTINF:-1,RTL Groove
+http://shoutcast.rtl.it:3040/
+#EXTINF:-1,RTL Lounge
+http://shoutcast.rtl.it:3070/
+#EXTINF:-1,RADIO FRECCIA
+http://shoutcast.rtl.it:3060/;stream.nsv
+#EXTINF:-1,Radio Kiss Kiss (opz 1)
+http://wma08.fluidstream.net:4610/
+#EXTINF:-1,Radio Kiss Kiss (opz 2))
+http://ice07.fluidstream.net:8080/KissKiss.mp3
+#EXTINF:-1,Radio Kiss Kiss Italia
+http://wma07.fluidstream.net:3616/;stream.nsv
+#EXTINF:-1,RDS
+http://www.rds.it:8000/stream
+#EXTINF:-1,Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1,Radio Zeta L�Italiana
+http://shoutcast.rtl.it:3030/stream/1/
+#EXTINF:-1,Radio Capital
+http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+#EXTINF:-1,Radio m2o
+http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+#EXTINF:-1,RADIO CLASSICA
+http://str30.creacast.com/class_radioclassica
+#EXTINF:-1,RADIO STAR ITALIA (LIGABUE)
+http://icy.unitedradio.it/Ligabue.mp3
+#EXTINF:-1,RADIO STAR ITALIA (MINA)
+http://icy.unitedradio.it/Mina.mp3
+#EXTINF:-1,RADIO STAR ITALIA (GIORGIA)
+http://icy.unitedradio.it/Giorgia.mp3
+#EXTINF:-1,RADIO STAR ITALIA (PINO DANIELE)
+http://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1,RADIO STAR ITALIA (TIZIANO FERRO)
+http://icy.unitedradio.it/Ferro.mp3
+#EXTINF:-1,RADIO STAR ITALIA (ZUCCHERO)
+http://icy.unitedradio.it/Zucchero.mp3
+#EXTINF:-1,RADIO STAR ITALIA (JOVANOTTI)
+http://icy.unitedradio.it/Jovanotti.mp3
+#EXTINF:-1,RADIO STAR ITALIA (VASCO ROSSI)
+http://icy.unitedradio.it/Vasco.mp3
+#EXTINF:-1,RADIO 24
+http://shoutcast.radio24.it:8000/
+#EXTINF:-1,RADIO LATTEMIELE
+http://onair18.xdevel.com:8014/
+#EXTINF:-1,RADIO BIRIKINA
+http://wma02.fluidstream.net:2220/
+#EXTINF:-1,RADIO BELLA E MONELLA
+http://wma02.fluidstream.net/RadioBellaemonella/RadioBellaemonella.stream/playlist.m3u8
+#EXTINF:-1,RADIO MARTE
+http://onair18.xdevel.com:8212/
+#EXTINF:-1,RADIO IBIZA
+http://wma02.fluidstream.net:5010/
+#EXTINF:-1,RADIO MONTECARLO
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,RADIO MONTECARLO  2
+http://icecast.unitedradio.it/MC2.mp3
+#EXTINF:-1,VIRGIN RADIO
+http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,RADIO 105
+http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,RADIO 105 CLASSIC
+http://icy.unitedradio.it/105Classics.mp3?amsparams=playerid:208f105web;skey:1468657622
+#EXTINF:-1,RADIO 105 Hip Hop RnB
+http://icy.unitedradio.it/105HipHopRnB.mp3
+#EXTINF:-1,RADIO NORBA
+http://onair20.xdevel.com:8218/
+#EXTINF:-1,RADIO SUBASIO
+http://onair18.xdevel.com:8152
+#EXTINF:-1,RADIO SUBASIO +
+http://onair11.xdevel.com:8050
+#EXTINF:-1,RADIO SUBASIO XL
+http://onair11.xdevel.com:8052/
+#EXTINF:-1,RADIO AMORE CAMPANIA
+http://onair11.xdevel.com:8002
+#EXTINF:-1,RADIO CUORE
+http://nr9.newradio.it:9029
+#EXTINF:-1,RIN RADIO ITALIA NETWORK
+http://sr9.inmystream.info:8006
+#EXTINF:-1,LINEA RADIO SAVONA
+http://94.23.67.20:8034/stream
+#EXTINF:-1,RADIO BABBOLEO
+http://www.babboleostreaming.it/RadioBabboleo.mp3
+#EXTINF:-1,RADIO BABBOLEO SUONO
+http://www.babboleostreaming.it:443/RadioBabboleoSuono.mp3
+#EXTINF:-1,RADIO BABBOLEO NEWS
+http://www.babboleostreaming.it/RadioBabboleoNews.mp3
+#EXTINF:-1,RADIO 19 GENOVA
+http://str04.fluidstream.net/radio19.mp3
+#EXTINF:-1,RADIO LIFEGATE
+http://onair11.xdevel.com:8024
+#EXTINF:-1,RADIO ENERGY
+http://178.32.62.172:8911/
+#EXTINF:-1,RADIO ANIMATI
+http://www.radioanimati.it/streaming/radioanimati.m3u
+#EXTINF:-1,RADIO ONDA ROSSA
+http://radio.dyne.org:8000/ondarossa.mp3
+#EXTINF:-1,RADIO DANCE TRIESTE
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,RADIO 4 NETWORK
+http://panel8.newradio.it:9101/;
+#EXTINF:-1,RADIO CITTA' DEL CAPO
+http://stream.rcdc.it:8000/;
+#EXTINF:-1,RADIO RIVIERA DOLCISSIMA
+http://5.39.89.17:6434/;
+#EXTINF:-1,RADIO REGGIO
+http://onair15.xdevel.com:9082/;
+#EXTINF:-1,RADIO ONDE FURLANE
+http://81.208.101.95:8080/;
+#EXTINF:-1,RADIO POPOLARE
+http://livex.radiopopolare.it/radiopop
+#EXTINF:-1,RADIO VALLE BELBO
+http://nr9.newradio.it:9581/;listen
+#EXTINF:-1,RADIO HOLIDAY
+http://stream.radioholiday.it:8000
+#EXTINF:-1,RADIO CALOLZIO
+http://188.13.39.146:8000/;
+#EXTINF:-1,CIAO COMO RADIO
+http://audio1.meway.tv:8078/;
+#EXTINF:-1,RADIO LOMBARDIA
+http://onair11.xdevel.com:10016/;
+#EXTINF:-1,RADIO KEMONIA
+http://kemoniastreaming2.net:8000/;
+#EXTINF:-1,RADIO VIVA FM
+http://178.32.139.120:8002/stream
+#EXTINF:-1,RADIO PUNTO ZERO
+http://wma02.fluidstream.net:8120/;
+#EXTINF:-1,RADIO PLANET FM
+http://91.121.104.139:8100/;
+#EXTINF:-1,RADIO ANTENNA 2
+http://wma03.fluidstream.net:9070/;
+#EXTINF:-1,RDT STATION
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,LOLLI RADIO ITALIA
+http://www.lolliradio.net/streaming/italia.m3u
+#EXTINF:-1,LOLLI RADIO SOFT NOTIZIE
+http://nr8.newradio.it:8040/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HAPPY
+http://nr11.newradio.it:8030/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HITS
+http://nr11.newradio.it:8080/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO DANCE
+http://nr11.newradio.it:8050/;listen&ext=.mp3
+#EXTINF:-1,RADIO ANNI 80
+http://str01.fluidstream.net:7020/;stream.mp3
+#EXTINF:-1,RADIO ITALIA ANNI 60
+http://wma01.fluidstream.net:7140/
+#EXTINF:-1,RADIO COMPANY
+http://str01.fluidstream.net:7010/;stream.mp3
+#EXTINF:-1,RADIO VALBELLUNA
+http://str01.fluidstream.net:7030/;stream.mp3
+#EXTINF:-1,RADIO MARILU'
+http://wma02.fluidstream.net:2210/
+#EXTINF:-1,RADIO SORRISO
+http://wma02.fluidstream.net:2250/
+#EXTINF:-1,RADIO 19
+http://ice12.fluidstream.net/radio19.aac?type=.flv&r=285507
+#EXTINF:-1,RADIO PITERPAN
+http://wma02.fluidstream.net:2230/
+#EXTINF:-1,RADIO VALENTINA
+http://wma01x.fluidstream.net/valentina.aac?type=.flv
+#EXTINF:-1,NEW RADIO
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RADIO NUMBER ONE
+http://ice12.fluidstream.net/rn1.mp3
+#EXTINF:-1,RADIO BOMBO
+http://nr5.newradio.it:8749/;
+#EXTINF:-1,RADIO RETE SMASH
+http://nr3.newradio.it:8300/;
+#EXTINF:-1,RADIO T.R.C.
+http://sr3.inmystream.info:8018/;
+#EXTINF:-1,RADIO RETE 1 NETWORK
+http://dreamsiteradiocp3.com:8042/;
+#EXTINF:-1,RADIO YACHT
+http://94.23.67.172:9160
+#EXTINF:-1,RADIO DANCE 90
+http://37.247.49.19/105Dance90.mp3
+#EXTINF:-1,RADIOLINA
+http://stream.teknusi.org:8000/radiolina
+#EXTINF:-1,RADIO CLUB NETWORK CAGLIARI
+http://sh1.inmystream.info:8188/;
+#EXTINF:-1,RADIO X CAGLIARI
+http://eu1.fastcast4u.com:2014/stream?1478973936177.aac
+#EXTINF:-1,RADIO SARDINIA
+http://wma2.mediastreaming.it:80/radiosardinia
+#EXTINF:-1,RADIO FUSION
+http://91.121.38.216:8034/;
+#EXTINF:-1,RADIO BARBAGIA
+http://sr1.inmystream.info:9075/;
+#EXTINF:-1,RADIO JEANS
+http://streaming.radiojeans.net/rj_hiphop_rb
+#EXTINF:-1,L'ALTRA RADIO
+http://nr6.newradio.it:9182/;
+#EXTINF:-1,RADIO SKYLINE SOUL/JAZZ/BLUES/FUNK
+http://onair11.xdevel.com:8116/
+#EXTINF:-1,RADIO ALDEBARAN
+http://5.135.39.189:8026/
+#EXTINF:-1,RADIO STEREO
+http://trsw.inmystream.info:8068/
+#EXTINF:-1,RADIO RADICALE
+http://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,RADIO PADANIA LIBERA
+http://onair11.xdevel.com:9986/;stream.m4a
+#EXTINF:-1,RADIO MARIA
+http://50.7.181.186:8092/;stream.mp3
+#EXTINF:-1,RADIO MATER
+http://s3.shoutitaly.com:8016/
+#EXTINF:-1,RADIO INCONTRO DONNA
+http://nr7.newradio.it:9375/;stream.mp3
+#EXTINF:-1,RADIO VENERE
+http://onair18.xdevel.com:8018/;stream.m4a
+#EXTINF:-1,RADIO MAMBO
+http://stream1.mambo.it:8062/
+#EXTINF:-1,YES DANCE RADIO
+http://sr2.inmystream.info:8013/stream
+#EXTINF:-1,RADIO REMEMBER 70/80/90
+http://listen.radionomy.com/remember708090
+#EXTINF:-1,RADIO MAGENTA
+http://sr9.inmystream.info:8038
+#EXTINF:-1,RADIO STUDIO PIU'
+http://www.studiopiu.net:8000/
+#EXTINF:-1,RADIO PANDA
+http://178.32.139.167:8038/
+#EXTINF:-1,RADIO 8 FM
+http://streamradio1.tio.ch:80/
+#EXTINF:-1,RADIO 8 FM ITALY
+http://streamradio2.tio.ch:80/
+#EXTINF:-1,STUDIO RADIO
+http://91.121.38.216:8060/
+#EXTINF:-1,ANTENNA RADIO ESSE
+http://s8.mediastreaming.it:7580/
+#EXTINF:-1,BELLA RADIO
+http://server.bellaradio.it:8090/a1.mp3
+#EXTINF:-1,RADIO CENTRO SUONO SPORT
+http://www.radiocentrosuono.it:8000/rcss.m3u
+#EXTINF:-1,RADIO COUNTRY POWER STATION
+http://shoutcast.countrypowerstation.net:2199/tunein/cps.pls
+#EXTINF:-1,RADIO EASY NETWORK
+http://str01.fluidstream.net:6030/
+#EXTINF:-1,RADIO FM ITALIA
+http://onair7.xdevel.com:8700/
+#EXTINF:-1,GAMMA RADIO
+http://nr9.newradio.it:9071/
+#EXTINF:-1,RADIO QUEEN
+http://ascolta.no-ip.org:8000/
+#EXTINF:-1,RADIO ALCAMO CENTRALE
+http://onair11.xdevel.com:8214/
+#EXTINF:-1,RADIO BUDRIO
+http://audio1.meway.tv:8040/
+#EXTINF:-1,RADIO BUSSOLA 24
+http://rbussola01.as48500.net:8018/
+#EXTINF:-1,RADIO CENTRO 95
+http://194.116.73.162/radiocentro95.m3u
+#EXTINF:-1,RADIO DOLOMITI
+http://streaming.radiodolomiti.com:8068/
+#EXTINF:-1,RADIO DUE PUNTO ZERO
+http://www.radioduepuntozero.net/diretta56.m3u
+#EXTINF:-1,RADIO GALILEO
+http://85.47.51.98:8000/live.m3u
+#EXTINF:-1,RADIO GAMMA GIOIOSA
+http://www.gammagioiosa.net/radiogamma.m3u
+#EXTINF:-1,RADIO MILANO
+http://sh1.inmystream.info:8175/
+#EXTINF:-1,RADIO RECORD
+http://wma01.fluidstream.net:7170/
+#EXTINF:-1,RADIO REPORTER
+http://nr9.newradio.it:9085/listen.pls?sid=1
+#EXTINF:-1,RADIO VANESSA
+http://sr3.inmystream.info:8002/stream
+#EXTINF:-1,RADIO MELODY
+http://www.goldenradio.it/listen.m3u
+#EXTINF:-1,LAZIO STYLE RADIO
+http://176.31.117.120:8221/
+#EXTINF:-1,RADIO LIFEGATE SOUND
+http://onair15.xdevel.com:8254/
+#EXTINF:-1,RADIO GELOSA
+http://ice02.fluidstream.net/gelosa
+#EXTINF:-1,RADIO CARINA
+http://37.187.93.104:8054/stream
+#EXTINF:-1,RADIO CICCIORICCIO
+http://onair11.xdevel.com:8198/
+#EXTINF:-1,RADIO STEREO CITTA'
+http://onair7.xdevel.com:8746/
+#EXTINF:-1,RADIO ROSA
+http://onair15.xdevel.com:8100/
+#EXTINF:-1,RADIO LA FENICE CHANNEL
+http://nr9.newradio.it:9690/stream.mp3?1486762129626.mp3
+#EXTINF:-1,RADIO SELENE
+http://audio1.meway.tv:8032/;stream.nsv?1486762246654.mp3
+#EXTINF:-1,RADIO SUBY NICE
+http://onair7.xdevel.com:8702/;stream.nsv?1486762434493.mp3
+#EXTINF:-1,RADIO CAFE'
+http://onair7.xdevel.com:8744/;stream.nsv?1486762607955.mp3
+#EXTINF:-1,RADIO TOURING
+http://onair18.xdevel.com:8102/;stream.nsv?1486762805383.mp3
+#EXTINF:-1,RADIO MARGHERITA
+http://shoutcast.streamingmedia.it:7072/
+#EXTINF:-1,RADIO DIVA FM
+http://ice04.fluidstream.net/fluid0401.mp3
+#EXTINF:-1,RADIO FLY ITALIA
+http://sr4.inmystream.info:8075/stream
+#EXTINF:-1,RADIO PICO
+http://onair11.xdevel.com:8064/
+#EXTINF:-1,RADIO LISCIO E FOLK
+http://dj.mediastreaming.it:7012/
+#EXTINF:-1,RADIO ADIGE
+http://onair15.xdevel.com:8638/
+#EXTINF:-1,RADIO DIMENSIONE
+http://dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3
+#EXTINF:-1,RADIO MILLE NOTE
+http://ice12.fluidstream.net/millenote.mp3
+#EXTINF:-1,RADIO MANILA
+http://stream15.top-ix.org:80/radiomanila
+#EXTINF:-1,RADIO CIAO
+http://onair15.xdevel.com:8236/;
+#EXTINF:-1,RADIO RCS L'ONDA VERONESE
+http://164.132.178.50:8030/;stream.mp
+#EXTINF:-1,RADIO RAM POWER
+http://46.37.20.205:8000/ram
+#EXTINF:-1,RADIO PLAY STUDIO
+http://193.70.21.115:8000/;
+#EXTINF:-1,RADIO RETE SPORT
+http://5.152.159.31:8080/
+#EXTINF:-1,RADIO NON SOLO SUONI
+http://95.110.226.198:8000
+#EXTINF:-1,RADIO NUOVA SANGIORGIO
+http://eu1.fastcast4u.com:10942
+#EXTINF:-1,ITALIAN GRAFFIATI
+http://kos.broadstreamer.com:8500
+#EXTINF:-1,RADIO VATICANA
+http://live.vaticanwebradio.org/channel5.mp3
+#EXTINF:-1,RADIO SABBIA
+http://onair15.xdevel.com:8672/
+#EXTINF:-1,RADIO JUKEBOX
+http://onair15.xdevel.com:9096/
+#EXTINF:-1,RADIO MALVISI NETWORK
+http://onair20.xdevel.com:8062/
+#EXTINF:-1,Radio rsi rete 1
+http://lsaplus.swisstxt.ch/audio/reteuno_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 2
+http://lsaplus.swisstxt.ch/audio/retedue_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 3
+http://lsaplus.swisstxt.ch/audio/retetre_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio capodistria
+http://mp3.rtvslo.si/capo
+#EXTINF:-1,RADIO OLBIA WEB
+http://tachyon.shoutca.st/tunein/radioolbiaweb.pls
+#EXTINF:-1,RADIO ONDA LIGURE
+http://onair15.xdevel.com:8118/;stream.mp3
+#EXTINF:-1,RADIO SONICA 
+http://sr6.inmystream.info:8151/
+#EXTINF:-1,RADIO ACTION 
+http://onair11.xdevel.com:7986/;stream.mp3
+#EXTINF:-1,RADIO ORIZZONTE MOLISE
+http://s3.mediastreaming.it:7200/;stream.mp3
+#EXTINF:-1,RADIO VIVA FM
+http://stream2.vivafm.it:8002/
+#EXTINF:-1,RADIO SEMPRE VIVA
+http://stream2.vivafm.it:8000/
+#EXTINF:-1,RADIOSTUDIO DELTA
+http://92.222.155.230:7203/
+#EXTINF:-1,RADIO RADIO 104 FM ROMA 
+http://mp3.radioradio.it:8102
+#EXTINF:-1,RADIO ABRUZZO FM 
+http://sc1.streamingpulse.com:8004/;
+#EXTINF:-1,RADIO C1 PESCARA
+http://vps62853.ovh.net:9030/stream
+#EXTINF:-1,RADIO SKYPPER CHIETI 
+http://kos.broadstreamer.com:8700/
+#EXTINF:-1,RADIO R9 TERAMO
+http://178.32.136.9:9013/; 
+#EXTINF:-1,RADIO EMPIRE 
+http://onair11.xdevel.com:9996/;
+#EXTINF:-1,RADIO 2 BASILICATA
+http://sr1.inmystream.info:8333/;
+#EXTINF:-1,RADIO LASER MATERA
+http://sr1.inmystream.it:9002/;
+#EXTINF:-1,RADIO KOLBE MELFI
+http://radiokolbemelfi.ddns.net:1337/;
+#EXTINF:-1,RADIO POLI POTENZA
+http://poliradio.polimi.it:8000/mp3
+#EXTINF:-1,RADIO GENTE UMBRA 
+http://84.253.137.250:8000/;
+#EXTINF:-1,RADIO DOT FOLIGNO
+http://nr9.newradio.it:9504/; 
+#EXTINF:-1,RADIO ORTE TERNI
+http://onair18.xdevel.com:8122/;
+#EXTINF:-1,RADIO LUCE PERUGIA
+http://onair11.xdevel.com:8118/;
+#EXTINF:-1,RADIO ARANCIA NETWORK ANCONA
+http://ice03.fluidstream.net/arancia.mp3
+#EXTINF:-1,RADIO BACIO
+http://46.105.18.18:8000/stream/
+#EXTINF:-1,RADIO STUDIO SHOW
+http://ice12.fluidstream.net/fluid2314.mp3
+#EXTINF:-1,RADIO CHIOGGIA SOTTOMARINA
+http://stream.wifi4all.it:8000/rcs
+#EXTINF:-1,RADIO TREVISO
+http://s3.mediastreaming.it:7240/;
+#EXTINF:-1,RADIO VENETO UNO 
+http://62.149.171.91:8080/live
+#EXTINF:-1,RADIO SHERWOOD PADOVA
+http://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3
+#EXTINF:-1,RADIO BUE PADOVA
+http://147.162.19.241:8000/
+#EXTINF:-1,RADIO STELLA VICENZA
+http://onair11.xdevel.com:8108/;
+#EXTINF:-1,BLU RADIO VENETO PADOVA 
+http://ice07.fluidstream.net/fluid7610.mp3
+#EXTINF:-1,RADIO FANTASY
+http://www.radiofantasy.it:8000/stream3.mp3
+#EXTINF:-1,RADIO VENERE 
+http://onair18.xdevel.com:8018/;stream.mp3
+#EXTINF:-1,RADIO ONIX COMO 
+http://nr4.newradio.it:9432/stream?1507315890000 
+#EXTINF:-1,RADIO MARCONI 1(NEWS E MUSICA)
+http://onair15.xdevel.com:8922/;stream.mp3
+#EXTINF:-1,RADIO MARCONI 2(MUSICA CLASSICA)
+http://onair22.streaming.xdevel.com:7598/;stream.mp3
+
+
+
