@@ -24,15 +24,12 @@ http://.....
 
 
 
-
-
-
 #EXTINF:1 group-title=”UPDATED DATE”,
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -52,8 +49,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
 https://www.youtube.com/watch?v=t4RRga0RUr8
-
-
 
 
 
@@ -266,11 +261,6 @@ mmsh://wpso.com:200/kids?MSWMExt=.asf
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 ,MIX
 http://wpso.com:1936/hls/wzra.m3u8
-
-
-
-
-
 
 
 
@@ -772,6 +762,528 @@ rtmp://139.59.120.168:1935/live/docle1.stream
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”USA3/Canada-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+
+#EXTINF:-1,(US) CBS News
+http://31.220.2.50:25461/live/Free200/Free200/1477.m3u8
+#EXTINF:-1,(US) MLB Network
+http://31.220.2.50:25461/live/Free200/Free200/1480.m3u8
+#EXTINF:-1,(US) QVC
+http://31.220.2.50:25461/live/Free200/Free200/1481.m3u8
+#EXTINF:-1,(US) RT America
+http://31.220.2.50:25461/live/Free200/Free200/1479.m3u8
+#EXTINF:-1,(US) The Weather Channel
+http://31.220.2.50:25461/live/Free200/Free200/1478.m3u8
+#EXTINF:-1,(US) Big Ten Network
+http://31.220.2.50:25461/live/Free200/Free200/1116.m3u8
+#EXTINF:-1,(US) ESPN Deportes
+http://31.220.2.50:25461/live/Free200/Free200/1119.m3u8
+#EXTINF:-1,(US) Fox Sports 1
+http://31.220.2.50:25461/live/Free200/Free200/1122.m3u8
+#EXTINF:-1,(US) Fox Sports 2
+http://31.220.2.50:25461/live/Free200/Free200/1123.m3u8
+#EXTINF:-1,(US) Fox Sports Arizona
+http://31.220.2.50:25461/live/Free200/Free200/1124.m3u8
+#EXTINF:-1,(US) Fox Sports Detroit
+http://31.220.2.50:25461/live/Free200/Free200/1126.m3u8
+#EXTINF:-1,(US) Fox Sports Carolinas
+http://31.220.2.50:25461/live/Free200/Free200/1125.m3u8
+#EXTINF:-1,(US) Fox Sports Florida
+http://31.220.2.50:25461/live/Free200/Free200/1127.m3u8
+#EXTINF:-1,(US) Fox Sports Indiana
+http://31.220.2.50:25461/live/Free200/Free200/1128.m3u8
+#EXTINF:-1,(US) Fox Sports North
+http://31.220.2.50:25461/live/Free200/Free200/1129.m3u8
+#EXTINF:-1,(US) Fox Sports Ohio
+http://31.220.2.50:25461/live/Free200/Free200/1130.m3u8
+#EXTINF:-1,(US) Fox Sports Primeticket
+http://31.220.2.50:25461/live/Free200/Free200/1135.m3u8
+#EXTINF:-1,(US) Fox Sports San Diego
+http://31.220.2.50:25461/live/Free200/Free200/1131.m3u8
+#EXTINF:-1,(US) Fox Sports Sun
+http://31.220.2.50:25461/live/Free200/Free200/1136.m3u8
+#EXTINF:-1,(US) Fox Sports Tennessee
+http://31.220.2.50:25461/live/Free200/Free200/1132.m3u8
+#EXTINF:-1,(US) Fox Sports West
+http://31.220.2.50:25461/live/Free200/Free200/1137.m3u8
+#EXTINF:-1,(US) Fox Sports Wisconsin
+http://31.220.2.50:25461/live/Free200/Free200/1133.m3u8
+#EXTINF:-1,(US) Fox Yes Network
+http://31.220.2.50:25461/live/Free200/Free200/1134.m3u8
+#EXTINF:-1,(US) LongHorn Network
+http://31.220.2.50:25461/live/Free200/Free200/1138.m3u8
+#EXTINF:-1,(US) NBA Tv
+http://31.220.2.50:25461/live/Free200/Free200/1139.m3u8
+#EXTINF:-1,(US) NBC Golf
+http://31.220.2.50:25461/live/Free200/Free200/1140.m3u8
+#EXTINF:-1,(US) NBCSN
+http://31.220.2.50:25461/live/Free200/Free200/1141.m3u8
+#EXTINF:-1,(US) NESN
+http://31.220.2.50:25461/live/Free200/Free200/1142.m3u8
+#EXTINF:-1,(US) A&E
+http://31.220.2.50:25461/live/Free200/Free200/1355.m3u8
+#EXTINF:-1,(US) ABC
+http://31.220.2.50:25461/live/Free200/Free200/1354.m3u8
+#EXTINF:-1,(US) ABC East
+http://31.220.2.50:25461/live/Free200/Free200/1432.m3u8
+#EXTINF:-1,(US) ABC West
+http://31.220.2.50:25461/live/Free200/Free200/1431.m3u8
+#EXTINF:-1,(US) AMC
+http://31.220.2.50:25461/live/Free200/Free200/1430.m3u8
+#EXTINF:-1,(US) American Heroes Channel
+http://31.220.2.50:25461/live/Free200/Free200/1429.m3u8
+#EXTINF:-1,(US) Animal Planet
+http://31.220.2.50:25461/live/Free200/Free200/1353.m3u8
+#EXTINF:-1,(US) BBC America
+http://31.220.2.50:25461/live/Free200/Free200/1428.m3u8
+#EXTINF:-1,(US) BBC World News
+http://31.220.2.50:25461/live/Free200/Free200/1427.m3u8
+#EXTINF:-1,(US) Boomerang
+http://31.220.2.50:25461/live/Free200/Free200/1426.m3u8
+#EXTINF:-1,(US) BRAVO
+http://31.220.2.50:25461/live/Free200/Free200/1352.m3u8
+#EXTINF:-1,(US) Cartoon Network
+http://31.220.2.50:25461/live/Free200/Free200/1351.m3u8
+#EXTINF:-1,(US) CBS East
+http://31.220.2.50:25461/live/Free200/Free200/1425.m3u8
+#EXTINF:-1,(US) CBS West
+http://31.220.2.50:25461/live/Free200/Free200/1424.m3u8
+#EXTINF:-1,(US) Chiller
+http://31.220.2.50:25461/live/Free200/Free200/1423.m3u8
+#EXTINF:-1,(US) Cinemax East
+http://31.220.2.50:25461/live/Free200/Free200/1422.m3u8
+#EXTINF:-1,(US) Cinemax West
+http://31.220.2.50:25461/live/Free200/Free200/1421.m3u8
+#EXTINF:-1,(US) Cloo
+http://31.220.2.50:25461/live/Free200/Free200/1420.m3u8
+#EXTINF:-1,(US) CNBC
+http://31.220.2.50:25461/live/Free200/Free200/1419.m3u8
+#EXTINF:-1,(US) CNBC World
+http://31.220.2.50:25461/live/Free200/Free200/1418.m3u8
+#EXTINF:-1,(US) CNN
+http://31.220.2.50:25461/live/Free200/Free200/1417.m3u8
+#EXTINF:-1,(US) CNN Mexico
+http://31.220.2.50:25461/live/Free200/Free200/1416.m3u8
+#EXTINF:-1,(US) Comedy Central
+http://31.220.2.50:25461/live/Free200/Free200/1350.m3u8
+#EXTINF:-1,(US) CSPAN 1
+http://31.220.2.50:25461/live/Free200/Free200/1349.m3u8
+#EXTINF:-1,(US) CSPAN 2
+http://31.220.2.50:25461/live/Free200/Free200/1348.m3u8
+#EXTINF:-1,(US) CSPAN 3
+http://31.220.2.50:25461/live/Free200/Free200/1347.m3u8
+#EXTINF:-1,(US) CW
+http://31.220.2.50:25461/live/Free200/Free200/1346.m3u8
+#EXTINF:-1,(US) Destination America
+http://31.220.2.50:25461/live/Free200/Free200/1415.m3u8
+#EXTINF:-1,(US) Discovery
+http://31.220.2.50:25461/live/Free200/Free200/1345.m3u8
+#EXTINF:-1,(US) Discovery Familia
+http://31.220.2.50:25461/live/Free200/Free200/1414.m3u8
+#EXTINF:-1,(US) Discovery Family
+http://31.220.2.50:25461/live/Free200/Free200/1413.m3u8
+#EXTINF:-1,(US) Discovery Life
+http://31.220.2.50:25461/live/Free200/Free200/1412.m3u8
+#EXTINF:-1,(US) Discovery Spanish
+http://31.220.2.50:25461/live/Free200/Free200/1411.m3u8
+#EXTINF:-1,(US) Disney Channel
+http://31.220.2.50:25461/live/Free200/Free200/1410.m3u8
+#EXTINF:-1,(US) Disney Junior
+http://31.220.2.50:25461/live/Free200/Free200/1409.m3u8
+#EXTINF:-1,(US) Disney XD
+http://31.220.2.50:25461/live/Free200/Free200/1408.m3u8
+#EXTINF:-1,(US) DIY
+http://31.220.2.50:25461/live/Free200/Free200/1407.m3u8
+#EXTINF:-1,(US) E Network
+http://31.220.2.50:25461/live/Free200/Free200/1406.m3u8
+#EXTINF:-1,(US) EPIX Hits
+http://31.220.2.50:25461/live/Free200/Free200/1405.m3u8
+#EXTINF:-1,(US) Esquire
+http://31.220.2.50:25461/live/Free200/Free200/1404.m3u8
+#EXTINF:-1,(US) Food Network
+http://31.220.2.50:25461/live/Free200/Free200/1403.m3u8
+#EXTINF:-1,(US) FOX Business
+http://31.220.2.50:25461/live/Free200/Free200/1402.m3u8
+#EXTINF:-1,(US) FOX East
+http://31.220.2.50:25461/live/Free200/Free200/1401.m3u8
+#EXTINF:-1,(US) FOX Life
+http://31.220.2.50:25461/live/Free200/Free200/1400.m3u8
+#EXTINF:-1,(US) Fox News
+http://31.220.2.50:25461/live/Free200/Free200/1344.m3u8
+#EXTINF:-1,(US) FOX West
+http://31.220.2.50:25461/live/Free200/Free200/1399.m3u8
+#EXTINF:-1,(US) FOX
+http://31.220.2.50:25461/live/Free200/Free200/1343.m3u8
+#EXTINF:-1,(US) Freeform
+http://31.220.2.50:25461/live/Free200/Free200/1398.m3u8
+#EXTINF:-1,(US) Fusion
+http://31.220.2.50:25461/live/Free200/Free200/1397.m3u8
+#EXTINF:-1,(US) FX
+http://31.220.2.50:25461/live/Free200/Free200/1396.m3u8
+#EXTINF:-1,(US) FXM
+http://31.220.2.50:25461/live/Free200/Free200/1395.m3u8
+#EXTINF:-1,(US) FXX
+http://31.220.2.50:25461/live/Free200/Free200/1394.m3u8
+#EXTINF:-1,(US) GINX TV
+http://31.220.2.50:25461/live/Free200/Free200/1393.m3u8
+#EXTINF:-1,(US) Hallmark
+http://31.220.2.50:25461/live/Free200/Free200/1342.m3u8
+#EXTINF:-1,(US) HBO East
+http://31.220.2.50:25461/live/Free200/Free200/1392.m3u8
+#EXTINF:-1,(US) HBO West
+http://31.220.2.50:25461/live/Free200/Free200/1391.m3u8
+#EXTINF:-1,(US) HGTV
+http://31.220.2.50:25461/live/Free200/Free200/1390.m3u8
+#EXTINF:-1,(US) History
+http://31.220.2.50:25461/live/Free200/Free200/1341.m3u8
+#EXTINF:-1,(US) HLN
+http://31.220.2.50:25461/live/Free200/Free200/1389.m3u8
+#EXTINF:-1,(US) ID
+http://31.220.2.50:25461/live/Free200/Free200/1388.m3u8
+#EXTINF:-1,(US) IFC
+http://31.220.2.50:25461/live/Free200/Free200/1387.m3u8
+#EXTINF:-1,(US) LIFETIME
+http://31.220.2.50:25461/live/Free200/Free200/1340.m3u8
+#EXTINF:-1,(US) MGM
+http://31.220.2.50:25461/live/Free200/Free200/1386.m3u8
+#EXTINF:-1,(US) MSNBC
+http://31.220.2.50:25461/live/Free200/Free200/1385.m3u8
+#EXTINF:-1,(US) MY NetworkTV
+http://31.220.2.50:25461/live/Free200/Free200/1384.m3u8
+#EXTINF:-1,(US) MY NetworkTV West
+http://31.220.2.50:25461/live/Free200/Free200/1383.m3u8
+#EXTINF:-1,(US) Nat Geo
+http://31.220.2.50:25461/live/Free200/Free200/1382.m3u8
+#EXTINF:-1,(US) Nat Geo Mundo
+http://31.220.2.50:25461/live/Free200/Free200/1381.m3u8
+#EXTINF:-1,(US) NAT GEO WILD
+http://31.220.2.50:25461/live/Free200/Free200/1339.m3u8
+#EXTINF:-1,(US) NBC
+http://31.220.2.50:25461/live/Free200/Free200/1338.m3u8
+#EXTINF:-1,(US) NBC East
+http://31.220.2.50:25461/live/Free200/Free200/1380.m3u8
+#EXTINF:-1,(US) NBC West
+http://31.220.2.50:25461/live/Free200/Free200/1379.m3u8
+#EXTINF:-1,(US) NESN Plus
+http://31.220.2.50:25461/live/Free200/Free200/1143.m3u8
+#EXTINF:-1,(US) NFL Network
+http://31.220.2.50:25461/live/Free200/Free200/1145.m3u8
+#EXTINF:-1,(US) NFL RedZone
+http://31.220.2.50:25461/live/Free200/Free200/1144.m3u8
+#EXTINF:-1,(US) Nick
+http://31.220.2.50:25461/live/Free200/Free200/1337.m3u8
+#EXTINF:-1,(US) Olympic TV
+http://31.220.2.50:25461/live/Free200/Free200/1146.m3u8
+#EXTINF:-1,(US) One World Sports
+http://31.220.2.50:25461/live/Free200/Free200/1147.m3u8
+#EXTINF:-1,(US) Outside Television
+http://31.220.2.50:25461/live/Free200/Free200/1378.m3u8
+#EXTINF:-1,(US) OWN
+http://31.220.2.50:25461/live/Free200/Free200/1377.m3u8
+#EXTINF:-1,(US) Oxygen
+http://31.220.2.50:25461/live/Free200/Free200/1376.m3u8
+#EXTINF:-1,(US) Poker Central
+http://31.220.2.50:25461/live/Free200/Free200/1148.m3u8
+#EXTINF:-1,(US) POP
+http://31.220.2.50:25461/live/Free200/Free200/1375.m3u8
+#EXTINF:-1,(US) Science
+http://31.220.2.50:25461/live/Free200/Free200/1374.m3u8
+#EXTINF:-1,(US) SEC Network
+http://31.220.2.50:25461/live/Free200/Free200/1149.m3u8
+#EXTINF:-1,(US) Showtime East
+http://31.220.2.50:25461/live/Free200/Free200/1373.m3u8
+#EXTINF:-1,(US) Showtime West
+http://31.220.2.50:25461/live/Free200/Free200/1372.m3u8
+#EXTINF:-1,(US) Sony Movie Channel
+http://31.220.2.50:25461/live/Free200/Free200/1371.m3u8
+#EXTINF:-1,(US) Spike
+http://31.220.2.50:25461/live/Free200/Free200/1336.m3u8
+#EXTINF:-1,(US) Sprout
+http://31.220.2.50:25461/live/Free200/Free200/1370.m3u8
+#EXTINF:-1,(US) Sundance TV
+http://31.220.2.50:25461/live/Free200/Free200/1369.m3u8
+#EXTINF:-1,(US) SYFY
+http://31.220.2.50:25461/live/Free200/Free200/1335.m3u8
+#EXTINF:-1,(US) TBS
+http://31.220.2.50:25461/live/Free200/Free200/1368.m3u8
+#EXTINF:-1,(US) TCM
+http://31.220.2.50:25461/live/Free200/Free200/1367.m3u8
+#EXTINF:-1,(US) Telemundo East
+http://31.220.2.50:25461/live/Free200/Free200/1366.m3u8
+#EXTINF:-1,(US) Telemundo West
+http://31.220.2.50:25461/live/Free200/Free200/1365.m3u8
+#EXTINF:-1,(US) The Cooking Channel
+http://31.220.2.50:25461/live/Free200/Free200/1364.m3u8
+#EXTINF:-1,(US) TLC
+http://31.220.2.50:25461/live/Free200/Free200/1363.m3u8
+#EXTINF:-1,(US) TNT
+http://31.220.2.50:25461/live/Free200/Free200/1362.m3u8
+#EXTINF:-1,(US) Travel
+http://31.220.2.50:25461/live/Free200/Free200/1361.m3u8
+#EXTINF:-1,(US) TruTV
+http://31.220.2.50:25461/live/Free200/Free200/1360.m3u8
+#EXTINF:-1,(US) UFC Network
+http://31.220.2.50:25461/live/Free200/Free200/1150.m3u8
+#EXTINF:-1,(US) USA Network
+http://31.220.2.50:25461/live/Free200/Free200/1359.m3u8
+#EXTINF:-1,(US) Univision
+http://31.220.2.50:25461/live/Free200/Free200/1356.m3u8
+#EXTINF:-1,(US) Velocity
+http://31.220.2.50:25461/live/Free200/Free200/1358.m3u8
+#EXTINF:-1,(US) WETV
+http://31.220.2.50:25461/live/Free200/Free200/1357.m3u8
+#EXTINF:-1,(US) WWE Network
+http://31.220.2.50:25461/live/Free200/Free200/1151.m3u8
+#EXTINF:-1,(US) 5-Star Max
+http://31.220.2.50:25461/live/Free200/Free200/1446.m3u8
+#EXTINF:-1,(US) ABC News
+http://31.220.2.50:25461/live/Free200/Free200/1447.m3u8
+#EXTINF:-1,(US) ActionMax
+http://31.220.2.50:25461/live/Free200/Free200/1448.m3u8
+#EXTINF:-1,(US) BET
+http://31.220.2.50:25461/live/Free200/Free200/1433.m3u8
+#EXTINF:-1,(US) Bloomberg
+http://31.220.2.50:25461/live/Free200/Free200/1449.m3u8
+#EXTINF:-1,(US) CBS Sports Network
+http://31.220.2.50:25461/live/Free200/Free200/1450.m3u8
+#EXTINF:-1,(US) Cooking Channel
+http://31.220.2.50:25461/live/Free200/Free200/1435.m3u8
+#EXTINF:-1,(US) Epix
+http://31.220.2.50:25461/live/Free200/Free200/1436.m3u8
+#EXTINF:-1,(US) LMN
+http://31.220.2.50:25461/live/Free200/Free200/1437.m3u8
+#EXTINF:-1,(US) MoreMAX
+http://31.220.2.50:25461/live/Free200/Free200/1434.m3u8
+#EXTINF:-1,(US) Showcase
+http://31.220.2.50:25461/live/Free200/Free200/1441.m3u8
+#EXTINF:-1,(US) Showtime 2
+http://31.220.2.50:25461/live/Free200/Free200/1439.m3u8
+#EXTINF:-1,(US) Showtime Family
+http://31.220.2.50:25461/live/Free200/Free200/1440.m3u8
+#EXTINF:-1,(US) Tennis
+http://31.220.2.50:25461/live/Free200/Free200/1442.m3u8
+#EXTINF:-1,(US) VH1
+http://31.220.2.50:25461/live/Free200/Free200/1443.m3u8
+#EXTINF:-1,(US) Viceland
+http://31.220.2.50:25461/live/Free200/Free200/1444.m3u8
+#EXTINF:-1,(US) Weathernation
+http://31.220.2.50:25461/live/Free200/Free200/1445.m3u8
+#EXTINF:-1,(US) MavTV
+http://31.220.2.50:25461/live/Free200/Free200/1438.m3u8
+#EXTINF:-1,(US) ESPN News
+http://31.220.2.50:25461/live/Free200/Free200/1623.m3u8
+#EXTINF:-1,(US) ESPN U
+http://31.220.2.50:25461/live/Free200/Free200/1622.m3u8
+#EXTINF:-1,(US) Fox Soccer Plus
+http://31.220.2.50:25461/live/Free200/Free200/1526.m3u8
+#EXTINF:-1,(US) TSN 1
+http://31.220.2.50:25461/live/Free200/Free200/1581.m3u8
+#EXTINF:-1,(US) CMT
+http://31.220.2.50:25461/live/Free200/Free200/1626.m3u8
+#EXTINF:-1,(US) Logo
+http://31.220.2.50:25461/live/Free200/Free200/1625.m3u8
+#EXTINF:-1,(US) MTV
+http://31.220.2.50:25461/live/Free200/Free200/1627.m3u8
+
+
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=http://flagsinternational.com/wp-content/uploads/2015/03/canada025-180x180.jpg ,=CANADA=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1,(CA) A&E
+http://31.220.2.50:25461/live/Free200/Free200/1520.m3u8
+#EXTINF:-1,(CA) ABC Spark
+http://31.220.2.50:25461/live/Free200/Free200/1521.m3u8
+#EXTINF:-1,(CA) Animal Planet
+http://31.220.2.50:25461/live/Free200/Free200/1522.m3u8
+#EXTINF:-1,(CA) BNN
+http://31.220.2.50:25461/live/Free200/Free200/1523.m3u8
+#EXTINF:-1,(CA) Bravo
+http://31.220.2.50:25461/live/Free200/Free200/1524.m3u8
+#EXTINF:-1,(CA) CBC
+http://31.220.2.50:25461/live/Free200/Free200/1525.m3u8
+#EXTINF:-1,(CA) CBC News
+http://31.220.2.50:25461/live/Free200/Free200/1527.m3u8
+#EXTINF:-1,(CA) CBC Sports Network
+http://31.220.2.50:25461/live/Free200/Free200/1529.m3u8
+#EXTINF:-1,(CA) CBS
+http://31.220.2.50:25461/live/Free200/Free200/1528.m3u8
+#EXTINF:-1,(CA) Chard
+http://31.220.2.50:25461/live/Free200/Free200/1530.m3u8
+#EXTINF:-1,(CA) ChCh
+http://31.220.2.50:25461/live/Free200/Free200/1531.m3u8
+#EXTINF:-1,(CA) CityTV
+http://31.220.2.50:25461/live/Free200/Free200/1532.m3u8
+#EXTINF:-1,(CA) CNN
+http://31.220.2.50:25461/live/Free200/Free200/1533.m3u8
+#EXTINF:-1,(CA) Comedy
+http://31.220.2.50:25461/live/Free200/Free200/1534.m3u8
+#EXTINF:-1,(CA) Cooking
+http://31.220.2.50:25461/live/Free200/Free200/1535.m3u8
+#EXTINF:-1,(CA) CP24
+http://31.220.2.50:25461/live/Free200/Free200/1536.m3u8
+#EXTINF:-1,(CA) CTV
+http://31.220.2.50:25461/live/Free200/Free200/1537.m3u8
+#EXTINF:-1,(CA) Discovery
+http://31.220.2.50:25461/live/Free200/Free200/1538.m3u8
+#EXTINF:-1,(CA) Disney
+http://31.220.2.50:25461/live/Free200/Free200/1539.m3u8
+#EXTINF:-1,(CA) Disney Wes
+http://31.220.2.50:25461/live/Free200/Free200/1540.m3u8
+#EXTINF:-1,(CA) Disney XD
+http://31.220.2.50:25461/live/Free200/Free200/1543.m3u8
+#EXTINF:-1,(CA) Documentary
+http://31.220.2.50:25461/live/Free200/Free200/1541.m3u8
+#EXTINF:-1,(CA) DTour
+http://31.220.2.50:25461/live/Free200/Free200/1542.m3u8
+#EXTINF:-1,(CA) E!
+http://31.220.2.50:25461/live/Free200/Free200/1544.m3u8
+#EXTINF:-1,(CA) Food Network
+http://31.220.2.50:25461/live/Free200/Free200/1545.m3u8
+#EXTINF:-1,(CA) Fox
+http://31.220.2.50:25461/live/Free200/Free200/1546.m3u8
+#EXTINF:-1,(CA) Global BC
+http://31.220.2.50:25461/live/Free200/Free200/1550.m3u8
+#EXTINF:-1,(CA) GMA Life
+http://31.220.2.50:25461/live/Free200/Free200/1547.m3u8
+#EXTINF:-1,(CA) GMA Pinoy
+http://31.220.2.50:25461/live/Free200/Free200/1548.m3u8
+#EXTINF:-1,(CA) GSN
+http://31.220.2.50:25461/live/Free200/Free200/1549.m3u8
+#EXTINF:-1,(CA) HGTV
+http://31.220.2.50:25461/live/Free200/Free200/1553.m3u8
+#EXTINF:-1,(CA) HIFI
+http://31.220.2.50:25461/live/Free200/Free200/1551.m3u8
+#EXTINF:-1,(CA) History
+http://31.220.2.50:25461/live/Free200/Free200/1552.m3u8
+#EXTINF:-1,(CA) ICI
+http://31.220.2.50:25461/live/Free200/Free200/1554.m3u8
+#EXTINF:-1,(CA) ID
+http://31.220.2.50:25461/live/Free200/Free200/1555.m3u8
+#EXTINF:-1,(CA) K
+http://31.220.2.50:25461/live/Free200/Free200/1556.m3u8
+#EXTINF:-1,(CA) Lifetime
+http://31.220.2.50:25461/live/Free200/Free200/1559.m3u8
+#EXTINF:-1,(CA) Love Nature
+http://31.220.2.50:25461/live/Free200/Free200/1560.m3u8
+#EXTINF:-1,(CA) MovieTime
+http://31.220.2.50:25461/live/Free200/Free200/1561.m3u8
+#EXTINF:-1,(CA) Nat Geo Wild
+http://31.220.2.50:25461/live/Free200/Free200/1563.m3u8
+#EXTINF:-1,(CA) NBC
+http://31.220.2.50:25461/live/Free200/Free200/1564.m3u8
+#EXTINF:-1,(CA) Net Geo
+http://31.220.2.50:25461/live/Free200/Free200/1562.m3u8
+#EXTINF:-1,(CA) OMNI 1
+http://31.220.2.50:25461/live/Free200/Free200/1567.m3u8
+#EXTINF:-1,(CA) Omni2
+http://31.220.2.50:25461/live/Free200/Free200/1566.m3u8
+#EXTINF:-1,(CA) Onmi
+http://31.220.2.50:25461/live/Free200/Free200/1565.m3u8
+#EXTINF:-1,(CA) RDI
+http://31.220.2.50:25461/live/Free200/Free200/1568.m3u8
+#EXTINF:-1,(CA) ShowCase
+http://31.220.2.50:25461/live/Free200/Free200/1569.m3u8
+#EXTINF:-1,(CA) Slice
+http://31.220.2.50:25461/live/Free200/Free200/1570.m3u8
+#EXTINF:-1,(CA) SN 360
+http://31.220.2.50:25461/live/Free200/Free200/1571.m3u8
+#EXTINF:-1,(CA) SN East
+http://31.220.2.50:25461/live/Free200/Free200/1572.m3u8
+#EXTINF:-1,(CA) SN One
+http://31.220.2.50:25461/live/Free200/Free200/1573.m3u8
+#EXTINF:-1,(CA) SN Ontario
+http://31.220.2.50:25461/live/Free200/Free200/1574.m3u8
+#EXTINF:-1,(CA) SN Pacific
+http://31.220.2.50:25461/live/Free200/Free200/1575.m3u8
+#EXTINF:-1,(CA) SN West
+http://31.220.2.50:25461/live/Free200/Free200/1576.m3u8
+#EXTINF:-1,(CA) Teletoon
+http://31.220.2.50:25461/live/Free200/Free200/1579.m3u8
+#EXTINF:-1,(CA) TFC
+http://31.220.2.50:25461/live/Free200/Free200/1586.m3u8
+#EXTINF:-1,(CA) TMN 1E
+http://31.220.2.50:25461/live/Free200/Free200/1577.m3u8
+#EXTINF:-1,(CA) TMN 4E/1W
+http://31.220.2.50:25461/live/Free200/Free200/1578.m3u8
+#EXTINF:-1,(CA) Treehouse
+http://31.220.2.50:25461/live/Free200/Free200/1580.m3u8
+#EXTINF:-1,(CA) TSN 2
+http://31.220.2.50:25461/live/Free200/Free200/1582.m3u8
+#EXTINF:-1,(CA) TSN 3
+http://31.220.2.50:25461/live/Free200/Free200/1583.m3u8
+#EXTINF:-1,(CA) TSN 4
+http://31.220.2.50:25461/live/Free200/Free200/1584.m3u8
+#EXTINF:-1,(CA) TSN 5
+http://31.220.2.50:25461/live/Free200/Free200/1585.m3u8
+#EXTINF:-1,(CA) TVA
+http://31.220.2.50:25461/live/Free200/Free200/1589.m3u8
+#EXTINF:-1,(CA) TVO
+http://31.220.2.50:25461/live/Free200/Free200/1590.m3u8
+#EXTINF:-1,(CA) TVO Kids
+http://31.220.2.50:25461/live/Free200/Free200/1588.m3u8
+#EXTINF:-1,(CA) TWN
+http://31.220.2.50:25461/live/Free200/Free200/1587.m3u8
+#EXTINF:-1,(CA) W
+http://31.220.2.50:25461/live/Free200/Free200/1591.m3u8
+#EXTINF:-1,(CA) Yes
+http://31.220.2.50:25461/live/Free200/Free200/1592.m3u8
+#EXTINF:-1,(CA) YTV
+http://31.220.2.50:25461/live/Free200/Free200/1593.m3u8
 
 
 
@@ -1567,505 +2079,6 @@ http://173.212.206.199:25461/live/ksa/indep/642.ts|refferer=http://solidstreamz.
 
 
 
-
-
-
-
-
-#EXTINF:8 group-title=”USA4/Canada”,
-
-#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,(US) CBS News
-http://31.220.2.50:25461/live/Free200/Free200/1477.m3u8
-#EXTINF:-1,(US) MLB Network
-http://31.220.2.50:25461/live/Free200/Free200/1480.m3u8
-#EXTINF:-1,(US) QVC
-http://31.220.2.50:25461/live/Free200/Free200/1481.m3u8
-#EXTINF:-1,(US) RT America
-http://31.220.2.50:25461/live/Free200/Free200/1479.m3u8
-#EXTINF:-1,(US) The Weather Channel
-http://31.220.2.50:25461/live/Free200/Free200/1478.m3u8
-#EXTINF:-1,(US) Big Ten Network
-http://31.220.2.50:25461/live/Free200/Free200/1116.m3u8
-#EXTINF:-1,(US) ESPN Deportes
-http://31.220.2.50:25461/live/Free200/Free200/1119.m3u8
-#EXTINF:-1,(US) Fox Sports 1
-http://31.220.2.50:25461/live/Free200/Free200/1122.m3u8
-#EXTINF:-1,(US) Fox Sports 2
-http://31.220.2.50:25461/live/Free200/Free200/1123.m3u8
-#EXTINF:-1,(US) Fox Sports Arizona
-http://31.220.2.50:25461/live/Free200/Free200/1124.m3u8
-#EXTINF:-1,(US) Fox Sports Detroit
-http://31.220.2.50:25461/live/Free200/Free200/1126.m3u8
-#EXTINF:-1,(US) Fox Sports Carolinas
-http://31.220.2.50:25461/live/Free200/Free200/1125.m3u8
-#EXTINF:-1,(US) Fox Sports Florida
-http://31.220.2.50:25461/live/Free200/Free200/1127.m3u8
-#EXTINF:-1,(US) Fox Sports Indiana
-http://31.220.2.50:25461/live/Free200/Free200/1128.m3u8
-#EXTINF:-1,(US) Fox Sports North
-http://31.220.2.50:25461/live/Free200/Free200/1129.m3u8
-#EXTINF:-1,(US) Fox Sports Ohio
-http://31.220.2.50:25461/live/Free200/Free200/1130.m3u8
-#EXTINF:-1,(US) Fox Sports Primeticket
-http://31.220.2.50:25461/live/Free200/Free200/1135.m3u8
-#EXTINF:-1,(US) Fox Sports San Diego
-http://31.220.2.50:25461/live/Free200/Free200/1131.m3u8
-#EXTINF:-1,(US) Fox Sports Sun
-http://31.220.2.50:25461/live/Free200/Free200/1136.m3u8
-#EXTINF:-1,(US) Fox Sports Tennessee
-http://31.220.2.50:25461/live/Free200/Free200/1132.m3u8
-#EXTINF:-1,(US) Fox Sports West
-http://31.220.2.50:25461/live/Free200/Free200/1137.m3u8
-#EXTINF:-1,(US) Fox Sports Wisconsin
-http://31.220.2.50:25461/live/Free200/Free200/1133.m3u8
-#EXTINF:-1,(US) Fox Yes Network
-http://31.220.2.50:25461/live/Free200/Free200/1134.m3u8
-#EXTINF:-1,(US) LongHorn Network
-http://31.220.2.50:25461/live/Free200/Free200/1138.m3u8
-#EXTINF:-1,(US) NBA Tv
-http://31.220.2.50:25461/live/Free200/Free200/1139.m3u8
-#EXTINF:-1,(US) NBC Golf
-http://31.220.2.50:25461/live/Free200/Free200/1140.m3u8
-#EXTINF:-1,(US) NBCSN
-http://31.220.2.50:25461/live/Free200/Free200/1141.m3u8
-#EXTINF:-1,(US) NESN
-http://31.220.2.50:25461/live/Free200/Free200/1142.m3u8
-#EXTINF:-1,(US) A&E
-http://31.220.2.50:25461/live/Free200/Free200/1355.m3u8
-#EXTINF:-1,(US) ABC
-http://31.220.2.50:25461/live/Free200/Free200/1354.m3u8
-#EXTINF:-1,(US) ABC East
-http://31.220.2.50:25461/live/Free200/Free200/1432.m3u8
-#EXTINF:-1,(US) ABC West
-http://31.220.2.50:25461/live/Free200/Free200/1431.m3u8
-#EXTINF:-1,(US) AMC
-http://31.220.2.50:25461/live/Free200/Free200/1430.m3u8
-#EXTINF:-1,(US) American Heroes Channel
-http://31.220.2.50:25461/live/Free200/Free200/1429.m3u8
-#EXTINF:-1,(US) Animal Planet
-http://31.220.2.50:25461/live/Free200/Free200/1353.m3u8
-#EXTINF:-1,(US) BBC America
-http://31.220.2.50:25461/live/Free200/Free200/1428.m3u8
-#EXTINF:-1,(US) BBC World News
-http://31.220.2.50:25461/live/Free200/Free200/1427.m3u8
-#EXTINF:-1,(US) Boomerang
-http://31.220.2.50:25461/live/Free200/Free200/1426.m3u8
-#EXTINF:-1,(US) BRAVO
-http://31.220.2.50:25461/live/Free200/Free200/1352.m3u8
-#EXTINF:-1,(US) Cartoon Network
-http://31.220.2.50:25461/live/Free200/Free200/1351.m3u8
-#EXTINF:-1,(US) CBS East
-http://31.220.2.50:25461/live/Free200/Free200/1425.m3u8
-#EXTINF:-1,(US) CBS West
-http://31.220.2.50:25461/live/Free200/Free200/1424.m3u8
-#EXTINF:-1,(US) Chiller
-http://31.220.2.50:25461/live/Free200/Free200/1423.m3u8
-#EXTINF:-1,(US) Cinemax East
-http://31.220.2.50:25461/live/Free200/Free200/1422.m3u8
-#EXTINF:-1,(US) Cinemax West
-http://31.220.2.50:25461/live/Free200/Free200/1421.m3u8
-#EXTINF:-1,(US) Cloo
-http://31.220.2.50:25461/live/Free200/Free200/1420.m3u8
-#EXTINF:-1,(US) CNBC
-http://31.220.2.50:25461/live/Free200/Free200/1419.m3u8
-#EXTINF:-1,(US) CNBC World
-http://31.220.2.50:25461/live/Free200/Free200/1418.m3u8
-#EXTINF:-1,(US) CNN
-http://31.220.2.50:25461/live/Free200/Free200/1417.m3u8
-#EXTINF:-1,(US) CNN Mexico
-http://31.220.2.50:25461/live/Free200/Free200/1416.m3u8
-#EXTINF:-1,(US) Comedy Central
-http://31.220.2.50:25461/live/Free200/Free200/1350.m3u8
-#EXTINF:-1,(US) CSPAN 1
-http://31.220.2.50:25461/live/Free200/Free200/1349.m3u8
-#EXTINF:-1,(US) CSPAN 2
-http://31.220.2.50:25461/live/Free200/Free200/1348.m3u8
-#EXTINF:-1,(US) CSPAN 3
-http://31.220.2.50:25461/live/Free200/Free200/1347.m3u8
-#EXTINF:-1,(US) CW
-http://31.220.2.50:25461/live/Free200/Free200/1346.m3u8
-#EXTINF:-1,(US) Destination America
-http://31.220.2.50:25461/live/Free200/Free200/1415.m3u8
-#EXTINF:-1,(US) Discovery
-http://31.220.2.50:25461/live/Free200/Free200/1345.m3u8
-#EXTINF:-1,(US) Discovery Familia
-http://31.220.2.50:25461/live/Free200/Free200/1414.m3u8
-#EXTINF:-1,(US) Discovery Family
-http://31.220.2.50:25461/live/Free200/Free200/1413.m3u8
-#EXTINF:-1,(US) Discovery Life
-http://31.220.2.50:25461/live/Free200/Free200/1412.m3u8
-#EXTINF:-1,(US) Discovery Spanish
-http://31.220.2.50:25461/live/Free200/Free200/1411.m3u8
-#EXTINF:-1,(US) Disney Channel
-http://31.220.2.50:25461/live/Free200/Free200/1410.m3u8
-#EXTINF:-1,(US) Disney Junior
-http://31.220.2.50:25461/live/Free200/Free200/1409.m3u8
-#EXTINF:-1,(US) Disney XD
-http://31.220.2.50:25461/live/Free200/Free200/1408.m3u8
-#EXTINF:-1,(US) DIY
-http://31.220.2.50:25461/live/Free200/Free200/1407.m3u8
-#EXTINF:-1,(US) E Network
-http://31.220.2.50:25461/live/Free200/Free200/1406.m3u8
-#EXTINF:-1,(US) EPIX Hits
-http://31.220.2.50:25461/live/Free200/Free200/1405.m3u8
-#EXTINF:-1,(US) Esquire
-http://31.220.2.50:25461/live/Free200/Free200/1404.m3u8
-#EXTINF:-1,(US) Food Network
-http://31.220.2.50:25461/live/Free200/Free200/1403.m3u8
-#EXTINF:-1,(US) FOX Business
-http://31.220.2.50:25461/live/Free200/Free200/1402.m3u8
-#EXTINF:-1,(US) FOX East
-http://31.220.2.50:25461/live/Free200/Free200/1401.m3u8
-#EXTINF:-1,(US) FOX Life
-http://31.220.2.50:25461/live/Free200/Free200/1400.m3u8
-#EXTINF:-1,(US) Fox News
-http://31.220.2.50:25461/live/Free200/Free200/1344.m3u8
-#EXTINF:-1,(US) FOX West
-http://31.220.2.50:25461/live/Free200/Free200/1399.m3u8
-#EXTINF:-1,(US) FOX
-http://31.220.2.50:25461/live/Free200/Free200/1343.m3u8
-#EXTINF:-1,(US) Freeform
-http://31.220.2.50:25461/live/Free200/Free200/1398.m3u8
-#EXTINF:-1,(US) Fusion
-http://31.220.2.50:25461/live/Free200/Free200/1397.m3u8
-#EXTINF:-1,(US) FX
-http://31.220.2.50:25461/live/Free200/Free200/1396.m3u8
-#EXTINF:-1,(US) FXM
-http://31.220.2.50:25461/live/Free200/Free200/1395.m3u8
-#EXTINF:-1,(US) FXX
-http://31.220.2.50:25461/live/Free200/Free200/1394.m3u8
-#EXTINF:-1,(US) GINX TV
-http://31.220.2.50:25461/live/Free200/Free200/1393.m3u8
-#EXTINF:-1,(US) Hallmark
-http://31.220.2.50:25461/live/Free200/Free200/1342.m3u8
-#EXTINF:-1,(US) HBO East
-http://31.220.2.50:25461/live/Free200/Free200/1392.m3u8
-#EXTINF:-1,(US) HBO West
-http://31.220.2.50:25461/live/Free200/Free200/1391.m3u8
-#EXTINF:-1,(US) HGTV
-http://31.220.2.50:25461/live/Free200/Free200/1390.m3u8
-#EXTINF:-1,(US) History
-http://31.220.2.50:25461/live/Free200/Free200/1341.m3u8
-#EXTINF:-1,(US) HLN
-http://31.220.2.50:25461/live/Free200/Free200/1389.m3u8
-#EXTINF:-1,(US) ID
-http://31.220.2.50:25461/live/Free200/Free200/1388.m3u8
-#EXTINF:-1,(US) IFC
-http://31.220.2.50:25461/live/Free200/Free200/1387.m3u8
-#EXTINF:-1,(US) LIFETIME
-http://31.220.2.50:25461/live/Free200/Free200/1340.m3u8
-#EXTINF:-1,(US) MGM
-http://31.220.2.50:25461/live/Free200/Free200/1386.m3u8
-#EXTINF:-1,(US) MSNBC
-http://31.220.2.50:25461/live/Free200/Free200/1385.m3u8
-#EXTINF:-1,(US) MY NetworkTV
-http://31.220.2.50:25461/live/Free200/Free200/1384.m3u8
-#EXTINF:-1,(US) MY NetworkTV West
-http://31.220.2.50:25461/live/Free200/Free200/1383.m3u8
-#EXTINF:-1,(US) Nat Geo
-http://31.220.2.50:25461/live/Free200/Free200/1382.m3u8
-#EXTINF:-1,(US) Nat Geo Mundo
-http://31.220.2.50:25461/live/Free200/Free200/1381.m3u8
-#EXTINF:-1,(US) NAT GEO WILD
-http://31.220.2.50:25461/live/Free200/Free200/1339.m3u8
-#EXTINF:-1,(US) NBC
-http://31.220.2.50:25461/live/Free200/Free200/1338.m3u8
-#EXTINF:-1,(US) NBC East
-http://31.220.2.50:25461/live/Free200/Free200/1380.m3u8
-#EXTINF:-1,(US) NBC West
-http://31.220.2.50:25461/live/Free200/Free200/1379.m3u8
-#EXTINF:-1,(US) NESN Plus
-http://31.220.2.50:25461/live/Free200/Free200/1143.m3u8
-#EXTINF:-1,(US) NFL Network
-http://31.220.2.50:25461/live/Free200/Free200/1145.m3u8
-#EXTINF:-1,(US) NFL RedZone
-http://31.220.2.50:25461/live/Free200/Free200/1144.m3u8
-#EXTINF:-1,(US) Nick
-http://31.220.2.50:25461/live/Free200/Free200/1337.m3u8
-#EXTINF:-1,(US) Olympic TV
-http://31.220.2.50:25461/live/Free200/Free200/1146.m3u8
-#EXTINF:-1,(US) One World Sports
-http://31.220.2.50:25461/live/Free200/Free200/1147.m3u8
-#EXTINF:-1,(US) Outside Television
-http://31.220.2.50:25461/live/Free200/Free200/1378.m3u8
-#EXTINF:-1,(US) OWN
-http://31.220.2.50:25461/live/Free200/Free200/1377.m3u8
-#EXTINF:-1,(US) Oxygen
-http://31.220.2.50:25461/live/Free200/Free200/1376.m3u8
-#EXTINF:-1,(US) Poker Central
-http://31.220.2.50:25461/live/Free200/Free200/1148.m3u8
-#EXTINF:-1,(US) POP
-http://31.220.2.50:25461/live/Free200/Free200/1375.m3u8
-#EXTINF:-1,(US) Science
-http://31.220.2.50:25461/live/Free200/Free200/1374.m3u8
-#EXTINF:-1,(US) SEC Network
-http://31.220.2.50:25461/live/Free200/Free200/1149.m3u8
-#EXTINF:-1,(US) Showtime East
-http://31.220.2.50:25461/live/Free200/Free200/1373.m3u8
-#EXTINF:-1,(US) Showtime West
-http://31.220.2.50:25461/live/Free200/Free200/1372.m3u8
-#EXTINF:-1,(US) Sony Movie Channel
-http://31.220.2.50:25461/live/Free200/Free200/1371.m3u8
-#EXTINF:-1,(US) Spike
-http://31.220.2.50:25461/live/Free200/Free200/1336.m3u8
-#EXTINF:-1,(US) Sprout
-http://31.220.2.50:25461/live/Free200/Free200/1370.m3u8
-#EXTINF:-1,(US) Sundance TV
-http://31.220.2.50:25461/live/Free200/Free200/1369.m3u8
-#EXTINF:-1,(US) SYFY
-http://31.220.2.50:25461/live/Free200/Free200/1335.m3u8
-#EXTINF:-1,(US) TBS
-http://31.220.2.50:25461/live/Free200/Free200/1368.m3u8
-#EXTINF:-1,(US) TCM
-http://31.220.2.50:25461/live/Free200/Free200/1367.m3u8
-#EXTINF:-1,(US) Telemundo East
-http://31.220.2.50:25461/live/Free200/Free200/1366.m3u8
-#EXTINF:-1,(US) Telemundo West
-http://31.220.2.50:25461/live/Free200/Free200/1365.m3u8
-#EXTINF:-1,(US) The Cooking Channel
-http://31.220.2.50:25461/live/Free200/Free200/1364.m3u8
-#EXTINF:-1,(US) TLC
-http://31.220.2.50:25461/live/Free200/Free200/1363.m3u8
-#EXTINF:-1,(US) TNT
-http://31.220.2.50:25461/live/Free200/Free200/1362.m3u8
-#EXTINF:-1,(US) Travel
-http://31.220.2.50:25461/live/Free200/Free200/1361.m3u8
-#EXTINF:-1,(US) TruTV
-http://31.220.2.50:25461/live/Free200/Free200/1360.m3u8
-#EXTINF:-1,(US) UFC Network
-http://31.220.2.50:25461/live/Free200/Free200/1150.m3u8
-#EXTINF:-1,(US) USA Network
-http://31.220.2.50:25461/live/Free200/Free200/1359.m3u8
-#EXTINF:-1,(US) Univision
-http://31.220.2.50:25461/live/Free200/Free200/1356.m3u8
-#EXTINF:-1,(US) Velocity
-http://31.220.2.50:25461/live/Free200/Free200/1358.m3u8
-#EXTINF:-1,(US) WETV
-http://31.220.2.50:25461/live/Free200/Free200/1357.m3u8
-#EXTINF:-1,(US) WWE Network
-http://31.220.2.50:25461/live/Free200/Free200/1151.m3u8
-#EXTINF:-1,(US) 5-Star Max
-http://31.220.2.50:25461/live/Free200/Free200/1446.m3u8
-#EXTINF:-1,(US) ABC News
-http://31.220.2.50:25461/live/Free200/Free200/1447.m3u8
-#EXTINF:-1,(US) ActionMax
-http://31.220.2.50:25461/live/Free200/Free200/1448.m3u8
-#EXTINF:-1,(US) BET
-http://31.220.2.50:25461/live/Free200/Free200/1433.m3u8
-#EXTINF:-1,(US) Bloomberg
-http://31.220.2.50:25461/live/Free200/Free200/1449.m3u8
-#EXTINF:-1,(US) CBS Sports Network
-http://31.220.2.50:25461/live/Free200/Free200/1450.m3u8
-#EXTINF:-1,(US) Cooking Channel
-http://31.220.2.50:25461/live/Free200/Free200/1435.m3u8
-#EXTINF:-1,(US) Epix
-http://31.220.2.50:25461/live/Free200/Free200/1436.m3u8
-#EXTINF:-1,(US) LMN
-http://31.220.2.50:25461/live/Free200/Free200/1437.m3u8
-#EXTINF:-1,(US) MoreMAX
-http://31.220.2.50:25461/live/Free200/Free200/1434.m3u8
-#EXTINF:-1,(US) Showcase
-http://31.220.2.50:25461/live/Free200/Free200/1441.m3u8
-#EXTINF:-1,(US) Showtime 2
-http://31.220.2.50:25461/live/Free200/Free200/1439.m3u8
-#EXTINF:-1,(US) Showtime Family
-http://31.220.2.50:25461/live/Free200/Free200/1440.m3u8
-#EXTINF:-1,(US) Tennis
-http://31.220.2.50:25461/live/Free200/Free200/1442.m3u8
-#EXTINF:-1,(US) VH1
-http://31.220.2.50:25461/live/Free200/Free200/1443.m3u8
-#EXTINF:-1,(US) Viceland
-http://31.220.2.50:25461/live/Free200/Free200/1444.m3u8
-#EXTINF:-1,(US) Weathernation
-http://31.220.2.50:25461/live/Free200/Free200/1445.m3u8
-#EXTINF:-1,(US) MavTV
-http://31.220.2.50:25461/live/Free200/Free200/1438.m3u8
-#EXTINF:-1,(US) ESPN News
-http://31.220.2.50:25461/live/Free200/Free200/1623.m3u8
-#EXTINF:-1,(US) ESPN U
-http://31.220.2.50:25461/live/Free200/Free200/1622.m3u8
-#EXTINF:-1,(US) Fox Soccer Plus
-http://31.220.2.50:25461/live/Free200/Free200/1526.m3u8
-#EXTINF:-1,(US) TSN 1
-http://31.220.2.50:25461/live/Free200/Free200/1581.m3u8
-#EXTINF:-1,(US) CMT
-http://31.220.2.50:25461/live/Free200/Free200/1626.m3u8
-#EXTINF:-1,(US) Logo
-http://31.220.2.50:25461/live/Free200/Free200/1625.m3u8
-#EXTINF:-1,(US) MTV
-http://31.220.2.50:25461/live/Free200/Free200/1627.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
-http://........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
-http://........
-#EXTINF:-1 tvg-logo=http://flagsinternational.com/wp-content/uploads/2015/03/canada025-180x180.jpg ,=CANADA=
-http://........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
-http://........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
-http://........
-#EXTINF:-1,(CA) A&E
-http://31.220.2.50:25461/live/Free200/Free200/1520.m3u8
-#EXTINF:-1,(CA) ABC Spark
-http://31.220.2.50:25461/live/Free200/Free200/1521.m3u8
-#EXTINF:-1,(CA) Animal Planet
-http://31.220.2.50:25461/live/Free200/Free200/1522.m3u8
-#EXTINF:-1,(CA) BNN
-http://31.220.2.50:25461/live/Free200/Free200/1523.m3u8
-#EXTINF:-1,(CA) Bravo
-http://31.220.2.50:25461/live/Free200/Free200/1524.m3u8
-#EXTINF:-1,(CA) CBC
-http://31.220.2.50:25461/live/Free200/Free200/1525.m3u8
-#EXTINF:-1,(CA) CBC News
-http://31.220.2.50:25461/live/Free200/Free200/1527.m3u8
-#EXTINF:-1,(CA) CBC Sports Network
-http://31.220.2.50:25461/live/Free200/Free200/1529.m3u8
-#EXTINF:-1,(CA) CBS
-http://31.220.2.50:25461/live/Free200/Free200/1528.m3u8
-#EXTINF:-1,(CA) Chard
-http://31.220.2.50:25461/live/Free200/Free200/1530.m3u8
-#EXTINF:-1,(CA) ChCh
-http://31.220.2.50:25461/live/Free200/Free200/1531.m3u8
-#EXTINF:-1,(CA) CityTV
-http://31.220.2.50:25461/live/Free200/Free200/1532.m3u8
-#EXTINF:-1,(CA) CNN
-http://31.220.2.50:25461/live/Free200/Free200/1533.m3u8
-#EXTINF:-1,(CA) Comedy
-http://31.220.2.50:25461/live/Free200/Free200/1534.m3u8
-#EXTINF:-1,(CA) Cooking
-http://31.220.2.50:25461/live/Free200/Free200/1535.m3u8
-#EXTINF:-1,(CA) CP24
-http://31.220.2.50:25461/live/Free200/Free200/1536.m3u8
-#EXTINF:-1,(CA) CTV
-http://31.220.2.50:25461/live/Free200/Free200/1537.m3u8
-#EXTINF:-1,(CA) Discovery
-http://31.220.2.50:25461/live/Free200/Free200/1538.m3u8
-#EXTINF:-1,(CA) Disney
-http://31.220.2.50:25461/live/Free200/Free200/1539.m3u8
-#EXTINF:-1,(CA) Disney Wes
-http://31.220.2.50:25461/live/Free200/Free200/1540.m3u8
-#EXTINF:-1,(CA) Disney XD
-http://31.220.2.50:25461/live/Free200/Free200/1543.m3u8
-#EXTINF:-1,(CA) Documentary
-http://31.220.2.50:25461/live/Free200/Free200/1541.m3u8
-#EXTINF:-1,(CA) DTour
-http://31.220.2.50:25461/live/Free200/Free200/1542.m3u8
-#EXTINF:-1,(CA) E!
-http://31.220.2.50:25461/live/Free200/Free200/1544.m3u8
-#EXTINF:-1,(CA) Food Network
-http://31.220.2.50:25461/live/Free200/Free200/1545.m3u8
-#EXTINF:-1,(CA) Fox
-http://31.220.2.50:25461/live/Free200/Free200/1546.m3u8
-#EXTINF:-1,(CA) Global BC
-http://31.220.2.50:25461/live/Free200/Free200/1550.m3u8
-#EXTINF:-1,(CA) GMA Life
-http://31.220.2.50:25461/live/Free200/Free200/1547.m3u8
-#EXTINF:-1,(CA) GMA Pinoy
-http://31.220.2.50:25461/live/Free200/Free200/1548.m3u8
-#EXTINF:-1,(CA) GSN
-http://31.220.2.50:25461/live/Free200/Free200/1549.m3u8
-#EXTINF:-1,(CA) HGTV
-http://31.220.2.50:25461/live/Free200/Free200/1553.m3u8
-#EXTINF:-1,(CA) HIFI
-http://31.220.2.50:25461/live/Free200/Free200/1551.m3u8
-#EXTINF:-1,(CA) History
-http://31.220.2.50:25461/live/Free200/Free200/1552.m3u8
-#EXTINF:-1,(CA) ICI
-http://31.220.2.50:25461/live/Free200/Free200/1554.m3u8
-#EXTINF:-1,(CA) ID
-http://31.220.2.50:25461/live/Free200/Free200/1555.m3u8
-#EXTINF:-1,(CA) K
-http://31.220.2.50:25461/live/Free200/Free200/1556.m3u8
-#EXTINF:-1,(CA) Lifetime
-http://31.220.2.50:25461/live/Free200/Free200/1559.m3u8
-#EXTINF:-1,(CA) Love Nature
-http://31.220.2.50:25461/live/Free200/Free200/1560.m3u8
-#EXTINF:-1,(CA) MovieTime
-http://31.220.2.50:25461/live/Free200/Free200/1561.m3u8
-#EXTINF:-1,(CA) Nat Geo Wild
-http://31.220.2.50:25461/live/Free200/Free200/1563.m3u8
-#EXTINF:-1,(CA) NBC
-http://31.220.2.50:25461/live/Free200/Free200/1564.m3u8
-#EXTINF:-1,(CA) Net Geo
-http://31.220.2.50:25461/live/Free200/Free200/1562.m3u8
-#EXTINF:-1,(CA) OMNI 1
-http://31.220.2.50:25461/live/Free200/Free200/1567.m3u8
-#EXTINF:-1,(CA) Omni2
-http://31.220.2.50:25461/live/Free200/Free200/1566.m3u8
-#EXTINF:-1,(CA) Onmi
-http://31.220.2.50:25461/live/Free200/Free200/1565.m3u8
-#EXTINF:-1,(CA) RDI
-http://31.220.2.50:25461/live/Free200/Free200/1568.m3u8
-#EXTINF:-1,(CA) ShowCase
-http://31.220.2.50:25461/live/Free200/Free200/1569.m3u8
-#EXTINF:-1,(CA) Slice
-http://31.220.2.50:25461/live/Free200/Free200/1570.m3u8
-#EXTINF:-1,(CA) SN 360
-http://31.220.2.50:25461/live/Free200/Free200/1571.m3u8
-#EXTINF:-1,(CA) SN East
-http://31.220.2.50:25461/live/Free200/Free200/1572.m3u8
-#EXTINF:-1,(CA) SN One
-http://31.220.2.50:25461/live/Free200/Free200/1573.m3u8
-#EXTINF:-1,(CA) SN Ontario
-http://31.220.2.50:25461/live/Free200/Free200/1574.m3u8
-#EXTINF:-1,(CA) SN Pacific
-http://31.220.2.50:25461/live/Free200/Free200/1575.m3u8
-#EXTINF:-1,(CA) SN West
-http://31.220.2.50:25461/live/Free200/Free200/1576.m3u8
-#EXTINF:-1,(CA) Teletoon
-http://31.220.2.50:25461/live/Free200/Free200/1579.m3u8
-#EXTINF:-1,(CA) TFC
-http://31.220.2.50:25461/live/Free200/Free200/1586.m3u8
-#EXTINF:-1,(CA) TMN 1E
-http://31.220.2.50:25461/live/Free200/Free200/1577.m3u8
-#EXTINF:-1,(CA) TMN 4E/1W
-http://31.220.2.50:25461/live/Free200/Free200/1578.m3u8
-#EXTINF:-1,(CA) Treehouse
-http://31.220.2.50:25461/live/Free200/Free200/1580.m3u8
-#EXTINF:-1,(CA) TSN 2
-http://31.220.2.50:25461/live/Free200/Free200/1582.m3u8
-#EXTINF:-1,(CA) TSN 3
-http://31.220.2.50:25461/live/Free200/Free200/1583.m3u8
-#EXTINF:-1,(CA) TSN 4
-http://31.220.2.50:25461/live/Free200/Free200/1584.m3u8
-#EXTINF:-1,(CA) TSN 5
-http://31.220.2.50:25461/live/Free200/Free200/1585.m3u8
-#EXTINF:-1,(CA) TVA
-http://31.220.2.50:25461/live/Free200/Free200/1589.m3u8
-#EXTINF:-1,(CA) TVO
-http://31.220.2.50:25461/live/Free200/Free200/1590.m3u8
-#EXTINF:-1,(CA) TVO Kids
-http://31.220.2.50:25461/live/Free200/Free200/1588.m3u8
-#EXTINF:-1,(CA) TWN
-http://31.220.2.50:25461/live/Free200/Free200/1587.m3u8
-#EXTINF:-1,(CA) W
-http://31.220.2.50:25461/live/Free200/Free200/1591.m3u8
-#EXTINF:-1,(CA) Yes
-http://31.220.2.50:25461/live/Free200/Free200/1592.m3u8
-#EXTINF:-1,(CA) YTV
-http://31.220.2.50:25461/live/Free200/Free200/1593.m3u8
 
 
 
@@ -4199,9 +4212,128 @@ http://173.212.206.199:25461/live/ksa/indep/837.ts|refferer=http://solidstreamz.
 
 
 
+#EXTINF:8 group-title=”Italy3-PREMIUM”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,Premium Sport HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5089.ts
+#EXTINF:-1,Fox Crime HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5090.ts
+#EXTINF:-1,FOX HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5091.ts
+#EXTINF:-1,Premium Calcio 1*
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5092.ts
+#EXTINF:-1,Premium Calcio 2*
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5093.ts
+#EXTINF:-1,Premium Calcio 3*
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5094.ts
+#EXTINF:-1,Premium Calcio 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5095.ts
+#EXTINF:-1,Premium Calcio 5*
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5096.ts
+#EXTINF:-1,Premium Cinema
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5097.ts
+#EXTINF:-1,Premium Cinema 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5098.ts
+#EXTINF:-1,Premium Cinema Energy
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5099.ts
+#EXTINF:-1,Premium Crime
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5100.ts
+#EXTINF:-1,Sky Cinema  1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5101.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5102.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5103.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5104.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5105.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5106.ts
+#EXTINF:-1,SKY CINEMA24 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5107.ts
+#EXTINF:-1,Sky Moto GP HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5108.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5109.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5110.ts
+#EXTINF:-1,Sky Sport1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5111.ts
+#EXTINF:-1,Sky Sport2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5112.ts
+#EXTINF:-1,Sky Sport3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5113.ts
+#EXTINF:-1,Discovery HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5114.ts
+#EXTINF:-1,Discovery Science HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5115.ts
+#EXTINF:-1,Discovery Travel&Living HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5116.ts
+#EXTINF:-1,FOX Sport HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5117.ts
+#EXTINF:-1,Inter Channel
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5118.ts
+#EXTINF:-1,Juventus TV
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5119.ts
+#EXTINF:-1,Milan Channel
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5120.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5121.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5122.ts
+#EXTINF:-1,Pesca e Caccia
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5123.ts
+#EXTINF:-1,Premium Action
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5124.ts
+#EXTINF:-1,Premium Calcio
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5125.ts
+#EXTINF:-1,Premium Comedy
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5126.ts
+#EXTINF:-1,Premium Sport 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5127.ts
+#EXTINF:-1,Sky Calcio 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5128.ts
+#EXTINF:-1,Sky Calcio 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5129.ts
+#EXTINF:-1,Sky Calcio 3
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5130.ts
+#EXTINF:-1,Sky Calcio 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5131.ts
+#EXTINF:-1,Sky Calcio 5
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5132.ts
+#EXTINF:-1,Sky Calcio 6
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5133.ts
+#EXTINF:-1,Sky Calcio 7
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5134.ts
+#EXTINF:-1,Sky Fox Comedy HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5135.ts
+#EXTINF:-1,SKY TG 24
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5136.ts
+#EXTINF:-1,Supercalcio HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5137.ts
+#EXTINF:-1,Discovery Focus
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5138.ts
 
 
 
@@ -4920,6 +5052,134 @@ http://173.212.206.199:25461/live/ksa/indep/862.ts|refferer=http://solidstreamz.
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”France4-PREMIUM”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,TF1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5183.ts
+#EXTINF:-1,France 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5174.ts
+#EXTINF:-1,France 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5175.ts
+#EXTINF:-1,France 5 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5176.ts
+#EXTINF:-1,Canal  HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5149.ts
+#EXTINF:-1,Canal  Cinema HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5147.ts
+#EXTINF:-1,Canal   Decale
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5146.ts
+#EXTINF:-1,Canal  Family HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5148.ts
+#EXTINF:-1,Canal  Serie HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5150.ts
+#EXTINF:-1,6TER
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5140.ts
+#EXTINF:-1,BOING
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5144.ts
+#EXTINF:-1,BOOMERANG
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5145.ts
+#EXTINF:-1,Canal J
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5152.ts
+#EXTINF:-1,Cartoon Network
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5153.ts
+#EXTINF:-1,Cherie25 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5154.ts
+#EXTINF:-1,Cine Cassic HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5155.ts
+#EXTINF:-1,Cine Emotion
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5156.ts
+#EXTINF:-1,Cine Famiz
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5157.ts
+#EXTINF:-1,Cine Frisson HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5158.ts
+#EXTINF:-1,Cine FX
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5159.ts
+#EXTINF:-1,Cine Polar
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5160.ts
+#EXTINF:-1,Cine Premier HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5161.ts
+#EXTINF:-1,Comedie HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5162.ts
+#EXTINF:-1,Canal  Sport HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5151.ts
+#EXTINF:-1,BeinSport 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5141.ts
+#EXTINF:-1,BeinSport 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5142.ts
+#EXTINF:-1,BeinSport 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5143.ts
+#EXTINF:-1,EuroSport 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5172.ts
+#EXTINF:-1,EuroSport 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5173.ts
+#EXTINF:-1,Discovery HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5163.ts
+#EXTINF:-1,Discovery Science HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5164.ts
+#EXTINF:-1,Disney Channel
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5165.ts
+#EXTINF:-1,Disney Channel  1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5166.ts
+#EXTINF:-1,Disney Cinema
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5167.ts
+#EXTINF:-1,Disney Junior
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5168.ts
+#EXTINF:-1,Disney Xd HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5169.ts
+#EXTINF:-1,E Entertainment
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5170.ts
+#EXTINF:-1,Euronews
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5171.ts
+#EXTINF:-1,HD1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5177.ts
+#EXTINF:-1,M6
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5178.ts
+#EXTINF:-1,NRJ 12
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5179.ts
+#EXTINF:-1,NT1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5180.ts
+#EXTINF:-1,PIWI
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5181.ts
+#EXTINF:-1,RTL 9
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5182.ts
+#EXTINF:-1,TIJI
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5184.ts
+#EXTINF:-1,TMC
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5185.ts
+#EXTINF:-1,TV BREIZH
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5186.ts
+#EXTINF:-1,W9
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5187.ts
+#EXTINF:-1,ZOUZOUS
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5188.ts
 
 
 
@@ -5766,6 +6026,145 @@ http://173.212.206.199:25461/live/ksa/indep/857.ts|refferer=http://solidstreamz.
 
 
 
+#EXTINF:8 group-title=”Germany4-PREMIUM”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,SKY BUNDESLIGA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5040.ts
+#EXTINF:-1,DISNEY CINEMAGIC
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5059.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5060.ts
+#EXTINF:-1,DISNEY XD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5061.ts
+#EXTINF:-1,KABEL 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5062.ts
+#EXTINF:-1,KIKA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5063.ts
+#EXTINF:-1,KINOWELT
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5064.ts
+#EXTINF:-1,NATIONAL GEO WILD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5065.ts
+#EXTINF:-1,NICK HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5066.ts
+#EXTINF:-1,PRO 7
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5067.ts
+#EXTINF:-1,PROSIEBEN FUN
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5068.ts
+#EXTINF:-1,RTL CRIME
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5069.ts
+#EXTINF:-1,RTL LIVING
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5070.ts
+#EXTINF:-1,RTL NITRO
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5071.ts
+#EXTINF:-1,SAT 1 GOLD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5072.ts
+#EXTINF:-1,SAT1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5073.ts
+#EXTINF:-1,SIXX
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5074.ts
+#EXTINF:-1,SKY ACTION
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5075.ts
+#EXTINF:-1,SKY CINEMA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5076.ts
+#EXTINF:-1,SKY CINEMA 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5077.ts
+#EXTINF:-1,SKY KIRIMI
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5078.ts
+#EXTINF:-1,SKY SPORT 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5079.ts
+#EXTINF:-1,SKY SPORT 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5080.ts
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5081.ts
+#EXTINF:-1,SKY-SELECT1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5082.ts
+#EXTINF:-1,SPORT 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5083.ts
+#EXTINF:-1,SUPER_RTL_HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5084.ts
+#EXTINF:-1,SYFY
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5085.ts
+#EXTINF:-1,TNT Comedy
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5086.ts
+#EXTINF:-1,TNT FILME
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5087.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5041.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5042.ts
+#EXTINF:-1,FOX HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5043.ts
+#EXTINF:-1,HEIMATKANAL
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5044.ts
+#EXTINF:-1,HISTORY HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5045.ts
+#EXTINF:-1,PRO 7 MAXX
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5046.ts
+#EXTINF:-1,RTL PASSION
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5047.ts
+#EXTINF:-1,RTL HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5048.ts
+#EXTINF:-1,SKY ATLANTICHD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5049.ts
+#EXTINF:-1,SKY COMEDY
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5050.ts
+#EXTINF:-1,SKY EMOTION
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5051.ts
+#EXTINF:-1,SKY-13STREET
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5052.ts
+#EXTINF:-1,SKY-SELECT2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5053.ts
+#EXTINF:-1,SKY-SELECT3
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5054.ts
+#EXTINF:-1,SKY-SELECT4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5055.ts
+#EXTINF:-1,SKY-SELECT5
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5056.ts
+#EXTINF:-1,VOX HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5057.ts
+#EXTINF:-1,AXN
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5058.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6379,6 +6778,150 @@ http://173.212.206.199:25461/live/ksa/indep/462.ts|refferer=http://solidstreamz.
 http://173.212.206.199:25461/live/ksa/indep/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Spain2-Premium”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,MOVISTAR F1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5036.ts
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5037.ts
+#EXTINF:-1,movistar Futbol
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5038.ts
+#EXTINF:-1,MOVISTAR MOTOGP
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4985.ts
+#EXTINF:-1,A&E
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4986.ts
+#EXTINF:-1,AMC
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4987.ts
+#EXTINF:-1,AXN HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4988.ts
+#EXTINF:-1,BARCA TV
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4989.ts
+#EXTINF:-1,Bein Liga HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4990.ts
+#EXTINF:-1,Bein Sport HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4991.ts
+#EXTINF:-1,Boing
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4992.ts
+#EXTINF:-1,Canal  ESTRENOS HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4993.ts
+#EXTINF:-1,CANAL COCINA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4994.ts
+#EXTINF:-1,Canal DCINE HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4995.ts
+#EXTINF:-1,Canal De Las Estrellas
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4996.ts
+#EXTINF:-1,CANAL DECASA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4997.ts
+#EXTINF:-1,Canal SERIES HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4998.ts
+#EXTINF:-1,Caza y pesca
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/4999.ts
+#EXTINF:-1,Clan Tve
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5000.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5001.ts
+#EXTINF:-1,Crimen Investigation
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5002.ts
+#EXTINF:-1,DISCOVERY
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5003.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5004.ts
+#EXTINF:-1,DISNEY XD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5005.ts
+#EXTINF:-1,FOX HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5006.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5007.ts
+#EXTINF:-1,LA 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5008.ts
+#EXTINF:-1,MEGA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5009.ts
+#EXTINF:-1,MTV ESPANA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5010.ts
+#EXTINF:-1,Nonstop People
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5011.ts
+#EXTINF:-1,ODISEA HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5012.ts
+#EXTINF:-1,Paramount
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5013.ts
+#EXTINF:-1,SYFY
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5014.ts
+#EXTINF:-1,ANTENA 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5015.ts
+#EXTINF:-1,AXN WHITE HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5016.ts
+#EXTINF:-1,CANAL  ACTION HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5017.ts
+#EXTINF:-1,Canal  COMEDIA HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5018.ts
+#EXTINF:-1,Canal  DEPORTES 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5019.ts
+#EXTINF:-1,Canal  FUTBOL HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5020.ts
+#EXTINF:-1,Canal  LIGA 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5021.ts
+#EXTINF:-1,Canal  LIGA HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5022.ts
+#EXTINF:-1,Canal  SERIES XTRA HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5023.ts
+#EXTINF:-1,Canal  TOROS HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5024.ts
+#EXTINF:-1,CUATRO HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5025.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5026.ts
+#EXTINF:-1,FOX LIFE HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5027.ts
+#EXTINF:-1,HISTORIA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5028.ts
+#EXTINF:-1,LA 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5029.ts
+#EXTINF:-1,LA SEXTA HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5030.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5031.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5032.ts
+#EXTINF:-1,NICK Jr
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5033.ts
+#EXTINF:-1,TCM HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5034.ts
 
 
 
@@ -10814,6 +11357,270 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
+#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,Watania TN1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5297.ts
+#EXTINF:-1,Watania TN2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5298.ts
+#EXTINF:-1,NESSMA
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5241.ts
+#EXTINF:-1,Al Hiwar Attounsi
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5289.ts
+#EXTINF:-1,Attessia
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5293.ts
+#EXTINF:-1,Abu Dhabi Sports 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5200.ts
+#EXTINF:-1,AD Sports 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5201.ts
+#EXTINF:-1,AD Sports 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5202.ts
+#EXTINF:-1,BEIN MOVIES 1HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5203.ts
+#EXTINF:-1,MBC 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5219.ts
+#EXTINF:-1,MBC 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5204.ts
+#EXTINF:-1,MBC 4 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5218.ts
+#EXTINF:-1,MBC Action
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5205.ts
+#EXTINF:-1,MBC MAX
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5253.ts
+#EXTINF:-1,MBC Pro Sports 1HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5206.ts
+#EXTINF:-1,MBC Pro Sports 2HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5207.ts
+#EXTINF:-1,MBC Pro Sports 3HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5208.ts
+#EXTINF:-1,OSN Action
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5254.ts
+#EXTINF:-1,OSN Action 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5255.ts
+#EXTINF:-1,OSN Alkass Sport 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5209.ts
+#EXTINF:-1,OSN Alkass Sport 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5210.ts
+#EXTINF:-1,OSN Alkass Sport 3
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5211.ts
+#EXTINF:-1,OSN Alkass Sport 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5212.ts
+#EXTINF:-1,OSN Alkass Sport 5
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5213.ts
+#EXTINF:-1,OSN B4U Aflam
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5256.ts
+#EXTINF:-1,OSN Box Office 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5257.ts
+#EXTINF:-1,OSN BOXOFFICE 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5258.ts
+#EXTINF:-1,OSN Cinema 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5259.ts
+#EXTINF:-1,OSN Disney Channel HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5260.ts
+#EXTINF:-1,OSN E!
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5261.ts
+#EXTINF:-1,OSN First Comedy
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5262.ts
+#EXTINF:-1,OSN First HBO
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5263.ts
+#EXTINF:-1,OSN Fox News HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5264.ts
+#EXTINF:-1,OSN France 24
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5265.ts
+#EXTINF:-1,OSN MBC Drama
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5266.ts
+#EXTINF:-1,OSN MBC Plus Drama
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5267.ts
+#EXTINF:-1,OSN Mousalsalat
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5268.ts
+#EXTINF:-1,OSN Movies 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5269.ts
+#EXTINF:-1,OSN Movies Action  2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5270.ts
+#EXTINF:-1,OSN Movies Festival
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5271.ts
+#EXTINF:-1,OSN Movies Kids
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5272.ts
+#EXTINF:-1,OSN Movies Premiere 2HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5273.ts
+#EXTINF:-1,OSN Nat Geo HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5274.ts
+#EXTINF:-1,OSN ON DEMAND 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5275.ts
+#EXTINF:-1,OSN ON DEMAND 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5276.ts
+#EXTINF:-1,OSN ON DEMAND 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5277.ts
+#EXTINF:-1,OSN On Demand Extra 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5278.ts
+#EXTINF:-1,OSN ON DEMAND EXTRA 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5279.ts
+#EXTINF:-1,OSN OSN Yahala Drama HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5280.ts
+#EXTINF:-1,OSN Star Movies HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5281.ts
+#EXTINF:-1,OSN SyFy HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5282.ts
+#EXTINF:-1,OSN Travel Channel HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5283.ts
+#EXTINF:-1,SeeVii Drama HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5284.ts
+#EXTINF:-1,SeeVii Shamiya HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5285.ts
+#EXTINF:-1,ZEE AFLAM
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5214.ts
+#EXTINF:-1,Zee Alwan
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5215.ts
+#EXTINF:-1,beIN Sports 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5242.ts
+#EXTINF:-1,beIN Sports 10 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5243.ts
+#EXTINF:-1,beIN Sports 11 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5244.ts
+#EXTINF:-1,beIN Sports 12 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5245.ts
+#EXTINF:-1,beIN Sports 2 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5246.ts
+#EXTINF:-1,beIN Sports 3 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5247.ts
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5286.ts
+#EXTINF:-1,beIN Sports 5 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5248.ts
+#EXTINF:-1,beIN Sports 6 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5249.ts
+#EXTINF:-1,beIN Sports 7 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5250.ts
+#EXTINF:-1,beIN Sports 8 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5251.ts
+#EXTINF:-1,beIN Sports 9 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5252.ts
+#EXTINF:-1,2M MARROC
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5216.ts
+#EXTINF:-1,AFAK
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5287.ts
+#EXTINF:-1,AL ANBAR
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5288.ts
+#EXTINF:-1,AL BASRA TV
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5217.ts
+#EXTINF:-1,Aljazeera
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5290.ts
+#EXTINF:-1,Art Aflem1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5291.ts
+#EXTINF:-1,Art Aflem2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5292.ts
+#EXTINF:-1,MBC 1 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5220.ts
+#EXTINF:-1,MBC Action HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5221.ts
+#EXTINF:-1,MBC Drama
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5294.ts
+#EXTINF:-1,MBC Drama HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5222.ts
+#EXTINF:-1,MBC Masr
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5223.ts
+#EXTINF:-1,MBC Max HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5224.ts
+#EXTINF:-1,MBC PRO SPORTS 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5225.ts
+#EXTINF:-1,MBC Variety HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5226.ts
+#EXTINF:-1,Medi 1 Sat
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5227.ts
+#EXTINF:-1,NationalGeo AD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5228.ts
+#EXTINF:-1,Rotana Aflam HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5229.ts
+#EXTINF:-1,Rotana Aflem
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5295.ts
+#EXTINF:-1,Rotana Cinema
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5296.ts
+#EXTINF:-1,Rotana Cinema HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5230.ts
+#EXTINF:-1,Rotana Classic HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5231.ts
+#EXTINF:-1,Rotana Khalijiah HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5232.ts
+#EXTINF:-1,Rotana Masriah HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5233.ts
+#EXTINF:-1,VIP Bein Baraem
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5234.ts
+#EXTINF:-1,VIP Bein Fatafeat HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5235.ts
+#EXTINF:-1,VIP Bein Jeem HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5236.ts
+#EXTINF:-1,VIP BeIN Movies 1HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5240.ts
+#EXTINF:-1,VIP BeIN Movies 2HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5239.ts
+#EXTINF:-1,VIP BeIN Movies 3HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5238.ts
+#EXTINF:-1,VIP BeIN Movies 4HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5237.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) 10 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5190.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) 8 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5192.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) 9 HD
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5191.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 1
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5199.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 2
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5198.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 3
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5197.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 4
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5196.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 5
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5195.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 6
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5194.ts
+#EXTINF:-1,VIP BEIN SPORT (Backup2) HD 7
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5193.ts
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5035.ts
+#EXTINF:-1,JAWHRA FM
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5306.ts
+#EXTINF:-1,JAWHRA FM LIVE
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5307.ts
+#EXTINF:-1,mosaique fm live
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5305.ts
+#EXTINF:-1,shems fm
+http://ounirio.no-ip.org:25461/live/Tunisia-sat/Ounirii/5304.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10834,279 +11641,6 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 #EXTINF:10 group-title=”SERBIA”,
-
-#EXTINF:1 tvg-logo=http://www.crwflags.com/fotw/images/r/rs-st1.gif ,==Serbia==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:0,24 Kitchen 
-http://smarttv.tvviet.tv/live102/24Kitchen.m3u8 
-#EXTINF:0,Al Jazeera Balkans 
-http://smarttv.tvviet.tv/live112/AlJazeeraBalkans.m3u8 
-#EXTINF:0,Animal Planet 
-http://smarttv.tvviet.tv/live102/AnimalPlanet.m3u8 
-#EXTINF:0,AXN 
-http://smarttv.tvviet.tv/live22/AXN.m3u8 
-#EXTINF:0,B92 
-http://smarttv.tvviet.tv/live62/B92.m3u8 
-#EXTINF:0,BHT 
-http://smarttv.tvviet.tv/live62/BHT.m3u8 
-#EXTINF:0,BN SAT 
-http://smarttv.tvviet.tv/live82/bnsat.m3u8 
-#EXTINF:0,Cartoon Network 
-http://smarttv.tvviet.tv/live102/CartoonNetwork.m3u8 
-#EXTINF:0,CBS Drama 
-http://smarttv.tvviet.tv/live92/CBSDrama.m3u8 
-#EXTINF:0,CBS Reality 
-http://smarttv.tvviet.tv/live102/CBSReality.m3u8 
-#EXTINF:0,CC Extra 
-http://smarttv.tvviet.tv/live62/CCExtra.m3u8 
-#EXTINF:0,Cinemania 
-http://smarttv.tvviet.tv/live82/Cinemania.m3u8 
-#EXTINF:0,Cinestar Premiere1 
-http://smarttv.tvviet.tv/live52/CinestarPremiere1.m3u8 
-#EXTINF:0,Cinestar Premiere2 
-http://smarttv.tvviet.tv/live52/CinestarPremiere2.m3u8 
-#EXTINF:0,Cinestar Fantasy 
-http://smarttv.tvviet.tv/live102/CinestarFantasy.m3u8 
-#EXTINF:0,CMC 
-http://smarttv.tvviet.tv/live102/CMC.m3u8 
-#EXTINF:0,DM Sat 
-http://smarttv.tvviet.tv/live62/DMSat.m3u8 
-#EXTINF:0,Doma TV 
-http://smarttv.tvviet.tv/live112/DomaTV.m3u8 
-#EXTINF:0,Face TV 
-http://smarttv.tvviet.tv/live112/FaceTV.m3u8112/Fa 
-#EXTINF:0,Fight Channel 
-http://smarttv.tvviet.tv/live102/FightChannel.m3u8 
-#EXTINF:0,Fox 
-http://smarttv.tvviet.tv/live92/Fox.m3u8 
-#EXTINF:0,Fox Crime 
-http://smarttv.tvviet.tv/live112/FoxCrime.m3u8 
-#EXTINF:0,Fox Life 
-http://smarttv.tvviet.tv/live112/FoxLife.m3u8 
-#EXTINF:0,Fox Movies 
-http://smarttv.tvviet.tv/live82/FoxMovies.m3u8 
-#EXTINF:0,FTV 
-http://smarttv.tvviet.tv/live62/FTV.m3u8 
-#EXTINF:0,Grand TV 
-http://smarttv.tvviet.tv/livendTV.m3u8 
-#EXTINF:0,Grand 2 
-http://smarttv.tvviet.tv/live42/Grand2.m3u8 
-#EXTINF:0,Happy Tv 
-http://smarttv.tvviet.tv/live102/HappyTV.m3u8 
-#EXTINF:0,Hayat 
-http://smarttv.tvviet.tv/live102/hayat.m3u8 
-#EXTINF:0,Hayatovci 
-http://smarttv.tvviet.tv/live52/Hayatovci.m3u8 
-#EXTINF:0,HBO Adria 
-http://smarttv.tvviet.tv/live22/HBOAdria.m3u8 
-#EXTINF:0,HBO Comedy 
-http://smarttv.tvviet.tv/live12/HBOComedy.m3u8 
-#EXTINF:0,HBO 3 
-http://smarttv.tvviet.tv/live22/HBO3.m3u82 
-#EXTINF:0,History 
-http://smarttv.tvviet.tv/live92/History.m3u8 
-#EXTINF:0,History 2 
-http://smarttv.tvviet.tv/live102/History2.m3u8 
-#EXTINF:0,HRT 1 
-http://smarttv.tvviet.tv/live1.m3u8 
-#EXTINF:0,HRT 2 
-http://smarttv.tvviet.tv/live12/HRT2.m3u8 
-#EXTINF:0,HRT 3 
-http://smarttv.tvviet.tv/live62/HRT3.m3u8 
-#EXTINF:0,HRT 4 
-http://smarttv.tvviet.tv/live4.m3u8 
-#EXTINF:0,Investigation 
-http://smarttv.tvviet.tv/live72/Investigation.m3u8 
-#EXTINF:0,Klasik TV 
-http://smarttv.tvviet.tv/live102/KlasikTV.m3u8 
-#EXTINF:0,Minimax 
-http://smarttv.tvviet.tv/live62/Minimax.m3u8 
-#EXTINF:0,MTV Dance 
-http://smarttv.tvviet.tv/live82/MTVDance.m3u8 
-#EXTINF:0,MTV Hits 
-http://smarttv.tvviet.tv/live72/MTVHits.m3u8 
-#EXTINF:0,Nat Geo 
-http://smarttv.tvviet.tv/live82/NatGeo.m3u8 
-#EXTINF:0,Nat Geo Wild 
-http://smarttv.tvviet.tv/live82/NatGeoWild.m3u8 
-#EXTINF:0,Nickelodeon 
-http://smarttv.tvviet.tv/live22/Nickelodeon.m3u8 
-#EXTINF:0,Nova RS HD 
-http://smarttv.tvviet.tv/live12/NOVArsHD.m3u8 
-#EXTINF:0,Nova TV 
-http://smarttv.tvviet.tv/live22/NovaTV.m3u8 
-#EXTINF:0,OBN 
-http://smarttv.tvviet.tv/live22/obn.m3u8 
-#EXTINF:0,Pink 
-http://smarttv.tvviet.tv/livek.m3u8 
-#EXTINF:0,Pink 2 
-http://smarttv.tvviet.tv/live62/Pink2.m3u8 
-#EXTINF:0,Pink BH 
-http://smarttv.tvviet.tv/live72/PinkBH.m3u8 
-#EXTINF:0,Pink Crime And Mistery 
-http://smarttv.tvviet.tv/live72/PinkCrimeMystery.m3u8 
-#EXTINF:0,Pink Film 
-http://smarttv.tvviet.tv/live72/PinkFilm.m3u8 
-#EXTINF:0,Pink Folk 
-http://smarttv.tvviet.tv/live72/PinkFolk.m3u8 
-#EXTINF:0,Pink Premium 
-http://smarttv.tvviet.tv/live112/PinkPremium.m3u8 
-#EXTINF:0,Pink SciFi And Fantasy 
-http://smarttv.tvviet.tv/live102/PinkSciFiFantasy.m3u8 
-#EXTINF:0,Prva 
-http://smarttv.tvviet.tv/live72/PRVA.m3u8 
-#EXTINF:0,Prva Plus 
-http://smarttv.tvviet.tv/live62/PrvaPlus.m3u8 
-#EXTINF:0,RTL 
-http://smarttv.tvviet.tv/live42/RTL.m3u8 
-#EXTINF:0,RTL 2 
-http://smarttv.tvviet.tv/live62/RTL2.m3u8 
-#EXTINF:0,RTL Kockica 
-http://smarttv.tvviet.tv/live72/RTLKockica.m3u8 
-#EXTINF:0,RTRS 
-http://smarttv.tvviet.tv/live82/RTRS.m3u8 
-#EXTINF:0,RTS 1 
-http://smarttv.tvviet.tv/live72/RTS1.m3u8 
-#EXTINF:0,RTS 2 
-http://smarttv.tvviet.tv/live92/RTS2.m3u8 
-#EXTINF:0,RTS HD 
-http://smarttv.tvviet.tv/live12/RTSHD.m3u8 
-#EXTINF:0,TLC 
-http://smarttv.tvviet.tv/live62/TLC.m3u8 
-#EXTINF:0,Ultra 
-http://smarttv.tvviet.tv/live92/Ultra.m3u8 
-#EXTINF:0,Ultra Mini 
-http://smarttv.tvviet.tv/live92/UltraMini.m3u8 
-#EXTINF:0,Discovery 
-http://smarttv.tvviet.tv/live112/ViasatExplorer.m3u8 
-#EXTINF:0,Cinemax1 
-http://smarttv.tvviet.tv/liveemax1.m3u8 
-#EXTINF:0,Cinemax2 
-http://smarttv.tvviet.tv/liveemax2.m3u8 
-#EXTINF:0,SK4 
-http://smarttv.tvviet.tv/live82/SK4.m3u8 
-#EXTINF:0,SK5 
-http://smarttv.tvviet.tv/live82/SK5.m3u8 
-#EXTINF:0,SK6 
-http://smarttv.tvviet.tv/live82/SK6.m3u8 
-#EXTINF:0,DiscoveryWorld 
-http://smarttv.tvviet.tv/live112/DWorld.m3u8 
-#EXTINF:0,DiscoveryScience 
-http://smarttv.tvviet.tv/live112/DScience.m3u8 
-#EXTINF:0,ViasatHistory 
-http://smarttv.tvviet.tv/live112/ViasatHistory.m3u8 
-#EXTINF:0,ViasatNature 
-http://smarttv.tvviet.tv/live112/ViasatNature.m3u8 
-#EXTINF:0,Baby TV 
-http://smarttv.tvviet.tv/live42/BabyTV.m3u8 
-#EXTINF:0,Disney Channel 
-http://smarttv.tvviet.tv/live52/Disney.m3u8 
-#EXTINF:0,Crime&Investigation 
-http://smarttv.tvviet.tv/live72/CrimeInvestigation.m3u8 
-#EXTINF:0,AXN Spin 
-http://smarttv.tvviet.tv/live92/AXNSpin.m3u8 
-#EXTINF:0,Lov i Ribolov 
-http://smarttv.tvviet.tv/live52/LovRibolov.m3u8 
-#EXTINF:0,SciFi 
-http://smarttv.tvviet.tv/live92/SciFi.m3u8
-#EXTINF:0,Sport Klub 1 HD 
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8 
-#EXTINF:0,Sport Klub 2 HD 
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8 
-#EXTINF:0,Sport Klub 3 HD 
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8 
-#EXTINF:0,Sport Klub HD 
-http://smarttv.tvviet.tv/live52/SKHD.m3u8 
-#EXTINF:0,Sky Bundesliga 
-http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8 
-#EXTINF:0,Sky Sport 1 
-http://smarttv.tvviet.tv/live22/skysport1.m3u8 
-#EXTINF:0,Sky Sport 2 
-http://smarttv.tvviet.tv/live22/skysport2.m3u8 
-#EXTINF:0,Eurosport 
-http://smarttv.tvviet.tv/live22/Eurosport.m3u8 
-#EXTINF:0,Eurosport 2 
-http://smarttv.tvviet.tv/live52/Eurosport2.m3u8 
-#EXTINF:0,Arena Sport 
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
-#EXTINF:0,Arena Sport 2 
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
-#EXTINF:0,Arena Sport 3 
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
-#EXTINF:0,Arena Sport 4 
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
-#EXTINF:0,Arena Sport 5 
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8 
-#EXTINF:0,Arena Sport 6 
-http://smarttv.tvviet.tv/live32/ArenaSport6.m3u8 
-#EXTINF:0,Arena Sport 1 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8 
-#EXTINF:0,Arena Sport 2 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8 
-#EXTINF:0,Arena Sport 3 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8 
-#EXTINF:0,Arena Sport 4 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8 
-#EXTINF:0,Arena Sport 5 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8
-#EXTINF:0,Sport Klub 1 HD 
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8 
-#EXTINF:0,Sport Klub 2 HD 
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8 
-#EXTINF:0,Sport Klub 3 HD 
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8 
-#EXTINF:0,Sport Klub HD 
-http://smarttv.tvviet.tv/live52/SKHD.m3u8 
-#EXTINF:0,Sky Bundesliga 
-http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8 
-#EXTINF:0,Sky Sport 1 
-http://smarttv.tvviet.tv/live22/skysport1.m3u8 
-#EXTINF:0,Sky Sport 2 
-http://smarttv.tvviet.tv/live22/skysport2.m3u8 
-#EXTINF:0,Eurosport 
-http://smarttv.tvviet.tv/live22/Eurosport.m3u8 
-#EXTINF:0,Eurosport 2 
-http://smarttv.tvviet.tv/live52/Eurosport2.m3u8 
-#EXTINF:0,Arena Sport 
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
-#EXTINF:0,Arena Sport 2 
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
-#EXTINF:0,Arena Sport 3 
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
-#EXTINF:0,Arena Sport 4 
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
-#EXTINF:0,Arena Sport 5 
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8 
-#EXTINF:0,Arena Sport 6 
-http://smarttv.tvviet.tv/live32/ArenaSport6.m3u8 
-#EXTINF:0,Arena Sport 1 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8 
-#EXTINF:0,Arena Sport 2 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8 
-#EXTINF:0,Arena Sport 3 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8 
-#EXTINF:0,Arena Sport 4 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8 
-#EXTINF:0,Arena Sport 5 HD 
-http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8
 
 
 
