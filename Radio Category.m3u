@@ -1,260 +1,49 @@
 #EXTM3U
 
- #EXTINF:1 group-title=”NOTE”,
+
+#EXTINF:1 group-title=”EXPIRED”,
 
 #EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version 5
 http://.....
 
-#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,will expire
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,expired.
 http://.....
 
-#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,29/10/17.
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Please
 http://.....
 
 #EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Upgrade to
 http://.....
 
-#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version 6
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version 6.
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Download
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,New Version
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,from 
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Google Play.
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,If you have
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,any troubles
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,running new
+http://.....
+
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Version Contact
 http://.....
 
 
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Radio LIST
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download Official
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Google Play
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
+#EXTINF:-1 https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,me to solve them.
+http://.....
 
 
-
-
-
-
-#EXTINF:1 group-title="Server1",
-
-#EXTINF:-1, 00’s Club Hits
-http://pub2.diforfree.org:8000/di_00sclubhits_hi
-#EXTINF:-1, Ambient
-http://pub2.diforfree.org:8000/di_ambient_hi
-#EXTINF:-1, Bass & Jackin’ House
-http://pub2.diforfree.org:8000/di_bassnjackinhouse_hi
-#EXTINF:-1, Bassline
-http://pub2.diforfree.org:8000/di_bassline_hi
-#EXTINF:-1, Big Beat
-http://pub2.diforfree.org:8000/di_bigbeat_hi
-#EXTINF:-1, Big Room House
-http://pub2.diforfree.org:8000/di_bigroomhouse_hi
-#EXTINF:-1, Breaks
-http://pub2.diforfree.org:8000/di_breaks_hi
-#EXTINF:-1, Chill & Tropical House
-http://pub2.diforfree.org:8000/di_chillntropicalhouse_hi
-#EXTINF:-1, ChillHop
-http://pub2.diforfree.org:8000/di_chillhop_hi
-#EXTINF:-1, Chillout
-http://pub2.diforfree.org:8000/di_chillout_hi
-#EXTINF:-1, Chillout Dreams
-http://pub2.diforfree.org:8000/di_chilloutdreams_hi
-#EXTINF:-1, Chillstep
-http://pub2.diforfree.org:8000/di_chillstep_hi
-#EXTINF:-1, Classic EuroDance
-http://pub2.diforfree.org:8000/di_classiceurodance_hi
-#EXTINF:-1, Classic EuroDisco
-http://pub2.diforfree.org:8000/di_classiceurodisco_hi
-#EXTINF:-1, Classic Trance
-http://pub2.diforfree.org:8000/di_classictrance_hi
-#EXTINF:-1, Classic Vocal Trance
-http://pub2.diforfree.org:8000/di_classicvocaltrance_hi
-#EXTINF:-1, Club Dubstep
-http://pub2.diforfree.org:8000/di_clubdubstep_hi
-#EXTINF:-1, Club Sounds
-http://pub2.diforfree.org:8000/di_club_hi
-#EXTINF:-1, Dark DnB
-http://pub2.diforfree.org:8000/di_darkdnb_hi
-#EXTINF:-1, Deep House
-http://pub2.diforfree.org:8000/di_deephouse_hi
-#EXTINF:-1, Deep Nu-Disco
-http://pub2.diforfree.org:8000/di_deepnudisco_hi
-#EXTINF:-1, Deep Tech
-http://pub2.diforfree.org:8000/di_deeptech_hi
-#EXTINF:-1, Disco House
-http://pub2.diforfree.org:8000/di_discohouse_hi
-#EXTINF:-1, DJ Mixes
-http://pub2.diforfree.org:8000/di_djmixes_hi
-#EXTINF:-1, Downtempo Lounge
-http://pub2.diforfree.org:8000/di_downtempolounge_hi
-#EXTINF:-1, Drum ‘n Bass
-http://pub2.diforfree.org:8000/di_drumandbass_hi
-#EXTINF:-1, Dub
-http://pub2.diforfree.org:8000/di_dub_hi
-#EXTINF:-1, Dub Techno
-http://pub2.diforfree.org:8000/di_dubtechno_hi
-#EXTINF:-1, Dubstep
-http://pub2.diforfree.org:8000/di_dubstep_hi
-#EXTINF:-1, EcLectronica
-http://pub2.diforfree.org:8000/di_eclectronica_hi
-#EXTINF:-1,Electro House
-http://pub2.diforfree.org:8000/di_electrohouse_hi
-#EXTINF:-1, Electro Swing
-http://pub2.diforfree.org:8000/di_electroswing_hi
-#EXTINF:-1, Electropop
-http://pub2.diforfree.org:8000/di_electropop_hi
-#EXTINF:-1, Epic Trance
-http://pub2.diforfree.org:8000/di_epictrance_hi
-#EXTINF:-1, EuroDance
-http://pub2.diforfree.org:8000/di_eurodance_hi
-#EXTINF:-1, Funky House
-http://pub2.diforfree.org:8000/di_funkyhouse_hi
-#EXTINF:-1, Future Garage
-http://pub2.diforfree.org:8000/di_futuregarage_hi
-#EXTINF:-1, Future Synthpop
-http://pub2.diforfree.org:8000/di_futuresynthpop_hi
-#EXTINF:-1, Gabber
-http://pub2.diforfree.org:8000/di_gabber_hi
-#EXTINF:-1, Goa-Psy Trance
-http://pub2.diforfree.org:8000/di_goapsy_hi
-#EXTINF:-1, Hands Up
-http://pub2.diforfree.org:8000/di_handsup_hi
-#EXTINF:-1, Hard Dance
-http://pub2.diforfree.org:8000/di_harddance_hi
-#EXTINF:-1, Hard Techno
-http://pub2.diforfree.org:8000/di_hardtechno_hi
-#EXTINF:-1, Hardcore
-http://pub2.diforfree.org:8000/di_hardcore_hi
-#EXTINF:-1, Hardstyle
-http://pub2.diforfree.org:8000/di_hardstyle_hi
-#EXTINF:-1, House
-http://pub2.diforfree.org:8000/di_house_hi
-#EXTINF:-1, Indie Dance
-http://pub2.diforfree.org:8000/di_indiedance_hi
-#EXTINF:-1, Jazz House
-http://pub2.diforfree.org:8000/di_jazzhouse_hi
-#EXTINF:-1, Jungle
-http://pub2.diforfree.org:8000/di_jungle_hi
-#EXTINF:-1, Latin House
-http://pub2.diforfree.org:8000/di_latinhouse_hi
-#EXTINF:-1, Liquid DnB
-http://pub2.diforfree.org:8000/di_liquiddnb_hi
-#EXTINF:-1, Liquid Dubstep
-http://pub2.diforfree.org:8000/di_liquiddubstep_hi
-#EXTINF:-1, Liquid Trap
-http://pub2.diforfree.org:8000/di_liquidtrap_hi
-#EXTINF:-1, Lounge
-http://pub2.diforfree.org:8000/di_lounge_hi
-#EXTINF:-1, Mainstage
-http://pub2.diforfree.org:8000/di_mainstage_hi
-#EXTINF:-1, Melodic Progressive
-http://pub2.diforfree.org:8000/di_melodicprogressive_hi
-#EXTINF:-1, Minimal
-http://pub2.diforfree.org:8000/di_minimal_hi
-#EXTINF:-1, Nightcore
-http://pub2.diforfree.org:8000/di_nightcore_hi
-#EXTINF:-1, Nu Disco
-http://pub2.diforfree.org:8000/di_nudisco_hi
-#EXTINF:-1, Oldschool Acid
-http://pub2.diforfree.org:8000/di_oldschoolacid_hi
-#EXTINF:-1, Oldschool House
-http://pub2.diforfree.org:8000/di_oldschoolhouse_hi
-#EXTINF:-1, Oldschool Rave
-http://pub2.diforfree.org:8000/di_oldschoolrave_hi
-#EXTINF:-1, Oldschool Techno & Trance
-http://pub2.diforfree.org:8000/di_classicelectronica_hi
-#EXTINF:-1, Progressive
-http://pub2.diforfree.org:8000/di_progressive_hi
-#EXTINF:-1, Progressive Psy
-http://pub2.diforfree.org:8000/di_progressivepsy_hi
-#EXTINF:-1, Psybient
-http://pub2.diforfree.org:8000/di_psybient_hi
-#EXTINF:-1, PsyChill
-http://pub2.diforfree.org:8000/di_psychill_hi
-#EXTINF:-1, Russian Club Hits
-http://pub2.diforfree.org:8000/di_russianclubhits_hi
-#EXTINF:-1, Soulful House
-http://pub2.diforfree.org:8000/di_soulfulhouse_hi
-#EXTINF:-1, Space Dreams
-http://pub2.diforfree.org:8000/di_spacemusic_hi
-#EXTINF:-1, Tech House
-http://pub2.diforfree.org:8000/di_techhouse_hi
-#EXTINF:-1, Techno
-http://pub2.diforfree.org:8000/di_techno_hi
-#EXTINF:-1, Trance
-http://pub2.diforfree.org:8000/di_trance_hi
-#EXTINF:-1, Trap
-http://pub2.diforfree.org:8000/di_trap_hi
-#EXTINF:-1, Tribal House
-http://pub2.diforfree.org:8000/di_tribalhouse_hi
-#EXTINF:-1, UMF Radio
-http://pub2.diforfree.org:8000/di_umfradio_hi
-#EXTINF:-1, Underground Techno
-http://pub2.diforfree.org:8000/di_undergroundtechno_hi
-#EXTINF:-1, Vocal Chillout
-http://pub2.diforfree.org:8000/di_vocalchillout_hi
-#EXTINF:-1, Vocal Lounge
-http://pub2.diforfree.org:8000/di_vocallounge_hi
-#EXTINF:-1, Vocal Trance
-http://pub2.diforfree.org:8000/di_vocaltrance_hi'
-
-
-
-
-
-#EXTINF:2 group-title="Server2",
-
-#EXTINF:-1,ROUGE METAL
-http://rouge-metal.ice.infomaniak.ch/rouge-metal-64.aac
-#EXTINF:-1,ROUGE FM RADIO
-http://rougefm.ice.infomaniak.ch/rougefm-high.aac
-#EXTINF:-1,ROUGE LATINO RADIO
-http://rouge-latino.ice.infomaniak.ch/rouge-latino-64.aac
-#EXTINF:-1,ROUGE 70s RADIO
-http://rouge-70s.ice.infomaniak.ch/rouge-70s-64.aac
-#EXTINF:-1,ROUGE 80s RADIO
-http://rouge-80s.ice.infomaniak.ch/rouge-80s-64.aac
-#EXTINF:-1,ROUGE 90s RADIO
-http://rouge-90.ice.infomaniak.ch/rouge-90-64.aac
-#EXTINF:-1,ROUGE IN LOVE
-http://rouge-inlove.ice.infomaniak.ch/rouge-inlove-64.aac
-#EXTINF:-1,ROUGE SOUNDTRACK
-http://rouge-soundtrack.ice.infomaniak.ch/rouge-soundtrack-64.aac
-#EXTINF:-1,ROUGE ROCK
-http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.aac
-#EXTINF:-1,ROUGE PLATINE
-http://rougeplatine.ice.infomaniak.ch/rougeplatine-high.aac
-#EXTINF:-1,ROUGE HOT 100
-http://rouge-hot100.ice.infomaniak.ch/rouge-hot100-64.aac
-#EXTINF:-1,ROUGE DANCE
-http://rouge-dance.ice.infomaniak.ch/rouge-dance-64.aac
-#EXTINF:-1,ROUGE R´N´B
-http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-64.aac
-#EXTINF:-1,ROUGE ROCK ALTERNATIVE
-http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-64.aac
-#EXTINF:-1,ROUGE LOUNGE
-http://rouge-lounge.ice.infomaniak.ch/rouge-lounge-64.aac
-#EXTINF:-1,ROUGE DISCO
-http://rouge-disco.ice.infomaniak.ch/rouge-disco-64.aac
-#EXTINF:-1,ROUGE HIP-HOP
-http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-64.aac
-#EXTINF:-1,ROUGE REGGAE
-http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-64.aac
-#EXTINF:-1,ROUGE METAL
-http://rouge-metal.ice.infomaniak.ch/rouge-metal-64.aac
-#EXTINF:-1,ROUGE BPM
-http://rouge-bpm.ice.infomaniak.ch/rouge-bpm-64.aac
-#EXTINF:-1,ROUGE MADE IN FRANCE
-http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-64.aac
-#EXTINF:-1,ROUGE MADE IN ITALIA
-http://rouge-italia.ice.infomaniak.ch/rouge-italia-64.aac
