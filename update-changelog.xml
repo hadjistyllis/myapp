@@ -4,7 +4,11 @@
     <latestVersionCode>34</latestVersionCode>
     <url>http://edoctorcy.xyz/en/eDoctorIPTV</url>
   <releaseNotes>
-   1. SDK Updates
+Click "Download Update" to download updated apk.
+Changelog:
+- 1. SDK Updates.
+- 2. Check for internet connection prior app startup.
+- 3. New Update Dialog when new version available.
     </releaseNotes>
   </update>
 </AppUpdater>
